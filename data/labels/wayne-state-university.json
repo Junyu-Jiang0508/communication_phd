@@ -1,0 +1,1301 @@
+{
+ "slug": "wayne-state-university",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "Stine Eckert",
+   "summary": "Studies gender and intersectionality in journalism, public sphere and counterpublic theory, and online hate speech and harassment.",
+   "summary_zh": "研究新闻业中的性别与交叉性问题、公共领域与反公共领域理论，以及网络仇恨言论与骚扰。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "gender and media",
+    "feminist media studies",
+    "intersectionality",
+    "journalism studies",
+    "public sphere",
+    "counterpublics",
+    "online hate speech",
+    "online harassment"
+   ]
+  },
+  {
+   "name": "Michael Fuhlhage",
+   "summary": "Studies the cultural history of US journalism, from the antebellum and Civil War press to civil rights reporting, and news coverage of race, Latinos and immigration.",
+   "summary_zh": "研究美国新闻业的文化史，从内战前与内战时期的报刊到民权运动报道，并关注新闻对种族、拉丁裔与移民的报道。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "journalism history",
+    "cultural history",
+    "civil war press",
+    "open source intelligence",
+    "anti-slavery press",
+    "media and race",
+    "latinos and media",
+    "immigration coverage",
+    "conflict journalism"
+   ]
+  },
+  {
+   "name": "Rosie Jahng",
+   "summary": "Studies media effects, digital media, crisis public relations and science communication, including journalists' handling of fake news and scientific uncertainty, using computational methods.",
+   "summary_zh": "研究媒介效果、数字媒体、危机公关与科学传播，包括记者如何应对假新闻与科学不确定性，并采用计算研究方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "media effects",
+    "digital media",
+    "crisis communication",
+    "public relations",
+    "science communication",
+    "fake news",
+    "scientific uncertainty",
+    "online comments",
+    "computational methods"
+   ]
+  },
+  {
+   "name": "Loraleigh Keashly",
+   "summary": "Studies conflict, incivility and bullying in workplaces, especially academia, and how organizational structure and culture enable or prevent them.",
+   "summary_zh": "研究职场（尤其是学术界）中的冲突、不文明行为与霸凌，以及组织结构与文化如何助长或预防这些行为。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "workplace bullying",
+    "workplace aggression",
+    "incivility",
+    "conflict resolution",
+    "civility in academia",
+    "bystander intervention",
+    "work relationships",
+    "organizational culture"
+   ]
+  },
+  {
+   "name": "Katheryn Maguire",
+   "summary": "Studies how people use communication to maintain relationships and cope with stress, including long-distance relationships, computer-mediated interaction and work-family conflict.",
+   "summary_zh": "研究人们如何借助沟通维系关系、应对压力，包括异地恋、计算机中介互动与工作-家庭冲突。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "long distance relationships",
+    "relationship maintenance",
+    "family communication",
+    "stress and coping",
+    "work-family conflict",
+    "social presence",
+    "computer-mediated communication",
+    "dark side of interpersonal communication"
+   ]
+  },
+  {
+   "name": "Patricia McCormick",
+   "summary": "Studies telecommunications and space policy and the use of drones and satellites to monitor climate change, water scarcity and migration, focusing on MENA, the EU, Africa and the Caribbean.",
+   "summary_zh": "研究电信与太空政策，以及利用无人机和卫星监测气候变化、水资源短缺与移民，关注中东北非、欧盟、非洲与加勒比地区。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_MIDDLE_EAST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_EUROPE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_AFRICA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_LATIN_AMERICA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "telecommunications policy",
+    "satellites",
+    "drones",
+    "surveillance",
+    "climate change",
+    "water scarcity",
+    "human migration",
+    "international telecommunication union",
+    "space policy",
+    "orbital debris"
+   ]
+  },
+  {
+   "name": "Rahul Mitra",
+   "summary": "Studies organizing around environmental resources, corporate social responsibility and meaningful work using ethnography, interviews, focus groups and discourse analysis.",
+   "summary_zh": "研究环境资源组织、企业社会责任与有意义的工作，采用民族志、访谈、焦点小组与话语分析等方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "environmental organizing",
+    "water security",
+    "corporate social responsibility",
+    "sustainability",
+    "meaningful work",
+    "ethnography",
+    "research translation",
+    "discourse analysis",
+    "photo-elicitation"
+   ]
+  },
+  {
+   "name": "Anita Mixon",
+   "summary": "Studies African American rhetoric, analyzing how Black speakers, writers and activists advocate for equality and social change, including rhetoric of Black maternal health.",
+   "summary_zh": "研究非裔美国人修辞，分析黑人演说者、作家与行动者如何倡导平等与社会变革，也涉及黑人孕产妇健康的修辞。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "african american rhetoric",
+    "rhetorical criticism",
+    "race",
+    "black maternal health",
+    "social justice",
+    "antiracist pedagogy",
+    "social movements"
+   ]
+  },
+  {
+   "name": "Jessica Moorman",
+   "summary": "Studies how media and gender norms shape Black women's singlehood and sexual socialization, using interviews in Detroit, and how screen media affects young children's health.",
+   "summary_zh": "研究媒介与性别规范如何塑造黑人女性的单身与性社会化（以底特律访谈为基础），以及屏幕媒介如何影响幼儿健康。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "black women and media",
+    "singlehood socialization",
+    "sexual socialization",
+    "intersectionality",
+    "children and media",
+    "screen media",
+    "sleep",
+    "health communication",
+    "detroit"
+   ]
+  },
+  {
+   "name": "Julie Novak",
+   "summary": "Studies health, risk and crisis communication on food safety and disability, using mixed methods, critical interpretive and autoethnographic analysis, including Arab American communities in Detroit.",
+   "summary_zh": "研究食品安全与残障相关的健康、风险与危机传播，采用混合方法、批判阐释与自我民族志分析，并关注底特律阿拉伯裔社区。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_MIXED",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "risk communication",
+    "crisis communication",
+    "food safety",
+    "disability",
+    "autoethnography",
+    "narrative analysis",
+    "arab american communities",
+    "applied health communication"
+   ]
+  },
+  {
+   "name": "Hayg Oshagan",
+   "summary": "Studies mass media effects on perception and public opinion, how media frame debates, and the role of ethnic media in ethnic communities and identity.",
+   "summary_zh": "研究大众媒介对认知与舆论的影响、媒介如何框架公共议题，以及少数族裔媒体在族裔社区与身份认同中的作用。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "ethnic media",
+    "minority media",
+    "media effects",
+    "public opinion",
+    "media framing",
+    "ethnic identity",
+    "immigrant communities"
+   ]
+  },
+  {
+   "name": "Donyale Padgett",
+   "summary": "Studies crisis rhetoric and organizational legitimacy, culture and diversity in communication, hip hop identity and social movement rhetoric from a critical perspective.",
+   "summary_zh": "从批判视角研究危机修辞与组织合法性、传播中的文化与多元性、嘻哈文化身份以及社会运动修辞。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "crisis rhetoric",
+    "organizational legitimacy",
+    "inclusive leadership",
+    "diversity",
+    "hip hop culture",
+    "rhetoric of social movements",
+    "service learning",
+    "dialogue across difference"
+   ]
+  },
+  {
+   "name": "Matthew Seeger",
+   "summary": "Studies crisis and risk communication, health promotion, agency coordination, crisis ethics, and failure of complex systems and post-crisis renewal.",
+   "summary_zh": "研究危机与风险传播、健康促进、机构协调、危机伦理，以及复杂系统失灵与危机后复苏。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "crisis communication",
+    "risk communication",
+    "emergency risk communication",
+    "post-crisis renewal",
+    "communication ethics",
+    "food safety",
+    "agency coordination",
+    "health promotion"
+   ]
+  },
+  {
+   "name": "Pradeep Sopory",
+   "summary": "Studies message design and effects in health, risk and science communication, especially how metaphor and figurative language shape attitudes, and evidence synthesis methodology.",
+   "summary_zh": "研究健康、风险与科学传播中的信息设计与效果，尤其是隐喻与修辞性语言如何影响态度，以及证据综合方法论。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "metaphor",
+    "figurative language",
+    "message design",
+    "persuasion",
+    "health communication",
+    "risk communication",
+    "science communication",
+    "evidence synthesis"
+   ]
+  },
+  {
+   "name": "Elizabeth Stoycheff",
+   "summary": "Studies how social media and technology shape public opinion about democracy, including surveillance, censorship, content moderation and disinformation, using large-scale surveys and experiments.",
+   "summary_zh": "研究社交媒体与技术如何塑造公众对民主的看法，涉及监控、审查、内容审核与虚假信息，采用大规模调查与实验。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "online surveillance",
+    "internet censorship",
+    "digital privacy",
+    "content moderation",
+    "disinformation",
+    "democratization",
+    "media literacy",
+    "survey experiments",
+    "public opinion"
+   ]
+  },
+  {
+   "name": "Stephanie Tong",
+   "summary": "Studies how people initiate, maintain and end relationships through social media and relational technologies, including AI.",
+   "summary_zh": "研究人们如何借助社交媒体与关系型技术（包括人工智能）建立、维系与结束人际关系。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "relational communication",
+    "social media",
+    "computer-mediated communication",
+    "relationship initiation",
+    "relationship dissolution",
+    "relational technologies",
+    "online dating",
+    "ai"
+   ]
+  },
+  {
+   "name": "Fred Vultee",
+   "summary": "Studies media framing, news routines and securitization, using content analysis of media content and examining how frames shape audience attitudes.",
+   "summary_zh": "研究媒介框架、新闻常规与安全化议题，运用内容分析考察媒介内容，并探讨框架如何影响受众态度。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "media framing",
+    "content analysis",
+    "securitization",
+    "news routines",
+    "news editing",
+    "conflict and crisis coverage",
+    "framing effects"
+   ]
+  },
+  {
+   "name": "Kelly Young",
+   "summary": "Studies argumentation and rhetoric of public memory, protest and controversy, Native American discourse, and competitive speech and debate pedagogy through rhetorical criticism.",
+   "summary_zh": "运用修辞批评研究论辩以及公共记忆、抗议与争议的修辞、美洲原住民话语，以及竞技演讲与辩论教学。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "argumentation",
+    "rhetorical criticism",
+    "public memory",
+    "public controversy",
+    "agonism",
+    "native american discourse",
+    "forensics pedagogy",
+    "speech and debate"
+   ]
+  }
+ ]
+}

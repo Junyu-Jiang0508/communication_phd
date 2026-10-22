@@ -516,13 +516,6 @@
       "sources": [
        "department_profile"
       ]
-     },
-     {
-      "code": "A_CONTENT_ANALYSIS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
      }
     ],
     "data": [
@@ -973,15 +966,7 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "approach": [],
     "data": [],
     "setting": [
      {
@@ -1828,6 +1813,13 @@
       "sources": [
        "department_profile"
       ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
      }
     ],
     "approach": [
@@ -1899,6 +1891,13 @@
      },
      {
       "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
       "primary": false,
       "sources": [
        "department_profile"
@@ -2606,13 +2605,6 @@
       "sources": [
        "department_profile"
       ]
-     },
-     {
-      "code": "A_NETWORK",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
      }
     ],
     "data": [
@@ -2824,24 +2816,8 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
+    "approach": [],
+    "data": [],
     "setting": [],
     "region": []
    },
@@ -2920,6 +2896,13 @@
       "sources": [
        "publications"
       ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
      }
     ],
     "approach": [
@@ -2931,15 +2914,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_INTERVIEWS_FIELD",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_YOUTH_EDUCATION",
@@ -2988,19 +2963,19 @@
       "sources": [
        "department_profile"
       ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
      }
     ],
     "approach": [
      {
-      "code": "A_QUALITATIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
       "code": "A_THEORY",
-      "primary": false,
+      "primary": true,
       "sources": [
        "department_profile"
       ]
@@ -3097,8 +3072,8 @@
   },
   {
    "name": "Rebecca Meisenbach",
-   "summary": "Studies marginalized identity and ethics in organizational life, developing stigma management communication theory and using qualitative research.",
-   "summary_zh": "研究组织生活中的边缘化身份与伦理，发展污名管理传播理论并采用质性研究。",
+   "summary": "Studies marginalized identity and ethics in organizational life, including identity negotiation and her theory of stigma management communication.",
+   "summary_zh": "研究组织生活中的边缘化身份与伦理，包括身份协商及其提出的污名管理传播理论。",
    "confidence": "high",
    "labels": {
     "topic": [
@@ -3128,13 +3103,6 @@
      {
       "code": "A_THEORY",
       "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
       "sources": [
        "department_profile"
       ]
@@ -3335,24 +3303,8 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
+    "approach": [],
+    "data": [],
     "setting": [
      {
       "code": "SET_ELECTIONS_GOVERNMENT",
@@ -3405,6 +3357,13 @@
      },
      {
       "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
       "primary": false,
       "sources": [
        "department_profile"

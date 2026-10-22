@@ -1,0 +1,948 @@
+{
+ "slug": "university-of-wisconsin-milwaukee",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "Mike Allen",
+   "summary": "Studies social influence across personal, relational, organizational, media, and public contexts, often synthesizing research through meta-analysis.",
+   "summary_zh": "研究个人、关系、组织、媒体与公共情境中的社会影响，常以元分析方法整合既有研究。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "social influence",
+    "persuasion",
+    "meta-analysis",
+    "public speaking anxiety",
+    "ghosting",
+    "virtual reality",
+    "notetaking",
+    "relational communication"
+   ]
+  },
+  {
+   "name": "Xiaoxia Cao",
+   "summary": "Studies persuasion and media effects in health, political, and charitable appeals, including message framing and stigmatizing campaigns, using online experiments.",
+   "summary_zh": "研究健康、政治与慈善诉求中的说服与媒介效果，包括信息框架和污名化宣传，并采用在线实验方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "persuasion",
+    "message framing",
+    "charitable appeals",
+    "donation intentions",
+    "anti-smoking campaigns",
+    "stigmatization",
+    "conspiracy theories",
+    "political discussion disagreement",
+    "online experiment"
+   ]
+  },
+  {
+   "name": "Derek Handley",
+   "summary": "Studies 19th- and 20th-century African American rhetoric and literature, rhetorics of place and citizenship, and civic engagement in urban settings such as the Black Freedom Movement.",
+   "summary_zh": "研究19至20世纪非裔美国人的修辞与文学、地方与公民身份修辞，以及黑人自由运动等城市情境中的公民参与。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "african american rhetoric",
+    "black freedom movement",
+    "rhetorics of place",
+    "urban rhetoric",
+    "citizenship",
+    "civic engagement",
+    "digital humanities",
+    "pittsburgh"
+   ]
+  },
+  {
+   "name": "Leslie Harris",
+   "summary": "Studies rhetoric and public culture, focusing on public controversy, intersectional race and gender identity, white supremacist and anti-suffrage rhetoric, and gun violence in Milwaukee.",
+   "summary_zh": "研究修辞与公共文化，关注公共争议、种族与性别的交叉身份、白人至上与反选举权修辞，以及密尔沃基的枪支暴力。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "rhetoric and public culture",
+    "public controversy",
+    "intersectional identity",
+    "white slavery",
+    "anti-suffrage rhetoric",
+    "gun violence",
+    "public humanities",
+    "national identity"
+   ]
+  },
+  {
+   "name": "John Jordan",
+   "summary": "Uses critical rhetorical analysis to study how technology shapes public sensibilities and how subaltern groups use rhetoric to engage authoritative control, including television and film.",
+   "summary_zh": "运用批判修辞分析，研究技术如何影响公众感知、底层群体如何以修辞回应权威控制，也涉及电视与电影。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "critical rhetorical analysis",
+    "civic rhetoric",
+    "subaltern rhetoric",
+    "technology and public sensibilities",
+    "bodies and surgery",
+    "television",
+    "cinematic memorial",
+    "profanity"
+   ]
+  },
+  {
+   "name": "Tae-Seop Lim",
+   "summary": "Studies cross-cultural and international communication, developing a theory of culture that addresses limits of Hofstede's dimensions and Hall's context theory.",
+   "summary_zh": "研究跨文化与国际传播，致力于构建一种能弥补霍夫斯泰德文化维度与霍尔语境理论局限的文化理论。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "cross-cultural communication",
+    "theory of culture",
+    "cultural differences",
+    "hofstede",
+    "high and low context",
+    "verbal communication across cultures",
+    "self-construal",
+    "cultural holism"
+   ]
+  },
+  {
+   "name": "Michael Mirer",
+   "summary": "Studies sports media and journalism, including boundary work and ethics of in-house sports reporters, media framing of head injuries, and candidates' social media messaging.",
+   "summary_zh": "研究体育媒体与新闻业，包括内部体育记者的边界工作与伦理、媒体对头部损伤的框架呈现，以及候选人的社交媒体表达。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "sports media",
+    "sports journalism",
+    "in-house sports media",
+    "boundary work",
+    "media ethics",
+    "framing",
+    "head injuries",
+    "twitter",
+    "candidate concession"
+   ]
+  },
+  {
+   "name": "Anjana Mudambi",
+   "summary": "Uses critical qualitative and ethnographic methods to study identity, race, and anti-racist solidarity among South Asian Americans and critical intercultural communication pedagogy.",
+   "summary_zh": "运用批判性质性与民族志方法，研究南亚裔美国人的身份、种族与反种族主义团结，以及批判性跨文化传播教学。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "personal_site"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "personal_site"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "personal_site"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "critical intercultural communication",
+    "south asian americans",
+    "identity construction",
+    "racialization",
+    "anti-racist solidarity",
+    "caste",
+    "intercultural pedagogy",
+    "diaspora",
+    "brownness"
+   ]
+  },
+  {
+   "name": "Erin Parcell",
+   "summary": "Studies interpersonal and family communication in long-distance relationships and deployed military families, mainly through in-depth interviews, plus community stories of gun violence in Wisconsin.",
+   "summary_zh": "研究异地恋与军人派驻家庭中的人际与家庭传播，主要采用深度访谈，并关注威斯康星州社区的枪支暴力叙事。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_SURVEY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "family communication",
+    "long-distance relationships",
+    "military families",
+    "deployment",
+    "relational dialectics theory",
+    "in-depth interviews",
+    "gun violence",
+    "milwaukee"
+   ]
+  },
+  {
+   "name": "Sarah Riforgiate",
+   "summary": "Studies the intersection of organizational and interpersonal communication, including work-life concerns, emotions at work, conflict, leadership, and remote workers' technology use.",
+   "summary_zh": "研究组织传播与人际传播的交叉领域，包括工作与生活平衡、职场情绪、冲突协商、领导力及远程员工的技术使用。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "work-life balance",
+    "emotions in organizations",
+    "conflict negotiation",
+    "organizational leadership",
+    "remote work",
+    "burnout",
+    "parental leave",
+    "mentoring",
+    "policy communication"
+   ]
+  },
+  {
+   "name": "Erin Ruppel",
+   "summary": "Studies how communication technologies shape interpersonal relationships, self-disclosure, and small-group and health communication, including meta-analysis of mediated vs. face-to-face interaction.",
+   "summary_zh": "研究传播技术如何影响人际关系、自我表露以及小群体与健康传播，包括对中介与面对面互动差异的元分析。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "communication technologies",
+    "computer-mediated communication",
+    "technology affordances",
+    "self-disclosure",
+    "friendship",
+    "channel complementarity",
+    "small group communication",
+    "transition to college",
+    "meta-analysis"
+   ]
+  },
+  {
+   "name": "Sara Vanderhaagen",
+   "summary": "Uses rhetorical criticism to study public memory, how publics argue about the past, and Black American women's memory work and rhetorical activism.",
+   "summary_zh": "运用修辞批评研究公共记忆、公众如何就历史展开论辩，以及美国黑人女性的记忆实践与修辞行动主义。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "public memory",
+    "african american rhetoric",
+    "black women's memory work",
+    "rhetorical activism",
+    "rhetorical criticism",
+    "race and gender",
+    "commemoration",
+    "martin luther king"
+   ]
+  },
+  {
+   "name": "Lia Wolock",
+   "summary": "Studies the racialization of South Asian American diaspora communities in digital and social media, their media activism, and media representations of India and Indian Americans.",
+   "summary_zh": "研究数字与社交媒体时代南亚裔美国人离散社群的种族化、其媒体行动主义，以及媒体对印度与印度裔美国人的再现。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "personal_site",
+       "cv"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "personal_site",
+       "cv"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "personal_site",
+       "cv"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "personal_site",
+       "cv"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "personal_site"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "personal_site"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": true,
+      "sources": [
+       "personal_site",
+       "cv"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "personal_site",
+       "cv"
+      ]
+     },
+     {
+      "code": "R_SOUTH_SE_ASIA",
+      "primary": false,
+      "sources": [
+       "cv"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "south asian american diaspora",
+    "race and digital media",
+    "digital activism",
+    "media activism",
+    "racialization",
+    "sepia mutiny",
+    "south asian american digital archive",
+    "television representation"
+   ]
+  }
+ ]
+}

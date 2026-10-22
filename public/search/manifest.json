@@ -1,15 +1,15 @@
 {
  "model": "Xenova/bge-small-en-v1.5",
  "dimensions": 384,
- "vectorCount": 41,
+ "vectorCount": 2370,
  "quantizationScale": 127,
  "queryPrefix": "Represent this sentence for searching relevant passages: ",
  "pooling": "cls",
  "normalize": true,
  "calibration": {
-  "lo": 0.6478,
-  "hi": 0.6899,
-  "hiPercentile": 97.5,
+  "lo": 0.6547,
+  "hi": 0.7451,
+  "hiPercentile": 99.5,
   "probes": 32,
   "scaleAtHi": 0.85
  },

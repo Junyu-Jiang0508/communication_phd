@@ -1,0 +1,543 @@
+{
+  "slug": "university-of-nebraska-lincoln",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Kristen Hoerl",
+      "summary": "Studies how popular film and television represent social activism, feminism, and antiracist struggle, using critical media criticism of Hollywood memories of the 1960s.",
+      "summary_zh": "通过对影视作品的批判性解读，研究流行电影与电视如何呈现社会运动、女性主义与反种族主义斗争，以及好莱坞对1960年代的记忆建构。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "film and television criticism",
+        "feminism",
+        "social activism",
+        "civil rights movement",
+        "the 1960s",
+        "popular culture",
+        "sexist realism",
+        "white supremacy"
+      ]
+    },
+    {
+      "name": "Satveer Kaur",
+      "summary": "Studies health disparities and communicative inequalities among marginalized communities, including migrant worker health activism and patient-provider bias, using multimethod research.",
+      "summary_zh": "采用多方法研究，考察边缘化社群面临的健康不平等与传播不平等，包括移民劳工的健康行动主义及医患沟通中的偏见。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_SOUTH_SE_ASIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "critical health communication",
+        "health disparities",
+        "migrant workers",
+        "health activism",
+        "patient-provider communication",
+        "implicit bias",
+        "reproductive justice",
+        "food insecurity",
+        "black feminism"
+      ]
+    },
+    {
+      "name": "Casey Kelly",
+      "summary": "Studies the political and cultural rhetoric of the U.S. far right and white masculinity in film, television, and digital culture through psychoanalytic rhetorical criticism.",
+      "summary_zh": "借助精神分析取向的修辞批评，研究美国极右翼的政治与文化修辞，以及电影、电视和数字文化中的白人男性气质。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "far right",
+        "white masculinity",
+        "psychoanalytic theory",
+        "rhetorical criticism",
+        "white nationalism",
+        "conspiracy rhetoric",
+        "american indian studies",
+        "food culture",
+        "film and television"
+      ]
+    },
+    {
+      "name": "Jody Koenig Kellas",
+      "summary": "Studies how storytelling and communicated narrative sense-making help individuals and families cope with difficulty and illness, and develops narrative-based interventions for caregiving.",
+      "summary_zh": "研究讲故事与沟通式叙事意义建构如何帮助个人与家庭应对困境和疾病，并开发基于叙事的照护干预。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "family communication",
+        "storytelling",
+        "communicated narrative sense-making",
+        "caregiving",
+        "illness and coping",
+        "cancer",
+        "bereavement",
+        "dark side of relationships",
+        "memorable messages"
+      ]
+    },
+    {
+      "name": "Angela Palmer-Wackerly",
+      "summary": "Studies how identity, supportive communication, and decision-making shape health outcomes for rural, immigrant, and refugee communities using community-based participatory and mixed methods.",
+      "summary_zh": "运用社区参与式研究与混合方法，研究身份认同、支持性沟通与决策如何影响农村、移民及难民群体的健康结果。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health communication",
+        "social support",
+        "treatment decision-making",
+        "illness identity",
+        "stigma",
+        "rural health equity",
+        "community-based participatory research",
+        "immigrant and refugee health",
+        "arts-based research"
+      ]
+    },
+    {
+      "name": "Kate Siegfried",
+      "summary": "Studies the rhetoric of political exile, social movements, and anti-colonial internationalism through transnational archival research grounded in materialist philosophy.",
+      "summary_zh": "以唯物主义哲学为基础，通过跨国档案研究考察政治流亡、社会运动与反殖民国际主义的修辞。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_MIDDLE_EAST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_EUROPE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "archival methods",
+        "political exile",
+        "social movements",
+        "colonialism",
+        "imperialism",
+        "marxist philosophy",
+        "black internationalism",
+        "reproductive justice",
+        "materialism"
+      ]
+    },
+    {
+      "name": "Jordan Soliz",
+      "summary": "Studies intergroup and family communication, including multiethnic-racial and interfaith families, intergroup contact and dialogue that reduce prejudice, and identity socialization.",
+      "summary_zh": "研究群际与家庭传播，包括多族裔与跨信仰家庭、减少偏见的群际接触与对话，以及身份认同的社会化过程。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "intergroup communication",
+        "family communication",
+        "multiethnic-racial families",
+        "interfaith families",
+        "intergroup contact",
+        "prejudice reduction",
+        "racial and ethnic identity",
+        "discrimination"
+      ]
+    }
+  ]
+}

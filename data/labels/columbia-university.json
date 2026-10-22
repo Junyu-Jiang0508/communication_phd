@@ -1,0 +1,1104 @@
+{
+  "slug": "columbia-university",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Alexander Stille",
+      "summary": "Writes international journalism and books on modern Italy, covering fascism, the Mafia, and Berlusconi's fusion of media ownership and political power.",
+      "summary_zh": "从事国际新闻写作并出版关于现代意大利的著作，涉及法西斯主义、黑手党以及贝卢斯科尼将媒体所有权与政治权力相结合的现象。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_EUROPE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "international journalism",
+        "italy",
+        "fascism",
+        "mafia",
+        "berlusconi",
+        "italian jewish history",
+        "media and political power"
+      ]
+    },
+    {
+      "name": "Alexis B. Clark",
+      "summary": "Writes narrative journalism on the history of race, culture and politics in World War II and the Civil Rights era, drawing on newspaper photo archives.",
+      "summary_zh": "以叙事新闻写作呈现二战与民权运动时期种族、文化与政治的历史，并利用报纸图片档案讲述被忽视的非裔美国人故事。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "african american history",
+        "world war ii",
+        "civil rights era",
+        "race and inequality",
+        "feature writing",
+        "covering inequality",
+        "black servicemembers"
+      ]
+    },
+    {
+      "name": "Alisa Solomon",
+      "summary": "Writes arts criticism and cultural history of theater and performance, with attention to gender, LGBT issues, and scripted television.",
+      "summary_zh": "从事艺术评论与戏剧表演的文化史写作，关注性别、LGBT议题与剧集电视。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "theater criticism",
+        "arts journalism",
+        "theater and gender",
+        "lgbt issues",
+        "cultural history",
+        "fiddler on the roof",
+        "dramaturgy",
+        "scripted tv"
+      ]
+    },
+    {
+      "name": "Andie Tucher",
+      "summary": "Studies the history of truth-telling conventions in American journalism, photography and nonfiction, including the history of fake news, as a historian.",
+      "summary_zh": "以历史学方法研究美国新闻、摄影与非虚构写作中的“讲真话”惯例演变，包括假新闻与伪新闻的历史。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "journalism history",
+        "fake news",
+        "truth-telling conventions",
+        "nonfiction",
+        "photography",
+        "penny press",
+        "american history"
+      ]
+    },
+    {
+      "name": "Azmat Khan",
+      "summary": "Conducts investigative reporting on the human costs of war and military impunity, using on-the-ground investigations, secret military records and interviews.",
+      "summary_zh": "从事关于战争人道代价与军事有罪不罚的调查报道，结合实地调查、解密军事档案与访谈。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_MIDDLE_EAST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_SOUTH_SE_ASIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "investigative reporting",
+        "civilian casualties",
+        "war",
+        "military accountability",
+        "global journalism",
+        "iraq",
+        "syria",
+        "afghanistan"
+      ]
+    },
+    {
+      "name": "Daniel Alarcón",
+      "summary": "Produces long-form narrative journalism and Spanish-language podcasting on Latin America, especially Peruvian politics and society, alongside fiction.",
+      "summary_zh": "从事关于拉丁美洲（尤其是秘鲁政治与社会）的长篇叙事新闻与西班牙语播客创作，同时写作小说。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "narrative journalism",
+        "podcasting",
+        "radio ambulante",
+        "spanish-language media",
+        "peru",
+        "latin america",
+        "long-form journalism"
+      ]
+    },
+    {
+      "name": "David Hajdu",
+      "summary": "Writes criticism and cultural history of American popular music, comics and film, including the history of automation and AI in the arts.",
+      "summary_zh": "从事美国流行音乐、漫画与电影的评论和文化史写作，包括艺术中自动化与人工智能的历史。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "music criticism",
+        "popular music",
+        "comic books",
+        "cultural history",
+        "arts criticism",
+        "automation in the arts",
+        "ai and art"
+      ]
+    },
+    {
+      "name": "Helen Benedict",
+      "summary": "Writes journalism, oral history and fiction on refugees, the effects of war on civilians and soldiers, and sexual violence against women in the military.",
+      "summary_zh": "以新闻报道、口述历史与小说书写难民、战争对平民和士兵的影响，以及军中女性遭受的性暴力。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_MIDDLE_EAST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_EUROPE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "refugees",
+        "iraq war",
+        "women soldiers",
+        "military sexual assault",
+        "violence against women",
+        "oral history",
+        "greece"
+      ]
+    },
+    {
+      "name": "Howard French",
+      "summary": "Writes global affairs journalism and books on Africa's role in the making of the modern world, drawing on a career as a foreign correspondent.",
+      "summary_zh": "从事全球事务新闻写作，并出版关于非洲在现代世界形成中作用的著作。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_AFRICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "foreign correspondence",
+        "global affairs",
+        "africa",
+        "modernity",
+        "west africa",
+        "documentary photography"
+      ]
+    },
+    {
+      "name": "Jelani Cobb",
+      "summary": "Writes journalism, commentary and documentaries on race, Black politics, voting and policing in American history and public life.",
+      "summary_zh": "以新闻写作、评论与纪录片探讨美国历史与公共生活中的种族、黑人政治、投票与警务问题。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "race",
+        "black politics",
+        "policing",
+        "voting rights",
+        "kerner commission",
+        "documentary",
+        "hip hop",
+        "obama"
+      ]
+    },
+    {
+      "name": "Jonathan Weiner",
+      "summary": "Writes science journalism and nonfiction books on evolution, genetics and biology for general audiences.",
+      "summary_zh": "为大众撰写关于进化、遗传与生物学的科学新闻与非虚构著作。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "science journalism",
+        "science writing",
+        "evolution",
+        "genetics",
+        "beak of the finch",
+        "medical journalism",
+        "nonfiction"
+      ]
+    },
+    {
+      "name": "June Cross",
+      "summary": "Produces documentary journalism on dispossessed communities and the intersection of race, politics and public health.",
+      "summary_zh": "制作关于弱势群体以及种族、政治与公共卫生交汇问题的纪录片新闻。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "documentary journalism",
+        "documentary film",
+        "race",
+        "public health",
+        "dispossessed communities",
+        "frontline"
+      ]
+    },
+    {
+      "name": "Keith Gessen",
+      "summary": "Writes journalism, essays and translations on the aftermath of communism's collapse in the former Soviet Union, including Russia and the war in Ukraine.",
+      "summary_zh": "撰写关于前苏联地区共产主义崩溃后果的新闻、随笔与译作，涉及俄罗斯与乌克兰战争。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_EUROPE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "post-soviet",
+        "russia",
+        "ukraine",
+        "magazine journalism",
+        "literary translation",
+        "n+1",
+        "russian arctic"
+      ]
+    },
+    {
+      "name": "Mark Hansen",
+      "summary": "Works at the intersection of data, art and technology, creating public data art and teaching computational journalism and advanced data analysis.",
+      "summary_zh": "在数据、艺术与技术的交叉领域工作，创作面向公众的数据艺术，并讲授计算新闻与高级数据分析。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "computational journalism",
+        "data journalism",
+        "data art",
+        "statistics",
+        "data visualization",
+        "media innovation",
+        "sensor networks"
+      ]
+    },
+    {
+      "name": "Nicholas Lemann",
+      "summary": "Writes long-form magazine journalism and leads journalism education initiatives in investigative reporting, digital journalism and news leadership.",
+      "summary_zh": "从事长篇杂志新闻写作，并主导调查报道、数字新闻与新闻机构领导力等新闻教育项目。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "magazine journalism",
+        "journalism education",
+        "investigative reporting",
+        "digital journalism",
+        "news leadership",
+        "columbia global reports"
+      ]
+    },
+    {
+      "name": "Nina Alvarez",
+      "summary": "Reports and produces international broadcast, investigative and documentary journalism, with a recurring focus on migration and Latin America.",
+      "summary_zh": "从事国际广播、调查与纪录片新闻的报道与制作，长期关注移民问题与拉丁美洲。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "international journalism",
+        "broadcast news",
+        "documentary",
+        "investigative reporting",
+        "migration",
+        "latin america",
+        "video journalism"
+      ]
+    },
+    {
+      "name": "Nina Berman",
+      "summary": "Creates documentary photography and film on American politics, militarism, environmental issues and post-violence trauma, including portraits and interviews with veterans.",
+      "summary_zh": "以纪实摄影与电影呈现美国政治、军事化、环境议题与暴力后创伤，包括对退伍军人的肖像与访谈。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "documentary photography",
+        "photojournalism",
+        "militarism",
+        "veterans",
+        "trauma",
+        "environmental issues",
+        "sexual violence"
+      ]
+    },
+    {
+      "name": "Richard R. John",
+      "summary": "Studies the history of American communications, business, technology and political development, including the postal system and telecommunications, as a historian.",
+      "summary_zh": "以历史学方法研究美国传播、商业、技术与政治发展的历史，包括邮政系统与电信业。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "communications history",
+        "postal system",
+        "telecommunications",
+        "history of capitalism",
+        "business history",
+        "american political development",
+        "history of technology"
+      ]
+    },
+    {
+      "name": "Robe Imbriano",
+      "summary": "Produces documentary series on civil and human rights, racial equality and the lives of marginalized Americans.",
+      "summary_zh": "制作关于公民权与人权、种族平等以及美国边缘群体生活的纪录片系列。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "documentary journalism",
+        "civil rights",
+        "human rights",
+        "14th amendment",
+        "black life",
+        "racial equality",
+        "television documentary"
+      ]
+    }
+  ]
+}

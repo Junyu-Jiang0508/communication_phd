@@ -1,0 +1,1264 @@
+{
+  "slug": "university-of-connecticut",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Kirstie Farrar",
+      "summary": "Studies psychological effects of mass media, especially violent video games and aggression, sex on television, and children's media use, using media effects experiments.",
+      "summary_zh": "研究大众媒介的心理效果，尤其是暴力电子游戏与攻击性、电视中的性内容以及儿童媒介使用，主要采用媒介效果实验。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "violent video games",
+        "aggression",
+        "media effects",
+        "sex on television",
+        "children and media",
+        "immersion",
+        "family communication",
+        "media violence"
+      ]
+    },
+    {
+      "name": "Anne Oeldorf-Hirsch",
+      "summary": "Studies how people share information and build community on social media, focusing on algorithmic literacy on apps like TikTok and Instagram, misinformation, and well-being.",
+      "summary_zh": "研究人们如何在社交媒体上分享信息、建立社群，重点关注TikTok和Instagram等应用中的算法素养、虚假信息与用户福祉。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "algorithmic literacy",
+        "algorithmic transparency",
+        "social media",
+        "information sharing",
+        "misinformation",
+        "tiktok",
+        "instagram",
+        "well-being"
+      ]
+    },
+    {
+      "name": "David Atkin",
+      "summary": "Studies the adoption, use, and regulation of new communication technologies, telecommunications policy, and television audiences.",
+      "summary_zh": "研究新传播技术的采纳、使用与规制，以及电信政策和电视受众。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "new media adoption",
+        "communication technology",
+        "telecommunications policy",
+        "communication policy",
+        "television audiences",
+        "genre expectations",
+        "media regulation"
+      ]
+    },
+    {
+      "name": "Saraswathi Bellur",
+      "summary": "Studies the psychological and physiological effects of interactive media and health technologies, using psychophysiological measures (ECG, EDA, EEG) and theory building.",
+      "summary_zh": "研究交互式媒介与健康技术的心理和生理效果，采用心电、皮电、脑电等心理生理测量并进行理论建构。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "interactivity",
+        "psychophysiology",
+        "eeg",
+        "skin conductance",
+        "motivational technology model",
+        "interactive health technologies",
+        "media multitasking",
+        "user engagement"
+      ]
+    },
+    {
+      "name": "John Christensen",
+      "summary": "Studies social dynamics between humans and artificial intelligence, including algorithm aversion, identity threat, and AI anxiety, drawing on social psychology.",
+      "summary_zh": "借助社会心理学视角研究人类与人工智能之间的社会互动，包括算法厌恶、身份威胁与AI焦虑。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "human-ai interaction",
+        "algorithm aversion",
+        "ai anxiety",
+        "identity threat",
+        "artificial intelligence",
+        "social psychology"
+      ]
+    },
+    {
+      "name": "Amanda Cooper",
+      "summary": "Studies how everyday family and relational communication shapes relationship quality and health, especially in dementia caregiving and aging, often using qualitative methods.",
+      "summary_zh": "研究日常家庭与关系传播如何影响关系质量和健康，尤其关注失智症照护与老龄化，常采用质性方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "dementia caregiving",
+        "family caregiving",
+        "communication and aging",
+        "end of life",
+        "relationship maintenance",
+        "social support",
+        "narrative sense-making",
+        "resilience"
+      ]
+    },
+    {
+      "name": "Shardé M. Davis",
+      "summary": "Studies how Black women communicate with close others and in groups to manage marginalization, developing the Strong Black Woman Collective theory with quantitative and qualitative methods.",
+      "summary_zh": "研究黑人女性如何与亲密他人及群体沟通以应对边缘化处境，提出“强大黑人女性集体”理论，并结合定量与质性方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "black women",
+        "strong black woman collective",
+        "supportive communication",
+        "black feminism",
+        "intergroup communication",
+        "race and gender",
+        "resilience"
+      ]
+    },
+    {
+      "name": "Amanda Denes",
+      "summary": "Studies communication in close relationships, including sexual communication and couples facing cancer, and its links to health, using biosocial approaches.",
+      "summary_zh": "研究亲密关系中的传播，包括性沟通以及面对癌症的伴侣沟通，并以生物社会取向考察其与健康的关联。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "biosocial communication",
+        "sexual communication",
+        "couples communication",
+        "lgbtqi+",
+        "relational maintenance",
+        "infidelity",
+        "social support",
+        "cancer"
+      ]
+    },
+    {
+      "name": "Mark Hamilton",
+      "summary": "Studies social influence across marketing and persuasion, including message production, language intensity effects, source credibility, chronemics, and national culture in marketing content.",
+      "summary_zh": "研究营销与说服中的社会影响，包括讯息生产、语言强度效果、信源可信度、时间传播学以及国家文化对营销内容的影响。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "social influence",
+        "persuasion",
+        "marketing",
+        "language intensity",
+        "source credibility",
+        "chronemics",
+        "verbal aggression",
+        "attitude change"
+      ]
+    },
+    {
+      "name": "Elizabeth Hintz",
+      "summary": "Studies how people navigate difficult conversations about stigmatized and poorly understood health conditions in families and relationships, using qualitative and feminist approaches.",
+      "summary_zh": "研究人们在家庭与关系中如何就受污名化、难以理解的健康状况进行艰难对话，采用质性与女性主义取向。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "communicative disenfranchisement",
+        "stigmatized health conditions",
+        "women's health",
+        "difficult conversations",
+        "family health communication",
+        "qualitative methods",
+        "feminist approaches"
+      ]
+    },
+    {
+      "name": "Kenneth Lachlan",
+      "summary": "Studies crisis, emergency, and risk communication, including media dependency during disasters, community risk mitigation, and cognitive processing of emergency messages.",
+      "summary_zh": "研究危机、应急与风险传播，包括灾害期间的媒介依赖、社区风险缓解干预以及对应急讯息的认知加工。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "crisis communication",
+        "emergency communication",
+        "risk communication",
+        "disasters",
+        "media dependency",
+        "information seeking",
+        "uncertainty reduction"
+      ]
+    },
+    {
+      "name": "Carolyn A. Lin",
+      "summary": "Studies persuasive communication in advertising, PR, health, and environmental risk, building games and mobile apps for risk prevention and measuring biometric responses to messages.",
+      "summary_zh": "研究广告、公关、健康与环境风险中的说服传播，开发用于风险预防的游戏和移动应用，并测量受众对讯息的生物计量反应。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "advertising",
+        "public relations",
+        "health risk",
+        "environmental risk",
+        "mobile apps",
+        "videogames",
+        "biometric responses",
+        "storm preparedness"
+      ]
+    },
+    {
+      "name": "Zexin “Marsha” Ma",
+      "summary": "Studies health message design and effects, including narrative persuasion, defensive responses to risk information, health misinformation correction, and AI chatbots for health communication.",
+      "summary_zh": "研究健康讯息的设计与效果，包括叙事说服、对风险信息的防御性反应、健康虚假信息纠正以及用于健康传播的AI聊天机器人。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "narrative persuasion",
+        "health misinformation",
+        "alcohol warning labels",
+        "cancer risk",
+        "persuasive ai",
+        "chatbots",
+        "health disparities",
+        "message design"
+      ]
+    },
+    {
+      "name": "Rory McGloin",
+      "summary": "Studies organizational communication training and development, entrepreneurial and leadership communication skills, and perceptions of online source credibility.",
+      "summary_zh": "研究组织传播培训与发展、创业者及领导者的沟通技能，以及对网络信源可信度的感知。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "training and development",
+        "business communication",
+        "entrepreneurship",
+        "leadership communication",
+        "self-efficacy",
+        "source credibility"
+      ]
+    },
+    {
+      "name": "Kristine Nowak",
+      "summary": "Studies how mediated technologies such as avatars and social media shape person perception, identity, persuasion, and learning, evaluating system design for communication goals.",
+      "summary_zh": "研究头像化身与社交媒体等中介技术如何影响人物感知、身份认同、说服与学习，并评估面向不同传播目标的系统设计。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "avatars",
+        "computer-mediated communication",
+        "person perception",
+        "identity",
+        "human-computer interaction",
+        "multitasking",
+        "modality choice",
+        "presence"
+      ]
+    },
+    {
+      "name": "Tyler Page",
+      "summary": "Studies public relations and crisis perception through moral foundations theory, historical work on PR's moral roots, computational analysis of PR scholarship, and stakeholder theory.",
+      "summary_zh": "从道德基础理论研究公共关系与危机感知，并开展公关道德根源的历史研究、公关学术的计算分析以及利益相关者理论建构。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public relations",
+        "moral foundations theory",
+        "crisis perception",
+        "stakeholders",
+        "public relations history",
+        "open-tent model",
+        "organizational identity"
+      ]
+    },
+    {
+      "name": "Diana Rios",
+      "summary": "Studies mass media and intercultural communication processes through Chicana/o-Latina/o studies, ethnicity, race, and gender perspectives.",
+      "summary_zh": "从奇卡诺/拉丁裔研究、族裔、种族与性别视角研究大众媒介与跨文化传播过程。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "latina/o media",
+        "chicana/o studies",
+        "intercultural communication",
+        "ethnicity and race",
+        "gender",
+        "mass media"
+      ]
+    },
+    {
+      "name": "Jocelyn Steinke",
+      "summary": "Studies media images of STEM professionals and their effects on adolescent girls' STEM interest and identity, including women in STEM on TikTok, to broaden STEM participation.",
+      "summary_zh": "研究STEM从业者的媒介形象及其对青春期女孩STEM兴趣与身份认同的影响，包括TikTok上的STEM女性，以扩大STEM参与。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "stem identity",
+        "women in stem",
+        "science communication",
+        "adolescent girls",
+        "media images of scientists",
+        "gender equity",
+        "tiktok"
+      ]
+    },
+    {
+      "name": "Jiyoun Suk",
+      "summary": "Studies how cross-platform, multimodal communication shapes misinformation, activism, and polarization for marginalized groups, using NLP, network analysis, computer vision, and surveys.",
+      "summary_zh": "研究跨平台、多模态传播如何影响虚假信息、社会行动与政治极化及其对边缘群体的冲击，结合NLP、网络分析、计算机视觉与调查和访谈。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "computational social science",
+        "mis/disinformation",
+        "political polarization",
+        "activism",
+        "multimodal analysis",
+        "computer vision",
+        "natural language processing",
+        "sexual violence survivors",
+        "social trust"
+      ]
+    }
+  ]
+}

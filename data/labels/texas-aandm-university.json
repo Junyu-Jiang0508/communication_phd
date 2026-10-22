@@ -1,0 +1,1949 @@
+{
+  "slug": "texas-aandm-university",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "J Kevin Barge",
+      "summary": "Develops social constructionist theory of leadership, appreciative practice in organizational change, and dialogue practices that help communities deliberate polarizing issues.",
+      "summary_zh": "发展领导力的社会建构论视角，研究欣赏式实践与组织变革，以及帮助社区就两极化议题开展对话与协商的实践。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "leadership",
+        "social constructionism",
+        "appreciative inquiry",
+        "organizational change",
+        "public deliberation",
+        "polarization",
+        "practical theory",
+        "reflexivity"
+      ]
+    },
+    {
+      "name": "Isaac Blacksin",
+      "summary": "Studies how war journalism and media representation sanction violence, drawing on ethnographic fieldwork with conflict reporters and critical media theory.",
+      "summary_zh": "结合对冲突地区记者的民族志田野与批判媒介理论，研究战争新闻与媒介再现如何为暴力提供正当性。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_MIDDLE_EAST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "war journalism",
+        "conflict reporting",
+        "media and violence",
+        "ethnography",
+        "critical media theory",
+        "military simulation",
+        "politics of representation",
+        "iraq and syria"
+      ]
+    },
+    {
+      "name": "Hart Blanton",
+      "summary": "Studies how messages shape health, prejudice, and well-being, using social-psychological experiments, psychological measurement, and immersive virtual reality health messaging.",
+      "summary_zh": "运用社会心理学实验、心理测量和沉浸式虚拟现实健康信息，研究传播信息如何影响健康、偏见与幸福感。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "health risk communication",
+        "persuasion",
+        "social norms",
+        "implicit attitude measures",
+        "psychological measurement",
+        "virtual reality",
+        "prejudice",
+        "media coverage of science"
+      ]
+    },
+    {
+      "name": "Heidi A Campbell",
+      "summary": "Studies how Jewish, Muslim, and Christian communities negotiate digital and mobile media, applying a social shaping of technology approach to digital religion.",
+      "summary_zh": "运用技术的社会形塑视角，研究犹太教、伊斯兰教与基督教群体如何协商使用数字与移动媒体，即数字宗教研究。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "digital religion",
+        "religion and new media",
+        "social shaping of technology",
+        "religious authority",
+        "digital culture",
+        "mobile media",
+        "digital creatives"
+      ]
+    },
+    {
+      "name": "Nathan Crick",
+      "summary": "Studies rhetoric, power, and democratic practice across historical moments, using pragmatist and continental philosophy to analyze propaganda, social movements, and climate rhetoric.",
+      "summary_zh": "借助实用主义与欧陆哲学，研究不同历史时期中修辞、权力与民主实践的关系，分析宣传、社会运动与气候修辞。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "rhetoric and power",
+        "pragmatism",
+        "john dewey",
+        "media ecology",
+        "propaganda",
+        "machiavelli",
+        "democratic pedagogy",
+        "climate change rhetoric"
+      ]
+    },
+    {
+      "name": "Leroy G Dorsey",
+      "summary": "Analyzes how US presidents from Theodore Roosevelt to Obama use myth and symbolic rhetoric to construct American identity and advance policy agendas.",
+      "summary_zh": "分析从西奥多·罗斯福到奥巴马的美国总统如何运用神话叙事与象征修辞建构美国身份并推动政策议程。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "presidential rhetoric",
+        "public address",
+        "theodore roosevelt",
+        "frontier myth",
+        "american identity",
+        "mythic narrative",
+        "immigration"
+      ]
+    },
+    {
+      "name": "Tasha N Dubriwny",
+      "summary": "Critiques popular and news discourse on women's health, motherhood, and first ladies through feminist rhetorical analysis at the intersection of health and politics.",
+      "summary_zh": "以女性主义修辞分析批判有关女性健康、母职与第一夫人的大众及新闻话语，关注健康与政治的交叉。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "women's health",
+        "feminist rhetoric",
+        "postfeminism",
+        "motherhood",
+        "first ladies",
+        "breast cancer",
+        "postpartum depression"
+      ]
+    },
+    {
+      "name": "Kareem El Damanhoury",
+      "summary": "Studies visual political messaging, wartime and terrorist media strategies, and state digital journalism as soft power, with a focus on Middle Eastern media.",
+      "summary_zh": "研究视觉政治信息、战时与恐怖组织的媒介策略，以及国家以数字新闻作为软实力的做法，聚焦中东媒介。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_MIDDLE_EAST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "visual communication",
+        "media and terrorism",
+        "media and conflict",
+        "international broadcasting",
+        "soft power",
+        "proto-state media",
+        "photographic warfare",
+        "multimedia storytelling"
+      ]
+    },
+    {
+      "name": "Jason Gong",
+      "summary": "Studies media selection and information diffusion through communication networks using computational modeling.",
+      "summary_zh": "运用计算建模研究媒介选择以及信息在传播网络中的扩散。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "media selection",
+        "computational modeling",
+        "communication networks",
+        "information diffusion",
+        "computational social science"
+      ]
+    },
+    {
+      "name": "Bryce Henson",
+      "summary": "Studies Black life, hip-hop, and African diaspora cultural politics in Brazil through critical ethnography and cultural studies.",
+      "summary_zh": "以批判民族志与文化研究方法，研究巴西的黑人生活、嘻哈文化与非洲离散群体的文化政治。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "african diaspora",
+        "hip-hop",
+        "brazil",
+        "quilombos",
+        "marronage",
+        "critical ethnography",
+        "black studies",
+        "popular culture"
+      ]
+    },
+    {
+      "name": "Mark Hlavacik",
+      "summary": "Studies education controversies and culture wars, and teaching through controversial issue discussions, using historical, rhetorical, and qualitative methods.",
+      "summary_zh": "运用历史、修辞与质性方法，研究教育争议与文化战争，以及以争议议题讨论为方法的课堂教学。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "education reform",
+        "culture wars",
+        "rhetoric of education",
+        "controversial issue discussion",
+        "communication education",
+        "debate",
+        "social studies classrooms"
+      ]
+    },
+    {
+      "name": "Antonio C La Pastina",
+      "summary": "Studies how a rural Northeast Brazilian community engages media and new technologies through long-term ethnography, plus textual analysis of media representations of minorities.",
+      "summary_zh": "通过长期民族志研究巴西东北部乡村社区如何使用媒介与新技术，并对媒介中少数群体的再现进行文本分析。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "media ethnography",
+        "rural brazil",
+        "media audiences",
+        "indigenous representation",
+        "gender minorities",
+        "online ethnography",
+        "memory",
+        "representation"
+      ]
+    },
+    {
+      "name": "Will Mari",
+      "summary": "Studies the media history of newsroom technology and the analog-to-digital transition in US journalism, along with comparative newsroom history and the First Amendment.",
+      "summary_zh": "研究美国新闻业从模拟到数字转型中的新闻编辑室技术媒介史，以及比较新闻编辑室史与第一修正案。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "media history",
+        "newsroom history",
+        "computerization of newsrooms",
+        "analog-to-digital transition",
+        "first amendment",
+        "media law",
+        "transnational journalism history"
+      ]
+    },
+    {
+      "name": "Jennifer Mercieca",
+      "summary": "Studies the history of American political rhetoric, including citizenship, presidential heroism, demagoguery, and propaganda, through historically informed rhetorical criticism.",
+      "summary_zh": "以历史化的修辞批评研究美国政治修辞史，涵盖公民身份、总统英雄化、煽动政治与宣传。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "political rhetoric",
+        "demagoguery",
+        "donald trump",
+        "propaganda",
+        "american presidency",
+        "citizenship",
+        "public sphere",
+        "american founders"
+      ]
+    },
+    {
+      "name": "Ruth Moon",
+      "summary": "Studies journalists' production practices and professional identities under extreme power imbalances, notably authoritarian journalism in post-conflict Rwanda.",
+      "summary_zh": "研究极端权力失衡情境下记者的新闻生产实践与职业身份，尤其是冲突后卢旺达的威权新闻业。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_AFRICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "authoritarian journalism",
+        "rwanda",
+        "news production",
+        "journalistic identity",
+        "press freedom",
+        "post-conflict media"
+      ]
+    },
+    {
+      "name": "Mariela Morales",
+      "summary": "Studies transnational media flows and platformized popular culture in Latin American and Caribbean diasporas, especially Cuban digital comedy, using qualitative and humanistic methods.",
+      "summary_zh": "运用质性与人文方法，研究拉美与加勒比及其离散群体中的跨国媒介流动与平台化流行文化，尤其是古巴数字喜剧。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "cuban popular culture",
+        "platformization",
+        "diaspora",
+        "transnational media",
+        "digital comedy",
+        "global communication",
+        "worldmaking"
+      ]
+    },
+    {
+      "name": "Kristan Poirot",
+      "summary": "Examines the rhetorical circulation of sex, gender, and race in US social movement rhetoric and public memory of resistance through feminist rhetorical criticism.",
+      "summary_zh": "以女性主义修辞批评考察美国社会运动修辞与抵抗的公共记忆中性、性别与种族认同的流通。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "feminist rhetoric",
+        "public memory",
+        "black freedom movements",
+        "social movement rhetoric",
+        "race and gender",
+        "feminist history"
+      ]
+    },
+    {
+      "name": "Richard L. Street Jr",
+      "summary": "Studies clinician-patient communication, the pathways linking communication to health outcomes, and strategies to increase patient involvement in care.",
+      "summary_zh": "研究医患沟通、传播影响健康结果的路径，以及提高患者参与医疗决策的策略。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "clinician-patient communication",
+        "patient-centered care",
+        "patient involvement",
+        "health outcomes",
+        "healthcare communication",
+        "shared decision making"
+      ]
+    },
+    {
+      "name": "George Allen O Villanueva",
+      "summary": "Studies how communities of color use communication, organizing, media, and expressive culture for place-based advocacy and social change in cities, via engaged critical research.",
+      "summary_zh": "以参与式批判研究，探讨城市有色人种社区如何运用传播、组织、媒介与表达文化开展在地倡导与社会变革。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "communities of color",
+        "place-based advocacy",
+        "community organizing",
+        "intersectionality",
+        "engaged scholarship",
+        "urban communication",
+        "expressive culture",
+        "social change"
+      ]
+    },
+    {
+      "name": "Darrel Wanzer-Serrano",
+      "summary": "Studies rhetoric, race, and Latinx social movements, crafting critical rhetorical histories such as of the New York Young Lords to build decolonial theory.",
+      "summary_zh": "研究修辞、种族与拉丁裔社会运动，撰写批判修辞史（如纽约青年领主党）以建构去殖民理论。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "latinx rhetoric",
+        "young lords",
+        "decolonial theory",
+        "critical race studies",
+        "social movements",
+        "rhetorical history",
+        "latina/o studies"
+      ]
+    },
+    {
+      "name": "Anna Wiederhold Wolfe",
+      "summary": "Studies how collective and stigmatized identities are constituted and contested in organizations and communities, and how dialogue bridges divides, through community-engaged research.",
+      "summary_zh": "通过与社区合作的参与式研究，探讨集体与污名化身份如何在组织和社区中建构与争夺，以及对话如何弥合分歧。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "stigma",
+        "collective identity",
+        "dialogue and deliberation",
+        "engaged scholarship",
+        "legal brothels",
+        "community partnerships",
+        "organizational communication"
+      ]
+    },
+    {
+      "name": "Yiping Xia",
+      "summary": "Studies everyday news engagement, digital journalistic norms, and disinformation among diasporic and marginalized audiences using qualitative, interpretive fieldwork.",
+      "summary_zh": "运用质性与阐释性田野研究，探讨离散及边缘群体的日常新闻参与、数字时代新闻规范与虚假信息。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "news engagement",
+        "news audiences",
+        "disinformation",
+        "chinese diaspora",
+        "journalistic norms",
+        "media sociology",
+        "interpretive methods"
+      ]
+    },
+    {
+      "name": "Meenakshi Yadav",
+      "summary": "Studies the communicative, affective, and organizational dimensions of social movements, theorizing caste as a system of power in labor, hierarchy, and stigma.",
+      "summary_zh": "研究社会运动的传播、情感与组织维度，将种姓理论化为关乎劳动、等级与污名的权力体系。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "caste",
+        "social movements",
+        "organizational communication",
+        "affect",
+        "labor",
+        "stigma",
+        "hierarchy"
+      ]
+    },
+    {
+      "name": "Harry Yan",
+      "summary": "Studies the multilevel complexity of media effects on social and cognitive phenomena, with attention to misinformation and social inequity.",
+      "summary_zh": "研究媒介对社会与认知现象影响的多层次复杂性，关注虚假信息与社会不平等。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "media effects",
+        "misinformation",
+        "social inequity",
+        "multilevel analysis",
+        "communication data"
+      ]
+    },
+    {
+      "name": "Yunkang Yang",
+      "summary": "Studies how right-wing media, political actors, and online networks shape US political information and disinformation, using quantitative and computational analysis of large datasets.",
+      "summary_zh": "运用大规模数据的定量与计算分析，研究右翼媒体、政治行动者与网络如何塑造美国政治信息与虚假信息。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "right-wing media",
+        "disinformation",
+        "propaganda",
+        "coordinated link sharing",
+        "facebook",
+        "russian state media",
+        "computational methods",
+        "public opinion"
+      ]
+    },
+    {
+      "name": "Bo Yang",
+      "summary": "Studies how message features, audience traits, emotions, and social norms shape health persuasion and risk perceptions around tobacco, alcohol, and infectious disease.",
+      "summary_zh": "研究信息特征、受众特质、情绪与社会规范如何影响烟草、酒精与传染病等健康议题中的说服与风险感知。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health persuasion",
+        "social norms",
+        "tobacco control",
+        "alcohol",
+        "risk perception",
+        "emotion",
+        "infectious disease",
+        "health equity"
+      ]
+    }
+  ]
+}

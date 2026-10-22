@@ -1,0 +1,1169 @@
+{
+  "slug": "university-of-south-florida",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Mariaelena Bartesaghi",
+      "summary": "Studies power, authority, and accountability in discourse across health, crisis, and institutional settings, using discourse analysis of talk and texts.",
+      "summary_zh": "运用话语分析研究健康、危机与学术等机构场景中的权力、权威与问责。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "discourse studies",
+        "authority",
+        "institutionalization",
+        "accountability",
+        "disability discourse",
+        "clinical dialogue",
+        "organizational crisis",
+        "communication theory"
+      ]
+    },
+    {
+      "name": "Ambar Basu",
+      "summary": "Studies culture, health, and underprivilege in marginalized communities through the culture-centered approach, using critical ethnography and autoethnography.",
+      "summary_zh": "以文化中心路径研究边缘化社群中的文化、健康与弱势处境，采用批判民族志与自我民族志方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "critical health communication",
+        "culture-centered approach",
+        "underprivilege",
+        "critical ethnography",
+        "autoethnography",
+        "global health",
+        "marginalized communities",
+        "narratives of health"
+      ]
+    },
+    {
+      "name": "Keith Berry",
+      "summary": "Studies how identities are co-constituted in relational communication, focusing on bullying and LGBTQ+ cultures, using autoethnography, fieldwork, and phenomenology.",
+      "summary_zh": "研究关系传播中身份的共同建构，聚焦霸凌与LGBTQ+文化，采用自我民族志、田野调查与现象学方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "relational communication",
+        "cultural identity",
+        "bullying",
+        "lgbtq+",
+        "autoethnography",
+        "reflexivity",
+        "phenomenology",
+        "interpersonal conflict"
+      ]
+    },
+    {
+      "name": "Patrice Buzzanell",
+      "summary": "Studies careers, work-life policy, resilience, gender, and engineering design and ethics in organizations, including NSF-funded development of engineering ethics scales.",
+      "summary_zh": "研究组织中的职业生涯、工作与生活政策、韧性、性别以及工程设计与伦理，包括由NSF资助的工程伦理量表开发。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "career",
+        "work-life policy",
+        "resilience",
+        "gender",
+        "engineering design",
+        "engineering ethics",
+        "design thinking",
+        "professional formation"
+      ]
+    },
+    {
+      "name": "Tianen Chen",
+      "summary": "Studies how social support, interpersonal conversation, and identity shape responses to persuasive health messages among racial and sexual minorities, using mixed methods.",
+      "summary_zh": "运用混合方法研究社会支持、人际对话与身份如何影响种族和性少数群体对说服性健康信息的反应。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health campaigns",
+        "intervention design",
+        "persuasion",
+        "social support",
+        "hiv prevention",
+        "hpv vaccination",
+        "cancer screening",
+        "sexual minorities",
+        "mental health"
+      ]
+    },
+    {
+      "name": "Marleah Dean Kruzel",
+      "summary": "Studies uncertainty, medical decision making, and communication of genetic cancer risk among previvors and in patient-clinician interaction.",
+      "summary_zh": "研究遗传性癌症风险携带者的不确定性、医疗决策与基因风险信息传播，以及医患互动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "patient-clinician interaction",
+        "cancer communication",
+        "genetic risk",
+        "brca",
+        "previvors",
+        "medical decision making",
+        "uncertainty",
+        "hereditary cancer"
+      ]
+    },
+    {
+      "name": "Aisha Durham",
+      "summary": "Studies media representations, Black feminist thought, and hip hop culture in everyday life, using autoethnography and interpretive cultural analysis.",
+      "summary_zh": "运用自我民族志与阐释性文化分析，研究媒介再现、黑人女性主义思想与嘻哈文化在日常生活中的作用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "black feminist thought",
+        "hip hop feminism",
+        "media representation",
+        "cultural studies",
+        "autoethnography",
+        "performance",
+        "african american feminist studies"
+      ]
+    },
+    {
+      "name": "Aubrey Huber",
+      "summary": "Studies the intersections of performance and pedagogy, including public speaking instruction and instructor development.",
+      "summary_zh": "研究表演与教学法的交叉，包括公共演讲教学与教师培养。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "performance studies",
+        "pedagogy",
+        "public speaking",
+        "instructional communication",
+        "teacher development"
+      ]
+    },
+    {
+      "name": "Sonia Ivancic",
+      "summary": "Studies how organizing around embodied difference shapes work, health, and food justice, using feminist and narrative analysis of discourse and materiality.",
+      "summary_zh": "运用女性主义与叙事视角分析话语与物质性，研究围绕身体差异的组织过程如何影响工作、健康与食物正义。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "food justice",
+        "food insecurity",
+        "embodiment",
+        "materiality",
+        "community organizing",
+        "artistic activism",
+        "food policy",
+        "narrative"
+      ]
+    },
+    {
+      "name": "Navita James",
+      "summary": "Studies ethnic and gender diversity in media and culture, including narrative images of motherhood and the Madonna, and diversity teaching and intervention.",
+      "summary_zh": "研究媒介与文化中的族裔和性别多样性，包括母性与圣母形象的叙事，以及多样性教学与干预。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "gender and culture",
+        "diversity",
+        "motherhood",
+        "madonna imagery",
+        "narrative",
+        "media studies"
+      ]
+    },
+    {
+      "name": "Peter Jensen",
+      "summary": "Studies how social and cultural assumptions shape everyday organizing and organizational agency, using ethnographic, rhetorical, and interview methods.",
+      "summary_zh": "运用民族志、修辞与访谈方法，研究社会文化假设如何塑造日常组织实践与组织能动性。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "organizing",
+        "epistemology",
+        "organizational agency",
+        "sensemaking",
+        "ethnography",
+        "rhetoric of organizing"
+      ]
+    },
+    {
+      "name": "José Ángel Maldonado",
+      "summary": "Studies rhetoric of violence, neoliberalism, gender, and borders in contemporary Mexican visual culture, using rhetorical theory, film criticism, and memoir.",
+      "summary_zh": "运用修辞理论、影视批评与回忆录写作，研究当代墨西哥视觉文化中的暴力、新自由主义、性别与边界修辞。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "rhetorical theory",
+        "film and television criticism",
+        "mexican culture",
+        "neoliberalism",
+        "border studies",
+        "indigeneity",
+        "visual rhetoric",
+        "violence"
+      ]
+    },
+    {
+      "name": "Chris McRae",
+      "summary": "Studies listening, performances of music and sound, and creative approaches to inquiry from a performance studies perspective.",
+      "summary_zh": "从表演研究视角研究聆听、音乐与声音的表演以及创造性的研究路径。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "performance studies",
+        "listening",
+        "music",
+        "sound studies",
+        "creative inquiry",
+        "arts-based research"
+      ]
+    },
+    {
+      "name": "Mahuya Pal",
+      "summary": "Studies organizational communication from the perspectives of communities worldwide, examining culture, structure, and agency amid global economic and environmental issues.",
+      "summary_zh": "从全球社群视角研究组织传播，考察全球经济与环境议题中的文化、结构与能动性。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "organizational communication",
+        "culture",
+        "structure",
+        "agency",
+        "global communities",
+        "organizational leadership and change",
+        "intercultural communication"
+      ]
+    },
+    {
+      "name": "Huma Rasheed",
+      "summary": "Studies the role of new media and technology in political and health contexts, using surveys, experiments, content analysis, and computational tools.",
+      "summary_zh": "运用调查、实验、内容分析与计算工具，研究新媒体与技术在政治与健康情境中的作用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "political communication",
+        "media effects",
+        "new media",
+        "computational social science",
+        "presidential debates",
+        "health disparities",
+        "political disparities"
+      ]
+    },
+    {
+      "name": "Joshua Scacco",
+      "summary": "Studies presidential and political communication, media content and effects, and how leaders use communication technologies for democratic governance, using quantitative methods.",
+      "summary_zh": "运用量化方法研究总统与政治传播、媒介内容与效果，以及领导者如何运用传播技术推进民主治理。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "presidential communication",
+        "political communication",
+        "digital democracy",
+        "media effects",
+        "democratic governance",
+        "quantitative methods",
+        "political dimensions of public health"
+      ]
+    },
+    {
+      "name": "Steven Wilson",
+      "summary": "Studies how people navigate difficult conversations, influence goals, and communicative resilience in families, health, and workplaces, including military families.",
+      "summary_zh": "研究人们如何在家庭、健康与职场中应对困难对话、影响目标与沟通韧性，包括军人家庭。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "difficult conversations",
+        "military families",
+        "veterans",
+        "resilience",
+        "compliance gaining",
+        "conflict and negotiation",
+        "interpersonal influence",
+        "job loss"
+      ]
+    }
+  ]
+}

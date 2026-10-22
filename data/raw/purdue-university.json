@@ -1,520 +1,497 @@
 {
- "university": "Purdue University",
- "slug": "purdue-university",
- "scraped_at": "2026-10-21",
- "departments": [
-  {
-   "name": "Brian Lamb School of Communication",
-   "school": "College of Liberal Arts",
-   "directory_url": "https://cla.purdue.edu/academic/communication/directory/index.html",
-   "phd_program_url": "https://cla.purdue.edu/academic/communication/graduate/index.html",
-   "phd_program_name": "PhD in Communication",
-   "notes": "Single static directory page with tables by section (Faculty, Staff, Emeriti Faculty, Senior Lecturer, Lecturer, Overload Lecturer, Limited Term Lecturer, Graduate Student, Courtesy Faculty, Online Graduate Program Lecturer). Faculty section has 26 rows; 4 Professors of Practice excluded -> 22 tenure-line faculty."
-  }
- ],
- "faculty": [
-  {
-   "name": "Josh Boyd",
-   "title": "Interim School Head",
-   "rank": "Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/josh-boyd.html",
-   "personal_url": "http://web.ics.purdue.edu/~boyd/",
-   "photo_url": "https://cla.purdue.edu/directory/images/josh-boyd1.jpg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Sports Communication",
-    "Corporate advocacy and issue management",
-    "Organizational rhetoric",
-    "Sports public relations",
-    "Legitimacy",
-    "Trust",
-    "Naming"
-   ],
-   "bio": "Get to Know Professor Josh Boyd\nMy primary research interests are sports communication, sponsorship and naming, corporate discourse, organizational rhetoric and pedagogy (especially assessment of student learning). My primary teaching interests are corporate rhetoric, issue management, sports communication, and communication teaching.\nI typically work with graduate students who are interested in rhetoric, organizational discourse, and teaching. As an advisor, my goal is to help graduate students reach their goals, and I don't assume that all graduate students have the same goals. So, if a student really wants to prepare to be a professor at a primarily teaching-oriented institution, I support that goal. And if a student wants to prepare for a research-intensive faculty job, I can back that goal as well. Some of my graduate students have targeted the corporate world, and we have worked together to map out a strategy for that goal as well. I want graduate students to achieve their understanding of success as a result of their graduate studies. My priorities are quick response times and feedback that moves students toward improvement. My currency isn't gold stars, but suggestions to make students' work stronger and more thoughtful. I like to help students develop a plan and a schedule, after which I'll do my best to hold up my end of the responsibility for making that schedule work.\nBio\nPh.D., Indiana University\nM.A., Ohio University\nB.A., Lipscomb University\nDr.",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": "Directory and profile list only 'Interim School Head'; the school's About page (https://cla.purdue.edu/communication/about/) states 'Professor and Interim Head, Brian Lamb School of Communication'."
-  },
-  {
-   "name": "Robert X. Browning",
-   "title": "Professor, Director of C-SPAN Archives, & Faculty Director of Center for C-SPAN Scholarship & Engagement",
-   "rank": "Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/robert-browning.html",
-   "personal_url": null,
-   "photo_url": "https://cla.purdue.edu/directory/images/robert-browning.png",
-   "google_scholar_url": null,
-   "research_areas": [
-    "U.S. Congress and Media",
-    "Media and Politics"
-   ],
-   "bio": "Ph.D. University of Wisconsin-Madison\nM.A. University of Wisconsin-Madison\nB.S. Marquette University\nSpecialization\nAmerican Politics\nAffiliation\nProfessor, Lamb School of Communication\nResearch Summary\nRobert X Browning teaches courses on the U.S. Congress and media and politics. He serves as Executive Director of the C-SPAN Archives located in the Purdue Research Park, as well as Director of the campus-based Center for C-SPAN Scholarship & Engagement. His current research focuses on floor behavior in Congress and communication. His most recent books include six edited volumes on research using the C-SPAN Archives.\nAwards\n2010 George Foster Peabody award for excellence in communication received for creation of the C-SPAN Video Library.\n2010 Golden Beacon award for public affairs initiative in cable industry.\nHighest award of the Cable Communications Association.\nSelected Publications\nBrowning, Robert X. (Editor). 2023.\nPower and Politics in the Media: The Year in C-SPAN Archives Research, Vol. 9.\nWest Lafayette, IN: Purdue University Press.\nBrowning, Robert X. (Editor). 2015.\nExploring the C-SPAN Archives: Advancing the Research Agenda (Year in C-SPAN Archives Research) . West Lafayette, IN: Purdue University Press.\nBrowning, Robert X. 2014.\nThe C-SPAN Archives: An Interdisciplinary Resource for Discovery, Learning, and Engagement (ePub) . West Lafayette, IN: Purdue University Press.\nBrowning, Robert X. 2014.\nThe Televised Congress. An electronic text for studying the U.S.",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": "Profile also lists 'Professor // Political Science' (joint); listed as core faculty in the Communication directory."
-  },
-  {
-   "name": "Emily Buehler",
-   "title": "Associate Professor",
-   "rank": "Associate Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/emily-buehler.html",
-   "personal_url": "http://www.emilymbuehler.com/",
-   "photo_url": "https://cla.purdue.edu/academic/communication/directory/emily-buehler.jpg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Supportive communication",
-    "Computer-mediated communication",
-    "interpersonal communication"
-   ],
-   "bio": "Get to Know Professor Emily Buehler\nMy research investigates how and why personal and social media influence processes of supportive communication in interpersonal relationships. I seek to explain how communicators might best leverage opportunities associated with exchanging support online and identify the mechanisms driving outcomes of technologically-mediated interpersonal interactions. I teach courses focused on interpersonal communication, close relationships, and the role of communication technologies in our social lives.\nI typically work with graduate students who are interested in processes of interpersonal communication, supportive communication, and/or computer-mediated communication. Research collaborations with graduate students usually center on areas where we share significant overlap in interests. When it comes to advising and mentoring graduate students, I seek to support students’ growth and development. I encourage students to identify professional goals early and revisit them regularly, and I aim to provide support and guidance to help them make decisions aligned with their goals. I seek to encourage their intellectual independence and foster practices like goal-setting and daily writing to support their research.\nBIOGRAPHY\nPh.D., University of Iowa\nM.A., Wake Forest University\nB.A., Ohio Northern University\nEmily M.",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": null
-  },
-  {
-   "name": "Gabrielle Byrd",
-   "title": "Assistant Professor",
-   "rank": "Assistant Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/gabrielle-byrd.html",
-   "personal_url": null,
-   "photo_url": "https://cla.purdue.edu/academic/communication/directory/byrd-gabrielle.jpg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Intergroup communication",
-    "(dis)ability",
-    "health",
-    "identity"
-   ],
-   "bio": "Get to Know Professor Gabrielle Byrd\nMy primary research interests are intergroup communication, (dis)ability, health, and identity. I am particularly interested in exploring ways in which societal norms, values, and stereotypes relate to communication, relational, and identity processes and how all those processes influence interpersonal, intergroup, and health outcomes. I enjoy teaching classes related to my research interests, particularly classes that examine the way our various identities impact our communication, relationships, and health outcomes.\nI look forward to working with graduate students who are interested in interpersonal communication, intergroup communication, health communication, and stigma communication. I am particularly excited to work with students who are interested in the intersections of these areas. As an advisor, I will work with students to realize and actualize their goals, whatever those may be. I am a hands-on teacher and look forward to carrying that into advising, primarily through collaboration.",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": null
-  },
-  {
-   "name": "Charlie Catalano",
-   "title": "Assistant Professor",
-   "rank": "Assistant Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/charlie-catalano.html",
-   "personal_url": null,
-   "photo_url": "https://cla.purdue.edu/directory/images/charlie-catalano.jpg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Biopharmaceutical public relations",
-    "Advertising and advocacy",
-    "Public relations planning, techniques, and writing",
-    "Executive communications",
-    "Healthcare PR"
-   ],
-   "bio": "Charlie Catalano is an assistant professor of practice in public relations (PR) in the Brian Lamb School of Communication where he teaches courses in PR planning, techniques and writing.\nPrior to joining Purdue University, Charlie worked in industry, nationally or internationally, at The Hertz Corporation, Shire Pharmaceuticals, Ethicon (a Johnson & Johnson company), Pfizer, Wyeth Pharmaceuticals, Syngenta and Novartis Crop Protection. All of these experiences enabled him to become a well-rounded communications professional.\nCharlie also worked as a corporate and independent trainer, having designed and conducted more than 25 communications skills workshops for national trade associations, universities, corporations and nonprofit organizations. In addition, he served in the U.S. Army.\nCharlie earned a doctorate in strategic communication from Purdue University, a master’s and bachelor’s in communication studies from The University of North Carolina at Greensboro and an associate’s in liberal arts from Valley Forge Military Junior College. He holds the Accredited in Public Relations (APR) designation and is certified in reputation management from the Public Relations Society of America.\nWhen he’s not teaching or spending time with his high school sweetheart, Charlie enjoys participating in epic ultra-endurance events.",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": null
-  },
-  {
-   "name": "Hyesun Choung",
-   "title": "Assistant Professor",
-   "rank": "Assistant Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/choung-hyesun.html",
-   "personal_url": null,
-   "photo_url": "https://cla.purdue.edu/directory/images/choung-hyesun.jpg",
-   "google_scholar_url": null,
-   "research_areas": [],
-   "bio": "Dr. Hyesun Choung (Ph.D., University of Wisconsin–Madison) is an Assistant Professor in the Brian Lamb School of Communication at Purdue University. Her research focuses on the lay psychology of AI, examining how people make sense of, evaluate, and respond to AI systems in communicative contexts. She is also interested in the social and ethical implications of AI, especially questions of trust, fairness, and the social legitimacy of algorithmic decision-making. Dr. Choung’s ongoing projects explore human–AI collaboration, perceptions of generative AI, and how people attribute qualities such as trust, morality, and fairness to AI systems. Before joining Purdue, Dr. Choung worked as a postdoctoral research associate and later as a faculty member at Michigan State University.",
-   "sources": [
-    "department_profile"
-   ],
-   "notes": "Directory and profile give no research-focus field and she is not listed on the graduate area pages; research described only in bio (lay psychology of AI, human-AI interaction, trust/fairness in AI)."
-  },
-  {
-   "name": "Jessica R. Collier",
-   "title": "Assistant Professor",
-   "rank": "Assistant Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/jessica-r-collier.html",
-   "personal_url": null,
-   "photo_url": "https://cla.purdue.edu/directory/images/jessica-r-collier.jpeg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Social media",
-    "political polarization",
-    "misinformation"
-   ],
-   "bio": "Jessica R. Collier is an assistant professor in the Brian Lamb School of Communication. Her research uses experimental and survey methodologies to explore how media organizations and technology platforms interact in ways that can be beneficial or detrimental to democracy. Currently, she studies how exposure to content on social media such as fact checks, misinformation, or political memes affects the accuracy of people's beliefs, levels of polarization, and the tendency to block or unfriend others online. She is also working on projects to understand the social and political implications of using social media for news in the absence of traditional local news outlets. She enjoys teaching political communication and courses that explore the connections between media, technology, and politics.\nHer work has been published in\nPolitical Communication, Journal of Computer-Mediated Communication, new media & society, International Journal of Communication, and\nDigital Journalism, among others. Collier received her Ph.D. from the University of Texas at Austin and was a postdoctoral research fellow at the Center for Media Engagement at UT-Austin.",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": null
-  },
-  {
-   "name": "Stacey Connaughton",
-   "title": "Professor",
-   "rank": "Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/stacey-connaughton.html",
-   "personal_url": "https://www.purdue.edu/discoverypark/ppri/",
-   "photo_url": "https://cla.purdue.edu/directory/images/stacey-connaughton.jpg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Identification",
-    "leadership",
-    "distributed organizing forms",
-    "peacebuilding policy"
-   ],
-   "bio": "Get to Know Professor Stacey Connaughton\nMy primary research interests are leadership, political violence prevention, and policy. My primary teaching interests are identity and identification, leadership, and peacebuilding.\nI typically work with graduate students who are interested in identity, leadership, engaged scholarship, organizational communication, Africa, Latin America, peacebuilding and development. My approach to graduate mentoring aligns with my Discovery and Engagement foci. I try to help develop each graduate student’s own leadership in discovery, learning, and engagement while attending to the entire human being during that process. Mentoring graduate students, for me, involves exposing them to as many new opportunities as possible. For me, a key part of mentoring is to give graduate students the space and opportunities to lead, and for me to coach them along the way. That includes giving graduate students the opportunity to develop as mentors and teachers.\nI believe my role as major professor is not only to help graduate students select coursework, to assist them in applying for internal grant support, and to advise their Masters theses or dissertations, but also to mentor them on the publication process and on teaching. That commitment extends to graduate students who are not my advisees as well. I talk with graduate students about the peer-review process and try to encourage them not to give up; I give them opportunities to be lead author on manuscripts.",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": "personal_url is the Purdue Policy Research Institute site, which she directs."
-  },
-  {
-   "name": "Jeremy Foote",
-   "title": "Assistant Professor",
-   "rank": "Assistant Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/jeremy-foote.html",
-   "personal_url": "https://jeremydfoote.com/",
-   "photo_url": "https://cla.purdue.edu/directory/images/jeremy-foote.jpg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Computational social science",
-    "Online organizations",
-    "Collective decision making",
-    "Cooperation",
-    "Collective behavior",
-    "Data communication"
-   ],
-   "bio": "Get to Know Assistant Professor Jeremy Foote\nMy primary research interests are focused around understanding how online communities function as organizations and how they influence collective belief formation. My research typically use computational methods such as large-scale data analysis, simulation, or social network analysis. My primary teaching interests are focused on teaching computational methods, including programming in Python and R, visualization, and social network analysis, as well as social computing and online communities.\nI typically work with graduate students who are interested in taking a computational approach to working with social media or online community data. I am a new professor and while I haven't yet acted as an advisor, I hope to follow the example of the wonderful advisors I have had. They encouraged me to develop my own projects, to lead my own research plan, and treated me like a peer.\nBIo\nJeremy Foote's current research is focused around using computational social science approaches like simulation and large-scale data analysis to study the early stages of online communities. His ongoing projects look at how people perceive their environment and decide which groups to participate in across a number of online and offline contexts, with the goal of understanding why some groups and organizations grow and succeed while most do not.\nHis research interests include: online organizations computational social science collective behavior\nMy website",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": null
-  },
-  {
-   "name": "John O. Greene",
-   "title": "Professor",
-   "rank": "Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/john-o.-greene.html",
-   "personal_url": null,
-   "photo_url": "https://cla.purdue.edu/directory/images/john-greene.png",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Cognitive processes",
-    "Nonverbal communication",
-    "Communication and aging"
-   ],
-   "bio": "Ph.D., University of Wisconsin-Madison\nM.A., Pennsylvania State University\nB.A., Purdue University\nCurrent Positions:\nProfessor, Brian Lamb School of Communication, Purdue University\nFaculty Associate,\nCenter on Aging and the Life Course , Purdue University\nDirector, Publications Board, National Communication Association\nResearch\nPrimary interests in interpersonal communication, nonverbal communication, and communication theory with an emphasis on cognitive approaches to these domains of study. Concerned with explicating those factors that underlie and give rise to mental and overt responses in communication contexts. Current research focuses on message production, social skill, and the effects of aging on communication behavior.\nRepresentative Publications\nGreene, J. O. (2020). Mutually driven ideation and occasions of interpersonal transcendence.\nAtlantic Journal of Communication, 28 , 37-53.\nGreene, J. O. (2019). As good as it gets: Theorizing exceptional experiences of interpersonal connection, mutuality, understanding, insight, and fun. In S. R. Wilson and S. W. Smith (Eds.),\nReflections on interpersonal communication research\n(pp. 113-132). Cognella.\nGreene, J. O. (2019). AAT: Action assembly theory/Alice’s adventures in theoryland. In C. J. Liberman, A. S. Rancer, & T. A. Avtgis (Eds.),\nCasing communication theory\n(pp. 1-13). Kendall Hunt.\nBooks\nGreene, J. O. (2021).\nEssentials of communication skill and skill enhancement: A primer for students and professionals .",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": null
-  },
-  {
-   "name": "Chantel Haughton",
-   "title": "Assistant Professor",
-   "rank": "Assistant Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/chantel-haughton.html",
-   "personal_url": null,
-   "photo_url": "https://cla.purdue.edu/directory/images/chantel-haughton.jpg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Interpersonal Communication",
-    "Health Communication",
-    "Family Communication",
-    "Compounding stressors",
-    "Well-being of Black and Latinx families"
-   ],
-   "bio": "Chantel Haughton\n(Ph.D., University of California, Santa Barbara; M.A., UC Santa Barbara; B.A., University of Iowa) is an Assistant Professor in the Brian Lamb School of Communication at Purdue. Chantel’s research examines how compounding stressors affect the well-being of families, especially Black and Latinx families, and the communication processes (e.g., social support, confirming and disconfirming messages, and conflict) they use that help or hurt their personal and relational health. Using a mixed-methods approach, she considers the intersection of racial and ethnic stigma, chronic stress, mental health, and communication.\nShe has created a foundation for promising future avenues to explore communication about mental health in the family. In addition to contributing to the development of the knowledge base on mental health communication, she is working to expand the literature regarding people of color, as their experiences have traditionally been devalued in academia. More specifically, she explores the mechanisms behind cultural differences in communication practices (as the differences have begun to be documented).\nUltimately, she hopes to understand how minority families can foster resilience and thrive in spite of compounding stressors. Considering the foundational role mental health plays in the well-being of individuals, the family, and society, she believes it is essential to understand the best ways to communicate about this stigmatized issue.",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": null
-  },
-  {
-   "name": "Jennifer Hoewe",
-   "title": "Associate Professor University Faculty Scholar",
-   "rank": "Associate Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/jennifer-hoewe.html",
-   "personal_url": "https://jenniferhoewe.wixsite.com/teachingportfolio",
-   "photo_url": "https://cla.purdue.edu/directory/images/jen-hoewe.jpeg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "political communication",
-    "media psychology",
-    "media effects"
-   ],
-   "bio": "Education\nPh.D., Penn State University\nM.A., Michigan State University\nB.A., Grand Valley State University\nBIO\nDr. Hoewe’s research program falls at the intersection of political communication and media psychology. She studies how and why people consume media content, how they cognitively process media content, and the effects that media content has on them, particularly in political contexts.\nDr. Hoewe is the Associate Director of the Center for American Political History, Media, and Technology (\nCAPT\n). Additionally, she is also Co-Founder and Co-Director of the Purdue Research in Media Effects (\nPRIME\n) Lab (an affiliated lab with CAPT). She currently serves on the Advisory Committee for the Center for C-SPAN Scholarship & Engagement (\nCCSE\n), and she is the former Head of the Communication Theory and Methodology Division of the Association for Education in Journalism and Mass Communication (\nAEJMC\n).\nDr. Hoewe has published more than 50 refereed journal articles and book chapters. Her research has been published in\nHuman Communication Research, Communication Monographs, Media Psychology , and\nJournalism & Mass Communication Quarterly , among others. Her book,\nEnjoyment is Breaking News , will be published by The MIT Press in September 2026. It discusses how the news environment has evolved in recent decades and explains the impact of those changes on news consumers, concluding with recommendations for journalists and the public moving forward.\nIn 2026, Dr.",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": "Profile also lists 'Courtesy Professor // Political Science' and 'University Faculty Scholar'. personal_url is a teaching portfolio site."
-  },
-  {
-   "name": "Ilwoo Ju",
-   "title": "Associate Professor",
-   "rank": "Associate Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/ilwoo-ju.html",
-   "personal_url": null,
-   "photo_url": null,
-   "google_scholar_url": "https://scholar.google.com/citations?user=5jigodwAAAAJ&hl=en&inst=5549692440350501774",
-   "research_areas": [
-    "Consumer decision making in health",
-    "Branding strategy",
-    "Marketing communication effects and processes",
-    "Digital marketing communication",
-    "Pro-consumer issues in marketing/health communication"
-   ],
-   "bio": "Get to Know Associate Professor Ilwoo Ju\nMy research examines consumer coping with persuasion attempts across four areas: AI-driven and algorithmic advertising, data privacy and dark patterns in online consent, health communication, and advertising and privacy regulation. Current projects explore how consumers respond to targeted advertising and data-consent disclosures, how regulatory knowledge shapes vulnerability to deceptive practices, and how people evaluate AI-generated health information and AI-driven brand communication. I teach advertising courses, communication research methods, a graduate seminar in strategic communication planning, and a graduate seminar in mediation and moderation modeling.\nI work with graduate students interested in advertising, marketing communications, and health communication message effects and processes, with research career goals in academia or industry. My mentoring is mostly project-based, built around ongoing studies — currently spanning data-consent dark patterns, AI advertising disclosure, and regulatory knowledge — and I value relationships that continue beyond a given project.\nBio\nIlwoo Ju\nPh.D. is an Associate Professor of Advertising & Health Communication in the Brian Lamb School of Communication at Purdue University, where he currently serves as a Redding Faculty Fellow (2026–27).",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": "Profile 'Website' field links to Google Scholar; no photo on profile."
-  },
-  {
-   "name": "Seungyoon Lee",
-   "title": "Professor",
-   "rank": "Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/seungyoon-lee.html",
-   "personal_url": null,
-   "photo_url": "https://cla.purdue.edu/directory/images/seungyoon-lee.jpg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Network analysis",
-    "Resilience",
-    "Disaster recovery",
-    "Social network analysis",
-    "Complex systems",
-    "Network perception and evolution",
-    "Organizational and social networks",
-    "Organizational ecology",
-    "Disaster resilience"
-   ],
-   "bio": "Ph.D., University of Southern California\nM.A., University of Southern California\nB.A., Yonsei Univesity\nCurriculum Vitae\nGoogle Scholar\nResearch and Teaching\nProfessor Lee’s research interest focuses on the evolution of communication, knowledge, and collaboration networks in and across organizations over time. Her current emphasis is on applying theories of socio-cultural evolution to complex forms of networks including multiplex and multimodal networks. Her ongoing projects examine the evolution of creative interaction and social ties in project teams; the role of network ties among people and organizations in disaster recovery; and the determinants and outcomes of multiplex ties in various settings. Professor Lee has received the 2009 W. Charles Redding Dissertation Award from the Organizational Communication Division of the International Communication Association. She teaches courses on social network analysis, organizational communication as well as research methods and statistics.\nRepresentative Publications\nLee, S., Siebeneck, L., Benedict, B., Yabe, T., Jarvis, C., & Ukkusuri, S. (in press). Patterns of social support and trajectories of household recovery after Superstorm Sandy: Contrasting influences of bonding and bridging social capital.\nNatural Hazards Review.\nLee, S., Benedict, B., Ge, Y. G., Murray-Tuite, P., & Ukkusuri, S. V. (2021).",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": null
-  },
-  {
-   "name": "Sue Lim",
-   "title": "Assistant Professor",
-   "rank": "Assistant Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/sue-lim.html",
-   "personal_url": null,
-   "photo_url": "https://cla.purdue.edu/directory/images/lim-sue.jpg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Examining interpersonal dynamics underlying human-AI interaction",
-    "Dyadic interactions",
-    "Group dynamics",
-    "Technology-mediated communication",
-    "Human-AI interaction",
-    "Extended reality (XR) and other emerging technologies",
-    "Computer-mediated communication",
-    "Decision making and productivity"
-   ],
-   "bio": "Sue Lim is a social scientist with a strong interest in how artificial intelligence (AI), extended reality (XR), and other emerging technologies shape human judgment, decision-making, and behavior across contexts. Her current work focuses on three broad streams of research: 1) examining interpersonal dynamics underlying human-AI interaction in XR, 2) designing emerging technology-based interventions for speciﬁc groups or populations, and 3) leveraging AI and XR as methodological tools to study human decision-making and behavior more broadly. Sue Lim combines many methodological approaches to answer her research questions (e.g., physiological and behavioral measures, computational methods, qualita.ve interviews, self- reports).\nSue holds a B.S. in Economics with a concentration in Marketing from the Wharton School of the University of Pennsylvania and a Ph.D. in Communication from Michigan State University. Before joining Purdue, Sue was a Postdoctoral Researcher at Michigan State University, affiliated with the CARISMA Lab in the department of Communication.",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": null
-  },
-  {
-   "name": "Sorin Adam Matei",
-   "title": "Professor",
-   "rank": "Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/sorin-adam-matei.html",
-   "personal_url": null,
-   "photo_url": "https://cla.purdue.edu/directory/images/sorin-adam-matei.jpg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "international communication",
-    "human-technology interaction",
-    "AI ethics",
-    "computational communication research",
-    "social media and online collaboration",
-    "data storytelling",
-    "strategy and security studies",
-    "defense technology",
-    "military modeling and simulation",
-    "disinformation",
-    "technology and warfare",
-    "Virtual communities and AI-human interaction",
-    "Data ethics",
-    "Virtual marketing",
-    "Communication technologies"
-   ],
-   "bio": "Biography\nSorin Adam Matei is\nProfessor of Communication in the\nBrian Lamb School of Communication at\nPurdue University . He serves as Assistant Vice President for Partnerships, Director of the\nMS in Strategy in Security and Defense Technologies , and Director of the\nFORCES Initiative: Strategy, Security, and Social Systems .\nDr. Matei’s research examines the relationship between human-AI and technology interaction, strategy, and social organization. His work has developed across three related areas: international communication and global information systems; human interaction with digital and AI technologies; and the role of emerging technologies in security and defense. He holds an MA in International Relations from\nThe Fletcher School of Law and Diplomacy at Tufts University and a PhD in Communication Research from the\nAnnenberg School for Communication at the University of Southern California .\nHis earlier research addressed international communication networks, urban communication infrastructures, and the ways media systems shape public perception, community formation, and global interaction. This work led to a broader research program on digital media, online collaboration, computational social science, social media governance, and human-technology interaction.\nMore recently, Dr. Matei’s work has focused on strategy, security, and defense technology.",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": null
-  },
-  {
-   "name": "Marifran Mattson",
-   "title": "Professor",
-   "rank": "Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/marifran-mattson.html",
-   "personal_url": null,
-   "photo_url": "https://cla.purdue.edu/archive-main/jpg/2019/marifran-mattson.jpg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Health campaigns",
-    "health advocacy",
-    "service-learning"
-   ],
-   "bio": "Ph.D., Arizona State University\nM.A., Marquette University\nB.A., St. Norbert College\nResearch\nMarifran Mattson, Ph.D. (Arizona State University, 1995) is Professor and Head of the Brian Lamb School of Communication at Purdue University. Professor Mattson emphasizes the Scholarship of Engagement by exploring the intersection of designing, implementing, and evaluating health communication campaigns, health advocacy initiatives, and service-learning pedagogy.  Prior to being called into academic administration and following a serious accident, Mattson and her students initiated the Motorcycle Safety at Purdue campaign, which integrated her professional interests. She also was involved in passing legislation that mandates health insurance companies to provide coverage for prosthetics in Indiana.  Professor Mattson is a coauthor of three books;\nHealth as Communication Nexus: A Service-Learning Approach,  Health Advocacy: A Communication Approach, and\nMetatheory and Interviewing: Harm Reduction and\nMotorcycle Safety in Practice .  In addition, her research has been published in journals including,\nBulletin of the American College of Surgeons, Communication Monographs, Health Communication, Health Promotion Practice, Health Marketing Quarterly, Journal of Applied Communication Research, Journal of Health Communication, and\nSocial Science & Medicine .",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": null
-  },
-  {
-   "name": "Evan Perrault",
-   "title": "Associate Professor, Director of Graduate Studies",
-   "rank": "Associate Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/evan-perrault.html",
-   "personal_url": null,
-   "photo_url": "https://cla.purdue.edu/directory/images/evan-perrault.jpg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Health campaign message design",
-    "healthcare marketing",
-    "program evaluation"
-   ],
-   "bio": "Ph.D., Michigan State University\nM.A., Michigan State University\nB.A., University of Wisconsin-Eau Claire\nEvan K. Perrault (Ph.D., Michigan State University, 2014) is an Associate Professor of Health Communication in the Brian Lamb School of Communication.\nA major research focus for Dr. Perrault is trying to find the best ways healthcare systems can design more effective physician biographies on their websites to help prospective patients more easily find new healthcare providers – especially looking at the potential effectiveness of videos as a means to reduce patient uncertainty and apprehension.\nHe also enjoys designing and implementing strategic communication campaigns, and determining the best ways to evaluate their impact. For example, he has worked with campus clients to conceptualize and perform interventions around mental health help seeking, and students’ sustainability behaviors.\nAdditionally, he is interested in translational research – finding ways to distill complex scientific information into pieces of information the lay public can more successfully comprehend and use. Dr. Perrault classifies himself as a mixed-methodologist – using a combination of both quantitative and qualitative methodologies to help answer research questions and to create the most effective messages possible.",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": null
-  },
-  {
-   "name": "Torsten Reimer",
-   "title": "Professor and Director of College of Liberal Arts Research Academy",
-   "rank": "Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/torsten-reimer.html",
-   "personal_url": "http://web.ics.purdue.edu/~treimer/",
-   "photo_url": "https://cla.purdue.edu/directory/images/reimer-torsten.jpg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "AI and Human Decision Making",
-    "Cognitive Models",
-    "Social Influence",
-    "Decision making",
-    "Cognitive processes",
-    "Groups and teams",
-    "Consumer behavior",
-    "Risk communication"
-   ],
-   "bio": "Ph.D., Free University of Berlin (Germany)\nM.A., Free University of Berlin (Germany)\nB.A., University of Tuebingen (Germany)\nResearch Statement\nProfessor Reimer directs the\nCommunication and Cognition Lab . Current projects of the lab focus on the role of AI in decision making, including the study of LLM-agent and mixed human-agent teams. Research studies in the lab utilize a variety of social scientific methods, including experiments with human participants as well as computational methods and agent-based simulations. Professor Reimer's research program has the overarching goal to develop and test theories about the interplay of communication and decision making in socio-technological contexts that utilize AI.\nProfessor Reimer obtained a Ph.D. in Social Psychology from the Free University of Berlin and a Habilitation degree in Cognitive Psychology from the University of Basel in Switzerland. Before moving to the US, he worked as a research scientist at the Max Planck Institute for Human Development in Berlin (Germany). Professor Reimer has co-authored over 100 publications in scholarly outlets and delivered with his students over 150 conference presentations.",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": null
-  },
-  {
-   "name": "Brett Sherrick",
-   "title": "Associate Professor",
-   "rank": "Associate Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/brett-sherrick.html",
-   "personal_url": null,
-   "photo_url": "https://cla.purdue.edu/directory/images/brett-sherrick.jpg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Positive impact of media",
-    "Video games",
-    "Media industries",
-    "Media effects"
-   ],
-   "bio": "Get to Know Assistant Professor Brett Sherrick\nMy primary research areas are video games, positive media psychology, and media industries and my primary teaching interests are video games, mass communication, and research methods. I typically work with graduate students who are interested in games, game cultures, and mass communication.\nI want graduate students to be successful people - not just successful graduate students. As an advisor, I encourage students to clearly define the purpose of their graduate education and then help them identify ways to make the best use of their graduate work to achieve their goals. I hope to help graduate students develop the skills, connections, and perspectives that they need to be successful - in either academic or industry fields. I like to involve students in my work but also hope to help them develop their own.\nEducation\nPhD, The Pennsylvania State University\nMA, University of North Carolina at Wilmington\nBA, University of North Carolina at Chapel Hill\nBio\nBrett Sherrick (Ph.D., The Pennsylvania State University) is an associate professor in the Brian Lamb School of Communication at Purdue University and the co-founder and co-director of the\nPurdue Research In Media Effects (PRIME) Lab . His research interests include entertainment media, media psychology, and media industries, and he primarily examines these topics from a social scientific perspective.",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": null
-  },
-  {
-   "name": "Hwanseok Song",
-   "title": "Associate Professor",
-   "rank": "Associate Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/hwanseok-song.html",
-   "personal_url": null,
-   "photo_url": "https://cla.purdue.edu/directory/images/hwanseok-song.jpg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Risk Communication",
-    "trust",
-    "credibility",
-    "social cognitive approaches to risk"
-   ],
-   "bio": "Ph.D., Cornell University\nM.A., Johns Hopkins University\nB.A., Yonsei University\nProfessor Song's research focuses examines social cognitive processes underlying risk, science, and environmental communication, with a particular focus on how people’s judgments about others such as public authorities and fellow citizens further shape their communicative practices, attitudes and behavior. Using experimental and survey methods, he has examined the nature of judgments such as trust, fairness, justice, and norm violation, as well as how these judgments shape responses to risk, authorities, and fellow citizens. He teaches courses on risk communication, persuasion, and judgment and decision making.\nSelect Publications\nSong, H. & Adu Gyamfi, P. (2025). How values guide trust: The multiple roles of science-related value predispositions in shaping trustworthiness and trust in scientific authorities.\nScience Communication . Advance online publication.\nSong, H. & Oh, J. (2025). Unpacking ingroup source effects in politically polarized issues: The interplay of social identity, moral framing, and credibility.\nCommunication Studies . Advance online publication.\nSong, H. & Mbah, P. T. (2024). When trust matters: Perceived characteristics of behavioral guidance as moderators of trust in compliance decisions.\nScience Communication . Advance online publication.\nSong, H., Ju, I., & Wright, T. O. (2024).",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": null
-  },
-  {
-   "name": "Diana Zulli",
-   "title": "Associate Professor",
-   "rank": "Associate Professor",
-   "department": "Brian Lamb School of Communication",
-   "profile_url": "https://cla.purdue.edu/directory/profiles/diana-zulli.html",
-   "personal_url": null,
-   "photo_url": "https://cla.purdue.edu/directory/images/diana-zulli.jpg",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Strategic political communication",
-    "scandal",
-    "crisis communication",
-    "digital technology",
-    "communication theory"
-   ],
-   "bio": "Get to Know Assistant Professor Diana Zulli\nMy primary research interests are political communication, communication theory, digital technology, and crisis communication and my primary teaching interests are political communication, public relations, and crisis communication.\nI typically work with graduate students who are interested in political communication, public relations, and social media. When it comes to my approach to graduate advising, I believe in guided autonomy and see my job in that area as twofold: 1) help students successfully and healthily navigate the graduate school process and 2) help graduate students cultivate their own research interests. My work with graduate students is typically project-based and I will invite students to join projects based on topical and methodological alignment.\nBIO\nDr. Zulli’s research focuses on the interaction between communication theory, political rhetoric, and digital technology. In particular, she is interested in (a) how digital technology and social media affect social and political processes; (b) how political elites communicate strategically online an offline to influence public opinion; and (c) how news media portray political elites and events.\nDr.",
-   "sources": [
-    "department_profile",
-    "program_area_pages"
-   ],
-   "notes": null
-  }
- ]
+  "university": "Purdue University",
+  "slug": "purdue-university",
+  "scraped_at": "2026-10-21",
+  "departments": [
+    {
+      "name": "Brian Lamb School of Communication",
+      "school": "College of Liberal Arts",
+      "directory_url": "https://cla.purdue.edu/academic/communication/directory/index.html",
+      "phd_program_url": "https://cla.purdue.edu/academic/communication/graduate/index.html",
+      "phd_program_name": "PhD in Communication",
+      "notes": "Single static directory page with tables by section (Faculty, Staff, Emeriti Faculty, Senior Lecturer, Lecturer, Overload Lecturer, Limited Term Lecturer, Graduate Student, Courtesy Faculty, Online Graduate Program Lecturer). Faculty section has 26 rows; 4 Professors of Practice excluded -> 22 rows. Charlie Catalano (directory shows \"Assistant Professor\") excluded: his live profile states he is an assistant professor of practice in PR and also lists Assistant Teaching Professor (Cornerstone); no research record -> 21 tenure-line faculty."
+    }
+  ],
+  "faculty": [
+    {
+      "name": "Josh Boyd",
+      "title": "Interim School Head",
+      "rank": "Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/josh-boyd.html",
+      "personal_url": "http://web.ics.purdue.edu/~boyd/",
+      "photo_url": "https://cla.purdue.edu/directory/images/josh-boyd1.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Sports Communication",
+        "Corporate advocacy and issue management",
+        "Organizational rhetoric",
+        "Sports public relations",
+        "Legitimacy",
+        "Trust",
+        "Naming"
+      ],
+      "bio": "Get to Know Professor Josh Boyd\nMy primary research interests are sports communication, sponsorship and naming, corporate discourse, organizational rhetoric and pedagogy (especially assessment of student learning). My primary teaching interests are corporate rhetoric, issue management, sports communication, and communication teaching.\nI typically work with graduate students who are interested in rhetoric, organizational discourse, and teaching. As an advisor, my goal is to help graduate students reach their goals, and I don't assume that all graduate students have the same goals. So, if a student really wants to prepare to be a professor at a primarily teaching-oriented institution, I support that goal. And if a student wants to prepare for a research-intensive faculty job, I can back that goal as well. Some of my graduate students have targeted the corporate world, and we have worked together to map out a strategy for that goal as well. I want graduate students to achieve their understanding of success as a result of their graduate studies. My priorities are quick response times and feedback that moves students toward improvement. My currency isn't gold stars, but suggestions to make students' work stronger and more thoughtful. I like to help students develop a plan and a schedule, after which I'll do my best to hold up my end of the responsibility for making that schedule work.\nBio\nPh.D., Indiana University\nM.A., Ohio University\nB.A., Lipscomb University\nDr.",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": "Directory and profile list only 'Interim School Head'; the school's About page (https://cla.purdue.edu/communication/about/) states 'Professor and Interim Head, Brian Lamb School of Communication'."
+    },
+    {
+      "name": "Robert X. Browning",
+      "title": "Professor, Director of C-SPAN Archives, & Faculty Director of Center for C-SPAN Scholarship & Engagement",
+      "rank": "Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/robert-browning.html",
+      "personal_url": null,
+      "photo_url": "https://cla.purdue.edu/directory/images/robert-browning.png",
+      "google_scholar_url": null,
+      "research_areas": [
+        "U.S. Congress and Media",
+        "Media and Politics"
+      ],
+      "bio": "Ph.D. University of Wisconsin-Madison\nM.A. University of Wisconsin-Madison\nB.S. Marquette University\nSpecialization\nAmerican Politics\nAffiliation\nProfessor, Lamb School of Communication\nResearch Summary\nRobert X Browning teaches courses on the U.S. Congress and media and politics. He serves as Executive Director of the C-SPAN Archives located in the Purdue Research Park, as well as Director of the campus-based Center for C-SPAN Scholarship & Engagement. His current research focuses on floor behavior in Congress and communication. His most recent books include six edited volumes on research using the C-SPAN Archives.\nAwards\n2010 George Foster Peabody award for excellence in communication received for creation of the C-SPAN Video Library.\n2010 Golden Beacon award for public affairs initiative in cable industry.\nHighest award of the Cable Communications Association.\nSelected Publications\nBrowning, Robert X. (Editor). 2023.\nPower and Politics in the Media: The Year in C-SPAN Archives Research, Vol. 9.\nWest Lafayette, IN: Purdue University Press.\nBrowning, Robert X. (Editor). 2015.\nExploring the C-SPAN Archives: Advancing the Research Agenda (Year in C-SPAN Archives Research) . West Lafayette, IN: Purdue University Press.\nBrowning, Robert X. 2014.\nThe C-SPAN Archives: An Interdisciplinary Resource for Discovery, Learning, and Engagement (ePub) . West Lafayette, IN: Purdue University Press.\nBrowning, Robert X. 2014.\nThe Televised Congress. An electronic text for studying the U.S.",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": "Profile also lists 'Professor // Political Science' (joint); listed as core faculty in the Communication directory."
+    },
+    {
+      "name": "Emily Buehler",
+      "title": "Associate Professor",
+      "rank": "Associate Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/emily-buehler.html",
+      "personal_url": "http://www.emilymbuehler.com/",
+      "photo_url": "https://cla.purdue.edu/academic/communication/directory/emily-buehler.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Supportive communication",
+        "Computer-mediated communication",
+        "interpersonal communication"
+      ],
+      "bio": "Get to Know Professor Emily Buehler\nMy research investigates how and why personal and social media influence processes of supportive communication in interpersonal relationships. I seek to explain how communicators might best leverage opportunities associated with exchanging support online and identify the mechanisms driving outcomes of technologically-mediated interpersonal interactions. I teach courses focused on interpersonal communication, close relationships, and the role of communication technologies in our social lives.\nI typically work with graduate students who are interested in processes of interpersonal communication, supportive communication, and/or computer-mediated communication. Research collaborations with graduate students usually center on areas where we share significant overlap in interests. When it comes to advising and mentoring graduate students, I seek to support students’ growth and development. I encourage students to identify professional goals early and revisit them regularly, and I aim to provide support and guidance to help them make decisions aligned with their goals. I seek to encourage their intellectual independence and foster practices like goal-setting and daily writing to support their research.\nBIOGRAPHY\nPh.D., University of Iowa\nM.A., Wake Forest University\nB.A., Ohio Northern University\nEmily M.",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Gabrielle Byrd",
+      "title": "Assistant Professor",
+      "rank": "Assistant Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/gabrielle-byrd.html",
+      "personal_url": null,
+      "photo_url": "https://cla.purdue.edu/academic/communication/directory/byrd-gabrielle.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Intergroup communication",
+        "(dis)ability",
+        "health",
+        "identity"
+      ],
+      "bio": "Get to Know Professor Gabrielle Byrd\nMy primary research interests are intergroup communication, (dis)ability, health, and identity. I am particularly interested in exploring ways in which societal norms, values, and stereotypes relate to communication, relational, and identity processes and how all those processes influence interpersonal, intergroup, and health outcomes. I enjoy teaching classes related to my research interests, particularly classes that examine the way our various identities impact our communication, relationships, and health outcomes.\nI look forward to working with graduate students who are interested in interpersonal communication, intergroup communication, health communication, and stigma communication. I am particularly excited to work with students who are interested in the intersections of these areas. As an advisor, I will work with students to realize and actualize their goals, whatever those may be. I am a hands-on teacher and look forward to carrying that into advising, primarily through collaboration.",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Hyesun Choung",
+      "title": "Assistant Professor",
+      "rank": "Assistant Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/choung-hyesun.html",
+      "personal_url": null,
+      "photo_url": "https://cla.purdue.edu/directory/images/choung-hyesun.jpg",
+      "google_scholar_url": null,
+      "research_areas": [],
+      "bio": "Dr. Hyesun Choung (Ph.D., University of Wisconsin–Madison) is an Assistant Professor in the Brian Lamb School of Communication at Purdue University. Her research focuses on the lay psychology of AI, examining how people make sense of, evaluate, and respond to AI systems in communicative contexts. She is also interested in the social and ethical implications of AI, especially questions of trust, fairness, and the social legitimacy of algorithmic decision-making. Dr. Choung’s ongoing projects explore human–AI collaboration, perceptions of generative AI, and how people attribute qualities such as trust, morality, and fairness to AI systems. Before joining Purdue, Dr. Choung worked as a postdoctoral research associate and later as a faculty member at Michigan State University.",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": "Directory and profile give no research-focus field and she is not listed on the graduate area pages; research described only in bio (lay psychology of AI, human-AI interaction, trust/fairness in AI)."
+    },
+    {
+      "name": "Jessica R. Collier",
+      "title": "Assistant Professor",
+      "rank": "Assistant Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/jessica-r-collier.html",
+      "personal_url": null,
+      "photo_url": "https://cla.purdue.edu/directory/images/jessica-r-collier.jpeg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Social media",
+        "political polarization",
+        "misinformation"
+      ],
+      "bio": "Jessica R. Collier is an assistant professor in the Brian Lamb School of Communication. Her research uses experimental and survey methodologies to explore how media organizations and technology platforms interact in ways that can be beneficial or detrimental to democracy. Currently, she studies how exposure to content on social media such as fact checks, misinformation, or political memes affects the accuracy of people's beliefs, levels of polarization, and the tendency to block or unfriend others online. She is also working on projects to understand the social and political implications of using social media for news in the absence of traditional local news outlets. She enjoys teaching political communication and courses that explore the connections between media, technology, and politics.\nHer work has been published in\nPolitical Communication, Journal of Computer-Mediated Communication, new media & society, International Journal of Communication, and\nDigital Journalism, among others. Collier received her Ph.D. from the University of Texas at Austin and was a postdoctoral research fellow at the Center for Media Engagement at UT-Austin.",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Stacey Connaughton",
+      "title": "Professor",
+      "rank": "Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/stacey-connaughton.html",
+      "personal_url": "https://www.purdue.edu/discoverypark/ppri/",
+      "photo_url": "https://cla.purdue.edu/directory/images/stacey-connaughton.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Identification",
+        "leadership",
+        "distributed organizing forms",
+        "peacebuilding policy"
+      ],
+      "bio": "Get to Know Professor Stacey Connaughton\nMy primary research interests are leadership, political violence prevention, and policy. My primary teaching interests are identity and identification, leadership, and peacebuilding.\nI typically work with graduate students who are interested in identity, leadership, engaged scholarship, organizational communication, Africa, Latin America, peacebuilding and development. My approach to graduate mentoring aligns with my Discovery and Engagement foci. I try to help develop each graduate student’s own leadership in discovery, learning, and engagement while attending to the entire human being during that process. Mentoring graduate students, for me, involves exposing them to as many new opportunities as possible. For me, a key part of mentoring is to give graduate students the space and opportunities to lead, and for me to coach them along the way. That includes giving graduate students the opportunity to develop as mentors and teachers.\nI believe my role as major professor is not only to help graduate students select coursework, to assist them in applying for internal grant support, and to advise their Masters theses or dissertations, but also to mentor them on the publication process and on teaching. That commitment extends to graduate students who are not my advisees as well. I talk with graduate students about the peer-review process and try to encourage them not to give up; I give them opportunities to be lead author on manuscripts.",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": "personal_url is the Purdue Policy Research Institute site, which she directs."
+    },
+    {
+      "name": "Jeremy Foote",
+      "title": "Assistant Professor",
+      "rank": "Assistant Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/jeremy-foote.html",
+      "personal_url": "https://jeremydfoote.com/",
+      "photo_url": "https://cla.purdue.edu/directory/images/jeremy-foote.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Computational social science",
+        "Online organizations",
+        "Collective decision making",
+        "Cooperation",
+        "Collective behavior",
+        "Data communication"
+      ],
+      "bio": "Get to Know Assistant Professor Jeremy Foote\nMy primary research interests are focused around understanding how online communities function as organizations and how they influence collective belief formation. My research typically use computational methods such as large-scale data analysis, simulation, or social network analysis. My primary teaching interests are focused on teaching computational methods, including programming in Python and R, visualization, and social network analysis, as well as social computing and online communities.\nI typically work with graduate students who are interested in taking a computational approach to working with social media or online community data. I am a new professor and while I haven't yet acted as an advisor, I hope to follow the example of the wonderful advisors I have had. They encouraged me to develop my own projects, to lead my own research plan, and treated me like a peer.\nBIo\nJeremy Foote's current research is focused around using computational social science approaches like simulation and large-scale data analysis to study the early stages of online communities. His ongoing projects look at how people perceive their environment and decide which groups to participate in across a number of online and offline contexts, with the goal of understanding why some groups and organizations grow and succeed while most do not.\nHis research interests include: online organizations computational social science collective behavior\nMy website",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": null
+    },
+    {
+      "name": "John O. Greene",
+      "title": "Professor",
+      "rank": "Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/john-o.-greene.html",
+      "personal_url": null,
+      "photo_url": "https://cla.purdue.edu/directory/images/john-greene.png",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Cognitive processes",
+        "Nonverbal communication",
+        "Communication and aging"
+      ],
+      "bio": "Ph.D., University of Wisconsin-Madison\nM.A., Pennsylvania State University\nB.A., Purdue University\nCurrent Positions:\nProfessor, Brian Lamb School of Communication, Purdue University\nFaculty Associate,\nCenter on Aging and the Life Course , Purdue University\nDirector, Publications Board, National Communication Association\nResearch\nPrimary interests in interpersonal communication, nonverbal communication, and communication theory with an emphasis on cognitive approaches to these domains of study. Concerned with explicating those factors that underlie and give rise to mental and overt responses in communication contexts. Current research focuses on message production, social skill, and the effects of aging on communication behavior.\nRepresentative Publications\nGreene, J. O. (2020). Mutually driven ideation and occasions of interpersonal transcendence.\nAtlantic Journal of Communication, 28 , 37-53.\nGreene, J. O. (2019). As good as it gets: Theorizing exceptional experiences of interpersonal connection, mutuality, understanding, insight, and fun. In S. R. Wilson and S. W. Smith (Eds.),\nReflections on interpersonal communication research\n(pp. 113-132). Cognella.\nGreene, J. O. (2019). AAT: Action assembly theory/Alice’s adventures in theoryland. In C. J. Liberman, A. S. Rancer, & T. A. Avtgis (Eds.),\nCasing communication theory\n(pp. 1-13). Kendall Hunt.\nBooks\nGreene, J. O. (2021).\nEssentials of communication skill and skill enhancement: A primer for students and professionals .",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Chantel Haughton",
+      "title": "Assistant Professor",
+      "rank": "Assistant Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/chantel-haughton.html",
+      "personal_url": null,
+      "photo_url": "https://cla.purdue.edu/directory/images/chantel-haughton.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Interpersonal Communication",
+        "Health Communication",
+        "Family Communication",
+        "Compounding stressors",
+        "Well-being of Black and Latinx families"
+      ],
+      "bio": "Chantel Haughton\n(Ph.D., University of California, Santa Barbara; M.A., UC Santa Barbara; B.A., University of Iowa) is an Assistant Professor in the Brian Lamb School of Communication at Purdue. Chantel’s research examines how compounding stressors affect the well-being of families, especially Black and Latinx families, and the communication processes (e.g., social support, confirming and disconfirming messages, and conflict) they use that help or hurt their personal and relational health. Using a mixed-methods approach, she considers the intersection of racial and ethnic stigma, chronic stress, mental health, and communication.\nShe has created a foundation for promising future avenues to explore communication about mental health in the family. In addition to contributing to the development of the knowledge base on mental health communication, she is working to expand the literature regarding people of color, as their experiences have traditionally been devalued in academia. More specifically, she explores the mechanisms behind cultural differences in communication practices (as the differences have begun to be documented).\nUltimately, she hopes to understand how minority families can foster resilience and thrive in spite of compounding stressors. Considering the foundational role mental health plays in the well-being of individuals, the family, and society, she believes it is essential to understand the best ways to communicate about this stigmatized issue.",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Jennifer Hoewe",
+      "title": "Associate Professor University Faculty Scholar",
+      "rank": "Associate Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/jennifer-hoewe.html",
+      "personal_url": "https://jenniferhoewe.wixsite.com/teachingportfolio",
+      "photo_url": "https://cla.purdue.edu/directory/images/jen-hoewe.jpeg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "political communication",
+        "media psychology",
+        "media effects"
+      ],
+      "bio": "Education\nPh.D., Penn State University\nM.A., Michigan State University\nB.A., Grand Valley State University\nBIO\nDr. Hoewe’s research program falls at the intersection of political communication and media psychology. She studies how and why people consume media content, how they cognitively process media content, and the effects that media content has on them, particularly in political contexts.\nDr. Hoewe is the Associate Director of the Center for American Political History, Media, and Technology (\nCAPT\n). Additionally, she is also Co-Founder and Co-Director of the Purdue Research in Media Effects (\nPRIME\n) Lab (an affiliated lab with CAPT). She currently serves on the Advisory Committee for the Center for C-SPAN Scholarship & Engagement (\nCCSE\n), and she is the former Head of the Communication Theory and Methodology Division of the Association for Education in Journalism and Mass Communication (\nAEJMC\n).\nDr. Hoewe has published more than 50 refereed journal articles and book chapters. Her research has been published in\nHuman Communication Research, Communication Monographs, Media Psychology , and\nJournalism & Mass Communication Quarterly , among others. Her book,\nEnjoyment is Breaking News , will be published by The MIT Press in September 2026. It discusses how the news environment has evolved in recent decades and explains the impact of those changes on news consumers, concluding with recommendations for journalists and the public moving forward.\nIn 2026, Dr.",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": "Profile also lists 'Courtesy Professor // Political Science' and 'University Faculty Scholar'. personal_url is a teaching portfolio site."
+    },
+    {
+      "name": "Ilwoo Ju",
+      "title": "Associate Professor",
+      "rank": "Associate Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/ilwoo-ju.html",
+      "personal_url": null,
+      "photo_url": null,
+      "google_scholar_url": "https://scholar.google.com/citations?user=5jigodwAAAAJ&hl=en&inst=5549692440350501774",
+      "research_areas": [
+        "Consumer decision making in health",
+        "Branding strategy",
+        "Marketing communication effects and processes",
+        "Digital marketing communication",
+        "Pro-consumer issues in marketing/health communication"
+      ],
+      "bio": "Get to Know Associate Professor Ilwoo Ju\nMy research examines consumer coping with persuasion attempts across four areas: AI-driven and algorithmic advertising, data privacy and dark patterns in online consent, health communication, and advertising and privacy regulation. Current projects explore how consumers respond to targeted advertising and data-consent disclosures, how regulatory knowledge shapes vulnerability to deceptive practices, and how people evaluate AI-generated health information and AI-driven brand communication. I teach advertising courses, communication research methods, a graduate seminar in strategic communication planning, and a graduate seminar in mediation and moderation modeling.\nI work with graduate students interested in advertising, marketing communications, and health communication message effects and processes, with research career goals in academia or industry. My mentoring is mostly project-based, built around ongoing studies — currently spanning data-consent dark patterns, AI advertising disclosure, and regulatory knowledge — and I value relationships that continue beyond a given project.\nBio\nIlwoo Ju\nPh.D. is an Associate Professor of Advertising & Health Communication in the Brian Lamb School of Communication at Purdue University, where he currently serves as a Redding Faculty Fellow (2026–27).",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": "Profile 'Website' field links to Google Scholar; no photo on profile."
+    },
+    {
+      "name": "Seungyoon Lee",
+      "title": "Professor",
+      "rank": "Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/seungyoon-lee.html",
+      "personal_url": null,
+      "photo_url": "https://cla.purdue.edu/directory/images/seungyoon-lee.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Network analysis",
+        "Resilience",
+        "Disaster recovery",
+        "Social network analysis",
+        "Complex systems",
+        "Network perception and evolution",
+        "Organizational and social networks",
+        "Organizational ecology",
+        "Disaster resilience"
+      ],
+      "bio": "Ph.D., University of Southern California\nM.A., University of Southern California\nB.A., Yonsei Univesity\nCurriculum Vitae\nGoogle Scholar\nResearch and Teaching\nProfessor Lee’s research interest focuses on the evolution of communication, knowledge, and collaboration networks in and across organizations over time. Her current emphasis is on applying theories of socio-cultural evolution to complex forms of networks including multiplex and multimodal networks. Her ongoing projects examine the evolution of creative interaction and social ties in project teams; the role of network ties among people and organizations in disaster recovery; and the determinants and outcomes of multiplex ties in various settings. Professor Lee has received the 2009 W. Charles Redding Dissertation Award from the Organizational Communication Division of the International Communication Association. She teaches courses on social network analysis, organizational communication as well as research methods and statistics.\nRepresentative Publications\nLee, S., Siebeneck, L., Benedict, B., Yabe, T., Jarvis, C., & Ukkusuri, S. (in press). Patterns of social support and trajectories of household recovery after Superstorm Sandy: Contrasting influences of bonding and bridging social capital.\nNatural Hazards Review.\nLee, S., Benedict, B., Ge, Y. G., Murray-Tuite, P., & Ukkusuri, S. V. (2021).",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Sue Lim",
+      "title": "Assistant Professor",
+      "rank": "Assistant Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/sue-lim.html",
+      "personal_url": null,
+      "photo_url": "https://cla.purdue.edu/directory/images/lim-sue.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Examining interpersonal dynamics underlying human-AI interaction",
+        "Dyadic interactions",
+        "Group dynamics",
+        "Technology-mediated communication",
+        "Human-AI interaction",
+        "Extended reality (XR) and other emerging technologies",
+        "Computer-mediated communication",
+        "Decision making and productivity"
+      ],
+      "bio": "Sue Lim is a social scientist with a strong interest in how artificial intelligence (AI), extended reality (XR), and other emerging technologies shape human judgment, decision-making, and behavior across contexts. Her current work focuses on three broad streams of research: 1) examining interpersonal dynamics underlying human-AI interaction in XR, 2) designing emerging technology-based interventions for speciﬁc groups or populations, and 3) leveraging AI and XR as methodological tools to study human decision-making and behavior more broadly. Sue Lim combines many methodological approaches to answer her research questions (e.g., physiological and behavioral measures, computational methods, qualita.ve interviews, self- reports).\nSue holds a B.S. in Economics with a concentration in Marketing from the Wharton School of the University of Pennsylvania and a Ph.D. in Communication from Michigan State University. Before joining Purdue, Sue was a Postdoctoral Researcher at Michigan State University, affiliated with the CARISMA Lab in the department of Communication.",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Sorin Adam Matei",
+      "title": "Professor",
+      "rank": "Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/sorin-adam-matei.html",
+      "personal_url": null,
+      "photo_url": "https://cla.purdue.edu/directory/images/sorin-adam-matei.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "international communication",
+        "human-technology interaction",
+        "AI ethics",
+        "computational communication research",
+        "social media and online collaboration",
+        "data storytelling",
+        "strategy and security studies",
+        "defense technology",
+        "military modeling and simulation",
+        "disinformation",
+        "technology and warfare",
+        "Virtual communities and AI-human interaction",
+        "Data ethics",
+        "Virtual marketing",
+        "Communication technologies"
+      ],
+      "bio": "Biography\nSorin Adam Matei is\nProfessor of Communication in the\nBrian Lamb School of Communication at\nPurdue University . He serves as Assistant Vice President for Partnerships, Director of the\nMS in Strategy in Security and Defense Technologies , and Director of the\nFORCES Initiative: Strategy, Security, and Social Systems .\nDr. Matei’s research examines the relationship between human-AI and technology interaction, strategy, and social organization. His work has developed across three related areas: international communication and global information systems; human interaction with digital and AI technologies; and the role of emerging technologies in security and defense. He holds an MA in International Relations from\nThe Fletcher School of Law and Diplomacy at Tufts University and a PhD in Communication Research from the\nAnnenberg School for Communication at the University of Southern California .\nHis earlier research addressed international communication networks, urban communication infrastructures, and the ways media systems shape public perception, community formation, and global interaction. This work led to a broader research program on digital media, online collaboration, computational social science, social media governance, and human-technology interaction.\nMore recently, Dr. Matei’s work has focused on strategy, security, and defense technology.",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Marifran Mattson",
+      "title": "Professor",
+      "rank": "Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/marifran-mattson.html",
+      "personal_url": null,
+      "photo_url": "https://cla.purdue.edu/archive-main/jpg/2019/marifran-mattson.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Health campaigns",
+        "health advocacy",
+        "service-learning"
+      ],
+      "bio": "Ph.D., Arizona State University\nM.A., Marquette University\nB.A., St. Norbert College\nResearch\nMarifran Mattson, Ph.D. (Arizona State University, 1995) is Professor and Head of the Brian Lamb School of Communication at Purdue University. Professor Mattson emphasizes the Scholarship of Engagement by exploring the intersection of designing, implementing, and evaluating health communication campaigns, health advocacy initiatives, and service-learning pedagogy.  Prior to being called into academic administration and following a serious accident, Mattson and her students initiated the Motorcycle Safety at Purdue campaign, which integrated her professional interests. She also was involved in passing legislation that mandates health insurance companies to provide coverage for prosthetics in Indiana.  Professor Mattson is a coauthor of three books;\nHealth as Communication Nexus: A Service-Learning Approach,  Health Advocacy: A Communication Approach, and\nMetatheory and Interviewing: Harm Reduction and\nMotorcycle Safety in Practice .  In addition, her research has been published in journals including,\nBulletin of the American College of Surgeons, Communication Monographs, Health Communication, Health Promotion Practice, Health Marketing Quarterly, Journal of Applied Communication Research, Journal of Health Communication, and\nSocial Science & Medicine .",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Evan Perrault",
+      "title": "Associate Professor, Director of Graduate Studies",
+      "rank": "Associate Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/evan-perrault.html",
+      "personal_url": null,
+      "photo_url": "https://cla.purdue.edu/directory/images/evan-perrault.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Health campaign message design",
+        "healthcare marketing",
+        "program evaluation"
+      ],
+      "bio": "Ph.D., Michigan State University\nM.A., Michigan State University\nB.A., University of Wisconsin-Eau Claire\nEvan K. Perrault (Ph.D., Michigan State University, 2014) is an Associate Professor of Health Communication in the Brian Lamb School of Communication.\nA major research focus for Dr. Perrault is trying to find the best ways healthcare systems can design more effective physician biographies on their websites to help prospective patients more easily find new healthcare providers – especially looking at the potential effectiveness of videos as a means to reduce patient uncertainty and apprehension.\nHe also enjoys designing and implementing strategic communication campaigns, and determining the best ways to evaluate their impact. For example, he has worked with campus clients to conceptualize and perform interventions around mental health help seeking, and students’ sustainability behaviors.\nAdditionally, he is interested in translational research – finding ways to distill complex scientific information into pieces of information the lay public can more successfully comprehend and use. Dr. Perrault classifies himself as a mixed-methodologist – using a combination of both quantitative and qualitative methodologies to help answer research questions and to create the most effective messages possible.",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Torsten Reimer",
+      "title": "Professor and Director of College of Liberal Arts Research Academy",
+      "rank": "Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/torsten-reimer.html",
+      "personal_url": "http://web.ics.purdue.edu/~treimer/",
+      "photo_url": "https://cla.purdue.edu/directory/images/reimer-torsten.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "AI and Human Decision Making",
+        "Cognitive Models",
+        "Social Influence",
+        "Decision making",
+        "Cognitive processes",
+        "Groups and teams",
+        "Consumer behavior",
+        "Risk communication"
+      ],
+      "bio": "Ph.D., Free University of Berlin (Germany)\nM.A., Free University of Berlin (Germany)\nB.A., University of Tuebingen (Germany)\nResearch Statement\nProfessor Reimer directs the\nCommunication and Cognition Lab . Current projects of the lab focus on the role of AI in decision making, including the study of LLM-agent and mixed human-agent teams. Research studies in the lab utilize a variety of social scientific methods, including experiments with human participants as well as computational methods and agent-based simulations. Professor Reimer's research program has the overarching goal to develop and test theories about the interplay of communication and decision making in socio-technological contexts that utilize AI.\nProfessor Reimer obtained a Ph.D. in Social Psychology from the Free University of Berlin and a Habilitation degree in Cognitive Psychology from the University of Basel in Switzerland. Before moving to the US, he worked as a research scientist at the Max Planck Institute for Human Development in Berlin (Germany). Professor Reimer has co-authored over 100 publications in scholarly outlets and delivered with his students over 150 conference presentations.",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Brett Sherrick",
+      "title": "Associate Professor",
+      "rank": "Associate Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/brett-sherrick.html",
+      "personal_url": null,
+      "photo_url": "https://cla.purdue.edu/directory/images/brett-sherrick.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Positive impact of media",
+        "Video games",
+        "Media industries",
+        "Media effects"
+      ],
+      "bio": "Get to Know Assistant Professor Brett Sherrick\nMy primary research areas are video games, positive media psychology, and media industries and my primary teaching interests are video games, mass communication, and research methods. I typically work with graduate students who are interested in games, game cultures, and mass communication.\nI want graduate students to be successful people - not just successful graduate students. As an advisor, I encourage students to clearly define the purpose of their graduate education and then help them identify ways to make the best use of their graduate work to achieve their goals. I hope to help graduate students develop the skills, connections, and perspectives that they need to be successful - in either academic or industry fields. I like to involve students in my work but also hope to help them develop their own.\nEducation\nPhD, The Pennsylvania State University\nMA, University of North Carolina at Wilmington\nBA, University of North Carolina at Chapel Hill\nBio\nBrett Sherrick (Ph.D., The Pennsylvania State University) is an associate professor in the Brian Lamb School of Communication at Purdue University and the co-founder and co-director of the\nPurdue Research In Media Effects (PRIME) Lab . His research interests include entertainment media, media psychology, and media industries, and he primarily examines these topics from a social scientific perspective.",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Hwanseok Song",
+      "title": "Associate Professor",
+      "rank": "Associate Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/hwanseok-song.html",
+      "personal_url": null,
+      "photo_url": "https://cla.purdue.edu/directory/images/hwanseok-song.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Risk Communication",
+        "trust",
+        "credibility",
+        "social cognitive approaches to risk"
+      ],
+      "bio": "Ph.D., Cornell University\nM.A., Johns Hopkins University\nB.A., Yonsei University\nProfessor Song's research focuses examines social cognitive processes underlying risk, science, and environmental communication, with a particular focus on how people’s judgments about others such as public authorities and fellow citizens further shape their communicative practices, attitudes and behavior. Using experimental and survey methods, he has examined the nature of judgments such as trust, fairness, justice, and norm violation, as well as how these judgments shape responses to risk, authorities, and fellow citizens. He teaches courses on risk communication, persuasion, and judgment and decision making.\nSelect Publications\nSong, H. & Adu Gyamfi, P. (2025). How values guide trust: The multiple roles of science-related value predispositions in shaping trustworthiness and trust in scientific authorities.\nScience Communication . Advance online publication.\nSong, H. & Oh, J. (2025). Unpacking ingroup source effects in politically polarized issues: The interplay of social identity, moral framing, and credibility.\nCommunication Studies . Advance online publication.\nSong, H. & Mbah, P. T. (2024). When trust matters: Perceived characteristics of behavioral guidance as moderators of trust in compliance decisions.\nScience Communication . Advance online publication.\nSong, H., Ju, I., & Wright, T. O. (2024).",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Diana Zulli",
+      "title": "Associate Professor",
+      "rank": "Associate Professor",
+      "department": "Brian Lamb School of Communication",
+      "profile_url": "https://cla.purdue.edu/directory/profiles/diana-zulli.html",
+      "personal_url": null,
+      "photo_url": "https://cla.purdue.edu/directory/images/diana-zulli.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Strategic political communication",
+        "scandal",
+        "crisis communication",
+        "digital technology",
+        "communication theory"
+      ],
+      "bio": "Get to Know Assistant Professor Diana Zulli\nMy primary research interests are political communication, communication theory, digital technology, and crisis communication and my primary teaching interests are political communication, public relations, and crisis communication.\nI typically work with graduate students who are interested in political communication, public relations, and social media. When it comes to my approach to graduate advising, I believe in guided autonomy and see my job in that area as twofold: 1) help students successfully and healthily navigate the graduate school process and 2) help graduate students cultivate their own research interests. My work with graduate students is typically project-based and I will invite students to join projects based on topical and methodological alignment.\nBIO\nDr. Zulli’s research focuses on the interaction between communication theory, political rhetoric, and digital technology. In particular, she is interested in (a) how digital technology and social media affect social and political processes; (b) how political elites communicate strategically online an offline to influence public opinion; and (c) how news media portray political elites and events.\nDr.",
+      "sources": [
+        "department_profile",
+        "program_area_pages"
+      ],
+      "notes": null
+    }
+  ]
 }

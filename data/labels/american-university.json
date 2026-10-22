@@ -1,0 +1,1860 @@
+{
+ "slug": "american-university",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "Patricia Aufderheide",
+   "summary": "Studies documentary film, copyright and fair use, and communications policy in the public interest, including public, community and podcast media.",
+   "summary_zh": "研究纪录片、版权与合理使用以及公共利益导向的传播政策，涵盖公共媒体、社区媒体与播客。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "documentary",
+    "fair use",
+    "copyright",
+    "communications policy",
+    "public media",
+    "community media",
+    "podcasting",
+    "kartemquin films"
+   ]
+  },
+  {
+   "name": "Caty Borum",
+   "summary": "Studies and produces entertainment media for social change, including comedy and documentary storytelling that advance social justice and civic power.",
+   "summary_zh": "研究并制作推动社会变革的娱乐媒介，包括促进社会正义与公民力量的喜剧和纪录片叙事。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "entertainment for social change",
+    "comedy and social justice",
+    "documentary storytelling",
+    "story movements",
+    "social impact media",
+    "civic power",
+    "center for media & social impact"
+   ]
+  },
+  {
+   "name": "Larry Engel",
+   "summary": "Makes documentary films on science, nature and environmental conservation for public television, and teaches film theory, production and emerging media.",
+   "summary_zh": "为公共电视制作关于科学、自然与环境保护的纪录片，并讲授电影理论、制作与新兴媒介。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "documentary filmmaking",
+    "environmental film",
+    "science documentary",
+    "cinematography",
+    "conservation",
+    "public television"
+   ]
+  },
+  {
+   "name": "Leena Jayaswal",
+   "summary": "Creates documentary film and photography on Indian American and mixed-race identity and belonging, and more recently on climate change storytelling.",
+   "summary_zh": "创作关于印度裔美国人与混血身份及归属感的纪录片和摄影作品，近期也关注气候变化叙事。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_SOUTH_SE_ASIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "documentary film",
+    "photography",
+    "indian american identity",
+    "mixed-race identity",
+    "loving v. virginia",
+    "south asian diaspora",
+    "climate change storytelling"
+   ]
+  },
+  {
+   "name": "Brigid Maher",
+   "summary": "Makes documentary and fiction films about women, from female religious leaders in the Middle East to midwifery, and writes on film theory and new media.",
+   "summary_zh": "制作以女性为主题的纪录片和剧情片，从中东女性宗教领袖到助产士，并撰写电影理论与新媒体相关论述。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_MIDDLE_EAST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "documentary film",
+    "women's issues",
+    "women in islam",
+    "midwifery",
+    "experimental cinema",
+    "film theory",
+    "new media theory",
+    "interactive storytelling"
+   ]
+  },
+  {
+   "name": "Adrienne Massanari",
+   "summary": "Studies digital culture and platform politics, including Reddit communities, toxic technocultures, gaming, and how Silicon Valley culture fed the far right.",
+   "summary_zh": "研究数字文化与平台政治，包括 Reddit 社群、有毒技术文化、游戏，以及硅谷文化如何助长极右翼。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "reddit",
+    "platform politics",
+    "toxic technocultures",
+    "gamergate",
+    "alt-right",
+    "far right",
+    "game studies",
+    "participatory culture",
+    "research ethics"
+   ]
+  },
+  {
+   "name": "Aram Sinnreich",
+   "summary": "Studies the intersection of culture, law and technology, including intellectual property, remix and music, surveillance and privacy, and platform governance.",
+   "summary_zh": "研究文化、法律与技术的交叉，包括知识产权、混音与音乐、监控与隐私以及平台治理。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "intellectual property",
+    "copyright",
+    "remix culture",
+    "music industry",
+    "surveillance",
+    "privacy",
+    "digital rights",
+    "section 230",
+    "fediverse"
+   ]
+  },
+  {
+   "name": "Kurt Braddock",
+   "summary": "Studies how violent extremist groups use persuasion and propaganda to radicalize audiences, and how communication strategies can counter radicalization.",
+   "summary_zh": "研究暴力极端组织如何利用说服与宣传使受众激进化，以及如何借助传播策略对抗激进化。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "violent extremism",
+    "radicalization",
+    "counter-radicalization",
+    "terrorism",
+    "propaganda",
+    "persuasion",
+    "white supremacism",
+    "social influence"
+   ]
+  },
+  {
+   "name": "Megan Finn",
+   "summary": "Studies data governance, responsible computing and information infrastructures, including how information orders shape what is known after disasters.",
+   "summary_zh": "研究数据治理、负责任计算与信息基础设施，包括信息秩序如何塑造灾后的知识生产。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "data governance",
+    "responsible computing",
+    "information infrastructure",
+    "disasters",
+    "information orders",
+    "science and technology studies",
+    "information policy",
+    "earthquakes"
+   ]
+  },
+  {
+   "name": "Laura Hinson",
+   "summary": "Makes documentary films about personal journeys, reconciliation and resilience, including women entrepreneurs in post-genocide Rwanda and marginalized DC residents.",
+   "summary_zh": "制作关于个人历程、和解与韧性的纪录片，包括种族灭绝后卢旺达的女性创业者和华盛顿特区的边缘社群居民。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_AFRICA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "documentary filmmaking",
+    "rwanda",
+    "reconciliation",
+    "women entrepreneurs",
+    "community voice lab",
+    "washington dc",
+    "resilience"
+   ]
+  },
+  {
+   "name": "Natalie Hopkinson",
+   "summary": "Studies Black and Indigenous art, media and knowledge systems, including go-go music as a public sphere and cultural network in Washington, DC.",
+   "summary_zh": "研究黑人与原住民的艺术、媒介和知识体系，包括作为华盛顿特区公共领域与文化网络的 go-go 音乐。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "go-go music",
+    "black culture",
+    "public sphere",
+    "washington dc",
+    "cultural policy",
+    "black and indigenous knowledge",
+    "museums and curation",
+    "arts journalism"
+   ]
+  },
+  {
+   "name": "Wendy Melillo",
+   "summary": "Studies how strategic communication and public service advertising, such as Ad Council campaigns, influence society and the news media.",
+   "summary_zh": "研究战略传播与公益广告（如 Ad Council 运动）如何影响社会与新闻媒体。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "ad council",
+    "public service advertising",
+    "strategic communication",
+    "advertising history",
+    "political advertising",
+    "campaigns"
+   ]
+  },
+  {
+   "name": "Claudia Myers",
+   "summary": "Writes and directs narrative feature films and documentaries, with recurring attention to military families, wounded veterans and the path to US citizenship.",
+   "summary_zh": "编剧并执导剧情长片与纪录片，持续关注军人家庭、受伤退伍军人以及取得美国公民身份的历程。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "narrative filmmaking",
+    "screenwriting",
+    "film directing",
+    "military drama",
+    "veterans",
+    "documentary",
+    "citizenship"
+   ]
+  },
+  {
+   "name": "Krzysztof Pietroszek",
+   "summary": "Builds and studies immersive media, including volumetric filmmaking, virtual reality games and interactive storytelling at the junction of film and computer science.",
+   "summary_zh": "构建并研究沉浸式媒介，包括体积视频电影、虚拟现实游戏以及电影与计算机科学交汇处的互动叙事。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "virtual reality",
+    "immersive media",
+    "volumetric video",
+    "holographic film",
+    "game design",
+    "interactive storytelling",
+    "human-computer interaction",
+    "extended reality"
+   ]
+  },
+  {
+   "name": "Benjamin Stokes",
+   "summary": "Studies and designs civic media and place-based games that strengthen neighborhoods and communities, including local storytelling networks and participatory design.",
+   "summary_zh": "研究并设计增强街区与社区联系的公民媒介和基于地点的游戏，包括本地叙事网络与参与式设计。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "civic media",
+    "games for change",
+    "place-based games",
+    "playful cities",
+    "neighborhood storytelling networks",
+    "participatory design",
+    "local communities"
+   ]
+  },
+  {
+   "name": "Margot Susca",
+   "summary": "Studies media ownership and its consequences for democracy, especially private equity and hedge fund control of newspapers, using critical political economy.",
+   "summary_zh": "以批判政治经济学研究媒体所有权及其对民主的影响，尤其是私募股权与对冲基金对报业的控制。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "media ownership",
+    "private equity",
+    "hedge funds",
+    "newspapers",
+    "political economy of media",
+    "local news decline",
+    "journalism and democracy"
+   ]
+  },
+  {
+   "name": "John Watson",
+   "summary": "Studies media law and journalism ethics, including court rulings that shape journalistic practice and the case for professional licensing of journalists.",
+   "summary_zh": "研究媒体法与新闻伦理，包括影响新闻实践的法院判决以及新闻从业者职业许可制度的主张。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "media law",
+    "journalism ethics",
+    "court decisions",
+    "professionalization",
+    "licensing of journalists",
+    "press law"
+   ]
+  },
+  {
+   "name": "Sherri Williams",
+   "summary": "Studies race, gender and representation in media, including how Black audiences use social media such as Black Twitter to shape television and pursue justice.",
+   "summary_zh": "研究媒介中的种族、性别与再现，包括黑人受众如何借助 Black Twitter 等社交媒体影响电视节目并追求社会正义。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "black twitter",
+    "race and representation",
+    "black feminism",
+    "reality television",
+    "social media activism",
+    "intersectionality",
+    "journalism education"
+   ]
+  },
+  {
+   "name": "Sarah Aghazadeh",
+   "summary": "Studies advocacy, activism and community building in public relations, often on taboo or stigmatized issues, using qualitative, rhetorical and community-engaged methods.",
+   "summary_zh": "研究公共关系中的倡导、行动主义与社区建设，常聚焦禁忌或污名化议题，采用质性、修辞与社区参与式方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_RHETORIC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "public relations theory",
+    "advocacy",
+    "activism",
+    "community building",
+    "stigma",
+    "pregnancy loss",
+    "community-based participatory research",
+    "fully functioning society theory"
+   ]
+  },
+  {
+   "name": "Chelsea Butkowski",
+   "summary": "Studies digital media and identity, including social media self-representation in unsettled times, selfies and gender stereotyping, and online political discourse.",
+   "summary_zh": "研究数字媒介与身份认同，包括动荡时期的社交媒体自我呈现、自拍与性别刻板印象以及网络政治话语。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "digital identity",
+    "self-representation",
+    "selfies",
+    "social media",
+    "feminist media studies",
+    "queer media studies",
+    "covid-19",
+    "election discourse"
+   ]
+  },
+  {
+   "name": "Rosalind Donald",
+   "summary": "Studies how climate change is discussed and how environmental injustices shape the climate debate, including a history of climate justice struggles in Miami.",
+   "summary_zh": "研究气候变化如何被讨论以及环境不公如何塑造气候争论，包括迈阿密气候正义斗争的历史。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "climate change communication",
+    "environmental justice",
+    "climate justice",
+    "miami",
+    "urban planning",
+    "greenlining",
+    "environmental filmmaking"
+   ]
+  },
+  {
+   "name": "Rohan Grover",
+   "summary": "Studies how media and technology industries translate public values into products, including the implementation of data privacy law in the privacy tech industry.",
+   "summary_zh": "研究媒体与科技产业如何将公共价值转化为商业产品，包括数据隐私法在隐私科技行业中的落地实践。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "data privacy law",
+    "privacy tech",
+    "user consent",
+    "public interest technology",
+    "political economy",
+    "technocratic expertise",
+    "ethnography"
+   ]
+  },
+  {
+   "name": "Maya Livio",
+   "summary": "Studies the environmental stakes of media and computation, including AI data center development and AI's links to biodiversity loss, through research and media practice.",
+   "summary_zh": "通过研究与媒介实践探讨媒介与计算的环境代价，包括 AI 数据中心建设及 AI 与生物多样性丧失的关系。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "environmental media",
+    "critical ai studies",
+    "data centers",
+    "biodiversity loss",
+    "infrastructure studies",
+    "feminist sts",
+    "media archaeology",
+    "ecocinema"
+   ]
+  },
+  {
+   "name": "Sarah Menke-Fish",
+   "summary": "Teaches and produces educational documentary media with students, directing youth programs in environmental communication, video production and journalism.",
+   "summary_zh": "与学生一起教授并制作教育类纪录片，主持涵盖环境传播、视频制作与新闻写作的青少年项目。",
+   "confidence": "low",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "experiential learning",
+    "youth media education",
+    "educational documentary",
+    "environmental communication",
+    "high school students",
+    "service learning"
+   ]
+  },
+  {
+   "name": "Joe Pirro",
+   "summary": "Produces independent narrative feature films that champion diverse and emerging filmmakers, with premieres at Sundance, Berlin, Cannes and Toronto.",
+   "summary_zh": "制作扶持多元与新锐导演的独立剧情长片，作品曾在圣丹斯、柏林、戛纳与多伦多首映。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "film producing",
+    "independent film",
+    "narrative feature",
+    "emerging filmmakers",
+    "film industry",
+    "sundance"
+   ]
+  },
+  {
+   "name": "Gemma Puglisi",
+   "summary": "Teaches and practices public relations and media strategy, with expertise in crisis communication, media issues and women in communications.",
+   "summary_zh": "教授并从事公共关系与媒体策略工作，专长于危机传播、媒体议题以及传播行业中的女性。",
+   "confidence": "low",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "public relations",
+    "crisis communication",
+    "media relations",
+    "broadcast news",
+    "women in communications",
+    "media strategy"
+   ]
+  },
+  {
+   "name": "Jamie Sisley",
+   "summary": "Writes and directs narrative and documentary films, including family stories of addiction and the migrant guestworkers who sustain the US carnival industry.",
+   "summary_zh": "编剧并执导剧情片与纪录片，包括家庭与成瘾的故事，以及支撑美国游乐场行业的墨西哥外籍劳工。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_LATIN_AMERICA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "narrative filmmaking",
+    "documentary",
+    "addiction",
+    "families",
+    "migrant workers",
+    "h-2b visa",
+    "carnival industry"
+   ]
+  },
+  {
+   "name": "Joe Stephens",
+   "summary": "Practices and teaches investigative accountability journalism, leading a nonprofit newsroom whose reporting covers political corruption, government and abuses of power.",
+   "summary_zh": "从事并讲授调查性问责新闻，领导一家非营利新闻机构，报道政治腐败、政府与权力滥用。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "investigative reporting",
+    "accountability journalism",
+    "nonprofit newsroom",
+    "political corruption",
+    "investigative reporting workshop"
+   ]
+  }
+ ]
+}

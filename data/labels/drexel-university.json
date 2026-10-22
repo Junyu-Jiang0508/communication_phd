@@ -1,0 +1,723 @@
+{
+  "slug": "drexel-university",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Ronald Bishop",
+      "summary": "Studies investigative and sports journalism, sourcing patterns, journalism history and the cultural history of fame through textual, narrative and ideological analysis.",
+      "summary_zh": "研究调查性报道与体育新闻、新闻信源模式、新闻史及名声的文化史，采用文本、叙事与意识形态分析方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "investigative reporting",
+        "sports journalism",
+        "journalism history",
+        "sourcing patterns",
+        "ideological analysis",
+        "narrative analysis",
+        "fame",
+        "community newspapers",
+        "media portrayals of marginalized groups"
+      ]
+    },
+    {
+      "name": "Bernat Ivancsics",
+      "summary": "Studies data and computational journalism, the use of machine learning and automation in digital news, and the history of computational communication technologies.",
+      "summary_zh": "研究数据新闻与计算新闻、机器学习和自动化在数字新闻中的应用，以及计算传播技术的历史。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "data journalism",
+        "computational journalism",
+        "machine learning in journalism",
+        "news automation",
+        "history of media technology",
+        "digital news organizations",
+        "platform-facing markup",
+        "blockchain in journalism"
+      ]
+    },
+    {
+      "name": "Nahyun Kim",
+      "summary": "Studies strategic communication including relationship, reputation and crisis management and CSR/CSA, plus science and environmental communication and audiences' emotional and cognitive responses.",
+      "summary_zh": "研究战略传播，包括关系管理、声誉管理、危机传播与企业社会责任/社会倡导，以及科学与环境传播和公众的情绪与认知反应。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public relations",
+        "reputation management",
+        "relationship management",
+        "crisis communication",
+        "corporate social responsibility",
+        "corporate social advocacy",
+        "science communication",
+        "environmental communication",
+        "public engagement"
+      ]
+    },
+    {
+      "name": "Hyunmin “Min” Lee",
+      "summary": "Studies public relations strategies for organizational relationship and reputation management, including AI, social media and crisis storytelling, and strategic health messaging.",
+      "summary_zh": "研究组织关系与声誉管理中的公共关系策略，包括人工智能、社交媒体与危机叙事，以及战略性健康信息传播。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public relations",
+        "ai and strategic communication",
+        "social media management",
+        "crisis communication",
+        "organization-public relationships",
+        "corporate social advocacy",
+        "fake news management",
+        "strategic health communication",
+        "health messaging"
+      ]
+    },
+    {
+      "name": "Alexander Nikolaev",
+      "summary": "Studies public relations, political and crisis communication, international negotiations and international news coverage, using political discourse analysis.",
+      "summary_zh": "研究公共关系、政治传播与危机传播、国际谈判及国际新闻报道，采用政治话语分析方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "international communication",
+        "international negotiations",
+        "international news coverage",
+        "political discourse analysis",
+        "public relations",
+        "crisis communication",
+        "communication ethics",
+        "iraq war"
+      ]
+    },
+    {
+      "name": "Douglas V. Porpora",
+      "summary": "Studies how people converse and argue politically and morally in chatrooms and on Twitter, combining quantitative content analysis with qualitative discourse analysis.",
+      "summary_zh": "研究人们如何在聊天室和推特上进行政治与道德层面的交谈和争论，结合定量内容分析与定性话语分析。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "political argument",
+        "moral discourse",
+        "twitter",
+        "chatrooms",
+        "hate speech",
+        "post-truth",
+        "discourse analysis",
+        "content analysis",
+        "social justice",
+        "religion"
+      ]
+    },
+    {
+      "name": "Rachel R. Reynolds",
+      "summary": "Studies portrayals of violence against women and multilingual productions in television and streaming video, using multimodal discourse analysis of content and audience-producer dynamics.",
+      "summary_zh": "研究电视与流媒体视频中对女性暴力的呈现及多语种影视作品，运用多模态话语分析考察内容及受众与制作者之间的互动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "violence against women",
+        "gender in media",
+        "multilingual television",
+        "streaming video on demand",
+        "micro-dramas",
+        "multimodal discourse analysis",
+        "sociolinguistic difference",
+        "women's rights"
+      ]
+    },
+    {
+      "name": "Wesley Shumar",
+      "summary": "Studies the commodification of culture and production of value, cultural change in American higher education, and how digital technologies and AI shape online learning interactions.",
+      "summary_zh": "研究文化商品化与价值生产、美国高等教育的文化变迁，以及数字技术和人工智能如何塑造在线学习中的互动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "commodification of culture",
+        "consumer culture",
+        "production of value",
+        "higher education",
+        "online learning",
+        "teacher professional development",
+        "ai in professional development",
+        "craft beer economy",
+        "open-source software education"
+      ]
+    },
+    {
+      "name": "Asta Zelenkauskaite",
+      "summary": "Studies emergent online practices, disinformation, inauthentic coordinated behavior and gendered interaction on social media, using mixed-method analysis of user-generated content across cultures.",
+      "summary_zh": "研究网络新兴实践、虚假信息、协同性不真实行为及社交媒体上的性别化互动，采用混合方法分析跨文化情境中的用户生成内容。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "social media",
+        "user-generated content",
+        "disinformation",
+        "inauthentic coordinated behavior",
+        "hashtags",
+        "gender and online interaction",
+        "ideological influence",
+        "mixed methods",
+        "computer-mediated communication"
+      ]
+    }
+  ]
+}

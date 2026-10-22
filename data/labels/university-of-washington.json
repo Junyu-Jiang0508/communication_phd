@@ -194,24 +194,8 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_QUALITATIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_INTERVIEWS_FIELD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "approach": [],
+    "data": [],
     "setting": [
      {
       "code": "SET_HEALTH_SYSTEMS",
@@ -620,8 +604,8 @@
   },
   {
    "name": "Patricia Moy",
-   "summary": "Studies how mediated and interpersonal communication shape public opinion, political trust, and citizen behavior, using survey and media content research across countries.",
-   "summary_zh": "通过跨国调查与媒介内容研究，探讨媒介与人际传播如何塑造舆论、政治信任与公民行为。",
+   "summary": "Studies how mediated and interpersonal communication shape public opinion, political trust, and citizen behavior across issues and multiple continents.",
+   "summary_zh": "探讨媒介与人际传播如何在多个议题和多个大洲塑造舆论、政治信任与公民行为。",
    "confidence": "high",
    "labels": {
     "topic": [
@@ -654,38 +638,8 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_SURVEY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_CONTENT_ANALYSIS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "approach": [],
+    "data": [],
     "setting": [
      {
       "code": "SET_AUDIENCES_PUBLICS",
@@ -741,6 +695,7 @@
       "code": "T_SCIENCE_ENV",
       "primary": false,
       "sources": [
+       "department_profile",
        "publications"
       ]
      }
@@ -855,13 +810,6 @@
       "sources": [
        "department_profile"
       ]
-     },
-     {
-      "code": "R_SOUTH_SE_ASIA",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
      }
     ]
    },
@@ -878,8 +826,8 @@
   },
   {
    "name": "Matthew Powers",
-   "summary": "Studies journalism as a profession and NGOs as newsmakers, using comparative field research in France and the United States.",
-   "summary_zh": "通过法国与美国的比较田野研究，探讨新闻职业以及非政府组织作为新闻生产者的角色。",
+   "summary": "Studies journalism as a profession and NGOs as newsmakers in international news, through comparative research in France and the United States.",
+   "summary_zh": "通过对法国与美国的比较研究，探讨新闻职业以及非政府组织在国际新闻中作为新闻生产者的角色。",
    "confidence": "high",
    "labels": {
     "topic": [
@@ -905,24 +853,8 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_INTERVIEWS_FIELD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "approach": [],
+    "data": [],
     "setting": [
      {
       "code": "SET_NEWSROOMS_MEDIA_ORGS",
@@ -1012,13 +944,6 @@
     ],
     "approach": [
      {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
       "code": "A_HISTORICAL_ARCHIVAL",
       "primary": false,
       "sources": [
@@ -1026,15 +951,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_NEWSROOMS_MEDIA_ORGS",
@@ -1096,20 +1013,6 @@
      {
       "code": "A_CRITICAL_INTERPRETIVE",
       "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_HISTORICAL_ARCHIVAL",
-      "primary": false,
       "sources": [
        "department_profile"
       ]

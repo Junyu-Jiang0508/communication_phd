@@ -497,6 +497,13 @@
       "sources": [
        "department_profile"
       ]
+     },
+     {
+      "code": "T_RHETORIC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
      }
     ],
     "approach": [
@@ -761,13 +768,6 @@
      {
       "code": "A_CRITICAL_INTERPRETIVE",
       "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
       "sources": [
        "department_profile"
       ]
@@ -1219,13 +1219,6 @@
       "sources": [
        "department_profile"
       ]
-     },
-     {
-      "code": "T_MISINFO_TRUST",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
      }
     ],
     "approach": [
@@ -1422,15 +1415,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_AUDIENCES_PUBLICS",
@@ -1684,8 +1669,8 @@
   },
   {
    "name": "Rebekah Nagler",
-   "summary": "Studies effects of routine exposure to conflicting and controversial health information in the media, and health equity, using population-based surveys and experiments.",
-   "summary_zh": "运用基于人口样本的调查与实验，研究日常接触媒体中相互矛盾、具争议的健康信息所产生的效果以及健康公平。",
+   "summary": "Studies effects of routine exposure to conflicting and controversial health information in the media, and health equity, including population-based survey research.",
+   "summary_zh": "研究日常接触媒体中相互矛盾、具争议的健康信息所产生的效果以及健康公平，包括基于人口样本的调查研究。",
    "confidence": "high",
    "labels": {
     "topic": [
@@ -1717,13 +1702,6 @@
       "primary": false,
       "sources": [
        "department_profile",
-       "publications"
-      ]
-     },
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
        "publications"
       ]
      }
@@ -1936,15 +1914,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_ORGANIZATIONS_WORKPLACES",
@@ -1992,8 +1962,8 @@
   },
   {
    "name": "Claire M. Segijn",
-   "summary": "Studies intended and unintended effects of digital advertising, including media multitasking, synced and personalized ads, and privacy concerns, using eye tracking and experiments.",
-   "summary_zh": "运用眼动追踪与实验，研究数字广告的预期与非预期效果，包括媒体多任务、同步与个性化广告以及隐私担忧。",
+   "summary": "Studies intended and unintended effects of digital advertising, including media multitasking, synced and personalized ads, privacy concerns, and visual attention measured through eye tracking.",
+   "summary_zh": "研究数字广告的预期与非预期效果，包括媒体多任务、同步与个性化广告、隐私担忧，以及借助眼动追踪测量的视觉注意。",
    "confidence": "high",
    "labels": {
     "topic": [
@@ -2023,13 +1993,6 @@
      {
       "code": "A_PHYSIO_NEURO",
       "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
       "sources": [
        "department_profile"
       ]
@@ -2357,8 +2320,8 @@
   },
   {
    "name": "Emily Vraga",
-   "summary": "Studies how people respond to health, science, and political information online, especially correcting misinformation on social media, using experiments, surveys, and content analysis.",
-   "summary_zh": "运用实验、调查与内容分析，研究人们如何回应网络上的健康、科学与政治信息，尤其是社交媒体上的虚假信息纠正。",
+   "summary": "Studies how people respond to health, science, and political information online, especially correcting misinformation on social media, using experiments, surveys, content analysis, and interviews.",
+   "summary_zh": "运用实验、调查、内容分析与访谈，研究人们如何回应网络上的健康、科学与政治信息，尤其是社交媒体上的虚假信息纠正。",
    "confidence": "high",
    "labels": {
     "topic": [
@@ -2430,7 +2393,7 @@
       ]
      },
      {
-      "code": "D_SOCIAL_MEDIA",
+      "code": "D_INTERVIEWS_FIELD",
       "primary": false,
       "sources": [
        "department_profile"
@@ -2495,15 +2458,7 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
+    "approach": [],
     "data": [],
     "setting": [],
     "region": []
@@ -2604,13 +2559,6 @@
      {
       "code": "A_COMPUTATIONAL",
       "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
       "sources": [
        "department_profile"
       ]

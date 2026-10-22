@@ -1,0 +1,5124 @@
+{
+  "slug": "michigan-state-university",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Gary Bente",
+      "summary": "Studies nonverbal communication, media effects, and avatar-based virtual reality, using psychophysiology, eye tracking, and continuous response measurement.",
+      "summary_zh": "研究非语言传播、媒介效果与基于虚拟化身的虚拟现实，采用心理生理测量、眼动追踪与连续反应测量。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "nonverbal communication",
+        "virtual reality",
+        "avatars",
+        "eye tracking",
+        "psychophysiology",
+        "continuous response measurement",
+        "cultural differences",
+        "media effects"
+      ]
+    },
+    {
+      "name": "Daniel E. Bergan",
+      "summary": "Studies public opinion, advocacy campaigns, and partisan polarization, using field experiments that test how citizen contacts influence policymakers.",
+      "summary_zh": "研究舆论、倡导运动与党派极化，通过田野实验检验公民联络如何影响政策制定者。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public opinion",
+        "field experiments",
+        "advocacy campaigns",
+        "constituent communication",
+        "policymakers",
+        "partisan polarization",
+        "motivated reasoning"
+      ]
+    },
+    {
+      "name": "Dustin Carnahan",
+      "summary": "Studies how citizens engage with political information, how misperceptions form, and how fact-checks and corrections counter misinformation.",
+      "summary_zh": "研究公民如何接触政治信息、错误认知如何形成，以及事实核查与更正信息如何应对虚假信息。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "misinformation",
+        "fact-checking",
+        "corrective messages",
+        "misperceptions",
+        "selective exposure",
+        "political behavior",
+        "public opinion",
+        "anger"
+      ]
+    },
+    {
+      "name": "James W. Dearing",
+      "summary": "Studies the diffusion of innovations and the dissemination and implementation of evidence-based practices in public health, healthcare, and environmental programs.",
+      "summary_zh": "研究创新扩散，以及循证实践在公共卫生、医疗与环境项目中的传播与实施。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_NETWORK",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "diffusion of innovations",
+        "implementation science",
+        "dissemination science",
+        "program sustainability",
+        "evidence-based practices",
+        "public health",
+        "healthcare",
+        "project echo"
+      ]
+    },
+    {
+      "name": "William A. Donohue",
+      "summary": "Studies communication in conflict, negotiation, and mediation, with attention to how framing shapes negotiation processes and leadership development.",
+      "summary_zh": "研究冲突、谈判与调解中的传播，关注框架如何影响谈判过程以及领导力发展。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "negotiation",
+        "conflict management",
+        "mediation",
+        "framing",
+        "leadership development",
+        "program evaluation"
+      ]
+    },
+    {
+      "name": "Elizabeth Dorrance Hall",
+      "summary": "Studies communication in families and close relationships, including difficult conversations, family marginalization, and support for first-generation and STEM-interested youth.",
+      "summary_zh": "研究家庭与亲密关系中的传播，包括艰难对话、家庭边缘化，以及对第一代大学生和对STEM感兴趣青年的支持。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "family communication",
+        "close relationships",
+        "family communication patterns theory",
+        "confirmation theory",
+        "family marginalization",
+        "first-generation college students",
+        "difficult conversations",
+        "stem careers",
+        "well-being"
+      ]
+    },
+    {
+      "name": "Allison Eden",
+      "summary": "Studies media enjoyment and entertainment, examining how enjoyment drives attention and media selection and how entertainment affects well-being and morality.",
+      "summary_zh": "研究媒介享受与娱乐，考察享受如何驱动注意与媒介选择，以及娱乐如何影响幸福感与道德。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "media enjoyment",
+        "entertainment",
+        "well-being",
+        "morality",
+        "media selection",
+        "attention",
+        "media psychology"
+      ]
+    },
+    {
+      "name": "Jacob Fisher",
+      "summary": "Studies attention and decision-making in digital media and moral messaging, using functional neuroimaging, big behavioral data, and computational and network modeling.",
+      "summary_zh": "研究数字媒介中的注意与决策以及道德信息，采用功能性神经影像、大规模行为数据以及计算与网络建模。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ADMIN_LARGE_SCALE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "attention",
+        "media multitasking",
+        "functional neuroimaging",
+        "fmri",
+        "moral messaging",
+        "computational modeling",
+        "decision-making",
+        "brain networks"
+      ]
+    },
+    {
+      "name": "Amanda Holmstrom",
+      "summary": "Studies supportive communication and social support messages in relationships and their links to physical, mental, and relational well-being.",
+      "summary_zh": "研究人际关系中的支持性传播与社会支持信息，及其与身心和关系福祉的关联。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "social support",
+        "supportive communication",
+        "esteem support",
+        "friendship",
+        "well-being",
+        "parole and probation",
+        "farm stress",
+        "self-esteem",
+        "sex differences"
+      ]
+    },
+    {
+      "name": "Maria Lapinski",
+      "summary": "Studies how persuasive messages and social norms shape health and environmental risk behaviors, with attention to cultural dynamics in projects across many countries.",
+      "summary_zh": "研究说服信息与社会规范如何影响健康与环境风险行为，关注文化动态，项目覆盖多个国家。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "social norms",
+        "risk perception",
+        "one health",
+        "environmental behavior",
+        "persuasive messages",
+        "cultural dynamics",
+        "conservation behavior",
+        "global health"
+      ]
+    },
+    {
+      "name": "David Markowitz",
+      "summary": "Studies how language patterns reveal social and psychological processes such as deception, persuasion, and bias, using computational text analysis.",
+      "summary_zh": "研究语言模式如何揭示欺骗、说服与偏见等社会心理过程，采用计算文本分析方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "language analysis",
+        "deception",
+        "text analysis",
+        "verbal complexity",
+        "dating apps",
+        "persuasion",
+        "linguistic bias",
+        "online petitions",
+        "computer-mediated communication"
+      ]
+    },
+    {
+      "name": "Vernon Miller",
+      "summary": "Studies communication in organizations, including employment interviews, newcomer entry and socialization, role negotiation, and organizational change.",
+      "summary_zh": "研究组织中的传播，包括招聘面试、新员工进入与社会化、角色协商以及组织变革。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "organizational socialization",
+        "employment interview",
+        "organizational entry",
+        "role negotiation",
+        "organizational change",
+        "information seeking",
+        "performance appraisal",
+        "human resource management"
+      ]
+    },
+    {
+      "name": "Yoo Jung (Erika) Oh",
+      "summary": "Studies human-AI communication with chatbots, examining how persuasive AI shapes perceptions, relationships, and health behavior change.",
+      "summary_zh": "研究人与AI聊天机器人的传播，考察具说服力的AI如何影响人的认知、关系与健康行为改变。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "ai chatbots",
+        "human-ai communication",
+        "persuasive technology",
+        "human-chatbot relationships",
+        "health behavior change",
+        "conversational agents"
+      ]
+    },
+    {
+      "name": "Tai-Quan \"Winson\" Peng",
+      "summary": "Studies how successive communication technologies, from the internet to AI, shape attention, interpretation, and influence, using computational social science methods.",
+      "summary_zh": "研究从互联网到AI的历代传播技术如何影响注意、解读与影响过程，采用计算社会科学方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "computational communication",
+        "computational social science",
+        "audience behavior",
+        "ai systems",
+        "mobile media",
+        "social media",
+        "attention",
+        "health communication"
+      ]
+    },
+    {
+      "name": "Ralf Schmälzle",
+      "summary": "Studies how the brain processes persuasive health and media messages, using fMRI, EEG, computational modeling, and VR/AI environments alongside behavioral experiments.",
+      "summary_zh": "研究大脑如何加工健康与媒介说服信息，结合fMRI、EEG、计算建模与VR/AI环境以及行为实验。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "communication neuroscience",
+        "fmri",
+        "eeg",
+        "persuasive messages",
+        "health campaigns",
+        "virtual reality",
+        "message reception",
+        "media neuroscience"
+      ]
+    },
+    {
+      "name": "John L. Sherry",
+      "summary": "Studies educational video games and communication as a complex dynamic system, using modeling, simulation, and experiments on learning during play.",
+      "summary_zh": "研究教育类电子游戏以及作为复杂动态系统的传播，采用建模、仿真以及关于游戏中学习的实验。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "video games",
+        "educational games",
+        "complex systems",
+        "dynamic systems",
+        "simulation",
+        "media effects",
+        "game-based learning",
+        "cognitive processes"
+      ]
+    },
+    {
+      "name": "Stephen Spates",
+      "summary": "Studies how communication organizes and constructs identity, focusing on bias, discrimination, and social identity in organizations and on AI for communication skills.",
+      "summary_zh": "研究传播如何组织与建构身份，关注组织中的偏见、歧视与社会身份，以及利用AI提升沟通技能。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "identity",
+        "bias and discrimination",
+        "organizational communication",
+        "cultural communication",
+        "human-machine communication",
+        "social identity",
+        "reconciliation",
+        "nonviolent social change"
+      ]
+    },
+    {
+      "name": "Ron Tamborini",
+      "summary": "Studies how media technology characteristics shape psychological experience, including moral intuition, natural mapping in video games, and media enjoyment and appreciation.",
+      "summary_zh": "研究媒介技术特征如何塑造心理体验，包括道德直觉、电子游戏中的自然映射以及媒介享受与欣赏。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "moral intuition",
+        "media enjoyment",
+        "appreciation",
+        "natural mapping",
+        "video games",
+        "entertainment",
+        "media psychology"
+      ]
+    },
+    {
+      "name": "Monique Turner",
+      "summary": "Studies persuasion and the role of emotions like guilt, anger, and fear in message design and processing for health, risk, and political communication.",
+      "summary_zh": "研究说服以及内疚、愤怒、恐惧等情绪在健康、风险与政治传播信息设计与加工中的作用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "persuasion",
+        "emotion",
+        "message design",
+        "anger activism model",
+        "guilt appeals",
+        "fear appeals",
+        "risk communication",
+        "judgment and decision making"
+      ]
+    },
+    {
+      "name": "Brandon Van Der Heide",
+      "summary": "Studies computer-mediated and interpersonal communication, focusing on how online cues shape impressions, credibility, and influence in reviews and social media.",
+      "summary_zh": "研究计算机中介传播与人际传播，关注网络线索如何影响在线评论与社交媒体中的印象、可信度与影响力。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "computer-mediated communication",
+        "impression formation",
+        "credibility",
+        "online reviews",
+        "warranting",
+        "social media",
+        "online cues"
+      ]
+    },
+    {
+      "name": "Brooke Wolfe",
+      "summary": "Studies how people communicate when coping with acute and chronic stressors across the lifespan in interpersonal, family, and health contexts.",
+      "summary_zh": "研究人们在应对急性与慢性压力时如何沟通，涵盖整个生命历程中的人际、家庭与健康情境。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "stress",
+        "coping",
+        "family communication",
+        "interpersonal communication",
+        "lifespan",
+        "health communication",
+        "chronic stressors"
+      ]
+    },
+    {
+      "name": "Danielle K. Brown",
+      "summary": "Studies media representations, narrative change, social movements, and race and identity, and leads community-engaged work against misinformation via trusted messengers.",
+      "summary_zh": "研究媒介再现、叙事变革、社会运动与种族身份，并主持借助可信信使应对虚假信息的社区参与式项目。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "narrative change",
+        "media representation",
+        "social movements",
+        "race and media",
+        "misinformation",
+        "trusted messengers",
+        "community-engaged research",
+        "visual journalism",
+        "media ethics"
+      ]
+    },
+    {
+      "name": "Manuel (Manny) Chavez",
+      "summary": "Studies sociology of the news media, media law, crisis reporting, disinformation, and access to information and press systems, especially in Ibero-America.",
+      "summary_zh": "研究新闻媒体社会学、媒介法、危机报道、虚假信息以及信息获取与新闻体制，尤其关注伊比利亚美洲。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "crisis reporting",
+        "media law",
+        "access to information",
+        "transparency",
+        "press systems",
+        "ibero-america",
+        "latino media",
+        "disinformation"
+      ]
+    },
+    {
+      "name": "Eric Freedman",
+      "summary": "Teaches and practices environmental journalism, directing the Knight Center for Environmental Journalism, and has taught and trained journalists in post-Soviet countries, including Central Asia.",
+      "summary_zh": "讲授并从事环境新闻实践，主持奈特环境新闻中心，并在中亚等后苏联国家开展国际新闻教学与培训。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_EUROPE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "environmental journalism",
+        "international journalism",
+        "journalism training",
+        "central asia",
+        "post-soviet region",
+        "public affairs reporting",
+        "capital news service",
+        "kyrgyzstan",
+        "uzbekistan"
+      ]
+    },
+    {
+      "name": "Muhammad Ittefaq",
+      "summary": "Studies global news coverage of health and environmental issues, science misinformation, AI's impacts, and how publics interpret climate and science messages.",
+      "summary_zh": "研究全球健康与环境议题的新闻报道、科学虚假信息、AI的影响，以及公众如何解读气候与科学信息。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "climate change communication",
+        "environmental journalism",
+        "science misinformation",
+        "global news coverage",
+        "health communication",
+        "artificial intelligence",
+        "science communication"
+      ]
+    },
+    {
+      "name": "Serena Miller",
+      "summary": "Studies social science theory building, concept explication, scale development, and metascience, along with alternative journalism and non-scientific ways of knowing.",
+      "summary_zh": "研究社会科学理论建构、概念阐释、量表开发与元科学，以及另类新闻与非科学的认知方式。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "theory building",
+        "concept explication",
+        "scale development",
+        "metascience",
+        "ways of knowing",
+        "alternative journalism",
+        "measurement",
+        "research methods"
+      ]
+    },
+    {
+      "name": "Christina L. Myers",
+      "summary": "Studies depictions of Black experiences and implicit racial bias in news, music, and sports media, using qualitative methods and Critical Race Theory.",
+      "summary_zh": "运用质性方法与批判种族理论，研究新闻、音乐与体育媒体中的黑人经验呈现及隐性种族偏见。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "critical race theory",
+        "black representation",
+        "implicit racial bias",
+        "sports media",
+        "black music",
+        "racial stereotypes",
+        "racial ideology",
+        "black storytelling"
+      ]
+    },
+    {
+      "name": "Perry Parks",
+      "summary": "Studies how taken-for-granted news norms and values limit journalism, using historical, critical, and discourse analysis, including in science journalism.",
+      "summary_zh": "研究习以为常的新闻规范与价值如何限制新闻业，采用历史、批判与话语分析，也涉及科学新闻。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "news values",
+        "news norms",
+        "joy as news value",
+        "poetry and journalism",
+        "science journalism",
+        "discourse analysis",
+        "humanities",
+        "public affairs journalism"
+      ]
+    },
+    {
+      "name": "Swarnavel Eswaran Pillai",
+      "summary": "Studies the history, theory, and production of documentary and Tamil cinema, including its ties to Hollywood and Hindi film and questions of caste and gender.",
+      "summary_zh": "研究纪录片与泰米尔电影的历史、理论与制作，包括其与好莱坞及印地语电影的关系以及种姓与性别议题。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_SOUTH_SE_ASIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "tamil cinema",
+        "documentary film",
+        "film history",
+        "caste",
+        "masculinity",
+        "indian cinema",
+        "documentary production",
+        "madras studios"
+      ]
+    },
+    {
+      "name": "Bruno Takahashi",
+      "summary": "Studies news coverage of environmental issues and environmental journalism practices in Latin America and U.S. Latino media, plus identity in science communication.",
+      "summary_zh": "研究环境议题的新闻报道，以及拉丁美洲与美国拉丁裔媒体的环境新闻实践，并关注科学传播中的身份问题。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "environmental journalism",
+        "environmental communication",
+        "latin america",
+        "peru",
+        "latino media",
+        "news coverage",
+        "science communication",
+        "hurricane maria"
+      ]
+    },
+    {
+      "name": "Tim P. Vos",
+      "summary": "Studies journalistic roles, gatekeeping, and media sociology, along with media history and media policy across print, broadcast, and digital news.",
+      "summary_zh": "研究新闻从业者角色、把关与媒介社会学，以及纸媒、广电与数字新闻的媒介史与媒介政策。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "journalistic roles",
+        "gatekeeping",
+        "media sociology",
+        "media history",
+        "media policy",
+        "journalism studies"
+      ]
+    },
+    {
+      "name": "Geri Alumit Zeldes",
+      "summary": "Studies news coverage of race, ethnicity, and religion and produces documentary films that tell stories from the margins.",
+      "summary_zh": "研究有关种族、族裔与宗教的新闻报道，并制作讲述边缘群体故事的纪录片。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "documentary filmmaking",
+        "news coverage",
+        "race and ethnicity",
+        "religion",
+        "multicultural communication",
+        "storytelling",
+        "social justice"
+      ]
+    },
+    {
+      "name": "Fashina Aladé",
+      "summary": "Studies how young children comprehend and learn from educational media and technology, often in partnership with children's media producers and community groups.",
+      "summary_zh": "研究幼儿如何理解并从教育媒介与技术中学习，常与儿童媒体制作方及社区组织合作。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "children and media",
+        "educational media",
+        "early childhood",
+        "comprehension",
+        "learning from media",
+        "educational technology",
+        "cognitive development",
+        "children's television"
+      ]
+    },
+    {
+      "name": "Saleem E. Alhabash",
+      "summary": "Studies cognitive and emotional effects of social media in persuasion, including alcohol marketing, digital aggression, online counterfeits, and attitudes toward nations.",
+      "summary_zh": "研究社交媒体在说服中的认知与情绪效果，包括酒类营销、网络攻击、网购假货以及对他国的态度。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "social media",
+        "persuasion",
+        "alcohol marketing",
+        "cyberbullying",
+        "digital aggression",
+        "counterfeit products",
+        "nation stereotypes",
+        "media psychology",
+        "digital marketing"
+      ]
+    },
+    {
+      "name": "John C. Besley",
+      "summary": "Studies public views of science and scientists' views of communication, including trust and fairness perceptions, through large surveys and interviews of scientists.",
+      "summary_zh": "研究公众对科学的看法与科学家对传播的看法，包括信任与公平感，采用大规模调查与科学家访谈。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "science communication",
+        "risk communication",
+        "trust in science",
+        "scientists",
+        "procedural fairness",
+        "public engagement",
+        "strategic science communication",
+        "nanotechnology",
+        "agricultural biotechnology"
+      ]
+    },
+    {
+      "name": "Matea Čaluk",
+      "summary": "Studies how executive leaders make decisions during crisis and uncertainty and how identity shapes those decisions.",
+      "summary_zh": "研究高层领导者在危机与不确定时期如何决策，以及身份如何影响其决策。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "executive leadership",
+        "decision-making",
+        "crisis communication",
+        "identity",
+        "higher education",
+        "strategic communication"
+      ]
+    },
+    {
+      "name": "Luke Capizzo",
+      "summary": "Studies public relations and social issues management, including activism, dialogue, organizational listening, sustainability, and PR pedagogy.",
+      "summary_zh": "研究公共关系与社会议题管理，包括行动主义、对话、组织倾听、可持续发展与公关教育。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public relations",
+        "social issues management",
+        "activism",
+        "organizational listening",
+        "dialogue",
+        "environmental justice",
+        "pr pedagogy",
+        "dei"
+      ]
+    },
+    {
+      "name": "Chuqing Dong",
+      "summary": "Studies CSR and ESG communication, nonprofit-corporate alliances, government communication, and AI in public relations, using multimethod designs.",
+      "summary_zh": "研究企业社会责任与ESG传播、非营利组织与企业联盟、政府传播以及公关中的AI，采用多方法设计。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "corporate social responsibility",
+        "esg",
+        "government communication",
+        "nonprofit communication",
+        "cross-sectoral alliances",
+        "pr ethics",
+        "ai in public relations"
+      ]
+    },
+    {
+      "name": "Kelly Gaggin",
+      "summary": "Studies public relations and strategic communication as drivers of cross-cultural understanding and relationship-building, especially for nonprofit organizations.",
+      "summary_zh": "研究公共关系与战略传播如何促进跨文化理解与关系建立，尤其关注非营利组织。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public relations",
+        "strategic communication",
+        "cross-cultural understanding",
+        "nonprofit organizations",
+        "relationship-building",
+        "diversity and inclusion"
+      ]
+    },
+    {
+      "name": "Dan Hiaeshutter-Rice",
+      "summary": "Studies how communication technologies and identity shape political, health, and environmental information in the U.S., using computational methods, surveys, and experiments.",
+      "summary_zh": "研究传播技术与身份如何塑造美国的政治、健康与环境信息，采用计算方法、调查与实验。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "identity driven information ecosystem",
+        "political communication",
+        "communication technologies",
+        "affordances",
+        "algorithms",
+        "social identity",
+        "computational methods",
+        "health information"
+      ]
+    },
+    {
+      "name": "Bree E. Holtz",
+      "summary": "Studies adoption and outcomes of telemedicine, mHealth apps, wearable sensors, and AI in healthcare, using mixed methods.",
+      "summary_zh": "研究远程医疗、移动健康应用、可穿戴传感器与医疗AI的采纳及其效果，采用混合方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "telemedicine",
+        "telehealth",
+        "mhealth",
+        "health technology adoption",
+        "wearable sensors",
+        "electronic medical records",
+        "ai in healthcare"
+      ]
+    },
+    {
+      "name": "Patricia T. Huddleston",
+      "summary": "Studies consumer information processing of retail point-of-purchase displays, using eye tracking to link signage and price cues to purchase intention.",
+      "summary_zh": "研究消费者对零售终端陈列的信息加工，利用眼动追踪考察标识与价格线索对购买意向的影响。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "eye tracking",
+        "retail",
+        "point of purchase",
+        "consumer behavior",
+        "signage",
+        "purchase intention",
+        "brand communication"
+      ]
+    },
+    {
+      "name": "Anastasia Kononova",
+      "summary": "Studies media multitasking across cultures and the lifespan and its effects on cognition, emotion, and resistance to advertising and health messages.",
+      "summary_zh": "研究跨文化与跨生命周期的媒介多任务行为，及其对认知、情绪以及对广告与健康信息抵抗的影响。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "media multitasking",
+        "cross-cultural media use",
+        "older adults",
+        "resistance to persuasion",
+        "advertising literacy",
+        "digital literacy",
+        "memory",
+        "advertising context"
+      ]
+    },
+    {
+      "name": "Hairong Li",
+      "summary": "Studies the uses, effects, and implications of digital technology, including interactive media, AI, and big data, in advertising and marketing communication.",
+      "summary_zh": "研究数字技术（包括互动媒介、AI与大数据）在广告与营销传播中的使用、效果与影响。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "interactive advertising",
+        "digital advertising",
+        "ai in advertising",
+        "big data",
+        "marketing communication",
+        "computational advertising"
+      ]
+    },
+    {
+      "name": "Mengyan Ma",
+      "summary": "Studies how influencers, family communication, and AI shape health behaviors and well-being among youth and families, using mixed and community-engaged methods.",
+      "summary_zh": "研究网红、家庭沟通与AI如何影响青少年与家庭的健康行为与幸福感，采用混合方法与社区参与式研究。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health communication",
+        "influencer marketing",
+        "family communication",
+        "cannabis products",
+        "eating behaviors",
+        "social norms",
+        "self-efficacy",
+        "psychological well-being",
+        "community-engaged research"
+      ]
+    },
+    {
+      "name": "Anna R McAlister",
+      "summary": "Studies children's consumer behavior, applying developmental psychology to children's knowledge of food brands, responses to food advertising, and food preferences.",
+      "summary_zh": "研究儿童消费行为，运用发展心理学考察儿童对食品品牌的认知、对食品广告的反应及食物偏好形成。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "children's consumer behavior",
+        "food advertising",
+        "food brands",
+        "developmental psychology",
+        "advertising policy",
+        "eye tracking",
+        "advertising ethics"
+      ]
+    },
+    {
+      "name": "Susan McFarlane-Alvarez",
+      "summary": "Studies how historical, cultural, and ideological forces shape identity and image representations in advertising and strategic communication.",
+      "summary_zh": "研究历史、文化与意识形态力量如何塑造广告与战略传播中的身份与影像再现。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "advertising representation",
+        "identity",
+        "moving image",
+        "inclusion",
+        "sustainability",
+        "corporate expression",
+        "strategic communication"
+      ]
+    },
+    {
+      "name": "Dar Meshi",
+      "summary": "Studies the psychology and neuroscience of technology use, including problematic social media use in adults and adolescents and the use of blockchain web3 apps.",
+      "summary_zh": "研究技术使用的心理与神经机制，包括成人与青少年的问题性社交媒体使用以及区块链web3应用的使用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "problematic social media use",
+        "social rewards",
+        "behavioral addiction",
+        "web3",
+        "blockchain",
+        "cognitive neuroscience",
+        "decision-making",
+        "adolescents"
+      ]
+    },
+    {
+      "name": "Maria D. Molina",
+      "summary": "Studies how technological affordances shape online persuasion in digital health, misinformation sharing, and privacy decisions with generative AI chatbots.",
+      "summary_zh": "研究技术可供性如何影响数字健康、虚假信息分享以及与生成式AI聊天机器人互动时隐私决策中的网络说服。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "technological affordances",
+        "misinformation",
+        "online privacy",
+        "generative ai",
+        "chatbots",
+        "content moderation",
+        "digital health",
+        "privacy by design",
+        "online sharing"
+      ]
+    },
+    {
+      "name": "Juan Mundel",
+      "summary": "Studies effects of marketing and social media advertising on underserved and at-risk groups, such as anxiety, addiction, and intent to buy alcohol or e-cigarettes.",
+      "summary_zh": "研究营销与社交媒体广告对弱势和高风险群体的影响，如焦虑、成瘾以及购买酒类或电子烟的意向。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "social media advertising",
+        "marketing exposure",
+        "social media addiction",
+        "impulsive consumption",
+        "alcohol marketing",
+        "e-cigarettes",
+        "unhealthy food marketing",
+        "at-risk populations"
+      ]
+    },
+    {
+      "name": "Hannah Overbye-Thompson",
+      "summary": "Studies how people detect bias and limitations in AI and algorithmic systems and how they adapt their technology use in response.",
+      "summary_zh": "研究人们如何察觉AI与算法系统中的偏见与局限，以及如何相应调整其技术使用。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "algorithmic bias",
+        "ai systems",
+        "user adaptation",
+        "sociotechnical systems",
+        "decision-making",
+        "algorithm awareness"
+      ]
+    },
+    {
+      "name": "Nancy Rhodes",
+      "summary": "Studies persuasion and social influence, especially how social norms affect message processing and health risk behaviors like smoking, drinking, and risky driving.",
+      "summary_zh": "研究说服与社会影响，尤其是社会规范如何影响信息加工以及吸烟、饮酒、危险驾驶等健康风险行为。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "social norms",
+        "persuasion",
+        "social influence",
+        "substance use",
+        "risky driving",
+        "message processing",
+        "cigarette smoking",
+        "alcohol"
+      ]
+    },
+    {
+      "name": "Edward Timke",
+      "summary": "Studies the cultural history of advertising and disability innovation and accessibility in North America and Europe, using oral history, ethnography, and archives.",
+      "summary_zh": "研究广告文化史以及北美与欧洲的残障创新与无障碍实践，采用口述史、民族志与档案研究。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_EUROPE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "advertising history",
+        "disability",
+        "accessibility",
+        "oral history",
+        "material culture",
+        "disability innovation",
+        "inclusive design",
+        "archival research"
+      ]
+    },
+    {
+      "name": "Aileen Torrance",
+      "summary": "Holds a faculty post in advertising and public relations; the department profile gives no research description.",
+      "summary_zh": "任职于广告与公共关系系；系所简介未提供研究方向说明。",
+      "confidence": "low",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "advertising",
+        "public relations",
+        "advertising ethics",
+        "advertising education",
+        "strategic communication"
+      ]
+    },
+    {
+      "name": "Mariah Wellman",
+      "summary": "Studies social media influencers and wellness culture, including how wellness creators build authority, plus social media use in patient-provider health communication.",
+      "summary_zh": "研究社交媒体网红与健康养生文化，包括养生创作者如何建立权威，以及社交媒体在医患健康沟通中的作用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "social media influencers",
+        "wellness culture",
+        "diet culture",
+        "wellness rhetoric",
+        "tiktok",
+        "brca",
+        "health communication",
+        "lds women influencers"
+      ]
+    },
+    {
+      "name": "Maral Zakharia",
+      "summary": "Holds a faculty post in advertising and public relations; the department profile gives no research description.",
+      "summary_zh": "任职于广告与公共关系系；系所简介未提供研究方向说明。",
+      "confidence": "low",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "advertising",
+        "public relations",
+        "creative advertising",
+        "design",
+        "strategic communication"
+      ]
+    },
+    {
+      "name": "Young Anna Argyris",
+      "summary": "Studies health misinformation and social media influence, building deep learning models to classify vaccine misinformation and designing counter-campaigns.",
+      "summary_zh": "研究健康虚假信息与社交媒体影响力，构建深度学习模型识别疫苗虚假信息并设计反制传播活动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "vaccine misinformation",
+        "hpv vaccine",
+        "deep learning",
+        "social media influencers",
+        "visual congruence",
+        "social influence",
+        "health misinformation",
+        "information systems"
+      ]
+    },
+    {
+      "name": "Johannes M. Bauer",
+      "summary": "Studies the digital economy and the governance and policy of information and communication technologies, with international and comparative scope.",
+      "summary_zh": "研究数字经济以及信息通信技术的治理与政策，具有国际与比较视野。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "digital economy",
+        "information policy",
+        "telecommunications policy",
+        "ict governance",
+        "broadband",
+        "media economics",
+        "public interest technology"
+      ]
+    },
+    {
+      "name": "Susan Bonner",
+      "summary": "Designs and studies entertainment and serious games, including AR games, to transform healthcare and teach children social-emotional coping skills.",
+      "summary_zh": "设计并研究娱乐与严肃游戏（包括AR游戏），用于变革医疗以及教授儿童社会情绪应对技能。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "serious games",
+        "health games",
+        "educational games",
+        "augmented reality",
+        "inclusive design",
+        "social emotional learning",
+        "game design"
+      ]
+    },
+    {
+      "name": "Sandra Braman",
+      "summary": "Studies the macro-level effects of digital technologies and information policy, analyzing U.S. statutes and constitutional law on falsity, disinformation, and AI.",
+      "summary_zh": "研究数字技术的宏观影响与信息政策，分析美国有关虚假陈述、虚假信息与AI的法规与宪法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "information policy",
+        "communication law",
+        "disinformation governance",
+        "federal statutes",
+        "constitutional law",
+        "algorithm governance",
+        "information economics"
+      ]
+    },
+    {
+      "name": "Celeste Campos-Castillo",
+      "summary": "Studies how technologies like chatbots and health tools can be designed to reduce health inequalities, using multimethod, community-partnered research.",
+      "summary_zh": "研究如何设计聊天机器人与健康工具等技术以缓解健康不平等，采用多方法、与社区合作的研究。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health inequalities",
+        "digital health",
+        "chatbots",
+        "social support",
+        "mental health",
+        "autistic youth",
+        "health equity",
+        "community partnerships"
+      ]
+    },
+    {
+      "name": "Amanda Cote",
+      "summary": "Studies the game industry and gaming culture, including gender and identity, developer labor and crunch, and collegiate esports, through interviews and discourse analysis.",
+      "summary_zh": "研究游戏产业与游戏文化，包括性别与身份、开发者劳动与加班文化以及大学电竞，采用访谈与话语分析。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "video games",
+        "gaming sexism",
+        "game industry labor",
+        "crunch",
+        "collegiate esports",
+        "gender and identity",
+        "toxicity",
+        "discourse analysis"
+      ]
+    },
+    {
+      "name": "David Ewoldsen",
+      "summary": "Studies media psychology, including comprehension of media messages, racism and the media, cooperative video game play, and attitudes in risky health behavior.",
+      "summary_zh": "研究媒介心理学，包括媒介信息理解、种族主义与媒介、合作类电子游戏以及态度在健康风险行为中的作用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "media psychology",
+        "attitudes",
+        "persuasion",
+        "cooperative video games",
+        "racism and media",
+        "message comprehension",
+        "risky health behavior"
+      ]
+    },
+    {
+      "name": "Keith Hampton",
+      "summary": "Studies how digital technologies and social networks shape community, well-being, adolescent mental health, social isolation, and willingness to voice opinions.",
+      "summary_zh": "研究数字技术与社会网络如何影响社区、幸福感、青少年心理健康、社会孤立以及表达意见的意愿。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "social networks",
+        "community",
+        "well-being",
+        "social media",
+        "adolescent mental health",
+        "persistent contact",
+        "social isolation",
+        "opinion expression"
+      ]
+    },
+    {
+      "name": "Jean Hardy",
+      "summary": "Studies the role of technology in rural economic and community development, broadband policy, and collaborative technologies among rural LGBTQ people, drawing on CSCW and STS.",
+      "summary_zh": "借鉴CSCW与STS研究技术在乡村经济与社区发展中的作用、宽带政策，以及乡村LGBTQ群体的协作技术。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "rural computing",
+        "cscw",
+        "science and technology studies",
+        "rural economic development",
+        "broadband policy",
+        "rural lgbtq",
+        "digital resilience",
+        "design probes"
+      ]
+    },
+    {
+      "name": "Megan Knittel",
+      "summary": "Studies tech harms, cybersafety, digital equity, and platform governance, using mixed methods in settings such as domestic violence and rural Michigan communities.",
+      "summary_zh": "研究技术伤害、网络安全、数字公平与平台治理，在家庭暴力与密歇根乡村社区等情境中采用混合方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "tech abuse",
+        "cybersafety",
+        "domestic violence",
+        "online communities",
+        "platform governance",
+        "digital equity",
+        "broadband",
+        "digital skills"
+      ]
+    },
+    {
+      "name": "Hee Rin Lee",
+      "summary": "Designs and evaluates social robots for social good, aiming to empower marginalized groups such as low-income people and older adults.",
+      "summary_zh": "设计并评估面向社会公益的社交机器人，旨在赋权低收入人群与老年人等边缘群体。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "human-robot interaction",
+        "social robots",
+        "robots for social good",
+        "older adults",
+        "low-income communities",
+        "participatory design"
+      ]
+    },
+    {
+      "name": "Sian Lee",
+      "summary": "Studies how information environments and generative AI shape beliefs and decisions, covering misinformation, sport analytics, and LLM alignment, using machine learning and statistics.",
+      "summary_zh": "研究信息环境与生成式AI如何影响信念与决策，涵盖虚假信息、体育数据分析与大模型对齐，采用机器学习与统计方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "computational social science",
+        "misinformation",
+        "sport analytics",
+        "generative ai",
+        "large language models",
+        "machine learning",
+        "text analysis"
+      ]
+    },
+    {
+      "name": "Megh Marathe",
+      "summary": "Studies inclusion in medical and civic expert practices and technologies, such as epilepsy care, brain implants, and gender-diverse data, through ethnography.",
+      "summary_zh": "通过民族志研究医疗与公民领域专家实践与技术中的包容性，如癫痫诊疗、脑植入设备与性别多元数据。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "science and technology studies",
+        "disability studies",
+        "epilepsy",
+        "medical anthropology",
+        "ethnography",
+        "brain implants",
+        "gender-diverse data",
+        "civic technology"
+      ]
+    },
+    {
+      "name": "Casey O'Donnell",
+      "summary": "Studies the creative collaborative work and culture of videogame design and development in AAA studios and independent communities, and develops games.",
+      "summary_zh": "研究3A工作室与独立开发社区中电子游戏设计与开发的创意协作及其文化，并亲自开发游戏。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "game development",
+        "videogame industry",
+        "independent game developers",
+        "creative collaboration",
+        "game design",
+        "developer culture"
+      ]
+    },
+    {
+      "name": "Jennifer Olson",
+      "summary": "Studies climate and land-use change impacts in Africa and runs ICT-for-development projects that co-design technologies with farmers and youth.",
+      "summary_zh": "研究非洲气候与土地利用变化的影响，并开展与农民和青少年共同设计技术的信息通信技术促进发展项目。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_AFRICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "ictd",
+        "human centered design",
+        "climate change",
+        "agricultural systems",
+        "land use change",
+        "tanzania",
+        "farmers",
+        "type 1 diabetes"
+      ]
+    },
+    {
+      "name": "Wei Peng",
+      "summary": "Studies psychological mechanisms of behavior change and designs and evaluates chatbots, exergames, and mobile apps for health promotion.",
+      "summary_zh": "研究行为改变的心理机制，并设计与评估用于健康促进的聊天机器人、运动游戏与移动应用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "exergames",
+        "conversational agents",
+        "health promotion",
+        "mobile health apps",
+        "persuasive technology",
+        "behavior change",
+        "physical activity",
+        "child obesity prevention"
+      ]
+    },
+    {
+      "name": "Daniel Putman",
+      "summary": "Studies how social networks and digital technology shape vulnerability, resilience, and responses to risk among the poor, using applied microeconomics and computational social science.",
+      "summary_zh": "运用应用微观经济学与计算社会科学，研究社会网络与数字技术如何影响贫困人群的脆弱性、韧性与风险应对。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "economic development",
+        "social networks",
+        "risk and uncertainty",
+        "poverty",
+        "digital technology",
+        "computational social science",
+        "resilience",
+        "ictd"
+      ]
+    },
+    {
+      "name": "Rabindra Ratan",
+      "summary": "Studies psychological effects of human-technology interaction such as avatars, VR/XR, video games, and AI, including the Proteus effect and gender stereotypes in gaming.",
+      "summary_zh": "研究人机交互的心理效应，涉及虚拟化身、VR/XR、电子游戏与AI，包括普罗透斯效应与游戏中的性别刻板印象。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "proteus effect",
+        "avatars",
+        "virtual reality",
+        "video games",
+        "human-ai interaction",
+        "gender stereotypes",
+        "virtual meetings",
+        "extended reality"
+      ]
+    },
+    {
+      "name": "Ruth Shillair",
+      "summary": "Studies how communication strategies and policy can improve cybersecurity practices, increase digital literacy, and reduce the digital divide.",
+      "summary_zh": "研究如何通过传播策略与政策改善网络安全实践、提升数字素养并缩小数字鸿沟。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "cybersecurity",
+        "digital literacy",
+        "digital divide",
+        "technology policy",
+        "online safety",
+        "cybersecurity capacity"
+      ]
+    },
+    {
+      "name": "Michael Stern",
+      "summary": "Studies health information seeking and digital inequality among marginalized and rural groups, and advances survey methodology using web, mobile, and big data.",
+      "summary_zh": "研究边缘化与乡村群体的健康信息寻求与数字不平等，并利用网络、移动与大数据推进调查方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ADMIN_LARGE_SCALE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "digital inequality",
+        "health information seeking",
+        "survey methodology",
+        "web surveys",
+        "mobile technology",
+        "rural penalty",
+        "questionnaire design",
+        "administrative data"
+      ]
+    },
+    {
+      "name": "Morgan Vigil-Hayes",
+      "summary": "Studies how rural and Indigenous communities build and govern networked information systems, and designs and deploys community-owned networks with tribal partners.",
+      "summary_zh": "研究乡村与原住民社区如何建设和治理网络信息系统，并与部落伙伴设计部署社区自有网络。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "indigenous computing",
+        "network sovereignty",
+        "community networks",
+        "rural connectivity",
+        "digital inclusion",
+        "social computing",
+        "cscw",
+        "tribal networks"
+      ]
+    },
+    {
+      "name": "Brian Winn",
+      "summary": "Designs, creates, and studies interactive media, including game design, digital game-based learning, and interactive health communication.",
+      "summary_zh": "设计、制作并研究互动媒介，包括游戏设计、数字游戏化学习与互动健康传播。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "game design",
+        "digital game-based learning",
+        "interactive health communication",
+        "serious games",
+        "interactive media design"
+      ]
+    },
+    {
+      "name": "Susan Wyche",
+      "summary": "Studies technology use in Sub-Saharan Africa for HCI and ICT-for-development, grounded in long-term fieldwork at Kenyan sites.",
+      "summary_zh": "基于在肯尼亚的长期田野调查，研究撒哈拉以南非洲的技术使用，服务于人机交互与信息通信技术促进发展领域。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_AFRICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "ictd",
+        "human-computer interaction",
+        "kenya",
+        "sub-saharan africa",
+        "fieldwork",
+        "design",
+        "cscw",
+        "hci curricula"
+      ]
+    },
+    {
+      "name": "Lucinda D. Davenport",
+      "summary": "Journalism studies scholar working on digital media technologies in journalism, media history, journalism education, ethics, and women and media, including news source diversity tools.",
+      "summary_zh": "新闻学研究者，关注新闻业中的数字媒体技术、媒介史、新闻教育、新闻伦理及女性与媒介，并开发新闻信源多样性工具。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "journalism studies",
+        "media history",
+        "journalism education",
+        "media ethics",
+        "women and media",
+        "digital journalism",
+        "source diversity"
+      ]
+    }
+  ]
+}

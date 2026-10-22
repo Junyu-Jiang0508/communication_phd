@@ -168,24 +168,8 @@
             ]
           }
         ],
-        "approach": [
-          {
-            "code": "A_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "publications"
-            ]
-          }
-        ],
-        "data": [
-          {
-            "code": "D_SURVEY_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "publications"
-            ]
-          }
-        ],
+        "approach": [],
+        "data": [],
         "setting": [],
         "region": []
       },
@@ -394,6 +378,7 @@
             "code": "T_INTERPERSONAL",
             "primary": true,
             "sources": [
+              "department_profile",
               "personal_site"
             ]
           },
@@ -401,6 +386,7 @@
             "code": "T_HEALTH",
             "primary": false,
             "sources": [
+              "department_profile",
               "personal_site"
             ]
           },
@@ -408,6 +394,7 @@
             "code": "T_HCI_CMC",
             "primary": false,
             "sources": [
+              "department_profile",
               "personal_site"
             ]
           }
@@ -505,13 +492,6 @@
         "data": [
           {
             "code": "D_SURVEY_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
-            "code": "D_NEWS_CONTENT",
             "primary": false,
             "sources": [
               "department_profile"
@@ -838,6 +818,13 @@
             "sources": [
               "department_profile"
             ]
+          },
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
           }
         ],
         "setting": [
@@ -956,13 +943,6 @@
           {
             "code": "A_DESIGN_BUILD",
             "primary": true,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
-            "code": "A_NETWORK",
-            "primary": false,
             "sources": [
               "department_profile"
             ]
@@ -1214,15 +1194,7 @@
             ]
           }
         ],
-        "approach": [
-          {
-            "code": "A_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "approach": [],
         "data": [],
         "setting": [],
         "region": []
@@ -1236,7 +1208,9 @@
         "covid-19",
         "vaccine hesitancy",
         "risk communication",
-        "misinformation"
+        "misinformation",
+        "climate change misinformation",
+        "online support provision"
       ]
     }
   ]

@@ -115,8 +115,8 @@
   },
   {
    "name": "Donathan Brown",
-   "summary": "Analyzes the rhetoric of race and public policy in the US, including immigration reform, policing, voting rights, and the civil rights legacy, through rhetorical criticism of policy debates.",
-   "summary_zh": "通过对政策辩论的修辞批评，分析美国种族与公共政策的修辞，涵盖移民改革、警务、投票权与民权遗产。",
+   "summary": "Analyzes the rhetoric of race and public policy in the US, including immigration reform, policing, voting rights, and the civil rights legacy, with a focus on political rhetoric and policy debates.",
+   "summary_zh": "分析美国种族与公共政策的修辞，涵盖移民改革、警务、投票权与民权遗产，聚焦政治修辞与政策辩论。",
    "confidence": "high",
    "labels": {
     "topic": [
@@ -142,15 +142,7 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "approach": [],
     "data": [],
     "setting": [
      {
@@ -488,16 +480,7 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_HISTORICAL_ARCHIVAL",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
+    "approach": [],
     "data": [],
     "setting": [
      {
@@ -554,13 +537,6 @@
      {
       "code": "A_DESIGN_BUILD",
       "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
       "sources": [
        "department_profile"
       ]
@@ -750,8 +726,8 @@
   },
   {
    "name": "Katherine Haenschen",
-   "summary": "Studies digital media and politics, using field experiments to test effects of digital communication on voter turnout and digital trace data to measure online political behavior.",
-   "summary_zh": "研究数字媒体与政治，运用田野实验检验数字传播对投票率的影响，并利用数字痕迹数据测量线上政治行为。",
+   "summary": "Studies digital media and politics, using experiments to test effects of digital communication on voter turnout and digital trace data to measure online political behavior.",
+   "summary_zh": "研究数字媒体与政治，运用实验检验数字传播对投票率的影响，并利用数字痕迹数据测量线上政治行为。",
    "confidence": "high",
    "labels": {
     "topic": [
@@ -793,13 +769,6 @@
       "sources": [
        "department_profile"
       ]
-     },
-     {
-      "code": "D_ADMIN_LARGE_SCALE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
      }
     ],
     "setting": [
@@ -815,7 +784,7 @@
    },
    "keywords": [
     "voter turnout",
-    "field experiments",
+    "experiments",
     "digital trace data",
     "political campaigns",
     "online political behavior",
@@ -944,15 +913,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_ADMIN_LARGE_SCALE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_ELECTIONS_GOVERNMENT",
@@ -1160,13 +1121,6 @@
     ],
     "approach": [
      {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
       "code": "A_PHYSIO_NEURO",
       "primary": false,
       "sources": [
@@ -1174,15 +1128,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_YOUTH_EDUCATION",
@@ -1349,24 +1295,8 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_SURVEY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "approach": [],
+    "data": [],
     "setting": [
      {
       "code": "SET_AUDIENCES_PUBLICS",
@@ -1757,13 +1687,6 @@
     ],
     "approach": [
      {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
       "code": "A_DESIGN_BUILD",
       "primary": false,
       "sources": [
@@ -1790,7 +1713,6 @@
     "mental health stigma",
     "vaccine hesitancy",
     "domestic and sexual violence",
-    "latinx communities",
     "health communication"
    ]
   },
@@ -1925,8 +1847,7 @@
       "code": "A_CRITICAL_INTERPRETIVE",
       "primary": false,
       "sources": [
-       "department_profile",
-       "publications"
+       "department_profile"
       ]
      }
     ],
@@ -1935,8 +1856,7 @@
       "code": "D_SOCIAL_MEDIA",
       "primary": true,
       "sources": [
-       "department_profile",
-       "publications"
+       "department_profile"
       ]
      }
     ],
@@ -1945,8 +1865,7 @@
       "code": "SET_SOCIAL_MOVEMENTS",
       "primary": false,
       "sources": [
-       "department_profile",
-       "publications"
+       "department_profile"
       ]
      },
      {
@@ -1959,19 +1878,10 @@
     ],
     "region": [
      {
-      "code": "R_CHINA",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     },
-     {
       "code": "R_GLOBAL_CROSS_NATIONAL",
       "primary": false,
       "sources": [
-       "department_profile",
-       "publications"
+       "department_profile"
       ]
      }
     ]
@@ -2036,8 +1946,7 @@
       "code": "A_PHYSIO_NEURO",
       "primary": false,
       "sources": [
-       "department_profile",
-       "publications"
+       "department_profile"
       ]
      },
      {
@@ -2067,8 +1976,7 @@
       "code": "D_PHYSIO_LOG",
       "primary": false,
       "sources": [
-       "department_profile",
-       "publications"
+       "department_profile"
       ]
      }
     ],
@@ -2144,6 +2052,13 @@
       "sources": [
        "department_profile"
       ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
      }
     ],
     "data": [],
@@ -2208,16 +2123,14 @@
       "code": "A_COMPUTATIONAL",
       "primary": false,
       "sources": [
-       "department_profile",
-       "publications"
+       "department_profile"
       ]
      },
      {
       "code": "A_CONTENT_ANALYSIS",
       "primary": false,
       "sources": [
-       "department_profile",
-       "publications"
+       "department_profile"
       ]
      }
     ],
@@ -2226,8 +2139,7 @@
       "code": "D_NEWS_CONTENT",
       "primary": false,
       "sources": [
-       "department_profile",
-       "publications"
+       "department_profile"
       ]
      }
     ],
@@ -2328,8 +2240,8 @@
   },
   {
    "name": "Caleb Gayle",
-   "summary": "Writes narrative journalism on the history of race and identity, drawing on reporting and oral histories with Black elders across the country.",
-   "summary_zh": "撰写关于种族与身份历史的叙事性新闻作品，依托实地报道与全国各地黑人长者的口述史。",
+   "summary": "Writes narrative journalism on the history of race and identity, drawing on reporting and oral histories with elders across the country.",
+   "summary_zh": "撰写关于种族与身份历史的叙事性新闻作品，依托实地报道与全国各地长者的口述史。",
    "confidence": "medium",
    "labels": {
     "topic": [
@@ -2389,15 +2301,7 @@
       ]
      }
     ],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
+    "region": []
    },
    "keywords": [
     "race and identity",
@@ -2575,8 +2479,7 @@
       "code": "A_DESIGN_BUILD",
       "primary": false,
       "sources": [
-       "department_profile",
-       "publications"
+       "department_profile"
       ]
      }
     ],
@@ -2679,8 +2582,8 @@
   },
   {
    "name": "Dan Kennedy",
-   "summary": "Studies the future of local and community news, examining media startups and news deserts through case reporting, alongside media criticism, ethics, and the First Amendment.",
-   "summary_zh": "研究本地与社区新闻的未来，通过案例报道考察媒体初创与新闻荒漠，并关注媒介批评、伦理与第一修正案。",
+   "summary": "Studies the future of local and community news, including media startups and news deserts, alongside media criticism, ethics, and the First Amendment.",
+   "summary_zh": "研究本地与社区新闻的未来，包括媒体初创与新闻荒漠，并关注媒介批评、伦理与第一修正案。",
    "confidence": "high",
    "labels": {
     "topic": [
@@ -2699,15 +2602,7 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "approach": [],
     "data": [],
     "setting": [
      {

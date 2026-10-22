@@ -1,0 +1,3200 @@
+{
+ "slug": "university-of-kentucky",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "Alan DeSantis",
+   "summary": "Studies college fraternity culture, nonprescribed stimulant use, and cigar smoking, including qualitative analyses of alcohol and persuasion in popular fraternity films.",
+   "summary_zh": "研究大学兄弟会文化、非处方兴奋剂使用与雪茄吸食，并对兄弟会题材流行电影中的饮酒描绘与说服叙事进行质性分析。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "fraternities",
+    "greek life",
+    "adhd stimulants",
+    "nonprescribed psychostimulant use",
+    "cigar smoking",
+    "alcohol portrayals in film",
+    "cognitive dissonance",
+    "physician leadership"
+   ]
+  },
+  {
+   "name": "Jess Dominguez",
+   "summary": "Studies how people maintain friendships, family ties, and well-being through texting, group chats, memes, and chatbots, including queer friendships and loneliness.",
+   "summary_zh": "研究人们如何通过短信、家庭群聊、表情包和聊天机器人维系友谊与家庭关系及个人幸福感，包括酷儿友谊与孤独感。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "friendship",
+    "relational maintenance",
+    "family group chats",
+    "loneliness",
+    "life satisfaction",
+    "chatbots",
+    "memes",
+    "lgbtq friendship",
+    "texting",
+    "self-disclosure"
+   ]
+  },
+  {
+   "name": "Marko Dragojevic",
+   "summary": "Studies language attitudes, accent bias, and linguistic stereotypes, examining how processing fluency and social categorization shape listeners' evaluations of speakers.",
+   "summary_zh": "研究语言态度、口音偏见与语言刻板印象，探讨加工流畅性和社会分类如何影响听者对说话者的评价。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_LANGUAGE_INTERACTION",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "language attitudes",
+    "foreign accents",
+    "communication accommodation theory",
+    "social categorization",
+    "processing fluency",
+    "linguistic stereotypes",
+    "intergroup communication",
+    "code-mixing",
+    "multilingualism"
+   ]
+  },
+  {
+   "name": "Allison Gordon",
+   "summary": "Studies communication in medical decision making, from ICU family meetings and advance care planning to genetic risk disclosure and cancer survivorship, mainly through qualitative and mixed methods.",
+   "summary_zh": "研究医疗决策中的沟通，包括ICU家庭会议、预立医疗照护计划、遗传风险告知与癌症幸存者经历，主要采用质性与混合方法。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "A_MIXED",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "advance care planning",
+    "icu family meetings",
+    "medical decision making",
+    "brca disclosure",
+    "cancer survivors",
+    "long-term care",
+    "mental health",
+    "thematic analysis"
+   ]
+  },
+  {
+   "name": "Rebecca Greer",
+   "summary": "Studies organizational communication among foreign and migrant workers, including acculturation, stigma, upward dissent, defensive silence, and workplace gossip, with attention to Japan and the US.",
+   "summary_zh": "研究外籍与移民劳动者的组织传播，包括文化适应、污名、向上异议、防御性沉默与职场八卦，关注日本和美国情境。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_EAST_ASIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "acculturation",
+    "migrant workers",
+    "organizational socialization",
+    "defensive silence",
+    "upward dissent",
+    "leader-member exchange",
+    "workplace gossip",
+    "multiculturalism",
+    "japan"
+   ]
+  },
+  {
+   "name": "Sitong Guo",
+   "summary": "Studies sport communication and athlete social media self-presentation across Chinese and US contexts, comparing cultural values in fan and audience responses.",
+   "summary_zh": "研究体育传播与运动员社交媒体自我呈现，比较中美情境下球迷与受众反应中的文化价值观差异。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_CHINA",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "sport communication",
+    "athlete self-presentation",
+    "social media",
+    "nba",
+    "basketball",
+    "sport fandom",
+    "cross-cultural comparison",
+    "china"
+   ]
+  },
+  {
+   "name": "Nancy Harrington",
+   "summary": "Studies persuasive health message design and interventions, including sensation seeking, substance use prevention, and randomized trials of HIV/HCV screening messages in emergency departments.",
+   "summary_zh": "研究说服性健康信息设计与干预，包括感觉寻求、物质滥用预防，以及在急诊科开展的HIV/HCV筛查信息随机对照试验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "persuasive message design",
+    "health communication interventions",
+    "sensation seeking",
+    "substance use prevention",
+    "hiv/hcv screening",
+    "randomized controlled trial",
+    "integrative model",
+    "cost of care conversations"
+   ]
+  },
+  {
+   "name": "Don Helme",
+   "summary": "Studies and evaluates large-scale health communication campaigns on opioids, tobacco, and HPV vaccination, using formative focus groups and randomized message trials in Kentucky communities.",
+   "summary_zh": "研究并评估针对阿片类药物、烟草与HPV疫苗的大型健康传播运动，在肯塔基社区中采用形成性焦点小组与随机信息试验。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "health campaigns",
+    "campaign evaluation",
+    "opioid use disorder",
+    "healing communities study",
+    "hpv vaccination",
+    "appalachia",
+    "sensation seeking",
+    "text message intervention",
+    "smoking"
+   ]
+  },
+  {
+   "name": "Hannah Jones",
+   "summary": "Studies family communication under stress, such as bereavement, infertility, and political conflict, using longitudinal dyadic surveys to test relational turbulence and communal coping.",
+   "summary_zh": "研究压力情境下的家庭沟通，如丧亲、不孕与政治冲突，采用纵向二元调查检验关系动荡理论与共同应对。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "relational turbulence theory",
+    "communal coping",
+    "parent-child dyads",
+    "bereavement",
+    "political polarization in families",
+    "infertility",
+    "longitudinal dyadic analysis",
+    "multilevel modeling"
+   ]
+  },
+  {
+   "name": "Callie Kalny",
+   "summary": "Holds a faculty post in the Department of Communication; the department profile gives no research description.",
+   "summary_zh": "任职于传播学系；系所简介未提供研究方向说明。",
+   "confidence": "low",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "communication studies",
+    "interpersonal communication",
+    "communication"
+   ]
+  },
+  {
+   "name": "Derek Lane",
+   "summary": "Studies instructional and risk communication, examining how hazard and weather warning messages shape risk perception and how students communicate in team-based and online learning.",
+   "summary_zh": "研究教学传播与风险传播，探讨灾害与天气预警信息如何影响风险感知，以及学生在团队学习和在线学习中的沟通。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "instructional communication",
+    "risk communication",
+    "weather warnings",
+    "tropical cyclone forecasts",
+    "team-based learning",
+    "technostress",
+    "risk information seeking",
+    "crisis communication"
+   ]
+  },
+  {
+   "name": "Danni Liao",
+   "summary": "Studies patient-provider communication and social support, especially international medical graduates' verbal and nonverbal strategies and migrants' coping, drawing on qualitative methods and scoping reviews.",
+   "summary_zh": "研究医患沟通与社会支持，尤其是国际医学毕业生的言语与非言语策略及移民群体的应对，运用质性方法与范围综述。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_LANGUAGE_INTERACTION",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "patient-provider communication",
+    "international medical graduates",
+    "social support",
+    "nonverbal communication",
+    "medical jargon",
+    "migrant care workers",
+    "minority stress",
+    "coping"
+   ]
+  },
+  {
+   "name": "Anthony Limperos",
+   "summary": "Studies the uses and effects of video games, exergames, and sports media, including audience responses to portrayals of athlete intimate partner violence, including experimental and content-analytic work.",
+   "summary_zh": "研究电子游戏、体感运动游戏与体育媒体的使用和效果，包括受众对运动员亲密伴侣暴力报道的反应，研究涉及实验与内容分析。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "video games",
+    "exergames",
+    "sport media",
+    "intimate partner violence portrayals",
+    "fake news replication",
+    "media effects",
+    "facebook",
+    "games for health"
+   ]
+  },
+  {
+   "name": "Chandler Marr",
+   "summary": "Studies how organizational discourses shape employees' emotions, compassion, resilience, and dirty work, using interviews and ethnography to surface organizational contradictions.",
+   "summary_zh": "研究组织话语如何塑造员工的情绪体验、同情、韧性与“肮脏工作”，借助访谈和民族志揭示组织中的矛盾与悖论。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "emotion management",
+    "compassion",
+    "resilience",
+    "dirty work",
+    "calling",
+    "organizational paradox",
+    "ethnography",
+    "sport officiating"
+   ]
+  },
+  {
+   "name": "Kelly McAninch",
+   "summary": "Studies how people manage difficult conversations, including romantic partners discussing relationship problems and families and peers talking about health, coping, and social support.",
+   "summary_zh": "研究人们如何应对困难对话，包括恋人讨论关系问题，以及家人和同伴之间关于健康、应对与社会支持的交流。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_MIXED",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "difficult conversations",
+    "romantic relationships",
+    "family health communication",
+    "social support",
+    "coping",
+    "deception",
+    "chronic illness",
+    "dark side of communication"
+   ]
+  },
+  {
+   "name": "Aurora Occa",
+   "summary": "Designs and evaluates persuasive messages and interventions for complex or stigmatized health issues such as clinical trials, cancer screening, and mental health, across media and countries.",
+   "summary_zh": "设计并评估针对复杂或污名化健康议题（如临床试验、癌症筛查与心理健康）的说服性信息与干预，涉及多种媒介与国家。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "clinical trial education",
+    "cancer screening",
+    "persuasive message design",
+    "health interventions",
+    "mental health stigma",
+    "medical research communication",
+    "focus groups",
+    "health technology"
+   ]
+  },
+  {
+   "name": "Andrew Pilny",
+   "summary": "Studies communication and interorganizational networks with social network analysis and machine learning, including AI coding of small group interaction and corporate control networks.",
+   "summary_zh": "运用社会网络分析与机器学习研究传播网络和组织间网络，包括用人工智能编码小群体互动以及企业控制网络。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_NETWORK",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "communication networks",
+    "interorganizational networks",
+    "social network analysis",
+    "small group communication",
+    "machine learning",
+    "transformers",
+    "artificial intelligence",
+    "civil society"
+   ]
+  },
+  {
+   "name": "Kevin Real",
+   "summary": "Studies communication in healthcare organizations, linking hospital built environments, care teams, and patient safety through observation, behavior mapping, and focus groups.",
+   "summary_zh": "研究医疗组织中的沟通，通过观察、行为映射与焦点小组，将医院建成环境、医护团队与患者安全联系起来。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "healthcare organizations",
+    "hospital design",
+    "healthcare built environment",
+    "patient safety",
+    "health care teams",
+    "nursing",
+    "behavior mapping",
+    "jail reentry"
+   ]
+  },
+  {
+   "name": "Jennifer Scarduzio",
+   "summary": "Studies the dark side of interpersonal, health, and organizational communication, including workplace and online sexual harassment, burnout, and intimate partner violence, through qualitative methods.",
+   "summary_zh": "研究人际、健康与组织传播的阴暗面，包括职场与网络性骚扰、职业倦怠和亲密伴侣暴力，主要采用质性方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "sexual harassment",
+    "intimate partner violence",
+    "dark side of communication",
+    "burnout",
+    "healthcare workers",
+    "online harassment",
+    "workplace wellness",
+    "narrative"
+   ]
+  },
+  {
+   "name": "Amber Lynn Scott",
+   "summary": "Studies team communication in high reliability organizations and the military, including grief and embodied trauma after organizational failure, using qualitative and content analysis.",
+   "summary_zh": "研究高可靠性组织与军队中的团队沟通，包括组织失败后的哀伤与具身创伤，采用质性研究与内容分析。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "high reliability organizations",
+    "team communication",
+    "grief",
+    "embodied trauma",
+    "military",
+    "instagram",
+    "safety culture",
+    "mindfulness"
+   ]
+  },
+  {
+   "name": "Qingru Xu",
+   "summary": "Studies athlete and influencer self-branding and social media self-presentation, comparing Chinese and US sport audiences and examining how branding cues shape trust and authenticity.",
+   "summary_zh": "研究运动员与网红的自我品牌塑造及社交媒体自我呈现，比较中美体育受众，并探讨品牌线索如何影响信任与真实性感知。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_CHINA",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "athlete branding",
+    "influencer self-branding",
+    "athlete self-presentation",
+    "sport fandom",
+    "authenticity",
+    "gymnastics",
+    "china",
+    "cross-cultural comparison"
+   ]
+  },
+  {
+   "name": "Xun Zhu",
+   "summary": "Studies intergroup prejudice, stereotypes, and identity in health and narrative messages, plus deception and neighborhood storytelling networks, using experiments, network analysis, and meta-analysis.",
+   "summary_zh": "研究健康与叙事信息中的群际偏见、刻板印象与身份认同，以及欺骗信息和社区叙事网络，采用实验、网络分析与元分析。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_LANGUAGE_INTERACTION",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "A_NETWORK",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "prejudice reduction",
+    "intergroup contact",
+    "stereotypes",
+    "health messaging",
+    "social identity",
+    "deception",
+    "communication infrastructure theory",
+    "crowdfunding"
+   ]
+  },
+  {
+   "name": "Deborah Chung",
+   "summary": "Studies online and citizen journalism and journalists' role conceptions, along with how brands' humanlike social media presence drives consumer engagement, in US and South Korean contexts.",
+   "summary_zh": "研究网络新闻与公民新闻及记者角色认知，并研究品牌在社交媒体上的拟人化呈现如何驱动消费者参与，涉及美国与韩国情境。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_EAST_ASIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "citizen journalism",
+    "online news",
+    "journalist role conception",
+    "user-generated content",
+    "brand anthropomorphism",
+    "social media engagement",
+    "csr communication",
+    "south korea"
+   ]
+  },
+  {
+   "name": "Erika Engstrom",
+   "summary": "Studies television and film through critical textual analysis of religion, gender, and sexuality, from Catholic horror and Mad Men to queer comedy.",
+   "summary_zh": "通过批判性文本分析研究电视与电影中的宗教、性别与性向议题，涵盖天主教恐怖剧、《广告狂人》与酷儿喜剧。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "television studies",
+    "religion and media",
+    "horror",
+    "gender representation",
+    "queer media",
+    "hegemonic femininity",
+    "popular culture",
+    "mad men"
+   ]
+  },
+  {
+   "name": "Carey Higgins-Dobney",
+   "summary": "Studies labor, technology, ownership, and burnout in US local television newsrooms, including unionization and the working conditions of digital journalists.",
+   "summary_zh": "研究美国地方电视新闻编辑室中的劳动、技术、所有权与职业倦怠，包括工会化及数字记者的工作条件。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "local television news",
+    "newsroom labor",
+    "burnout",
+    "unions",
+    "media ownership",
+    "digital journalists",
+    "creativity",
+    "corporate technology"
+   ]
+  },
+  {
+   "name": "Kyra Hunting",
+   "summary": "Studies television, children's media, and fandom, analyzing gender representation and industrial intertextuality in franchises such as Disney, Barbie, and My Little Pony.",
+   "summary_zh": "研究电视、儿童媒介与粉丝文化，分析迪士尼、芭比、小马宝莉等媒介系列中的性别再现与产业互文性。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "television studies",
+    "fandom",
+    "children's media",
+    "gender representation",
+    "disney",
+    "media franchises",
+    "intertextuality",
+    "animated films"
+   ]
+  },
+  {
+   "name": "Yung Soo Kim",
+   "summary": "Studies photojournalism and visual journalism, examining ethical dilemmas, professional versus citizen roles, and framing through content analysis of news images and television.",
+   "summary_zh": "研究新闻摄影与视觉新闻，通过对新闻图片和电视的内容分析考察伦理困境、职业与公民记者角色以及框架。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "photojournalism",
+    "visual journalism",
+    "framing",
+    "media ethics",
+    "front pages",
+    "citizen journalism",
+    "quality television",
+    "religion and media"
+   ]
+  },
+  {
+   "name": "Kathryn Montalbano",
+   "summary": "Studies how US communication law and policy have shaped speech, press, assembly, and religious expression since the nineteenth century, using historical research on media law and surveillance.",
+   "summary_zh": "研究十九世纪以来美国传播法律与政策如何塑造言论、新闻、集会与宗教表达，以历史方法研究媒介法与监控。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "media law",
+    "first amendment",
+    "religious expression",
+    "surveillance studies",
+    "content moderation",
+    "media history",
+    "quakers",
+    "sports law"
+   ]
+  },
+  {
+   "name": "Beecher Reuning",
+   "summary": "Holds a faculty post in the School of Journalism and Media; the department profile gives no research description.",
+   "summary_zh": "任职于新闻与媒体学院；系所简介未提供研究方向说明。",
+   "confidence": "low",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "journalism",
+    "media production",
+    "media arts"
+   ]
+  },
+  {
+   "name": "Jennifer Smith",
+   "summary": "Studies media law and public records, analyzing tensions between open records laws, privacy, and college athletes' name, image, and likeness agreements.",
+   "summary_zh": "研究媒介法与公共记录，分析公开记录法、隐私权与大学运动员姓名、形象和肖像权协议之间的张力。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "media law",
+    "open records laws",
+    "public records",
+    "right to privacy",
+    "name image and likeness",
+    "college sports",
+    "government transparency"
+   ]
+  },
+  {
+   "name": "David Stephenson",
+   "summary": "Holds a faculty post in the School of Journalism and Media; the department profile gives no research description.",
+   "summary_zh": "任职于新闻与媒体学院；系所简介未提供研究方向说明。",
+   "confidence": "low",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "journalism",
+    "media",
+    "news"
+   ]
+  },
+  {
+   "name": "Zixue Tai",
+   "summary": "Studies digital media use and mental health among Chinese students, including problematic smartphone use, gaming, and pandemic coping, mainly through surveys and mixed methods.",
+   "summary_zh": "研究中国学生的数字媒介使用与心理健康，包括问题性智能手机使用、游戏和疫情期间的应对，主要采用调查与混合方法。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": true,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "A_MIXED",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_CHINA",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "problematic smartphone use",
+    "college students",
+    "mental health",
+    "covid-19 lockdowns",
+    "video games",
+    "blogs",
+    "news deserts",
+    "china"
+   ]
+  },
+  {
+   "name": "Kakie Urch",
+   "summary": "Studies cultural studies, modernism, typography, and rhetorical delivery, using critical and textual analysis of popular and literary texts such as self-help books.",
+   "summary_zh": "研究文化研究、现代主义、字体排印与修辞表达，以批判与文本分析方法解读自助书等通俗及文学文本。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_RHETORIC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "cultural studies",
+    "modernism",
+    "typography",
+    "self-help books",
+    "rhetorical delivery",
+    "flaneuserie",
+    "critical theory"
+   ]
+  },
+  {
+   "name": "Alyvia Walters",
+   "summary": "Holds a faculty post in the School of Journalism and Media; the department profile gives no research description.",
+   "summary_zh": "任职于新闻与媒体学院；系所简介未提供研究方向说明。",
+   "confidence": "low",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "journalism",
+    "media",
+    "news"
+   ]
+  },
+  {
+   "name": "Alyssa Eckman",
+   "summary": "Studies the boundary between journalism and advertising, using ethnographic case studies of organizational conflict over advertorials in news organizations.",
+   "summary_zh": "研究新闻与广告之间的边界，以民族志个案研究考察新闻机构中围绕“软文广告”产生的组织冲突。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "advertorials",
+    "news-advertising boundary",
+    "organizational conflict",
+    "ethnographic case study",
+    "journalists",
+    "newsrooms"
+   ]
+  },
+  {
+   "name": "Sarah Geegan",
+   "summary": "Holds a faculty post in integrated strategic communication; the department profile gives no research description.",
+   "summary_zh": "任职于整合战略传播系；系所简介未提供研究方向说明。",
+   "confidence": "low",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "strategic communication",
+    "public relations",
+    "advertising"
+   ]
+  },
+  {
+   "name": "Adriane Grumbein",
+   "summary": "Studies advertising creativity, visual communication, and advertising careers and diversity, including content analysis of graphic and design elements.",
+   "summary_zh": "研究广告创意、视觉传播以及广告职业发展与多元化，包括对图形与设计元素的内容分析。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "advertising",
+    "creativity",
+    "visual communication",
+    "graphic design",
+    "advertising careers",
+    "diversity in advertising",
+    "millennials",
+    "advertising education"
+   ]
+  },
+  {
+   "name": "Erin Hester",
+   "summary": "Studies public interest communication and social marketing, designing campaigns on health and risk issues such as lung cancer screening and opioid abatement with community partners and focus groups.",
+   "summary_zh": "研究公共利益传播与社会营销，与社区伙伴合作并借助焦点小组，为肺癌筛查、阿片类药物治理等健康与风险议题设计传播活动。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "public interest communication",
+    "social marketing",
+    "lung cancer screening",
+    "opioid abatement",
+    "community engagement",
+    "inoculation theory",
+    "focus groups",
+    "persuasive writing"
+   ]
+  },
+  {
+   "name": "Hyun Ju Jeong",
+   "summary": "Studies corporate social responsibility, cause-related marketing, and green advertising, testing through experiments how messages drive consumers' and Gen Z's pro-environmental behavior.",
+   "summary_zh": "研究企业社会责任、善因营销与绿色广告，通过实验检验信息如何推动消费者及Z世代的亲环境行为。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "corporate social responsibility",
+    "cause-related marketing",
+    "green advertising",
+    "pro-environmental behavior",
+    "gen z",
+    "crisis communication",
+    "influencers",
+    "cigarette advertising"
+   ]
+  },
+  {
+   "name": "Mengtian “Montina” Jiang",
+   "summary": "Studies how consumers process branded content in digital spaces, including influencer marketing, native advertising, live-streaming commerce, and AI influencers, using mixed methods.",
+   "summary_zh": "研究消费者如何处理数字空间中的品牌内容，包括网红营销、原生广告、直播电商与AI网红，采用混合方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_MIXED",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "influencer marketing",
+    "native advertising",
+    "persuasion knowledge",
+    "branded content",
+    "live-streaming commerce",
+    "celebrity transgression",
+    "brand activism",
+    "ai influencers"
+   ]
+  },
+  {
+   "name": "Hanyoung Kim",
+   "summary": "Holds a faculty post in integrated strategic communication; the department profile gives no research description.",
+   "summary_zh": "任职于整合战略传播系；系所简介未提供研究方向说明。",
+   "confidence": "low",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "strategic communication",
+    "advertising",
+    "public relations"
+   ]
+  },
+  {
+   "name": "Jihye Kim",
+   "summary": "Studies cause-related marketing, CSR, and digital consumer engagement, including virtual influencers, ChatGPT adoption, and Korean media-driven tourism.",
+   "summary_zh": "研究善因营销、企业社会责任与数字消费者参与，包括虚拟网红、ChatGPT采纳及韩国媒介驱动的旅游。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "cause-related marketing",
+    "corporate social responsibility",
+    "virtual influencers",
+    "chatgpt adoption",
+    "consumer engagement",
+    "place attachment",
+    "korean food tourism",
+    "cross-cultural advertising"
+   ]
+  },
+  {
+   "name": "Leigh Moscowitz",
+   "summary": "Studies media framing of LGBTQ+ issues, especially gay and trans athletes, and lifestyle advertorials, using framing and discourse analysis of US news and digital media.",
+   "summary_zh": "研究媒体对LGBTQ+议题（尤其是同性恋和跨性别运动员）及生活方式软文的框架呈现，对美国新闻与数字媒体开展框架与话语分析。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "lgbtq media",
+    "trans athletes",
+    "media framing",
+    "gay athlete autobiographies",
+    "discourse analysis",
+    "advertorials",
+    "yoga",
+    "exemplification"
+   ]
+  },
+  {
+   "name": "Kimberly Parker",
+   "summary": "Studies health and social marketing campaigns and inoculation messaging, testing message length and modality in experiments on vaccine uptake and college students' mental health.",
+   "summary_zh": "研究健康与社会营销运动及免疫（预防接种）信息，通过实验检验信息长度与模态对疫苗接种和大学生心理健康的影响。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "inoculation theory",
+    "social marketing",
+    "hpv vaccination",
+    "vaccine uptake",
+    "college student mental health",
+    "image-based sexual harassment",
+    "narrative",
+    "focus groups"
+   ]
+  },
+  {
+   "name": "Elizabeth Spencer",
+   "summary": "Studies visual communication, digital media, and health contexts, especially media messages about people living with dementia and their caregivers, plus medical tourism websites.",
+   "summary_zh": "研究视觉传播、数字媒体与健康情境，尤其是关于失智症患者及其照护者的媒介信息，以及医疗旅游网站。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_LATIN_AMERICA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "dementia",
+    "caregivers",
+    "visual communication",
+    "photography",
+    "medical tourism",
+    "web accessibility",
+    "rural press",
+    "health communication"
+   ]
+  },
+  {
+   "name": "Weilu Zhang",
+   "summary": "Studies AI and human influencers, chatbots, and brand engagement on social media, using deep learning text analysis of platform data.",
+   "summary_zh": "研究AI与真人网红、聊天机器人以及社交媒体上的品牌互动，采用基于深度学习的平台文本分析。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "ai influencers",
+    "influencer marketing",
+    "mental health chatbots",
+    "dei initiatives",
+    "consumer engagement",
+    "deep learning",
+    "twitter",
+    "athlete branding"
+   ]
+  }
+ ]
+}

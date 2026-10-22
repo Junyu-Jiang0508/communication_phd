@@ -1,0 +1,1651 @@
+{
+  "slug": "kent-state-university",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Paul Haridakis",
+      "summary": "Studies media uses and effects, free speech law and media regulation, sports communication, and the role of YouTube and social media in political campaigns.",
+      "summary_zh": "研究媒介使用与效果、言论自由法律与媒体规制、体育传播，以及YouTube等社交媒体在政治竞选中的作用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "media uses and effects",
+        "freedom of speech",
+        "first amendment",
+        "media regulation",
+        "youtube",
+        "political campaigns",
+        "sports communication",
+        "user-generated content"
+      ]
+    },
+    {
+      "name": "Laurie Bentley",
+      "summary": "Studies interpersonal and rhetorical communication, including gender portrayals in Caldecott Medal-winning children's books.",
+      "summary_zh": "研究人际传播与修辞传播，包括凯迪克奖获奖童书中的性别呈现。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "interpersonal communication",
+        "rhetorical communication",
+        "gender portrayals",
+        "children's books",
+        "caldecott medal",
+        "small group communication"
+      ]
+    },
+    {
+      "name": "Ginger Bihn-Coss",
+      "summary": "Studies health communication across settings, focusing on how disenfranchisement, power and resistance shape health decision-making.",
+      "summary_zh": "研究不同情境下的健康传播，关注剥夺、权力与抵抗如何影响健康决策。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "health communication",
+        "health decision-making",
+        "disenfranchisement",
+        "power and resistance",
+        "empowerment"
+      ]
+    },
+    {
+      "name": "Bei Cai",
+      "summary": "Studies intercultural and gender communication and Chinese political communication, including state legitimacy discourse, environmental rhetoric and U.S. media portrayals of other nations.",
+      "summary_zh": "研究跨文化与性别传播及中国政治传播，包括国家合法性话语、环境修辞以及美国媒体对他国的呈现。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_CHINA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "intercultural communication",
+        "gender studies",
+        "chinese political communication",
+        "political legitimacy",
+        "environmental rhetoric",
+        "official discourse",
+        "east-west comparison",
+        "instructional pedagogy"
+      ]
+    },
+    {
+      "name": "Patrick Dillon",
+      "summary": "Uses qualitative interviews and participant observation to study health inequality among marginalized populations, focusing on end-of-life care, HIV/AIDS and substance abuse.",
+      "summary_zh": "运用质性访谈与参与式观察研究边缘群体的健康不平等，聚焦临终关怀、艾滋病与药物滥用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health inequality",
+        "end-of-life",
+        "hiv/aids",
+        "substance abuse",
+        "methamphetamine recovery",
+        "marginalized populations",
+        "qualitative interviews",
+        "participant observation"
+      ]
+    },
+    {
+      "name": "Nichole L. Egbert",
+      "summary": "Studies social support, health literacy and religiosity in health contexts, including family communication and parents' COVID-19 vaccination intentions.",
+      "summary_zh": "研究健康情境中的社会支持、健康素养与宗教性，包括家庭沟通模式与父母的新冠疫苗接种意愿。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "social support",
+        "health literacy",
+        "spirituality and religiosity",
+        "covid-19 vaccination",
+        "family communication patterns",
+        "birthing doulas",
+        "social cognitive theory",
+        "facebook"
+      ]
+    },
+    {
+      "name": "Erin Hollenbaugh",
+      "summary": "Studies the intersection of interpersonal and mediated communication, especially how people use media for interpersonal purposes.",
+      "summary_zh": "研究人际传播与媒介化传播的交叉，尤其是人们如何为人际目的使用媒体。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "interpersonal communication",
+        "mediated communication",
+        "media use for interpersonal purposes",
+        "relational communication",
+        "nonverbal communication"
+      ]
+    },
+    {
+      "name": "Yesim Kaptan",
+      "summary": "Uses media ethnography to study Middle Eastern and Turkish media, global media industries and how mediated identities negotiate nationalism and globalization.",
+      "summary_zh": "运用媒介民族志研究中东与土耳其媒体、全球媒体产业，以及媒介化身份如何协商民族主义与全球化。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_MIDDLE_EAST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "global media studies",
+        "media ethnography",
+        "turkish media",
+        "middle eastern media",
+        "mediated identities",
+        "nationalism",
+        "globalization",
+        "hybrid identities"
+      ]
+    },
+    {
+      "name": "Mei-Chen Lin",
+      "summary": "Studies older adults' identity, intergenerational and intergroup communication, elder abuse in family caregiving, and political identity and partisan media use.",
+      "summary_zh": "研究老年人身份认同、代际与群际传播、家庭照护中的老年虐待，以及政治身份与党派媒体使用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "older adults",
+        "intergenerational communication",
+        "elder abuse",
+        "intergroup communication",
+        "family caregiving",
+        "political identity",
+        "partisan media",
+        "intergroup contact"
+      ]
+    },
+    {
+      "name": "Jennifer L. McCullough",
+      "summary": "Studies how parent-child communication and parental mediation strategies can reduce advertising's effects on children's materialism, and consumer communication among college students.",
+      "summary_zh": "研究亲子沟通与父母介入策略如何减轻广告对儿童物质主义的影响，以及大学生家庭中的消费传播。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "parental mediation",
+        "advertising to children",
+        "consumer socialization",
+        "political socialization",
+        "materialism",
+        "financial literacy",
+        "parent-child communication",
+        "college students"
+      ]
+    },
+    {
+      "name": "J D Ponder",
+      "summary": "Studies how media use for political information shapes partisanship and political discussion with in-group and out-group members, and consumer communication among college students.",
+      "summary_zh": "研究获取政治信息的媒体使用如何影响党派倾向及与内外群体的政治讨论，以及大学生的消费传播。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "partisanship",
+        "political discussion",
+        "media use for political information",
+        "in-group and out-group",
+        "materialism",
+        "financial literacy",
+        "credit card misuse",
+        "college students"
+      ]
+    },
+    {
+      "name": "Rekha Sharma",
+      "summary": "Studies mass and political communication across news, film, infotainment, fandom, political social media use and conspiracy-theory-oriented media.",
+      "summary_zh": "研究新闻、电影、资讯娱乐、粉丝文化、政治性社交媒体使用及阴谋论媒体中的大众与政治传播。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "fandom",
+        "infotainment",
+        "conspiracy theories",
+        "political social media use",
+        "film",
+        "viral marketing",
+        "news",
+        "popular culture"
+      ]
+    },
+    {
+      "name": "Ikram Toumi",
+      "summary": "Studies ICT adoption, the digital divide and social change, including post-revolution Tunisia and transnational Tunisian family communication, plus media literacy and acculturation.",
+      "summary_zh": "研究信息通信技术采纳、数字鸿沟与社会变迁，包括革命后的突尼斯与跨国突尼斯家庭沟通，以及媒介素养与文化适应。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_MIDDLE_EAST",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "digital divide",
+        "ict adoption",
+        "tunisia",
+        "social change",
+        "social movements",
+        "media literacy",
+        "immigration and acculturation",
+        "transnational family communication"
+      ]
+    },
+    {
+      "name": "Tewodros Workneh",
+      "summary": "Uses critical political economy and postcolonial approaches to study global media flows, media policy and state-media relations in Ethiopia and its diaspora.",
+      "summary_zh": "运用批判政治经济学与后殖民视角研究全球媒体流动、媒体政策，以及埃塞俄比亚及其海外侨民中的国家—媒体关系。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_AFRICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "ethiopia",
+        "ethiopian diaspora",
+        "critical political economy",
+        "postcolonial",
+        "media policy and regulation",
+        "state-media relations",
+        "global media flows",
+        "reality television"
+      ]
+    },
+    {
+      "name": "Michael Beam",
+      "summary": "Studies algorithmic news recommender systems, partisan news and political polarization, political information processing, health communication and user experience design.",
+      "summary_zh": "研究算法新闻推荐系统、党派新闻与政治极化、政治信息处理、健康传播以及用户体验设计。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "news recommender systems",
+        "algorithmic personalization",
+        "partisan news",
+        "political polarization",
+        "political information processing",
+        "user experience design",
+        "health communication",
+        "news exposure"
+      ]
+    },
+    {
+      "name": "Luke Armour",
+      "summary": "Teaches public relations, digital PR and social media strategy and coordinates a student PR agency; no specific research agenda is described.",
+      "summary_zh": "讲授公共关系、数字公关与社交媒体策略并负责学生公关机构；未描述具体研究方向。",
+      "confidence": "low",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "public relations",
+        "digital pr",
+        "social media strategy",
+        "student pr agency",
+        "pr tactics"
+      ]
+    },
+    {
+      "name": "Peter Bobkowski",
+      "summary": "Studies journalism education, scholastic journalism, young people's media practices and information literacy.",
+      "summary_zh": "研究新闻教育、中学校园新闻、青少年媒介实践与信息素养。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "journalism education",
+        "scholastic journalism",
+        "high school student media",
+        "young people's media practices",
+        "information literacy"
+      ]
+    },
+    {
+      "name": "Karisa Butler-Wall",
+      "summary": "Studies gender, sexuality and disability in film, television and digital media from a critical media studies perspective, focusing on health and embodiment.",
+      "summary_zh": "从批判媒介研究视角研究电影、电视与数字媒体中的性别、性与残障，关注健康与身体。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "disability",
+        "gender and sexuality",
+        "film and television",
+        "embodiment",
+        "critical media studies",
+        "popular culture",
+        "digital media"
+      ]
+    },
+    {
+      "name": "Tara L. Conley",
+      "summary": "Studies race, gender and technology across feminist, Black and digital humanities scholarship, including archiving Twitter hashtag feminism, alongside documentary filmmaking.",
+      "summary_zh": "跨女性主义、黑人研究与数字人文研究种族、性别与技术，包括存档推特标签女性主义，并从事纪录片创作。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "hashtag feminism",
+        "black studies",
+        "feminist media studies",
+        "digital humanities",
+        "science and technology studies",
+        "race and technology",
+        "twitter hashtags",
+        "documentary filmmaking"
+      ]
+    },
+    {
+      "name": "Kathryn Cooper",
+      "summary": "Studies how scientists and journalists can communicate contentious science and environmental issues, using documentaries and narratives to counter biased judgment and engage citizens.",
+      "summary_zh": "研究科学家与记者如何传播具有争议的科学与环境议题，借助纪录片和叙事克服偏见判断并促进公民参与。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "science communication",
+        "environmental communication",
+        "documentaries",
+        "narrative persuasion",
+        "biased judgment",
+        "public opinion",
+        "citizen engagement"
+      ]
+    },
+    {
+      "name": "Michele Ewing",
+      "summary": "Focuses on public relations education and digital public relations, integrating web and social media strategy into PR curricula.",
+      "summary_zh": "关注公共关系教育与数字公关，将网络与社交媒体策略融入公关课程。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public relations education",
+        "digital public relations",
+        "pr campaigns",
+        "social media strategy",
+        "prssa"
+      ]
+    },
+    {
+      "name": "David A. Foster",
+      "summary": "Works in multimedia journalism, photojournalism and documentary studies.",
+      "summary_zh": "从事多媒体新闻、新闻摄影与纪实研究。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "photojournalism",
+        "multimedia journalism",
+        "documentary studies",
+        "journalism education"
+      ]
+    },
+    {
+      "name": "Scott Hallgren",
+      "summary": "Works in sound design, screen composition and film and television production as a creative practitioner.",
+      "summary_zh": "以创作实践者身份从事声音设计、影视配乐创作及影视制作。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "sound design",
+        "film scoring",
+        "composing for the screen",
+        "film and television production",
+        "audio post-production"
+      ]
+    },
+    {
+      "name": "Gretchen Hoak",
+      "summary": "Studies the psychological and emotional effects on journalists of covering traumatic news, including post-traumatic stress, compassion fatigue and emotional labor.",
+      "summary_zh": "研究报道创伤性新闻对记者的心理与情绪影响，包括创伤后应激、同情疲劳与情绪劳动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "journalist trauma",
+        "post-traumatic stress",
+        "compassion fatigue",
+        "emotional labor",
+        "broadcast journalism",
+        "traumatic news coverage"
+      ]
+    },
+    {
+      "name": "Cheryl Ann Lambert",
+      "summary": "Studies how public relations is portrayed in media, popular culture and publicity campaigns, and researches health messaging.",
+      "summary_zh": "研究公共关系在媒体、流行文化与宣传活动中的呈现，并研究健康信息传播。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "public relations portrayals",
+        "popular culture",
+        "health messaging",
+        "publicity campaigns",
+        "media depictions of pr"
+      ]
+    },
+    {
+      "name": "Andrea Lorenz",
+      "summary": "Studies journalism and press-politics issues, conducting engaged research with organizations on sustainability, innovation and representation in media.",
+      "summary_zh": "研究新闻与媒体—政治议题，并与多方组织合作开展关于媒体可持续性、创新与再现的参与式研究。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "journalism",
+        "press and politics",
+        "media sustainability",
+        "media innovation",
+        "representation in media",
+        "engaged research"
+      ]
+    },
+    {
+      "name": "Jacqueline A. Marino",
+      "summary": "Studies literary journalism and the digital evolution of magazines, including audience reception of digital long-form journalism.",
+      "summary_zh": "研究文学新闻与杂志的数字化演变，包括受众对数字长篇新闻的接受。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "literary journalism",
+        "magazines",
+        "digital long-form journalism",
+        "audience reception",
+        "nonfiction writing"
+      ]
+    },
+    {
+      "name": "Mitch McKenney",
+      "summary": "Studies how newsroom managers handle online challenges, legacy newsroom transformation, startup news sites, reader comments and unpublishing requests.",
+      "summary_zh": "研究新闻编辑室管理者如何应对网络挑战、传统新闻编辑室转型、新闻创业网站、读者评论与撤稿请求。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "newsroom management",
+        "legacy newsroom transformation",
+        "startup news sites",
+        "reader comments",
+        "unpublishing",
+        "public records access",
+        "environmental media"
+      ]
+    },
+    {
+      "name": "Stefanie Moore",
+      "summary": "Focuses on digital public relations, digital analytics, social media strategy and crisis communication.",
+      "summary_zh": "关注数字公关、数字分析、社交媒体策略与危机传播。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "digital public relations",
+        "digital analytics",
+        "social media strategy",
+        "crisis communication",
+        "search engine optimization"
+      ]
+    },
+    {
+      "name": "Becky Rolnick",
+      "summary": "Works in documentary filmmaking and film and television production as an independent filmmaker.",
+      "summary_zh": "以独立电影人身份从事纪录片创作及影视制作。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "documentary filmmaking",
+        "film production",
+        "television production",
+        "nonprofit films",
+        "film editing"
+      ]
+    },
+    {
+      "name": "Tang Tang",
+      "summary": "Studies uses and effects of emerging media such as social media, virtual reality and esports, cross-platform media behavior during mega sporting events, and media management.",
+      "summary_zh": "研究社交媒体、虚拟现实与电子竞技等新兴媒体的使用与效果、大型体育赛事期间的跨平台媒介行为以及媒体管理。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "sports communication",
+        "mega sporting events",
+        "esports",
+        "virtual reality",
+        "cross-platform media behaviors",
+        "media management",
+        "social media",
+        "information curation"
+      ]
+    },
+    {
+      "name": "Dana White",
+      "summary": "Works in filmmaking, screenwriting, directing and producing as a creative practitioner.",
+      "summary_zh": "以创作实践者身份从事电影制作、编剧、导演与制片。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "filmmaking",
+        "screenwriting",
+        "directing",
+        "independent film",
+        "female filmmakers"
+      ]
+    }
+  ]
+}

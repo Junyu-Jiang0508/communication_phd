@@ -59,14 +59,6 @@
               "department_profile",
               "personal_site"
             ]
-          },
-          {
-            "code": "A_COMPUTATIONAL",
-            "primary": false,
-            "sources": [
-              "department_profile",
-              "personal_site"
-            ]
           }
         ],
         "data": [
@@ -613,8 +605,8 @@
     },
     {
       "name": "HyunYi Cho",
-      "summary": "Studies intersections between media, health, and identities, with attention to how media messages shape health-related outcomes.",
-      "summary_zh": "研究媒介、健康与身份认同之间的交叉关系，关注媒介信息如何影响与健康相关的结果。",
+      "summary": "Studies intersections between media, health, and identities.",
+      "summary_zh": "研究媒介、健康与身份认同之间的交叉关系。",
       "confidence": "medium",
       "labels": {
         "topic": [
@@ -1009,8 +1001,8 @@
     },
     {
       "name": "Sara Grady",
-      "summary": "Studies why people engage with narrative entertainment, how media serves as a coping tool, and how media use and relationships shape each other, mainly through experiments.",
-      "summary_zh": "主要通过实验研究人们为何投入叙事娱乐、媒介如何成为应对压力的工具，以及媒介使用与人际关系和身份认同之间的相互影响。",
+      "summary": "Studies why people engage with narrative entertainment, how media serves as a coping tool, and how media use and relationships shape each other, including through experiments.",
+      "summary_zh": "研究人们为何投入叙事娱乐、媒介如何成为应对压力的工具，以及媒介使用与人际关系和身份认同之间的相互影响，研究方法包括实验。",
       "confidence": "high",
       "labels": {
         "topic": [
@@ -2213,7 +2205,6 @@
             "code": "T_MEDIA_EFFECTS_PSYCH",
             "primary": true,
             "sources": [
-              "department_profile",
               "personal_site"
             ]
           },
@@ -2221,7 +2212,6 @@
             "code": "T_HEALTH",
             "primary": false,
             "sources": [
-              "department_profile",
               "personal_site"
             ]
           },
@@ -2238,7 +2228,6 @@
             "code": "A_PHYSIO_NEURO",
             "primary": true,
             "sources": [
-              "department_profile",
               "personal_site"
             ]
           },
@@ -2246,7 +2235,6 @@
             "code": "A_COMPUTATIONAL",
             "primary": true,
             "sources": [
-              "department_profile",
               "personal_site"
             ]
           },
@@ -2261,7 +2249,6 @@
             "code": "A_DESIGN_BUILD",
             "primary": false,
             "sources": [
-              "department_profile",
               "personal_site"
             ]
           }
@@ -2271,7 +2258,6 @@
             "code": "D_PHYSIO_LOG",
             "primary": false,
             "sources": [
-              "department_profile",
               "personal_site"
             ]
           }

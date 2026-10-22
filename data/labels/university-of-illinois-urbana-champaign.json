@@ -1,3645 +1,3607 @@
 {
- "slug": "university-of-illinois-urbana-champaign",
- "labeled_at": "2026-10-21",
- "faculty": [
-  {
-   "name": "Scott Althaus",
-   "summary": "Studies public opinion, popular support for war, and news coverage using extreme-scale data science methods and cross-national comparative research.",
-   "summary_zh": "运用超大规模新闻数据科学方法与跨国比较研究，考察舆论、民众对战争的支持以及新闻报道。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_POLITICAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_JOURNALISM",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HISTORY_THEORY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_COMPUTATIONAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_CONTENT_ANALYSIS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_SURVEY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_ELECTIONS_GOVERNMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_GLOBAL_CROSS_NATIONAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "public opinion",
-    "popular support for war",
-    "news coverage",
-    "political psychology",
-    "civil unrest",
-    "democratic theory",
-    "extreme-scale data analysis",
-    "cross-national comparison"
-   ]
-  },
-  {
-   "name": "Joshua Barbour",
-   "summary": "Studies how organizational actors design communication to navigate laws, regulations, and norms, focusing on automation and the future of data-intensive work.",
-   "summary_zh": "研究组织行动者如何设计传播以应对法律、规章与规范等制度结构，关注自动化与数据密集型工作的未来。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_ORGANIZATIONAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_INDUSTRIES_POLICY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_THEORY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_ORGANIZATIONS_WORKPLACES",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "organizational communication",
-    "automation",
-    "future of work",
-    "communication design",
-    "institutional theory",
-    "regulation",
-    "macromorphic organizing",
-    "data-intensive work"
-   ]
-  },
-  {
-   "name": "William C. Barley",
-   "summary": "Studies how interdisciplinary science teams collaborate across knowledge boundaries and use technologies, drawing primarily on field studies inside organizations.",
-   "summary_zh": "主要基于组织内的田野研究，考察跨学科科研团队如何跨越知识边界开展协作并设计和使用技术。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_ORGANIZATIONAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_SCIENCE_ENV",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HCI_CMC",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_QUALITATIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_INTERVIEWS_FIELD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_ORGANIZATIONS_WORKPLACES",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "team science",
-    "interdisciplinary collaboration",
-    "knowledge boundaries",
-    "technology design and use",
-    "data representation",
-    "coordination",
-    "fieldwork",
-    "science and technology studies"
-   ]
-  },
-  {
-   "name": "Cabral Bigman-Galimore",
-   "summary": "Studies communication about health, risk, and inequality, examining how messages about comparative risk and disparities shape health behavior and public support.",
-   "summary_zh": "研究关于健康、风险与不平等的传播，考察有关比较风险与健康差距的信息如何影响健康行为与公众支持。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HEALTH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_HEALTH_SYSTEMS",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "health equity",
-    "health disparities",
-    "risk communication",
-    "comparative risk messages",
-    "inequality",
-    "racial discourse",
-    "covid-19 vaccination",
-    "organ donation"
-   ]
-  },
-  {
-   "name": "Elisabeth Bigsby",
-   "summary": "Studies why persuasive health and environmental messages such as anti-smoking campaigns succeed or fail, testing how message features shape perception and processing.",
-   "summary_zh": "研究反吸烟等健康与环境说服信息为何成功或失败，检验信息特征如何影响人们的感知与信息加工。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HEALTH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_SCIENCE_ENV",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "persuasive messages",
-    "message effects",
-    "message features",
-    "anti-smoking campaigns",
-    "health campaigns",
-    "reactance",
-    "information seeking",
-    "message design"
-   ]
-  },
-  {
-   "name": "John P. Caughlin",
-   "summary": "Studies how interpersonal communication, including what people avoid saying and how they mix mediated channels, shapes relational and personal well-being and health.",
-   "summary_zh": "研究人际传播（包括回避谈论的内容以及多种中介渠道的组合使用）如何影响关系与个人福祉及健康。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_INTERPERSONAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HCI_CMC",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_THEORY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_FAMILIES_RELATIONSHIPS",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "interpersonal communication",
-    "relational well-being",
-    "conflict",
-    "topic avoidance",
-    "communication interdependence",
-    "mediated communication",
-    "health and relationships",
-    "texting"
-   ]
-  },
-  {
-   "name": "Josue David Cisneros",
-   "summary": "Analyzes public rhetoric about race, immigration, borders, and citizenship and rhetorics of resistance in Latina/o social movements using rhetorical criticism.",
-   "summary_zh": "运用修辞批评分析关于种族、移民、边界与公民身份的公共修辞，以及拉丁裔社会运动中的抵抗修辞。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_RHETORIC",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_GLOBAL_INTERCULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_POLITICAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_ARCHIVES_TEXTS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_SOCIAL_MOVEMENTS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "rhetoric",
-    "immigration",
-    "borders",
-    "citizenship",
-    "latina/o identity",
-    "race and ethnicity",
-    "social movements",
-    "critical intercultural communication"
-   ]
-  },
-  {
-   "name": "Stewart Coles",
-   "summary": "Studies how media and entertainment depictions of social issues and marginalized groups evoke stereotypes, activate identity, and shape public opinion and political behavior.",
-   "summary_zh": "研究媒介与娱乐内容对社会议题和边缘群体的呈现如何引发刻板印象、激活身份认同并影响舆论与政治行为。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_POLITICAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "entertainment media and politics",
-    "stereotypes",
-    "prejudice",
-    "social identity",
-    "public opinion",
-    "intergroup conflict",
-    "media psychology",
-    "political behavior"
-   ]
-  },
-  {
-   "name": "Travis L Dixon",
-   "summary": "Studies the prevalence of racial stereotypes in television news, social media, and music and their effects on audiences, combining content analysis with effects research.",
-   "summary_zh": "结合内容分析与效果研究，考察电视新闻、社交媒体与音乐中种族刻板印象的普遍程度及其对受众的影响。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_JOURNALISM",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_CONTENT_ANALYSIS",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "racial stereotyping",
-    "television news",
-    "counter-stereotypes",
-    "media effects",
-    "content analysis",
-    "african americans",
-    "social media",
-    "music"
-   ]
-  },
-  {
-   "name": "Cara A. Finnegan",
-   "summary": "Writes rhetorical histories of photography, examining how photographs were produced, circulated, and received in U.S. public life, including presidential images.",
-   "summary_zh": "撰写摄影的修辞史，考察照片在美国公共生活中（包括总统形象）如何被生产、流通与接受。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_RHETORIC",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HISTORY_THEORY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_POLITICAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_HISTORICAL_ARCHIVAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_ARCHIVES_TEXTS",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "visual rhetoric",
-    "photography",
-    "history of photography",
-    "public address",
-    "presidential image",
-    "visual politics",
-    "circulation",
-    "daguerreotype"
-   ]
-  },
-  {
-   "name": "Lisa Guntzviller",
-   "summary": "Studies identity dilemmas in family and health interactions, such as language brokering and advice in Spanish-speaking families, using dyadic data and a multiple goals framework.",
-   "summary_zh": "运用二元数据与多重目标框架，研究家庭与健康互动中的身份困境，如西语家庭中的语言代理与建议提供。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_INTERPERSONAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_GLOBAL_INTERCULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_THEORY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_FAMILIES_RELATIONSHIPS",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_HEALTH_SYSTEMS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "language brokering",
-    "advice",
-    "identity dilemmas",
-    "parent-child communication",
-    "spanish-speaking families",
-    "patient-provider communication",
-    "health literacy",
-    "multiple goals"
-   ]
-  },
-  {
-   "name": "Alisa Hardy",
-   "summary": "Studies how Black women use digital technologies for resistance and public memory, combining critical-cultural rhetoric, Black feminism, and methods for scraping Black Twitter.",
-   "summary_zh": "结合批判文化修辞、黑人女性主义与抓取“黑人推特”的方法，研究黑人女性如何借助数字技术进行抵抗与公共记忆。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_RHETORIC",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_COMPUTATIONAL",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_SOCIAL_MOVEMENTS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "black feminism",
-    "black women",
-    "public memory",
-    "digital resistance",
-    "black twitter",
-    "critical-cultural rhetoric",
-    "digital culture",
-    "web scraping"
-   ]
-  },
-  {
-   "name": "Minkyung Kim",
-   "summary": "Studies how organizations serving vulnerable populations use inter-organizational networks and symbolic and material artifacts to build community resilience and sustainability.",
-   "summary_zh": "研究服务弱势群体的组织如何借助组织间网络及象征性与物质性人工物来增强社区韧性与可持续性。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_ORGANIZATIONAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_NETWORK",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_ORGANIZATIONS_WORKPLACES",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "organizational communication",
-    "community resilience",
-    "sustainability",
-    "interorganizational networks",
-    "nonprofits",
-    "vulnerable populations",
-    "organizational artifacts"
-   ]
-  },
-  {
-   "name": "Leanne Knobloch",
-   "summary": "Studies how communication shapes and reflects close relationships during transitions, such as military families after deployment and couples facing depression.",
-   "summary_zh": "研究在关系转变期沟通如何塑造并反映亲密关系，如部署归来后的军人家庭以及面对抑郁诊断的伴侣。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_INTERPERSONAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_SURVEY",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     },
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     },
-     {
-      "code": "D_INTERVIEWS_FIELD",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_FAMILIES_RELATIONSHIPS",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "close relationships",
-    "relationship transitions",
-    "military families",
-    "deployment and reunion",
-    "depression",
-    "romantic couples",
-    "social support",
-    "interpersonal communication"
-   ]
-  },
-  {
-   "name": "Michele Koven",
-   "summary": "Studies how bilingual speakers in migrant communities enact cultural identities in talk, analyzing narrative discourse, code switching, and Franco-Portuguese language practices.",
-   "summary_zh": "分析叙事话语、语码转换与法葡语言实践，研究移民社群中的双语者如何在言谈中展演文化身份。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_LANGUAGE_INTERACTION",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_GLOBAL_INTERCULTURAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_QUALITATIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_INTERVIEWS_FIELD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_EUROPE",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "bilingualism",
-    "code switching",
-    "oral narrative",
-    "sociolinguistics",
-    "identity in talk",
-    "migrant communities",
-    "franco-portuguese",
-    "discourse analysis"
-   ]
-  },
-  {
-   "name": "Joshua-Paul Miles",
-   "summary": "Studies how nonprofits, agencies, and health and human service organizations collaborate through interorganizational networks, focusing on network governance and effectiveness.",
-   "summary_zh": "研究非营利组织、政府机构及健康与人类服务组织如何通过组织间网络开展协作，关注网络治理与网络效能。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_ORGANIZATIONAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_NETWORK",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_ORGANIZATIONS_WORKPLACES",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_HEALTH_SYSTEMS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_ELECTIONS_GOVERNMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "interorganizational networks",
-    "network governance",
-    "collaboration",
-    "nonprofits",
-    "military veterans",
-    "purpose-oriented networks",
-    "network effectiveness",
-    "resilience"
-   ]
-  },
-  {
-   "name": "Isabel Molina-Guzmán",
-   "summary": "Analyzes how media discourses about ethnoracial, gender, and sexual identity, especially Latina/o representation on television and film, reproduce inequality.",
-   "summary_zh": "分析关于族裔、性别与性身份的媒介话语（尤其是电视与电影中的拉丁裔再现）如何再生产不平等。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_JOURNALISM",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "latina/o representation",
-    "ethnoracial identity",
-    "gender and sexuality",
-    "television",
-    "discourse analysis",
-    "inequality",
-    "film and television remakes",
-    "colorblind comedy"
-   ]
-  },
-  {
-   "name": "Matea Mustafaj",
-   "summary": "Studies how narrative and entertainment media shape social cognition, stereotypes, empathy, and well-being, focusing on character engagement and belief change.",
-   "summary_zh": "研究叙事与娱乐媒介如何影响社会认知、刻板印象、共情与心理福祉，关注角色投入与信念改变。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "narrative persuasion",
-    "entertainment media",
-    "character engagement",
-    "counter-stereotypical representation",
-    "stereotypes",
-    "empathy",
-    "well-being",
-    "belief change"
-   ]
-  },
-  {
-   "name": "Ned O'Gorman",
-   "summary": "Studies the history of rhetoric and 20th-century American political culture, including Cold War image making, Hannah Arendt, and catastrophe imagery, through historical criticism.",
-   "summary_zh": "以历史批评方法研究修辞史与20世纪美国政治文化，涉及冷战影像生产、汉娜·阿伦特与灾难影像。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_RHETORIC",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HISTORY_THEORY",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_POLITICAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_HISTORICAL_ARCHIVAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_ARCHIVES_TEXTS",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "history of rhetoric",
-    "cold war",
-    "hannah arendt",
-    "political theory",
-    "iconoclasm",
-    "american security strategy",
-    "political culture",
-    "media studies"
-   ]
-  },
-  {
-   "name": "Brian L Quick",
-   "summary": "Designs and evaluates social marketing and health campaigns, studying cognition and emotion in processing promotional messages in contexts like organ donation and sports injury.",
-   "summary_zh": "设计并评估社会营销与健康传播运动，研究器官捐献、运动伤害等情境中人们处理推广信息时的认知与情绪。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HEALTH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_YOUTH_EDUCATION",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "social marketing",
-    "health campaigns",
-    "campaign evaluation",
-    "behavior change models",
-    "organ donation",
-    "message framing",
-    "sport-related concussion",
-    "injury prevention"
-   ]
-  },
-  {
-   "name": "Charee M. Thompson",
-   "summary": "Studies interpersonal and patient-provider communication about uncertain, stigmatized chronic illness and develops communication skills trainings, including virtual reality.",
-   "summary_zh": "研究围绕不确定、受污名的慢性疾病的人际与医患沟通，并开发包括虚拟现实在内的沟通技能培训。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HEALTH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_INTERPERSONAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HCI_CMC",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_DESIGN_BUILD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_THEORY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_HEALTH_SYSTEMS",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_FAMILIES_RELATIONSHIPS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "patient-provider communication",
-    "uncertainty",
-    "stigma",
-    "contested illness",
-    "chronic illness",
-    "communication skills training",
-    "virtual reality",
-    "medical education"
-   ]
-  },
-  {
-   "name": "Emily Van Duyn",
-   "summary": "Studies how people talk about and keep secret their politics in contentious U.S. contexts like rural communities and romantic relationships, using surveys, experiments, interviews, and ethnography.",
-   "summary_zh": "运用调查、实验、访谈与民族志，研究美国农村社区与恋爱关系等对立情境中人们如何谈论或隐藏政治立场。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_POLITICAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_INTERPERSONAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_MIXED",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_SURVEY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_INTERVIEWS_FIELD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_FAMILIES_RELATIONSHIPS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "political expression",
-    "political secrecy",
-    "polarization",
-    "rural politics",
-    "political talk",
-    "romantic relationships",
-    "democracy",
-    "ethnography"
-   ]
-  },
-  {
-   "name": "JungHwan Yang",
-   "summary": "Applies computational social science and digital trace data to political communication, studying online toxicity, cross-platform discourse, and hate speech regulation.",
-   "summary_zh": "运用计算社会科学与数字痕迹数据研究政治传播，关注网络毒性言论、跨平台话语与仇恨言论监管。",
-   "confidence": "medium",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_POLITICAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_COMPUTATIONAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_NETWORK",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     },
-     {
-      "code": "A_SURVEY",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": true,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     },
-     {
-      "code": "D_ADMIN_LARGE_SCALE",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_PLATFORMS",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     },
-     {
-      "code": "SET_ELECTIONS_GOVERNMENT",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "computational social science",
-    "digital trace data",
-    "hate speech regulation",
-    "toxicity",
-    "twitter",
-    "parler",
-    "reddit",
-    "2020 us presidential election"
-   ]
-  },
-  {
-   "name": "Angela Aguayo",
-   "summary": "Studies how documentary and participatory media mobilize publics for social change, combining rhetorical and cultural analysis with documentary production practice.",
-   "summary_zh": "结合修辞与文化分析以及纪录片创作实践，研究纪录片与参与式媒介如何动员公众推动社会变革。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_RHETORIC",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_DESIGN_BUILD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_SOCIAL_MOVEMENTS",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "documentary",
-    "participatory media",
-    "social change",
-    "documentary resistance",
-    "community media",
-    "media production",
-    "collective identification"
-   ]
-  },
-  {
-   "name": "Christopher Ball",
-   "summary": "Studies how people use, experience, and are affected by immersive and interactive media such as virtual reality and video games, with attention to digital inequality and inclusion.",
-   "summary_zh": "研究人们如何使用、体验并受到虚拟现实、电子游戏等沉浸式与交互媒介的影响，关注数字不平等与包容。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HCI_CMC",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "virtual reality",
-    "augmented reality",
-    "presence",
-    "video games",
-    "digital inequality",
-    "aging and technology",
-    "immersive media",
-    "mental health"
-   ]
-  },
-  {
-   "name": "Jason P. Chambers",
-   "summary": "Writes histories of African Americans in the advertising industry and the Black consumer market, including Black entrepreneurship in Chicago and biography of Tom Burrell.",
-   "summary_zh": "撰写非裔美国人在广告业及黑人消费市场中的历史，包括芝加哥黑人创业史与广告人汤姆·伯勒尔的传记。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HISTORY_THEORY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_INDUSTRIES_POLICY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_HISTORICAL_ARCHIVAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_ARCHIVES_TEXTS",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_ORGANIZATIONS_WORKPLACES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "advertising history",
-    "african american consumer market",
-    "madison avenue",
-    "black entrepreneurship",
-    "chicago",
-    "tom burrell",
-    "black metropolis"
-   ]
-  },
-  {
-   "name": "Amanda Ciafone",
-   "summary": "Writes cultural histories of capitalism and culture industries, such as a multinational history of Coca-Cola, linking political economy, the U.S. in the world, and Latin America.",
-   "summary_zh": "撰写资本主义与文化产业的文化史（如可口可乐的跨国史），将政治经济学、世界中的美国与拉丁美洲相联系。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_MEDIA_INDUSTRIES_POLICY",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_GLOBAL_INTERCULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_HISTORICAL_ARCHIVAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_ARCHIVES_TEXTS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_ORGANIZATIONS_WORKPLACES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_SOCIAL_MOVEMENTS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "R_LATIN_AMERICA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "R_GLOBAL_CROSS_NATIONAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "history of capitalism",
-    "political economy",
-    "culture industries",
-    "coca-cola",
-    "multinational corporations",
-    "social movements",
-    "aging and technology",
-    "global media"
-   ]
-  },
-  {
-   "name": "CL Cole",
-   "summary": "Studies sport as culture through critical cultural analysis of gender, corporate nationalism, biopolitics, and the boundaries of American democracy.",
-   "summary_zh": "以批判文化分析研究作为文化的体育，关注性别、企业民族主义、生命政治与美国民主的边界。",
-   "confidence": "medium",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "sport and culture",
-    "women and sport",
-    "gender",
-    "corporate nationalism",
-    "biopolitics",
-    "american democracy",
-    "social justice media"
-   ]
-  },
-  {
-   "name": "Stephanie Craft",
-   "summary": "Studies how news and media literacy are defined and measured and how they reduce susceptibility to misinformation, plus older adults' understanding of AI and journalism ethics.",
-   "summary_zh": "研究新闻与媒介素养如何界定和测量、如何降低对虚假信息的易感性，以及老年人对AI的理解与新闻伦理。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_MISINFO_TRUST",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_JOURNALISM",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CHILDREN_FAMILY_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_SURVEY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "news literacy",
-    "media literacy",
-    "misinformation",
-    "conspiracy theories",
-    "journalism ethics",
-    "journalism norms",
-    "older adults",
-    "ai literacy"
-   ]
-  },
-  {
-   "name": "Melita Garza",
-   "summary": "Studies American journalism history, especially English- and Spanish-language news, the immigrant press, and newspaper coverage of Mexicans and immigrants, using historical methods.",
-   "summary_zh": "运用历史方法研究美国新闻史，尤其是英语与西语新闻、移民报刊以及报纸对墨西哥人和移民的报道。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_JOURNALISM",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HISTORY_THEORY",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_GLOBAL_INTERCULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_HISTORICAL_ARCHIVAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_CONTENT_ANALYSIS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_ARCHIVES_TEXTS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_NEWSROOMS_MEDIA_ORGS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "journalism history",
-    "immigrant press",
-    "spanish-language news",
-    "mexican immigrants",
-    "great depression",
-    "business journalism",
-    "news representation"
-   ]
-  },
-  {
-   "name": "Alexandre Gonçalves",
-   "summary": "Studies the role of social media in the rise of new social movements and uses computational methods to analyze media ecosystems.",
-   "summary_zh": "研究社交媒体在新兴社会运动兴起中的作用，并运用计算方法分析媒介生态系统。",
-   "confidence": "medium",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_POLITICAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_JOURNALISM",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_COMPUTATIONAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_SOCIAL_MOVEMENTS",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_PLATFORMS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "social movements",
-    "social media",
-    "computational methods",
-    "media ecosystems",
-    "digital journalism"
-   ]
-  },
-  {
-   "name": "Chang-Dae Ham",
-   "summary": "Researches advertising and integrated marketing communication, drawing on prior industry experience in account planning and internet marketing.",
-   "summary_zh": "研究广告与整合营销传播，其背景包括客户策划与网络营销的业界经验。",
-   "confidence": "low",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "advertising",
-    "integrated marketing communication",
-    "internet marketing",
-    "account planning",
-    "korean american communication"
-   ]
-  },
-  {
-   "name": "James Hay",
-   "summary": "Studies media from cinema and television to new media and everyday technologies through cultural studies of citizenship, governmentality, and media and space.",
-   "summary_zh": "以文化研究视角考察从电影、电视到新媒介及日常技术的各类媒介，关注公民身份、治理术以及媒介与空间。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HISTORY_THEORY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_THEORY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "R_EUROPE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "cultural studies",
-    "governmentality",
-    "citizenship",
-    "media and space",
-    "media convergence",
-    "everyday life",
-    "architecture and urbanism",
-    "italy"
-   ]
-  },
-  {
-   "name": "Jacqueline Hitchon",
-   "summary": "Holds an advertising appointment; the profile lists only education and affiliations, with no description of research focus.",
-   "summary_zh": "任职于广告系；简介仅列出教育背景与所属单位，未描述研究方向。",
-   "confidence": "low",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "advertising",
-    "marketing communication",
-    "business"
-   ]
-  },
-  {
-   "name": "Derek Long",
-   "summary": "Studies the history of media industries, especially Hollywood film distribution and the studio system, using archival research and digital datasets and tools.",
-   "summary_zh": "运用档案研究以及数字数据集与工具，研究媒介产业史，尤其是好莱坞电影发行与制片厂体系。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_MEDIA_INDUSTRIES_POLICY",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HISTORY_THEORY",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_HISTORICAL_ARCHIVAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_COMPUTATIONAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_DESIGN_BUILD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_ARCHIVES_TEXTS",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_NEWSROOMS_MEDIA_ORGS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "hollywood studio system",
-    "film distribution",
-    "cinema history",
-    "early cinema",
-    "digital humanities",
-    "project arclight",
-    "trade press",
-    "media historiography"
-   ]
-  },
-  {
-   "name": "Ewa Maslowska",
-   "summary": "Studies how personalization and communication design on digital platforms shape persuasion and disengagement, and how fake reviews mislead consumers, using experiments, eye tracking, and trace data.",
-   "summary_zh": "运用实验、眼动与数字痕迹数据，研究数字平台上的个性化与传播设计如何影响说服与脱离，以及虚假评论如何误导消费者。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MISINFO_TRUST",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_MIXED",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_PHYSIO_NEURO",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_COMPUTATIONAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_PHYSIO_LOG",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_PLATFORMS",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "online reviews",
-    "fake reviews",
-    "personalization",
-    "platform disengagement",
-    "eye tracking",
-    "sponsorship disclosure",
-    "digital trace data",
-    "user autonomy"
-   ]
-  },
-  {
-   "name": "Michelle Nelson",
-   "summary": "Studies advertising and consumer literacy, including brands in entertainment and children's persuasion knowledge, using longitudinal ethnography with parents and preschoolers.",
-   "summary_zh": "研究广告与消费者素养，包括娱乐中的品牌植入与儿童的说服知识，采用针对家长与学龄前儿童的纵向民族志。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CHILDREN_FAMILY_MEDIA",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_INTERVIEWS_FIELD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_FAMILIES_RELATIONSHIPS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_YOUTH_EDUCATION",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_LATIN_AMERICA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "advertising literacy",
-    "persuasion knowledge",
-    "brands in entertainment",
-    "product placement",
-    "consumer literacy",
-    "preschool children",
-    "jamaica",
-    "health advertising"
-   ]
-  },
-  {
-   "name": "Margaret Yee Man Ng",
-   "summary": "Studies technology use, social media, and information diffusion, analyzing user behavior, network structures, and content framing with large-scale data and computational methods.",
-   "summary_zh": "运用大规模数据与计算方法研究技术使用、社交媒体与信息扩散，分析用户行为、嵌入结构与内容框架。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_COMPUTATIONAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_NETWORK",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_CONTENT_ANALYSIS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_ADMIN_LARGE_SCALE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_PLATFORMS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "information diffusion",
-    "big data",
-    "computational methods",
-    "content framing",
-    "user behavior",
-    "social media",
-    "un global pulse",
-    "humanitarian action"
-   ]
-  },
-  {
-   "name": "Sang-Hwa Oh",
-   "summary": "Studies emerging media effects on public health understanding, strategies to mitigate health and risk misinformation, and trust-building strategic communication by brands.",
-   "summary_zh": "研究新兴媒介对公众健康认知的影响、减轻健康与风险虚假信息的策略，以及品牌建立信任的战略传播。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HEALTH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MISINFO_TRUST",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "health misinformation",
-    "risk communication",
-    "misinformation mitigation",
-    "emerging media effects",
-    "public health",
-    "brand transparency",
-    "trust",
-    "emotional engagement"
-   ]
-  },
-  {
-   "name": "Jenny Oyallon-Koloski",
-   "summary": "Studies the history of film style and craft, choreography and movement in the film musical, and Franco-American cinema, using film analysis and videographic criticism.",
-   "summary_zh": "运用电影分析与视频论文批评，研究电影风格与技艺史、歌舞片中的编舞与身体运动以及法美电影。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HISTORY_THEORY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_GLOBAL_INTERCULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [],
-    "region": [
-     {
-      "code": "R_EUROPE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "R_US",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "R_EAST_ASIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "film musical",
-    "cinematic choreography",
-    "film style",
-    "jacques demy",
-    "videographic criticism",
-    "movement analysis",
-    "dance and film",
-    "french cinema"
-   ]
-  },
-  {
-   "name": "Sela Sar",
-   "summary": "Studies how emotion, mood, and motivation shape responses to advertising, including health and risk ads, using EEG, self-report measures, and affective computational approaches.",
-   "summary_zh": "运用脑电（EEG）、自我报告与情感计算方法，研究情绪、心境与动机如何影响人们对广告（包括健康与风险广告）的反应。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_PHYSIO_NEURO",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_SURVEY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_COMPUTATIONAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_PHYSIO_LOG",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "emotion",
-    "eeg",
-    "advertising effects",
-    "mood",
-    "consumer behavior",
-    "decision making",
-    "affective computing",
-    "health advertising"
-   ]
-  },
-  {
-   "name": "Leona Yi-Fan Su",
-   "summary": "Studies how social media and new technologies shape communication about science, health, and the environment, examining norms, humor, incivility, and engagement with big data and machine learning.",
-   "summary_zh": "运用大数据与机器学习，研究社交媒体与新技术如何影响科学、健康与环境传播，考察社会规范、幽默、不文明与互动。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_SCIENCE_ENV",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_COMPUTATIONAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_PLATFORMS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "science communication",
-    "environmental communication",
-    "social norms",
-    "humor",
-    "incivility",
-    "engagement metrics",
-    "virtual assistants",
-    "machine learning"
-   ]
-  },
-  {
-   "name": "Harsh Taneja",
-   "summary": "Studies how people consume media amid abundant choice, focusing on global internet audiences, digital news consumption, and media metrics.",
-   "summary_zh": "研究在选择丰富的环境中人们如何消费媒介，聚焦全球互联网受众、数字新闻消费与媒介测量指标。",
-   "confidence": "medium",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_JOURNALISM",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_INDUSTRIES_POLICY",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_GLOBAL_INTERCULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [
-     {
-      "code": "D_ADMIN_LARGE_SCALE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_GLOBAL_CROSS_NATIONAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "media audiences",
-    "audience measurement",
-    "media choice",
-    "global internet audiences",
-    "digital news consumption",
-    "media metrics"
-   ]
-  },
-  {
-   "name": "Cassandra L.C. Troy",
-   "summary": "Studies strategic environmental and climate change communication, especially solutions-oriented messaging and drivers of collective pro-environmental action, with quantitative and qualitative methods.",
-   "summary_zh": "运用定量与定性方法研究战略性环境与气候变化传播，尤其是解决方案导向的信息与集体亲环境行动的驱动因素。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_SCIENCE_ENV",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_MIXED",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "climate change communication",
-    "strategic environmental communication",
-    "solutions-oriented messaging",
-    "positive messaging",
-    "collective action",
-    "pro-environmental behavior"
-   ]
-  },
-  {
-   "name": "Julie Turnock",
-   "summary": "Writes histories of Hollywood special effects and technology, such as Industrial Light and Magic and 1970s blockbuster aesthetics, analyzing films and industry practices.",
-   "summary_zh": "撰写好莱坞特效与技术史（如工业光魔与1970年代大片美学），分析电影作品与产业实践。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_INDUSTRIES_POLICY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HISTORY_THEORY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_HISTORICAL_ARCHIVAL",
-      "primary": true,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     },
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     },
-     {
-      "code": "D_ARCHIVES_TEXTS",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_NEWSROOMS_MEDIA_ORGS",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "special effects",
-    "industrial light and magic",
-    "hollywood",
-    "blockbuster aesthetics",
-    "digital materialism",
-    "film history",
-    "1970s cinema",
-    "realism"
-   ]
-  },
-  {
-   "name": "Patrick Vargas",
-   "summary": "Studies implicit attitudes, stereotyping, prejudice, and mood in social judgment, bridging social psychology with consumer responses to advertising and marketing.",
-   "summary_zh": "研究社会判断中的内隐态度、刻板印象、偏见与心境，将社会心理学与消费者对广告和营销的反应相连接。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "implicit attitudes",
-    "stereotyping",
-    "prejudice",
-    "linguistic intergroup bias",
-    "consumer behavior",
-    "mood and emotion",
-    "social judgment",
-    "advertising"
-   ]
-  },
-  {
-   "name": "John Wirtz",
-   "summary": "Studies how conversations before and during ad exposure shape memory, evaluation, and action on ads, and how to make health campaigns more effective and culturally relevant.",
-   "summary_zh": "研究观看广告前后及期间的交谈如何影响对广告的记忆、评价与行动，以及如何提升健康运动的有效性与文化相关性。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_INTERPERSONAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "interpersonal discussion",
-    "conversation and advertising",
-    "ad memory",
-    "ad evaluation",
-    "health campaigns",
-    "cultural relevance",
-    "mass media effects"
-   ]
-  },
-  {
-   "name": "Kevin Wise",
-   "summary": "Studies the psychology of interactive media use through experiments measuring physiological and self-report indicators of cognition, emotion, and motivation.",
-   "summary_zh": "通过测量认知、情绪与动机的生理与自我报告指标的实验，研究交互媒介使用背后的心理机制。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HCI_CMC",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_EXPERIMENT",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_PHYSIO_NEURO",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_PHYSIO_LOG",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "interactive media",
-    "media psychology",
-    "psychophysiology",
-    "cognition",
-    "emotion",
-    "motivation",
-    "experiments"
-   ]
-  },
-  {
-   "name": "Guolan Yang",
-   "summary": "Studies persuasive communication in social media advertising and influencer marketing, including message appeals like storytelling and humor and responses to sponsorship disclosures.",
-   "summary_zh": "研究社交媒体广告与网红营销中的说服传播，包括叙事、幽默等信息诉求以及受众对赞助披露的反应。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_PLATFORMS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "influencer marketing",
-    "social media advertising",
-    "sponsorship disclosure",
-    "covert advertising",
-    "message appeals",
-    "storytelling",
-    "humor",
-    "persuasion"
-   ]
-  },
-  {
-   "name": "Mike Yao",
-   "summary": "Studies the social and psychological impacts of interactive digital media, focusing on online privacy boundary management, video games, and social media use.",
-   "summary_zh": "研究交互式数字媒介的社会与心理影响，聚焦网络隐私边界管理、电子游戏与社交媒体使用。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HCI_CMC",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_PLATFORMS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "online privacy",
-    "privacy boundaries",
-    "computer-mediated communication",
-    "digital literacy",
-    "video games",
-    "social media effects",
-    "social norms",
-    "self-protective behavior"
-   ]
-  }
- ]
+  "slug": "university-of-illinois-urbana-champaign",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Scott Althaus",
+      "summary": "Studies public opinion, popular support for war, and news coverage using extreme-scale data science methods and cross-national comparative research.",
+      "summary_zh": "运用超大规模新闻数据科学方法与跨国比较研究，考察舆论、民众对战争的支持以及新闻报道。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "public opinion",
+        "popular support for war",
+        "news coverage",
+        "political psychology",
+        "civil unrest",
+        "democratic theory",
+        "extreme-scale data analysis",
+        "cross-national comparison"
+      ]
+    },
+    {
+      "name": "Joshua Barbour",
+      "summary": "Studies how organizational actors design communication to navigate laws, regulations, and norms, focusing on automation and the future of data-intensive work.",
+      "summary_zh": "研究组织行动者如何设计传播以应对法律、规章与规范等制度结构，关注自动化与数据密集型工作的未来。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "organizational communication",
+        "automation",
+        "future of work",
+        "communication design",
+        "institutional theory",
+        "regulation",
+        "macromorphic organizing",
+        "data-intensive work"
+      ]
+    },
+    {
+      "name": "William C. Barley",
+      "summary": "Studies how interdisciplinary science teams collaborate across knowledge boundaries and use technologies, drawing primarily on field studies inside organizations.",
+      "summary_zh": "主要基于组织内的田野研究，考察跨学科科研团队如何跨越知识边界开展协作并设计和使用技术。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "team science",
+        "interdisciplinary collaboration",
+        "knowledge boundaries",
+        "technology design and use",
+        "data representation",
+        "coordination",
+        "fieldwork",
+        "science and technology studies"
+      ]
+    },
+    {
+      "name": "Cabral Bigman-Galimore",
+      "summary": "Studies communication about health, risk, and inequality, examining how messages about comparative risk and disparities shape health behavior and public support.",
+      "summary_zh": "研究关于健康、风险与不平等的传播，考察有关比较风险与健康差距的信息如何影响健康行为与公众支持。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health equity",
+        "health disparities",
+        "risk communication",
+        "comparative risk messages",
+        "inequality",
+        "racial discourse",
+        "covid-19 vaccination",
+        "organ donation"
+      ]
+    },
+    {
+      "name": "Elisabeth Bigsby",
+      "summary": "Studies why persuasive health and environmental messages such as anti-smoking campaigns succeed or fail, examining how message features shape perception and processing.",
+      "summary_zh": "研究反吸烟等健康与环境说服信息为何成功或失败，考察信息特征如何影响人们的感知与信息加工。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "persuasive messages",
+        "message effects",
+        "message features",
+        "anti-smoking campaigns",
+        "health campaigns",
+        "reactance",
+        "information seeking",
+        "message design"
+      ]
+    },
+    {
+      "name": "John P. Caughlin",
+      "summary": "Studies how interpersonal communication, including what people avoid saying and how they mix mediated channels, shapes relational and personal well-being and health.",
+      "summary_zh": "研究人际传播（包括回避谈论的内容以及多种中介渠道的组合使用）如何影响关系与个人福祉及健康。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "interpersonal communication",
+        "relational well-being",
+        "conflict",
+        "topic avoidance",
+        "communication interdependence",
+        "mediated communication",
+        "health and relationships",
+        "texting"
+      ]
+    },
+    {
+      "name": "Josue David Cisneros",
+      "summary": "Analyzes public rhetoric about race, immigration, borders, and citizenship and rhetorics of resistance in Latina/o social movements using rhetorical criticism.",
+      "summary_zh": "运用修辞批评分析关于种族、移民、边界与公民身份的公共修辞，以及拉丁裔社会运动中的抵抗修辞。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "rhetoric",
+        "immigration",
+        "borders",
+        "citizenship",
+        "latina/o identity",
+        "race and ethnicity",
+        "social movements",
+        "critical intercultural communication"
+      ]
+    },
+    {
+      "name": "Stewart Coles",
+      "summary": "Studies how media and entertainment depictions of social issues and marginalized groups evoke stereotypes, activate identity, and shape public opinion and political behavior.",
+      "summary_zh": "研究媒介与娱乐内容对社会议题和边缘群体的呈现如何引发刻板印象、激活身份认同并影响舆论与政治行为。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "entertainment media and politics",
+        "stereotypes",
+        "prejudice",
+        "social identity",
+        "public opinion",
+        "intergroup conflict",
+        "media psychology",
+        "political behavior"
+      ]
+    },
+    {
+      "name": "Travis L Dixon",
+      "summary": "Studies the prevalence of racial stereotypes in television news, social media, and music and their effects on audiences, combining content analysis with effects research.",
+      "summary_zh": "结合内容分析与效果研究，考察电视新闻、社交媒体与音乐中种族刻板印象的普遍程度及其对受众的影响。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "racial stereotyping",
+        "television news",
+        "counter-stereotypes",
+        "media effects",
+        "content analysis",
+        "african americans",
+        "social media",
+        "music"
+      ]
+    },
+    {
+      "name": "Cara A. Finnegan",
+      "summary": "Writes rhetorical histories of photography, examining how photographs were produced, circulated, and received in U.S. public life, including presidential images.",
+      "summary_zh": "撰写摄影的修辞史，考察照片在美国公共生活中（包括总统形象）如何被生产、流通与接受。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "visual rhetoric",
+        "photography",
+        "history of photography",
+        "public address",
+        "presidential image",
+        "visual politics",
+        "circulation",
+        "daguerreotype"
+      ]
+    },
+    {
+      "name": "Lisa Guntzviller",
+      "summary": "Studies identity dilemmas in family and health interactions, such as language brokering and advice in Spanish-speaking families, using dyadic data and a multiple goals framework.",
+      "summary_zh": "运用二元数据与多重目标框架，研究家庭与健康互动中的身份困境，如西语家庭中的语言代理与建议提供。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "language brokering",
+        "advice",
+        "identity dilemmas",
+        "parent-child communication",
+        "spanish-speaking families",
+        "patient-provider communication",
+        "health literacy",
+        "multiple goals"
+      ]
+    },
+    {
+      "name": "Alisa Hardy",
+      "summary": "Studies how Black women use digital technologies for resistance and public memory, combining critical-cultural rhetoric, Black feminism, and methods for scraping Black Twitter.",
+      "summary_zh": "结合批判文化修辞、黑人女性主义与抓取“黑人推特”的方法，研究黑人女性如何借助数字技术进行抵抗与公共记忆。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "black feminism",
+        "black women",
+        "public memory",
+        "digital resistance",
+        "black twitter",
+        "critical-cultural rhetoric",
+        "digital culture",
+        "web scraping"
+      ]
+    },
+    {
+      "name": "Minkyung Kim",
+      "summary": "Studies how organizations serving vulnerable populations use inter-organizational networks and symbolic and material artifacts to build community resilience and sustainability.",
+      "summary_zh": "研究服务弱势群体的组织如何借助组织间网络及象征性与物质性人工物来增强社区韧性与可持续性。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "organizational communication",
+        "community resilience",
+        "sustainability",
+        "interorganizational networks",
+        "nonprofits",
+        "vulnerable populations",
+        "organizational artifacts"
+      ]
+    },
+    {
+      "name": "Leanne Knobloch",
+      "summary": "Studies how communication shapes and reflects close relationships during transitions, such as military families after deployment and couples facing depression.",
+      "summary_zh": "研究在关系转变期沟通如何塑造并反映亲密关系，如部署归来后的军人家庭以及面对抑郁诊断的伴侣。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "close relationships",
+        "relationship transitions",
+        "military families",
+        "deployment and reunion",
+        "depression",
+        "romantic couples",
+        "social support",
+        "interpersonal communication"
+      ]
+    },
+    {
+      "name": "Michele Koven",
+      "summary": "Studies how bilingual speakers in migrant communities enact cultural identities in talk, analyzing narrative discourse, code switching, and Franco-Portuguese language practices.",
+      "summary_zh": "分析叙事话语、语码转换与法葡语言实践，研究移民社群中的双语者如何在言谈中展演文化身份。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_EUROPE",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "bilingualism",
+        "code switching",
+        "oral narrative",
+        "sociolinguistics",
+        "identity in talk",
+        "migrant communities",
+        "franco-portuguese",
+        "discourse analysis"
+      ]
+    },
+    {
+      "name": "Joshua-Paul Miles",
+      "summary": "Studies how nonprofits, agencies, and health and human service organizations collaborate through interorganizational networks, focusing on network governance and effectiveness.",
+      "summary_zh": "研究非营利组织、政府机构及健康与人类服务组织如何通过组织间网络开展协作，关注网络治理与网络效能。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_NETWORK",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "interorganizational networks",
+        "network governance",
+        "collaboration",
+        "nonprofits",
+        "military veterans",
+        "purpose-oriented networks",
+        "network effectiveness",
+        "resilience"
+      ]
+    },
+    {
+      "name": "Isabel Molina-Guzmán",
+      "summary": "Analyzes how media discourses about ethnoracial, gender, and sexual identity, especially Latina/o representation on television and film, reproduce inequality.",
+      "summary_zh": "分析关于族裔、性别与性身份的媒介话语（尤其是电视与电影中的拉丁裔再现）如何再生产不平等。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "latina/o representation",
+        "ethnoracial identity",
+        "gender and sexuality",
+        "television",
+        "discourse analysis",
+        "inequality",
+        "film and television remakes",
+        "colorblind comedy"
+      ]
+    },
+    {
+      "name": "Matea Mustafaj",
+      "summary": "Studies how narrative and entertainment media shape social cognition, stereotypes, empathy, and well-being, focusing on character engagement and belief change.",
+      "summary_zh": "研究叙事与娱乐媒介如何影响社会认知、刻板印象、共情与心理福祉，关注角色投入与信念改变。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "narrative persuasion",
+        "entertainment media",
+        "character engagement",
+        "counter-stereotypical representation",
+        "stereotypes",
+        "empathy",
+        "well-being",
+        "belief change"
+      ]
+    },
+    {
+      "name": "Ned O'Gorman",
+      "summary": "Studies the history of rhetoric and 20th-century American political culture, including Cold War image making, Hannah Arendt, and catastrophe imagery, through historical criticism.",
+      "summary_zh": "以历史批评方法研究修辞史与20世纪美国政治文化，涉及冷战影像生产、汉娜·阿伦特与灾难影像。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "history of rhetoric",
+        "cold war",
+        "hannah arendt",
+        "political theory",
+        "iconoclasm",
+        "american security strategy",
+        "political culture",
+        "media studies"
+      ]
+    },
+    {
+      "name": "Brian L Quick",
+      "summary": "Designs and evaluates social marketing and health campaigns, studying cognition and emotion in processing promotional messages in contexts like organ donation and sports injury.",
+      "summary_zh": "设计并评估社会营销与健康传播运动，研究器官捐献、运动伤害等情境中人们处理推广信息时的认知与情绪。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "social marketing",
+        "health campaigns",
+        "campaign evaluation",
+        "behavior change models",
+        "organ donation",
+        "message framing",
+        "sport-related concussion",
+        "injury prevention"
+      ]
+    },
+    {
+      "name": "Charee M. Thompson",
+      "summary": "Studies interpersonal and patient-provider communication about uncertain, stigmatized chronic illness and develops communication skills trainings, including virtual reality.",
+      "summary_zh": "研究围绕不确定、受污名的慢性疾病的人际与医患沟通，并开发包括虚拟现实在内的沟通技能培训。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "patient-provider communication",
+        "uncertainty",
+        "stigma",
+        "contested illness",
+        "chronic illness",
+        "communication skills training",
+        "virtual reality",
+        "medical education"
+      ]
+    },
+    {
+      "name": "Emily Van Duyn",
+      "summary": "Studies how people talk about and keep secret their politics in contentious U.S. contexts like rural communities and romantic relationships, using surveys, experiments, interviews, and ethnography.",
+      "summary_zh": "运用调查、实验、访谈与民族志，研究美国农村社区与恋爱关系等对立情境中人们如何谈论或隐藏政治立场。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "political expression",
+        "political secrecy",
+        "polarization",
+        "rural politics",
+        "political talk",
+        "romantic relationships",
+        "democracy",
+        "ethnography"
+      ]
+    },
+    {
+      "name": "JungHwan Yang",
+      "summary": "Applies computational social science and digital trace data to political communication, studying online toxicity, cross-platform discourse, and hate speech regulation.",
+      "summary_zh": "运用计算社会科学与数字痕迹数据研究政治传播，关注网络毒性言论、跨平台话语与仇恨言论监管。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "D_ADMIN_LARGE_SCALE",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "computational social science",
+        "digital trace data",
+        "hate speech regulation",
+        "toxicity",
+        "twitter",
+        "parler",
+        "reddit",
+        "2020 us presidential election"
+      ]
+    },
+    {
+      "name": "Angela Aguayo",
+      "summary": "Studies how documentary and participatory media mobilize publics for social change, combining rhetorical and cultural analysis with documentary production practice.",
+      "summary_zh": "结合修辞与文化分析以及纪录片创作实践，研究纪录片与参与式媒介如何动员公众推动社会变革。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "documentary",
+        "participatory media",
+        "social change",
+        "documentary resistance",
+        "community media",
+        "media production",
+        "collective identification"
+      ]
+    },
+    {
+      "name": "Christopher Ball",
+      "summary": "Studies how people use, experience, and are affected by immersive and interactive media such as virtual reality and video games, with attention to digital inequality and inclusion.",
+      "summary_zh": "研究人们如何使用、体验并受到虚拟现实、电子游戏等沉浸式与交互媒介的影响，关注数字不平等与包容。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "virtual reality",
+        "augmented reality",
+        "presence",
+        "video games",
+        "digital inequality",
+        "aging and technology",
+        "immersive media",
+        "mental health"
+      ]
+    },
+    {
+      "name": "Jason P. Chambers",
+      "summary": "Writes histories of African Americans in the advertising industry and the Black consumer market, including Black entrepreneurship in Chicago and biography of Tom Burrell.",
+      "summary_zh": "撰写非裔美国人在广告业及黑人消费市场中的历史，包括芝加哥黑人创业史与广告人汤姆·伯勒尔的传记。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "advertising history",
+        "african american consumer market",
+        "madison avenue",
+        "black entrepreneurship",
+        "chicago",
+        "tom burrell",
+        "black metropolis"
+      ]
+    },
+    {
+      "name": "Amanda Ciafone",
+      "summary": "Writes cultural histories of capitalism and culture industries, such as a multinational history of Coca-Cola, linking political economy, the U.S. in the world, and Latin America.",
+      "summary_zh": "撰写资本主义与文化产业的文化史（如可口可乐的跨国史），将政治经济学、世界中的美国与拉丁美洲相联系。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "history of capitalism",
+        "political economy",
+        "culture industries",
+        "coca-cola",
+        "multinational corporations",
+        "social movements",
+        "aging and technology",
+        "global media"
+      ]
+    },
+    {
+      "name": "CL Cole",
+      "summary": "Studies sport as culture through critical cultural analysis of gender, corporate nationalism, biopolitics, and the boundaries of American democracy.",
+      "summary_zh": "以批判文化分析研究作为文化的体育，关注性别、企业民族主义、生命政治与美国民主的边界。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "sport and culture",
+        "women and sport",
+        "gender",
+        "corporate nationalism",
+        "biopolitics",
+        "american democracy",
+        "social justice media"
+      ]
+    },
+    {
+      "name": "Stephanie Craft",
+      "summary": "Studies how news and media literacy are defined and measured and how they reduce susceptibility to misinformation, plus older adults' understanding of AI and journalism ethics.",
+      "summary_zh": "研究新闻与媒介素养如何界定和测量、如何降低对虚假信息的易感性，以及老年人对AI的理解与新闻伦理。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "news literacy",
+        "media literacy",
+        "misinformation",
+        "conspiracy theories",
+        "journalism ethics",
+        "journalism norms",
+        "older adults",
+        "ai literacy"
+      ]
+    },
+    {
+      "name": "Melita Garza",
+      "summary": "Studies American journalism history, especially English- and Spanish-language news, the immigrant press, and newspaper coverage of Mexicans and immigrants, using historical methods.",
+      "summary_zh": "运用历史方法研究美国新闻史，尤其是英语与西语新闻、移民报刊以及报纸对墨西哥人和移民的报道。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "journalism history",
+        "immigrant press",
+        "spanish-language news",
+        "mexican immigrants",
+        "great depression",
+        "business journalism",
+        "news representation"
+      ]
+    },
+    {
+      "name": "Alexandre Gonçalves",
+      "summary": "Studies the role of social media in the rise of new social movements and uses computational methods to analyze media ecosystems.",
+      "summary_zh": "研究社交媒体在新兴社会运动兴起中的作用，并运用计算方法分析媒介生态系统。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "social movements",
+        "social media",
+        "computational methods",
+        "media ecosystems",
+        "digital journalism"
+      ]
+    },
+    {
+      "name": "Chang-Dae Ham",
+      "summary": "Researches advertising and integrated marketing communication, drawing on prior industry experience in account planning and internet marketing.",
+      "summary_zh": "研究广告与整合营销传播，其背景包括客户策划与网络营销的业界经验。",
+      "confidence": "low",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "advertising",
+        "integrated marketing communication",
+        "internet marketing",
+        "account planning",
+        "korean american communication"
+      ]
+    },
+    {
+      "name": "James Hay",
+      "summary": "Studies media from cinema and television to new media and everyday technologies through cultural studies of citizenship, governmentality, and media and space.",
+      "summary_zh": "以文化研究视角考察从电影、电视到新媒介及日常技术的各类媒介，关注公民身份、治理术以及媒介与空间。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_EUROPE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "cultural studies",
+        "governmentality",
+        "citizenship",
+        "media and space",
+        "media convergence",
+        "everyday life",
+        "architecture and urbanism",
+        "italy"
+      ]
+    },
+    {
+      "name": "Jacqueline Hitchon",
+      "summary": "Holds an advertising appointment; the profile lists only education and affiliations, with no description of research focus.",
+      "summary_zh": "任职于广告系；简介仅列出教育背景与所属单位，未描述研究方向。",
+      "confidence": "low",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "advertising",
+        "marketing communication",
+        "business"
+      ]
+    },
+    {
+      "name": "Derek Long",
+      "summary": "Studies the history of media industries, especially Hollywood film distribution and the studio system, using archival research and digital datasets and tools.",
+      "summary_zh": "运用档案研究以及数字数据集与工具，研究媒介产业史，尤其是好莱坞电影发行与制片厂体系。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "hollywood studio system",
+        "film distribution",
+        "cinema history",
+        "early cinema",
+        "digital humanities",
+        "project arclight",
+        "trade press",
+        "media historiography"
+      ]
+    },
+    {
+      "name": "Ewa Maslowska",
+      "summary": "Studies how personalization and communication design on digital platforms shape persuasion and disengagement, and how fake reviews mislead consumers, using experiments, eye tracking, and trace data.",
+      "summary_zh": "运用实验、眼动与数字痕迹数据，研究数字平台上的个性化与传播设计如何影响说服与脱离，以及虚假评论如何误导消费者。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "online reviews",
+        "fake reviews",
+        "personalization",
+        "platform disengagement",
+        "eye tracking",
+        "sponsorship disclosure",
+        "digital trace data",
+        "user autonomy"
+      ]
+    },
+    {
+      "name": "Michelle Nelson",
+      "summary": "Studies advertising and consumer literacy, including brands in entertainment and children's persuasion knowledge, using longitudinal ethnography with parents and preschoolers.",
+      "summary_zh": "研究广告与消费者素养，包括娱乐中的品牌植入与儿童的说服知识，采用针对家长与学龄前儿童的纵向民族志。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "advertising literacy",
+        "persuasion knowledge",
+        "brands in entertainment",
+        "product placement",
+        "consumer literacy",
+        "preschool children",
+        "jamaica",
+        "health advertising"
+      ]
+    },
+    {
+      "name": "Margaret Yee Man Ng",
+      "summary": "Studies technology use, social media, and information diffusion, analyzing user behavior, network structures, and content framing with large-scale data and computational methods.",
+      "summary_zh": "运用大规模数据与计算方法研究技术使用、社交媒体与信息扩散，分析用户行为、嵌入结构与内容框架。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ADMIN_LARGE_SCALE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "information diffusion",
+        "big data",
+        "computational methods",
+        "content framing",
+        "user behavior",
+        "social media",
+        "un global pulse",
+        "humanitarian action"
+      ]
+    },
+    {
+      "name": "Sang-Hwa Oh",
+      "summary": "Studies emerging media effects on public health understanding, strategies to mitigate health and risk misinformation, and trust-building strategic communication by brands.",
+      "summary_zh": "研究新兴媒介对公众健康认知的影响、减轻健康与风险虚假信息的策略，以及品牌建立信任的战略传播。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health misinformation",
+        "risk communication",
+        "misinformation mitigation",
+        "emerging media effects",
+        "public health",
+        "brand transparency",
+        "trust",
+        "emotional engagement"
+      ]
+    },
+    {
+      "name": "Jenny Oyallon-Koloski",
+      "summary": "Studies the history of film style and craft, choreography and movement in the film musical, and Franco-American cinema, using film analysis and videographic criticism.",
+      "summary_zh": "运用电影分析与视频论文批评，研究电影风格与技艺史、歌舞片中的编舞与身体运动以及法美电影。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_EUROPE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "film musical",
+        "cinematic choreography",
+        "film style",
+        "jacques demy",
+        "videographic criticism",
+        "movement analysis",
+        "dance and film",
+        "french cinema"
+      ]
+    },
+    {
+      "name": "Sela Sar",
+      "summary": "Studies how emotion, mood, and motivation shape responses to advertising, including health and risk ads, using EEG, self-report measures, and affective computational approaches.",
+      "summary_zh": "运用脑电（EEG）、自我报告与情感计算方法，研究情绪、心境与动机如何影响人们对广告（包括健康与风险广告）的反应。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "emotion",
+        "eeg",
+        "advertising effects",
+        "mood",
+        "consumer behavior",
+        "decision making",
+        "affective computing",
+        "health advertising"
+      ]
+    },
+    {
+      "name": "Leona Yi-Fan Su",
+      "summary": "Studies how social media and new technologies shape communication about science, health, and the environment, examining norms, humor, incivility, and engagement with big data and machine learning.",
+      "summary_zh": "运用大数据与机器学习，研究社交媒体与新技术如何影响科学、健康与环境传播，考察社会规范、幽默、不文明与互动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "science communication",
+        "environmental communication",
+        "social norms",
+        "humor",
+        "incivility",
+        "engagement metrics",
+        "virtual assistants",
+        "machine learning"
+      ]
+    },
+    {
+      "name": "Harsh Taneja",
+      "summary": "Studies how people consume media amid abundant choice, focusing on global internet audiences, digital news consumption, and media metrics.",
+      "summary_zh": "研究在选择丰富的环境中人们如何消费媒介，聚焦全球互联网受众、数字新闻消费与媒介测量指标。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_ADMIN_LARGE_SCALE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "media audiences",
+        "audience measurement",
+        "media choice",
+        "global internet audiences",
+        "digital news consumption",
+        "media metrics"
+      ]
+    },
+    {
+      "name": "Cassandra L.C. Troy",
+      "summary": "Studies strategic environmental and climate change communication, especially solutions-oriented messaging and drivers of collective pro-environmental action, with quantitative and qualitative methods.",
+      "summary_zh": "运用定量与定性方法研究战略性环境与气候变化传播，尤其是解决方案导向的信息与集体亲环境行动的驱动因素。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "climate change communication",
+        "strategic environmental communication",
+        "solutions-oriented messaging",
+        "positive messaging",
+        "collective action",
+        "pro-environmental behavior"
+      ]
+    },
+    {
+      "name": "Julie Turnock",
+      "summary": "Writes histories of Hollywood special effects and technology, such as Industrial Light and Magic and 1970s blockbuster aesthetics, analyzing films and industry practices.",
+      "summary_zh": "撰写好莱坞特效与技术史（如工业光魔与1970年代大片美学），分析电影作品与产业实践。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "special effects",
+        "industrial light and magic",
+        "hollywood",
+        "blockbuster aesthetics",
+        "digital materialism",
+        "film history",
+        "1970s cinema",
+        "realism"
+      ]
+    },
+    {
+      "name": "Patrick Vargas",
+      "summary": "Studies implicit attitudes, stereotyping, prejudice, and mood in social judgment, bridging social psychology with consumer responses to advertising and marketing.",
+      "summary_zh": "研究社会判断中的内隐态度、刻板印象、偏见与心境，将社会心理学与消费者对广告和营销的反应相连接。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "implicit attitudes",
+        "stereotyping",
+        "prejudice",
+        "linguistic intergroup bias",
+        "consumer behavior",
+        "mood and emotion",
+        "social judgment",
+        "advertising"
+      ]
+    },
+    {
+      "name": "John Wirtz",
+      "summary": "Studies how conversations before and during ad exposure shape memory, evaluation, and action on ads, and how to make health campaigns more effective and culturally relevant.",
+      "summary_zh": "研究观看广告前后及期间的交谈如何影响对广告的记忆、评价与行动，以及如何提升健康运动的有效性与文化相关性。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "interpersonal discussion",
+        "conversation and advertising",
+        "ad memory",
+        "ad evaluation",
+        "health campaigns",
+        "cultural relevance",
+        "mass media effects"
+      ]
+    },
+    {
+      "name": "Kevin Wise",
+      "summary": "Studies the psychology of interactive media use through experiments measuring physiological and self-report indicators of cognition, emotion, and motivation.",
+      "summary_zh": "通过测量认知、情绪与动机的生理与自我报告指标的实验，研究交互媒介使用背后的心理机制。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "interactive media",
+        "media psychology",
+        "psychophysiology",
+        "cognition",
+        "emotion",
+        "motivation",
+        "experiments"
+      ]
+    },
+    {
+      "name": "Guolan Yang",
+      "summary": "Studies persuasive communication in social media advertising and influencer marketing, including message appeals like storytelling and humor and responses to sponsorship disclosures.",
+      "summary_zh": "研究社交媒体广告与网红营销中的说服传播，包括叙事、幽默等信息诉求以及受众对赞助披露的反应。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "influencer marketing",
+        "social media advertising",
+        "sponsorship disclosure",
+        "covert advertising",
+        "message appeals",
+        "storytelling",
+        "humor",
+        "persuasion"
+      ]
+    },
+    {
+      "name": "Mike Yao",
+      "summary": "Studies the social and psychological impacts of interactive digital media, focusing on online privacy boundary management, video games, and social media use.",
+      "summary_zh": "研究交互式数字媒介的社会与心理影响，聚焦网络隐私边界管理、电子游戏与社交媒体使用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "online privacy",
+        "privacy boundaries",
+        "computer-mediated communication",
+        "digital literacy",
+        "video games",
+        "social media effects",
+        "social norms",
+        "self-protective behavior"
+      ]
+    }
+  ]
 }

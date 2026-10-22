@@ -1,0 +1,1886 @@
+{
+  "slug": "university-of-california-los-angeles",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Greg Bryant",
+      "summary": "Studies vocal communication, laughter, and music from an evolutionary perspective using acoustic analysis, perception and psychophysiology experiments, and cross-cultural field studies.",
+      "summary_zh": "从进化视角研究声音传播、笑声与音乐，采用声学分析、知觉与心理生理实验以及跨文化田野研究。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "vocal communication",
+        "laughter",
+        "music",
+        "bioacoustics",
+        "evolutionary psychology",
+        "voice acoustics",
+        "cross-cultural field studies",
+        "psychophysiology"
+      ]
+    },
+    {
+      "name": "Rick Dale",
+      "summary": "Studies the dynamics of conversation and interpersonal coordination, from eye movements to vocal rhythm and body language, via computational modeling, naturalistic behavior analysis, and experiments.",
+      "summary_zh": "研究对话与人际协调的动态过程（从眼动到语音节奏与肢体语言），采用计算建模、自然行为分析与实验方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "dynamical systems",
+        "conversation",
+        "interpersonal coordination",
+        "eye movement synchrony",
+        "body language",
+        "deception",
+        "computational modeling",
+        "cognitive science"
+      ]
+    },
+    {
+      "name": "Rachit Dubey",
+      "summary": "Studies the psychological roots of climate inaction and human motivation using computational modeling, machine learning, and experimental psychology to inform climate policy.",
+      "summary_zh": "运用计算建模、机器学习与实验心理学研究气候不作为与人类动机的心理根源，以服务气候政策。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "climate change",
+        "climate inaction",
+        "climate policy",
+        "computational cognitive science",
+        "machine learning",
+        "motivation",
+        "polarization",
+        "computational modeling"
+      ]
+    },
+    {
+      "name": "Tao Gao",
+      "summary": "Studies human social perception and intention recognition through cognitive modeling and psychophysical experiments to build communicative, trustworthy AI and robots.",
+      "summary_zh": "通过认知建模与心理物理实验研究人类社会知觉与意图识别，以构建善于沟通且值得信赖的人工智能与机器人。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "social perception",
+        "intention recognition",
+        "perceived animacy",
+        "social commonsense",
+        "artificial intelligence",
+        "robotics",
+        "computer vision",
+        "cognitive modeling",
+        "trustworthy ai"
+      ]
+    },
+    {
+      "name": "Tim Groeling",
+      "summary": "Examines how journalistic norms of newsworthiness shape coverage of party conflict and presidential communication, and how the resulting party messages affect US public opinion.",
+      "summary_zh": "考察新闻价值规范如何塑造对政党内部冲突与总统传播的报道，以及由此产生的政党信息如何影响美国舆论。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "media bias",
+        "presidential communication",
+        "party cohesion",
+        "newsworthiness",
+        "partisan news",
+        "public opinion",
+        "unified government",
+        "political parties"
+      ]
+    },
+    {
+      "name": "Martie Haselton",
+      "summary": "Studies how evolution shapes the social mind, testing whether women's fertility cycles shift mating psychology and produce detectable cues, using photographs, vocal recordings, and body odor samples rated by others.",
+      "summary_zh": "研究进化如何塑造社会心智，检验女性生育周期是否改变择偶心理并产生可被察觉的线索，使用照片、声音录音和体味样本并由他人评分。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "evolutionary psychology",
+        "ovulation cues",
+        "mating psychology",
+        "intimate relationships",
+        "social endocrinology",
+        "sex differences",
+        "bias in social inference",
+        "vocal pitch"
+      ]
+    },
+    {
+      "name": "Homa Hosseinmardi",
+      "summary": "Studies how recommendation algorithms shape exposure to content such as radical YouTube videos, using large-scale behavioral data, counterfactual bots, and causal inference.",
+      "summary_zh": "研究推荐算法如何影响用户对YouTube激进内容等信息的接触，采用大规模行为数据、反事实机器人与因果推断方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ADMIN_LARGE_SCALE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "computational social science",
+        "youtube",
+        "recommender systems",
+        "algorithmic audits",
+        "counterfactual bots",
+        "radical content",
+        "causal inference",
+        "behavioral data mining"
+      ]
+    },
+    {
+      "name": "Kerri Johnson",
+      "summary": "Studies nonverbal visual communication and social categorization, pinpointing face and body cues with eye-tracking, 3D motion analysis, psychophysics, psychophysiology, and experiments.",
+      "summary_zh": "研究非语言视觉传播与社会分类，借助眼动追踪、三维动作分析、心理物理学、心理生理学与实验精确识别面部和身体线索。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "nonverbal communication",
+        "social vision",
+        "social categorization",
+        "body motion analysis",
+        "eye-tracking",
+        "3d motion capture",
+        "psychophysics",
+        "face perception",
+        "voice perception"
+      ]
+    },
+    {
+      "name": "Georgia Kernell",
+      "summary": "Studies how party organizations shape candidate strategies, representation, and electoral competition across democracies via formal theory, experiments, statistics, interviews, and coded party rules.",
+      "summary_zh": "研究政党组织如何影响各民主国家的候选人策略、代表性与选举竞争，采用形式理论、实验、统计、访谈及政党章程编码。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_EUROPE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "political parties",
+        "party organization",
+        "party strategy",
+        "voter behavior",
+        "electoral competition",
+        "formal theory",
+        "comparative politics",
+        "european politics",
+        "consumer sentiment"
+      ]
+    },
+    {
+      "name": "Elisa Kreiss",
+      "summary": "Studies how communicative context shapes language use, combining natural language processing, psycholinguistics, and HCI to generate image descriptions for blind and low-vision users.",
+      "summary_zh": "研究传播情境如何塑造语言使用，结合自然语言处理、心理语言学与人机交互，为盲人及低视力用户生成图像描述。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "natural language processing",
+        "image accessibility",
+        "alt text",
+        "image descriptions",
+        "blind and low vision users",
+        "psycholinguistics",
+        "human-computer interaction",
+        "communicative context"
+      ]
+    },
+    {
+      "name": "PJ Lamberson",
+      "summary": "Uses mathematical and computational modeling to study how ideas, technologies, and behaviors spread through social networks and how the wisdom of crowds aggregates information.",
+      "summary_zh": "运用数学与计算建模研究观念、技术与行为如何在社会网络中扩散，以及群体智慧如何聚合信息。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_NETWORK",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "social networks",
+        "diffusion",
+        "social influence",
+        "collective intelligence",
+        "wisdom of crowds",
+        "mathematical modeling",
+        "complex systems",
+        "computational communication"
+      ]
+    },
+    {
+      "name": "Stuart Soroka",
+      "summary": "Studies negativity in news coverage, how media inform publics about policy, and media effects on policy attitudes using surveys, automated content analysis, and psychophysiological experiments.",
+      "summary_zh": "研究新闻报道中的负面性、媒体如何向公众传递政策信息及其对政策态度的影响，采用调查、自动内容分析与心理生理实验。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "negativity bias",
+        "news coverage",
+        "public opinion",
+        "policy attitudes",
+        "automated content analysis",
+        "psychophysiology",
+        "immigration",
+        "political psychology",
+        "media effects"
+      ]
+    },
+    {
+      "name": "Steve Stroessner",
+      "summary": "Studies how social categories and stereotypes shape how people think about humans and non-humans, including basic shapes, voices, and robots.",
+      "summary_zh": "研究社会类别与刻板印象如何影响人们对人类及非人类对象（包括基本图形、声音与机器人）的认知。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "stereotyping",
+        "prejudice",
+        "social categorization",
+        "social cognition",
+        "human-robot interaction",
+        "human-machine interaction",
+        "voices",
+        "robots"
+      ]
+    },
+    {
+      "name": "Anne Warlaumont",
+      "summary": "Studies how infant vocalizations and speech emerge in typical and atypical development and how human vocal signals evolved, using computational modeling and naturalistic audio recordings.",
+      "summary_zh": "研究婴儿发声与言语如何在典型及非典型发展中出现、人类声音信号如何进化，采用计算建模与自然情境录音。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "infant vocal development",
+        "speech development",
+        "evolution of vocal signals",
+        "word learning",
+        "computational modeling",
+        "naturalistic audio recordings",
+        "atypical development",
+        "child language"
+      ]
+    },
+    {
+      "name": "Steve F. Anderson",
+      "summary": "Examines the history and culture of visual and digital media, from documentary and experimental history in film, TV, and games to data visualization and surveillance, as a scholar-practitioner.",
+      "summary_zh": "作为学者兼实践者，考察视觉与数字媒介的历史和文化，涵盖纪录片、影视与游戏中的实验性历史，以及数据可视化与监控。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "documentary",
+        "digital media",
+        "media history",
+        "data visualization",
+        "surveillance",
+        "technologies of vision",
+        "experimental history",
+        "digital games",
+        "visual culture"
+      ]
+    },
+    {
+      "name": "Shelleen Greene",
+      "summary": "Examines how Italian cinema represents mixed-race Italian and African subjects and shifting ideas of race and nation, alongside Black European and digital feminist studies.",
+      "summary_zh": "考察意大利电影如何再现意大利与非洲混血主体及种族与民族观念的变迁，并涉及欧洲黑人研究与数字女性主义研究。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_EUROPE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_AFRICA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "italian cinema",
+        "black european studies",
+        "mixed-race identity",
+        "race and nation",
+        "digital feminist studies",
+        "film representation",
+        "film studies"
+      ]
+    },
+    {
+      "name": "Denise R. Mann",
+      "summary": "Studies contemporary entertainment industry practices, Hollywood independents and media labor, and film and television history through production studies and feminist film theory.",
+      "summary_zh": "通过制作研究与女性主义电影理论，研究当代娱乐产业实践、好莱坞独立制片与媒体劳动以及影视历史。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "entertainment industry",
+        "hollywood independents",
+        "production studies",
+        "media industries",
+        "television history",
+        "feminist film theory",
+        "interactive television",
+        "female consumer"
+      ]
+    },
+    {
+      "name": "Sean Metzger",
+      "summary": "Examines how race, gender, and globalization interweave through visual culture, fashion, film, and performance across Asian American, Chinese, and Caribbean contexts.",
+      "summary_zh": "考察种族、性别与全球化如何通过视觉文化、时尚、电影与表演交织于亚裔美国、中国与加勒比语境之中。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_CHINA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "visual culture",
+        "asian american studies",
+        "chinese atlantic",
+        "caribbean studies",
+        "fashion",
+        "performance studies",
+        "sexuality studies",
+        "globalization"
+      ]
+    },
+    {
+      "name": "Chon A. Noriega",
+      "summary": "Studies Chicano/Latino arts and media through their aesthetic, social, and institutional histories, combining archival work, exhibition curation, and advocacy for media access.",
+      "summary_zh": "从美学、社会与制度史角度研究奇卡诺/拉丁裔艺术与媒体，结合档案整理、展览策划与媒体准入倡导。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "chicano media",
+        "latino media",
+        "latinx art",
+        "archiving",
+        "curation",
+        "media access",
+        "independent producers",
+        "institutional history"
+      ]
+    },
+    {
+      "name": "Veronica Paredes",
+      "summary": "Studies media histories, Latinx studies, and Los Angeles movie palaces and screen landmarks through feminist historiography and media-based organizing.",
+      "summary_zh": "通过女性主义史学与基于媒体的社群组织，研究媒介史、拉丁裔研究以及洛杉矶的老电影院与银幕地标。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "media history",
+        "los angeles historiography",
+        "movie palaces",
+        "screen landmarks",
+        "latinx studies",
+        "feminist media histories",
+        "zoot suit riots",
+        "media organizing"
+      ]
+    },
+    {
+      "name": "Kriss Ravetto-Biagioli",
+      "summary": "Examines European and Eastern European cinema, nationalism, violence, and trauma, as well as digital technologies, surveillance, and affect, through critical film and media theory.",
+      "summary_zh": "以批判性电影与媒介理论考察欧洲及东欧电影、民族主义、暴力与创伤，以及数字技术、监控与情动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_EUROPE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "european cinema",
+        "eastern european film",
+        "fascist aesthetics",
+        "digital uncanny",
+        "surveillance",
+        "affect theory",
+        "nationalism",
+        "trauma",
+        "technological unconscious"
+      ]
+    },
+    {
+      "name": "Ellen C. Scott",
+      "summary": "Studies film in African-American communities, Classical Hollywood censorship, and media's role in struggles for racial justice through historical and critical analysis.",
+      "summary_zh": "通过历史与批判性分析，研究非裔美国人社群中的电影、古典好莱坞审查制度以及媒体在种族正义斗争中的作用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "african american film history",
+        "classical hollywood",
+        "censorship",
+        "civil rights",
+        "black spectatorship",
+        "sound theory",
+        "slavery on screen",
+        "black women film critics"
+      ]
+    },
+    {
+      "name": "Jasmine Nadua Trice",
+      "summary": "Studies film aesthetics, industries, circulation, and audiences, especially Southeast Asian cinema and Manila's alternative film culture, through cultural studies and theories of space.",
+      "summary_zh": "借助文化研究与空间理论，研究电影美学、产业、流通与观众，尤其关注东南亚电影与马尼拉的另类电影文化。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_SOUTH_SE_ASIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "southeast asian cinema",
+        "manila",
+        "philippine cinema",
+        "film circulation",
+        "media piracy",
+        "film exhibition",
+        "production cultures",
+        "space and place"
+      ]
+    },
+    {
+      "name": "Amy Villarejo",
+      "summary": "Studies television history, queer and feminist media, and global and Third Cinema through critical theory and cultural criticism.",
+      "summary_zh": "以批判理论与文化批评研究电视史、酷儿与女性主义媒体以及全球电影与第三电影。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "queer cinema",
+        "television studies",
+        "feminist media studies",
+        "third cinema",
+        "critical theory",
+        "queer media",
+        "global cinema"
+      ]
+    }
+  ]
+}

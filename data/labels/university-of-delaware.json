@@ -1,0 +1,1095 @@
+{
+ "slug": "university-of-delaware",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "James Angelini",
+   "summary": "Studies cognitive, emotional, and physiological responses to televised sports and advertising, plus content analysis of sports commentary and food ads aimed at youth.",
+   "summary_zh": "研究观众观看电视体育与广告时的认知、情绪和生理反应，并对体育解说及面向青少年的食品广告进行内容分析。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_PHYSIO_NEURO",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_PHYSIO_LOG",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "televised sports",
+    "sports broadcasting",
+    "physiological responses",
+    "cognitive processing",
+    "emotional responses",
+    "sports commentary",
+    "gender and sports",
+    "food advertising",
+    "advertising to children"
+   ]
+  },
+  {
+   "name": "Amy Bleakley",
+   "summary": "Studies media effects on adolescent health behaviors and develops and evaluates theory-based health messages for youth.",
+   "summary_zh": "研究媒介对青少年健康行为的影响，并开发和评估基于理论的青少年健康信息。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "adolescent health",
+    "media effects",
+    "health behaviors",
+    "theory-based health messaging",
+    "message evaluation",
+    "youth and media",
+    "vaccine hesitancy",
+    "public health"
+   ]
+  },
+  {
+   "name": "Paul Brewer",
+   "summary": "Studies how news, entertainment, and social media messages shape public opinion on policy issues, including gay rights, and public perceptions of science.",
+   "summary_zh": "研究新闻、娱乐和社交媒体信息如何塑造公众对政策议题（包括同性恋权利）的舆论以及公众对科学的认知。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "public opinion",
+    "political communication",
+    "science communication",
+    "public perceptions of science",
+    "gay rights",
+    "entertainment media",
+    "news effects",
+    "social media"
+   ]
+  },
+  {
+   "name": "Scott Caplan",
+   "summary": "Studies problematic internet use and online interpersonal behavior, building a cognitive-behavioral model and the GPIUS2 measurement scale.",
+   "summary_zh": "研究问题性网络使用与线上人际行为，构建认知行为模型并开发GPIUS2测量量表。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "problematic internet use",
+    "gpius2",
+    "scale development",
+    "internet addiction",
+    "gaming addiction",
+    "cyberbullying",
+    "online infidelity",
+    "computer-mediated communication",
+    "cognitive behavioral model"
+   ]
+  },
+  {
+   "name": "John P. Crowley",
+   "summary": "Studies how interpersonal communication such as social support, disclosure, and forgiveness helps people cope with discrimination, using biosocial and physiological methods.",
+   "summary_zh": "运用生物社会与生理测量方法，研究社会支持、自我披露和宽恕等人际传播如何帮助人们应对歧视与伤害性沟通。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_PHYSIO_NEURO",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_PHYSIO_LOG",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "physiology of interpersonal communication",
+    "biosocial models",
+    "social support",
+    "forgiveness",
+    "disclosure",
+    "discrimination",
+    "resilience",
+    "coping",
+    "hurtful communication",
+    "stress"
+   ]
+  },
+  {
+   "name": "Morgan Ellithorpe",
+   "summary": "Studies media psychology and how people strategically use media, including social media and AI chatbots, for mental and physical well-being, plus enjoyment of characters.",
+   "summary_zh": "研究媒介心理学，关注人们如何策略性地使用媒介（含社交媒体和AI聊天机器人）促进身心健康，以及对媒介角色的喜爱与投入。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "media psychology",
+    "media use and well-being",
+    "mental health",
+    "media enjoyment",
+    "character involvement",
+    "adolescent health",
+    "social media",
+    "obesity",
+    "ai chatbot"
+   ]
+  },
+  {
+   "name": "Andrew Gambino",
+   "summary": "Studies human relationships with media, media agents, and machines, including AI, immersive media, and privacy, drawing on embodied cognition and computational approaches.",
+   "summary_zh": "研究人与媒介、媒介代理及机器（含人工智能、沉浸式媒介与隐私）的关系，借鉴具身认知理论和计算方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "human-machine communication",
+    "artificial intelligence",
+    "immersive media",
+    "media agents",
+    "internet privacy",
+    "embodied cognition",
+    "extended cognition",
+    "human-media relationship"
+   ]
+  },
+  {
+   "name": "Lindsay Hoffman",
+   "summary": "Studies political communication, civic engagement, polarization, incivility, and generative AI in politics using surveys, experiments, and content analysis.",
+   "summary_zh": "运用调查、实验和内容分析，研究政治传播、公民参与、极化、网络不文明及生成式AI对政治的影响。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "civic engagement",
+    "polarization",
+    "online incivility",
+    "civil discourse",
+    "democratic well-being",
+    "generative ai",
+    "public opinion",
+    "political discussion"
+   ]
+  },
+  {
+   "name": "Tracey Quigley Holden",
+   "summary": "Studies rhetoric and public address of the American military and military dissent, along with organizational and political communication, social movements, and leadership.",
+   "summary_zh": "研究美国军队与军中异议的修辞和公共演说，以及组织与政治传播、社会运动和领导力。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "rhetoric and public address",
+    "military dissent",
+    "vietnam war",
+    "american military",
+    "social movements",
+    "civic engagement",
+    "leadership",
+    "business communication"
+   ]
+  },
+  {
+   "name": "Jennifer Lambe",
+   "summary": "Studies freedom of expression, media ethics, and media accountability, examining public opinion on censorship, hate speech, and net neutrality and measuring willingness to censor.",
+   "summary_zh": "研究言论自由、媒介伦理与媒介问责，考察公众对审查、仇恨言论和网络中立的态度，并改进审查意愿的测量。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "freedom of expression",
+    "first amendment",
+    "media ethics",
+    "media accountability",
+    "hate speech",
+    "censorship",
+    "net neutrality",
+    "campaign finance",
+    "media law"
+   ]
+  },
+  {
+   "name": "Steven Mortenson",
+   "summary": "Studies how culture shapes the ways people communicate about and cope with difficult emotions, focusing on emotional support in interpersonal relationships.",
+   "summary_zh": "研究文化如何影响人们沟通和应对负面情绪，聚焦人际关系中的情感支持。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "emotional support",
+    "social support",
+    "culture and emotion",
+    "coping",
+    "intercultural communication",
+    "emotional distress",
+    "social construction of reality"
+   ]
+  },
+  {
+   "name": "Emily Pfender",
+   "summary": "Studies misinformation about women's health on social media, including contraception, cycle syncing, pregnancy, preeclampsia, and menopause, and its effects on health beliefs.",
+   "summary_zh": "研究社交媒体上关于女性健康（避孕、周期同步、妊娠、子痫前期、更年期）的虚假信息及其对健康信念的影响。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "women's health",
+    "health misinformation",
+    "contraception",
+    "cycle syncing",
+    "pregnancy",
+    "preeclampsia",
+    "menopause",
+    "social media influencers",
+    "online health information"
+   ]
+  },
+  {
+   "name": "Kami Silk",
+   "summary": "Studies effective health messaging for lay publics on breast cancer and environmental risk, suicide prevention, social norms, and nutrition among adolescent mothers.",
+   "summary_zh": "研究面向普通公众的有效健康信息传播，涉及乳腺癌与环境风险、自杀预防、社会规范及青少年母亲营养。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "breast cancer risk reduction",
+    "environmental health",
+    "suicide prevention",
+    "social norms",
+    "nutrition",
+    "adolescent mothers",
+    "obesity prevention",
+    "health outreach"
+   ]
+  },
+  {
+   "name": "Xi Tian",
+   "summary": "Studies supportive communication that fosters psychological and physical health after major stressors such as pregnancy loss and bereavement.",
+   "summary_zh": "研究在妊娠丢失、丧亲等重大生活压力事件后，支持性沟通如何促进心理和身体健康。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "supportive communication",
+    "social support",
+    "pregnancy loss",
+    "bereavement",
+    "grief",
+    "life stressors",
+    "psychological health"
+   ]
+  },
+  {
+   "name": "Lydia Timmins",
+   "summary": "Studies local television news and its impact on audiences, news media ethics, digital convergence, and telepresence.",
+   "summary_zh": "研究地方电视新闻及其对受众的影响、新闻媒介伦理、数字融合与远程临场感。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "local television news",
+    "news audiences",
+    "news media ethics",
+    "digital convergence",
+    "telepresence",
+    "broadcast journalism"
+   ]
+  },
+  {
+   "name": "Dan Totzkay",
+   "summary": "Studies strategic health message design and persuasion, using communication theory to understand health decisions and equip health professionals and community champions.",
+   "summary_zh": "研究战略性健康信息设计与说服，运用传播理论理解人们的健康决策，并助力医疗专业人员和社区倡导者有效沟通。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "health message design",
+    "persuasion",
+    "strategic health communication",
+    "health decision-making",
+    "health professionals",
+    "community champions",
+    "communication theory",
+    "prosocial communication"
+   ]
+  },
+  {
+   "name": "Dannagal G. Young",
+   "summary": "Studies political media effects, public opinion, and the psychology of political satire, humor, irony, and outrage.",
+   "summary_zh": "研究政治媒介效果、舆论，以及政治讽刺、幽默、反讽与愤怒情绪背后的心理机制。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "political satire",
+    "political humor",
+    "irony",
+    "outrage",
+    "political media effects",
+    "public opinion",
+    "political psychology"
+   ]
+  }
+ ]
+}

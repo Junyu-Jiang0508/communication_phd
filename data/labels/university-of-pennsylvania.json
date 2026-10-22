@@ -156,8 +156,8 @@
     },
     {
       "name": "Damon Centola",
-      "summary": "Studies how behaviors and innovations spread through social networks, using online network experiments and agent-based modeling to explain collective intelligence and behavior change.",
-      "summary_zh": "研究行为与创新如何在社会网络中扩散，运用在线网络实验和基于主体的建模解释集体智慧与行为改变。",
+      "summary": "Studies how behaviors and innovations spread through social networks, using network analysis and agent-based modeling to explain collective intelligence and behavior change.",
+      "summary_zh": "研究行为与创新如何在社会网络中扩散，运用网络分析和基于主体的建模解释集体智慧与行为改变。",
       "confidence": "high",
       "labels": {
         "topic": [
@@ -192,13 +192,6 @@
             ]
           },
           {
-            "code": "A_EXPERIMENT",
-            "primary": true,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
             "code": "A_COMPUTATIONAL",
             "primary": false,
             "sources": [
@@ -206,15 +199,7 @@
             ]
           }
         ],
-        "data": [
-          {
-            "code": "D_SURVEY_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "data": [],
         "setting": [
           {
             "code": "SET_PLATFORMS",
@@ -232,7 +217,7 @@
         "complex contagion",
         "collective intelligence",
         "behavior change",
-        "network experiments",
+        "online networks",
         "agent-based modeling",
         "netlogo"
       ]
@@ -264,19 +249,19 @@
             "sources": [
               "department_profile"
             ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
           }
         ],
         "approach": [
           {
             "code": "A_PHYSIO_NEURO",
             "primary": true,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
-            "code": "A_EXPERIMENT",
-            "primary": false,
             "sources": [
               "department_profile"
             ]
@@ -296,13 +281,6 @@
             "sources": [
               "department_profile"
             ]
-          },
-          {
-            "code": "D_SURVEY_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
           }
         ],
         "setting": [
@@ -318,7 +296,7 @@
       },
       "keywords": [
         "communication neuroscience",
-        "fmri",
+        "neuroscience of choice",
         "persuasion",
         "behavior change",
         "information sharing",
@@ -469,13 +447,6 @@
             "sources": [
               "department_profile"
             ]
-          },
-          {
-            "code": "D_ADMIN_LARGE_SCALE",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
           }
         ],
         "setting": [
@@ -530,6 +501,13 @@
           },
           {
             "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
             "primary": false,
             "sources": [
               "department_profile"
@@ -698,13 +676,6 @@
           },
           {
             "code": "A_HISTORICAL_ARCHIVAL",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
-            "code": "A_CONTENT_ANALYSIS",
             "primary": false,
             "sources": [
               "department_profile"
@@ -903,6 +874,13 @@
             "sources": [
               "department_profile"
             ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
           }
         ],
         "approach": [
@@ -1079,31 +1057,8 @@
             ]
           }
         ],
-        "approach": [
-          {
-            "code": "A_SURVEY",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
-            "code": "A_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
-        "data": [
-          {
-            "code": "D_SURVEY_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "approach": [],
+        "data": [],
         "setting": [
           {
             "code": "SET_AUDIENCES_PUBLICS",
@@ -1151,16 +1106,14 @@
             "code": "T_PLATFORMS_AI",
             "primary": true,
             "sources": [
-              "department_profile",
-              "publications"
+              "department_profile"
             ]
           },
           {
             "code": "T_CRITICAL_CULTURAL",
             "primary": true,
             "sources": [
-              "department_profile",
-              "publications"
+              "department_profile"
             ]
           }
         ],
@@ -1248,6 +1201,13 @@
           },
           {
             "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
             "primary": false,
             "sources": [
               "department_profile"
@@ -1413,31 +1373,8 @@
             ]
           }
         ],
-        "approach": [
-          {
-            "code": "A_SURVEY",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
-            "code": "A_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
-        "data": [
-          {
-            "code": "D_SURVEY_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "approach": [],
+        "data": [],
         "setting": [
           {
             "code": "SET_AUDIENCES_PUBLICS",
@@ -1588,6 +1525,13 @@
           },
           {
             "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
             "primary": false,
             "sources": [
               "department_profile"
@@ -1812,6 +1756,13 @@
           },
           {
             "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
             "primary": false,
             "sources": [
               "department_profile"

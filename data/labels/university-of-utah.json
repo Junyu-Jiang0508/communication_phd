@@ -1,0 +1,2363 @@
+{
+  "slug": "university-of-utah",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "LaRisa Anderson-Horne",
+      "summary": "Studies relationships among religion, media, race, and technoculture, using interviews, textual analysis, digital ethnography, and text mining.",
+      "summary_zh": "研究宗教、媒介、种族与技术文化之间的关系，采用访谈、文本分析、数字民族志和文本挖掘方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "religion and media",
+        "digital black religion",
+        "religious deconstruction",
+        "race",
+        "technoculture",
+        "digital ethnography",
+        "text mining",
+        "black studies"
+      ]
+    },
+    {
+      "name": "Mark Bergstrom",
+      "summary": "Works in health and science communication, research methods and ethics, and rhetoric and communication theory, alongside environmental humanities leadership.",
+      "summary_zh": "从事健康与科学传播、研究方法与伦理以及修辞与传播理论研究，并主持环境人文学科工作。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "health communication",
+        "science communication",
+        "environmental humanities",
+        "research ethics",
+        "rhetoric",
+        "communication theory"
+      ]
+    },
+    {
+      "name": "Suhi Choi",
+      "summary": "Studies collective memory, trauma, and mourning around the Korean War by critically analyzing memorials, media narratives, and rituals at memorial sites.",
+      "summary_zh": "通过批判性分析纪念碑、媒介叙事和纪念场所的仪式，研究围绕朝鲜战争的集体记忆、创伤与哀悼。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_EAST_ASIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "collective memory",
+        "korean war",
+        "war memorials",
+        "trauma",
+        "mourning",
+        "public memory",
+        "veterans",
+        "medical humanities"
+      ]
+    },
+    {
+      "name": "Kevin Coe",
+      "summary": "Studies political communication, news media, and public opinion, including presidential communication, religion in politics, and online incivility, mainly through content analysis.",
+      "summary_zh": "研究政治传播、新闻媒体与舆论，包括总统传播、政治中的宗教与网络不文明言论，主要采用内容分析方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "presidential communication",
+        "religion and politics",
+        "news values",
+        "gun violence coverage",
+        "incivility",
+        "content analysis",
+        "public opinion",
+        "digital democracy"
+      ]
+    },
+    {
+      "name": "Kevin M. DeLuca",
+      "summary": "Studies how communication technologies mediate relations with nature, analyzing visual rhetoric, image events, and environmental activism in the U.S. and China.",
+      "summary_zh": "研究传播技术如何中介人与自然的关系，分析美国与中国环境运动中的视觉修辞、图像事件与行动主义。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_CHINA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "environmental activism",
+        "image events",
+        "visual rhetoric",
+        "wilderness",
+        "public screens",
+        "environmental movement",
+        "social media activism",
+        "china civil society"
+      ]
+    },
+    {
+      "name": "Danielle Endres",
+      "summary": "Studies the rhetoric of environmental and science controversies such as nuclear waste siting and energy transitions, centering Indigenous advocacy through participatory critical rhetoric.",
+      "summary_zh": "研究核废料选址与能源转型等环境和科学争议中的修辞，以参与式批判修辞关注原住民的倡导实践。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "environmental communication",
+        "indigenous communication",
+        "nuclear waste siting",
+        "energy justice",
+        "environmental justice",
+        "participatory critical rhetoric",
+        "climate change",
+        "energy democracy",
+        "puerto rico"
+      ]
+    },
+    {
+      "name": "Glen M. Feighery",
+      "summary": "Studies the historical relationship between newspapers and communities in the American West, including Japanese American incarceration camp newspapers, through archival research.",
+      "summary_zh": "通过档案研究探讨美国西部报纸与社区之间的历史关系，包括日裔美国人拘留营中的报纸。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "journalism history",
+        "newspapers and community",
+        "american west",
+        "japanese american incarceration",
+        "topaz times",
+        "war correspondence",
+        "environmental news coverage",
+        "censorship"
+      ]
+    },
+    {
+      "name": "Isabelle Freiling",
+      "summary": "Studies media use and effects in science and political communication, focusing on social media misinformation, public perceptions of science, AI, and open science.",
+      "summary_zh": "研究科学与政治传播中的媒介使用与效果，聚焦社交媒体虚假信息、公众对科学的认知、人工智能与开放科学。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "science communication",
+        "misinformation",
+        "social media",
+        "public engagement with science",
+        "open science",
+        "ai and science",
+        "covid-19 misperceptions",
+        "media effects",
+        "citizen science"
+      ]
+    },
+    {
+      "name": "Logan Gomez",
+      "summary": "Works in critical race, feminist, and cultural studies, rhetoric, and social movements, including reflections on critical pedagogy and classroom tension.",
+      "summary_zh": "从事批判种族、女性主义与文化研究、修辞及社会运动研究，并反思批判教学与课堂张力。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "critical race studies",
+        "feminist studies",
+        "rhetoric",
+        "social movements",
+        "critical pedagogy",
+        "classroom tension"
+      ]
+    },
+    {
+      "name": "Rachel Alicia Griffin",
+      "summary": "Studies race, gender, and mediated culture through Black feminist critique and autoethnography, examining popular music, film, and gendered violence.",
+      "summary_zh": "通过黑人女性主义批判与自我民族志研究种族、性别与媒介文化，考察流行音乐、电影与性别暴力。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "black feminist thought",
+        "autoethnography",
+        "critical race studies",
+        "men's violence against women",
+        "black panther",
+        "angry black woman",
+        "popular culture",
+        "identity"
+      ]
+    },
+    {
+      "name": "Jun Heo",
+      "summary": "Studies advertising effectiveness, including native ads, social media ad personalization, sponsorship, and CSR messages, including eye-tracking research on ad perception.",
+      "summary_zh": "研究广告效果，包括原生广告、社交媒体广告个性化、赞助与企业社会责任信息，并包含关于广告感知的眼动追踪研究。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "native advertising",
+        "social media advertising",
+        "ad personalization",
+        "eye-tracking",
+        "sponsorship",
+        "csr messages",
+        "advertising effectiveness",
+        "attention"
+      ]
+    },
+    {
+      "name": "Leandra Hernandez",
+      "summary": "Studies Latina/o/x/e health experiences and media representations of reproductive justice and gendered violence using Chicana feminist and qualitative approaches.",
+      "summary_zh": "运用奇卡纳女性主义与质性方法，研究拉丁裔群体的健康经验以及生殖正义与性别暴力的媒介再现。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "latinx health",
+        "reproductive justice",
+        "gendered violence",
+        "chicana feminism",
+        "health communication",
+        "media representation",
+        "queer feminist",
+        "latinx journalism"
+      ]
+    },
+    {
+      "name": "Daniel Hernandez",
+      "summary": "Studies global Indigeneities, kava, popular music, and eco/food justice through Indigenous relational ethics, community research, and critical cultural theory.",
+      "summary_zh": "以原住民关系伦理、社区研究与批判文化理论，研究全球原住民性、卡瓦、流行音乐与生态/食物正义。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "indigenous communication",
+        "global indigeneities",
+        "kava",
+        "pacific islands",
+        "maya",
+        "food justice",
+        "popular music",
+        "place-based pedagogy",
+        "tongan relational knowledge"
+      ]
+    },
+    {
+      "name": "Avery Holton",
+      "summary": "Works in journalism studies and health communication, including digital and screen media and mental health contexts.",
+      "summary_zh": "从事新闻学与健康传播研究，涉及数字与屏幕媒介以及心理健康情境。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "journalism studies",
+        "health communication",
+        "mental health",
+        "digital media",
+        "public health",
+        "journalism education"
+      ]
+    },
+    {
+      "name": "Chris Ingraham",
+      "summary": "Studies rhetoric, affect theory, and media theory, examining ecological thinking, mobile and streaming media, and immersive VR storytelling through humanistic theorizing.",
+      "summary_zh": "以人文理论路径研究修辞、情动理论与媒介理论，考察生态思维、移动与流媒体以及沉浸式VR叙事。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "affect theory",
+        "media theory",
+        "ecological rhetoric",
+        "elemental media",
+        "streaming media",
+        "mobile media",
+        "virtual reality",
+        "immersive storytelling",
+        "rhetorical climatology"
+      ]
+    },
+    {
+      "name": "Jakob D. Jensen",
+      "summary": "Studies strategic communication of health information to the public, especially cancer, designing and evaluating screening campaigns and interventions with public health departments.",
+      "summary_zh": "研究面向公众的健康信息战略传播，尤其是癌症领域，与公共卫生部门合作设计和评估筛查宣传与干预项目。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "health communication",
+        "cancer communication",
+        "cancer screening",
+        "health campaigns",
+        "colorectal cancer",
+        "breast cancer",
+        "intervention evaluation",
+        "risk communication"
+      ]
+    },
+    {
+      "name": "Robin E. Jensen",
+      "summary": "Studies historical and contemporary rhetoric of health, science, sex, and gender, especially reproductive health, infertility, and sex education, through rhetorical and archival analysis.",
+      "summary_zh": "通过修辞与档案分析，研究有关健康、科学、性与性别的历史和当代话语，尤其是生殖健康、不孕与性教育。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "rhetoric of health",
+        "reproductive health",
+        "infertility",
+        "sex education",
+        "gynecology",
+        "history of medicine",
+        "chemical rhetoric",
+        "contraception",
+        "gender"
+      ]
+    },
+    {
+      "name": "Kimberly Kaphingst",
+      "summary": "Studies cancer genetic risk communication, health literacy, and informed consent, developing and testing digital health tools such as chatbots for patients.",
+      "summary_zh": "研究癌症遗传风险传播、健康素养与知情同意，开发并测试面向患者的聊天机器人等数字健康工具。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "cancer communication",
+        "genetic risk information",
+        "genetic literacy",
+        "health literacy",
+        "informed consent",
+        "digital health",
+        "chatbots",
+        "clinical trials",
+        "return of genetic results"
+      ]
+    },
+    {
+      "name": "Andy King",
+      "summary": "Studies cancer and public health communication, including treatment misinformation, generative AI imagery, LLM-based interventions, and decision aids tested in randomized studies.",
+      "summary_zh": "研究癌症与公共卫生传播，包括治疗相关虚假信息、生成式AI图像、基于大语言模型的干预以及经随机研究检验的决策辅助工具。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "cancer communication",
+        "health misinformation",
+        "generative ai",
+        "large language models",
+        "visual health information",
+        "values-clarification tool",
+        "older adults",
+        "public health interventions"
+      ]
+    },
+    {
+      "name": "Sean T. Lawson",
+      "summary": "Studies cybersecurity discourse and the history of cyberwarfare, analyzing cyber-doom rhetoric, influence operations, and fears of technology out of control.",
+      "summary_zh": "研究网络安全话语与网络战的历史，分析“网络末日”修辞、影响力行动以及对技术失控的恐惧。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "cybersecurity",
+        "cyberwarfare",
+        "cyber-doom rhetoric",
+        "influence operations",
+        "social engineering",
+        "national security",
+        "technology fears",
+        "science and technology studies"
+      ]
+    },
+    {
+      "name": "Tae Kyoung Lee",
+      "summary": "Studies health message processing and persuasion, including message framing, narrative persuasion, HPV and COVID-19 vaccination, and online peer support among cancer survivors.",
+      "summary_zh": "研究健康信息加工与说服，包括信息框架、叙事说服、HPV与新冠疫苗接种以及癌症幸存者的线上同伴互动。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "message framing",
+        "narrative persuasion",
+        "prospect theory",
+        "hpv messages",
+        "covid-19 vaccination",
+        "cancer survivors",
+        "knowledge gap",
+        "patient-centered communication"
+      ]
+    },
+    {
+      "name": "Rachel Lim",
+      "summary": "Studies how persuasive strategic communication, including AI-generated content, virtual influencers, and brand advocacy, shapes trust, attitudes, and behavior, drawing on consumer psychology.",
+      "summary_zh": "借鉴消费者心理学，研究AI生成内容、虚拟网红与品牌倡导等说服性战略传播如何影响信任、态度与行为。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "persuasion",
+        "virtual influencers",
+        "ai-generated content",
+        "corporate social responsibility",
+        "brand advocacy",
+        "consumer psychology",
+        "trust",
+        "authenticity",
+        "energy technologies"
+      ]
+    },
+    {
+      "name": "Crystal Lumpkins",
+      "summary": "Studies community-engaged health communication, including sharing hereditary cancer risk information in African American communities and patient-centered outcomes research.",
+      "summary_zh": "研究社区参与式健康传播，包括在非裔美国人社区中传播遗传性癌症风险信息以及以患者为中心的结局研究。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "community-engaged research",
+        "hereditary cancer risk",
+        "african american communities",
+        "communication asset mapping",
+        "cancer centers",
+        "patient-centered outcomes",
+        "genetic counseling",
+        "health equity"
+      ]
+    },
+    {
+      "name": "Benjamin Lyons",
+      "summary": "Studies misinformation, overconfidence, and public understanding of science and politics, including older adults' exposure to low-credibility online content and climate beliefs.",
+      "summary_zh": "研究虚假信息、过度自信以及公众对科学与政治的理解，包括老年人接触低可信度网络内容以及气候信念。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "misinformation",
+        "overconfidence",
+        "older adults",
+        "climate beliefs",
+        "public understanding of science",
+        "low-credibility content",
+        "vaccine attitudes",
+        "second-order beliefs"
+      ]
+    },
+    {
+      "name": "Michael Middleton",
+      "summary": "Studies rhetoric, argumentation, and public discourse in political advocacy and social movements, including homeless communities' democratic participation and academic freedom.",
+      "summary_zh": "研究政治倡导与社会运动中的修辞、论辩与公共话语，包括无家可归群体的民主参与以及学术自由。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "argumentation",
+        "public discourse",
+        "social movements",
+        "homelessness",
+        "academic freedom",
+        "civic discourse",
+        "competitive debate",
+        "pedagogy"
+      ]
+    },
+    {
+      "name": "Jacob Nelson",
+      "summary": "Studies the relationship between journalism and the public, including how journalists imagine audiences, audience engagement strategies, and transparency in news organizations.",
+      "summary_zh": "研究新闻业与公众的关系，包括记者如何想象受众、受众参与策略以及新闻机构的透明度。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "imagined audiences",
+        "audience engagement",
+        "engaged journalism",
+        "news audiences",
+        "metajournalism",
+        "capital transparency",
+        "journalism and the public",
+        "jewish press"
+      ]
+    },
+    {
+      "name": "Kent Alan Ono",
+      "summary": "Studies representations of race, gender, sexuality, class, and nation in print, film, and television, including Asian American media and immigration rhetoric, through critical analysis.",
+      "summary_zh": "通过批判分析研究印刷、电影与电视中对种族、性别、性向、阶级与国族的再现，包括亚裔美国人媒介与移民修辞。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "asian americans and media",
+        "critical rhetorics of race",
+        "immigration rhetoric",
+        "proposition 187",
+        "colonialism",
+        "film and television",
+        "representation",
+        "star trek"
+      ]
+    },
+    {
+      "name": "Helene Shugart",
+      "summary": "Studies cultural discourses of health, especially obesity, combining rhetorical, media, and cultural studies to critique health campaigns and neoliberal discourse.",
+      "summary_zh": "结合修辞、媒介与文化研究，探讨健康尤其是肥胖相关的文化话语，批判健康宣传与新自由主义话语。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "obesity",
+        "cultural discourse",
+        "health campaigns",
+        "neoliberalism",
+        "authenticity",
+        "rhetorical criticism",
+        "media studies"
+      ]
+    },
+    {
+      "name": "Liahnna Stanley",
+      "summary": "Studies Indigenous queer and feminist thought, Black-Indigenous relations, and speculative media and futurisms, analyzing Indigenous storytelling through rhetorical criticism.",
+      "summary_zh": "研究原住民酷儿与女性主义思想、黑人与原住民关系以及思辨媒介与未来主义，以修辞批评分析原住民叙事。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "indigenous studies",
+        "indigenous futurisms",
+        "queer indigenous studies",
+        "black-indigenous relations",
+        "speculative media",
+        "rhetorical criticism",
+        "storytelling",
+        "kinship"
+      ]
+    },
+    {
+      "name": "David J. Vergobbi",
+      "summary": "Studies mass communication law, freedom of expression, media ethics, and journalism history.",
+      "summary_zh": "研究大众传播法、表达自由、媒介伦理与新闻史。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "mass communication law",
+        "freedom of expression",
+        "media ethics",
+        "journalism history",
+        "free speech",
+        "campus speech"
+      ]
+    },
+    {
+      "name": "Haoning Xue",
+      "summary": "Studies health and AI-mediated communication, including chatbots that correct contraceptive misinformation, computational modeling of short-video features, and trust in AI.",
+      "summary_zh": "研究健康与AI中介传播，包括纠正避孕虚假信息的聊天机器人、短视频特征的计算建模以及对AI的信任。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "ai chatbots",
+        "misinformation correction",
+        "contraception",
+        "message sensation value",
+        "short video",
+        "multimodal features",
+        "trust in ai",
+        "health communication"
+      ]
+    },
+    {
+      "name": "Sara K. Yeo",
+      "summary": "Studies strategic science and risk communication, public opinion on STEM issues, and information seeking and processing, including AI, climate anxiety, and the deficit model.",
+      "summary_zh": "研究战略性科学与风险传播、公众对STEM议题的看法以及信息寻求与加工，涉及人工智能、气候焦虑与缺失模型。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "science communication",
+        "risk communication",
+        "public opinion of science",
+        "information seeking",
+        "climate anxiety",
+        "deficit model",
+        "artificial intelligence",
+        "energy policy"
+      ]
+    }
+  ]
+}

@@ -38,13 +38,6 @@
       "sources": [
        "department_profile"
       ]
-     },
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
      }
     ],
     "data": [
@@ -257,8 +250,8 @@
   },
   {
    "name": "Lily Hope Chumley",
-   "summary": "Studies art education, creative labor, design, and aesthetic value in postsocialist China through anthropological and semiotic fieldwork.",
-   "summary_zh": "通过人类学与符号学田野研究，考察后社会主义中国的艺术教育、创意劳动、设计与审美价值。",
+   "summary": "Studies art education, creative labor, design, and aesthetic value in postsocialist China through anthropological and semiotic analysis.",
+   "summary_zh": "通过人类学与符号学分析，考察后社会主义中国的艺术教育、创意劳动、设计与审美价值。",
    "confidence": "medium",
    "labels": {
     "topic": [
@@ -286,15 +279,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_INTERVIEWS_FIELD",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_YOUTH_EDUCATION",
@@ -388,13 +373,6 @@
      },
      {
       "code": "SET_ELECTIONS_GOVERNMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
       "primary": false,
       "sources": [
        "department_profile"
@@ -617,15 +595,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_MARGINALIZED_COMMUNITIES",
@@ -716,8 +686,8 @@
   },
   {
    "name": "Lisa Gitelman",
-   "summary": "Studies media history, American book history, and techniques of inscription, tracing how new media and documents become meaningful against older media through archival research.",
-   "summary_zh": "以档案研究考察媒介史、美国书籍史与书写技术，追溯新媒介与文献如何在旧媒介语境中获得意义。",
+   "summary": "Studies media history, American book history, and techniques of inscription, tracing how new media and documents become meaningful against older media.",
+   "summary_zh": "研究媒介史、美国书籍史与书写技术，追溯新媒介与文献如何在旧媒介语境中获得意义。",
    "confidence": "high",
    "labels": {
     "topic": [
@@ -985,6 +955,13 @@
       "sources": [
        "department_profile"
       ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
      }
     ],
     "region": []
@@ -1166,25 +1143,11 @@
       "sources": [
        "department_profile"
       ]
-     },
-     {
-      "code": "A_CONTENT_ANALYSIS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
      }
     ],
     "data": [
      {
       "code": "D_ARCHIVES_TEXTS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_NEWS_CONTENT",
       "primary": false,
       "sources": [
        "department_profile"
@@ -1430,8 +1393,8 @@
   },
   {
    "name": "Susan Murray",
-   "summary": "Studies the history of television and post-war US technology, design, and industry, including color TV and closed-circuit television as infrastructure, through archival research.",
-   "summary_zh": "以档案研究考察电视史及战后美国的技术、设计与产业，包括彩色电视以及作为基础设施的闭路电视。",
+   "summary": "Studies the history of television and post-war US technology, design, and industry, including color TV and closed-circuit television as infrastructure, as a media historian.",
+   "summary_zh": "作为媒介史学者，考察电视史及战后美国的技术、设计与产业，包括彩色电视以及作为基础设施的闭路电视。",
    "confidence": "high",
    "labels": {
     "topic": [
@@ -1683,31 +1646,8 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_CONTENT_ANALYSIS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "approach": [],
+    "data": [],
     "setting": [
      {
       "code": "SET_NEWSROOMS_MEDIA_ORGS",
@@ -1785,16 +1725,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_AUDIENCES_PUBLICS",
@@ -2075,15 +2006,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_SOCIAL_MOVEMENTS",
@@ -2253,6 +2176,13 @@
       "sources": [
        "department_profile",
        "publications"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
       ]
      }
     ],

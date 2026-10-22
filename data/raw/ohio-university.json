@@ -1,0 +1,931 @@
+{
+ "university": "Ohio University",
+ "slug": "ohio-university",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "School of Communication Studies",
+   "school": "Scripps College of Communication",
+   "directory_url": "https://www.ohio.edu/scripps-college/comm-studies/about/faculty-student",
+   "phd_program_url": "https://www.ohio.edu/scripps-college/comm-studies/phd",
+   "phd_program_name": "Ph.D. in Communication Studies",
+   "notes": "School page lists Athens Campus Faculty (asterisk = graduate faculty) and Regional Campus Faculty with names linked to ohio.edu/directory profiles; ranks taken from profile pages. Regional-campus tenure-line faculty included and flagged in notes."
+  },
+  {
+   "name": "E.W. Scripps School of Journalism",
+   "school": "Scripps College of Communication",
+   "directory_url": "https://www.ohio.edu/scripps-college/journalism/about/faculty-staff",
+   "phd_program_url": "https://www.ohio.edu/scripps-college/academics/graduate/ph-d-mass-communication",
+   "phd_program_name": "Ph.D. in Mass Communication (Journalism concentration; joint with School of Media Arts & Studies)",
+   "notes": "Single page of directory cards (name + title linked to ohio.edu/directory profiles); emeriti on a separate page and not scraped."
+  },
+  {
+   "name": "School of Media Arts and Studies",
+   "school": "Scripps College of Communication",
+   "directory_url": "https://www.ohio.edu/scripps-college/media-arts-studies/faculty-staff",
+   "phd_program_url": "https://www.ohio.edu/scripps-college/academics/graduate/ph-d-mass-communication",
+   "phd_program_name": "Ph.D. in Mass Communication (Media Arts & Studies concentration; joint with E.W. Scripps School of Journalism)",
+   "notes": "Single page of directory cards with an Emeriti section (excluded). Unit also houses MFA/production faculty; all tenure-line ranks included regardless of research vs production focus."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Roger Aden",
+   "title": "Charles E. Zumkehr Professor of Speech Communication",
+   "rank": "Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/roger-aden",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2020-02/aden.jpg?h=fd4e4006&itok=mhUP1Pm1",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Roger C. Aden is a Charles E. Zumkehr Professor in the School of Communication Studies at Ohio University. His research integrates rhetorical and qualitative methods of research to examine the meanings of places as they are rhetorically constructed and interpreted. He is the editor of U.S. Public Memory, Rhetoric, Nationhood, and the National Mall as well as Rhetorics Haunting the National Mall: Displaced and Ephemeral Public Memories. He is the author of four other books— Childhood Memory Spaces: How Enduring Memories of Childhood Places Shape Our Lives; Upon the Ruins of Liberty: Slavery, the President’s House at Independence National Historical Park, and Public Memory; Huskerville: A Story of Nebraska Football, Fans, and the Power of Place; and Popular Stories & Promised Lands: Fan Cultures & Symbolic Pilgrimages— and numerous articles in academic journals that examine the relationships between memory and place.\nView Roger Aden's current work, under the auspices of the Charles E. Zumkehr Professorship",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jonathan Baker",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/jonathan-baker",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2026-03/jtbaker1.png?itok=Ct8gXTDd",
+   "google_scholar_url": "https://scholar.google.com/citations?user=EmX5OC8AAAAJ&hl=en&inst=12255093297393838025",
+   "research_areas": [
+    "Communication and structural health disparities",
+    "Difficult conversations",
+    "Communicating difference"
+   ],
+   "bio": "Research interests: Communication and structural health disparities; Difficult conversations; Communicating difference\nJonathan T. Baker is a health and interpersonal communication scholar who studies how everyday talk and public discourse shape access to health and wellbeing. His work investigates how prejudice surfaces in micro-level encounters (e.g., patient–clinician talk, social support) and macro-level arenas (e.g., news coverage, government policy, legal systems), and how those discourses shape access to healthcare, wellbeing, and health outcomes.\nDr. Baker’s research program spans three interlocking areas: (1) communication and structural health disparities, (2) difficult conversations; and (3) communicating difference.\nCommunication and structural health disparities\nThis work looks at how everyday talk and institutional communication shapes who gets care and who doesn’t. Dr. Baker strives to make visible these differences in health outcomes and imagine more just and liberating communication practices.\nDifficult conversations\nThis work examines how people navigate emotionally charged, high-stakes health dialogues (e.g., DIY HRT disclosures with clinicians, infertility). Dr. Baker identifies the tensions people experience when engaging in difficult conversations, and advances patient-centered strategies grounded in communication theory.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Benjamin R. Bates",
+   "title": "Professor, Health Communication",
+   "rank": "Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/benjamin-bates",
+   "personal_url": "https://sites.ohio.edu/batesb/",
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2020-04/batesb.jpg?itok=eckUZP6_",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Communication Health Campaigns and Messaging",
+    "Rhetoric of Health",
+    "Communication and International Health and Development"
+   ],
+   "bio": "Benjamin R. Bates (Ph.D., University of Georgia) is a Professor in the School of Communication Studies and PI: Disease IMPACT Lab . He is also an affiliated faculty member in the Communication and Development Studies Program and in the Center for International Studies. Dr. Bates is an affiliated researcher with the Infectious and Tropical Disease Institute , ADVANCE (formerly the Appalachian Rural Health Institute), and the Translational Biomedical Sciences doctoral program. He also serves as an affiliate member of the University’s Social Medicine faculty in the Heritage College of Osteopathic Medicine.\nLearn More About Dr. Bates! [YouTube]\nDr. Bates recently served as President of the Eastern Communication Association (ECA), the nation’s oldest professional organization for communication academics and practitioners. Dr. Bates has won awards for his research (ECA Distinguished Research Fellow, 2013), teaching (ECA Distinguished Teaching Fellow, 2017), and service to the academic community (ECA Past Officers’ Award, 2012).\nDr. Bates’s research is in the public understanding of health and healing. Although first trained as a rhetorical scholar, Dr. Bates appreciates and uses critical, qualitative, and quantitative methods to address questions at the intersection of health, medicine, and questions of public need.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Christina S. Beck",
+   "title": "Interim Director of the School of Communication Studies",
+   "rank": "Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/christina-beck",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2025-02/beck.jpg?h=268b5863&itok=Fcd2PFoX",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Christina S. Beck is a Professor in the School of Communication Studies at Ohio University (USA) and Past-President of the National Communication Association and Central States Communication Association. Beck has produced 14 books and numerous book chapters, journal articles, and conference presentations. For the past two decades, Beck’s work has bridged her interests in health communication, popular culture, fandom, and media audiences, including her co-authored book, Celebrity Health Narratives and the Public Health (2015) and her single-authored book, Celebrity in the Time of Covid: Fandom and the Influence of Pandemic Messaging (2022). Most recently, she edited (and contributed to) The Routledge Handbook of Health Communication and Popular Culture (2025). In addition to this scholarly work, she founded the Ohio University chapter of Lambda Pi Eta (the National Communication Honor Society) in 2003, and she’s honored to continue to serve as chapter advisor.\nPast Editor, Communication Yearbook",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Directory title gives only the administrative role; bio states she is a Professor in the School of Communication Studies."
+  },
+  {
+   "name": "Devika Chawla",
+   "title": "Professor of Interpersonal Communication",
+   "rank": "Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/devika-chawla",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2020-10/chawla.png?itok=gZ_pa7BB",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professor Chawla is a Professor of Interpersonal Communication in the School of Communication Studies and an Ohio University Presidential Research Scholar. Her scholarly work focuses on communicative, performative, and narrative approaches to studying family, home, and its relationship to social identity. Specifically, she attends to how human beings transform themselves in the relationships that surround them, and the resources—social, political, economic—that are available to them. Much of Professor Chawla’s research has taken place in the context of marriage and family life in contemporary urban north India. She accesses ethnographic practices including fieldwork, oral history, and life history to study in this context. Her award-winning doctoral dissertation was a life history study of urban Indian women’s identities in Hindu arranged marriages. Her book Home, Uprooted: Oral Histories of India’s Partition focused on cross-generational oral histories of refugees displaced by India’s Partition of 1947 and was awarded the book of the year by two divisions (Ethnography; International and Intercultural) of the National Communication Association. Professor Chawla has published three other edited/co-authored books and over 50 essays in peer-reviewed journals and anthologies.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Matthew deTar",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/matthew-detar",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2026-05/detar.jpg?h=c982c33c&itok=-eHJ5naW",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Matthew deTar (Ph.D., Northwestern University) is an Associate Professor of Rhetoric and Culture in the School of Communication Studies at Ohio University. His research focuses on concepts in public discourse that produce national identity and political action, focusing particularly on Turkey and the Middle East. He is the author of Figures That Speak: The Vocabulary of Turkish Nationalism (Syracuse University Press, 2022) which analyzes the main concepts that shape political and historical understanding in Turkey. He has authored essays on conceptual history, public memory, race, and anti-colonial rhetorical methods that have appeared in Communication and Critical/Cultural Studies, Rhetoric & Public Affairs, Departures in Critical Qualitative Inquiry, Advances in the History of Rhetoric, The Oxford Encyclopedia of Race, Ethnicity, and Communication (ed. Sudeshna Roy), and Reframing Rhetorical History: Cases, Theories and Methodologies, ed. Kathleen J. Turner and Jason Edward Black (University of Alabama Press, 2022). His research has been supported by the Center for Religion, Law, and Democracy at Willamette University, the Institute for Turkish Studies at Georgetown University and the Roberta Buffett Center for International and Comparative Studies at Northwestern University.\nCheck out Figures That Speak The Vocabulary of Turkish Nationalism by Matthew deTar",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lynn Harter",
+   "title": "Professor and Co-Director of the Barbara Geralds Institute for Storytelling and Social Impact",
+   "rank": "Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/lynn-harter",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2024-08/harter.jpg?h=cc2395b9&itok=P6PyH59r",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Narrative Approaches to Health",
+    "Organizing for Social Change",
+    "Social Justice",
+    "Feminist Theory"
+   ],
+   "bio": "Professor Harter is a curious and hopeful believer in the power of storytelling and art to nurture individual and communal well-being amid bodily differences and inescapable precarity. Informed by aesthetic and feminist sensibilities, her scholarship explores the conditions under which stories can unsettle inherited assumptions and gesture toward more just futures. Her scholarship is connected by several primary concerns: How is human flourishing interwoven with suffering? How do narrative and imaginative logics function in health organizing and public advocacy? What socio-material dilemmas characterize the pursuit of social change, and how are they navigated? In this work, storytelling is at once a meaning-making phenomenon of interest and a catalytic form of sharing knowledge claims. She is co-producer and director of the Emmy award-winning documentary series The Courage of Creativity and co-producer and host of Defining Mome nts podcast. She has authored of over 80 journal articles and book chapters and edited 4 scholarly books. Beyond her professional life, she is sustained by time in nature, shared meals, restoring old things to new lives, and the company of her human and canine family.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Angela M. Hosek",
+   "title": "Interim Associate Dean, Professor School of Communication Studies",
+   "rank": "Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/angela-hosek",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2023-02/hosek.jpg?itok=knFGvXBB",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Angela M. Hosek is a Professor, COMS 1030 Course Director in the School of Communication Studies, and Director of the School’s Graduate Teacher Training Academy. Her research interests focus on investigating the extent to which social group categorization and membership impacts relational functioning as people communicate to create, negotiated and express their identities. She has examined these processes in instructional contexts as the relate to student-teacher success, pedagogical strategies, and student-teacher relationships. She also explores narrative sense-making surrounding women’s health and well-being related to birth, breastfeeding, and parenting. Overall, her research and teaching interests bring together content areas and theories of instructional communication, communication education, intergroup communication, and interpersonal/family communication.\nDr. Hosek has published in numerous peer-reviewed journals and edited books including Communication Education , Communication Quarterly , Journal of Social and Personal Relationships , Basic Communication Course Annual , Journal of Intercultural Communication , Health Communication , the Sage Handbook of Family Communication , Communicating Intimate Health , Journal of Family Communication , Women and Language, and Constructing motherhood and daughterhood: Communicating across generations . Dr.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Sarah E. Jones",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/sarah-jones",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2022-08/joness5.jpeg?itok=68uZizc3",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Sarah E. Jones is an Associate Professor at Ohio University where she studies the power and politics of gender in organizations. Her latest projects involve issues of organizing, membership, and commodification in the milk banking industry (i.e., the donation and exchange of breastmilk) for which she was a featured guest on WOUB's Defining Moments Podcast . Her work has been published in academic journals such as Management Communication Quarterly, Health Communication , and Feminist Pedagogy ; volumes such as Queer Communication Pedagogy: Intersectionality and Activism (2019) and the Routledge Handbook of Communication and Bullying (2019); and public outlets such as Utah Tech University's Red Rock Relationships podcast. Dr. Jones has been a certified facilitator with StoryScope: A Story Circles Project (an affiliate of the U.S. Department of Arts & Culture) and the Institute for Civil Dialogue for over five years, and regularly utilizes both in undergraduate curricula. She is a recent alum of OHIO's Bruning Teaching Academy and a member of the 2022-23 cohort of Leadership Athens County through the Athens County Foundation.\nOutside the office, Dr. Jones enjoys gourmet cooking and hiking; watching tennis, WNBA, and F1; and caring for her expansive garden and flock of chickens.\nOrganizational Communication; Gender; Difference Studies; Critical-Qualitative Methods",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Inbal Leibovits",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/inbal-leibovits",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2026-08/Inbal%20Leibovits.jpg?h=7c549656&itok=vxKwG2dU",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Civic Participation",
+    "Policy Deliberation",
+    "Homelessness",
+    "Intimate Partner Violence",
+    "Ethnography"
+   ],
+   "bio": "Research interests: Civic Participation; Policy Deliberation; Homelessness; Intimate Partner Violence; Ethnography\nInbal Leibovits is an Assistant Professor in the Scripps College of Communication at Ohio University. She earned her Ph.D. in Communication from The University of Texas at Austin in 2023. Her research examines how marginalized communities navigate and participate in civic, organizational, and policymaking processes, with particular attention to people experiencing homelessness and survivors of intimate partner violence (IPV). Drawing on community-engaged ethnographic research, her work explores how communication can create opportunities for civic participation, amplify lived experience in decision-making, foster belonging, and contribute to more responsive policies and social change.\nLeibovits’ research employs ethnographic and rhetorical methods and emphasizes collaboration with community partners and people with lived experience. Her current research examines how lived experience can be meaningfully integrated into policymaking and organizational decision-making, as well as how communication shapes pathways toward housing stability.\nBefore entering academia, Leibovits spent more than a decade in leadership roles in civil society and social change organizations in Israel. She has extensive experience leading teams, managing partnerships, organizing community initiatives, and facilitating strategic planning processes in diverse communities.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jerry L. Miller",
+   "title": "Professor, Director of the Political Communication Certificate Program, Ohio Fellows Faculty Mentor",
+   "rank": "Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/jerry-miller",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2026-08/Jerry%20Miller.jpg?h=bb97fb64&itok=azyrlvR1",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Political Communication",
+    "Political Advertising",
+    "Political Debates",
+    "Place-based Research and Pedagogy"
+   ],
+   "bio": "I am a first-generation college graduate who grew up on my family's farm in southwest Kansas. Opportunities through 4-H and high school speech and debate opened doors I never expected—leading to a college education and a career in education. Along the way, I've experienced higher education from nearly every angle: as a student at a community college (Garden City Community College), a small private four-year institution (Bethel), a regional public university (Pittsburg State), and a Research I institution (Oklahoma).\nProfessor, School of Communication Studies, Ohio University (2015–present); Associate Professor (2002–2015); Interim Director (2011–2013). Previously: Cassese Director of Forensics, Ohio University (2002–2005); Director of Forensics and Assistant Professor, School of Interpersonal Communication, Ohio University (1996–2002). Earlier positions include director of forensics roles at The University of Oklahoma and Pittsburg State University, as well as graduate teaching appointments in communication at multiple institutions. Founding member (2018) and Board President (2024–2026), Ohio Debate Association.\nMiller, J. L. 2026. \"Political Rhetoric Syllabus.\" In Teaching Communication: Volume IV: Instructional Resources, edited by B. N. Frisby, R. Kaufman, D. D. Sellnow, and M. G. Strawser, 852–78. San Diego, CA: Cognella.\nMiller, J. L. 2025. \"Teaching Political Communication.\" In Teaching Communication: Volume II: Communication Studies, edited by J. P. Mazer, D. D.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Brittany L. Peterson",
+   "title": "Professor | Director of E-Learning, Scripps College of Communication",
+   "rank": "Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/brittany-peterson",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2021-08/petersob.jpg?h=ffba7bc9&itok=-BB12Nt5",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Brittany L. Peterson is a Professor in the School of Communication Studies and the Director of eLearning for the Scripps College of Communication at Ohio University.\nDr. Peterson’s research agenda focuses on the communicative construction of membership in organizations. She explores the intricacies associated with different understandings of membership along a continuum from voluntary to involuntary. Much of her work to date has focused on defining and understanding the construct of involuntary membership within the context of a total institution (i.e., inmates) and exploring the nuances of “high stakes” volunteering (e.g., volunteer firefighters, international volunteers). Her scholarship also investigates stigmatized members (e.g., parolees, individuals living without homes) in an effort to understand the lingering effects of their enduring membership with an eye toward empowerment, agency, and ownership. She juxtaposes her work on membership with the theories and constructs of structuration, dialectics, organizational identification, and organizational socialization/assimilation. Dr. Peterson’s work has been published in peer-reviewed journals including Management Communication Quarterly, Communication Monographs, Health Communication, Communication Quarterly, Non-Profit and Voluntary Sector Quarterly, Communication Education, and Journal of Applied Social Science as well as in edited books.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Scott Titsworth",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/scott-titsworth",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2019-01/titswort.jpg?h=a7f62557&itok=bekLlqkJ",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Scott Titsworth, who received his Ph.D. from the University of Nebraska in 1999, has developed an international reputation as a leading scholar in the area of classroom communication effectiveness. With more than 50 books, chapters, and articles published on the topic, Scott’s most recent research has explored ways in which students’ emotional experiences are related to their learning activities, including both note-taking and cognitive performance. Scott served as dean of the Scripps College of Communication at Ohio University, a position that he held from 2010–2026. In 2009, Scott was named a Presidential Teacher, the highest teaching honor awarded at Ohio University.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "China Billotte Verhoff",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/china-verhoff",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2024-05/billotteverhoff.jpg?h=bd2f8d44&itok=0qFVFyO3",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "China C. Billotte Verhoff is an Associate Professor of Interpersonal Communication in the School of Communication Studies at Ohio University. Situated at the intersection of interpersonal and organizational communication, her research program explores the lived experiences of individuals with stigmatized and marginalized identities to address systemic issues of inequity and foster well-being. With her work on stigma, support, disclosure, and social justice, her broader goal is to (a) re-center marginalized voices in knowledge creation and communication theorizing and (b) highlight the implications of her work for communication-centered approaches to equity and justice. Her most recent projects have examined the discursive forces that animate the meanings of maternity leave and how mothers internalize, navigate, and resist the stigmatization of their rage . Dr. Billotte Verhoff’s work has been published in peer-reviewed journals such as Communication Monographs , Sex Roles , the Journal of Language and Social Psychology , and Health Communication .\nDr. Billotte Verhoff teaches graduate and undergraduate courses in interpersonal communication, family communication, and communication and ethics. Highlighting the synergistic interplay between her research, teaching, and service Dr. Billotte Verhoff has spent several years facilitating inclusive pedagogy efforts at the university.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Candice Rios Wenmoth",
+   "title": "Assistant Professor & Internship Coordinator | Associate Director of Undergraduate Studies",
+   "rank": "Assistant Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/candice-rios-wenmoth",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2023-10/rioswenmoth.jpg?h=fce8e912&itok=Iw05RCOS",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Candice Rios Wenmoth is an Assistant Professor the School of Communication Studies. She currently serves as the COMS Internship Coordinator and Associate Director of Undergraduate Studies. She is a proud alumna of the program, earning her B.S. in Communication Studies with a focus in Organizational Communication from Ohio University. She went on to study Narrative Performance and Storytelling at the University of Maine (M.A.). Her research emphasizes the impact vulnerability in storytelling competitions. Today she incorporates storytelling, learning-as-doing, and connection within her classrooms. You might catch her walking around campus with her 5-year-old and toddler, two future bobcats. When she’s not teaching you can find her camping, hiking or at a music festival with her family.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Holds an M.A.; not marked as graduate faculty on the school directory; may not be a research tenure-line appointment despite the \"Assistant Professor\" title."
+  },
+  {
+   "name": "Nicole Blau",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/nicole-blau",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2022-05/dobransk.jpg?itok=8rWEOWJt",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Nicole Blau is a Full Professor of Communication Studies at Ohio Lancaster, where she has been a valued faculty member since 2008. She previously served as Associate Professor from 2015 to 2023 and Assistant Professor from 2008 to 2015.\nDr. Blau’s scholarly work focuses on communication in interpersonal, family, group, and health contexts. Her research has been published in respected journals including Communication Quarterly , Journal of Health Communication , Ohio Communication Journal , and Florida Communication Journal . In addition to her journal work, she is the author of Group Dynamics: Connecting Through Communication and co-author of Family Communication: Relationship Foundations .\nWith a strong interest in the s cholarship of teaching and learning, Dr. Blau is committed to creating transformative learning experiences for her students. She holds a Ph.D. in Communication from the University of Kentucky (2008), a Master of Arts in Communication from Miami University (2002), and a Bachelor of Arts in Communication from Bowling Green State University (1998).\nDr. Blau continues to be a dynamic contributor to both academic scholarship and the Ohio University community, combining her passion for research, teaching, and student mentorship.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Listed under \"Regional Campus Faculty\" (Lancaster Campus) on the school directory, not Athens campus faculty."
+  },
+  {
+   "name": "Purba Das",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/purba-das",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2019-04/dasp.jpg?h=1638e424&itok=VuHUVWL9",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Purba Das ​​​​is Professor in Communication Studies at Ohio University. She received her Master of Science in Sociology from Purdue University and Doctor of Philosophy in Communication Studies from Washington State University.\nDr. Das’ research employs a critical approach in the field of intercultural and health communication in understanding the problematics of nations, media, and health narratives in various populations in India and the USA. Dr. Das regularly presents her research at scholarly conferences such as the National Communication Association and the International Communication Association.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Listed under \"Regional Campus Faculty\" (Southern Campus) on the school directory, not Athens campus faculty."
+  },
+  {
+   "name": "Sarah E. Mahan-Hays",
+   "title": "Associate Professor of Communication Studies",
+   "rank": "Associate Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/sarah-mahan",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2021-04/mahan-ha.jpg?h=ffba7bc9&itok=KU7kl6CN",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Sarah E. Mahan-Hays, Associate Professor of Communication Studies, School of Communication Studies (Athens Campus, Communication Studies, Eastern Campus).\nEducation: PhD, Rhetorical Studies, Ohio University; MA, Communication, Auburn University; BA, Psychology, Tulane University\nCourses taught: COMS 1010: Fundamentals of Human Communication; COMS 1030: Public Speaking; COMS 2050: Techniques of Group Communication; COMS 2060: Communication and Interpersonal Relationships; COMS 2350: Introduction to Communication Theory; COMS 2020: Communication & Persuasion; COMS 2400: Information Diffusion; COMS 3060: Interpersonal Conflict; COMS 3603: Contemporary Culture and Rhetoric; COMS 4410: Communication in the Family",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Listed under \"Regional Campus Faculty\" (Eastern Campus) on the school directory, not Athens campus faculty. Profile page has no biography text; bio composed from title, education and courses."
+  },
+  {
+   "name": "Rita M. Ng",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/rita-ng",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2024-04/ng.jpg?itok=f1RGnVLP",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Culture",
+    "Communication",
+    "Confucianism"
+   ],
+   "bio": "Research interests: Culture; Communication; Confucianism\nDr. Rita M.C. Ng is an Associate Professor of Communication Studies at Ohio University (Zanesville Campus). She was born in Hong Kong, but has been living and working in the United States for 30 years. Some of her publications include book chapters and commentary. They appear in Chinese Communication Studies, Chinese Perspectives in Rhetoric and Communication, Intercultural Encounter, Journal of College and Character, and others. In addition, Dr. Ng reviews journal articles, and is an active participant in the National Communication Association Annual Convention as well as international conferences. She presents her research, has chaired panel sessions, and served as a respondent for various divisions of her discipline.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Listed under \"Regional Campus Faculty\" (Zanesville Campus) on the school directory, not Athens campus faculty."
+  },
+  {
+   "name": "Candice Thomas-Maddox",
+   "title": "Professor, Associate Director for Online Graduate Programs",
+   "rank": "Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/candice-thomas-maddox",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2025-03/homas.png?itok=3uFm6KBO",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Candice Thomas-Maddox ( Ed.D., West Virginia University ) is a Professor of Communication Studies at Ohio University Lancaster, where she is passionate about helping students explore interpersonal, family, and organizational communication. She’s the co-author of four textbooks: Interpersonal Communication: Building Rewarding Relationships ; Quantitative Research Methods for Communication: A Hands-on Approach ; Communicating in Your Personal, Professional, and Public Lives ; and Family Communication: Relationship Foundations.\nA dedicated educator, Candice has been honored with the Eastern Communication Association’s (ECA) Ecroyd Teaching Award and Teaching Fellows designation, as well as the Ohio Communication Association’s (OCA) Ohio Outstanding Scholar Award. She has served as President and Executive Director for both ECA and OCA, held leadership roles with the National Communication Association (NCA), and currently chairs NCA’s Finance Committee. At OHIO Lancaster, she enjoys mentoring students and advising organizations like Phi Theta Kappa Honorary and Alpha Phi Omega service fraternity.\nAlways seeking innovative ways to enhance student learning and career preparation, Candice incorporates Team-Based Learning (TBL) in her courses to strengthen collaboration skills and engages students in community-based learning projects that provide real-world applications of course content.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Listed under \"Regional Campus Faculty\" (Lancaster Campus) on the school directory, not Athens campus faculty."
+  },
+  {
+   "name": "Lisa Wallace",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Communication Studies",
+   "profile_url": "https://www.ohio.edu/directory/lisa-wallace",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2021-08/wallacel.jpg?itok=_KMRN3Vi",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Lisa Wallace, Associate Professor, School of Communication Studies (Athens Campus, Chillicothe Campus, Communication Studies).\nEducation: PhD, Ohio University",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Listed under \"Regional Campus Faculty\" (Chillicothe Campus) on the school directory, not Athens campus faculty. Profile page has no biography text; bio composed from title, education and courses."
+  },
+  {
+   "name": "Janice Marie Collins",
+   "title": "Associate Professor; Director of the Institute for International Journalism",
+   "rank": "Associate Professor",
+   "department": "E.W. Scripps School of Journalism",
+   "profile_url": "https://www.ohio.edu/directory/janice-collins",
+   "personal_url": "https://www.janicemcollinsphd.com/",
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2025-10/collinsj2.jpeg?itok=ZxBXIBN8",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Collins is a multi-national and international award-winning professional journalist and media expert with more than 35 years of experience in the media industry. She is also an international and national award-winning professor, scholar, researcher of mixed methodology and creative with 21 years of experience on the university level.\nShe returned to Ohio University, E.W. Scripps School of Journalism in August 2023, after earning her M.S. in Journalism at E.W. Scripps School of Journalism in 2005 and a PH.D. in Mass Communications and Media Arts and Studies and Women and Gender Studies in the Scripps College of Communications in 2009. She specializes in broadcast and digital journalism and storytelling, leadership development, de-marginalization, media storytelling for social impact, and methods of teaching and performing with full inclusion.\nSome of her awards include multiple Emmys, Best of Gannett, Associated Press, NABJ, and AABJ for writing, producing, reporting, cinematography, directing, narration and editing.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ken Collins",
+   "title": "Associate Professor/Coordinator of Electronic Media",
+   "rank": "Associate Professor",
+   "department": "E.W. Scripps School of Journalism",
+   "profile_url": "https://www.ohio.edu/directory/ken-collins",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2019-02/collinsk.jpg?h=3d12e754&itok=96K1hXZQ",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Ken Collins holds a Ph.D. in Speech Communication with an emphasis in Radio-TV-Film and an M.A. in Popular Culture from Bowling Green State University and is a tenured associate professor.\nAt both the University of Cincinnati and Ohio University, Dr. Collins taught a variety of courses such as radio news writing, precision language, public relations, audience research methodologies, audio and video production, and overview of the mass media.\nAs a working news professional, Dr. Collins delivered newscasts at a variety of broadcast stations in Ohio, including WSPD-AM-TV, Toledo, and WTVN-AM, Columbus, Ohio. He has also been heard during NBC Radio Network and Group W (Westinghouse) newscasts. Currently, he is a frequent contributor as a news photographer for a regional online news service.\nDr. Collins has co-authored an audio production textbook, Fundamentals of Audio Production, published by Allyn & Bacon/Pearson (Boston), and has published several journal articles.\nHe is currently a member of the Screen Actors Guild-American Federation of Television and Radio Artists, Association for Education in Journalism and Mass Communication, and the Audio Engineering Society.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Profile org unit includes Regional Higher Education; listed on the Journalism faculty page."
+  },
+  {
+   "name": "Craig Davis",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "E.W. Scripps School of Journalism",
+   "profile_url": "https://www.ohio.edu/directory/craig-davis",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2020-05/davisc7.jpg?h=7a506806&itok=GTuxWvhN",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Experience\nAdjunct Faculty, Pace University, New York, NY, part-time M.B.A. program teacher Marketing.\nWith over 15 years experience, Craig Davis has held integrated and interactive roles for agencies like Fahlgren Martin, Denstu Corporation of America, Poppe Tyson, USWeb/CKS, Jordan McGrath Case and Partners, Arnold Worldwide and Saatchi & Saatchi.\nCraig has worked on high profile CPG brands such as Procter and Gamble’s Bounty brand, GlaxoSmithkline brands Nicorette, NicoDerm CQ, Commit, and Tums. For Hershey’s he was responsible for the interactive launch of the new Take 5 candy bar.\nHe also has extensive experience working on technology and business-to-business accounts like Canon USA, Millipore Corporation, Avaya and most recently Pay By Touch.\nCraig was an adjunct professor at Pace University in New York City, where he taught graduate level marketing courses before accepting his role as a visiting professor at Ohio University.\nCraig is a native of West Virginia and has Bachelor’s degrees in both Journalism and Business from West Virginia University and a Master’s degree in Corporate Communication from Duquesne University. He also holds a Certificate of Internet Technologies from New York University.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Bernhard Debatin",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "E.W. Scripps School of Journalism",
+   "profile_url": "https://www.ohio.edu/directory/bernhard-debatin",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2019-07/debatin.jpg?itok=kZPwbjqz",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Bernhard Debatin teaches courses in media ethics, theoretical/conceptual topics, environmental & science journalism, qualitative research, and digital journalism. His research areas include media ethics, new media, international media, mass media theory, theory of the public sphere, communication theory, and metaphor theory.\nIn July 2016, he was named Director of the Institute Center for Applied and Professional Ethics (now the Center for Applied and Professional Ethics). He has also been serving as the Director of Studies in the Honors Tutorial Journalism program since Summer 2005 and he is the coordinator of the Ohio-Leipzig Double Master’s Degree Program in Journalism and Global Mass Communication. In addition, he is one of five co-editors of the new bilingual (German-English) scholarly journal Journalistik/Journalism Research.\nDirector of the Institute for Applied and Professional Ethics\nProfessor for Multimedia Policy at the E.W. Scripps School of Journalism (since Fall 2010)\nDirector of Studies in the Journalism Honors Tutorial Program (since 2005)\nAssociate Professor for Multimedia Policy at the E.W.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Aimee Edmondson",
+   "title": "Interim Dean, Scripps College of Communication; Professor, E.W. Scripps School of Journalism",
+   "rank": "Professor",
+   "department": "E.W. Scripps School of Journalism",
+   "profile_url": "https://www.ohio.edu/directory/aimee-edmondson",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2026-07/Aimee%20Edmondson.jpg?h=55862c10&itok=yyuWgjQQ",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Aimee Edmondson is the interim dean of the Scripps College of Communication, as well as a professor in media law and journalism history with a particular focus on libel law, public records laws and free expression. She also teaches data journalism using the techniques of Investigative Reporters and Editors (IRE) and has traveled to Kenya, China, Kazakhstan, India and Germany to lead workshops for journalists and journalism educators.\nShe considers herself a third generation newspaperman. Her grandfather published and edited the Terrebonne Press back home in Louisiana and her uncle was a journalist. In the dozen years she worked in newsrooms around the country, she’s covered just about every beat – cops, courts, politics, education, poverty, features, sports and special projects. She continues her journalism in her research and writing about media and is honored to educate the next generation of truth tellers.\nHer book, In Sullivan’s Shadow, The Use and Abuse of Libel Law During the Long Civil Rights Struggle , was published by University of Massachusetts Press in 2019. The book was a finalist for the Frank Luther Mott/Kappa Tau Alpha Research Award for the best book on journalism and mass communication based on original research. It also was runner up for the Association for Education in Journalism and Mass Communication History Division Book Award.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kelly K. Ferguson",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "E.W. Scripps School of Journalism",
+   "profile_url": "https://www.ohio.edu/directory/kelly-k-ferguson",
+   "personal_url": "http://kellykferguson.com/",
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2026-07/Kelly%20Ferguson.jpg?h=3649c72e&itok=zEXVnCqg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Kelly K. Ferguson began her journalism career when she applied for a position as a music critic only to be assigned a column, “Charm School Reject.” She has since hustled her way into publications such as mental­­_floss magazine, The Chronicle of Higher Education , McSweeney’s Internet Tendency , The Cincinnati Review , Witness , Terrain.org and others. Her book, My Life as Laura : How I Searched for Laura Ingalls Wilder and Found Myself , details her quest in a prairie dress for her Midwestern childhood idol.\nKelly’s interests include longform, immersion journalism, the researched essay, and working with narrative tools such as character, image, telling detail, tension, and plot to craft compelling true stories. She teaches magazine feature writing and the News and Information Capstone, which produces an issue of Southeast Ohio magazine over the course of a single semester.\nKelly has moved from southern Louisiana to southern Ohio, back to southern Louisiana, on to southern Utah, before returning to southern Ohio, where she nurtures one asparagus plant with the hope of it yielding a tender spear in two to three years.\nKelly has an MFA from the University of Montana and a Ph.D. from Ohio University, both in creative nonfiction.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Elizabeth Meyers Hendrickson",
+   "title": "Professor, Associate Director for Undergraduate Studies",
+   "rank": "Professor",
+   "department": "E.W. Scripps School of Journalism",
+   "profile_url": "https://www.ohio.edu/directory/elizabeth-hendrickson",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2026-08/Elizabeth%20Hendrickson.jpg?h=a1946c09&itok=mWvaqooV",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Podcasting",
+    "Magazine editing and production",
+    "Celebrity journalism",
+    "Media organization and ownership",
+    "Pedagogy"
+   ],
+   "bio": "Research interests: Podcasting; Magazine editing and production; Celebrity journalism; Media organization and ownership; Pedagogy\nDr. Elizabeth Hendrickson’s career demonstrates the value of combining a journalism and liberal arts education. She’s worked as a daily newspaper reporter, a network news producer and for nearly a decade, as a women’s magazine entertainment editor in New York City. What she brings to the classroom and academic community is an understanding of media dynamics and technology and unfailing optimism and curiosity about the continued evolution of journalism. To the occasional mortification of her two children, Elizabeth is willing to be the first to try something new, if that means she (and others) can learn from the experience.\nHer undergraduate courses offered include the News and Information Capstone for Southeast Ohio magazine, Podcasting & Audio Journalism, Writing and Editing for Fashion Journalism, Magazine Editing and Production, Magazine Feature Writing and Media Business and the Future of Journalism. She is the co-creator and the journalism coordinator for the Podcasting Certificate. Her graduate courses include Case Study Methodology in Media Studies, Mass Media Ethics and Qualitative Research Methods in Journalism. She regularly works with students in the Honors Tutorial College and serves on many graduate student thesis committees.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Parul Jain",
+   "title": "Professor; Associate Director for Undergraduate Online Education, Scripps College of Communication",
+   "rank": "Professor",
+   "department": "E.W. Scripps School of Journalism",
+   "profile_url": "https://www.ohio.edu/directory/parul-jain",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2020-05/jainp1.jpg?h=5db1df05&itok=88497inr",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Research Interests\nMy research explores both traditional and new media platforms in the context of health to understand how media could be used for health behavior promotion, disease prevention, and management, and to reduce health disparities. My program of research also examines narrative processing and effects on attitude accessibility, person perception, and health behavior, including but not limited to, interpersonal health behavior. Some of my work also looks at patient provider communication in international medical graduate physicians. My research has been published in Journal of Communication, Journal of Health Communication, Health Communication, and Patient Education and Counseling among others.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Hans Meyer",
+   "title": "Professor; Director of the E.W. Scripps School of Journalism",
+   "rank": "Professor",
+   "department": "E.W. Scripps School of Journalism",
+   "profile_url": "https://www.ohio.edu/directory/hans-meyer",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2024-02/meyerh.jpg?h=3637e4e3&itok=Mu-iM6n-",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Hans K. Meyer started at Ohio University in Fall 2009. He earned tenure and the title of associate professor in 2016. He became the associate director of undergraduate studies in Fall 2020 and became a full professor in Fall 2023.\nHis research focuses on what motivates citizen contributions to online news sites and the ways news organizations can meet these needs. This is just one part of an effort to find and encourage news organizations to create community among their readers, both online and off. He is also working toward a new definition of credibility for online media that incorporates the connection audiences feel toward the reporter and the site. He examines social media as a platform for connecting journalists and their audiences. He has embraced the impact of other new forms of technology on community building, such as 360-degree video, virtual reality, and YouTube-style personal experience vlogs.\nAs the associate director of undergraduate studies , he oversees course scheduling, curriculum development, academic advising, course evaluation and diversity and inclusion efforts.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Bill Reader",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "E.W. Scripps School of Journalism",
+   "profile_url": "https://www.ohio.edu/directory/bill-reader",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2020-05/reader.jpg?h=f4a123b5&itok=P6B7ik4N",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Community journalism",
+    "Participatory journalism",
+    "Applied journalism ethics",
+    "Various forms of audience feedback (letters to the editor, online comments, etc.)"
+   ],
+   "bio": "Research interests: Community journalism; Participatory journalism; Applied journalism ethics; Various forms of audience feedback (letters to the editor, online comments, etc.)\nBill Reader joined the faculty in 2002. Earned tenure in 2010.\nPreviously taught in the Department of Journalism and Mass Communication, University of Wisconsin-Milwaukee, 2000-2002, and was a lecturer in the College of Communications at The Pennsylvania State University, 1998-2000.\nWorked as a newspaper reporter, editor, photographer, copy editor, and page designer throughout the 1990s. Has several professional awards, including first-place honors for reporting and editorial writing from the Keystone Press Awards in Pennsylvania, and was a member of the design team that won World`s Best Designed Newspapers honors from the Society of News Design in 1998, 1999, and 2000.\nInterview with Prof. Bill Reader on YouTube\nAuthor of Audience Feedback in the News Media (2015, Routledge). Co-editor with John Hatcher of University of Minnesota Duluth of Foundations of Community Journalism (2012, SAGE). Co-author with Steven Knowlton of Dublin City University, Ireland, of Moral Reasoning for Journalists (2008, Praeger).\nGuest editor of special issue of Newspaper Research Journal , \"The Future of Community Newspapers\" (winter 2011).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jatin Srivastava",
+   "title": "Professor, Associate Director for Graduate Studies",
+   "rank": "Professor",
+   "department": "E.W. Scripps School of Journalism",
+   "profile_url": "https://www.ohio.edu/directory/jatin-srivastava",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2026-05/srivastj.jpg?h=7a506806&itok=-GUSIDUj",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Jatin Srivastava is a professor at the E.W. Scripps School of Journalism at Ohio University. He is also the Associate Director for Graduate Studies at the school.\nDr. Srivastava’s teaching experience ranges from graduate seminars in mass communication theory and digital media research to undergraduate courses on graphic design and news and information literacy.\nHis research is rooted in theory-based exploration of the new media environment. He is also extremely interested in issues related to interactions between media and society in India and has worked on book chapters and research articles exploring issues related to new media and health communication in Indian environments. His research has appeared in international journals such as Computers in Human Behavior, Communication Review, Journal of Health Communication, Communication Research, Human Communication Research and Telematics and Informatics. He has also presented his research at various international conferences organized by Association for Education in Journalism and Mass Communication (AEJMC), National Communication Association (NCA), and International Communication Association (ICA).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Benjamin Tetteh",
+   "title": "Assistant Professor, Journalism",
+   "rank": "Assistant Professor",
+   "department": "E.W. Scripps School of Journalism",
+   "profile_url": "https://www.ohio.edu/directory/benjamin-tetteh",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2026-02/benjie07.jpg?h=fcaa6448&itok=mYADtpAf",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Tetteh is an award-winning journalist, documentary and features producer and a critical scholar. He held various positions in newsrooms including reporter and producer, host of the Breakfast Show and managing editor. He has reported for national and international media including Joy News & Radio Ada (Ghana), West Africa Democracy Radio (Senegal), the BBC and UN News. Over the years, Benjamin carved a strong reputation for in-depth investigative journalism, and has produced award-winning documentaries and features covering mining, climate change, child rights, and the UN sustainable development goals. He played a pivotal role as Board member of Africa’s first investigative journalism body (FAIR) and has served on the board of the Foreign Press Correspondents Association, USA, for about four years.\nDr. Tetteh holds a degree in psychology from the University of Ghana and a master's in journalism (Digital Innovation) from New York University. He completed his PhD in mass communications at the Newhouse School of Public Communication, Syracuse University. His dissertation focused on the threats to journalistic editorial independence and the mechanisms journalists use to cope with those threats. In his spare time, Professor Tetteh loves to devote time to social justice and community service initiatives.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Mark Turner",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "E.W. Scripps School of Journalism",
+   "profile_url": "https://www.ohio.edu/directory/mark-turner",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2020-05/turnerm4.jpg?h=16b5bad0&itok=RrmNcpdi",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Mark Turner is the former executive news editor at the Akron Beacon Journal in Akron, Ohio, where he supervised daily presentation and production. Turner began his journalism career in Northeast Louisiana reporting on crime, courts and education for the News Star in Monroe, Louisiana. He then became the deputy features editor, moving into the area of copy editing and news design. Turner has won numerous awards in newspaper design, a large focus during his 21-year stint at the Beacon Journal which began in 1998.\nA native of Louisiana, Turner graduated from Louisiana Tech University with a bachelor’s degree in journalism and received a master’s degree in media management from Kent State University.\nPursuing a doctoral degree at Kent State in communication with emphasis on media, society and technology, Turner’s academic research has focused on the impact of diversity and inclusion in newsgathering and media leadership. His most recent areas of study have explored the perceptions by young journalists concerning their roles in a volatile news media environment and the relationship between social movements popularized online and news media coverage of them. Turner authored two book chapters in the 2014 anthology “We Are What We Sell” (Praeger): “Extra. Extra. Read All About It. Early Advertising in Newspapers” (Vol. 1) and “Social Consciousness in Advertising: The Crying Indian and More” (Vol. 2).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Josh Antonuccio",
+   "title": "Director, School of Media Arts & Studies + Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Media Arts and Studies",
+   "profile_url": "https://www.ohio.edu/directory/josh-antonuccio",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2026-05/antonucn.jpeg?h=efeb1cfc&itok=9ykim_s8",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Music business, entrepreneurship, technology, and the emerging music industry",
+    "Artificial Intelligence and Music",
+    "Music Production",
+    "Experiential Learning"
+   ],
+   "bio": "Josh Antonuccio has traversed multiple industry roles through his years in the music industry: music producer, artist, audio specialist, technology adventurist, studio owner, and media journalist. Originally from Pittsburgh, PA, he was the owner and operator of 3 Elliott Studio, a thriving music and post-production studio that served as his creative home. Josh has worked extensively in higher education since 2007, establishing innovative music and media industry curricula and developing the expansion of experience-based music industry education. He is a Grammy-voting member of The Recording Academy, an ASCAP-affiliated songwriter (winning a new songwriter award in 2001), a member of the Audio Engineering Society, and a board member of Stuart’s Opera House.\nHe is the director of the annual Ohio University Music Industry Summit , welcoming national and regional music industry leaders to Ohio University for panelist and performance programming. The Music Industry Summit recently completed its 8 th year and was named one of the top 7 U.S. music conferences in 2022. It has been featured in Billboard, Digital Music News, All Access, SynchTank, and Hypebot. Past guests have included Jason Isbell, Earl Sweatshirt, Caamp, Phoebe Bridgers, Killer Mike, The Crane Wives, Michelle Zauner of Japanese Breakfast, FINNEAS, Saba, My Morning Jacket, DJ Premier, Talib Kweli, mxmtoon, Chuck D, St.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Eddie Ashworth",
+   "title": "Associate Professor of Music Production and Recording Industry",
+   "rank": "Associate Professor",
+   "department": "School of Media Arts and Studies",
+   "profile_url": "https://www.ohio.edu/directory/eddie-ashworth",
+   "personal_url": "http://www.allmusic.com/artist/eddie-ashworth-p52768/credits",
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2026-09/eddie-ashworth.jpeg?h=7a753407&itok=Kb2MMtck",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Record Production",
+    "Songwriting",
+    "History of the recording industry and popular music",
+    "Influence of technology",
+    "Commerce and culture on the creation of popular music",
+    "The history and development of the recording industry",
+    "The emerging post-modern music business",
+    "Audio preservation and restoration"
+   ],
+   "bio": "Research interests: Influence of technology; Commerce and culture on the creation of popular music; The history and development of the recording industry; The emerging post-modern music business; Audio preservation and restoration\nA native of Southern California, Eddie Ashworth is entering his fourth decade as a music industry professional. He has produced, recorded, and/or mixed innumerable albums and singles, among them the 10 x platinum self-titled major label debut by Sublime as well as albums by Pennywise, Slightly Stoopid, Izzy Stradlin (of Guns ‘n’ Roses), The Long Beach Dub Allstars, Tommy Shaw, Great White, Unwritten Law, Dokken, Frenzal Rhomb, Eastern Youth, Pink Noise Test, The Mighty Clouds of Joy, and many others. He has produced sessions in many major studios in the United States, as well as facilities in Japan, Australia, England, Denmark, and Ireland.\nEddie has continued his production career since joining the faculty in 2003, both at his private studio (The Oxide Shed) outside Athens as well as at The School of Media Arts and Studies own world-class multitrack recording facility. His passion for working with rising artists has led to a vibrant recording schedule at his studio, which has become a mecca for regional artists such as Sasha Colette and The Magnolias, Megan Bee, The Ashley LaRue Band, Ben Davis Jr, Nolan Collins, The Redlines, and many others.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Tyler Ayres",
+   "title": "Associate Professor + Transfer & Advising Coordinator",
+   "rank": "Associate Professor",
+   "department": "School of Media Arts and Studies",
+   "profile_url": "https://www.ohio.edu/directory/tyler-ayres",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2019-12/ayres.jpeg?itok=Z5_9Ozxe",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Character Animation",
+    "Short Animated Stories"
+   ],
+   "bio": "Tyler’s first experience in animation was creating hand-made flipbooks to entertain his friends in grade school. His passion for the art remained a hobby until he was exposed to digital animation while earning his undergraduate degree in visual communications from The Ohio State University. After graduating, Tyler worked in graphic design for several years but continued to experiment with animation in his free time. In 2004 he made the decision to pursue his love of animation and he returned to Ohio State for his MFA.\nDuring his years as a graduate student he worked on multiple projects that helped hone his skills. As a proud member of the Ohio State Scoreboard Staff, he created graphics and animations, which are seen regularly at Ohio stadium, Value City Arena, and St. John’s Arena. Currently, The Ohio State Scoreboard Staff holds more IDEA Golden Matrix Awards than any other organization.\nSoon after grad school he joined a team of students and professionals who, through animation, brought cartoons originally drawn by James Thurber to life. He was an artist and designer on thebakeryshop.org, an educational video game that won two Communicator’s Awards in 2010.\nTyler’s individual short animation production, \"RED & blue,\" was screened in over 30 animation festivals in 2008-2009 including the Chicago International Children’s Film Festival, the Los Angeles International Children’s Film Festival, and the Nicktoons Film Festival, receiving multiple honors.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Roger Cooper",
+   "title": "Professor, Director, Semester-in-LA Program",
+   "rank": "Professor",
+   "department": "School of Media Arts and Studies",
+   "profile_url": "https://www.ohio.edu/directory/roger-cooper",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2023-08/cooperr.jpg?itok=Cg22jjv3",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Career Development for the Media Professions",
+    "Audience Theory and Sports Behavior"
+   ],
+   "bio": "“Coop” credits his mother for his love of media and his father for loving what he does for a living. At the age of 4, his family drove from a small Arkansas town to Los Angeles to visit family for Christmas. His burgeoning passion for travel would eventually come full circle in his present position as Director of the OHIO-in-LA Program. Along the way, he worked professionally as a sportswriter (five years) and as a creative director at an advertising agency (two years). He spent a year in Japan as a Fulbright Scholar, followed by six years as a consultant for Japan's National Association of Commercial Broadcasters. Coop has taught and/or presented research in Australia, Qatar, Denmark, the UK, Singapore, Thailand, Spain, Malaysia, and the Ukraine.\nCoop’s current work focuses on the personality attributes that lead to success in media and creative professions. His book, The 12 Attributes of Extraordinary Media Professionals (Rowman & Littlefield, 2022), won the 2023 Textbook Award from the Broadcast Education Association. He has published 25+ journal articles and presented 50+ conference papers, most recently focusing on cross-platform audience behaviors and sports fandom.\nAs Director of the OHIO-in-LA Program since its inception (2014), Coop teaches classes in Los Angeles, facilitates relationships and excursions, executive produces short films, and oversees internships for 20+ students in LA during the Fall semester and Summer term.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Laeeq Khan",
+   "title": "Associate Professor, Media Arts & Studies; Director, Social Media Analytics Research Team (SMART) Lab",
+   "rank": "Associate Professor",
+   "department": "School of Media Arts and Studies",
+   "profile_url": "https://www.ohio.edu/directory/laeeq-khan",
+   "personal_url": "https://professorkhan.com/",
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2026-06/laeeq-khan-directory.jpg?itok=R9bhmWp3",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital Audience Analytics & Brand Strategy",
+    "AI-Driven Communication, Ethics, and PR",
+    "Strategic Health and Crisis Communication",
+    "Global Media, Culture, and Identity"
+   ],
+   "bio": "Laeeq Khan, Ph.D., MBA, is an Associate Professor (Tenured) and the Founding Director of the Social Media Analytics Research Team (SMART) Lab in the Scripps College of Communication at Ohio University. A globally recognized scholar and strategist, his research and teaching are at the intersection of digital media, strategic communication, and data analytics.\nDr. Khan's expertise bridges the gap between academic theory and industry application, focusing on three core areas essential to modern communication fields:\nAudience Engagement & Social Media Analytics: Investigating the drivers of user participation, content virality and brand engagement across digital platforms to build actionable models for data-driven campaign strategy and audience insight.\nStrategic Messaging in Health and Crisis Communication: Examining message credibility, source influence, and public engagement to develop evidence-based crisis management and public health messaging frameworks that build trust and motivate behavior.\nEthical AI Adoption and Digital Strategy: Investigating public perception and the ethical implications of emerging technologies, providing a critical framework for tech-centric brand communication and responsible marketing of AI-powered tools.\nHis research is published in over 60 peer-reviewed studies and in the book, [The Data Analytics Advantage: Strategies and Insights to understand Social Media Audiences] (Oxford University Press).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Frederick Lewis",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Media Arts and Studies",
+   "profile_url": "https://www.ohio.edu/directory/frederick-lewis",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2021-04/lewisf.jpeg?itok=sgjxkf-K",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Documentary Production and Studies",
+    "Screenwriting"
+   ],
+   "bio": "Research interests: Documentary Production and Studies; Screenwriting\nPrior to transitioning to higher education, Professor Lewis was, for 14 years, a producer, writer, director and program/production manager based in New England. During that span he worked in commercial, cable and public television, producing everything from documentaries and public affairs programs to corporate video, commercials and Division I college basketball.\nHis independent documentaries have been seen on PBS affiliates throughout the U.S. and screened at more than 125 cultural/educational venues, including the Library of Congress, the National Gallery of Art, the National Civil Rights Museum in Memphis, TN, and at the world headquarters of The Explorers Club in NYC. These projects have taken him to Russia, Greenland, Argentina, Chile (sailing to Cape Horn), Denmark, Ireland, Newfoundland and Alaska.\nLewis is an internationally known authority on the life of controversial artist, adventurer and social activist Rockwell Kent (1882-1971).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Greg Newton",
+   "title": "Associate Professor; Associate Dean of Academic Affairs, Graduate College; Faculty Advisor, ACRN (All-Campus Radio Network) Media",
+   "rank": "Associate Professor",
+   "department": "School of Media Arts and Studies",
+   "profile_url": "https://www.ohio.edu/directory/greg-newton",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2023-08/newtong.jpg?h=19cc357c&itok=nPdWI6j_",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Management and Leadership",
+    "Content Management (Programming & Promotion)",
+    "Law and Regulation",
+    "Radio/TV programming and promotion",
+    "Free speech and the regulation of electronic media",
+    "Management and leadership in media businesses"
+   ],
+   "bio": "Research interests: Radio/TV programming and promotion; Free speech and the regulation of electronic media; Management and leadership in media businesses\nGreg is a child of the Midwestern U.S. who fell in love with radio at a young age. After a modestly successful radio career as a program director, production director, and air talent, he turned his attention to higher education and the study of media management and law, pursuing a second career in academia. He has been at Ohio University since 2002.\nHe has published journal articles in the International Journal on Media Management, Journal of Media Business Studies, Journal of Broadcasting & Electronic Media, Journal of Radio Studies, Journal of Communication, Journal of Applied Communication Research, and Journal of Promotion Management. He has also authored or co-authored textbook chapters on programming and promotion; prepared comments in Federal Communications Commission proceedings; and has frequently been invited to speak on the regulation of offensive media content.\nGreg is a Past-President of the Board of Directors of the Broadcast Education Association; and is a member of the Association for Education in Journalism & Mass Communication, the International Communication Association, and Collegiate Broadcasters, Inc.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Eve Ng",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Media Arts and Studies",
+   "profile_url": "https://www.ohio.edu/directory/eve-ng",
+   "personal_url": "http://evecng.wordpress.com",
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2025-12/nge.jpg?h=4de357fa&itok=pKsBM0Ic",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Major Areas of Scholarship\nEve Ng’s research on media, culture, and politics includes several interrelated areas: queer media production and consumption, digital media cultures, LGBTQ activism, and race, nation, and postcoloniality. Her book, Cancel Culture: A Critical Analysis (Palgrave Macmillan, 2022), is the first book to examine \"cancel culture\" from a critical media studies perspective. A second book, Mainstreaming Gays: Critical Convergences of Queer Media, Fan Cultures, and Commercial Television (Rutgers University Press, 2023) provides a new account of LGBTQ integrations into mainstream media spanning the legacy and streaming eras. Her coedited special issue of Communication, Culture & Critique about \"Centering Women on Post-2010 Chinese TV\" won the British Association of Film, Television and Screen Studies 2023 Best Edited Collection award . She has published in journals including Communication, Culture & Critique , Development and Change , Feminist Media Studies , Feminist Studies , International Journal of Communication , Journal of Film and Video, Journal of Lesbian Studies, Popular Communication, Television & New Media , and Transformative Works and Culture , as well as in Gender, Race and Class in Media (Sage, Eds. Gail Dines and Jean Humez, 2011, 2014), the Routledge Companion to Media and Human Rights (Eds. Howard Tumber and Sylvio Waisbord, 2017), and the Oxford Research Encyclopedia of Communication (Ed. Isaac West, 2021).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Beth Novak",
+   "title": "Associate Dean for Academic Affairs and Director of the Honors Tutorial Programs, Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Media Arts and Studies",
+   "profile_url": "https://www.ohio.edu/directory/beth-novak",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2022-10/novakb.jpg?h=2466284e&itok=Nb2ihVoE",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Immersive Storytelling",
+    "User Interface Design",
+    "History and Production of Animation"
+   ],
+   "bio": "Beth Novak’s love of immersive storytelling began at a young age with her first visit to Walt Disney World. An eye for design and an affinity for technology led to a career in interface design. After stints with the Chicago Tribune, the Detroit Free Press, and America Online, Beth attended The Ohio State University to earn an MFA in Design.\nBeth was excited to return to her love of immersive storytelling and to her undergraduate alma mater, Ohio University, where she has instructed in areas such as storytelling in theme parks, history of special effects, digital game production, and computer animation. Her creative work has ranged from digital game interface design for children to broadcast graphics for film.\nBeth has been recognized for her teaching with multiple awards and currently serves as interim dean of the Honors Tutorial College and is an associate professor in the School of Media Arts and Studies.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Saumya Pant",
+   "title": "Associate Professor, School of Media Arts & Studies,; Director, Communication and Development Studies",
+   "rank": "Associate Professor",
+   "department": "School of Media Arts and Studies",
+   "profile_url": "https://www.ohio.edu/directory/saumya-pant",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2024-06/pant.jpg?h=570fe6af&itok=yjXWh_b-",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Saumya Pant, Ph.D. is an Associate Professor (tenured) in the Scripps College of Communication and Director of Communication and Development Studies (CommDev) in School of International Studies and Languages (SISAL) at Ohio University. Gender and Health researcher and activist with more than fifteen years’ experience working with grassroots communities on areas of equity and empowerment, Dr. Pant’s scholarly interests are in gender equity, gender empowerment, social and behavior change, communication for social change, entertainment education media strategy for social change, positive deviance, participatory community-based research, field-based research design and implementation and participatory theater for development.\nDr. Pant’s is an avid traveler who believes that the best way to learn is by immersion. She has traveled to more than 50 countries and lived/worked in every continent. Her recent research is looking at how indigenous people reclaim their identities by using their folk culture – drawing, singing, theater, drumming, dancing. She has been working with the indigenous people - Waorani from the Ecuadorian Amazon, Sámi people of Sapmi in Norway and Bhotiyas in the Kumaon region of Uttarakhand in India.\nDr. Pant has begun research activity in the African continent.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Brian Plow",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Media Arts and Studies",
+   "profile_url": "https://www.ohio.edu/directory/brian-plow",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2024-06/plow.jpg?h=de137bd0&itok=w042jyPI",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Brian Plow is a filmmaker and educator, actively working and teaching in the areas of documentary and narrative filmmaking, with strong emphasis on storytelling, technology and community engagement. He earned his MFA in film from Ohio University’s School of Film with an emphasis in cinematography. Recent professional highlights:\n2023 Partner for Public Safety Award, Ohio State Highway Patrol\n2024 Excellence in Teaching Award, Ohio University Center for International Studies\n2024 NETA/PBS Educational Resources for the Classroom Award (WOUB Our Ohio program)\nBrian has produced, directed and edited several feature and short documentaries that have been screened at festivals and conferences throughout North America and broadcast regionally via PBS affiliates. In 2017, he produced The Veterans’ Project, featuring voiceover from actor and veterans’ advocate, Gary Sinise. Veterans’ Project won best long-form documentary at the Broadcast Education Association Festival of Media Arts and Best Feature Documentary at the Angeles Documentary Festival in LA. In 2024, Brian co-produced and edited Aftershock of a Trauma, which features the challenges faced by Afghan Fulbright students who were stranded in the US after the fall of Afghanistan to the Taliban. The film premiered at the New Jersey Documentary Film Festival and won best documentary at the DC South Asian Film Festival.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kate Raney",
+   "title": "Assistant Professor + Undergraduate Coordinator",
+   "rank": "Assistant Professor",
+   "department": "School of Media Arts and Studies",
+   "profile_url": "https://www.ohio.edu/directory/kate-raney",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2019-07/raneyk.jpg?itok=DoZhV4WU",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Traditional Animation Techniques",
+    "Animated Shorts",
+    "Visual Storytelling"
+   ],
+   "bio": "Kate Raney began animating in college when given an assignment to make a 1 minute animated film. She immediately connected with the materiality and process of animating. Initially focusing on reinterpreting fairy tales with a feminist subtext, she turned to appropriating imagery from modern myths - the movies. As a graduate student at UW Milwaukee, she moved away from 16mm film and began working in digital formats. Her current interests involve combining live action and animation to investigate gender representation in the digital age.\nIn addition to teaching and making art, Kate has also worked as a film programmer at the Union Theatre in Milwaukee, WI and assisted with programming for Block Cinema and the Onion City Film Festival.\nHer work has screened at numerous festivals such as SXSW Film Festival, the Athens International Film and Video Festival, the Big Muddy Film Festival, and the Wisconsin Film Festival. In summer 2011 Kate was a Sponsored Artist at High Concept Laboratories in Chicago where she shot her current work-in-progress “The Cleo Project.” She has also been working with students on a grant-funded stop-motion short at Ohio University, geared toward getting K-3rd grade students excited about nanoscience.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Wolfgang Suetzl",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Media Arts and Studies",
+   "profile_url": "https://www.ohio.edu/directory/wolfgang-suetzl",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2022-04/suetzl.jpeg?h=2bf8d065&itok=fJJ9vKuG",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Wolfgang Suetzl is a philosopher, media theorist, and linguist. He completed his PhD in Philosophy at the Universitat Jaume I in Valencia, Spain, after finishing his MA in Peace Studies at the University of Bradford, UK, and a first degree in English and Spanish at the University of Vienna, Austria. Before joining MDIA, he was a research fellow at the University of Innsbruck, Austria, conducting a research project on media activism. He was also chief researcher of World-Information.Org, a six-year international collaboration of scholars, artists, and technologists researching critical perspectives on the information society. Wolfgang Suetzl is a faculty member at the Transart Institute's MFA program (New York/Plymouth, UK), and the University of Innsbruck's MA program in peace, development, and conflict transformation. He has taught in Austria, Spain, Germany, and Central America.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lawrence Wood",
+   "title": "Associate Professor, Media Arts & Studies",
+   "rank": "Associate Professor",
+   "department": "School of Media Arts and Studies",
+   "profile_url": "https://www.ohio.edu/directory/lawrence-wood",
+   "personal_url": null,
+   "photo_url": "https://www.ohio.edu/directory/sites/ohio.edu.directory/files/styles/profile_portrait/public/2024-05/woodl.jpg?h=cc2395b9&itok=zsp5VlY3",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Wood has a strong interdisciplinary background. He has worked in the School of Media Arts and Studies for the past 20 years, and prior to that he earned degrees in Geography, Economics, and History. He has published numerous peer-reviewed articles on topics that include the digital divide; regional development policy; rural development; and discursive constructions of poverty in the media. Dr. Wood’s current research interests center around relationships between photography (primarily mobile photography) and social media. This includes examining the participatory and artistic opportunities associated with the emergence of social networking sites such as Instagram, as well as the tendencies for photographic content on such sites to perpetuate, if not exacerbate, negative stereotypes associated with geographic locations and the people who live there. These current research interests have been informed by his own experience with photography – his photographs have won a number of awards and have been shown in several galleries as well as in the Columbus Museum of Art. His current teaching profile generally consists of the following courses: Introduction to Social Media; Media and Development; Critical Analysis of Media Aesthetics; and Research Methods in Communication and Development. Over the course of his academic career, Dr.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  }
+ ]
+}

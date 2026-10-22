@@ -1,0 +1,2606 @@
+{
+  "slug": "university-of-kansas",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Mary Banwart",
+      "summary": "Studies gender in political campaigns and candidate communication across ads, websites, and news, and evaluates leadership programs for civic engagement.",
+      "summary_zh": "研究政治竞选中的性别问题及候选人在广告、网站和新闻中的传播，并评估领导力项目对公民参与的影响。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "political communication",
+        "gender and politics",
+        "political campaigns",
+        "videostyle",
+        "candidate communication",
+        "leadership development",
+        "civic engagement",
+        "women's leadership"
+      ]
+    },
+    {
+      "name": "Jay P. Childers",
+      "summary": "Examines the intersection of rhetoric, politics, and violence, including political tone and changing norms of youth democratic engagement in the United States.",
+      "summary_zh": "研究修辞、政治与暴力的交汇，包括政治语调以及美国青年民主参与规范的变化。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "rhetoric and violence",
+        "political tone",
+        "democratic engagement",
+        "youth civic engagement",
+        "presidential rhetoric",
+        "public address",
+        "political rhetoric"
+      ]
+    },
+    {
+      "name": "Angela Gist-Mackey",
+      "summary": "Studies social class, stigma, and economic mobility in organizational contexts through critical, comparative, community-engaged ethnography.",
+      "summary_zh": "通过批判性、比较性和社区参与式民族志，研究组织情境中的社会阶层、污名与经济流动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "organizational communication",
+        "social class",
+        "social mobility",
+        "stigmatized identities",
+        "unemployment",
+        "organizational culture",
+        "ethnography",
+        "community-engaged research"
+      ]
+    },
+    {
+      "name": "Jeffrey A. Hall",
+      "summary": "Studies how people build and maintain relationships through everyday interaction and communication technologies, including the social biome of daily contact.",
+      "summary_zh": "研究人们如何通过日常互动和传播技术建立与维系人际关系，包括日常交往构成的“社会生物群落”。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "relationships and technology",
+        "interpersonal communication",
+        "social biome",
+        "friendship",
+        "mediated communication",
+        "human communication and technology",
+        "everyday talk"
+      ]
+    },
+    {
+      "name": "Beth Innocenti",
+      "summary": "Theorizes how public and political arguing generates persuasive force, drawing on normative pragmatics, argumentation theory, and the history of rhetoric.",
+      "summary_zh": "借助规范语用学、论辩理论与修辞史，阐释公共与政治论辩如何产生说服力。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "argumentation",
+        "normative pragmatics",
+        "persuasive force",
+        "history of rhetoric",
+        "informal logic",
+        "displays of aggression",
+        "women's rights rhetoric"
+      ]
+    },
+    {
+      "name": "Adrianne Kunkel",
+      "summary": "Studies emotional support and coping in personal relationships and support groups, romantic relationship redefinition, gender differences, and domestic violence intervention.",
+      "summary_zh": "研究亲密关系与支持小组中的情感支持与应对、恋爱关系的重新界定、性别差异以及家庭暴力干预。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "emotional support",
+        "coping",
+        "social support",
+        "romantic relationships",
+        "sex and gender differences",
+        "sexual harassment",
+        "domestic violence",
+        "support groups"
+      ]
+    },
+    {
+      "name": "Yue Li",
+      "summary": "Uses network analysis, NLP, and machine learning on digital trace and longitudinal survey data to study health and political information processing and misinformation diffusion.",
+      "summary_zh": "运用网络分析、自然语言处理和机器学习分析数字痕迹与纵向调查数据，研究健康与政治信息处理及虚假信息扩散。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "computational social science",
+        "misinformation diffusion",
+        "social network analysis",
+        "natural language processing",
+        "machine learning",
+        "health information processing",
+        "digital trace data",
+        "longitudinal media effects"
+      ]
+    },
+    {
+      "name": "Robert McDonald",
+      "summary": "Studies rhetorical theory and public culture, especially the rhetoric of economics, through psychoanalytic and cultural-studies approaches.",
+      "summary_zh": "从精神分析与文化研究视角研究修辞理论与公共文化，尤其关注经济的修辞。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "rhetorical theory",
+        "psychoanalytic theory",
+        "rhetoric of economics",
+        "cultural studies",
+        "public culture",
+        "zizek",
+        "popular culture"
+      ]
+    },
+    {
+      "name": "Ashley Muddiman",
+      "summary": "Studies political incivility and its effects online, including citizen perceptions, partisan incivility in news comment sections, and clickbait headlines.",
+      "summary_zh": "研究网络政治不文明及其效果，包括公民感知、新闻评论区中的党派不文明以及标题党。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "political incivility",
+        "online comments",
+        "comment sections",
+        "clickbait headlines",
+        "partisan media",
+        "digital news engagement",
+        "political media effects"
+      ]
+    },
+    {
+      "name": "Dorthy Pennington",
+      "summary": "Studies interracial and intercultural communication and African American rhetoric, analyzing identity, race, and power in figures such as Barack Obama and Condoleezza Rice.",
+      "summary_zh": "研究跨种族与跨文化传播及非裔美国人修辞，分析奥巴马、赖斯等人物话语中的身份、种族与权力。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "interracial communication",
+        "critical race theory",
+        "african american communication",
+        "cultural rhetorics",
+        "diaspora studies",
+        "barack obama",
+        "discourse of trauma",
+        "racial identity"
+      ]
+    },
+    {
+      "name": "Cameron Piercy",
+      "summary": "Studies how socio-technical interactions, including human-machine communication and teaming with work technologies, change teams, groups, and work.",
+      "summary_zh": "研究人机传播及与工作技术协同等社会技术互动如何改变团队、群体与工作。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "human-machine communication",
+        "teams and groups",
+        "sociotechnical interaction",
+        "work technologies",
+        "computer-mediated communication",
+        "future of work",
+        "open textbooks"
+      ]
+    },
+    {
+      "name": "Rikki Roscoe",
+      "summary": "Examines how stigma as a power-laden communication process shapes health inequities in mental, reproductive, and autoimmune health through critical-interpretive research.",
+      "summary_zh": "以批判—阐释取向研究污名作为蕴含权力的传播过程如何在心理健康、生殖健康和自身免疫疾病中造成健康不平等。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health stigma",
+        "health inequities",
+        "celiac disease",
+        "mental health",
+        "reproductive health",
+        "autoimmune conditions",
+        "identity",
+        "organizing"
+      ]
+    },
+    {
+      "name": "Robert C. Rowland",
+      "summary": "Analyzes argumentation and political rhetoric through rhetorical criticism, including nationalist populism in Donald Trump's rhetoric and American democracy.",
+      "summary_zh": "通过修辞批评研究论辩与政治修辞，包括特朗普话语中的民族主义民粹主义与美国民主。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "argumentation",
+        "political rhetoric",
+        "rhetorical criticism",
+        "donald trump",
+        "nationalist populism",
+        "presidential rhetoric",
+        "american democracy"
+      ]
+    },
+    {
+      "name": "Dave Tell",
+      "summary": "Studies race and public memory, especially the murder of Emmett Till, through historical research and public humanities projects such as apps, exhibits, and markers.",
+      "summary_zh": "通过历史研究以及应用程序、展览和纪念标牌等公共人文项目，研究种族与公共记忆，尤其是艾米特·提尔谋杀案。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "emmett till",
+        "public memory",
+        "race",
+        "public humanities",
+        "digital humanities",
+        "civil rights history",
+        "museum exhibits",
+        "black kansas city"
+      ]
+    },
+    {
+      "name": "Alcides Velasquez",
+      "summary": "Studies how social identity, stigma, and hostile media perceptions shape political expression and mobilization on social media among Latino communities, using multi-method designs.",
+      "summary_zh": "运用多方法设计，研究社会身份、污名与敌意媒体感知如何影响拉丁裔社群在社交媒体上的政治表达与动员。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "social identity",
+        "political expression",
+        "latino",
+        "stigma",
+        "hostile media perception",
+        "collective action",
+        "social media",
+        "discrimination"
+      ]
+    },
+    {
+      "name": "Alesia Woszidlo",
+      "summary": "Studies family communication, linking communication processes to mental health, family functioning, and relationship quality, and examines leadership program effectiveness.",
+      "summary_zh": "研究家庭传播，探讨传播过程与心理健康、家庭功能和关系质量的关联，并考察领导力项目的成效。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "family communication",
+        "mental health",
+        "family functioning",
+        "relationship quality",
+        "stress and coping",
+        "conflict management",
+        "leadership development"
+      ]
+    },
+    {
+      "name": "Yan Bing Zhang",
+      "summary": "Studies intergroup and intercultural communication, linking relationships, social cognition, culture, identity, and aging in face-to-face and mediated contexts.",
+      "summary_zh": "研究群际与跨文化传播，关注面对面及中介情境中的关系、社会认知、文化、身份与老龄化。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "intergroup communication",
+        "intercultural communication",
+        "communication and aging",
+        "social cognition",
+        "cultural identity",
+        "language and social psychology",
+        "cross-cultural gerontology"
+      ]
+    },
+    {
+      "name": "Alyssa Appelman",
+      "summary": "Studies how journalistic practices such as errors, transparency, and AI use affect audience perceptions of news accuracy and credibility.",
+      "summary_zh": "研究新闻差错、透明度和人工智能使用等新闻实践如何影响受众对新闻准确性与可信度的感知。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "news accuracy",
+        "news credibility",
+        "fact-checking",
+        "grammatical errors",
+        "journalistic transparency",
+        "ai in journalism",
+        "information processing",
+        "editing"
+      ]
+    },
+    {
+      "name": "Genelle Belmas",
+      "summary": "Studies media law and ethics, including legal issues of satire and parody accounts and press privilege protections for student journalists.",
+      "summary_zh": "研究媒介法律与伦理，包括讽刺与恶搞账号的法律问题以及学生记者的新闻特权保护。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "media law",
+        "media ethics",
+        "parody accounts",
+        "satire",
+        "shield laws",
+        "student journalists",
+        "communications law"
+      ]
+    },
+    {
+      "name": "Steve Bien-Aime",
+      "summary": "Researches race and gender issues in media, drawing on a background in sports and business journalism and inclusive-language training.",
+      "summary_zh": "研究媒体中的种族与性别问题，其背景包括体育与商业新闻报道以及包容性语言培训。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "race and media",
+        "gender and media",
+        "inclusive language",
+        "newsroom diversity",
+        "sports journalism",
+        "media representation"
+      ]
+    },
+    {
+      "name": "Ann M. Brill",
+      "summary": "Holds a journalism and mass communications faculty post after serving as dean; the profile lists teaching and administrative awards but no research focus.",
+      "summary_zh": "曾任院长后回归新闻与大众传播学院任教；个人页面仅列出教学与行政奖项，未说明研究方向。",
+      "confidence": "low",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "journalism education",
+        "academic administration",
+        "journalism and mass communications",
+        "aejmc",
+        "teaching"
+      ]
+    },
+    {
+      "name": "Sarah Cavanah",
+      "summary": "Studies access to quality news in rural communities and sustainable local news models, scholastic student media, and science communication on social media.",
+      "summary_zh": "研究农村社区获取优质新闻的状况与可持续的地方新闻模式、中学生媒体以及社交媒体上的科学传播。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "rural news",
+        "local news sustainability",
+        "community information",
+        "scholastic media",
+        "student media",
+        "science communication",
+        "news audiences"
+      ]
+    },
+    {
+      "name": "Yvonnes Chen",
+      "summary": "Designs and tests media and health literacy interventions for adolescents and uses brain measures to study how persuasive health messages work.",
+      "summary_zh": "为青少年设计并检验媒介与健康素养干预，并借助脑测量研究说服性健康信息的作用机制。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "media literacy",
+        "health literacy",
+        "adolescents",
+        "prevention intervention",
+        "persuasive messages",
+        "brain responses",
+        "healthy lifestyles",
+        "health campaigns"
+      ]
+    },
+    {
+      "name": "Jeff Conlin",
+      "summary": "Studies persuasive effects of messages, images, and emotions in environmental and public health risk communication and political advertising.",
+      "summary_zh": "研究信息、图像与情绪在环境与公共卫生风险传播及政治广告中的说服效果。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "persuasion",
+        "emotional appeals",
+        "political advertising",
+        "narrative ads",
+        "vaccine hesitancy",
+        "risk communication",
+        "environmental communication",
+        "disgust"
+      ]
+    },
+    {
+      "name": "Elizabeth Cox",
+      "summary": "Studies public relations in sports, focusing on team-fan relationships, name-image-likeness partnerships, crisis communication, and mental health messaging.",
+      "summary_zh": "研究体育领域的公共关系，关注球队与球迷关系、姓名形象肖像权（NIL）合作、危机传播与心理健康信息。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "sports communication",
+        "public relations",
+        "team-fan relationships",
+        "name image and likeness",
+        "crisis communication",
+        "entertainment publicity",
+        "mental health messaging",
+        "social media"
+      ]
+    },
+    {
+      "name": "Megan Denneny",
+      "summary": "Examines the ethics of health marketing in reproductive and maternal care, such as prenatal testing ads, using critical theory and qualitative methods.",
+      "summary_zh": "运用批判理论与质性方法，研究生殖与孕产保健中健康营销的伦理问题，例如无创产前检测广告。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "reproductive health",
+        "maternal health",
+        "prenatal testing",
+        "direct-to-consumer advertising",
+        "health marketing",
+        "informed consent",
+        "ethics of strategic communication"
+      ]
+    },
+    {
+      "name": "Vaibhav Diwanji",
+      "summary": "Studies consumer behavior at the intersection of new and emerging media technologies and strategic communication, advertising, and marketing.",
+      "summary_zh": "研究新兴媒介技术与战略传播、广告和营销交汇处的消费者行为。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "consumer behavior",
+        "emerging media technologies",
+        "advertising",
+        "strategic communication",
+        "marketing communication",
+        "account planning",
+        "retailing"
+      ]
+    },
+    {
+      "name": "Christopher Etheridge",
+      "summary": "Studies media representations of crime, community information needs and storytelling, and digital technology adoption in rural communities.",
+      "summary_zh": "研究犯罪的媒体呈现、社区信息需求与社区叙事，以及农村社区的数字技术采纳。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "crime news",
+        "media representations of crime",
+        "community storytelling",
+        "information needs",
+        "information seeking",
+        "rural communities",
+        "technology adoption",
+        "local news"
+      ]
+    },
+    {
+      "name": "Teri Finneman",
+      "summary": "Studies press coverage of U.S. first ladies and women politicians, journalism history, and rural local news, using historical analysis and oral history.",
+      "summary_zh": "运用历史分析与口述史方法，研究美国第一夫人与女性政治人物的新闻报道、新闻史以及农村地方新闻。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "first ladies",
+        "women politicians",
+        "journalism history",
+        "oral history",
+        "suffrage movement",
+        "rural news",
+        "news deserts",
+        "gender and media"
+      ]
+    },
+    {
+      "name": "Mugur Geana",
+      "summary": "Studies health communication strategies and media interventions for underserved populations, including vaccine uptake, social determinants of health, and AI in consumer health.",
+      "summary_zh": "研究面向弱势群体的健康传播策略与媒介干预，包括疫苗接种、健康的社会决定因素以及人工智能对消费者健康传播的影响。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health communication",
+        "health disparities",
+        "underserved populations",
+        "vaccine uptake",
+        "public health campaigns",
+        "social determinants of health",
+        "ai and consumer health",
+        "media interventions"
+      ]
+    },
+    {
+      "name": "Melissa Greene-Blye",
+      "summary": "Examines journalistic representations and negotiations of American Indian identity, past and present, through journalism history research.",
+      "summary_zh": "通过新闻史研究，考察新闻报道中美洲原住民身份的呈现与协商，涵盖过去与当下。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "american indian identity",
+        "native american representation",
+        "indigenous peoples",
+        "journalism history",
+        "news representation"
+      ]
+    },
+    {
+      "name": "Carol Holstead",
+      "summary": "Studies magazine design and how students learn, drawing on a professional background in magazine writing and editing.",
+      "summary_zh": "研究杂志设计及学生如何学习，其背景为杂志写作与编辑实务。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "magazine design",
+        "magazine journalism",
+        "teaching and learning",
+        "visual communication",
+        "journalism education"
+      ]
+    },
+    {
+      "name": "Margarita Orozco",
+      "summary": "Studies political communication, media effects, and deliberation in conflict contexts, including populism and intergroup emotions in the U.S. and Latin America.",
+      "summary_zh": "研究政治传播、媒介效果与冲突情境中的协商，包括美国与拉丁美洲的民粹主义和群际情绪。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "populism",
+        "intergroup emotions",
+        "deliberation",
+        "conflict contexts",
+        "media effects",
+        "latin america",
+        "journalism and democracy"
+      ]
+    },
+    {
+      "name": "Scott Reinardy",
+      "summary": "Studies burnout, job change, and organizational adaptation among newspaper and television newsroom workers, along with media ethics and journalism education.",
+      "summary_zh": "研究报纸与电视新闻编辑室从业者的职业倦怠、工作变化与组织适应，以及媒体伦理和新闻教育。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "journalist burnout",
+        "newsroom change",
+        "newsroom management",
+        "media ethics",
+        "journalism education",
+        "sports journalism",
+        "newspaper industry",
+        "television newsrooms"
+      ]
+    },
+    {
+      "name": "Judith Rosenbaum-Andre",
+      "summary": "Studies why people use digital and entertainment media and its effects, including spoilers and enjoyment, social media use, and media literacy.",
+      "summary_zh": "研究人们为何使用数字与娱乐媒介及其影响，包括剧透与享受、社交媒体使用以及媒介素养。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "media uses",
+        "spoilers",
+        "enjoyment",
+        "empathic distress",
+        "social media use",
+        "media literacy",
+        "ai in education",
+        "entertainment media"
+      ]
+    },
+    {
+      "name": "Hyunjin Seo",
+      "summary": "Studies networked communication and its implications for collective action, civic engagement, and digital inclusion, including South Korean protest movements.",
+      "summary_zh": "研究网络化传播及其对集体行动、公民参与和数字包容的影响，包括韩国的抗议运动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_EAST_ASIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "collective action",
+        "social movements",
+        "networked communication",
+        "civic engagement",
+        "digital inclusion",
+        "south korea",
+        "impeachment",
+        "computational social science"
+      ]
+    },
+    {
+      "name": "Yunwen Wang",
+      "summary": "Studies health communication, misinformation, and user experience with emerging media, using NLP, computer vision, and mixed methods to serve marginalized communities.",
+      "summary_zh": "运用自然语言处理、计算机视觉与混合方法研究健康传播、虚假信息及新兴媒介的用户体验，服务边缘化社群。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health communication",
+        "user experience",
+        "natural language processing",
+        "computer vision",
+        "bertopic",
+        "mpox",
+        "sexual minority men",
+        "misinformation"
+      ]
+    },
+    {
+      "name": "Doug Ward",
+      "summary": "Studies pedagogy and teaching evaluation in higher education, digital literacy, and data visualization, and builds web, app, and bot tools for teaching.",
+      "summary_zh": "研究高等教育中的教学法与教学评估、数字素养和数据可视化，并为教学开发网站、应用与聊天机器人工具。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "pedagogy",
+        "evaluation of teaching",
+        "higher education",
+        "active learning",
+        "data visualization",
+        "digital literacy",
+        "teaching and technology",
+        "american cultural history"
+      ]
+    },
+    {
+      "name": "Judy Watts",
+      "summary": "Studies narrative persuasion, health communication, and children's understanding of media, focusing on emotional responses, attitude change, and knowledge across the lifespan.",
+      "summary_zh": "研究叙事说服、健康传播及儿童对媒介的理解，关注毕生发展中的情绪反应、态度改变与知识获取。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "narrative persuasion",
+        "health communication",
+        "children's understanding of media",
+        "emotional responses",
+        "attitude change",
+        "lifespan",
+        "media psychology"
+      ]
+    },
+    {
+      "name": "Tamar Wilner",
+      "summary": "Studies news literacy, media trust, and misinformation, including news skepticism and cynicism and the gap between journalism research and practice.",
+      "summary_zh": "研究新闻素养、媒体信任与虚假信息，包括新闻怀疑与犬儒态度，以及新闻学研究与实践之间的鸿沟。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "news literacy",
+        "media trust",
+        "misinformation",
+        "news skepticism",
+        "news cynicism",
+        "research-practice gap",
+        "digital literacy",
+        "audience studies"
+      ]
+    }
+  ]
+}

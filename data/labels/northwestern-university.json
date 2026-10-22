@@ -602,15 +602,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_ADMIN_LARGE_SCALE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_ORGANIZATIONS_WORKPLACES",
@@ -798,22 +790,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_NEWSROOMS_MEDIA_ORGS",
@@ -1014,8 +991,8 @@
   },
   {
    "name": "Robert Hariman",
-   "summary": "Studies rhetoric and modern visual public culture, such as photojournalism and civic spectatorship, through rhetorical and critical analysis of political judgment.",
-   "summary_zh": "研究修辞学与现代视觉公共文化，如新闻摄影与公民观看，通过修辞与批判分析探讨政治判断。",
+   "summary": "Studies rhetoric and modern visual public culture, such as public photography and civic spectatorship, through rhetorical and critical analysis of political judgment.",
+   "summary_zh": "研究修辞学与现代视觉公共文化，如公共摄影与公民观看，通过修辞与批判分析探讨政治判断。",
    "confidence": "high",
    "labels": {
     "topic": [
@@ -1087,7 +1064,7 @@
    "keywords": [
     "rhetorical theory",
     "visual culture",
-    "photojournalism",
+    "photography",
     "civic spectatorship",
     "public culture",
     "political judgment",
@@ -1231,22 +1208,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_ADMIN_LARGE_SCALE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_PLATFORMS",
@@ -1270,8 +1232,8 @@
   },
   {
    "name": "Matthew Kay",
-   "summary": "Studies how to communicate uncertainty and make statistics usable through information visualization, building and experimentally testing visualization tools and techniques.",
-   "summary_zh": "通过信息可视化研究如何传达不确定性、提升统计的可用性，构建并通过实验检验可视化工具与技术。",
+   "summary": "Studies how to communicate uncertainty and make statistics usable through information visualization, building and evaluating interactive systems and visualization techniques.",
+   "summary_zh": "通过信息可视化研究如何传达不确定性、提升统计的可用性，构建并评估交互系统与可视化技术。",
    "confidence": "high",
    "labels": {
     "topic": [
@@ -1302,14 +1264,6 @@
       ]
      },
      {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "personal_site"
-      ]
-     },
-     {
       "code": "A_MIXED",
       "primary": false,
       "sources": [
@@ -1318,16 +1272,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "personal_site"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [],
     "region": []
    },
@@ -1439,15 +1384,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_ADMIN_LARGE_SCALE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_HEALTH_SYSTEMS",
@@ -1654,15 +1591,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_ELECTIONS_GOVERNMENT",
@@ -2062,15 +1991,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_ADMIN_LARGE_SCALE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_PLATFORMS",
@@ -3146,6 +3067,13 @@
       "sources": [
        "department_profile"
       ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
      }
     ],
     "approach": [
@@ -3647,6 +3575,66 @@
     "television writing",
     "biopic",
     "theatre"
+   ]
+  },
+  {
+   "name": "Elizabeth Gerber",
+   "summary": "Studies design, innovation management, and organizational behavior, focusing on human-centered design thinking, prototyping, and student design for social impact.",
+   "summary_zh": "研究设计、创新管理与组织行为，关注以人为本的设计思维、原型迭代，以及学生面向社会影响的设计实践。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "design thinking",
+    "innovation management",
+    "organizational behavior",
+    "human-centered design",
+    "prototyping",
+    "design for america",
+    "social impact design"
    ]
   }
  ]

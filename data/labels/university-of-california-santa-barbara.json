@@ -632,6 +632,13 @@
             "sources": [
               "department_profile"
             ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
           }
         ],
         "approach": [
@@ -940,15 +947,7 @@
             ]
           }
         ],
-        "approach": [
-          {
-            "code": "A_SURVEY",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "approach": [],
         "data": [],
         "setting": [
           {
@@ -1475,15 +1474,7 @@
             ]
           }
         ],
-        "approach": [
-          {
-            "code": "A_QUALITATIVE",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "approach": [],
         "data": [],
         "setting": [
           {
@@ -1555,13 +1546,6 @@
           {
             "code": "A_THEORY",
             "primary": true,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
-            "code": "A_EXPERIMENT",
-            "primary": false,
             "sources": [
               "department_profile"
             ]
@@ -2632,6 +2616,13 @@
             "sources": [
               "department_profile"
             ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
           }
         ],
         "data": [
@@ -2729,7 +2720,8 @@
             "code": "D_ARCHIVES_TEXTS",
             "primary": false,
             "sources": [
-              "department_profile"
+              "department_profile",
+              "publications"
             ]
           }
         ],
@@ -2747,14 +2739,16 @@
             "code": "R_US",
             "primary": false,
             "sources": [
-              "department_profile"
+              "department_profile",
+              "publications"
             ]
           },
           {
             "code": "R_GLOBAL_CROSS_NATIONAL",
             "primary": false,
             "sources": [
-              "department_profile"
+              "department_profile",
+              "publications"
             ]
           }
         ]

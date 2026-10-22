@@ -1,0 +1,921 @@
+{
+ "slug": "university-of-pittsburgh",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "Caitlin Bruce",
+   "summary": "Studies how public art and graffiti scenes create spaces of encounter across social difference, examining visual rhetoric, affect and public space in transnational contexts.",
+   "summary_zh": "研究公共艺术与涂鸦场景如何为跨越社会差异的相遇创造空间，考察跨国语境中的视觉修辞、情感与公共空间。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "public art",
+    "graffiti",
+    "murals",
+    "visual rhetoric",
+    "affect",
+    "rhetoric of space and place",
+    "transnationalism",
+    "feminism",
+    "public space"
+   ]
+  },
+  {
+   "name": "Elfriede Fürsich",
+   "summary": "Critically analyzes media representation in lifestyle genres such as travel journalism and food media, and how newsgames and global media shape discourses of diversity, migration and identity.",
+   "summary_zh": "批判性分析旅游新闻、美食媒体等生活方式类新闻中的媒介再现，以及新闻游戏和全球媒体如何塑造关于多元文化、移民与身份的话语。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "media representation",
+    "travel journalism",
+    "food media",
+    "lifestyle journalism",
+    "newsgames",
+    "globalization",
+    "migration",
+    "cultural diversity",
+    "digital storytelling"
+   ]
+  },
+  {
+   "name": "Litzy Galarza",
+   "summary": "Studies Latina/o/x media representation, citizenship and labor in the culture industries, critically analyzing U.S. television portrayals of Latinx belonging and immigration as well as advertising.",
+   "summary_zh": "研究拉丁裔媒介再现、公民身份以及文化产业中的劳动，批判性分析美国电视对拉丁裔归属与移民的呈现以及广告。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "latinx media",
+    "citizenship",
+    "advertising studies",
+    "culture industries",
+    "media labor",
+    "television representation",
+    "jane the virgin",
+    "immigration"
+   ]
+  },
+  {
+   "name": "Paul Elliott Johnson",
+   "summary": "Takes a critical approach to political communication and public address, focusing on populist rhetoric by conservative forces in Western democracies, especially the United States.",
+   "summary_zh": "以批判性路径研究政治传播与公共演说，聚焦西方民主国家（尤其是美国）保守势力的民粹主义修辞。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "populist rhetoric",
+    "conservatism",
+    "political communication",
+    "democratic theory",
+    "public address",
+    "argumentation",
+    "civic rhetoric",
+    "social movements",
+    "political authority"
+   ]
+  },
+  {
+   "name": "Olga Kuchinskaya",
+   "summary": "Studies science communication about health and environmental hazards from a feminist STS perspective, using archival and ethnographic research on Chernobyl radiation in Belarus.",
+   "summary_zh": "从女性主义科学技术研究视角研究健康与环境风险的科学传播，运用档案和民族志方法研究白俄罗斯的切尔诺贝利辐射问题。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_EUROPE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "science communication",
+    "science and technology studies",
+    "feminist sts",
+    "chernobyl",
+    "radiation health effects",
+    "environmental hazards",
+    "belarus",
+    "ethnography",
+    "public knowledge"
+   ]
+  },
+  {
+   "name": "Brenton J. Malin",
+   "summary": "Studies media history, theory and criticism, analyzing how popular media and media technologies constitute identity, masculinity and emotion in American culture.",
+   "summary_zh": "研究媒介历史、理论与批评，分析流行媒体和媒介技术如何建构美国文化中的身份、男性气质与情感。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_RHETORIC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "media history",
+    "critical theory",
+    "cultural studies",
+    "masculinity",
+    "media technology and emotion",
+    "intellectual history",
+    "rhetoric of inquiry",
+    "popular culture"
+   ]
+  },
+  {
+   "name": "David L. Marshall",
+   "summary": "Studies the intellectual history of rhetoric, from Giambattista Vico in early modern Europe to Weimar-era German thinkers, treating historical work as theoretical inquiry.",
+   "summary_zh": "研究修辞学的思想史，从近代早期欧洲的维柯到魏玛时期的德国思想家，将历史研究视为理论探究。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_EUROPE",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "intellectual history",
+    "history of rhetoric",
+    "giambattista vico",
+    "weimar",
+    "heidegger",
+    "walter benjamin",
+    "aby warburg",
+    "visual rhetoric",
+    "rhetorical inquiry"
+   ]
+  },
+  {
+   "name": "Calum Matheson",
+   "summary": "Studies propaganda, misinformation and conspiracy communities such as QAnon and Internet subcultures, drawing on rhetoric, media studies and psychoanalysis.",
+   "summary_zh": "借助修辞学、媒介研究和精神分析，研究宣传、虚假信息以及匿名者Q等阴谋论社群和网络亚文化。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "conspiracy theories",
+    "qanon",
+    "propaganda",
+    "misinformation",
+    "psychoanalysis",
+    "internet subcultures",
+    "nuclear rhetoric",
+    "sovereign citizens",
+    "doomsday preppers"
+   ]
+  },
+  {
+   "name": "Gordon R. Mitchell",
+   "summary": "Studies rhetoric and argumentation in military and healthcare contexts, including missile defense advocacy, intelligence analysis, preventive force and debate pedagogy.",
+   "summary_zh": "研究军事和医疗语境中的修辞与论证，包括导弹防御倡导、情报分析、先发制人武力以及辩论教学。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "argumentation",
+    "missile defense",
+    "intelligence analysis",
+    "strategic deception",
+    "debate",
+    "preventive force",
+    "security strategy",
+    "healthcare argumentation"
+   ]
+  },
+  {
+   "name": "Samantha Shorey",
+   "summary": "Studies how automated technologies such as AI and robots are adopted in the workplace, using ethnography, design research and critical making.",
+   "summary_zh": "运用民族志、设计研究和批判性制作方法，研究人工智能和机器人等自动化技术在工作场所中的采纳与应用。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "artificial intelligence",
+    "robots",
+    "automation",
+    "workplace technology",
+    "essential workers",
+    "ethnography",
+    "critical making",
+    "design research",
+    "3d printing"
+   ]
+  },
+  {
+   "name": "Samuel Woolley",
+   "summary": "Studies computational propaganda and disinformation: how groups worldwide use social bots, AI, algorithms and influencers to manipulate public opinion online.",
+   "summary_zh": "研究计算宣传与虚假信息：世界各地的群体如何利用社交机器人、人工智能、算法和网红在网络上操纵舆论。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "computational propaganda",
+    "disinformation",
+    "social bots",
+    "artificial intelligence",
+    "influencers",
+    "manipulation",
+    "public opinion",
+    "emergent technologies"
+   ]
+  },
+  {
+   "name": "Ronald J. Zboray",
+   "summary": "Studies communication history through a biographical lens, using diaries and letters to examine print culture, disability and the lives of disempowered people in antebellum America.",
+   "summary_zh": "以传记视角研究传播史，利用日记和书信考察美国内战前的印刷文化、残障以及弱势群体的生活经历。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "communication history",
+    "book history",
+    "print culture",
+    "disability history",
+    "diaries",
+    "personal letters",
+    "antebellum america",
+    "new england"
+   ]
+  }
+ ]
+}

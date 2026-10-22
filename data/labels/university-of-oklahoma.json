@@ -1,0 +1,2220 @@
+{
+ "slug": "university-of-oklahoma",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "John Banas",
+   "summary": "Studies persuasion and resistance to misinformation and conspiracy theories, testing inoculation, reactance, and mediated intergroup contact theories with quantitative methods.",
+   "summary_zh": "研究说服以及对虚假信息和阴谋论的抵抗，用定量方法检验免疫理论、心理抗拒理论和中介化群际接触理论。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "persuasion",
+    "inoculation theory",
+    "psychological reactance",
+    "misinformation",
+    "conspiracy theories",
+    "resistance to influence",
+    "mediated intergroup contact",
+    "humor"
+   ]
+  },
+  {
+   "name": "Elena Bessarabova",
+   "summary": "Studies how emotion and cognition shape persuasion and maladaptive beliefs such as bias, deception, and misinformation, developing reactance and inoculation-based mitigation strategies.",
+   "summary_zh": "研究情绪与认知如何影响说服以及偏见、欺骗和虚假信息等不良信念，并基于心理抗拒与免疫理论开发纠偏策略。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "persuasion",
+    "emotion",
+    "psychological reactance",
+    "inoculation theory",
+    "misinformation",
+    "deception",
+    "conspiratorial beliefs",
+    "message framing",
+    "terror management health model"
+   ]
+  },
+  {
+   "name": "Ryan Bisel",
+   "summary": "Studies leadership communication, organizational culture, and behavioral ethics, theorizing how organizations learn morally through communication and team learning.",
+   "summary_zh": "研究领导传播、组织文化与行为伦理，从传播视角理论化组织的道德学习与团队学习。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "leadership communication",
+    "organizational culture",
+    "behavioral ethics",
+    "organizational moral learning",
+    "organizational change messaging",
+    "team learning"
+   ]
+  },
+  {
+   "name": "Ioana Cionea",
+   "summary": "Studies how people argue and manage conflict in interpersonal and intercultural relationships, including online, using quantitative modeling, scale development, and SEM.",
+   "summary_zh": "研究人们如何在人际与跨文化关系（包括网络上）中争论和处理冲突，采用定量建模、量表开发与结构方程模型。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_RHETORIC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "serial arguments",
+    "interpersonal conflict",
+    "arguing goals",
+    "intercultural marriages",
+    "structural equation modeling",
+    "psychometrics",
+    "online arguments",
+    "facebook",
+    "twitter"
+   ]
+  },
+  {
+   "name": "Jill Edy",
+   "summary": "Studies how news media construct and maintain collective memory of events such as 1960s social unrest and how this shapes news coverage, public agendas, and politics.",
+   "summary_zh": "研究新闻媒体如何建构与维系对1960年代社会动荡等事件的集体记忆，以及这如何影响新闻报道、公共议程与政治。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "collective memory",
+    "news coverage",
+    "social unrest",
+    "public agenda",
+    "public opinion",
+    "political communication",
+    "media fragmentation"
+   ]
+  },
+  {
+   "name": "Alice Fanari",
+   "summary": "Studies communication during cross-cultural transitions of sojourners such as students abroad, missionaries, and military families, mainly using qualitative and mixed methods.",
+   "summary_zh": "研究留学生、传教士和军人家庭等旅居者跨文化迁移过程中的传播，主要采用质性与混合方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_MIXED",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "cross-cultural adaptation",
+    "reentry shock",
+    "study abroad",
+    "international students",
+    "sojourners",
+    "intercultural couples",
+    "military families",
+    "relational well-being"
+   ]
+  },
+  {
+   "name": "Mengfei Guan",
+   "summary": "Studies how message design and audience characteristics shape risk perception and behavior change in health, risk, and science communication, including analyses of HINTS survey data.",
+   "summary_zh": "研究信息设计与受众特征如何影响健康、风险与科学传播中的风险感知和行为改变，包括对HINTS调查数据的分析。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "message design",
+    "risk perception",
+    "behavior change",
+    "message fatigue",
+    "covid-19",
+    "cancer screening",
+    "information seeking",
+    "hints",
+    "social determinants of health"
+   ]
+  },
+  {
+   "name": "Amy Johnson",
+   "summary": "Studies interpersonal relationships, including long-distance relationships, friendships, stepfamilies, and serial arguments, with attention to computer-mediated communication.",
+   "summary_zh": "研究人际关系，包括异地恋、友谊、继亲家庭与反复性争论，并关注计算机中介传播。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_RHETORIC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_MIXED",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "long-distance relationships",
+    "friendships",
+    "stepfamilies",
+    "interpersonal argument",
+    "serial arguments",
+    "computer-mediated communication",
+    "family political discussion"
+   ]
+  },
+  {
+   "name": "Timothy Levine",
+   "summary": "Studies deception and lie detection, developing and testing Truth-Default Theory through experiments, and works on persuasion, measurement validation, and research methods.",
+   "summary_zh": "研究欺骗与谎言识别，通过实验发展和检验真相默认理论，并涉及说服、测量效度与研究方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "deception detection",
+    "truth-default theory",
+    "lying",
+    "persuasion",
+    "social influence",
+    "measurement validation",
+    "experimental design",
+    "statistical conclusion validity"
+   ]
+  },
+  {
+   "name": "Musa Malik",
+   "summary": "Studies how narratives shape understanding of self and others, including morality and representation, using NLP, computer vision, audio processing, and brain imaging.",
+   "summary_zh": "研究叙事如何塑造对自我与他人的理解（包括道德与再现），运用自然语言处理、计算机视觉、音频处理与脑成像。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_PHYSIO_NEURO",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_PHYSIO_LOG",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "narrative",
+    "morality",
+    "representation",
+    "natural language processing",
+    "computer vision",
+    "audio signal processing",
+    "fmri",
+    "media neuroscience",
+    "human-technology interaction"
+   ]
+  },
+  {
+   "name": "Pat Meirick",
+   "summary": "Studies why people hold political and health beliefs, examining partisanship, fake news, third-person perceptions, and political advertising effects.",
+   "summary_zh": "研究人们为何持有特定的政治与健康信念，考察党派性、假新闻、第三人效果感知与政治广告效果。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "false beliefs",
+    "partisanship",
+    "affective polarization",
+    "fake news",
+    "third-person effect",
+    "political advertising",
+    "ad watches",
+    "public agenda",
+    "partisan news"
+   ]
+  },
+  {
+   "name": "Gretchen Montgomery-Vestecka",
+   "summary": "Studies intergroup and intercultural communication, including accent stereotyping, ethnolinguistic identity, and attitudes toward Latino immigrants in the US.",
+   "summary_zh": "研究群际与跨文化传播，包括口音刻板印象、族群语言认同以及美国对拉丁裔移民的态度。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_LANGUAGE_INTERACTION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "intergroup communication",
+    "ethnolinguistic identity",
+    "accent stereotyping",
+    "immigration attitudes",
+    "latino immigrants",
+    "acculturation",
+    "communication accommodation",
+    "social media political expression"
+   ]
+  },
+  {
+   "name": "James Olufowote",
+   "summary": "Studies health and organizational communication in marginalized communities, including polio vaccine resistance in Nigeria and HIV/AIDS prevention in Tanzania.",
+   "summary_zh": "研究边缘化社群中的健康与组织传播，包括尼日利亚北部的脊髓灰质炎疫苗抵制与坦桑尼亚的艾滋病预防。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_AFRICA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "polio vaccine resistance",
+    "hiv/aids prevention",
+    "nigeria",
+    "tanzania",
+    "health activism",
+    "community organizing",
+    "healthcare ethics",
+    "public health"
+   ]
+  },
+  {
+   "name": "Norman Wong",
+   "summary": "Studies how people process theory-based health messages in mass media, designing and testing campaigns on vaping, HPV vaccination, tobacco, and mental illness stigma.",
+   "summary_zh": "研究人们如何加工大众媒介中基于理论的健康信息，设计并检验关于电子烟、HPV疫苗、烟草和精神疾病污名的传播活动。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "health campaigns",
+    "message strategies",
+    "e-cigarettes",
+    "vaping prevention",
+    "hpv vaccination",
+    "tobacco cessation",
+    "mental illness stigma",
+    "entertainment media",
+    "social influence"
+   ]
+  },
+  {
+   "name": "Andrea Miller",
+   "summary": "Studies television news and crisis coverage, including media lessons from Hurricane Katrina and the BP oil disaster and the future of the newspaper industry, through case studies.",
+   "summary_zh": "研究电视新闻与危机报道，包括卡特里娜飓风和BP漏油事件的媒体经验以及报业的未来，主要采用案例研究。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "television news",
+    "crisis coverage",
+    "hurricane katrina",
+    "bp oil disaster",
+    "newspaper industry",
+    "times-picayune",
+    "public relations and journalism"
+   ]
+  },
+  {
+   "name": "Elanie Steyn",
+   "summary": "Studies women in media leadership, media management, and international media, with grant work on media and small business in South Asia and prior research in Africa and Europe.",
+   "summary_zh": "研究媒体领导层中的女性、媒体管理与国际媒体，主持南亚媒体与小企业相关项目，并曾在非洲和欧洲开展研究。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_SOUTH_SE_ASIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_AFRICA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "women in media leadership",
+    "media management",
+    "business of media",
+    "leadership",
+    "international media studies",
+    "south asia",
+    "minority community empowerment"
+   ]
+  },
+  {
+   "name": "Doyle Yoon",
+   "summary": "Studies brand experience and digital advertising effects, including VR ads and YouTube pre-roll attention, using surveys and eye-tracking.",
+   "summary_zh": "研究品牌体验与数字广告效果，包括VR广告与YouTube贴片广告注意力，采用调查与眼动追踪。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_PHYSIO_NEURO",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_PHYSIO_LOG",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "brand experience",
+    "vr advertising",
+    "eye-tracking",
+    "youtube pre-roll ads",
+    "advertising effects",
+    "customer relationship management",
+    "search engine marketing",
+    "tie strength"
+   ]
+  },
+  {
+   "name": "Ralph Beliveau",
+   "summary": "Studies media literacy, horror media, documentary, race, and popular culture through rhetorical criticism and cultural studies.",
+   "summary_zh": "通过修辞批评与文化研究探讨媒介素养、恐怖类型媒介、纪录片、种族与流行文化。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_RHETORIC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "media literacy",
+    "horror media",
+    "documentary",
+    "rhetorical criticism",
+    "cultural studies",
+    "gramsci",
+    "rape culture",
+    "popular culture",
+    "race"
+   ]
+  },
+  {
+   "name": "Chang Sup Park",
+   "summary": "Studies how people engage with news and journalists on social and mobile media and how newsrooms adopt AI and automated journalism.",
+   "summary_zh": "研究人们如何在社交与移动媒体上参与新闻并与记者互动，以及新闻编辑室如何采用人工智能与自动化新闻。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "news engagement",
+    "social media news",
+    "mobile news",
+    "automated journalism",
+    "ai in newsrooms",
+    "journalists and technology",
+    "south korean drama"
+   ]
+  },
+  {
+   "name": "Ray Claxton",
+   "summary": "Teaches advertising art direction, visual communication, and design thinking; the profile describes creative practice rather than a research program.",
+   "summary_zh": "讲授广告艺术指导、视觉传播与设计思维；简介描述的是创意实践而非研究方向。",
+   "confidence": "low",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "art direction",
+    "visual communication",
+    "advertising design",
+    "design thinking",
+    "graphic design",
+    "creativity"
+   ]
+  },
+  {
+   "name": "Kyle Bergersen",
+   "summary": "Works as a commercial director and screenwriter in advertising, television, and independent film; the profile describes creative practice rather than research.",
+   "summary_zh": "从事广告、电视与独立电影的商业导演和编剧工作；简介描述的是创作实践而非研究。",
+   "confidence": "low",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "commercial directing",
+    "advertising production",
+    "screenwriting",
+    "independent film",
+    "cinematography"
+   ]
+  },
+  {
+   "name": "Scott Hodgson",
+   "summary": "Produces and directs video and television programming, including public broadcasting and international training work; the profile describes production practice rather than research.",
+   "summary_zh": "制作和执导视频与电视节目，包括公共广播与国际培训工作；简介描述的是制作实践而非研究。",
+   "confidence": "low",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "video production",
+    "television production",
+    "directing",
+    "public broadcasting",
+    "international media training"
+   ]
+  },
+  {
+   "name": "Christine Delp",
+   "summary": "Studies how streaming platforms are reshaping the US documentary film industry, examining production cultures and media ethics as a media sociologist and filmmaker.",
+   "summary_zh": "以媒介社会学者和纪录片导演身份，研究流媒体平台如何重塑美国纪录片产业，考察制作文化与媒介伦理。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "documentary film",
+    "streaming video",
+    "production cultures",
+    "media ethics",
+    "media industries",
+    "documentary distribution",
+    "media sociology"
+   ]
+  },
+  {
+   "name": "Mike Boettcher",
+   "summary": "Brings decades of network broadcast journalism experience covering war and terrorism; the profile describes professional practice rather than a research program.",
+   "summary_zh": "拥有数十年报道战争与恐怖主义的电视网新闻经验；简介描述的是新闻实务而非研究方向。",
+   "confidence": "low",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "broadcast journalism",
+    "war correspondence",
+    "terrorism coverage",
+    "investigative reporting",
+    "network news"
+   ]
+  },
+  {
+   "name": "David Craig",
+   "summary": "Studies journalism ethics and excellence in journalistic practice, including online journalism, ethical use of narrative and language, and values in ethical decision-making.",
+   "summary_zh": "研究新闻伦理与新闻实践的卓越标准，包括网络新闻、叙事与语言的伦理运用以及伦理决策中的价值。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "journalism ethics",
+    "online journalism",
+    "excellence in journalism",
+    "narrative journalism",
+    "ethical decision-making",
+    "journalistic language"
+   ]
+  },
+  {
+   "name": "Robert Kerr",
+   "summary": "Studies First Amendment law and policy for a free marketplace of ideas amid corporate and government power, and media narratives in sports-media history.",
+   "summary_zh": "研究在企业与政府权力扩张背景下维护思想自由市场的第一修正案法律与政策，以及体育媒体史中的媒介叙事。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "first amendment",
+    "freedom of expression",
+    "marketplace of ideas",
+    "corporate speech",
+    "citizens united",
+    "media law",
+    "sports media history"
+   ]
+  },
+  {
+   "name": "Glenn Leshner",
+   "summary": "Studies cognitive and emotional processing of media, especially health messages for communication regulatory science, using psychophysiological measures and eye tracking.",
+   "summary_zh": "研究对媒介尤其是健康信息的认知与情绪加工，服务于传播监管科学，采用心理生理测量与眼动追踪。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_PHYSIO_NEURO",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_PHYSIO_LOG",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "communication regulatory science",
+    "psychophysiology",
+    "emotional processing",
+    "media processing",
+    "health messages",
+    "skin conductance",
+    "eye tracking",
+    "facial expression analysis"
+   ]
+  },
+  {
+   "name": "John Schmeltzer",
+   "summary": "Brings a long newspaper career in political and business reporting and community journalism; the profile describes professional practice rather than research.",
+   "summary_zh": "拥有长期报纸政治与商业报道及社区新闻经验；简介描述的是新闻实务而非研究。",
+   "confidence": "low",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "community journalism",
+    "business journalism",
+    "newspaper readership",
+    "online newspapers",
+    "political reporting"
+   ]
+  },
+  {
+   "name": "Melanie Wilderman",
+   "summary": "Studies scholastic and collegiate journalism education, service learning, and community journalism.",
+   "summary_zh": "研究中学与大学新闻教育、服务学习与社区新闻。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "scholastic journalism",
+    "collegiate journalism education",
+    "service learning",
+    "community journalism",
+    "student media"
+   ]
+  },
+  {
+   "name": "Rachel Patterson",
+   "summary": "Writes young adult and adult fiction as a bestselling novelist; the profile describes creative writing rather than a research program.",
+   "summary_zh": "作为畅销小说家创作青少年与成人小说；简介描述的是创意写作而非研究方向。",
+   "confidence": "low",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "fiction writing",
+    "young adult fiction",
+    "novels",
+    "creative writing",
+    "publishing"
+   ]
+  },
+  {
+   "name": "Tobi Ogundiran",
+   "summary": "Writes speculative fiction with an Afrocentric viewpoint, with interests in comparative mythology and culture-specific storytelling.",
+   "summary_zh": "创作具有非洲中心视角的推想小说，关注比较神话学与特定文化的叙事。",
+   "confidence": "low",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "speculative fiction",
+    "comparative mythology",
+    "afrocentric storytelling",
+    "fantasy fiction",
+    "creative writing"
+   ]
+  },
+  {
+   "name": "Jensen Moore",
+   "summary": "Studies how individuals grieve and seek information on social networking sites after personal loss, natural disasters, and mass shootings, linking crisis, health, and PR.",
+   "summary_zh": "研究人们在个人丧失、自然灾害和大规模枪击事件后如何在社交网站上哀悼与寻求信息，连接危机、健康与公关传播。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "crisis communication",
+    "grief",
+    "social networking sites",
+    "natural disasters",
+    "mass shootings",
+    "information seeking",
+    "public relations",
+    "social media strategy"
+   ]
+  },
+  {
+   "name": "Katerina Tsetsura",
+   "summary": "Studies global public relations, media transparency, and PR ethics, including hidden influences in news worldwide and strategic communication in Russia.",
+   "summary_zh": "研究全球公共关系、媒体透明度与公关伦理，包括全球新闻中的隐性影响以及俄罗斯的战略传播。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_EUROPE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "global public relations",
+    "media transparency",
+    "public relations ethics",
+    "public diplomacy",
+    "government relations",
+    "russia",
+    "community resilience",
+    "strategic communication"
+   ]
+  },
+  {
+   "name": "Jiun-Yi (Jenny) Tsai",
+   "summary": "Studies public relations and health communication using surveys, field experiments, content analysis, interviews, focus groups, and computational social media analytics.",
+   "summary_zh": "研究公共关系与健康传播，采用调查、田野实验、内容分析、访谈、焦点小组与计算性社交媒体分析。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_MIXED",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_SURVEY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "public relations",
+    "health communication",
+    "social media analytics",
+    "field experiments",
+    "mixed methods",
+    "focus groups",
+    "content analysis"
+   ]
+  },
+  {
+   "name": "Xiaochen Angela Zhang",
+   "summary": "Studies crisis and risk communication for disaster resilience, examining how knowledge networks among nonprofits, community groups, and local governments support emergency management.",
+   "summary_zh": "研究面向灾害韧性的危机与风险传播，考察非营利组织、社区团体与地方政府之间的知识网络如何支持应急管理。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_NETWORK",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "crisis communication",
+    "risk communication",
+    "disaster resilience",
+    "community resilience",
+    "transactive knowledge networks",
+    "emergency management",
+    "stakeholder communication",
+    "nonprofits"
+   ]
+  },
+  {
+   "name": "Junho Park",
+   "summary": "Studies cognitive, emotional, and behavioral responses to health and risk messages such as gambling and nicotine ads, combining self-report with psychophysiological measures.",
+   "summary_zh": "研究人们对赌博、尼古丁广告等健康与风险信息的认知、情绪和行为反应，结合自我报告与心理生理测量。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_PHYSIO_NEURO",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_SURVEY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_PHYSIO_LOG",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "psychophysiology",
+    "facial emg",
+    "eye tracking",
+    "gambling",
+    "nicotine pouches",
+    "influencer disclosure",
+    "mental health",
+    "risky behavior"
+   ]
+  }
+ ]
+}

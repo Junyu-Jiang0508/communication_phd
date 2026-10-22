@@ -1,0 +1,1187 @@
+{
+ "slug": "washington-state-university",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "Bruce Pinkleton",
+   "summary": "Studies health promotion, media literacy, and public affairs decision making in the digital era, with a focus on adolescents and communication campaign evaluation.",
+   "summary_zh": "研究数字时代的健康促进、媒介素养与公共事务决策，关注青少年群体及传播运动效果评估。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "media literacy",
+    "health promotion",
+    "abuse prevention",
+    "adolescents",
+    "political communication",
+    "campaign evaluation",
+    "public affairs decision making",
+    "digital technology and decision making"
+   ]
+  },
+  {
+   "name": "Erica Austin",
+   "summary": "Studies how media literacy helps children, adolescents, and adults make healthier decisions about health and civic affairs.",
+   "summary_zh": "研究媒介素养如何帮助儿童、青少年和成年人在健康与公共事务方面做出更健康的决策。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "media literacy",
+    "health decision making",
+    "civic decision making",
+    "children and adolescents",
+    "health promotion",
+    "media and health"
+   ]
+  },
+  {
+   "name": "Porismita Borah",
+   "summary": "Studies discourse on digital platforms and message effects in health and politics, including misinformation correction and AI, using multi-method designs.",
+   "summary_zh": "运用多方法设计研究数字平台上的话语以及健康与政治语境中的信息效果，包括虚假信息纠正与人工智能的作用。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_MIXED",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "misinformation",
+    "misinformation correction",
+    "message framing",
+    "vaccines",
+    "substance use",
+    "politicization of health",
+    "media literacy",
+    "digital platform discourse",
+    "political ideology",
+    "ai"
+   ]
+  },
+  {
+   "name": "Jordan Foley",
+   "summary": "Studies how political information flows through digital communication ecologies and shapes public opinion, combining rhetoric and argumentation with computational social science.",
+   "summary_zh": "结合修辞与论辩传统和计算社会科学方法，研究政治信息如何在数字传播生态中流动并影响舆论与民主治理。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_RHETORIC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "political information flow",
+    "public opinion",
+    "computational social science",
+    "political debate",
+    "argumentation",
+    "fragmented information environment",
+    "democratic governance",
+    "digital media ecology"
+   ]
+  },
+  {
+   "name": "Traci Gillig",
+   "summary": "Studies how interventions, media representations, and relationships shape the well-being of marginalized youth, especially LGBTQ+ youth, and audience attitudes.",
+   "summary_zh": "研究干预措施、媒介再现与人际关系如何影响边缘化青少年（尤其是LGBTQ+青少年）的福祉，以及媒介再现对大众态度的影响。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "lgbtq+ youth",
+    "media representation",
+    "gender",
+    "community-based participatory research",
+    "youth well-being",
+    "health interventions",
+    "media effects",
+    "adolescents"
+   ]
+  },
+  {
+   "name": "Jennifer Henrichsen",
+   "summary": "Studies the state of journalism worldwide, including journalist safety and the cybersecurity and information-society challenges facing journalists.",
+   "summary_zh": "研究全球新闻业现状，包括记者安全以及记者面临的网络安全与信息社会挑战。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "journalist safety",
+    "cybersecurity",
+    "unesco",
+    "state of journalism",
+    "digital security",
+    "information society"
+   ]
+  },
+  {
+   "name": "Qian Huang",
+   "summary": "Studies health message design and interpersonal communication to promote vaccination and other health behaviors, using quantitative and qualitative methods with underserved populations.",
+   "summary_zh": "运用定量与质性方法研究健康信息设计与人际传播，以促进疫苗接种等健康行为，关注服务不足人群。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_MIXED",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "vaccination",
+    "health message design",
+    "cues to action",
+    "perspective-taking",
+    "health literacy",
+    "colorectal cancer screening",
+    "underserved populations",
+    "interracial communication in healthcare"
+   ]
+  },
+  {
+   "name": "Stacey Hust",
+   "summary": "Studies media effects on youth sexual and romantic relationships and designs health messages to reduce sexual assault and alcohol abuse, including parent-child communication.",
+   "summary_zh": "研究媒介对青少年性与恋爱关系的影响，并设计减少性侵与酒精滥用的健康信息，包括亲子之间关于媒介与健康的沟通。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "sexual assault prevention",
+    "healthy sexual relationships",
+    "alcohol abuse prevention",
+    "parent-child communication",
+    "gender and media",
+    "media effects on youth",
+    "substance abuse prevention"
+   ]
+  },
+  {
+   "name": "Bimbisar Irom",
+   "summary": "Studies how news and immersive media portray refugees and vulnerable groups in humanitarian crises, using visual, semiotic, and discourse analysis plus framing experiments.",
+   "summary_zh": "运用视觉、符号学与话语分析以及框架实验，研究新闻与沉浸式媒介如何呈现人道危机中的难民与弱势群体。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_SOUTH_SE_ASIA",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "humanitarian communication",
+    "forced migration",
+    "refugees",
+    "visual framing",
+    "virtual reality journalism",
+    "rohingya crisis",
+    "semiotic analysis",
+    "immersive media"
+   ]
+  },
+  {
+   "name": "Yen-I Lee",
+   "summary": "Studies how emotional appeals, visuals, and narratives in health crisis, risk, and public relations messages are processed, using eye-tracking, EDA, heart rate, and facial EMG.",
+   "summary_zh": "运用眼动、皮肤电、心率与面部肌电等生理指标，研究健康危机、风险与公关信息中的情绪诉求、视觉与叙事如何被受众加工。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_PHYSIO_NEURO",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_PHYSIO_LOG",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "media psychophysiology",
+    "eye-tracking",
+    "electrodermal activity",
+    "facial emg",
+    "emotional appeals",
+    "health crisis communication",
+    "risk campaigns",
+    "message design"
+   ]
+  },
+  {
+   "name": "Yoon-Joo Lee",
+   "summary": "Studies how consumers make sense of social issue, CSR, and mental health advertising and public service announcements, and race and ethnicity issues in health communication.",
+   "summary_zh": "研究消费者如何理解社会议题广告、企业社会责任广告、心理健康广告与公益广告，以及健康传播中的种族与族裔问题。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "csr advertising",
+    "social issue advertising",
+    "purpose-driven communication",
+    "mental health advertising",
+    "public service announcements",
+    "consumer skepticism",
+    "race and ethnicity in health communication"
+   ]
+  },
+  {
+   "name": "Nicole O’Donnell",
+   "summary": "Studies message design for health, environmental, and risk campaigns, including how audiences engage with visual and entertaining messages, through community-engaged research.",
+   "summary_zh": "通过社区参与式研究探讨健康、环境与风险传播运动中的信息设计，以及受众如何回应视觉化和娱乐性的运动信息。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "message design",
+    "health campaigns",
+    "environmental campaigns",
+    "risk communication",
+    "campaign evaluation",
+    "community-engaged scholarship",
+    "visual communication",
+    "role models",
+    "traffic safety"
+   ]
+  },
+  {
+   "name": "Wei Peng",
+   "summary": "Studies the role of emotions in health information processing, social support, and coping with risk and uncertainty, evaluating emotion-based communication interventions.",
+   "summary_zh": "研究情绪在健康信息加工、社会支持以及应对风险与不确定性中的作用，并评估基于情绪的传播干预效果。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "emotions",
+    "health decision making",
+    "social support",
+    "coping with uncertainty",
+    "emotion-based interventions",
+    "information seeking",
+    "social sharing",
+    "persuasion",
+    "visual storytelling"
+   ]
+  },
+  {
+   "name": "Lawrence Pintak",
+   "summary": "Studies international journalism, press freedom, and journalists' motivations, with a focus on Muslim-world perceptions of the U.S. and Islamophobia.",
+   "summary_zh": "研究国际新闻、新闻自由与记者职业动机，重点关注穆斯林世界对美国的认知以及伊斯兰恐惧症。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_MIDDLE_EAST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "islamophobia",
+    "muslim world",
+    "international journalism",
+    "press freedom",
+    "journalism motivations",
+    "arab media",
+    "media development",
+    "media and religion"
+   ]
+  },
+  {
+   "name": "Pawel Popiel",
+   "summary": "Studies the political economy of media and digital industries, including competition, speech, data and AI regulation, and media ownership concentration across countries.",
+   "summary_zh": "研究媒介与数字产业的政治经济学，包括竞争、言论、数据与人工智能规制，以及跨国媒介所有权集中问题。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "political economy",
+    "media ownership",
+    "market concentration",
+    "data regulation",
+    "ai governance",
+    "privacy and surveillance",
+    "communication policy",
+    "local news"
+   ]
+  },
+  {
+   "name": "Ryan Thomas",
+   "summary": "Studies journalism ethics and the sociology of news, examining how journalists make sense of change and how it affects journalism's role in democratic public life.",
+   "summary_zh": "研究新闻伦理与新闻社会学，考察记者如何理解行业变迁以及这些变迁如何影响新闻业在民主公共生活中的角色。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "journalism ethics",
+    "sociology of news",
+    "journalism and democracy",
+    "media ethics",
+    "technological change",
+    "news production",
+    "journalistic role"
+   ]
+  },
+  {
+   "name": "Jessica Willoughby",
+   "summary": "Develops and evaluates theory-based digital health communication interventions for adolescents and young adults on sexual health, substance misuse, and mental health.",
+   "summary_zh": "开发并评估面向青少年和青年的、基于理论的数字健康传播干预，涉及性健康、物质滥用与心理健康等议题。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "health interventions",
+    "sexual health",
+    "substance misuse prevention",
+    "mhealth",
+    "ehealth",
+    "adolescents and young adults",
+    "mental health",
+    "social media",
+    "prevention"
+   ]
+  }
+ ]
+}

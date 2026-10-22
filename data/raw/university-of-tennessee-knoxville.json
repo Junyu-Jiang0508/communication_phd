@@ -227,8 +227,12 @@
    "personal_url": null,
    "photo_url": "https://cci.utk.edu/wp-content/uploads/2022/12/web_Joe-Headshot-Final.jpg",
    "google_scholar_url": null,
-   "research_areas": [],
-   "bio": "Joseph Mazer is dean of the College of Communication and Information at the University of Tennessee, Knoxville, the state’s flagship land-grant Research 1 university. Joe holds the Faye Julian Dean’s Chair to support student success initiatives, faculty research, and strategic opportunities that drive the operation and forward progress of the college. A first-generation college student, he strongly believes in the power of higher education. As dean, Joe serves as the chief academic, fiscal and administrative officer for a college that includes six bachelor’s degree programs, three master’s programs, an interdisciplinary PhD program, an annual budget of over $30M, and a research enterprise with more than $10M in grant and contract awards. He guides the work of over 175 faculty and staff who serve approximately 6,000 students through major and minor programs and general education. Joe oversees the college’s four schools and its core administrative offices in finance, administration, and operations, communications and marketing, advancement, access and engagement, faculty development, academic affairs and student success, and research. He also oversees WUOT 91.9 FM, the university’s National Public Radio station, and a college-level media operations unit that houses six media properties. Joe works with the college’s 35-member Board of Visitors, a group of college alumni and friends who advise the college and are passionate about making a difference in higher education.",
+   "research_areas": [
+    "Communication in teaching and learning",
+    "Social media and new technologies",
+    "Communication in interpersonal relationships"
+   ],
+   "bio": "Joseph Mazer is dean of the College of Communication and Information at the University of Tennessee, Knoxville, the state’s flagship land-grant Research 1 university. Joe holds the Faye Julian Dean’s Chair to support student success initiatives, faculty research, and strategic opportunities that drive the operation and forward progress of the college. A first-generation college student, he strongly believes in the power of higher education. In addition to his academic leadership roles, Joe is a nationally recognized communication scholar, with research interests in communication in teaching and learning, social media and new technologies, and communication in interpersonal relationships. He has made more than 100 research presentations in various national and international conferences in addition to over 100 peer-reviewed books, book chapters, technical reports, research briefs, and journal articles. He has been recognized among the top 1 percent of the most prolific scholars in communication, and in the top 10 most influential scholars in instructional communication. His research has been funded by the National Science Foundation and other organizations and discussed in media outlets, including Chronicle of Higher Education, The New York Times, The Washington Post, USA Today, NBC Nightly News , Sports Illustrated , and ESPN .",
    "sources": [
     "department_profile"
    ],
@@ -556,10 +560,15 @@
    "personal_url": null,
    "photo_url": "https://cci.utk.edu/jem/wp-content/uploads/sites/6/2026/02/Shannon-Scovel_WEB.jpg",
    "google_scholar_url": null,
-   "research_areas": [],
-   "bio": "My research focuses on the intersections of sports, media and gender, specifically the representation and self-representation of women athletes in media. I also have expertise in college athlete branding, NIL and social media storytelling. sportsbyscovel.com",
+   "research_areas": [
+    "Sports, media and gender",
+    "Representation and self-representation of women athletes in media",
+    "College athlete branding, NIL and social media storytelling"
+   ],
+   "bio": "My research focuses on the intersections of sports, media and gender, specifically the representation and self-representation of women athletes in media. I also have expertise in college athlete branding, NIL and social media storytelling. Education: Doctor of Philosophy, Journalism Studies (University of Maryland, College Park, College Park, United States); Master of Science, Gender Studies (University of Stirling, Stirling, United Kingdom); Bachelor of Arts, Journalism (American University, Washington D.C., United States).",
    "sources": [
-    "department_profile"
+    "department_profile",
+    "university_profile"
    ],
    "notes": "Profile links sportsbyscovel.com but the domain currently shows a Wix placeholder, so personal_url is null."
   },
@@ -659,8 +668,13 @@
    "personal_url": null,
    "photo_url": "https://cci.utk.edu/adpr/wp-content/uploads/sites/5/2024/08/8-23-24_Bugil-Chang_01.jpg",
    "google_scholar_url": null,
-   "research_areas": [],
-   "bio": "Bugil Chang is an assistant professor at the Tombras School of Advertising and Public Relations. His research centers on understanding how various PR phenomena—such as crises, corporate social responsibility (CSR), and corporate social advocacy (CSA)—affect other organizations and entire industries within inter-organizational contexts. He applies a quantitative approach to explore these impacts in both for-profit and nonprofit sectors. His most recent work has been published in journals such as the Journal of Contingencies and Crisis Management and Public Relations Review. Research: Crisis communication Crisis spillover Nonprofit communication Corporate social advocacy",
+   "research_areas": [
+    "Crisis communication",
+    "Crisis spillover",
+    "Nonprofit communication",
+    "Corporate social advocacy"
+   ],
+   "bio": "Bugil Chang is an assistant professor at the Tombras School of Advertising and Public Relations. His research centers on understanding how various PR phenomena—such as crises, corporate social responsibility (CSR), and corporate social advocacy (CSA)—affect other organizations and entire industries within inter-organizational contexts. He applies a quantitative approach to explore these impacts in both for-profit and nonprofit sectors. His most recent work has been published in journals such as the Journal of Contingencies and Crisis Management and Public Relations Review. Research interests: Crisis communication; Crisis spillover; Nonprofit communication; Corporate social advocacy.",
    "sources": [
     "department_profile"
    ],
@@ -672,7 +686,7 @@
    "rank": "Professor",
    "department": "Tombras School of Advertising and Public Relations",
    "profile_url": "https://cci.utk.edu/adpr/about/directory/courtney-childers/",
-   "personal_url": null,
+   "personal_url": "https://faculty.utk.edu/Courtney.Childers",
    "photo_url": "https://cci.utk.edu/adpr/wp-content/uploads/sites/5/2024/04/web-Final-Childers-2024.jpg",
    "google_scholar_url": null,
    "research_areas": [
@@ -687,7 +701,7 @@
    "sources": [
     "department_profile"
    ],
-   "notes": null
+   "notes": "personal_url is the university faculty.utk.edu profile the department page links as the person's website."
   },
   {
    "name": "Elizabeth Avery Foster",
@@ -738,7 +752,7 @@
    "rank": "Professor",
    "department": "Tombras School of Advertising and Public Relations",
    "profile_url": "https://cci.utk.edu/adpr/about/directory/eric-haley/",
-   "personal_url": null,
+   "personal_url": "https://faculty.utk.edu/Eric.Haley",
    "photo_url": "https://cci.utk.edu/adpr/wp-content/uploads/sites/5/2023/07/Eric-Haley-WEB.jpg",
    "google_scholar_url": null,
    "research_areas": [
@@ -751,7 +765,7 @@
    "sources": [
     "department_profile"
    ],
-   "notes": null
+   "notes": "personal_url is the university faculty.utk.edu profile the department page links as the person's website."
   },
   {
    "name": "Sieun Ha",
@@ -802,7 +816,7 @@
    "rank": "Associate Professor",
    "department": "Tombras School of Advertising and Public Relations",
    "profile_url": "https://cci.utk.edu/adpr/about/directory/minjie-li/",
-   "personal_url": null,
+   "personal_url": "https://faculty.utk.edu/Minjie.Li",
    "photo_url": "https://cci.utk.edu/adpr/wp-content/uploads/sites/5/2026/04/web-mid-Minjie-Li-1.jpg",
    "google_scholar_url": null,
    "research_areas": [
@@ -817,7 +831,7 @@
    "sources": [
     "department_profile"
    ],
-   "notes": null
+   "notes": "personal_url is the university faculty.utk.edu profile the department page links as the person's website."
   },
   {
    "name": "Sitan “Stan” Li",
@@ -889,7 +903,7 @@
    "rank": "Associate Professor",
    "department": "Tombras School of Advertising and Public Relations",
    "profile_url": "https://cci.utk.edu/adpr/about/directory/michael-palenchar/",
-   "personal_url": null,
+   "personal_url": "https://faculty.utk.edu/Michael.Palenchar",
    "photo_url": "https://cci.utk.edu/adpr/wp-content/uploads/sites/5/2023/07/michael-palenchar-hs.jpg",
    "google_scholar_url": null,
    "research_areas": [
@@ -904,7 +918,7 @@
    "sources": [
     "department_profile"
    ],
-   "notes": null
+   "notes": "personal_url is the university faculty.utk.edu profile the department page links as the person's website."
   },
   {
    "name": "Matthew Pittman",
@@ -912,7 +926,7 @@
    "rank": "Associate Professor",
    "department": "Tombras School of Advertising and Public Relations",
    "profile_url": "https://cci.utk.edu/adpr/about/directory/matthew-pittman/",
-   "personal_url": null,
+   "personal_url": "https://faculty.utk.edu/Matthew.Pittman",
    "photo_url": "https://cci.utk.edu/adpr/wp-content/uploads/sites/5/2024/10/Matt-Pittman-WEB.png",
    "google_scholar_url": null,
    "research_areas": [
@@ -925,7 +939,7 @@
    "sources": [
     "department_profile"
    ],
-   "notes": null
+   "notes": "personal_url is the university faculty.utk.edu profile the department page links as the person's website."
   },
   {
    "name": "Yufan “Sunny” Qin",
@@ -954,7 +968,7 @@
    "rank": "Associate Professor",
    "department": "Tombras School of Advertising and Public Relations",
    "profile_url": "https://cci.utk.edu/adpr/about/directory/sifan-xu/",
-   "personal_url": null,
+   "personal_url": "https://faculty.utk.edu/Sifan.Xu",
    "photo_url": "https://cci.utk.edu/adpr/wp-content/uploads/sites/5/2023/07/Sifan-Xu-WEB.jpg",
    "google_scholar_url": null,
    "research_areas": [
@@ -966,7 +980,7 @@
    "sources": [
     "department_profile"
    ],
-   "notes": null
+   "notes": "personal_url is the university faculty.utk.edu profile the department page links as the person's website."
   }
  ]
 }

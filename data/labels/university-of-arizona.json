@@ -196,13 +196,6 @@
             "sources": [
               "department_profile"
             ]
-          },
-          {
-            "code": "A_THEORY",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
           }
         ],
         "data": [],
@@ -275,13 +268,6 @@
           {
             "code": "D_SURVEY_EXPERIMENT",
             "primary": true,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
-            "code": "D_SOCIAL_MEDIA",
-            "primary": false,
             "sources": [
               "department_profile"
             ]
@@ -400,8 +386,8 @@
     },
     {
       "name": "Rain Wuyu Liu",
-      "summary": "Studies persuasion and social norm messaging in health and environmental behavior change, including cultural values and campaign design, with fieldwork among Tibetan herders.",
-      "summary_zh": "研究健康与环境行为改变中的说服与社会规范信息，关注文化价值观与传播运动设计，并在藏族牧民中开展田野研究。",
+      "summary": "Studies persuasion and social norm messaging in health and environmental behavior change, including cultural values and campaign design; contributed to an NSF-funded study among Tibetan herders.",
+      "summary_zh": "研究健康与环境行为改变中的说服与社会规范信息，关注文化价值观与传播运动设计，并参与过多项资助项目，如一项针对藏族牧民的NSF研究。",
       "confidence": "high",
       "labels": {
         "topic": [
@@ -427,7 +413,7 @@
             ]
           },
           {
-            "code": "T_STRATEGIC_PR_AD",
+            "code": "T_GLOBAL_INTERCULTURAL",
             "primary": false,
             "sources": [
               "department_profile"
@@ -459,6 +445,13 @@
             "sources": [
               "department_profile"
             ]
+          },
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
           }
         ]
       },
@@ -470,13 +463,14 @@
         "communication campaigns",
         "cultural values",
         "behavior change",
-        "tibetan herders"
+        "tibetan herders",
+        "intercultural communication"
       ]
     },
     {
       "name": "Tae Joon Moon",
-      "summary": "Designs and tests technology-enhanced interventions, such as remote biosensors and mobile health apps, for people affected by alcohol and substance use disorders.",
-      "summary_zh": "设计并检验面向酒精与物质使用障碍人群的技术增强干预，如远程生物传感器和移动健康应用。",
+      "summary": "Designs, develops, and implements technology-enhanced interventions, such as remote biosensors and mobile health apps, for people affected by alcohol and substance use disorders.",
+      "summary_zh": "设计、开发并实施面向酒精与物质使用障碍人群的技术增强干预，如远程生物传感器和移动健康应用。",
       "confidence": "high",
       "labels": {
         "topic": [
@@ -565,15 +559,7 @@
             ]
           }
         ],
-        "data": [
-          {
-            "code": "D_INTERVIEWS_FIELD",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "data": [],
         "setting": [
           {
             "code": "SET_FAMILIES_RELATIONSHIPS",
@@ -691,7 +677,7 @@
         "loneliness",
         "marital distress",
         "family communication",
-        "psycho-oncology"
+        "anxiety"
       ]
     },
     {
@@ -733,13 +719,6 @@
         "approach": [
           {
             "code": "A_CONTENT_ANALYSIS",
-            "primary": false,
-            "sources": [
-              "publications"
-            ]
-          },
-          {
-            "code": "A_SURVEY",
             "primary": false,
             "sources": [
               "publications"

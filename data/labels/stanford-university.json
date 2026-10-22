@@ -1,0 +1,1032 @@
+{
+ "slug": "stanford-university",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "Jeremy Bailenson",
+   "summary": "Studies the psychology of virtual and augmented reality, building and studying VR systems that change social interaction and can transform education, environmental conservation, empathy, and health.",
+   "summary_zh": "研究虚拟现实与增强现实的心理机制，通过构建并研究VR系统，考察虚拟体验如何改变社会互动，以及如何变革教育、环境保护、同理心与健康。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "virtual reality",
+    "augmented reality",
+    "virtual human interaction",
+    "embodiment",
+    "empathy",
+    "vr in education",
+    "environmental conservation",
+    "avatars"
+   ]
+  },
+  {
+   "name": "Angèle Christin",
+   "summary": "Studies the social and cultural impact of algorithms and AI, using ethnography to examine web journalism metrics, influencers and algorithmic labor, predictive tools in courts, and AI ethics.",
+   "summary_zh": "研究算法与人工智能的社会文化影响，运用民族志考察网络新闻的流量指标、网红与算法劳动、法院中的预测工具以及AI伦理话语。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     },
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "personal_site"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     },
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     },
+     {
+      "code": "R_EUROPE",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "algorithms",
+    "web metrics",
+    "influencers",
+    "algorithmic labor",
+    "ethnography",
+    "predictive algorithms",
+    "criminal justice",
+    "ai ethics",
+    "france"
+   ]
+  },
+  {
+   "name": "James S. Fishkin",
+   "summary": "Studies deliberative democracy, developing Deliberative Polling, which uses random citizen samples to explore how opinions would change if people were more informed, with polls held in 28 countries.",
+   "summary_zh": "研究协商民主，开创“协商式民意调查”，以随机抽取的公民样本探究公众在更知情时观点会如何变化，已在28个国家开展。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "deliberative democracy",
+    "deliberative polling",
+    "public consultation",
+    "random sampling",
+    "public opinion",
+    "democratic theory",
+    "citizen deliberation"
+   ]
+  },
+  {
+   "name": "James T. Hamilton",
+   "summary": "Studies the economics of news and media markets, including investigative journalism, regulation through disclosure, and computational journalism tools that lower the cost of story discovery.",
+   "summary_zh": "研究新闻与媒介市场的经济学，包括调查性新闻、以信息披露为手段的规制，以及降低新闻线索发现成本的计算新闻工具。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "media economics",
+    "investigative journalism",
+    "computational journalism",
+    "economics of regulation",
+    "information markets",
+    "toxics release inventory",
+    "violent television"
+   ]
+  },
+  {
+   "name": "Jeff Hancock",
+   "summary": "Studies psychological and interpersonal processes in social media and AI-mediated communication, including misinformation, deception and trust, and technology's effects on well-being.",
+   "summary_zh": "研究社交媒体与AI中介传播中的心理与人际过程，涵盖虚假信息、欺骗与信任，以及技术对幸福感的影响。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": true,
+      "sources": [
+       "personal_site",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "personal_site",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "personal_site"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "social media",
+    "ai-mediated communication",
+    "misinformation",
+    "deception",
+    "truth-default theory",
+    "well-being",
+    "digital media literacy",
+    "adolescents"
+   ]
+  },
+  {
+   "name": "Gabriella Harari",
+   "summary": "Studies how personality is expressed and shaped in physical and digital everyday contexts, using mobile sensing, experience sampling, longitudinal field studies, and machine learning.",
+   "summary_zh": "研究人格如何在日常的物理与数字情境中表达和被塑造，采用移动感知、经验取样、纵向田野研究与机器学习方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_SURVEY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_PHYSIO_LOG",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "personality",
+    "mobile sensing",
+    "experience sampling",
+    "well-being",
+    "digital behavior",
+    "machine learning",
+    "longitudinal field studies",
+    "smartphones"
+   ]
+  },
+  {
+   "name": "Shanto Iyengar",
+   "summary": "Studies the role of mass media in democratic societies, including news effects on public opinion, negative campaigning, and political psychology.",
+   "summary_zh": "研究大众媒体在民主社会中的作用，包括新闻对舆论的影响、负面竞选广告与政治心理学。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "public opinion",
+    "political psychology",
+    "news effects",
+    "negative advertising",
+    "mass media and democracy",
+    "agenda setting"
+   ]
+  },
+  {
+   "name": "Jon A. Krosnick",
+   "summary": "Studies attitude formation, strength, and change, the psychology of political behavior, and questionnaire design and survey methodology, including American public opinion on climate change.",
+   "summary_zh": "研究态度的形成、强度与改变、政治行为心理学以及问卷设计与调查方法，包括美国公众对气候变化的看法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "attitude strength",
+    "attitude change",
+    "survey methodology",
+    "questionnaire design",
+    "political psychology",
+    "climate change opinion",
+    "public opinion"
+   ]
+  },
+  {
+   "name": "Xiaochang Li",
+   "summary": "Studies the history of information technology and knowledge production, tracing how speech recognition and natural language processing shaped AI and algorithmic culture.",
+   "summary_zh": "研究信息技术与知识生产的历史，追溯语音识别与自然语言处理如何塑造人工智能与算法文化。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "history of ai",
+    "speech recognition",
+    "natural language processing",
+    "algorithmic culture",
+    "knowledge production",
+    "history of computing",
+    "voice technology"
+   ]
+  },
+  {
+   "name": "Jennifer Pan",
+   "summary": "Studies political communication and authoritarian politics in China, using experimental and computational methods with large-scale data to examine censorship, propaganda, and information manipulation.",
+   "summary_zh": "研究中国的政治传播与威权政治，运用实验与计算方法及大规模数据，考察审查、宣传与信息操纵。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ADMIN_LARGE_SCALE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_CHINA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "censorship",
+    "propaganda",
+    "authoritarian politics",
+    "china",
+    "information manipulation",
+    "digital media",
+    "computational social science"
+   ]
+  },
+  {
+   "name": "Nilam Ram",
+   "summary": "Studies moment-to-moment and lifespan change in psychological and media processes such as emotion regulation, using intensive longitudinal designs and smartphone, sensor, and social media data.",
+   "summary_zh": "研究心理与媒介过程（如情绪调节）在瞬时与毕生尺度上的变化，采用密集纵向设计以及手机、传感器和社交媒体数据流。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_PHYSIO_LOG",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "longitudinal methods",
+    "lifespan development",
+    "emotion regulation",
+    "intensive longitudinal data",
+    "mobile sensing",
+    "well-being",
+    "data science"
+   ]
+  },
+  {
+   "name": "Byron Reeves",
+   "summary": "Studies psychological processing of media, including attention, memory, and emotion, through experiments on interactive technologies and moment-by-moment screen data from the Human Screenome Project.",
+   "summary_zh": "研究媒介的心理加工过程，包括注意、记忆与情绪，通过对交互技术的实验以及“人类屏幕组计划”的逐刻屏幕使用数据开展研究。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_PHYSIO_LOG",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "media equation",
+    "human screenome",
+    "attention",
+    "memory",
+    "emotional responses",
+    "social robots",
+    "interactive games",
+    "screen use"
+   ]
+  },
+  {
+   "name": "Fred Turner",
+   "summary": "Studies media technology and cultural change in American life since World War II, tracing through historical research how counterculture, art, and Silicon Valley shaped digital utopianism.",
+   "summary_zh": "研究二战以来美国社会中的媒介技术与文化变迁，通过历史研究追溯反文化、艺术与硅谷如何塑造数字乌托邦主义。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "silicon valley",
+    "counterculture",
+    "digital utopianism",
+    "media history",
+    "burning man",
+    "multimedia",
+    "american liberalism",
+    "cyberculture"
+   ]
+  }
+ ]
+}

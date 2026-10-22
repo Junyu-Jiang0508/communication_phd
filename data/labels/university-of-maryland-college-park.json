@@ -1,0 +1,3114 @@
+{
+  "slug": "university-of-maryland-college-park",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Briana Barner",
+      "summary": "Studies Black podcasts, digital Black feminism, and Black cultural production and representation through critical and cultural analysis of digital audio media.",
+      "summary_zh": "以批判与文化研究视角分析数字音频媒介，研究黑人播客、数字黑人女性主义以及黑人文化生产与再现。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "black podcasts",
+        "digital black feminism",
+        "black cultural production",
+        "podcasting",
+        "representation",
+        "race and gender",
+        "digital media"
+      ]
+    },
+    {
+      "name": "Becca Beets",
+      "summary": "Studies public perceptions of and engagement with emerging science and scientific uncertainty in new media environments using mixed qualitative and quantitative methods.",
+      "summary_zh": "运用质性与量化相结合的混合方法，研究新媒体环境中公众对新兴科学与科学不确定性的认知和参与。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "science communication",
+        "scientific uncertainty",
+        "public attitudes toward science",
+        "public engagement",
+        "emerging science",
+        "new media",
+        "mixed methods"
+      ]
+    },
+    {
+      "name": "Andrew Boge",
+      "summary": "Examines how anti-brownness and South Asian American racialization are constructed in U.S. public discourse through archival racial rhetorical criticism of news, law, and film.",
+      "summary_zh": "通过对新闻、法律话语与电影的档案式种族修辞批评，考察美国公共话语如何建构“反棕色”种族主义与南亚裔美国人的种族化。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "racial rhetorical criticism",
+        "south asian american",
+        "anti-brownness",
+        "racialization",
+        "public discourse",
+        "transnational",
+        "archival research",
+        "migration"
+      ]
+    },
+    {
+      "name": "Grant Bollmer",
+      "summary": "Theorizes the history and culture of digital media, including influencer culture, social media economics, the history of emotion measurement, and philosophy of technology.",
+      "summary_zh": "从理论与历史角度研究数字文化，包括网红文化、社交媒体经济、情绪测量史以及技术哲学。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "digital cultures",
+        "media theory",
+        "influencers",
+        "youtube",
+        "affect",
+        "history of psychology",
+        "philosophy of technology",
+        "materialist media theory"
+      ]
+    },
+    {
+      "name": "Ganga Dhanesh",
+      "summary": "Studies corporate social responsibility and strategic communication across issues, publics, and cultures, including gender stereotyping in advertising in the UAE.",
+      "summary_zh": "研究跨议题、跨公众与跨文化的企业社会责任与战略传播，包括阿联酋广告业中的性别刻板印象问题。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_MIDDLE_EAST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "corporate social responsibility",
+        "public relations",
+        "strategic communication",
+        "csr communication",
+        "gender stereotyping",
+        "advertising",
+        "united arab emirates",
+        "communication management"
+      ]
+    },
+    {
+      "name": "Nick Joyce",
+      "summary": "Studies how intercultural narratives and intergroup communication foster empathy and stereotype change, and how communication skills and traits predict positive intercultural engagement, using social scientific methods.",
+      "summary_zh": "运用社会科学方法，研究跨文化叙事与群际传播如何促进共情并改变刻板印象，以及哪些沟通技能与心理特质预测积极的跨文化交流意愿。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "intergroup communication",
+        "intercultural relationships",
+        "narratives",
+        "empathy",
+        "stereotype change",
+        "media exemplars",
+        "social identity"
+      ]
+    },
+    {
+      "name": "Sahar Khamis",
+      "summary": "Studies Arab and Muslim media, online Islamic discourse, political blogging and citizen journalism in the Egyptian revolution, and Arab women's activism.",
+      "summary_zh": "研究阿拉伯与穆斯林媒体、网络伊斯兰话语、埃及革命中的政治博客与公民新闻，以及阿拉伯女性行动主义。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_MIDDLE_EAST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "arab media",
+        "muslim media",
+        "islamic discourse online",
+        "egyptian revolution",
+        "political blogging",
+        "citizen journalism",
+        "arab women's activism",
+        "civic engagement"
+      ]
+    },
+    {
+      "name": "Jiyoun Kim",
+      "summary": "Studies public understanding of and engagement with science, environmental, and risk issues on social media and designs persuasive messages to support informed decisions.",
+      "summary_zh": "研究公众在社交媒体上对科学、环境与风险议题的理解和参与，并设计有效的说服信息以支持知情决策。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "risk communication",
+        "science communication",
+        "environmental communication",
+        "social media cues",
+        "message design",
+        "public engagement",
+        "moral foundations",
+        "pandemic preparedness"
+      ]
+    },
+    {
+      "name": "Sun Young Lee",
+      "summary": "Studies corporate social responsibility and social advocacy messaging, including visual strategies, emotions, and public empowerment, and CSR effects in crisis contexts.",
+      "summary_zh": "研究企业社会责任与企业社会倡导的信息策略，包括视觉策略、情绪与公众赋权，以及危机情境下的企业社会责任效果。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "corporate social responsibility",
+        "corporate social advocacy",
+        "visual communication",
+        "crisis communication",
+        "csr message strategies",
+        "consumer engagement",
+        "emotions",
+        "creating shared value"
+      ]
+    },
+    {
+      "name": "Brooke Fisher Liu",
+      "summary": "Studies how strategic communication supports organizational and community crisis readiness, including disaster, weather, and pandemic risk communication by government agencies.",
+      "summary_zh": "研究战略传播如何提升组织与社区的危机准备能力，包括政府机构在灾害、天气与疫情方面的风险传播。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "crisis communication",
+        "risk communication",
+        "crisis readiness",
+        "disaster communication",
+        "public relations",
+        "weather warnings",
+        "pandemic readiness",
+        "government communication"
+      ]
+    },
+    {
+      "name": "Kristy Maddux",
+      "summary": "Analyzes rhetorical practices of democratic citizenship and how gender, disability, religion, and the built environment shape them, using historical rhetorical criticism.",
+      "summary_zh": "运用历史修辞批评，分析民主公民身份的修辞实践，以及性别、残障、宗教与建成环境如何塑造这些实践。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "rhetoric and political culture",
+        "democratic citizenship",
+        "built environment",
+        "deliberation",
+        "disability",
+        "rett syndrome",
+        "religious media",
+        "frederick law olmsted"
+      ]
+    },
+    {
+      "name": "Raquel Moreira",
+      "summary": "Examines hemispheric constructions of Latinidad, mestizaje, and anti-Blackness in Latin American popular culture and performance through feminist critical analysis.",
+      "summary_zh": "以女性主义批判分析方法，考察拉丁美洲流行文化与表演中关于拉丁裔身份、混血论与反黑人主义的半球性建构。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "latinidad",
+        "mestizaje",
+        "anti-blackness",
+        "favela funk",
+        "brazil",
+        "black feminism",
+        "performance",
+        "gender and sexuality"
+      ]
+    },
+    {
+      "name": "Charles Morris III",
+      "summary": "Studies LGBTQ history and public memory as a queer rhetorical critic, analyzing archives, speeches, and commemorations such as the AIDS Quilt.",
+      "summary_zh": "作为酷儿修辞批评学者，通过分析档案、演讲与艾滋病纪念被等纪念实践，研究LGBTQ历史与公共记忆。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "queer rhetoric",
+        "lgbtq history",
+        "public memory",
+        "public address",
+        "aids quilt",
+        "harvey milk",
+        "archives",
+        "queer theory"
+      ]
+    },
+    {
+      "name": "Kang Namkoong",
+      "summary": "Studies emerging media for health, examining eHealth effects and developing mobile and VR/AR interventions for cancer, mental health, and occupational safety in underserved communities.",
+      "summary_zh": "研究新兴媒介在健康领域的应用，考察电子健康系统的效果，并为弱势社区开发移动及VR/AR干预，涉及癌症、心理健康与职业安全。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "ehealth",
+        "mhealth",
+        "cancer communication",
+        "occupational health and safety",
+        "virtual reality interventions",
+        "augmented reality",
+        "health disparities",
+        "agricultural health"
+      ]
+    },
+    {
+      "name": "Xiaoli Nan",
+      "summary": "Studies the science of persuasion and attitude change, applying it to health messages, misinformation, and AI-generated persuasive content on issues like vaccination and cancer.",
+      "summary_zh": "研究说服与态度改变的科学机制，并将其应用于健康信息、虚假信息以及AI生成的说服性内容，涉及疫苗接种与癌症等议题。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "persuasion",
+        "attitude change",
+        "health communication",
+        "misinformation",
+        "vaccination",
+        "cancer prevention",
+        "ai-generated messages",
+        "food safety"
+      ]
+    },
+    {
+      "name": "Nana Kwame Osei Fordjour",
+      "summary": "Studies political public relations, including politicians' image construction, impression management, and authenticity in governance, elections, and crises, using qualitative and critical methods.",
+      "summary_zh": "运用质性与批判方法研究政治公关，包括政治人物在治理、选举与危机中的形象建构、印象管理与真实性。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "political public relations",
+        "impression management",
+        "image construction",
+        "authenticity",
+        "strategic messaging",
+        "crisis communication",
+        "elections",
+        "governance"
+      ]
+    },
+    {
+      "name": "Hailey Otis",
+      "summary": "Analyzes the embodied, intersectional rhetorical tactics of digital fat activism and marginalized groups' worldmaking amid COVID-era health discourses, using feminist and queer theory.",
+      "summary_zh": "借助女性主义与酷儿理论，分析数字肥胖行动主义的具身化、交叉性修辞策略，以及边缘群体在新冠健康话语下的世界建构。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "fat activism",
+        "intersectionality",
+        "feminist rhetoric",
+        "queer theory",
+        "worldmaking",
+        "disability",
+        "covid-19 discourse",
+        "social media activism"
+      ]
+    },
+    {
+      "name": "Shawn Parry-Giles",
+      "summary": "Studies rhetoric and politics, including presidential and war rhetoric and women in politics, through historical analysis of public speeches and archives.",
+      "summary_zh": "通过对公共演讲与档案的历史分析，研究修辞与政治，包括总统修辞、战争修辞以及女性与政治。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "presidential rhetoric",
+        "war rhetoric",
+        "women and politics",
+        "public address",
+        "democratic deliberation",
+        "political speeches",
+        "civic education",
+        "oratory archives"
+      ]
+    },
+    {
+      "name": "Trevor Parry-Giles",
+      "summary": "Studies relationships among rhetoric, politics, law, and popular culture, such as Supreme Court confirmations and televised portrayals of the U.S. presidency.",
+      "summary_zh": "研究修辞、政治、法律与流行文化之间的关系，例如最高法院大法官确认程序及电视剧对美国总统职位的呈现。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "political rhetoric",
+        "legal rhetoric",
+        "supreme court confirmation",
+        "popular culture",
+        "the west wing",
+        "nationalism",
+        "celebrity",
+        "presidency"
+      ]
+    },
+    {
+      "name": "Damien Pfister",
+      "summary": "Studies intersections of rhetoric and digital media, from attention and deliberation in the early blogosphere to ancient rhetoric and the ethos of wearable computers.",
+      "summary_zh": "研究修辞与数字媒介的交汇，从早期博客圈中的注意力与公共协商，到古典修辞以及可穿戴计算设备的人格诉求。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "digital rhetoric",
+        "networked rhetoric",
+        "blogosphere",
+        "deliberation",
+        "wearable computers",
+        "ethos",
+        "ancient rhetoric",
+        "digitality"
+      ]
+    },
+    {
+      "name": "Yan Qu",
+      "summary": "Studies public relations and risk and crisis communication from a personal social network perspective, including how AI reshapes professional identities and networks.",
+      "summary_zh": "从个人社会网络视角研究公共关系及风险与危机传播，包括人工智能如何重塑职业身份与人际网络。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_NETWORK",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "personal networks",
+        "social network analysis",
+        "public relations",
+        "risk and crisis communication",
+        "employee-organization relationships",
+        "ai and professional identity",
+        "publics"
+      ]
+    },
+    {
+      "name": "Anita Atwell Seate",
+      "summary": "Studies how social identities and intergroup dynamics shape responses to threat, and how organizations and communities communicate weather and public safety risks equitably.",
+      "summary_zh": "研究社会身份与群际动态如何影响人们对威胁的反应，以及组织和社区如何公平地传播天气与公共安全风险。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "intergroup communication",
+        "social identity",
+        "risk communication",
+        "crisis communication",
+        "weather risk",
+        "public safety",
+        "identity threat",
+        "community health workers"
+      ]
+    },
+    {
+      "name": "Catherine Knight Steele",
+      "summary": "Studies race, gender, and media, especially how Black women and Black communities use online technology for resistance and community, through critical and historical analysis.",
+      "summary_zh": "以批判与历史分析方法研究种族、性别与媒介，尤其关注黑人女性与黑人社群如何利用网络技术进行抵抗并建立社群。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "digital black feminism",
+        "black blogosphere",
+        "race and gender",
+        "digital resistance",
+        "black digital humanities",
+        "technoskepticism",
+        "african american discourse",
+        "online community"
+      ]
+    },
+    {
+      "name": "Rianna Walcott",
+      "summary": "Studies Black British and Black diasporic communication practices on social media platforms, developing digital humanities methods such as scraping Black Twitter.",
+      "summary_zh": "研究黑人英国人及黑人离散群体在社交媒体平台上的传播实践，并开发如抓取黑人推特数据等数字人文方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_EUROPE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "black twitter",
+        "black british identity",
+        "black diaspora",
+        "digital humanities",
+        "social media scraping",
+        "aave",
+        "tiktok",
+        "race and ethnicity"
+      ]
+    },
+    {
+      "name": "Carly Woods",
+      "summary": "Studies the history of argumentation, debate, and memory, including women's debating and education in the US and UK, using archival rhetorical research.",
+      "summary_zh": "运用档案修辞研究方法，研究论辩、辩论与记忆的历史，包括美英两国女性辩论与教育。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_EUROPE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "argumentation",
+        "debate history",
+        "women's education",
+        "memory studies",
+        "public address",
+        "intersectional memory",
+        "barbara jordan",
+        "international debate"
+      ]
+    },
+    {
+      "name": "Carina Zelaya",
+      "summary": "Studies health messaging on cancer prevention, crisis, and sexual health, examining risk perception, information seeking, and decision-making, including among Black women.",
+      "summary_zh": "研究癌症预防、危机及性健康方面的健康信息传播，考察风险认知、信息寻求与决策过程，包括黑人女性群体。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "cancer prevention",
+        "sexual and reproductive health",
+        "risk perception",
+        "health information seeking",
+        "cancer fatalism",
+        "crisis communication",
+        "black women",
+        "health decision-making"
+      ]
+    },
+    {
+      "name": "Linda Steiner",
+      "summary": "Studies media ethics, feminist theory, and women's roles in journalism and the media workforce, including alternative media, citizen journalism, and suffrage press history.",
+      "summary_zh": "研究媒介伦理、女性主义理论以及女性在新闻业与媒体劳动中的角色，包括另类媒体、公民新闻与妇女选举权运动的新闻史。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "media ethics",
+        "feminist media theory",
+        "women journalists",
+        "alternative media",
+        "citizen journalism",
+        "women's suffrage",
+        "gender in newsrooms"
+      ]
+    },
+    {
+      "name": "Krishnan Vasudevan",
+      "summary": "Studies how platform design and Silicon Valley's frictionless ethos affect democracy, journalism, and social movements, using ethnography, critical qualitative analysis, and documentary.",
+      "summary_zh": "运用民族志、批判性质性分析与纪录片创作，研究平台设计及硅谷“无摩擦”理念如何影响民主、新闻业与社会运动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "platform studies",
+        "friction",
+        "silicon valley",
+        "ethnography",
+        "social movements",
+        "documentary",
+        "visual communication",
+        "gig workers"
+      ]
+    },
+    {
+      "name": "DeNeen Brown",
+      "summary": "Practices and teaches narrative and feature journalism on race, Black history, and social issues, including reporting on the 1921 Tulsa Race Massacre.",
+      "summary_zh": "从事并讲授叙事与特稿新闻写作，关注种族、黑人历史与社会议题，包括对1921年塔尔萨种族屠杀的报道。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "narrative journalism",
+        "feature writing",
+        "tulsa race massacre",
+        "black history",
+        "race",
+        "washington post",
+        "climate change reporting"
+      ]
+    },
+    {
+      "name": "Lucy Dalglish",
+      "summary": "Works on media law, First Amendment protections, and press freedom, drawing on experience leading the Reporters Committee for Freedom of the Press.",
+      "summary_zh": "依托领导新闻自由记者委员会的经验，关注媒介法、第一修正案保护与新闻自由。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "media law",
+        "first amendment",
+        "press freedom",
+        "newsgathering rights",
+        "journalism education",
+        "reporters committee"
+      ]
+    },
+    {
+      "name": "Mark Feldstein",
+      "summary": "Studies the history and ethics of investigative and broadcast journalism, presidents and the press, leaks, and First Amendment issues through archival historical research.",
+      "summary_zh": "通过档案历史研究，探讨调查报道与广播新闻的历史和伦理、总统与媒体关系、泄密及第一修正案议题。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "journalism history",
+        "investigative reporting",
+        "whistleblowers",
+        "first amendment",
+        "presidents and the press",
+        "broadcast news",
+        "nixon",
+        "censorship"
+      ]
+    },
+    {
+      "name": "Christopher Hanson",
+      "summary": "Studies journalism ethics, the role of master narratives and stereotypes in shaping news content, and media-military relations.",
+      "summary_zh": "研究新闻伦理、宏大叙事与刻板印象如何塑造新闻内容，以及媒体与军方的关系。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "journalism ethics",
+        "master narratives",
+        "news stereotypes",
+        "media-military relations",
+        "press criticism",
+        "war reporting"
+      ]
+    },
+    {
+      "name": "Naeemul Hassan",
+      "summary": "Develops computational journalism tools using data mining and NLP, including automated fact-checking and algorithms to reduce clickbait harms on social media.",
+      "summary_zh": "运用数据挖掘与自然语言处理开发计算新闻工具，包括自动化事实核查系统以及减少社交媒体标题党危害的算法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "computational journalism",
+        "automated fact-checking",
+        "claimbuster",
+        "clickbait",
+        "natural language processing",
+        "data mining",
+        "social media sensing"
+      ]
+    },
+    {
+      "name": "Shuning Lu",
+      "summary": "Studies audience behavior and journalistic practice at the intersection of journalism and social media in the U.S. and China, using experiments, surveys, and computational methods.",
+      "summary_zh": "运用实验、问卷调查与计算方法，研究美国与中国新闻业和社交媒体交汇处的受众行为与新闻实践。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_CHINA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "social media journalism",
+        "news audiences",
+        "audience engagement",
+        "journalistic practices",
+        "computational social science",
+        "china",
+        "digital news",
+        "experiments and surveys"
+      ]
+    },
+    {
+      "name": "Christoph Mergerson",
+      "summary": "Studies journalism history and weather and disaster journalism, including weathercasters' job satisfaction and the history of women in television meteorology in the U.S.",
+      "summary_zh": "研究新闻史以及天气与灾害新闻，包括美国电视天气预报员的职业满意度和女性电视气象学家的历史。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "weathercasting",
+        "disaster journalism",
+        "journalism history",
+        "television meteorology",
+        "journalism and democracy",
+        "media law",
+        "women in broadcasting"
+      ]
+    },
+    {
+      "name": "Susan Moeller",
+      "summary": "Studies global media coverage of conflict, terrorism, disasters, and human rights, and develops global media literacy education.",
+      "summary_zh": "研究全球媒体对冲突、恐怖主义、灾难与人权的报道，并发展全球媒介素养教育。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "international news coverage",
+        "conflict reporting",
+        "terrorism coverage",
+        "human rights",
+        "photojournalism",
+        "global media literacy",
+        "islam and terrorism",
+        "trauma"
+      ]
+    },
+    {
+      "name": "Deborah Nelson",
+      "summary": "Practices and teaches investigative journalism on topics such as war crimes, global hunger, pandemics, climate change, and police use of force.",
+      "summary_zh": "从事并讲授调查新闻，报道题材涵盖战争罪行、全球饥饿、流行病、气候变化与警察用武等。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "investigative journalism",
+        "investigative reporting",
+        "war crimes",
+        "vietnam war",
+        "police use of force",
+        "accountability journalism"
+      ]
+    },
+    {
+      "name": "Sarah Oates",
+      "summary": "Studies how disinformation and propaganda travel through media systems and how media support or subvert democracy, comparing Russia, the United States, and the UK.",
+      "summary_zh": "研究虚假信息与宣传如何在媒介系统中传播，以及媒体如何支持或破坏民主，并对俄罗斯、美国与英国进行比较。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_EUROPE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "russian propaganda",
+        "disinformation",
+        "democratization",
+        "media freedom",
+        "election coverage",
+        "authoritarianism",
+        "terrorism coverage",
+        "comparative media systems"
+      ]
+    },
+    {
+      "name": "Dana Priest",
+      "summary": "Practices and teaches investigative national security journalism on the military and intelligence agencies, and advocates for jailed journalists worldwide.",
+      "summary_zh": "从事并讲授关于军方与情报机构的国家安全调查新闻，并关注全球被监禁记者的处境。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "national security journalism",
+        "investigative reporting",
+        "intelligence agencies",
+        "military",
+        "press freedom",
+        "jailed journalists"
+      ]
+    },
+    {
+      "name": "Daniel Trielli",
+      "summary": "Studies how algorithmic curation, especially Google search, shapes news and political information, with interests in computational journalism and algorithmic accountability.",
+      "summary_zh": "研究算法策展（尤其是谷歌搜索）如何影响新闻与政治信息，关注计算新闻与算法问责。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "algorithmic curation",
+        "google search",
+        "algorithmic accountability",
+        "news search",
+        "data journalism",
+        "computational journalism",
+        "political information"
+      ]
+    },
+    {
+      "name": "Rob Wells",
+      "summary": "Studies the history of business journalism, including trade reporters and the Kiplinger newsletter, through archival research, alongside data-driven reporting.",
+      "summary_zh": "通过档案研究探讨商业新闻史，包括行业记者与基普林格通讯，同时从事数据驱动的新闻报道。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "business journalism",
+        "journalism history",
+        "kiplinger newsletter",
+        "keating five",
+        "trade press",
+        "data journalism"
+      ]
+    },
+    {
+      "name": "Ronald Yaros",
+      "summary": "Studies how people seek, select, and share digital information produced by humans or AI, and designs content strategies that capture and sustain audience attention.",
+      "summary_zh": "研究人们如何寻求、选择并分享由人类或AI生产的数字信息，并设计能够吸引和维持受众注意力的内容策略。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "digital engagement",
+        "audience attention",
+        "mobile journalism",
+        "digital storytelling",
+        "information seeking",
+        "incidental exposure",
+        "science journalism",
+        "ai-generated content",
+        "health journalism"
+      ]
+    }
+  ]
+}

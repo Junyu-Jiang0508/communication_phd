@@ -1,1579 +1,1494 @@
 {
- "slug": "university-of-michigan",
- "labeled_at": "2026-10-21",
- "faculty": [
-  {
-   "name": "Megan Ankerson",
-   "summary": "Studies web history, software, AI and visual culture, historicizing big data systems alongside time-travel media through historical and critical-interpretive analysis.",
-   "summary_zh": "以历史与批判阐释方法研究网络史、软件、人工智能与视觉文化，并将大数据系统与时间旅行媒介并置进行历史化考察。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HISTORY_THEORY",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_HISTORICAL_ARCHIVAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_ARCHIVES_TEXTS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "web history",
-    "software studies",
-    "visual culture",
-    "big data",
-    "media temporality",
-    "feminist technoscience",
-    "dot-com design",
-    "time travel media"
-   ]
-  },
-  {
-   "name": "Kyla Brathwaite",
-   "summary": "Examines how race and gender shape people's interactions with communication technologies, self-presentation and body image, mainly through quantitative experiments.",
-   "summary_zh": "主要通过定量实验研究种族与性别如何影响人们与传播技术及其他用户的互动、自我呈现与身体意象。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HCI_CMC",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_EXPERIMENT",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_SURVEY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_PLATFORMS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "objectification",
-    "body image",
-    "self-presentation",
-    "race and representation",
-    "technology affordances",
-    "social influence",
-    "computer-mediated communication"
-   ]
-  },
-  {
-   "name": "Sonya Dal Cin",
-   "summary": "Studies how stories and identification with characters change beliefs and behavior, applying social-cognitive media effects research to health, stereotyping and development.",
-   "summary_zh": "研究叙事与角色认同如何改变信念与行为，并将社会认知取向的媒介效果研究应用于健康、刻板印象与人生发展阶段。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CHILDREN_FAMILY_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_YOUTH_EDUCATION",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "narrative persuasion",
-    "character identification",
-    "media effects",
-    "health behavior",
-    "stereotyping",
-    "adolescent development",
-    "older adulthood",
-    "implicit processes"
-   ]
-  },
-  {
-   "name": "Susan Douglas",
-   "summary": "Writes critical histories of American media and gender, from early broadcasting and radio to celebrity, motherhood myths and representations of women.",
-   "summary_zh": "以批判史视角研究美国媒介与性别，涵盖早期广播与电台、名人文化、母职神话及女性再现。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": true,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     },
-     {
-      "code": "T_HISTORY_THEORY",
-      "primary": true,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     },
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": true,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     },
-     {
-      "code": "A_HISTORICAL_ARCHIVAL",
-      "primary": true,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     },
-     {
-      "code": "D_ARCHIVES_TEXTS",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
-    "setting": [],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "feminist media criticism",
-    "radio history",
-    "broadcasting history",
-    "celebrity",
-    "enlightened sexism",
-    "motherhood",
-    "older women",
-    "women and media"
-   ]
-  },
-  {
-   "name": "Hollis Griffin",
-   "summary": "Analyzes the cultural politics of television, cinema and social media around sexuality, affect and urban space using archival research, fieldwork and close reading.",
-   "summary_zh": "运用档案研究、田野观察与文本细读，分析电视、电影和社交媒体在性向、情感与城市空间方面的文化政治。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_INDUSTRIES_POLICY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_HISTORICAL_ARCHIVAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_ARCHIVES_TEXTS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_INTERVIEWS_FIELD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "lgbtq media",
-    "sexuality",
-    "television studies",
-    "affect",
-    "media and the city",
-    "new york city",
-    "tiktok",
-    "queer consumers"
-   ]
-  },
-  {
-   "name": "Germaine Halegoua",
-   "summary": "Studies how people, place and digital media intersect, including smart cities, digital placemaking, neighborhood social media and inequities of digital infrastructure.",
-   "summary_zh": "研究人、地方与数字媒介的交织，包括智慧城市、数字地方营造、社区社交媒体以及数字基础设施的不平等。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HCI_CMC",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_PLATFORMS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_ELECTIONS_GOVERNMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "smart cities",
-    "digital placemaking",
-    "digital infrastructure",
-    "media and the city",
-    "locative media",
-    "digital divide",
-    "urban planning",
-    "sensor-mediated communication"
-   ]
-  },
-  {
-   "name": "Sol Hart",
-   "summary": "Studies strategic communication about environmental, science and risk issues, testing how messages can engage publics and bridge ideological divides.",
-   "summary_zh": "研究环境、科学与风险议题的战略传播，检验信息如何动员公众并跨越意识形态分歧。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_SCIENCE_ENV",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_POLITICAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "environmental communication",
-    "climate change communication",
-    "science communication",
-    "risk communication",
-    "message design",
-    "political polarization",
-    "public engagement"
-   ]
-  },
-  {
-   "name": "Ariel Hasell",
-   "summary": "Uses quantitative methods to study how media choices and social media influencers shape knowledge, trust and engagement with science, journalism and politics.",
-   "summary_zh": "运用定量方法研究媒介选择与社交媒体网红如何影响公众对科学、新闻与政治的认知、信任与参与。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_POLITICAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MISINFO_TRUST",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_SCIENCE_ENV",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_JOURNALISM",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_SURVEY",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_PLATFORMS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "selective exposure",
-    "social media influencers",
-    "news distrust",
-    "news fatigue",
-    "trust in institutions",
-    "science engagement",
-    "political disengagement",
-    "expertise"
-   ]
-  },
-  {
-   "name": "Yanna Krupnikov",
-   "summary": "Studies attention to political news, political expression and partisan polarization in American politics, as well as how journalists cover polarization and democracy.",
-   "summary_zh": "研究美国政治中的政治新闻关注、政治表达与党派极化，以及记者如何报道极化与民主。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_POLITICAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_JOURNALISM",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_NEWSROOMS_MEDIA_ORGS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "political polarization",
-    "partisan hostility",
-    "political disengagement",
-    "news attention",
-    "political expression",
-    "journalist decision-making",
-    "american politics"
-   ]
-  },
-  {
-   "name": "Hang Lu",
-   "summary": "Studies how audiences process science, health and risk messages and AI-generated or manipulated visuals, combining experiments with analysis of social media content.",
-   "summary_zh": "结合实验与社交媒体内容分析，研究受众如何处理科学、健康与风险信息以及AI生成或篡改的视觉内容。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_SCIENCE_ENV",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MISINFO_TRUST",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_EXPERIMENT",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_COMPUTATIONAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_CONTENT_ANALYSIS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "risk communication",
-    "ai-generated media",
-    "synthetic media",
-    "emotion",
-    "psychological distance",
-    "stigma",
-    "climate change",
-    "vaccination"
-   ]
-  },
-  {
-   "name": "Pranav Malhotra",
-   "summary": "Studies how social and mobile media affordances interact with cultural and relational norms, including credibility judgments in private messaging spaces in understudied contexts.",
-   "summary_zh": "研究社交与移动媒介的可供性如何与文化及关系规范互动，包括在研究较少地区的私密通讯空间中的信息可信度判断。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HCI_CMC",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MISINFO_TRUST",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_GLOBAL_INTERCULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_INTERPERSONAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_PLATFORMS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "private messaging",
-    "mobile media",
-    "affordances",
-    "information credibility",
-    "relational norms",
-    "cultural norms",
-    "digital journalism"
-   ]
-  },
-  {
-   "name": "Colten Meisner",
-   "summary": "Uses qualitative methods to study work in media and tech industries, especially social media creators, influencers, journalists and subscription platforms like Substack.",
-   "summary_zh": "运用质性方法研究媒体与科技产业中的劳动，尤其是社交媒体创作者、网红、记者以及Substack等订阅平台。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_INDUSTRIES_POLICY",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ORGANIZATIONAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_JOURNALISM",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_QUALITATIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_INTERVIEWS_FIELD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_NEWSROOMS_MEDIA_ORGS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_PLATFORMS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_ORGANIZATIONS_WORKPLACES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "creator economy",
-    "influencers",
-    "platform labor",
-    "live streaming",
-    "substack",
-    "digital news startups",
-    "media work"
-   ]
-  },
-  {
-   "name": "Josh Pasek",
-   "summary": "Studies how new media and psychological processes shape public opinion and voting in US elections, and develops survey methods to reduce measurement error.",
-   "summary_zh": "研究新媒体与心理过程如何影响美国选举中的舆论与投票，并发展降低测量误差的调查方法。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_POLITICAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_SURVEY",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_ELECTIONS_GOVERNMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "public opinion",
-    "survey methodology",
-    "survey weighting",
-    "measurement error",
-    "voter decision-making",
-    "online samples",
-    "social networking sites",
-    "american elections"
-   ]
-  },
-  {
-   "name": "Devon Powers",
-   "summary": "Examines consumer and promotional culture, including trend forecasting, branding and popular music criticism, through critical cultural and historical analysis.",
-   "summary_zh": "以批判文化与历史分析考察消费与推广文化，包括趋势预测、品牌营销与流行音乐评论。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_INDUSTRIES_POLICY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_HISTORICAL_ARCHIVAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_ARCHIVES_TEXTS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "consumer culture",
-    "trend forecasting",
-    "branding",
-    "promotional culture",
-    "popular music",
-    "rock criticism",
-    "cultural trends"
-   ]
-  },
-  {
-   "name": "John Barry Ryan",
-   "summary": "Studies campaign communication, social influence and news coverage of expertise and polarization in American politics, often using experiments.",
-   "summary_zh": "研究美国政治中的竞选传播、社会影响以及新闻对专业知识与极化的报道，常采用实验方法。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_POLITICAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_JOURNALISM",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_INTERPERSONAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_EXPERIMENT",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_ELECTIONS_GOVERNMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "campaign communication",
-    "social influence",
-    "political polarization",
-    "partisan hostility",
-    "political expertise",
-    "interpersonal political discussion",
-    "news media"
-   ]
-  },
-  {
-   "name": "Derek W. Vaillant",
-   "summary": "Writes histories of radio broadcasting in the US and France, sound studies and American popular music, including the gendered and racialized formation of US broadcasting.",
-   "summary_zh": "研究美国与法国的广播电台史、声音研究和美国流行音乐，包括美国广播业的性别化与种族化形成过程。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HISTORY_THEORY",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_GLOBAL_INTERCULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_HISTORICAL_ARCHIVAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_ARCHIVES_TEXTS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_NEWSROOMS_MEDIA_ORGS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "R_EUROPE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "R_GLOBAL_CROSS_NATIONAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "radio history",
-    "sound studies",
-    "broadcasting history",
-    "popular music",
-    "france",
-    "international radio",
-    "race and gender in broadcasting"
-   ]
-  },
-  {
-   "name": "Jan Van den Bulck",
-   "summary": "Studies incidental media effects, including cultivation of beliefs about violence, policing and medicine, and the health effects of media use on sleep, eating and exercise.",
-   "summary_zh": "研究非自愿与偶发的媒介效果，包括对暴力、执法与医疗认知的涵化，以及媒介使用对睡眠、饮食和运动的健康影响。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_YOUTH_EDUCATION",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "cultivation theory",
-    "media and sleep",
-    "incidental media effects",
-    "media epidemiology",
-    "fiction effects",
-    "violence perception",
-    "eating behavior"
-   ]
-  },
-  {
-   "name": "Cara Wallis",
-   "summary": "Studies mobile and social media use among marginalized groups in China, especially rural and migrant women, through intersectional feminist and critical technology lenses.",
-   "summary_zh": "以交叉性女性主义与批判技术视角，研究中国边缘群体（尤其农村与流动女性）的移动与社交媒体使用。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_GLOBAL_INTERCULTURAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HCI_CMC",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_INTERVIEWS_FIELD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_CHINA",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "china",
-    "internal migrants",
-    "mobile phones",
-    "transnational feminism",
-    "social media",
-    "rural china",
-    "technomobility",
-    "critical technology studies"
-   ]
-  },
-  {
-   "name": "Brian Weeks",
-   "summary": "Studies how emotion and partisan media shape political misperceptions, news use and digital media behavior, as well as online sports betting.",
-   "summary_zh": "研究情绪与党派媒体如何影响政治误知、新闻使用与数字媒介行为，以及网络体育博彩。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_POLITICAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MISINFO_TRUST",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "political misperceptions",
-    "partisan media",
-    "emotion",
-    "anger",
-    "sports betting",
-    "digital media",
-    "news use"
-   ]
-  },
-  {
-   "name": "Apryl Williams",
-   "summary": "Studies race and gender in digital spaces and algorithmic technocultures, including sexual racism in online dating, reparative technology and human-AI intimacy.",
-   "summary_zh": "研究数字空间与算法技术文化中的种族与性别，包括网络约会中的性种族主义、修复性技术与人机亲密关系。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_INTERPERSONAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HCI_CMC",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_PLATFORMS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "online dating",
-    "sexual racism",
-    "algorithmic bias",
-    "race and technology",
-    "reparative technology",
-    "ai intimacy",
-    "digital culture"
-   ]
-  }
- ]
+  "slug": "university-of-michigan",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Megan Ankerson",
+      "summary": "Studies web history, software, AI and visual culture, historicizing big data systems alongside time-travel media through historical and critical-interpretive analysis.",
+      "summary_zh": "以历史与批判阐释方法研究网络史、软件、人工智能与视觉文化，并将大数据系统与时间旅行媒介并置进行历史化考察。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "web history",
+        "software studies",
+        "visual culture",
+        "big data",
+        "media temporality",
+        "feminist technoscience",
+        "dot-com design",
+        "time travel media"
+      ]
+    },
+    {
+      "name": "Kyla Brathwaite",
+      "summary": "Examines how race and gender shape people's interactions with communication technologies, self-presentation and body image, mainly through quantitative experiments.",
+      "summary_zh": "主要通过定量实验研究种族与性别如何影响人们与传播技术及其他用户的互动、自我呈现与身体意象。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "objectification",
+        "body image",
+        "self-presentation",
+        "race and representation",
+        "technology affordances",
+        "social influence",
+        "computer-mediated communication"
+      ]
+    },
+    {
+      "name": "Sonya Dal Cin",
+      "summary": "Studies how stories and identification with characters change beliefs and behavior, applying social-cognitive media effects research to health, stereotyping and development.",
+      "summary_zh": "研究叙事与角色认同如何改变信念与行为，并将社会认知取向的媒介效果研究应用于健康、刻板印象与人生发展阶段。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "narrative persuasion",
+        "character identification",
+        "media effects",
+        "health behavior",
+        "stereotyping",
+        "adolescent development",
+        "older adulthood",
+        "implicit processes"
+      ]
+    },
+    {
+      "name": "Susan Douglas",
+      "summary": "Writes critical histories of American media and gender, from early broadcasting and radio to celebrity, motherhood myths and representations of women.",
+      "summary_zh": "以批判史视角研究美国媒介与性别，涵盖早期广播与电台、名人文化、母职神话及女性再现。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "feminist media criticism",
+        "radio history",
+        "broadcasting history",
+        "celebrity",
+        "enlightened sexism",
+        "motherhood",
+        "older women",
+        "women and media"
+      ]
+    },
+    {
+      "name": "Hollis Griffin",
+      "summary": "Analyzes the cultural politics of television, cinema and social media around sexuality, affect and urban space using archival research, fieldwork and close reading.",
+      "summary_zh": "运用档案研究、田野观察与文本细读，分析电视、电影和社交媒体在性向、情感与城市空间方面的文化政治。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "lgbtq media",
+        "sexuality",
+        "television studies",
+        "affect",
+        "media and the city",
+        "new york city",
+        "tiktok",
+        "queer consumers"
+      ]
+    },
+    {
+      "name": "Germaine Halegoua",
+      "summary": "Studies how people, place and digital media intersect, including smart cities, digital placemaking, neighborhood social media and inequities of digital infrastructure.",
+      "summary_zh": "研究人、地方与数字媒介的交织，包括智慧城市、数字地方营造、社区社交媒体以及数字基础设施的不平等。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "smart cities",
+        "digital placemaking",
+        "digital infrastructure",
+        "digital city",
+        "media and the city",
+        "neighborhood social media",
+        "cultural geographies",
+        "sensor-mediated communication"
+      ]
+    },
+    {
+      "name": "Sol Hart",
+      "summary": "Studies strategic communication about environmental, science and risk issues, examining how media and messages can engage publics and bridge ideological divides.",
+      "summary_zh": "研究环境、科学与风险议题的战略传播，考察媒介与信息如何动员公众并跨越意识形态分歧。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "environmental communication",
+        "climate change communication",
+        "science communication",
+        "risk communication",
+        "message design",
+        "political polarization",
+        "public engagement"
+      ]
+    },
+    {
+      "name": "Ariel Hasell",
+      "summary": "Uses quantitative methods to study how media choices and social media influencers shape knowledge, trust and engagement with science, journalism and politics.",
+      "summary_zh": "运用定量方法研究媒介选择与社交媒体网红如何影响公众对科学、新闻与政治的认知、信任与参与。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "selective exposure",
+        "social media influencers",
+        "news distrust",
+        "news fatigue",
+        "trust in institutions",
+        "science engagement",
+        "political disengagement",
+        "expertise"
+      ]
+    },
+    {
+      "name": "Yanna Krupnikov",
+      "summary": "Studies attention to political news, political expression and partisan polarization in American politics, as well as how journalists cover polarization and democracy.",
+      "summary_zh": "研究美国政治中的政治新闻关注、政治表达与党派极化，以及记者如何报道极化与民主。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "political polarization",
+        "partisan hostility",
+        "political disengagement",
+        "news attention",
+        "political expression",
+        "journalist decision-making",
+        "american politics"
+      ]
+    },
+    {
+      "name": "Hang Lu",
+      "summary": "Studies how audiences process science, health and risk messages and AI-generated or manipulated visuals, combining experiments with analysis of social media content.",
+      "summary_zh": "结合实验与社交媒体内容分析，研究受众如何处理科学、健康与风险信息以及AI生成或篡改的视觉内容。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "risk communication",
+        "ai-generated media",
+        "synthetic media",
+        "emotion",
+        "psychological distance",
+        "stigma",
+        "climate change",
+        "vaccination"
+      ]
+    },
+    {
+      "name": "Pranav Malhotra",
+      "summary": "Studies how social and mobile media affordances interact with cultural and relational norms, including credibility judgments in private messaging spaces in understudied contexts.",
+      "summary_zh": "研究社交与移动媒介的可供性如何与文化及关系规范互动，包括在研究较少地区的私密通讯空间中的信息可信度判断。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "private messaging",
+        "mobile media",
+        "affordances",
+        "information credibility",
+        "relational norms",
+        "cultural norms",
+        "digital journalism"
+      ]
+    },
+    {
+      "name": "Colten Meisner",
+      "summary": "Uses qualitative methods to study work in media and tech industries, especially social media creators, influencers, journalists and subscription platforms like Substack.",
+      "summary_zh": "运用质性方法研究媒体与科技产业中的劳动，尤其是社交媒体创作者、网红、记者以及Substack等订阅平台。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "creator economy",
+        "influencers",
+        "platform labor",
+        "live streaming",
+        "substack",
+        "digital news startups",
+        "media work"
+      ]
+    },
+    {
+      "name": "Josh Pasek",
+      "summary": "Studies how new media and psychological processes shape public opinion and voting in US elections, and develops survey methods to reduce measurement error.",
+      "summary_zh": "研究新媒体与心理过程如何影响美国选举中的舆论与投票，并发展降低测量误差的调查方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "public opinion",
+        "survey methodology",
+        "survey weighting",
+        "measurement error",
+        "voter decision-making",
+        "online samples",
+        "social networking sites",
+        "american elections"
+      ]
+    },
+    {
+      "name": "Devon Powers",
+      "summary": "Examines consumer and promotional culture, including trend forecasting, branding and popular music criticism, through critical cultural and historical analysis.",
+      "summary_zh": "以批判文化与历史分析考察消费与推广文化，包括趋势预测、品牌营销与流行音乐评论。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "consumer culture",
+        "trend forecasting",
+        "branding",
+        "promotional culture",
+        "popular music",
+        "rock criticism",
+        "cultural trends"
+      ]
+    },
+    {
+      "name": "John Barry Ryan",
+      "summary": "Studies campaign communication, social influence and news coverage of expertise and polarization in American politics, often using experiments.",
+      "summary_zh": "研究美国政治中的竞选传播、社会影响以及新闻对专业知识与极化的报道，常采用实验方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "campaign communication",
+        "social influence",
+        "political polarization",
+        "partisan hostility",
+        "political expertise",
+        "interpersonal political discussion",
+        "news media"
+      ]
+    },
+    {
+      "name": "Derek W. Vaillant",
+      "summary": "Writes histories of radio broadcasting in the US and France, sound studies and American popular music, including the gendered and racialized formation of US broadcasting.",
+      "summary_zh": "研究美国与法国的广播电台史、声音研究和美国流行音乐，包括美国广播业的性别化与种族化形成过程。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_EUROPE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "radio history",
+        "sound studies",
+        "broadcasting history",
+        "popular music",
+        "france",
+        "international radio",
+        "race and gender in broadcasting"
+      ]
+    },
+    {
+      "name": "Jan Van den Bulck",
+      "summary": "Studies incidental media effects, including cultivation of beliefs about violence, policing and medicine, and the health effects of media use on sleep, eating and exercise.",
+      "summary_zh": "研究非自愿与偶发的媒介效果，包括对暴力、执法与医疗认知的涵化，以及媒介使用对睡眠、饮食和运动的健康影响。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "cultivation theory",
+        "media and sleep",
+        "incidental media effects",
+        "media epidemiology",
+        "fiction effects",
+        "violence perception",
+        "eating behavior"
+      ]
+    },
+    {
+      "name": "Cara Wallis",
+      "summary": "Studies mobile and social media use among marginalized groups in China, especially rural and migrant women, through intersectional feminist and critical technology lenses.",
+      "summary_zh": "以交叉性女性主义与批判技术视角，研究中国边缘群体（尤其农村与流动女性）的移动与社交媒体使用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_CHINA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "china",
+        "internal migrants",
+        "mobile phones",
+        "transnational feminism",
+        "social media",
+        "rural china",
+        "technomobility",
+        "critical technology studies"
+      ]
+    },
+    {
+      "name": "Brian Weeks",
+      "summary": "Studies how emotion and partisan media shape political misperceptions, news use and digital media behavior, as well as online sports betting.",
+      "summary_zh": "研究情绪与党派媒体如何影响政治误知、新闻使用与数字媒介行为，以及网络体育博彩。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "political misperceptions",
+        "partisan media",
+        "emotion",
+        "anger",
+        "sports betting",
+        "digital media",
+        "news use"
+      ]
+    },
+    {
+      "name": "Apryl Williams",
+      "summary": "Studies race and gender in digital spaces and algorithmic technocultures, including sexual racism in online dating, reparative technology and human-AI intimacy.",
+      "summary_zh": "研究数字空间与算法技术文化中的种族与性别，包括网络约会中的性种族主义、修复性技术与人机亲密关系。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "online dating",
+        "sexual racism",
+        "algorithmic bias",
+        "race and technology",
+        "reparative technology",
+        "ai intimacy",
+        "digital culture"
+      ]
+    }
+  ]
 }

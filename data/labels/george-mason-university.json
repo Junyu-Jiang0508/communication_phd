@@ -1,0 +1,1102 @@
+{
+ "slug": "george-mason-university",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "Iccha Basnyat",
+   "summary": "Studies the intersections of culture, gender, and health in South and Southeast Asia, along with health information seeking, exchange, and sense-making.",
+   "summary_zh": "研究南亚与东南亚地区文化、性别与健康的交叉问题，并关注健康信息的寻求、交流与意义建构。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_SOUTH_SE_ASIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "global health communication",
+    "culture and health",
+    "gender and health",
+    "south asia",
+    "southeast asia",
+    "health information seeking",
+    "sense-making"
+   ]
+  },
+  {
+   "name": "Carl Botan",
+   "summary": "Studies strategic communication as used in public relations and in strategic and emergency communication, including public relations theory.",
+   "summary_zh": "研究公共关系以及战略与应急传播中的战略传播，包括公共关系理论。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "strategic communication",
+    "public relations",
+    "public relations theory",
+    "emergency communication",
+    "crisis communication"
+   ]
+  },
+  {
+   "name": "Melissa A. Broeckelman-Post",
+   "summary": "Studies instructional communication and public speaking pedagogy in the basic communication course, along with interpersonal communication and communication theory.",
+   "summary_zh": "研究教学传播与基础传播课程中的公共演讲教学，同时关注人际传播与传播理论。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_RHETORIC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "instructional communication",
+    "public speaking",
+    "basic communication course",
+    "communication center",
+    "interpersonal communication",
+    "communication theory",
+    "research methods",
+    "general education"
+   ]
+  },
+  {
+   "name": "Xiaomei Cai",
+   "summary": "Studies children and media, especially children's online privacy and parents' sharenting, along with media effects and adolescent health prevention.",
+   "summary_zh": "研究儿童与媒介，尤其是儿童网络隐私与父母“晒娃”行为，并关注媒介效果与青少年健康预防。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "children and media",
+    "online privacy",
+    "children's privacy",
+    "sharenting",
+    "psychological ownership",
+    "media effects",
+    "adolescent health prevention",
+    "message fatigue"
+   ]
+  },
+  {
+   "name": "Chris Clarke",
+   "summary": "Studies health and environmental risk perception and message design on fracking, vaccine safety, and climate change, partly drawing on national survey data.",
+   "summary_zh": "研究水力压裂、疫苗安全与气候变化等议题中的健康与环境风险认知及信息设计，部分研究使用全国性调查数据。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "risk perception",
+    "environmental risk communication",
+    "fracking",
+    "hydraulic fracturing",
+    "vaccine safety",
+    "climate change",
+    "scientific consensus",
+    "psychological distance",
+    "social norms",
+    "message design"
+   ]
+  },
+  {
+   "name": "Richard T Craig",
+   "summary": "Studies the political economy of media, including ownership, telecommunication policy, and media representation of marginalized groups in popular culture.",
+   "summary_zh": "研究媒介政治经济学，包括媒介所有权、电信政策，以及流行文化中对边缘群体的媒介再现。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "media ownership",
+    "media policy",
+    "telecommunication policy",
+    "media political economy",
+    "media representation",
+    "marginalized groups",
+    "race",
+    "popular culture",
+    "climate change reporting"
+   ]
+  },
+  {
+   "name": "Pratiti Diddi",
+   "summary": "Studies how social media shapes public relations and strategic communication in health and crisis-risk contexts, with attention to message design.",
+   "summary_zh": "研究社交媒体如何影响健康与危机风险情境中的公共关系和战略传播，并关注信息设计。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "public relations",
+    "strategic communication",
+    "crisis communication",
+    "risk communication",
+    "health communication",
+    "social media",
+    "message design"
+   ]
+  },
+  {
+   "name": "Tim Gibson",
+   "summary": "Studies critical media studies and the political economy of communication, focusing on urban communication, gentrification, and homelessness.",
+   "summary_zh": "从批判媒介研究与传播政治经济学视角研究城市传播、绅士化与无家可归问题。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "critical media studies",
+    "political economy of communication",
+    "urban communication",
+    "gentrification",
+    "homelessness",
+    "urban poverty",
+    "urban revitalization"
+   ]
+  },
+  {
+   "name": "Lisa Gring-Pemble",
+   "summary": "Studies argumentation, persuasion, and political communication about public policy through rhetorical criticism, alongside social innovation and entrepreneurship.",
+   "summary_zh": "运用修辞批评研究论辩、说服以及围绕公共政策的政治传播，同时关注社会创新与创业。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "rhetorical criticism",
+    "argumentation",
+    "persuasion",
+    "political communication",
+    "public policy",
+    "welfare policy",
+    "social innovation",
+    "social entrepreneurship"
+   ]
+  },
+  {
+   "name": "Madeleine Holland",
+   "summary": "Studies the scholarship of teaching and learning in introductory communication courses and the experiences of stigmatized populations, especially around gender identity.",
+   "summary_zh": "研究入门传播课程中的教学与学习学术，以及污名化群体的经历，尤其关注性别认同。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "scholarship of teaching and learning",
+    "basic communication course",
+    "universal design for learning",
+    "accessibility",
+    "stigmatized populations",
+    "gender identity",
+    "disabled college students"
+   ]
+  },
+  {
+   "name": "Sojung Claire Kim",
+   "summary": "Studies health and risk message design and misinformation correction on issues like cancer, vaccination, and climate change, using eye tracking.",
+   "summary_zh": "运用眼动追踪研究癌症、疫苗接种和气候变化等议题中的健康与风险信息设计及虚假信息纠正。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_PHYSIO_NEURO",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_PHYSIO_LOG",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "eye tracking",
+    "misinformation correction",
+    "health message design",
+    "risk communication",
+    "social emotions",
+    "social media influence",
+    "cancer communication",
+    "vaccination",
+    "addiction",
+    "climate change"
+   ]
+  },
+  {
+   "name": "Edward Wile Maibach",
+   "summary": "Studies climate change and public health communication and social marketing, including the Climate Change in the American Mind polling project and climate reporting by TV weathercasters.",
+   "summary_zh": "研究气候变化与公共卫生传播及社会营销，包括“美国人心中的气候变化”民意调查项目和电视气象播报员的气候报道。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "climate change communication",
+    "public health communication",
+    "social marketing",
+    "climate change in the american mind",
+    "polling",
+    "tv weathercasters",
+    "climate and health",
+    "climate matters"
+   ]
+  },
+  {
+   "name": "Star A. Muir",
+   "summary": "Studies rhetoric and technology, including attention and distractibility among digital natives in teaching and learning, and earlier environmental communication.",
+   "summary_zh": "研究修辞与技术，包括“数字原住民”在教与学中的注意力与分心问题，早期亦研究环境传播。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "rhetoric and technology",
+    "digital natives",
+    "attention",
+    "distractibility",
+    "public communication",
+    "environmental communication",
+    "general semantics"
+   ]
+  },
+  {
+   "name": "Anne M. Nicotera",
+   "summary": "Studies organizational communication from a constitutive perspective, developing structurational divergence theory and a measure of intractable conflict, especially in nursing and healthcare.",
+   "summary_zh": "从构成性视角研究组织传播，提出结构化分歧理论及其测量工具以解释难以化解的冲突，尤其关注护理与医疗组织。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_SURVEY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "organizational communication",
+    "structurational divergence",
+    "communicative constitution of organizations",
+    "intractable conflict",
+    "nursing communication",
+    "aggressive communication",
+    "postcolonialism",
+    "anti-racism",
+    "leadership communication",
+    "diversity"
+   ]
+  },
+  {
+   "name": "Sergei A. Samoilenko",
+   "summary": "Studies subversive strategic communication, character assassination, and reputation management, along with climate misinformation, crisis communication, and political campaigns.",
+   "summary_zh": "研究颠覆性战略传播、人格暗杀与声誉管理，并关注气候虚假信息、危机传播和政治竞选。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "subversive strategic communication",
+    "character assassination",
+    "reputation management",
+    "climate misinformation",
+    "crisis communication",
+    "public relations",
+    "political campaigns",
+    "cancel culture"
+   ]
+  },
+  {
+   "name": "Kimberly Meltzer Weisman",
+   "summary": "Studies how journalists adapt to change, including opinion and commentary in news, civility, and journalists as a community of practice.",
+   "summary_zh": "研究新闻工作者如何适应变化，包括新闻中的观点与评论、文明话语以及作为实践共同体的新闻从业者。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "journalism studies",
+    "journalistic adaptation",
+    "opinion and commentary",
+    "civility",
+    "alt-right",
+    "community of practice",
+    "tv news anchors",
+    "journalistic discourse"
+   ]
+  },
+  {
+   "name": "Kevin B Wright",
+   "summary": "Studies social support and health outcomes, provider-patient interaction, family health, and social media in interpersonal relationships and health.",
+   "summary_zh": "研究社会支持与健康结果、医患互动、家庭健康，以及社交媒体在人际关系与健康中的作用。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "social support",
+    "health outcomes",
+    "provider-patient interaction",
+    "social media and health",
+    "computer-mediated communication",
+    "life span communication",
+    "family health",
+    "online research methods"
+   ]
+  },
+  {
+   "name": "Xiaoquan Zhao",
+   "summary": "Studies health message design and effects, campaign evaluation, and health information seeking on tobacco control, substance use, cancer risk, and climate change.",
+   "summary_zh": "研究烟草控制、物质使用、癌症风险与气候变化等议题中的健康信息设计与效果、传播运动评估及健康信息寻求。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "health message design",
+    "persuasion",
+    "campaign evaluation",
+    "tobacco control",
+    "substance use prevention",
+    "cancer risk",
+    "health information seeking",
+    "medication adherence",
+    "climate change"
+   ]
+  }
+ ]
+}

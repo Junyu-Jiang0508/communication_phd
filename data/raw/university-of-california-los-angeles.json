@@ -1,0 +1,553 @@
+{
+  "university": "University of California, Los Angeles",
+  "slug": "university-of-california-los-angeles",
+  "scraped_at": "2026-10-21",
+  "departments": [
+    {
+      "name": "Department of Communication",
+      "school": "College of Letters and Science, Division of Social Sciences",
+      "directory_url": "https://comm.ucla.edu/people/faculty/professors/",
+      "phd_program_url": "https://comm.ucla.edu/graduate/program/",
+      "phd_program_name": "Ph.D. in Communication",
+      "notes": "Professors page lists 16 ladder faculty; 2 '(by courtesy)' appointments (Jaimie Krems, Lynn Vavreck) excluded. Lecturers/adjuncts and emeriti live on separate pages and were not included."
+    },
+    {
+      "name": "Department of Film, Television and Digital Media (Cinema and Media Studies program)",
+      "school": "School of Theater, Film and Television",
+      "directory_url": "https://www.tft.ucla.edu/directory/faculty/",
+      "phd_program_url": "https://www.tft.ucla.edu/programs/cinema-media-studies-phd/",
+      "phd_program_name": "Cinema and Media Studies Ph.D.",
+      "notes": "School-wide directory filtered with ?directory_department=film-television-digital-media&directory_group=senate&directory_area=cms (10 senate faculty in the Cinema and Media Studies area). Joint faculty whose home is another UCLA department (Berry, Huhtamo, Mankekar, Kaganovsky, Rushing), lecturers, adjuncts, visiting scholars and PhD students in the CMS area were excluded."
+    }
+  ],
+  "faculty": [
+    {
+      "name": "Greg Bryant",
+      "title": "Professor and Chair",
+      "rank": "Professor",
+      "department": "Department of Communication",
+      "profile_url": "https://comm.ucla.edu/person/greg-bryant-2/",
+      "personal_url": "http://gabryant.bol.ucla.edu/",
+      "photo_url": "https://comm.ucla.edu/wp-content/uploads/2020/05/Greg-Bryant.png",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Vocal communication",
+        "music",
+        "bioacoustics",
+        "cognitive science",
+        "evolution and human behavior"
+      ],
+      "bio": "I am a cognitive scientist who studies communication and cognition from an evolutionary perspective. My graduate training is in experimental psycholinguistics at UC Santa Cruz, and I completed a postdoctoral fellowship in the UCLA Center for Culture, Brain, and Development. My research incorporates concepts and methods from cognitive psychology, speech science, anthropology, and behavioral biology. In my lab we do acoustic analyses of vocalizations, perception and psychophysiology experiments, and design cross-cultural field studies.\nResearch: Vocal communication; music; bioacoustics; cognitive science; evolution and human behavior\nSelected publications: Bryant, G. A., & Smaldino, P. E. (2025). The cultural evolution of distortion in music (and other norms of mixed appeal). Philosophical Transactions of the Royal Society B, 380 , 20240014. | Bryant, G. A., & Dale, R. (2024). Language, communication, and social cognition. In D. Carlston, K. Johnson, & K. Hugenberg (Eds.). The Oxford handbook of social cognition (pp. 884-900). Oxford University Press. | Anikin, A., Valente, D., Pisanski, K., Cornec, C., Bryant, G. A., & Reby, D. (2024). The role of loudness in vocal intimidation. Journal of Experimental Psychology: General, 153 (2), 511-530. | Bryant, G. A., & Bainbridge, C. M. (2022). Laughter and culture. Philosophical Transactions of the Royal Society B , 377, 20210179.",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Rick Dale",
+      "title": "Professor and Mark Allen Itkin Centennial Chair in Communication",
+      "rank": "Professor",
+      "department": "Department of Communication",
+      "profile_url": "https://comm.ucla.edu/person/rick-dale-2/",
+      "personal_url": "https://co-mind.org/rick/",
+      "photo_url": "https://comm.ucla.edu/wp-content/uploads/2020/06/rickface2023-856x1030.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Dynamical systems of interpersonal communication",
+        "computational modeling",
+        "naturalistic behavior",
+        "cognitive science"
+      ],
+      "bio": "I am a cognitive scientist, and study the orchestral properties of communication – from the blink of an eye to the rhythm of a voice. Ever wonder how our eye movements sync during a conversation or how body language can spotlight a disagreement? I use diverse research methods, including computational modeling, analysis of naturalistic behavior, and human experimentation. I have used these techniques to investigate a wide range of language-related phenomena with students and collaborators: conversation, thinking in language, sentence processing, word categorization, conflict, deception and more. Please see my personal and laboratory websites for more information and core readings. I am from Toronto’s eastern suburbs, and have a BA in Linguistics from the University of Toronto (UTSC) and a Ph.D in Psychology from Cornell University.\nResearch: Dynamical systems of interpersonal communication; computational modeling; naturalistic behavior; cognitive science",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Rachit Dubey",
+      "title": "Assistant Professor",
+      "rank": "Assistant Professor",
+      "department": "Department of Communication",
+      "profile_url": "https://comm.ucla.edu/person/rachit-dubey/",
+      "personal_url": "https://rachit-dubey.github.io/",
+      "photo_url": "https://comm.ucla.edu/wp-content/uploads/2024/10/rachitdubey.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Computational modeling",
+        "cognitive science",
+        "climate change",
+        "public policy"
+      ],
+      "bio": "Research: In the Computational Cognitive Policy Lab , we study human cognition through a computational lens to tackle the pressing issue of climate change. Combining experimental psychology, machine learning, and computational modeling, we explore fundamental questions about human motivation and the psychological roots of climate inaction. We are committed to using these insights to inform and improve climate policy by working directly with policy-makers and reducing the divide on climate issues.",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": "Research areas taken from the directory listing; the profile's Research section is a lab paragraph."
+    },
+    {
+      "name": "Tao Gao",
+      "title": "Associate Professor",
+      "rank": "Associate Professor",
+      "department": "Department of Communication",
+      "profile_url": "https://comm.ucla.edu/person/tao-gao/",
+      "personal_url": "https://taogao.comm.ucla.edu/",
+      "photo_url": "https://comm.ucla.edu/wp-content/uploads/2020/05/tao-gao.png",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Human social perception and cognition",
+        "development of artificial intelligence",
+        "intention recognition",
+        "statistical modeling in cognitive science"
+      ],
+      "bio": "I explore human social perception and cognition, with a special focus on aspects of the human mind that can inspire the development of artificial intelligence that is communicative and trustworthy. I am jointly appointed to the Department of Communication and the Department of Statistics. I obtained my Ph.D. in cognitive psychology from Yale, and then worked as a post-doctoral fellow in the Center of Brain, Mind and Machine at MIT. Prior to joining UCLA, I was a research scientist in the Computer Vision and Machine Learning labs at GE Global Research.\nThe major theme of my research is to reverse engineer human intuitive social commonsense. By merely seeing static images or a short video, humans can spontaneously perceive a rich set of social concepts, including animacy, intentions, beliefs, desires, emotions, personality and even morality. The goals of my research are to (a) reveal the nature of human social commonsense through cognitive modeling and psychophysical experiments; (b) implement human-like social commonsense in artificial intelligence and robots, so that they can seamlessly communicate to and collaborate with humans in safe and trustworthy ways. My research is highly inter-disciplinary, drawing tools from cognitive science, artificial intelligence, robotics, and computer vision.\nSelected publications: Gao, T., Baker, C. L., Tang, N., Xu, H., & Tenenbaum, J. B. (2019). The cognitive architecture of perceived animacy: Intention, attention, and memory.",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Tim Groeling",
+      "title": "Professor",
+      "rank": "Professor",
+      "department": "Department of Communication",
+      "profile_url": "https://comm.ucla.edu/person/tim-groeling-2/",
+      "personal_url": "https://groeling.scholar.ss.ucla.edu/",
+      "photo_url": "https://comm.ucla.edu/wp-content/uploads/2020/05/tim-groeling.png",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Media bias",
+        "presidential communication",
+        "party cohesion and the media",
+        "political communication"
+      ],
+      "bio": "My research agenda is most clearly represented by my award-winning book “When Politicians Attack: Party Cohesion in the Media” (2010, Cambridge University Press). In this book, I examine how common journalistic norms affect the ability of political parties to present a cohesive, positive party “brand name” to the public, and how the resulting party messages affect public opinion. I further argue that a party’s ability to coordinate its communication has important implications for the study of political communication. In particular, for the presidential party, failure to coordinate their communication can significantly damage their leader’s standing in public opinion and actually undermine the attractiveness and stability of unified control of government. These failures stem primarily from two sources: the constitutional separation of powers, and commonly-held norms of newsworthiness among the journalists who cover the parties. The difficulties for parties are particularly acute for the governing party in unified government: in such a setting, internal disputes over the leadership of the party are more likely to arise and be featured by journalists, and the resulting stories of intra-party strife are among the most credible and damaging types of partisan stories.",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Martie Haselton",
+      "title": "Professor",
+      "rank": "Professor",
+      "department": "Department of Communication",
+      "profile_url": "https://comm.ucla.edu/person/martie-haselton/",
+      "personal_url": "http://www.sscnet.ucla.edu/comm/haselton/",
+      "photo_url": "https://comm.ucla.edu/wp-content/uploads/2020/05/Martie-Haselton.png",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Intimate relationships",
+        "psychology of mating",
+        "social endocrinology",
+        "bias in social inference",
+        "sex differences",
+        "evolution and human behavior"
+      ],
+      "bio": "I am an interdisciplinary evolutionary scientist who studies how evolution has shaped the social mind.\nIn women, fertility is fleeting, spanning just a few days each month. Because these are the only days during which sex could have led to conception, my colleagues and I have hypothesized that the mechanisms guiding women’s sexual decision making have evolved to take conception probability into account. Recent research in my lab has been intensely focused on testing this general idea. (For examples of this work, see Haselton & Gangestad, ￼2006 ; Lieberman, Pillsworth, & Haselton, 2011 ; and Pillsworth & Haselton, 2006 .)\nIn related work, we have collected photographs, vocal recordings, and body odor samples from women in order to examine whether there are cues of ovulation that others could detect and respond to. For example, a straightforward evolutionary prediction is that men should evolve to detect any available cues of ovulation in women and find these high-­‐fertility cues sexually attractive. We have found that, relative to low-fertility days of the cycle, on high-fertility days of the cycle, women wear more attractive and revealing clothing ( Durante, Li, and Haselton, 2008 ; Haselton et al., 2007 ), their vocal pitch goes up ( Bryant & Haselton, 2009 ), and their body odors are rated as more attractive by men (Gildersleeve et al., ￼2011). We summarize this work in a review paper entitled, Can Men Detect Ovulation? ( Haselton & Gildersleeve, 2011 ).",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Homa Hosseinmardi",
+      "title": "Assistant Professor",
+      "rank": "Assistant Professor",
+      "department": "Department of Communication",
+      "profile_url": "https://comm.ucla.edu/person/homa-hosseinmardi/",
+      "personal_url": "https://homahm.github.io/",
+      "photo_url": "https://comm.ucla.edu/wp-content/uploads/2024/06/Homa-Hosseinmardi.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Computational social science",
+        "statistical inference",
+        "technology and society"
+      ],
+      "bio": "I am a computational social scientist with a background in computer science. My work is inherently interdisciplinary, and I collaborate closely with sociologists, economists, political scientists, and psychologists.\nResearch: Computational social science; statistical inference; technology and society\nSelected publications: Hosseinmardi, H., Ghasemian, A., Rivera-Lanas, M., Horta Ribeiro, M., West, R., & Watts, D. J. (2024). Causally estimating the effect of YouTube’s recommender system using counterfactual bots. Proceedings of the National Academy of Sciences, 121 (8), e2313377121. | Hosseinmardi, H., Ghasemian, A., Lerman, K., Narayanan, S., & Ferrara, E. (2023, June). Tensor embedding: A supervised framework for human behavioral data mining and prediction. In 2023 IEEE 11th International Conference on Healthcare Informatics (ICHI) (pp. 91-100). IEEE. | Hosseinmardi, H., Ghasemian, A., Clauset, A., Mobius, M., Rothschild, D. M., & Watts, D. J. (2021). Examining the consumption of radical content on YouTube. Proceedings of the National Academy of Sciences, 118 (32), e2101967118.",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Kerri Johnson",
+      "title": "Professor and Associate Vice Chancellor for Faculty Development",
+      "rank": "Professor",
+      "department": "Department of Communication",
+      "profile_url": "https://comm.ucla.edu/person/kerri-johnson/",
+      "personal_url": "http://www.sscnet.ucla.edu/comm/kjohnson/Lab/Home.html",
+      "photo_url": "https://comm.ucla.edu/wp-content/uploads/2020/05/Kerri-Johnson.png",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Nonverbal visual communication",
+        "body motion analysis",
+        "social categorization",
+        "social vision"
+      ],
+      "bio": "My research incorporates diverse methods that are at the cutting-edge of communication science.  This enables me to pinpoint with unprecedented precision the visual cues that send messages to others and how these cues are utilized by perceivers.  In addition to traditional tools such as surveys and experiments, I have used the following methods to shed light on interpersonal communication processes:\ncorneal reflection eye-tracking (to record what part of the face/body is being observed)\n3D motion analysis (to record/analyze precise patterns of body motion)\npsychophysics (to record how visual cues alter perceptions)\nbehavioral measurements (to determine how nonverbal behaviors change in different situations)\npsychophysiology (to record affective and arousal responses during events of social perception)\nTaken together, these tools allow for a more comprehensive understanding of nonverbal communication.\nResearch: Nonverbal visual communication; body motion analysis; social categorization; social vision\nSelected publications: Neuenswander, K. L., Gillespie, G. S., Lick, D. J., Bryant, G. A., & Johnson, K. L. (2024). Social evaluative implications of sensory adaptation to human voices. Royal Society Open Science, 11, 231348. | Alt, N. P., Parkinson, C., Kleinbaum, A. M., & Johnson, K. L. (2022). The face of social networks: Naive observers’ accurate assessment of others’ social network positions from faces. Social Psychological and Personality Science, 13(1), 118-126.",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Georgia Kernell",
+      "title": "Associate Professor",
+      "rank": "Associate Professor",
+      "department": "Department of Communication",
+      "profile_url": "https://comm.ucla.edu/person/georgia-kernell/",
+      "personal_url": "http://www.georgiakernell.org/",
+      "photo_url": "https://comm.ucla.edu/wp-content/uploads/2020/06/georgia-head-shot-2021-1030x923.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Party strategy",
+        "voter behavior",
+        "electoral competition",
+        "political communication",
+        "U.S. and comparative politics",
+        "formal theory",
+        "quantitative methods"
+      ],
+      "bio": "My research interests include political communication, parties, behavior, European politics, comparative democratic institutions, and research methodology.  I am currently writing a book about how parties’ organizations affect candidate strategies, representation, and electoral success.  I am also working on several projects that examine the institutions that regulate party diversity, the normative implications of party organizations for representation, and how political information shapes consumer sentiment.  The methods I employ include formal theory, experiments, statistics, and interviews. I received my Ph.D. from Columbia University in 2008, and spent the 2008-2009 academic year as a Postdoc in the Penn Program on Democracy, Citizenship, and Constitutionalism. I currently run the “UCLA Political Party Organizations Lab,” in which undergraduate researchers and I collect and code constitutions and rules from political parties around the world.  At UCLA, I teach courses on political communication, media and politics, and research methodology.\nResearch: Party strategy; voter behavior; electoral competition; political communication; U.S. and comparative politics; formal theory; quantitative methods",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Elisa Kreiss",
+      "title": "Assistant Professor",
+      "rank": "Assistant Professor",
+      "department": "Department of Communication",
+      "profile_url": "https://comm.ucla.edu/person/elisa-kreiss/",
+      "personal_url": "https://elisakreiss.com",
+      "photo_url": "https://comm.ucla.edu/wp-content/uploads/2023/08/ElisaSept2022.png",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Natural language processing",
+        "psycholinguistics",
+        "human-computer interaction"
+      ],
+      "bio": "My work combines tools from natural language processing, psycholinguistics, and human-computer interaction to advance our understanding of how communicative context shapes language use. My research has direct applications to image accessibility – the challenge of (automatically) generating image descriptions for blind and low vision users.\nResearch: Natural language processing, psycholinguistics, and human-computer interaction",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": null
+    },
+    {
+      "name": "PJ Lamberson",
+      "title": "Associate Professor and Vice Chair",
+      "rank": "Associate Professor",
+      "department": "Department of Communication",
+      "profile_url": "https://comm.ucla.edu/person/pj-lamberson/",
+      "personal_url": "http://social-dynamics.org/",
+      "photo_url": "https://comm.ucla.edu/wp-content/uploads/2020/05/PJ-Lamberson.png",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Mathematical and computational modeling",
+        "social networks",
+        "social influence",
+        "collective intelligence",
+        "computational communication"
+      ],
+      "bio": "My research uses mathematical and computational modeling to better understand complex social systems. I am especially interested in how ideas, technologies, and behaviors spread, and how the “wisdom of crowds” can be used to aggregate information. Before coming to UCLA I was a professor at MIT, and a Senior Lecturer at the Kellogg School of Management, where I was also the Associate Director of the Northwestern Institute on Complex Systems.I have degrees in mathematics from The University of Chicago and Columbia University, and have published research in Mathematics, Ecology, Epidemiology, Transportation, Genetics, Political Science, Network Science, Economics, and Management. I am a globally recognized expert on networks and collective intelligence and frequently speak and consult on these topics for companies and organizations around the world.\nResearch: Mathematical and computational modeling; social networks; social influence; collective intelligence; computational communication",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Stuart Soroka",
+      "title": "Professor",
+      "rank": "Professor",
+      "department": "Department of Communication",
+      "profile_url": "https://comm.ucla.edu/person/stuart-soroka/",
+      "personal_url": "http://www.snsoroka.com/",
+      "photo_url": "https://comm.ucla.edu/wp-content/uploads/2021/07/soroka-headshot-ucla-773x1030.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "political communication",
+        "political behavior",
+        "political psychology",
+        "media effects",
+        "public opinion",
+        "public policy"
+      ],
+      "bio": "In my research, I have been especially interested in negativity (and positivity) in news coverage; in the ways in which media succeed (or fail) to inform the public about policy issues; and in the impact of both legacy and new media on attitudes towards a broad range of policies such as immigration, defense, welfare and health care. My research depends on a variety of quantitative techniques, including survey research, automated content analysis and psychophysiological experimentation.\nResearch: political communication; political behavior; political psychology; media effects; public opinion; public policy",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Steve Stroessner",
+      "title": "Professor",
+      "rank": "Professor",
+      "department": "Department of Communication",
+      "profile_url": "https://comm.ucla.edu/person/steve-stroessner/",
+      "personal_url": null,
+      "photo_url": "https://comm.ucla.edu/wp-content/uploads/2020/05/Steve-Stroessner.png",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Stereotyping and prejudice",
+        "human and machine interaction",
+        "social cognition"
+      ],
+      "bio": "I am a social cognitive scientist who studies how social categories are used to think about both humans and non-humans, including basic shapes, voices, and robots.\nResearch: Stereotyping and prejudice; human and machine interaction; social cognition",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": "Profile page has only a one-sentence biography and a research line; no longer bio exists on the site."
+    },
+    {
+      "name": "Anne Warlaumont",
+      "title": "Professor",
+      "rank": "Professor",
+      "department": "Department of Communication",
+      "profile_url": "https://comm.ucla.edu/person/anne-warlaumont/",
+      "personal_url": "https://www.annewarlaumont.org/",
+      "photo_url": "https://comm.ucla.edu/wp-content/uploads/2020/05/Anne-Warlaumont.png",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Early vocal development",
+        "evolution of human vocal signals",
+        "word learning",
+        "computational communication"
+      ],
+      "bio": "My research asks two main questions: (1) How do speech vocalizations and other communicative signals emerge in typical and atypical early human development? and (2) How did human vocal signals evolve? Methodologically, I emphasize computational modeling and the use of naturalistic audio recordings of infants.\nResearch: Early vocal development; evolution of human vocal signals; word learning; computational communication",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Steve F. Anderson",
+      "title": "Professor",
+      "rank": "Professor",
+      "department": "Department of Film, Television and Digital Media (Cinema and Media Studies program)",
+      "profile_url": "https://www.tft.ucla.edu/directory/people/steve-anderson/",
+      "personal_url": null,
+      "photo_url": "https://www.tft.ucla.edu/app/uploads/2024/09/Anderson-Steve-aspect-ratio-764-632.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Digital media",
+        "Documentary",
+        "Media history",
+        "Technology and culture",
+        "Data visualization and surveillance",
+        "Experimental history in visual media"
+      ],
+      "bio": "Steve F. Anderson is a scholar-practitioner working at the intersection of media, history, technology and culture. He teaches the production and theory of digital media and documentary in the School of Theater, Film and Television and holds a joint appointment in the department of Design Media Arts.\nHis book Technologies of Vision: The War Between Data and Images surveys the emergence of computational and photographic image making from the 1830s to the present, focusing on cultural implications related to space, data visualization and surveillance. His previous book, Technologies of History: Visual Media and the Eccentricity of the Past , investigated the emergence of experimental history in visual media including film, television and digital games. With Christie Milliken, he is co-editor of Reclaiming Popular Documentary , which won the award for Best Edited Collection from the Popular Culture Association.",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": "Directory subtitle: Associate Dean, Academic Affairs, School of the Arts and Architecture Profile says he also holds a joint appointment in Design Media Arts; listed as FTVDM senate faculty in the CMS area."
+    },
+    {
+      "name": "Shelleen Greene",
+      "title": "Associate Professor",
+      "rank": "Associate Professor",
+      "department": "Department of Film, Television and Digital Media (Cinema and Media Studies program)",
+      "profile_url": "https://www.tft.ucla.edu/directory/people/shelleen-greene/",
+      "personal_url": null,
+      "photo_url": "https://www.tft.ucla.edu/app/uploads/2023/09/ShelleenGreene-aspect-ratio-764-632-1.jpeg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Italian film",
+        "Black European studies",
+        "Digital feminist studies",
+        "Race and national identity in cinema"
+      ],
+      "bio": "Shelleen Greene is an associate professor of Cinema and Media Studies in the Department of Film, Television and Digital Media at the UCLA School of Theater, Film and Television.\nHer research interests include Italian film, Black European studies, and digital feminist studies. Her book, Equivocal Subjects: Between Italy and Africa – Constructions of Racial and National Identity in the Italian Cinema (Continuum/Bloomsbury 2012) examines the representation of mixed-race subjects of Italian and African descent, arguing that the changing cultural representations of mixed-race identity reveal shifts in the country’s conceptual paradigms of race and nation. She has published in the Journal of Italian Cinema and Media Studies , Italian Culture , California Italian Studies , estetica , studi e ricerche , Feminist Media Studies and ADA: A Journal of Gender, New Media and Technology .\nGreene has presented at the Los Angeles Museum of Art (LACMA), the British School at Rome, University of Bologna, Italy; the Calandra Italian American Institute, CUNY; the Society for Cinema and Media Studies annual conference; and the Neal-Marshall Black Culture Center at Indiana University.",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": "Directory subtitle: Vice Chair, Cinema and Media Studies"
+    },
+    {
+      "name": "Denise R. Mann",
+      "title": "Professor",
+      "rank": "Professor",
+      "department": "Department of Film, Television and Digital Media (Cinema and Media Studies program)",
+      "profile_url": "https://www.tft.ucla.edu/directory/people/denise-r-mann/",
+      "personal_url": null,
+      "photo_url": "https://www.tft.ucla.edu/app/uploads/2023/09/Mann-Denise_2022-aspect-ratio-764-632.png",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Contemporary entertainment industry practices",
+        "Film and television history and theory",
+        "Production studies",
+        "Media industries",
+        "Feminist film theory"
+      ],
+      "bio": "Professor Denise Mann teaches graduate and undergraduate courses on contemporary entertainment industry practices as well as critical studies seminars on film and television history and theory. She was the head of the UCLA School of Theater, Film and Television’s Producers Program from 1996-2019.\nShe is the editor of Wired TV: Laboring Over an Interactive Future (Rutgers University Press, 2014) and the author of Hollywood Independents: The Postwar Talent Takeover (University of Minnesota Press, 2008). Previously, Mann co-edited Private Screenings: Television and the Female Consumer (University of Minnesota Press, 1992).\nFrom 1986 to 1992, Mann was an associate editor of the feminist and film theory journal Camera Obscura . She has written essays for numerous anthologies, including Production Studies: Cultural Studies of Media Industries (eds., Caldwell, Banks, Mayer; Routledge, 2009); and Different Visions, Revolutionary Perceptions: Race, Gender and Sexuality in the Work of Contemporary Filmmakers (ed., Bernardi; University of Texas, 2009). She has written essays for a number of scholarly journals including Camera Obscura , Quarterly Review of Film and Video , Journal of Popular Film and Television and Flow.",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": "Directory subtitle: FTVDM Department Representative"
+    },
+    {
+      "name": "Sean Metzger",
+      "title": "Professor",
+      "rank": "Professor",
+      "department": "Department of Film, Television and Digital Media (Cinema and Media Studies program)",
+      "profile_url": "https://www.tft.ucla.edu/directory/people/sean-metzger/",
+      "personal_url": null,
+      "photo_url": "https://www.tft.ucla.edu/app/uploads/2023/09/Metzger-Sean-aspect-ratio-764-632.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Visual culture",
+        "Asian American studies",
+        "Caribbean studies",
+        "Chinese studies",
+        "Cinema studies",
+        "Performance studies",
+        "Sexuality studies",
+        "Fashion"
+      ],
+      "bio": "Sean Metzger is a scholar who works at the intersections of several fields: visual culture (art, digital media, fashion, film, theater) as well as Asian American, Caribbean, Chinese, cinema, performance, and sexuality studies. He has published approximately one hundred articles, interviews, and reviews as well as two books. Chinese Looks: Fashion, Performance, Race (Indiana University Press, 2014) demonstrates how aesthetics, gender, politics, economics and race are interwoven through forms of dress from the late nineteenth through the early twenty-first centuries. The Chinese Atlantic: Seascapes and the Theatricality of Globalization (Indiana University Press, 2020) elaborates discourses of globalization through an examination of aesthetic objects and practices situated in cities from Shanghai to Cape Town. It received the John W. Frick Award from the American Theatre and Drama Society and the Humanities and Cultural Studies Book Award for Media, Performance, and Visual Studies from the Association for Asian American Studies.",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": "Directory subtitle: Chair, UCLA Asian American Studies Directory label 'Senate Faculty · Joint Faculty' (FTVDM | Theater); listed among FTVDM senate faculty in the Cinema and Media Studies area, so included."
+    },
+    {
+      "name": "Chon A. Noriega",
+      "title": "Distinguished Professor",
+      "rank": "Professor",
+      "department": "Department of Film, Television and Digital Media (Cinema and Media Studies program)",
+      "profile_url": "https://www.tft.ucla.edu/directory/people/chon-a-noriega/",
+      "personal_url": null,
+      "photo_url": "https://www.tft.ucla.edu/app/uploads/2025/01/Noriega-Chon-Headshot-2025-aspect-ratio-764-632-1200x993.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Chicano/Latino arts and media",
+        "Aesthetic, social and institutional histories of media",
+        "Archiving and curation",
+        "Media access for underrepresented groups"
+      ],
+      "bio": "Chon Noriega has been a faculty member at UCLA TFT since 1992. His work explores Chicano/Latino arts and media through their aesthetic, social and institutional histories. In conjunction with his scholarship, he has actively archived the works and papers of individual filmmakers and artists, art groups, and community-based arts institutions, as well as curated and co-curated research-based exhibitions for which ARTnews identified him as one of six curators “shaping the way art is presented around the globe.” Noriega has also been active in facilitating access for underrepresented groups working in media and the arts. He is co-founder of the National Association of Latino Independent Producers (NALIP, est. 1999) and in 2013 he co-established a national undergraduate mentorship program to diversify the curatorial ranks at six comprehensive art museums located in minority-majority cities. He has presented to the U.S. Commission on Civil Rights, the U.S. Congressional Hispanic Caucus, and the U.S. Congressional Entertainment Caucus.",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": "Directory subtitle: Special Advisor to the Dean on Global Programs and Partnerships"
+    },
+    {
+      "name": "Veronica Paredes",
+      "title": "Assistant Professor",
+      "rank": "Assistant Professor",
+      "department": "Department of Film, Television and Digital Media (Cinema and Media Studies program)",
+      "profile_url": "https://www.tft.ucla.edu/directory/people/veronica-paredes/",
+      "personal_url": null,
+      "photo_url": "https://www.tft.ucla.edu/app/uploads/2023/10/Paredes-Veronica_2022-aspect-ratio-764-632-1-1200x993.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Media histories",
+        "Feminist research and pedagogical practices",
+        "Latinx studies",
+        "Los Angeles historiography",
+        "Vintage movie theaters and screen landmarks"
+      ],
+      "bio": "Veronica Paredes is a media and cultural studies scholar. Her research interests include media histories, feminist research and pedagogical practices, Latinx studies, and Los Angeles historiography, especially related to its vintage movie theaters and designated screen landmarks. She has written about the role of former movie palaces as churches, filmic representations of the 1943 Zoot Suit Riots in Los Angeles, and her experiences with media-based organizing. Individually written work has been published in Catalyst: Feminism, Theory, Technoscience , Feminist Media Histories , and Amodern , and work she has collaboratively written was published in Frontiers: A Journal of Women Studies .",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": null
+    },
+    {
+      "name": "Kriss Ravetto-Biagioli",
+      "title": "Professor",
+      "rank": "Professor",
+      "department": "Department of Film, Television and Digital Media (Cinema and Media Studies program)",
+      "profile_url": "https://www.tft.ucla.edu/directory/people/kriss-ravetto-biagioli/",
+      "personal_url": null,
+      "photo_url": "https://www.tft.ucla.edu/app/uploads/2025/01/Ravetto-Kriss-Headshot-2025-aspect-ratio-764-632-1200x993.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "European and Eastern European film",
+        "Nationalism",
+        "Representations of violence, sexuality and trauma",
+        "Digital technologies",
+        "Social media and surveillance",
+        "Theories of affect",
+        "Technological unconscious"
+      ],
+      "bio": "Kriss Ravetto-Biagioli is a professor of Film, Television and Digital Media at UCLA. She is the author of Unmaking Fascist Aesthetics (Minnesota UP, 2001), Mythopoetic Cinema (Columbia UP, 2017), Digital Uncanny (Oxford UP, 2019), and is currently completing a co-authored book with Martine Beugnet, The Trouble with Ghosts (forthcoming Oxford UP).\nShe has published extensively on European and Eastern European film, questions of nationalism, representations of violence, sexuality, and trauma, digital technologies, social media and surveillance, artists who work with surveillance technologies such as Rafael Lozano-Hemmer, Bill Viola, and Simon Biggs, dispersed techno-human encounters, theories of affect, dance and ownership, and the technological unconscious.\nHer articles have appeared in journals such as, Theory, Culture & Society, Screen, Representations, Third Text, Body & Society, Camera Obscura, Differences, Film-Philosophy, and The International Journal of Cultural Property. She is also the recipient of the Mellon-Sawyer on Surveillance and Democracy (2015-2016), and the Mellon Research Initiative Grant in the Humanities for Digital Culture (2012-2016).",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": "Directory subtitle: Vice Chair, Cinema and Media Studies"
+    },
+    {
+      "name": "Ellen C. Scott",
+      "title": "Associate Professor",
+      "rank": "Associate Professor",
+      "department": "Department of Film, Television and Digital Media (Cinema and Media Studies program)",
+      "profile_url": "https://www.tft.ucla.edu/directory/people/ellen-c-scott/",
+      "personal_url": null,
+      "photo_url": "https://www.tft.ucla.edu/app/uploads/2024/05/Scott-Ellen_2018_-200x232-1-aspect-ratio-764-632.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Media history",
+        "African-American cultural history",
+        "Film and media theory",
+        "American film history",
+        "Sound theory",
+        "History of censorship",
+        "Cultural studies"
+      ],
+      "bio": "Professor Ellen C. Scott, Ph.D., specializes in media history, African-American cultural history, film and media theory, American film history, sound theory, the history of censorship and cultural studies. Her research focuses on the cultural meanings and reverberations of film in African-American communities and, more broadly, the relationship of media to the struggle for racial justice and equality. Her first book, Cinema Civil Rights (Rutgers University Press, 2015) exposes the Classical Hollywood-era studio system’s careful repression of civil rights but also the stuttered appearance of these issues through latent, symptomatic signifiers. After tracing these films from their first conception through restrictions imposed on them by industry and state censors, the study ends by assessing how Black political figures and journalists turned Hollywood’s repressed racial imagery into fodder for their own resistant spectatorship and full-blown civil rights demands.\nShe is currently working on two projects, one examining the history of slavery on the American screen and another on the history of Classical Hollywood-era Black women film critics.",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": "Directory subtitle: Special Advisor to the Dean on the L.A. Rebellion"
+    },
+    {
+      "name": "Jasmine Nadua Trice",
+      "title": "Associate Professor",
+      "rank": "Associate Professor",
+      "department": "Department of Film, Television and Digital Media (Cinema and Media Studies program)",
+      "profile_url": "https://www.tft.ucla.edu/directory/people/jasmine-nadua-trice/",
+      "personal_url": null,
+      "photo_url": "https://www.tft.ucla.edu/app/uploads/2023/09/Trice-Jasmine_2020-aspect-ratio-764-632-1.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Film aesthetics",
+        "Media industries and production cultures",
+        "Film reception and audiences",
+        "Southeast Asian cinema",
+        "Theories of space and place",
+        "Cultural studies"
+      ],
+      "bio": "Drawing insights from diverse critical fields such as film and media studies, theories of space and place, and cultural studies, Jasmine Nadua Trice’s work engages with film aesthetics, industries, production cultures and reception. She has written on Southeast Asian women filmmakers, ethnoburban multiplexes, production subcultures in Los Angeles, visual culture and embodiment in colonial Manila, and the relationship between film practice and theory.\nHer first book, City of Screens: Imagining Audiences in Manila’s Alternative Film Culture (Duke University Press, 2021) examines the politics of cinema circulation in early-2000s Manila, Philippines, a moment of profound technological and industrial transition. Employing theories of public culture, urban studies and Philippine cultural studies, the book traces Manila’s post-millennial cinema landscape by focusing on the primary locations of film exhibition and distribution: the pirated DVD district, mall multiplexes, art-house cinemas, the university film institute and state-sponsored cinematheques. In the wake of digital media piracy and the decline of the local commercial film industry, the rising independent cinema movement had been a site of contestation between filmmakers and the state, each constructing different notions of a prospective, national public film audience. The book includes a digital companion site , which maps a selection of shooting sites and exhibition spaces throughout Manila.",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": "Directory subtitle: Equity Advisor"
+    },
+    {
+      "name": "Amy Villarejo",
+      "title": "Professor",
+      "rank": "Professor",
+      "department": "Department of Film, Television and Digital Media (Cinema and Media Studies program)",
+      "profile_url": "https://www.tft.ucla.edu/directory/people/amy-villarejo/",
+      "personal_url": null,
+      "photo_url": "https://www.tft.ucla.edu/app/uploads/2024/08/06_23351-aspect-ratio-764-632-1200x993.jpg",
+      "google_scholar_url": null,
+      "research_areas": [
+        "Television studies and history",
+        "Queer media",
+        "Feminist media studies",
+        "History of global cinema",
+        "Third cinema",
+        "Critical theory"
+      ],
+      "bio": "Amy Villarejo was previously the Frederic J. Whiton Professor of Humanities in the Department of Performing and Media Arts and the Department of Comparative Literature at Cornell University, where she taught from 1997 to 2020.\nShe has published widely in cinema and media studies, including Lesbian Rule: Cultural Criticism and the Value of Desire (Duke University Press, 2003), which won the Katherine Kovacs award for best book from the Society of Cinema and Media Studies. She is author of Ethereal Queer: Television, Historicity, Desire (Duke University Press, 2013) and Film Studies: The Basics (Routledge, 2013). Recently, she co-edited, with Ron Gregg, The Oxford Handbook to Queer Cinema (Oxford University Press, 2021). Her essays have appeared in a range of peer-reviewed journals including New German Critique , Social Text , GLQ , Film Quarterly and Cinema Journal , now JCMS . She also served on the boards of Film Quarterly and JCMS . She regularly teaches television studies and history, queer media, feminist media studies, the history of global cinema, 3rd cinema and critical theory.\nAt Cornell, Villarejo served as the director of the Women’s Studies Program (now Feminist, Gender & Sexuality Studies), the chair of the Department of Performing and Media Arts, and the inaugural director of the Milstein Program in Technology and Humanity.  At UCLA, she served as chair of the Department of Film, Television, and Digital Media from 2022 to 2025.",
+      "sources": [
+        "department_profile"
+      ],
+      "notes": null
+    }
+  ]
+}

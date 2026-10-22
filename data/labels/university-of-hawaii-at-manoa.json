@@ -1,0 +1,1323 @@
+{
+ "slug": "university-of-hawaii-at-manoa",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "Patricia A.K. Amaral",
+   "summary": "Studies science communication, emergent media and Indigenous storytelling, using creative multimedia to bridge Indigenous knowledge and science for civic engagement.",
+   "summary_zh": "研究科学传播、新兴媒介与原住民叙事，借助创意多媒体沟通原住民知识与科学，以促进公民参与。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "science communication",
+    "emergent media",
+    "indigenous storytelling",
+    "indigenous knowledge",
+    "civic engagement",
+    "multimedia production",
+    "sencer"
+   ]
+  },
+  {
+   "name": "Krystyna Aune",
+   "summary": "Studies how people in close relationships express and manage emotions, adult play and persona sharing, using surveys, diaries, laboratory studies and experiments.",
+   "summary_zh": "研究亲密关系中人们如何表达和管理情绪，以及成人游戏与“人设共享”现象，采用问卷调查、日记法、实验室研究和实验。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "emotions in relationships",
+    "emotion management",
+    "relationship management",
+    "adult play",
+    "persona sharing",
+    "close relationships",
+    "diary studies"
+   ]
+  },
+  {
+   "name": "Wayne Buente",
+   "summary": "Studies how information and communication technologies and social media address social inequality, including digital divide, broadband policy and substance use prevention.",
+   "summary_zh": "从社会技术视角研究信息通信技术与社交媒体如何应对社会不平等，涉及数字鸿沟、宽带政策和物质滥用预防。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "digital divide",
+    "digital inequality",
+    "community informatics",
+    "broadband policy",
+    "substance use prevention",
+    "social media",
+    "sociotechnical",
+    "vaping",
+    "hawaii"
+   ]
+  },
+  {
+   "name": "Jessica Gasiorek",
+   "summary": "Studies how people process and produce messages and accommodate their communication in intergroup settings, including communication about age and aging, grounded in accommodation theory.",
+   "summary_zh": "以传播顺应理论为基础，研究人们在群际情境中如何加工与产出信息、调整彼此的沟通，以及关于年龄与老龄化的传播。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_LANGUAGE_INTERACTION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "communication accommodation theory",
+    "intergroup communication",
+    "social identity",
+    "communication and aging",
+    "message processing",
+    "understanding",
+    "ageism"
+   ]
+  },
+  {
+   "name": "Rich Gazan",
+   "summary": "Studies how people integrate diverse knowledge in interdisciplinary scientific collaborations and social Q&A communities, using sociotechnical document analysis and scientometrics.",
+   "summary_zh": "研究人们如何在跨学科科研合作与社会化问答社区中整合多元知识，采用社会技术文献分析与科学计量学方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "interdisciplinary collaboration",
+    "scientometrics",
+    "social q&a",
+    "online communities",
+    "astrobiology",
+    "document analysis",
+    "information evaluation"
+   ]
+  },
+  {
+   "name": "Julien Gorbach",
+   "summary": "Studies the history of American media and the Middle East, literary journalism, and media portrayals of outlaws and rebels through media history and biography.",
+   "summary_zh": "通过媒介史与传记研究，探讨美国媒体与中东的历史、文学新闻以及媒体对法外之徒和反叛者的报道与呈现。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_MIDDLE_EAST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "media history",
+    "literary journalism",
+    "ben hecht",
+    "zionism",
+    "outlaws and rebels",
+    "environmental reporting",
+    "popular culture",
+    "biography"
+   ]
+  },
+  {
+   "name": "Jingyi Gu",
+   "summary": "Studies gender, sexuality, labor and governance in platformized cultural production such as Chinese live streaming, using ethnography, interviews, walkthroughs and discourse analysis.",
+   "summary_zh": "研究平台化文化生产（如中国直播）中的性别、性、劳动与治理，采用民族志、访谈、平台走查和话语分析等方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_CHINA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "live streaming",
+    "platform economies",
+    "digital cultures",
+    "critical technology studies",
+    "gender and sexuality",
+    "digital labor",
+    "platform walkthrough",
+    "ethnography",
+    "discourse analysis"
+   ]
+  },
+  {
+   "name": "Amy Hubbard",
+   "summary": "Studies communication during problematic relationship events, including conflict, deception, breakups and apologies, and how nonverbal behaviors shape interpersonal judgments.",
+   "summary_zh": "研究亲密关系中问题事件（冲突、欺骗、分手与道歉等）中的沟通，以及触碰、气味、目光接触等非语言行为如何影响人际判断。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_LANGUAGE_INTERACTION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "nonverbal communication",
+    "deception",
+    "conflict",
+    "relational management",
+    "dating relationships",
+    "breakups",
+    "apologies",
+    "interaction adaptation"
+   ]
+  },
+  {
+   "name": "Ava Kikut-Stein",
+   "summary": "Studies how media exposure, social identity and trust shape adolescent health behavior, using quantitative, mixed-methods and community-based participatory action research.",
+   "summary_zh": "研究媒介接触、社会身份与信任如何影响青少年健康行为，结合定量、混合方法与社区参与式行动研究。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_MIXED",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "health communication",
+    "persuasion",
+    "media effects",
+    "participatory action research",
+    "adolescents",
+    "anti-tobacco messaging",
+    "mental health communication",
+    "youth participatory action"
+   ]
+  },
+  {
+   "name": "Ji Young Kim",
+   "summary": "Studies public relations, strategic communication and political campaigns, developing agenda-building and agenda-setting theory in US and international contexts.",
+   "summary_zh": "研究公共关系、战略传播与政治竞选，在美国及国际情境中发展议程建构与议程设置理论。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "public relations",
+    "strategic communication",
+    "agenda building",
+    "agenda setting",
+    "political campaigns",
+    "international public relations",
+    "social media"
+   ]
+  },
+  {
+   "name": "Min-Sun Kim",
+   "summary": "Studies intercultural communication, persuasion and social influence, and human-machine communication, including non-Western perspectives and Korean culture.",
+   "summary_zh": "研究跨文化传播、说服与社会影响以及人机传播，关注非西方传播视角与韩国文化。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_EAST_ASIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "intercultural communication",
+    "human-machine communication",
+    "intelligent machines",
+    "social influence",
+    "non-western perspectives",
+    "korea",
+    "hanryu"
+   ]
+  },
+  {
+   "name": "Youjeong Kim",
+   "summary": "Studies the social and psychological effects of immersive media such as virtual environments and video games, and develops interactive interventions for health and well-being.",
+   "summary_zh": "研究虚拟环境与电子游戏等沉浸式媒介的社会与心理效果，并开发交互式媒介干预项目以促进健康与福祉。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "immersive media",
+    "virtual environments",
+    "video games",
+    "presence",
+    "interactivity",
+    "avatar customization",
+    "online identity",
+    "health interventions"
+   ]
+  },
+  {
+   "name": "Hanae Kramer",
+   "summary": "Studies intercultural communication and Japanese and East Asian history, including the Hawaiian diaspora in the Bonin Islands, wartime propaganda and historic Japanese audio recordings.",
+   "summary_zh": "研究跨文化传播及日本与东亚历史，涉及小笠原群岛的夏威夷离散群体、战时宣传以及日本历史唱片的保存。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_EAST_ASIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "intercultural communication",
+    "hawaiian diaspora",
+    "bonin islands",
+    "japanese history",
+    "east asian cinema",
+    "propaganda",
+    "78 rpm records",
+    "hikiage literature"
+   ]
+  },
+  {
+   "name": "Keahiahi Long",
+   "summary": "Studies Indigenous and Native Hawaiian information practices, co-creating Hawaiian-language controlled vocabularies and knowledge organization systems.",
+   "summary_zh": "研究原住民及夏威夷原住民的信息实践，共同创建夏威夷语受控词表与知识组织体系。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "hawaiian librarianship",
+    "indigenous knowledge systems",
+    "controlled vocabularies",
+    "knowledge organization",
+    "hawaiian language",
+    "information practices",
+    "hula"
+   ]
+  },
+  {
+   "name": "Rachel Neo",
+   "summary": "Studies how online platform features and political content influence attitudes, judgments and behaviors, and how platforms inform risky practices among vulnerable people.",
+   "summary_zh": "研究在线平台功能与政治内容如何影响态度、判断与行为，以及平台如何影响弱势群体的风险行为与社会联结。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "persuasion",
+    "political communication",
+    "social influence",
+    "social media",
+    "platform features",
+    "political judgments",
+    "online platform cues"
+   ]
+  },
+  {
+   "name": "Alexandria Rayburn",
+   "summary": "Studies data practices and gendered data work in library, archive and museum collections from an intersectional feminist lens, using archival research and interviews.",
+   "summary_zh": "从交叉性女性主义视角研究图书馆、档案馆与博物馆藏品中的数据实践与性别化数据劳动，采用档案研究和访谈。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "data curation",
+    "museum computing",
+    "digital collections",
+    "knowledge infrastructures",
+    "intersectional feminism",
+    "archives",
+    "museum data work"
+   ]
+  },
+  {
+   "name": "Emiko Taniguchi-Dorios",
+   "summary": "Studies interpersonal health communication, especially mental illness disclosure and social support, and family and peer communication about body image.",
+   "summary_zh": "研究人际健康传播，尤其是精神疾病的自我披露与社会支持，以及家庭和同伴关于身体意象的沟通。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "health disclosure",
+    "mental illness disclosure",
+    "social support",
+    "supportive communication",
+    "family communication",
+    "body image",
+    "appearance management"
+   ]
+  },
+  {
+   "name": "John Temple",
+   "summary": "Writes narrative nonfiction and investigative journalism on American life, including the opioid epidemic and the patriot movement, and adapts journalism for the screen.",
+   "summary_zh": "创作关于美国社会的叙事性非虚构作品与调查新闻，涉及阿片类药物危机和爱国者运动，并将新闻改编为影视作品。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "investigative reporting",
+    "narrative nonfiction",
+    "news writing",
+    "opioid epidemic",
+    "patriot movement",
+    "screenwriting",
+    "true crime"
+   ]
+  },
+  {
+   "name": "Andrew Wertheimer",
+   "summary": "Studies the history of libraries and archives, ethnic print cultures, Asian American and Pacific Islanders in LIS, and intellectual freedom and censorship.",
+   "summary_zh": "研究图书馆与档案馆史、族裔印刷文化、图书情报领域的亚太裔群体，以及知识自由与审查。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "library history",
+    "print culture",
+    "ethnic print culture",
+    "intellectual freedom",
+    "censorship",
+    "archives",
+    "asian american and pacific islanders",
+    "japanese print culture"
+   ]
+  },
+  {
+   "name": "Jenifer Sunrise Winter",
+   "summary": "Studies governance, policy and ethics of big data, AI and the Internet of Things, including health data for AI, communication rights and social media platform governance.",
+   "summary_zh": "研究大数据、人工智能与物联网的治理、政策与伦理，包括面向AI的健康数据治理、传播权利与社交媒体平台治理。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "data governance",
+    "ai governance",
+    "internet ethics",
+    "internet of things",
+    "health data",
+    "communication rights",
+    "platform governance",
+    "ictd"
+   ]
+  }
+ ]
+}

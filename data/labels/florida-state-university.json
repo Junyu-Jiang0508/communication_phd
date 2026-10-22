@@ -1,0 +1,1258 @@
+{
+  "slug": "florida-state-university",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Rachel Bailey",
+      "summary": "Studies how people process media through embodied and motivated cognition, examining health perceptions, food choice, substance use, and vicarious trauma from mediated violence.",
+      "summary_zh": "从具身与动机认知视角研究人们如何加工媒介信息，考察健康认知、食物选择、物质使用以及媒介暴力造成的替代性创伤。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "media psychology",
+        "motivated cognition",
+        "embodied cognition",
+        "food choice",
+        "substance use",
+        "mediated violence",
+        "vicarious trauma",
+        "health perceptions"
+      ]
+    },
+    {
+      "name": "Ulla Bunz",
+      "summary": "Studies internet and social media use, the digital divide, and how they relate to Big Five personality traits and well-being.",
+      "summary_zh": "研究互联网与社交媒体使用、数字鸿沟，以及它们与大五人格特质和幸福感之间的关系。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "internet use",
+        "digital divide",
+        "social media",
+        "big five personality",
+        "well-being"
+      ]
+    },
+    {
+      "name": "Sindy Chapa",
+      "summary": "Studies how advertising strategies, including political advertising and advergames, affect Latino consumers and Hispanic marketing communication.",
+      "summary_zh": "研究广告策略（包括政治广告与广告游戏）如何影响拉丁裔消费者及西语裔营销传播。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "hispanic marketing",
+        "latino consumers",
+        "political advertising",
+        "advergames",
+        "spanish-language media",
+        "advertising strategies"
+      ]
+    },
+    {
+      "name": "Russell Clayton",
+      "summary": "Evaluates and optimizes persuasive health messages to prevent substance use among young adults, drawing on media psychology and psychophysiological methods.",
+      "summary_zh": "结合媒介心理学与心理生理方法，评估并优化旨在预防年轻人物质使用的说服性健康信息。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "persuasion",
+        "substance use prevention",
+        "tobacco",
+        "nicotine",
+        "alcohol",
+        "psychophysiology",
+        "cancer communication",
+        "young adults",
+        "health message design"
+      ]
+    },
+    {
+      "name": "Juliann Cortese",
+      "summary": "Studies eHealth and health informatics, online message tailoring, hypermedia learning, and the uses and effects of internet media.",
+      "summary_zh": "研究电子健康与健康信息学、在线信息定制、超媒体学习以及互联网媒介的使用与效果。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "ehealth",
+        "health informatics",
+        "online tailoring",
+        "hypermedia learning",
+        "internet use",
+        "media uses and effects"
+      ]
+    },
+    {
+      "name": "Katherine R. Dale",
+      "summary": "Examines how media can positively affect attitudes, behavior, and well-being, including intergroup attitudes, from a positive media psychology perspective.",
+      "summary_zh": "从积极媒介心理学视角考察媒介如何积极影响态度、行为与幸福感，包括群际态度。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "positive media psychology",
+        "media effects",
+        "intergroup interaction",
+        "well-being",
+        "prosocial media effects"
+      ]
+    },
+    {
+      "name": "Arienne Ferchaud",
+      "summary": "Studies how emerging media technologies change engagement with entertainment and storytelling, including binge-watching and games, from a media psychology perspective.",
+      "summary_zh": "从媒介心理学视角研究新兴媒介技术如何改变人们对娱乐内容与叙事的参与，包括刷剧与游戏。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "emerging media entertainment",
+        "narrative theory",
+        "binge watching",
+        "storytelling",
+        "video games",
+        "virtual worlds",
+        "media effects"
+      ]
+    },
+    {
+      "name": "Brian Graves",
+      "summary": "Works on media writing and production, documentary storytelling, and public memory.",
+      "summary_zh": "从事媒介写作与制作、纪录片叙事以及公共记忆研究。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "documentary storytelling",
+        "public memory",
+        "media production",
+        "media writing",
+        "documentary film"
+      ]
+    },
+    {
+      "name": "Davis W. Houck",
+      "summary": "Analyzes presidential rhetoric, the Black freedom movement, and mediated sport through rhetorical criticism and archival historiography.",
+      "summary_zh": "通过修辞批评与档案史学方法分析总统修辞、黑人自由运动以及体育的媒介再现。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "rhetorical criticism",
+        "presidential rhetoric",
+        "black freedom movement",
+        "civil rights movement",
+        "archival research",
+        "historiography",
+        "sport media",
+        "race"
+      ]
+    },
+    {
+      "name": "Felecia F. Jordan Jackson",
+      "summary": "Studies verbal aggression, interracial communication, and how people develop relationships and cope with relational deterioration and loss.",
+      "summary_zh": "研究言语攻击、跨种族传播，以及人们如何发展关系并应对关系恶化与丧失。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "interpersonal communication",
+        "verbal aggression",
+        "interracial communication",
+        "relationship development",
+        "relational loss",
+        "coping",
+        "communication traits"
+      ]
+    },
+    {
+      "name": "Braidyn Lazenby",
+      "summary": "Studies how people navigate difficult health conversations with providers, family, friends, and partners, including talk about stigmatized conditions and eating disorders.",
+      "summary_zh": "研究人们如何与医护人员、家人、朋友和伴侣进行艰难的健康对话，包括关于污名化疾病与进食障碍的沟通。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "interpersonal health communication",
+        "difficult conversations",
+        "stigma",
+        "eating disorders",
+        "fad diets",
+        "patient-provider communication",
+        "translational health communication"
+      ]
+    },
+    {
+      "name": "Jaejin Lee",
+      "summary": "Studies consumer behavior, branding, and cause-related and social marketing communication, including health messaging and new media.",
+      "summary_zh": "研究消费者行为、品牌建设以及公益关联营销与社会营销传播，涉及健康信息与新媒体。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "consumer behavior",
+        "branding",
+        "cause-related marketing",
+        "social marketing",
+        "integrated marketing communication",
+        "new media",
+        "health communication"
+      ]
+    },
+    {
+      "name": "Stephen McDowell",
+      "summary": "Examines news, communication technology, internet governance, and media policy in South Asia and North America from a political economy perspective.",
+      "summary_zh": "从政治经济学视角考察南亚与北美的新闻、传播技术、互联网治理与媒介政策。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_SOUTH_SE_ASIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "media policy",
+        "internet governance",
+        "india",
+        "south asian media",
+        "telecommunications policy",
+        "political economy",
+        "globalization",
+        "international communication"
+      ]
+    },
+    {
+      "name": "Patrick Merle",
+      "summary": "Studies crisis and risk communication, the credibility of AI-generated communication, and science communication.",
+      "summary_zh": "研究危机与风险传播、人工智能生成内容的可信度以及科学传播。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "crisis communication",
+        "risk communication",
+        "ai credibility",
+        "science communication",
+        "public relations",
+        "source credibility"
+      ]
+    },
+    {
+      "name": "Andrew Opel",
+      "summary": "Studies documentary history and production and environmental communication campaigns, linking media, environment, and consumer culture through scholarship and filmmaking.",
+      "summary_zh": "研究纪录片历史与制作以及环境传播运动，通过学术与电影创作连接媒介、环境与消费文化。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "documentary film",
+        "documentary production",
+        "environmental communication",
+        "environmental campaigns",
+        "consumer culture",
+        "documentary history"
+      ]
+    },
+    {
+      "name": "Jennifer Proffitt",
+      "summary": "Analyzes the political economy of media industries and production, media history, regulation, law, and policy in relation to democratic communication.",
+      "summary_zh": "分析媒介产业与生产的政治经济学、媒介史、规制、法律与政策及其与民主传播的关系。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "political economy of communication",
+        "media industries",
+        "media regulation",
+        "media law",
+        "media history",
+        "democratic communication",
+        "media ethics"
+      ]
+    },
+    {
+      "name": "Elizabeth Ray",
+      "summary": "Studies how audiences interpret risk and crisis information, judge AI-generated crisis messages, and build resilience, including during extreme weather events.",
+      "summary_zh": "研究受众如何理解风险与危机信息、评判人工智能生成的危机信息并建立韧性，包括在极端天气事件中。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "crisis communication",
+        "risk communication",
+        "resilience",
+        "extreme weather",
+        "ai-generated messages",
+        "message credibility",
+        "trauma-informed interventions",
+        "strategic communication"
+      ]
+    },
+    {
+      "name": "Ruosi Shao",
+      "summary": "Research interests span artificial intelligence, health communication, and human-computer interaction.",
+      "summary_zh": "研究兴趣涵盖人工智能、健康传播与人机交互。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "artificial intelligence",
+        "health communication",
+        "human-computer interaction",
+        "communication technologies"
+      ]
+    },
+    {
+      "name": "Richard Waters",
+      "summary": "Studies public relations, nonprofit and fundraising communication, stakeholder relationship management, and social media strategy in organizational settings.",
+      "summary_zh": "研究公共关系、非营利与筹款传播、利益相关者关系管理以及组织情境中的社交媒体策略。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public relations",
+        "nonprofit communication",
+        "fundraising",
+        "relationship management",
+        "stakeholder engagement",
+        "social media strategy",
+        "public relations pedagogy",
+        "lgbt strategic communication"
+      ]
+    },
+    {
+      "name": "Jessica Wendorf Muhamad",
+      "summary": "Develops and tests entertainment-education and game-based health interventions through participatory, community-engaged, and mixed-methods design, including occupational health.",
+      "summary_zh": "通过参与式、社区参与和混合方法设计，开发并检验寓教于乐与游戏化健康干预，包括职业健康领域。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "entertainment-education",
+        "game-based interventions",
+        "participatory design",
+        "community-engaged research",
+        "prevention science",
+        "occupational health",
+        "implementation science",
+        "high-reliability organizations"
+      ]
+    },
+    {
+      "name": "Yin Yang",
+      "summary": "Examines how narrative and emotional messages shape beliefs and behaviors about stigmatized health and environmental issues such as menstrual health and climate justice.",
+      "summary_zh": "考察叙事与情绪性信息如何影响人们对月经健康、气候正义等被污名化健康与环境议题的信念和行为。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "narrative persuasion",
+        "emotions",
+        "menstrual health",
+        "mental health stigma",
+        "health inequities",
+        "climate justice",
+        "environmental communication",
+        "women's health"
+      ]
+    },
+    {
+      "name": "Annie Zhang",
+      "summary": "Studies how digital spaces and emerging technologies shape public communication, understanding, and engagement with science, health, and environmental issues.",
+      "summary_zh": "研究数字空间与新兴技术如何塑造公众对科学、健康与环境议题的传播、理解与参与。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "science communication",
+        "public engagement with science",
+        "social media",
+        "scientists and the public",
+        "emerging technologies",
+        "science journalism"
+      ]
+    },
+    {
+      "name": "Pengfei Zhao",
+      "summary": "Studies how human and AI moral behaviors shape online community norms and develops AI-powered interventions to reduce online toxicity and harms.",
+      "summary_zh": "研究人类与人工智能的道德行为如何塑造网络社群规范，并开发人工智能驱动的干预以减少网络毒性与伤害。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "human-ai interaction",
+        "online toxicity",
+        "community governance",
+        "ai and morality",
+        "computer-mediated communication",
+        "technology and well-being",
+        "online harms",
+        "digital literacy"
+      ]
+    }
+  ]
+}

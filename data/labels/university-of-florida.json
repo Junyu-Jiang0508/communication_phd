@@ -1,2246 +1,2273 @@
 {
- "slug": "university-of-florida",
- "labeled_at": "2026-10-21",
- "faculty": [
-  {
-   "name": "Marcia DiStaso",
-   "summary": "Studies corporate purpose, investor relations and financial communication, and how companies use digital and social media to engage stakeholders.",
-   "summary_zh": "研究企业使命、投资者关系与金融传播，以及企业如何利用数字与社交媒体与利益相关者沟通。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ORGANIZATIONAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_ORGANIZATIONS_WORKPLACES",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "corporate purpose",
-    "investor relations",
-    "financial communication",
-    "public relations",
-    "social media",
-    "stakeholder communication",
-    "pr measurement"
-   ]
-  },
-  {
-   "name": "Matthew Barnidge",
-   "summary": "Studies how media technologies and online platforms shape political information flows and the emergence of new ideas and ideologies.",
-   "summary_zh": "研究媒介技术与网络平台如何塑造政治信息流动以及新观念和意识形态的兴起。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_POLITICAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_JOURNALISM",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_PLATFORMS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "political information flows",
-    "online platforms",
-    "ideology",
-    "digital journalism",
-    "public opinion",
-    "political communication",
-    "social media"
-   ]
-  },
-  {
-   "name": "Lindita Camaj",
-   "summary": "Studies journalism, technology and politics in emerging democracies of Southeast Europe, focusing on citizen engagement with quality news and civic behavior.",
-   "summary_zh": "研究东南欧等新兴民主国家中的新闻、技术与政治，关注公民对优质新闻的参与及其公民行为。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_JOURNALISM",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_POLITICAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MISINFO_TRUST",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_GLOBAL_INTERCULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_NEWSROOMS_MEDIA_ORGS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_EUROPE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "citizen engagement",
-    "quality news",
-    "southeast europe",
-    "western balkans",
-    "emerging democracies",
-    "freedom of information",
-    "civic behavior",
-    "digital journalism"
-   ]
-  },
-  {
-   "name": "Huan Chen",
-   "summary": "Studies AI in advertising, cultural and social media dynamics, consumer behavior and digital marketing, and AI in education and learning.",
-   "summary_zh": "研究广告中的人工智能、文化与社交媒体动态、消费者行为与数字营销，以及人工智能在教育与学习中的应用。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_GLOBAL_INTERCULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CHILDREN_FAMILY_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "ai in advertising",
-    "consumer behavior",
-    "digital marketing",
-    "social media dynamics",
-    "cultural dynamics",
-    "ai in education",
-    "advertising"
-   ]
-  },
-  {
-   "name": "Haoran “Chris” Chu",
-   "summary": "Studies how people perceive and act on health and environmental risks, including infectious disease prevention and sustainability, and how AI may shape public health messaging.",
-   "summary_zh": "研究公众如何感知并应对健康与环境风险（如传染病防控与可持续发展），以及人工智能如何影响公共卫生传播。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HEALTH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_SCIENCE_ENV",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "risk perception",
-    "infectious disease prevention",
-    "sustainability",
-    "resilience",
-    "environmental risk",
-    "science narratives",
-    "health advisories",
-    "ai in public health"
-   ]
-  },
-  {
-   "name": "Roxane Coche",
-   "summary": "Studies sports journalism and media coverage of international sporting events, including press conferences and newspaper coverage of women's sports.",
-   "summary_zh": "研究体育新闻与国际体育赛事报道，包括新闻发布会以及报纸对女子体育的报道。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_JOURNALISM",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_GLOBAL_INTERCULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_CONTENT_ANALYSIS",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_NEWSROOMS_MEDIA_ORGS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_EUROPE",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "sports journalism",
-    "sports media",
-    "press conferences",
-    "olympic games",
-    "women's soccer coverage",
-    "newspaper ownership",
-    "france"
-   ]
-  },
-  {
-   "name": "Francis Dalisay",
-   "summary": "Studies youth substance use prevention, health and cancer disparities, and community engagement in the U.S.-Affiliated Pacific Islands through formative and intervention research.",
-   "summary_zh": "研究美国附属太平洋岛屿地区的青少年物质使用预防、健康与癌症差异及社区参与，开展形成性研究与干预研究。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HEALTH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CHILDREN_FAMILY_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_YOUTH_EDUCATION",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "youth substance use prevention",
-    "tobacco prevention",
-    "cancer disparities",
-    "pacific islands",
-    "micronesia",
-    "guam",
-    "community engagement",
-    "culturally tailored interventions"
-   ]
-  },
-  {
-   "name": "Juliana Fernandes",
-   "summary": "Studies the uses and effects of negative information in persuasive messages and how social and traditional media serve as strategic tools in political campaigns.",
-   "summary_zh": "研究负面信息在说服性信息中的使用与效果，以及社交媒体和传统媒体如何作为政治竞选的战略工具。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_POLITICAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_ELECTIONS_GOVERNMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "negative advertising",
-    "negative information",
-    "persuasion",
-    "political campaigns",
-    "political advertising",
-    "social media campaigns"
-   ]
-  },
-  {
-   "name": "Rebecca Frazer",
-   "summary": "Studies how people process and respond to narrative media, from entertainment TV to terrorist propaganda, using experiments informed by moral psychology.",
-   "summary_zh": "运用以道德心理学为视角的实验，研究人们如何加工和回应叙事性媒介，涵盖娱乐电视到恐怖主义宣传。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_EXPERIMENT",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "narrative persuasion",
-    "moral psychology",
-    "enjoyment and appreciation",
-    "terrorist propaganda",
-    "media and extremism",
-    "dehumanization",
-    "entertainment television",
-    "social media testimonials"
-   ]
-  },
-  {
-   "name": "J. Robyn Goodman",
-   "summary": "Studies how media and advertising images, such as ultra-thin portrayals of women, shape body image and eating disorder-related behaviors.",
-   "summary_zh": "研究媒体与广告形象（如极瘦女性形象）如何影响身体意象及与进食障碍相关的行为。",
-   "confidence": "medium",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HEALTH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "body image",
-    "thin ideal",
-    "eating disorders",
-    "media images of women",
-    "visual communication",
-    "advertising",
-    "health communication"
-   ]
-  },
-  {
-   "name": "Rachel Grant",
-   "summary": "Studies race, gender and class in media, Black feminism and social movements through critical and historical analysis of news, TV and Black Twitter activism.",
-   "summary_zh": "通过对新闻、电视和黑人推特行动主义的批判与历史分析，研究媒介中的种族、性别与阶级、黑人女性主义及社会运动。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_JOURNALISM",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HISTORY_THEORY",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_HISTORICAL_ARCHIVAL",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     },
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_SOCIAL_MOVEMENTS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "black feminism",
-    "race gender and class",
-    "social movements",
-    "black twitter",
-    "hashtag activism",
-    "misogynoir",
-    "black press",
-    "visual communication"
-   ]
-  },
-  {
-   "name": "Jeongmin Ham",
-   "summary": "Studies new media advertising and human-computer interaction, especially how AI- and human-driven virtual humans use storytelling to shape brand perceptions.",
-   "summary_zh": "研究新媒体广告与人机交互，尤其关注由AI或真人驱动的虚拟人如何借助叙事提升品牌认知。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HCI_CMC",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "virtual humans",
-    "virtual endorsers",
-    "ai-driven agents",
-    "digital storytelling",
-    "brand perception",
-    "new media advertising",
-    "human-computer interaction"
-   ]
-  },
-  {
-   "name": "Eugy Han",
-   "summary": "Studies social interaction in immersive virtual and mixed reality environments and how physical, virtual and social context shapes these interactions.",
-   "summary_zh": "研究沉浸式虚拟现实与混合现实环境中的社会互动，以及物理、虚拟与社会情境如何塑造这些互动。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HCI_CMC",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "virtual reality",
-    "mixed reality",
-    "immersive virtual environments",
-    "social interaction",
-    "contextual factors",
-    "media psychology"
-   ]
-  },
-  {
-   "name": "Antoine Haywood",
-   "summary": "Studies how communities use local media infrastructure such as community video, radio and press to build identity and civic life, via community-engaged participatory research.",
-   "summary_zh": "通过社区参与式研究，考察社区如何利用社区视频、电台和报刊等本地媒介基础设施建构地方认同与公民生活。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_JOURNALISM",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_INDUSTRIES_POLICY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HISTORY_THEORY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_QUALITATIVE",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_SOCIAL_MOVEMENTS",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_NEWSROOMS_MEDIA_ORGS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "community media",
-    "community journalism",
-    "local news gaps",
-    "civic media",
-    "community radio",
-    "social capital",
-    "participatory storytelling",
-    "telecommunications policy"
-   ]
-  },
-  {
-   "name": "Jay Hmielowski",
-   "summary": "Studies why messages succeed or fail at changing attitudes on environmental, science and political issues, and how attitudes drive information seeking and media avoidance.",
-   "summary_zh": "研究信息为何能或不能改变人们在环境、科学与政治议题上的态度，以及态度如何影响信息寻求与媒体回避。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_SCIENCE_ENV",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_POLITICAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_SURVEY",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "environmental communication",
-    "climate change",
-    "message effects",
-    "information seeking",
-    "partisan media avoidance",
-    "science communication",
-    "political communication"
-   ]
-  },
-  {
-   "name": "Austin Hubner",
-   "summary": "Studies how communicator cues shape perceived expertise, credibility and trust in scientists and medical authorities, including science-related populism.",
-   "summary_zh": "研究传播者线索如何影响公众对科学家与医疗权威的专业性、可信度与信任判断，包括科学民粹主义。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_SCIENCE_ENV",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MISINFO_TRUST",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "trust in science",
-    "scientific authority",
-    "source credibility",
-    "expertise",
-    "science-related populism",
-    "medical distrust",
-    "political polarization",
-    "non-expert sources"
-   ]
-  },
-  {
-   "name": "Myiah Hutchens",
-   "summary": "Studies how communication helps or hinders democratic processes, focusing on why people seek out disagreeing views and how they process political disagreement.",
-   "summary_zh": "研究传播如何促进或阻碍民主进程，关注人们为何寻求不同意见以及如何处理政治分歧。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_POLITICAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_SURVEY",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_ELECTIONS_GOVERNMENT",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "selective exposure",
-    "political disagreement",
-    "partisan media",
-    "populism",
-    "partisan identity",
-    "racial resentment",
-    "democratic processes"
-   ]
-  },
-  {
-   "name": "Bobi Ivanov",
-   "summary": "Studies persuasion and resistance to persuasion, developing inoculation theory and message design across commercial, health, political and crisis contexts.",
-   "summary_zh": "研究说服与抵制说服，在商业、健康、政治与危机等情境中发展免疫理论与信息设计。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_THEORY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "inoculation theory",
-    "persuasion",
-    "resistance to persuasion",
-    "message design",
-    "attitudes",
-    "crisis communication",
-    "strategic communication"
-   ]
-  },
-  {
-   "name": "Benjamin Johnson",
-   "summary": "Studies why and how people select and share persuasive messages on new media, focusing on impression management, social comparison and self-regulation.",
-   "summary_zh": "研究人们为何以及如何在新媒体上选择与分享说服性信息，关注印象管理、社会比较与自我调节。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_PLATFORMS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "selective exposure",
-    "message sharing",
-    "impression management",
-    "social comparison",
-    "self-regulation",
-    "identity shift",
-    "replication",
-    "social media"
-   ]
-  },
-  {
-   "name": "Tom Kelleher",
-   "summary": "Studies public relations and advertising communication by organizations, including consumer responses to chatbots and the perceived humanness of online organizational agents.",
-   "summary_zh": "研究组织的公共关系与广告传播，包括消费者对聊天机器人的反应及线上组织代理的拟人感知。",
-   "confidence": "medium",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HCI_CMC",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ORGANIZATIONAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_SURVEY",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_ORGANIZATIONS_WORKPLACES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "chatbots",
-    "conversational agents",
-    "perceived humanness",
-    "organizational agents",
-    "ceo communication",
-    "public relations",
-    "relationship management"
-   ]
-  },
-  {
-   "name": "Spiro K. Kiousis",
-   "summary": "Studies political public relations and the interplay among public relations efforts, news media content and public opinion in domestic and global contexts.",
-   "summary_zh": "研究政治公共关系，以及公关活动、新闻媒体内容与公众舆论在国内及全球情境中的相互作用。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_POLITICAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_JOURNALISM",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_ELECTIONS_GOVERNMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_GLOBAL_CROSS_NATIONAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "political public relations",
-    "agenda building",
-    "public opinion",
-    "news media content",
-    "digital communication",
-    "political communication"
-   ]
-  },
-  {
-   "name": "Yu-Hao Lee",
-   "summary": "Studies the effects and design of immersive media such as video games, streaming and VR to promote better decisions and prosocial behavior.",
-   "summary_zh": "研究电子游戏、网络直播和虚拟现实等沉浸式媒介的效果与设计，以促进更好的决策与亲社会行为。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HCI_CMC",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_SCIENCE_ENV",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_DESIGN_BUILD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "video games",
-    "serious games",
-    "virtual reality",
-    "online streaming",
-    "prosocial behavior",
-    "cognitive biases",
-    "deception detection",
-    "climate change attitudes",
-    "refugees"
-   ]
-  },
-  {
-   "name": "Jiawei Liu",
-   "summary": "Studies health communication and disease prevention by examining the content and effects of mass media, social media and AI-mediated public health messages.",
-   "summary_zh": "通过考察大众媒体、社交媒体及AI中介的公共卫生信息的内容与效果，研究健康传播与疾病预防。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HEALTH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_CONTENT_ANALYSIS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "health communication",
-    "disease prevention",
-    "cancer prevention",
-    "social media health messages",
-    "ai-mediated messages",
-    "message effects",
-    "public health"
-   ]
-  },
-  {
-   "name": "Wenlin Liu",
-   "summary": "Studies multiethnic community building, organization-public relationships and how public agencies use social media for disaster communication and vaccine acceptance.",
-   "summary_zh": "研究多族裔社区建设、组织与公众关系，以及公共机构如何利用社交媒体开展灾害传播并促进疫苗接受。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_GLOBAL_INTERCULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_ORGANIZATIONS_WORKPLACES",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "disaster communication",
-    "multiethnic community building",
-    "organization-public relationships",
-    "inter-agency collaboration",
-    "covid-19 vaccine acceptance",
-    "social media",
-    "public sector organizations"
-   ]
-  },
-  {
-   "name": "Jasmine McNealy",
-   "summary": "Studies information, communication and technology with a view toward law and policy, focusing on privacy, online media and communities.",
-   "summary_zh": "研究信息、传播与技术以影响法律和政策，聚焦隐私、网络媒体与社区。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_MEDIA_INDUSTRIES_POLICY",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_PLATFORMS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "privacy",
-    "media law",
-    "technology policy",
-    "data governance",
-    "online media",
-    "ai ethics",
-    "communities"
-   ]
-  },
-  {
-   "name": "Linjuan Rita Men",
-   "summary": "Studies internal communication, leadership communication, emerging technologies and entrepreneurial communication in corporations and startups.",
-   "summary_zh": "研究企业与初创公司中的内部传播、领导力传播、新兴技术与创业传播。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_ORGANIZATIONAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_ORGANIZATIONS_WORKPLACES",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_CHINA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "internal communication",
-    "employee engagement",
-    "leadership communication",
-    "entrepreneurial communication",
-    "startups",
-    "corporate communication",
-    "emerging technologies"
-   ]
-  },
-  {
-   "name": "Won-Ki Moon",
-   "summary": "Studies how people and institutions judge the trustworthiness and legitimacy of AI and algorithmic communication, including responsible AI and AI-driven advertising.",
-   "summary_zh": "研究个人与机构如何评判人工智能与算法传播的可信度和正当性，包括负责任AI与AI驱动的广告。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MISINFO_TRUST",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_ORGANIZATIONS_WORKPLACES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "responsible ai",
-    "algorithmic communication",
-    "legitimacy",
-    "platform governance",
-    "sociotechnical decision-making",
-    "data-driven advertising",
-    "risk perception",
-    "consumer psychology"
-   ]
-  },
-  {
-   "name": "Cynthia R. Morton Padovano",
-   "summary": "Studies cognitive processing, communication effects and message persuasion in social issue advocacy, health communication and cross-cultural audiences.",
-   "summary_zh": "研究社会议题倡导、健康传播及跨文化受众情境中的认知加工、传播效果与信息说服。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_GLOBAL_INTERCULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "message persuasion",
-    "cognitive processing",
-    "social issue advocacy",
-    "health marketing",
-    "cross-cultural audiences",
-    "advertising effects"
-   ]
-  },
-  {
-   "name": "Seungahn Nah",
-   "summary": "Studies how digital and AI-enabled communication and media credibility shape community storytelling, news trust and civic engagement across diverse communities.",
-   "summary_zh": "研究数字与AI传播技术及媒体可信度如何影响多元社群中的社区叙事、新闻信任与公民参与。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_POLITICAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MISINFO_TRUST",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_JOURNALISM",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_AUDIENCES_PUBLICS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_MARGINALIZED_COMMUNITIES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "civic engagement",
-    "news trust",
-    "media credibility",
-    "community storytelling network",
-    "ai communication",
-    "digital media",
-    "democracy"
-   ]
-  },
-  {
-   "name": "David H. Ostroff",
-   "summary": "Studies the historical and contemporary telecommunications policy process and how policy actors respond to emerging technologies, including in the European Union.",
-   "summary_zh": "研究历史与当代的电信政策过程及政策参与者如何应对新兴技术，包括欧盟的情况。",
-   "confidence": "medium",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_MEDIA_INDUSTRIES_POLICY",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_HISTORICAL_ARCHIVAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_ELECTIONS_GOVERNMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": [
-     {
-      "code": "R_EUROPE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
-   },
-   "keywords": [
-    "telecommunications policy",
-    "policy process",
-    "emerging technologies",
-    "european union",
-    "media regulation",
-    "media management"
-   ]
-  },
-  {
-   "name": "Jieun Shin",
-   "summary": "Studies social media dynamics, especially how misinformation spreads online and the role of fact-checking.",
-   "summary_zh": "研究社交媒体动态，尤其是虚假信息如何在网上传播以及事实核查的作用。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_MISINFO_TRUST",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_POLITICAL",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_PLATFORMS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "misinformation",
-    "fact-checking",
-    "social media dynamics",
-    "rumor spread",
-    "hyperpartisan media",
-    "engagement",
-    "threatening language"
-   ]
-  },
-  {
-   "name": "Yuan Sun",
-   "summary": "Studies how AI reshapes advertising and human-technology interaction, focusing on how people calibrate trust in conversational and agentic AI.",
-   "summary_zh": "研究人工智能如何重塑广告与人机互动，关注人们如何校准对对话式与智能体AI的信任。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HCI_CMC",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MISINFO_TRUST",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "trust in ai",
-    "ai sycophancy",
-    "algorithmic transparency",
-    "agentic ai",
-    "conversational ai",
-    "human-ai decision making",
-    "misinformation",
-    "digital health communication"
-   ]
-  },
-  {
-   "name": "Frank Waddell",
-   "summary": "Studies the psychology of new technology and online storytelling, including automated news, online comments and social television.",
-   "summary_zh": "研究新技术与网络叙事的心理学，包括自动化新闻、网络评论与社交电视。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_JOURNALISM",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ENTERTAINMENT_GAMES",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "automated news",
-    "online comments",
-    "social television",
-    "robot journalism",
-    "media psychology",
-    "online storytelling",
-    "news credibility"
-   ]
-  },
-  {
-   "name": "Kim Walsh-Childers",
-   "summary": "Studies how news media cover health, how audiences use health news, its influence on health policy, and media effects on adolescent sexual health.",
-   "summary_zh": "研究新闻媒体如何报道健康议题、公众如何使用健康新闻、其对健康政策的影响，以及媒介对青少年性健康的影响。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HEALTH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_JOURNALISM",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CHILDREN_FAMILY_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [
-     {
-      "code": "SET_YOUTH_EDUCATION",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "SET_NEWSROOMS_MEDIA_ORGS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "health news coverage",
-    "health policy",
-    "adolescent sexual health",
-    "sexual media",
-    "media ethics",
-    "women journalists",
-    "health information"
-   ]
-  },
-  {
-   "name": "Jinping Wang",
-   "summary": "Studies how affordances of new media technologies shape communication behaviors and the effectiveness of persuasive messages, including health and social media persuasion.",
-   "summary_zh": "研究新媒体技术的可供性如何塑造传播行为与说服效果，包括健康传播与社交媒体中的说服。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HCI_CMC",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_HEALTH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [],
-    "data": [
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "media affordances",
-    "persuasion",
-    "bandwagon effects",
-    "social media engagement",
-    "computer-mediated communication",
-    "health persuasion",
-    "new media effects"
-   ]
-  },
-  {
-   "name": "Kasey Windels",
-   "summary": "Studies the advertising industry, especially creativity inside agencies and practitioner perspectives on how advertising works.",
-   "summary_zh": "研究广告行业，尤其是广告公司内部的创意以及从业者对广告运作方式的看法。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_STRATEGIC_PR_AD",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_ORGANIZATIONAL",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_CRITICAL_CULTURAL",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_CRITICAL_INTERPRETIVE",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
-    "data": [],
-    "setting": [
-     {
-      "code": "SET_ORGANIZATIONS_WORKPLACES",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "region": []
-   },
-   "keywords": [
-    "advertising agencies",
-    "creativity",
-    "advertising practitioners",
-    "agency culture",
-    "public service advertisements",
-    "neoliberal discourse",
-    "industry-academia gap"
-   ]
-  },
-  {
-   "name": "Kun Xu",
-   "summary": "Studies how people perceive and interact with social robots, virtual agents and VR/AR, using lab experiments, psychophysiology and computational methods.",
-   "summary_zh": "运用实验室实验、心理生理测量和计算方法，研究人们如何感知并与社交机器人、虚拟代理及VR/AR互动。",
-   "confidence": "high",
-   "labels": {
-    "topic": [
-     {
-      "code": "T_HCI_CMC",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_EFFECTS_PSYCH",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_PLATFORMS_AI",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "approach": [
-     {
-      "code": "A_EXPERIMENT",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_PHYSIO_NEURO",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_COMPUTATIONAL",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_PHYSIO_LOG",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "setting": [],
-    "region": []
-   },
-   "keywords": [
-    "human-robot interaction",
-    "social robots",
-    "virtual agents",
-    "telepresence",
-    "virtual reality",
-    "augmented reality",
-    "psychophysiology",
-    "computer-mediated communication"
-   ]
-  }
- ]
+  "slug": "university-of-florida",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Marcia DiStaso",
+      "summary": "Studies corporate purpose, investor relations and financial communication, and how companies use digital and social media to engage stakeholders.",
+      "summary_zh": "研究企业使命、投资者关系与金融传播，以及企业如何利用数字与社交媒体与利益相关者沟通。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "corporate purpose",
+        "investor relations",
+        "financial communication",
+        "public relations",
+        "social media",
+        "stakeholder communication",
+        "pr measurement"
+      ]
+    },
+    {
+      "name": "Matthew Barnidge",
+      "summary": "Studies how media technologies and online platforms shape political information flows and the emergence of new ideas and ideologies.",
+      "summary_zh": "研究媒介技术与网络平台如何塑造政治信息流动以及新观念和意识形态的兴起。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "political information flows",
+        "online platforms",
+        "ideology",
+        "digital journalism",
+        "public opinion",
+        "political communication",
+        "social media"
+      ]
+    },
+    {
+      "name": "Lindita Camaj",
+      "summary": "Studies journalism, technology and politics in emerging democracies of Southeast Europe, focusing on citizen engagement with quality news and civic behavior.",
+      "summary_zh": "研究东南欧等新兴民主国家中的新闻、技术与政治，关注公民对优质新闻的参与及其公民行为。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_EUROPE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "citizen engagement",
+        "quality news",
+        "southeast europe",
+        "western balkans",
+        "emerging democracies",
+        "freedom of information",
+        "civic behavior",
+        "digital journalism"
+      ]
+    },
+    {
+      "name": "Huan Chen",
+      "summary": "Studies AI in advertising, cultural and social media dynamics, consumer behavior and digital marketing, and AI in education and learning.",
+      "summary_zh": "研究广告中的人工智能、文化与社交媒体动态、消费者行为与数字营销，以及人工智能在教育与学习中的应用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "ai in advertising",
+        "consumer behavior",
+        "digital marketing",
+        "social media dynamics",
+        "cultural dynamics",
+        "ai in education",
+        "advertising"
+      ]
+    },
+    {
+      "name": "Haoran “Chris” Chu",
+      "summary": "Studies how people perceive and act on health and environmental risks, including infectious disease prevention and sustainability, and how AI may shape public health messaging.",
+      "summary_zh": "研究公众如何感知并应对健康与环境风险（如传染病防控与可持续发展），以及人工智能如何影响公共卫生传播。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "risk perception",
+        "infectious disease prevention",
+        "sustainability",
+        "resilience",
+        "environmental risk",
+        "science narratives",
+        "health advisories",
+        "ai in public health"
+      ]
+    },
+    {
+      "name": "Roxane Coche",
+      "summary": "Studies sports journalism and media coverage of international sporting events, including press conferences and newspaper coverage of women's sports.",
+      "summary_zh": "研究体育新闻与国际体育赛事报道，包括新闻发布会以及报纸对女子体育的报道。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "sports journalism",
+        "sports media",
+        "press conferences",
+        "olympic games",
+        "women's soccer coverage",
+        "newspaper ownership"
+      ]
+    },
+    {
+      "name": "Francis Dalisay",
+      "summary": "Studies youth substance use prevention, health and cancer disparities, and community engagement in the U.S.-Affiliated Pacific Islands through formative and intervention research.",
+      "summary_zh": "研究美国附属太平洋岛屿地区的青少年物质使用预防、健康与癌症差异及社区参与，开展形成性研究与干预研究。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "youth substance use prevention",
+        "tobacco prevention",
+        "cancer disparities",
+        "pacific islands",
+        "micronesia",
+        "guam",
+        "community engagement",
+        "culturally tailored interventions"
+      ]
+    },
+    {
+      "name": "Juliana Fernandes",
+      "summary": "Studies the uses and effects of negative information in persuasive messages and how social and traditional media serve as strategic tools in political campaigns.",
+      "summary_zh": "研究负面信息在说服性信息中的使用与效果，以及社交媒体和传统媒体如何作为政治竞选的战略工具。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "negative advertising",
+        "negative information",
+        "persuasion",
+        "political campaigns",
+        "political advertising",
+        "social media campaigns"
+      ]
+    },
+    {
+      "name": "Rebecca Frazer",
+      "summary": "Studies how people process and respond to narrative media, from entertainment TV to terrorist propaganda, using experiments informed by moral psychology.",
+      "summary_zh": "运用以道德心理学为视角的实验，研究人们如何加工和回应叙事性媒介，涵盖娱乐电视到恐怖主义宣传。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "narrative persuasion",
+        "moral psychology",
+        "enjoyment and appreciation",
+        "terrorist propaganda",
+        "media and extremism",
+        "dehumanization",
+        "entertainment television",
+        "social media testimonials"
+      ]
+    },
+    {
+      "name": "J. Robyn Goodman",
+      "summary": "Works in advertising, health and visual communication; her dissertation examined how media images of ultra-thin women shape body image and eating disorder-related behaviors.",
+      "summary_zh": "从事广告、健康与视觉传播研究；其博士论文考察了媒体中极瘦女性形象如何影响女性的身体意象及与进食障碍相关的行为。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "body image",
+        "thin ideal",
+        "eating disorders",
+        "media images of women",
+        "visual communication",
+        "advertising",
+        "health communication"
+      ]
+    },
+    {
+      "name": "Rachel Grant",
+      "summary": "Studies race, gender and class in media, Black feminism and social movements through critical and historical analysis of news, TV and Black Twitter activism.",
+      "summary_zh": "通过对新闻、电视和黑人推特行动主义的批判与历史分析，研究媒介中的种族、性别与阶级、黑人女性主义及社会运动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "black feminism",
+        "race gender and class",
+        "social movements",
+        "black twitter",
+        "hashtag activism",
+        "misogynoir",
+        "black press",
+        "visual communication"
+      ]
+    },
+    {
+      "name": "Jeongmin Ham",
+      "summary": "Studies new media advertising and human-computer interaction, especially how AI- and human-driven virtual humans use storytelling to shape brand perceptions.",
+      "summary_zh": "研究新媒体广告与人机交互，尤其关注由AI或真人驱动的虚拟人如何借助叙事提升品牌认知。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "virtual humans",
+        "virtual endorsers",
+        "ai-driven agents",
+        "digital storytelling",
+        "brand perception",
+        "new media advertising",
+        "human-computer interaction"
+      ]
+    },
+    {
+      "name": "Eugy Han",
+      "summary": "Studies social interaction in immersive virtual and mixed reality environments and how physical, virtual and social context shapes these interactions.",
+      "summary_zh": "研究沉浸式虚拟现实与混合现实环境中的社会互动，以及物理、虚拟与社会情境如何塑造这些互动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "virtual reality",
+        "mixed reality",
+        "immersive virtual environments",
+        "social interaction",
+        "contextual factors",
+        "media psychology"
+      ]
+    },
+    {
+      "name": "Antoine Haywood",
+      "summary": "Studies how communities use local media infrastructure such as community video, radio and press to build identity and civic life, via community-engaged participatory research.",
+      "summary_zh": "通过社区参与式研究，考察社区如何利用社区视频、电台和报刊等本地媒介基础设施建构地方认同与公民生活。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "community media",
+        "community journalism",
+        "local news gaps",
+        "civic media",
+        "community radio",
+        "social capital",
+        "participatory storytelling",
+        "telecommunications policy"
+      ]
+    },
+    {
+      "name": "Jay Hmielowski",
+      "summary": "Studies why messages succeed or fail at changing attitudes on environmental, science and political issues, and how attitudes drive information seeking and media avoidance.",
+      "summary_zh": "研究信息为何能或不能改变人们在环境、科学与政治议题上的态度，以及态度如何影响信息寻求与媒体回避。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "environmental communication",
+        "climate change",
+        "message effects",
+        "information seeking",
+        "partisan media avoidance",
+        "science communication",
+        "political communication"
+      ]
+    },
+    {
+      "name": "Austin Hubner",
+      "summary": "Studies how communicator cues shape perceived expertise, credibility and trust in scientists and medical authorities, including science-related populism.",
+      "summary_zh": "研究传播者线索如何影响公众对科学家与医疗权威的专业性、可信度与信任判断，包括科学民粹主义。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "trust in science",
+        "scientific authority",
+        "source credibility",
+        "expertise",
+        "science-related populism",
+        "medical distrust",
+        "political polarization",
+        "non-expert sources"
+      ]
+    },
+    {
+      "name": "Myiah Hutchens",
+      "summary": "Studies how communication helps or hinders democratic processes, focusing on why people seek out disagreeing views and how they process political disagreement.",
+      "summary_zh": "研究传播如何促进或阻碍民主进程，关注人们为何寻求不同意见以及如何处理政治分歧。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "selective exposure",
+        "political disagreement",
+        "partisan media",
+        "populism",
+        "partisan identity",
+        "racial resentment",
+        "democratic processes"
+      ]
+    },
+    {
+      "name": "Bobi Ivanov",
+      "summary": "Studies persuasion and resistance to persuasion, developing inoculation theory and message design across commercial, health, political and crisis contexts.",
+      "summary_zh": "研究说服与抵制说服，在商业、健康、政治与危机等情境中发展免疫理论与信息设计。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "inoculation theory",
+        "persuasion",
+        "resistance to persuasion",
+        "message design",
+        "attitudes",
+        "crisis communication",
+        "strategic communication"
+      ]
+    },
+    {
+      "name": "Benjamin Johnson",
+      "summary": "Studies why and how people select and share persuasive messages on new media, focusing on impression management, social comparison and self-regulation.",
+      "summary_zh": "研究人们为何以及如何在新媒体上选择与分享说服性信息，关注印象管理、社会比较与自我调节。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "selective exposure",
+        "message sharing",
+        "impression management",
+        "social comparison",
+        "self-regulation",
+        "identity shift",
+        "replication",
+        "social media"
+      ]
+    },
+    {
+      "name": "Tom Kelleher",
+      "summary": "Studies public relations and advertising communication by organizations, including consumer responses to chatbots and the perceived humanness of online organizational agents.",
+      "summary_zh": "研究组织的公共关系与广告传播，包括消费者对聊天机器人的反应及线上组织代理的拟人感知。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "chatbots",
+        "conversational agents",
+        "perceived humanness",
+        "organizational agents",
+        "ceo communication",
+        "public relations",
+        "relationship management"
+      ]
+    },
+    {
+      "name": "Spiro K. Kiousis",
+      "summary": "Studies political public relations and the interplay among public relations efforts, news media content and public opinion in domestic and global contexts.",
+      "summary_zh": "研究政治公共关系，以及公关活动、新闻媒体内容与公众舆论在国内及全球情境中的相互作用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "political public relations",
+        "agenda building",
+        "public opinion",
+        "news media content",
+        "digital communication",
+        "political communication"
+      ]
+    },
+    {
+      "name": "Yu-Hao Lee",
+      "summary": "Studies the effects and design of immersive media such as video games, streaming and VR to promote better decisions and prosocial behavior.",
+      "summary_zh": "研究电子游戏、网络直播和虚拟现实等沉浸式媒介的效果与设计，以促进更好的决策与亲社会行为。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "video games",
+        "serious games",
+        "virtual reality",
+        "online streaming",
+        "prosocial behavior",
+        "cognitive biases",
+        "deception detection",
+        "climate change attitudes",
+        "refugees"
+      ]
+    },
+    {
+      "name": "Jiawei Liu",
+      "summary": "Studies health communication and disease prevention by examining the content and effects of mass media, social media and AI-mediated public health messages.",
+      "summary_zh": "通过考察大众媒体、社交媒体及AI中介的公共卫生信息的内容与效果，研究健康传播与疾病预防。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "health communication",
+        "disease prevention",
+        "cancer prevention",
+        "social media health messages",
+        "ai-mediated messages",
+        "message effects",
+        "public health"
+      ]
+    },
+    {
+      "name": "Wenlin Liu",
+      "summary": "Studies multiethnic community building, organization-public relationships, public agencies' social media disaster communication, and COVID-19 vaccine acceptance.",
+      "summary_zh": "研究多族裔社区建设、组织与公众关系、公共机构借助社交媒体开展的灾害传播，以及新冠疫苗接受度。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "disaster communication",
+        "multiethnic community building",
+        "organization-public relationships",
+        "inter-agency collaboration",
+        "covid-19 vaccine acceptance",
+        "social media",
+        "public sector organizations"
+      ]
+    },
+    {
+      "name": "Jasmine McNealy",
+      "summary": "Studies information, communication and technology with a view toward law and policy, focusing on privacy, online media and communities.",
+      "summary_zh": "研究信息、传播与技术以影响法律和政策，聚焦隐私、网络媒体与社区。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "privacy",
+        "media law",
+        "technology policy",
+        "data governance",
+        "online media",
+        "ai ethics",
+        "communities"
+      ]
+    },
+    {
+      "name": "Linjuan Rita Men",
+      "summary": "Studies internal communication, leadership communication, emerging technologies and entrepreneurial communication in corporations and startups.",
+      "summary_zh": "研究企业与初创公司中的内部传播、领导力传播、新兴技术与创业传播。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "internal communication",
+        "employee engagement",
+        "leadership communication",
+        "entrepreneurial communication",
+        "startups",
+        "corporate communication",
+        "emerging technologies"
+      ]
+    },
+    {
+      "name": "Won-Ki Moon",
+      "summary": "Studies how people and institutions judge the trustworthiness and legitimacy of AI and algorithmic communication, including responsible AI and AI-driven advertising.",
+      "summary_zh": "研究个人与机构如何评判人工智能与算法传播的可信度和正当性，包括负责任AI与AI驱动的广告。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "responsible ai",
+        "algorithmic communication",
+        "legitimacy",
+        "platform governance",
+        "sociotechnical decision-making",
+        "data-driven advertising",
+        "risk perception",
+        "consumer psychology"
+      ]
+    },
+    {
+      "name": "Cynthia R. Morton Padovano",
+      "summary": "Studies cognitive processing, communication effects and message persuasion in social issue advocacy, health communication and cross-cultural audiences.",
+      "summary_zh": "研究社会议题倡导、健康传播及跨文化受众情境中的认知加工、传播效果与信息说服。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "message persuasion",
+        "cognitive processing",
+        "social issue advocacy",
+        "health marketing",
+        "cross-cultural audiences",
+        "advertising effects"
+      ]
+    },
+    {
+      "name": "Seungahn Nah",
+      "summary": "Studies how digital and AI-enabled communication and media credibility shape community storytelling, news trust and civic engagement across diverse communities.",
+      "summary_zh": "研究数字与AI传播技术及媒体可信度如何影响多元社群中的社区叙事、新闻信任与公民参与。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "civic engagement",
+        "news trust",
+        "media credibility",
+        "community storytelling network",
+        "ai communication",
+        "digital media",
+        "democracy"
+      ]
+    },
+    {
+      "name": "David H. Ostroff",
+      "summary": "Studies the historical and contemporary telecommunications policy process and how policy actors respond to emerging technologies, including in the European Union.",
+      "summary_zh": "研究历史与当代的电信政策过程及政策参与者如何应对新兴技术，包括欧盟的情况。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_EUROPE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "telecommunications policy",
+        "policy process",
+        "emerging technologies",
+        "european union",
+        "media regulation",
+        "media management"
+      ]
+    },
+    {
+      "name": "Jieun Shin",
+      "summary": "Studies social media dynamics, especially how misinformation spreads online and the role of fact-checking.",
+      "summary_zh": "研究社交媒体动态，尤其是虚假信息如何在网上传播以及事实核查的作用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "misinformation",
+        "fact-checking",
+        "social media dynamics",
+        "rumor spread",
+        "hyperpartisan media",
+        "engagement",
+        "threatening language"
+      ]
+    },
+    {
+      "name": "Yuan Sun",
+      "summary": "Studies how AI reshapes advertising and human-technology interaction, focusing on how people calibrate trust in conversational and agentic AI.",
+      "summary_zh": "研究人工智能如何重塑广告与人机互动，关注人们如何校准对对话式与智能体AI的信任。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "trust in ai",
+        "ai sycophancy",
+        "algorithmic transparency",
+        "agentic ai",
+        "conversational ai",
+        "human-ai decision making",
+        "misinformation",
+        "digital health communication"
+      ]
+    },
+    {
+      "name": "Frank Waddell",
+      "summary": "Studies the psychology of new technology and online storytelling, including automated news, online comments and social television.",
+      "summary_zh": "研究新技术与网络叙事的心理学，包括自动化新闻、网络评论与社交电视。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "automated news",
+        "online comments",
+        "social television",
+        "robot journalism",
+        "media psychology",
+        "online storytelling",
+        "news credibility"
+      ]
+    },
+    {
+      "name": "Kim Walsh-Childers",
+      "summary": "Studies how news media cover health, how audiences use health news, its influence on health policy, and media effects on adolescent sexual health.",
+      "summary_zh": "研究新闻媒体如何报道健康议题、公众如何使用健康新闻、其对健康政策的影响，以及媒介对青少年性健康的影响。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health news coverage",
+        "health policy",
+        "adolescent sexual health",
+        "sexual media",
+        "media ethics",
+        "women journalists",
+        "health information"
+      ]
+    },
+    {
+      "name": "Jinping Wang",
+      "summary": "Studies how affordances of new media technologies shape communication behaviors and the effectiveness of persuasive messages, including health and social media persuasion.",
+      "summary_zh": "研究新媒体技术的可供性如何塑造传播行为与说服效果，包括健康传播与社交媒体中的说服。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "media affordances",
+        "persuasion",
+        "bandwagon effects",
+        "social media engagement",
+        "computer-mediated communication",
+        "health persuasion",
+        "new media effects"
+      ]
+    },
+    {
+      "name": "Kasey Windels",
+      "summary": "Studies the advertising industry, especially creativity inside agencies and practitioner perspectives on how advertising works.",
+      "summary_zh": "研究广告行业，尤其是广告公司内部的创意以及从业者对广告运作方式的看法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "advertising agencies",
+        "creativity",
+        "advertising practitioners",
+        "agency culture",
+        "public service advertisements",
+        "neoliberal discourse",
+        "industry-academia gap"
+      ]
+    },
+    {
+      "name": "Kun Xu",
+      "summary": "Studies how people perceive and interact with social robots, virtual agents and VR/AR, using lab experiments, psychophysiology and computational methods.",
+      "summary_zh": "运用实验室实验、心理生理测量和计算方法，研究人们如何感知并与社交机器人、虚拟代理及VR/AR互动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "human-robot interaction",
+        "social robots",
+        "virtual agents",
+        "telepresence",
+        "virtual reality",
+        "augmented reality",
+        "psychophysiology",
+        "computer-mediated communication"
+      ]
+    }
+  ]
 }

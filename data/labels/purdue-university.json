@@ -1,0 +1,1443 @@
+{
+  "slug": "purdue-university",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Josh Boyd",
+      "summary": "Studies sports communication, sponsorship and naming, corporate advocacy, and organizational rhetoric, with attention to legitimacy, trust, and communication pedagogy.",
+      "summary_zh": "研究体育传播、赞助与冠名、企业倡导与组织修辞，关注合法性、信任与传播教学。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "sports communication",
+        "sponsorship",
+        "naming rights",
+        "organizational rhetoric",
+        "corporate advocacy",
+        "issue management",
+        "legitimacy",
+        "communication pedagogy"
+      ]
+    },
+    {
+      "name": "Robert X. Browning",
+      "summary": "Studies congressional floor behavior and the intersection of media and politics using the C-SPAN video archives of televised U.S. congressional proceedings.",
+      "summary_zh": "利用C-SPAN电视转播国会影像档案，研究美国国会议场行为以及媒体与政治的交叉问题。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "c-span archives",
+        "u.s. congress",
+        "congressional floor behavior",
+        "media and politics",
+        "televised congress",
+        "video archives",
+        "public affairs"
+      ]
+    },
+    {
+      "name": "Emily Buehler",
+      "summary": "Studies how personal and social media shape supportive communication in interpersonal relationships and the mechanisms driving outcomes of mediated support.",
+      "summary_zh": "研究个人媒体与社交媒体如何影响人际关系中的支持性传播，以及技术中介互动产生效果的机制。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "supportive communication",
+        "social support",
+        "computer-mediated communication",
+        "interpersonal relationships",
+        "online support",
+        "close relationships",
+        "social media"
+      ]
+    },
+    {
+      "name": "Gabrielle Byrd",
+      "summary": "Studies how societal norms and stereotypes about (dis)ability and identity shape intergroup and interpersonal communication and their links to health outcomes.",
+      "summary_zh": "研究社会规范与刻板印象如何围绕残障与身份影响群际与人际传播，以及这些过程与健康结果的关系。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "intergroup communication",
+        "disability",
+        "stigma communication",
+        "identity",
+        "stereotypes",
+        "health outcomes",
+        "social norms"
+      ]
+    },
+    {
+      "name": "Hyesun Choung",
+      "summary": "Studies the lay psychology of AI: how people make sense of, trust, and judge the fairness and morality of AI systems and algorithmic decision-making.",
+      "summary_zh": "研究人们对人工智能的常识心理：人们如何理解、信任AI系统，并评判其与算法决策的公平性与道德性。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "lay psychology of ai",
+        "trust in ai",
+        "algorithmic fairness",
+        "generative ai",
+        "human-ai collaboration",
+        "ai ethics",
+        "algorithmic decision-making"
+      ]
+    },
+    {
+      "name": "Jessica R. Collier",
+      "summary": "Studies how social media exposure to fact checks, misinformation, and political memes affects belief accuracy, polarization, and unfriending, using experiments and surveys.",
+      "summary_zh": "运用实验与调查方法，研究社交媒体上的事实核查、虚假信息与政治表情包如何影响信念准确性、极化与拉黑/删好友行为。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "misinformation",
+        "fact-checking",
+        "political polarization",
+        "political memes",
+        "unfriending",
+        "local news",
+        "social media news",
+        "survey experiments"
+      ]
+    },
+    {
+      "name": "Stacey Connaughton",
+      "summary": "Studies leadership, identification, and distributed organizing in peacebuilding and political violence prevention, linking engaged scholarship to policy.",
+      "summary_zh": "研究和平建设与政治暴力预防中的领导力、认同与分布式组织形式，并将参与式学术研究与政策相连接。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_AFRICA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "leadership",
+        "identification",
+        "peacebuilding",
+        "political violence prevention",
+        "distributed organizing",
+        "engaged scholarship",
+        "development"
+      ]
+    },
+    {
+      "name": "Jeremy Foote",
+      "summary": "Studies how online communities function as organizations and shape collective belief, using large-scale data analysis, simulation, and social network analysis.",
+      "summary_zh": "运用大规模数据分析、仿真模拟与社会网络分析，研究网络社群如何作为组织运作并影响集体信念形成。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ADMIN_LARGE_SCALE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "online communities",
+        "computational social science",
+        "simulation",
+        "collective behavior",
+        "social network analysis",
+        "online organizations",
+        "collective belief formation",
+        "cooperation"
+      ]
+    },
+    {
+      "name": "John O. Greene",
+      "summary": "Develops cognitive theories of message production, communication skill, and nonverbal behavior, including how aging affects communication.",
+      "summary_zh": "从认知取向建构讯息生成、传播技能与非语言行为的理论，并研究衰老如何影响传播行为。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "message production",
+        "action assembly theory",
+        "nonverbal communication",
+        "communication skill",
+        "aging",
+        "cognitive processes",
+        "interpersonal connection"
+      ]
+    },
+    {
+      "name": "Chantel Haughton",
+      "summary": "Studies how compounding stressors affect Black and Latinx families and the family communication that helps or hurts mental and relational health, using mixed methods.",
+      "summary_zh": "运用混合方法，研究叠加压力如何影响黑人与拉丁裔家庭，以及有助或有损心理与关系健康的家庭传播过程。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "family communication",
+        "compounding stressors",
+        "black and latinx families",
+        "mental health communication",
+        "social support",
+        "racial stigma",
+        "resilience",
+        "family conflict"
+      ]
+    },
+    {
+      "name": "Jennifer Hoewe",
+      "summary": "Studies why people consume media, how they cognitively process it, and its effects, particularly news and political content, from a media psychology perspective.",
+      "summary_zh": "从媒介心理学视角，研究人们为何消费媒介内容、如何认知加工这些内容及其效果，尤其聚焦新闻与政治内容。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "political communication",
+        "media psychology",
+        "media effects",
+        "news consumption",
+        "cognitive processing",
+        "news enjoyment",
+        "media selection"
+      ]
+    },
+    {
+      "name": "Ilwoo Ju",
+      "summary": "Studies how consumers cope with persuasion in AI-driven advertising, dark patterns in data consent, health messaging, and advertising and privacy regulation.",
+      "summary_zh": "研究消费者如何应对说服尝试，涉及AI驱动广告、数据同意中的暗黑模式、健康讯息以及广告与隐私规制。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "persuasion coping",
+        "ai advertising",
+        "dark patterns",
+        "data privacy",
+        "online consent",
+        "targeted advertising",
+        "advertising regulation",
+        "ai-generated health information",
+        "branding"
+      ]
+    },
+    {
+      "name": "Seungyoon Lee",
+      "summary": "Studies how communication and collaboration networks in and across organizations evolve, including network ties in disaster recovery, using social network analysis.",
+      "summary_zh": "运用社会网络分析，研究组织内外的传播、知识与协作网络如何演化，包括灾后恢复中的网络关系。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_NETWORK",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "social network analysis",
+        "multiplex networks",
+        "network evolution",
+        "disaster recovery",
+        "disaster resilience",
+        "organizational networks",
+        "social capital",
+        "project teams"
+      ]
+    },
+    {
+      "name": "Sue Lim",
+      "summary": "Studies interpersonal dynamics of human-AI interaction in extended reality and designs XR/AI interventions, combining physiological, computational, and interview methods.",
+      "summary_zh": "结合生理测量、计算方法与访谈等手段，研究扩展现实中人机互动的人际动态，并设计基于XR与AI的干预。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "human-ai interaction",
+        "extended reality",
+        "dyadic interaction",
+        "group dynamics",
+        "decision making",
+        "physiological measures",
+        "technology-based interventions"
+      ]
+    },
+    {
+      "name": "Sorin Adam Matei",
+      "summary": "Studies human interaction with digital and AI technologies, international communication, and the role of emerging technologies in strategy, security, and defense.",
+      "summary_zh": "研究人与数字及AI技术的互动、国际传播，以及新兴技术在战略、安全与国防中的作用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "ai ethics",
+        "human-technology interaction",
+        "international communication",
+        "defense technology",
+        "security studies",
+        "disinformation",
+        "online collaboration",
+        "data storytelling",
+        "computational social science"
+      ]
+    },
+    {
+      "name": "Marifran Mattson",
+      "summary": "Designs, implements, and evaluates health communication campaigns and health advocacy initiatives, integrating engaged scholarship and service-learning pedagogy.",
+      "summary_zh": "设计、实施并评估健康传播运动与健康倡导项目，并融合参与式学术与服务学习教学法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health campaigns",
+        "health advocacy",
+        "service-learning",
+        "motorcycle safety",
+        "harm reduction",
+        "scholarship of engagement",
+        "campaign evaluation"
+      ]
+    },
+    {
+      "name": "Evan Perrault",
+      "summary": "Studies health campaign message design and healthcare marketing, such as physician biography videos, and evaluates campus interventions using mixed methods.",
+      "summary_zh": "运用混合方法，研究健康运动讯息设计与医疗营销（如医生简介视频），并评估校园干预项目的效果。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "physician biographies",
+        "healthcare marketing",
+        "health campaign message design",
+        "program evaluation",
+        "patient uncertainty",
+        "mental health help seeking",
+        "translational research"
+      ]
+    },
+    {
+      "name": "Torsten Reimer",
+      "summary": "Studies the interplay of communication and decision making with AI, including LLM-agent and human-agent teams, using experiments and agent-based simulations.",
+      "summary_zh": "运用实验与基于主体的仿真，研究传播与决策在AI情境中的相互作用，包括大语言模型智能体团队与人机混合团队。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "decision making",
+        "llm agents",
+        "human-agent teams",
+        "group decision making",
+        "cognitive models",
+        "agent-based simulation",
+        "social influence",
+        "risk communication"
+      ]
+    },
+    {
+      "name": "Brett Sherrick",
+      "summary": "Studies video games, entertainment media, and positive media psychology, along with media industries, from a social scientific perspective.",
+      "summary_zh": "从社会科学视角研究电子游戏、娱乐媒介与积极媒介心理，以及媒介产业。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "video games",
+        "positive media psychology",
+        "entertainment media",
+        "media industries",
+        "game cultures",
+        "media effects"
+      ]
+    },
+    {
+      "name": "Hwanseok Song",
+      "summary": "Studies social cognitive processes in risk and science communication, especially judgments of trust and fairness toward authorities, using experiments and surveys.",
+      "summary_zh": "运用实验与调查方法，研究风险与科学传播中的社会认知过程，尤其是公众对权威机构的信任与公平判断。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "risk communication",
+        "trust in science",
+        "credibility",
+        "fairness judgments",
+        "moral framing",
+        "ingroup source effects",
+        "compliance",
+        "social cognition"
+      ]
+    },
+    {
+      "name": "Diana Zulli",
+      "summary": "Studies how political elites communicate strategically online and offline, how news portrays them, and how digital technology shapes political processes and scandal.",
+      "summary_zh": "研究政治精英如何在线上线下进行策略性传播、新闻如何呈现他们，以及数字技术如何影响政治过程与丑闻。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "political scandal",
+        "crisis communication",
+        "strategic political communication",
+        "social media",
+        "political elites",
+        "news coverage",
+        "communication theory",
+        "political rhetoric"
+      ]
+    }
+  ]
+}

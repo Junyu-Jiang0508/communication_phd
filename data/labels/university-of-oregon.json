@@ -1,0 +1,2272 @@
+{
+ "slug": "university-of-oregon",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "Jesse Abdenour",
+   "summary": "Studies investigative news quality, ownership, and audience trust in local TV news using content analysis, experiments, and surveys.",
+   "summary_zh": "通过内容分析、实验和调查研究美国地方电视调查报道的新闻质量、所有权结构与受众信任。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_SURVEY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "investigative journalism",
+    "news quality",
+    "local television news",
+    "audience trust",
+    "media ownership",
+    "documentary film",
+    "copyright fair use",
+    "mass shootings coverage"
+   ]
+  },
+  {
+   "name": "Jakki Bailey",
+   "summary": "Studies how immersive virtual reality and interactive technology shape children's cognition, social responses, and connection in remote learning.",
+   "summary_zh": "研究沉浸式虚拟现实与交互技术如何影响儿童的认知、社会反应以及远程学习中的社会联结。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "virtual reality",
+    "immersive media",
+    "children",
+    "social vr",
+    "cognitive development",
+    "remote learning",
+    "interactive technology"
+   ]
+  },
+  {
+   "name": "Thomas Bivins",
+   "summary": "Studies mass media ethics, especially public relations ethics, alongside communication history.",
+   "summary_zh": "研究大众媒介伦理，尤其是公共关系伦理，并关注传播史。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "media ethics",
+    "public relations ethics",
+    "communication ethics",
+    "communication history",
+    "advertising ethics"
+   ]
+  },
+  {
+   "name": "Christopher Chávez",
+   "summary": "Studies how global media and advertising industries construct Latinx identity and audiences, using critical cultural analysis of industry practices.",
+   "summary_zh": "以批判文化分析考察全球媒体与广告产业如何建构拉丁裔身份与受众，以及边缘群体在市场中的赋权。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_LATIN_AMERICA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "latinx media",
+    "advertising",
+    "npr",
+    "latino television audiences",
+    "language ideology",
+    "globalization",
+    "cuban authenticity",
+    "cultural intermediaries"
+   ]
+  },
+  {
+   "name": "Alex Segrè Cohen",
+   "summary": "Studies how people perceive and communicate about emerging environmental and health risks and how information sources shape public judgments.",
+   "summary_zh": "研究公众如何感知和沟通新兴环境与健康风险，以及信息来源如何塑造公众判断。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "risk perception",
+    "environmental risk",
+    "science communication",
+    "decision making",
+    "sustainability",
+    "climate communication",
+    "public opinion"
+   ]
+  },
+  {
+   "name": "Diego Cortés",
+   "summary": "Studies Andean indigenous media, community radio, and evangelical media practices in Colombia, Ecuador, and Bolivia through ethnography, archives, and oral history.",
+   "summary_zh": "通过民族志、档案与口述史研究哥伦比亚、厄瓜多尔和玻利维亚安第斯原住民媒体、社区广播与福音派媒体实践。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_LATIN_AMERICA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "indigenous media",
+    "community radio",
+    "andes",
+    "colombia",
+    "evangelicalism",
+    "alternative media",
+    "indigeneity",
+    "war on drugs representation"
+   ]
+  },
+  {
+   "name": "Nicole Dahmen",
+   "summary": "Studies visual journalism, media ethics, and solutions and contextual reporting from a normative perspective on public-interest journalism.",
+   "summary_zh": "从规范视角研究视觉新闻、媒介伦理以及解决方案式与语境化报道，倡导公共利益新闻。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "photojournalism",
+    "visual journalism",
+    "media ethics",
+    "solutions journalism",
+    "contextual reporting",
+    "iconic photographs"
+   ]
+  },
+  {
+   "name": "Donna Davis",
+   "summary": "Studies embodied identity and community in virtual worlds and XR, especially among people with disabilities, through ethnography; also strategic communication.",
+   "summary_zh": "通过民族志研究虚拟世界与XR中的具身身份与社群，尤其关注残障人群，同时研究战略传播。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "virtual worlds",
+    "social virtual reality",
+    "embodiment",
+    "disability",
+    "parkinson's disease",
+    "avatars",
+    "gamification",
+    "public relations and ai"
+   ]
+  },
+  {
+   "name": "Troy Elias",
+   "summary": "Studies media effects, diversity and equity in advertising, and how to communicate climate change to communities of color.",
+   "summary_zh": "研究媒介效果、广告中的多元与公平，以及如何向有色人种社群传播气候变化。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "advertising",
+    "climate change attitudes",
+    "communities of color",
+    "race and ethnicity",
+    "media effects",
+    "diversity and equity"
+   ]
+  },
+  {
+   "name": "Maxwell Foxman",
+   "summary": "Studies games and play in non-game contexts, including game journalism, esports, and immersive XR media, and their media professions.",
+   "summary_zh": "研究游戏与玩在非游戏情境中的作用，包括游戏新闻、电子竞技、沉浸式XR媒体及相关媒介职业。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "game studies",
+    "game journalism",
+    "esports",
+    "virtual reality",
+    "augmented reality",
+    "gamification",
+    "metaverse",
+    "collegiate esports"
+   ]
+  },
+  {
+   "name": "Saima Kazmi",
+   "summary": "Studies consumer psychology in green advertising and how organizations communicate sustainability initiatives and climate activism.",
+   "summary_zh": "研究绿色广告中的消费者心理，以及组织如何传播其可持续发展举措与气候行动。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "green advertising",
+    "consumer psychology",
+    "sustainability communication",
+    "persuasion",
+    "climate activism",
+    "socially responsible advertising"
+   ]
+  },
+  {
+   "name": "Peter Laufer",
+   "summary": "Writes book-length narrative journalism on borders, migration, identity, and animal rights, and studies talk radio and conflict-sensitive reporting.",
+   "summary_zh": "以长篇叙事新闻书写边界、移民、身份与动物权利，并研究谈话广播与冲突敏感报道。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "narrative journalism",
+    "borders",
+    "migration",
+    "talk radio",
+    "conflict-sensitive reporting",
+    "slow news",
+    "interviewing",
+    "animal rights"
+   ]
+  },
+  {
+   "name": "Regina Lawrence",
+   "summary": "Studies media coverage of politics and policy, gender and campaign social media strategies, and engaged journalism in newsrooms.",
+   "summary_zh": "研究政治与政策的媒体报道、性别与竞选社交媒体策略，以及新闻编辑室中的参与式新闻。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "political communication",
+    "women and politics",
+    "campaign social media",
+    "game framing",
+    "engaged journalism",
+    "civic engagement",
+    "hillary clinton",
+    "when the press fails"
+   ]
+  },
+  {
+   "name": "Hayoung Sally Lim",
+   "summary": "Studies AI in advertising, brand crisis communication, and corporate social advocacy, including social media content analysis of consumer reactions.",
+   "summary_zh": "研究广告中的人工智能、品牌危机传播与企业社会倡导，包括对消费者反应的社交媒体内容分析。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "ai in advertising",
+    "brand crisis communication",
+    "corporate social responsibility",
+    "brand activism",
+    "virtual influencers",
+    "green marketing",
+    "ai fact-checking"
+   ]
+  },
+  {
+   "name": "Ed Madison",
+   "summary": "Studies how journalistic, project-based storytelling methods improve student achievement in K-12 education, especially for underserved youth.",
+   "summary_zh": "研究新闻式、项目制叙事学习方法如何提升K-12学生（尤其是弱势青少年）的学业表现。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "journalistic learning",
+    "k-12 education",
+    "underserved youth",
+    "storytelling",
+    "media entrepreneurship",
+    "digital publishing"
+   ]
+  },
+  {
+   "name": "Gabriela Martínez",
+   "summary": "Studies the political economy of media and telecom in Latin America, media and human rights, and social movements, alongside ethnographic documentary filmmaking.",
+   "summary_zh": "研究拉丁美洲媒体与电信的政治经济学、媒体与人权及社会运动，并从事民族志纪录片创作。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_LATIN_AMERICA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "political economy of communication",
+    "documentary film",
+    "latin america",
+    "telecommunications",
+    "media ownership",
+    "human rights",
+    "peru",
+    "latino roots in oregon"
+   ]
+  },
+  {
+   "name": "Nikki McClaran",
+   "summary": "Studies cognitive and social determinants of health behavior and how to design persuasive mediated health messages using theory-driven message research.",
+   "summary_zh": "研究健康行为的认知与社会决定因素，以及如何以理论为基础设计具有说服力的媒介健康信息。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "health communication",
+    "persuasion",
+    "social norms",
+    "message design",
+    "vaccination",
+    "health disparities",
+    "alcohol consumption"
+   ]
+  },
+  {
+   "name": "Karen McIntyre",
+   "summary": "Studies the processes and effects of solutions and constructive journalism, and press freedom in East Africa through fieldwork with journalists.",
+   "summary_zh": "研究解决方案新闻与建设性新闻的过程与效果，并通过对记者的田野调查研究东非的新闻自由。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_AFRICA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "constructive journalism",
+    "solutions journalism",
+    "press freedom",
+    "rwanda",
+    "east africa",
+    "journalistic roles",
+    "journalism education"
+   ]
+  },
+  {
+   "name": "Dan Miller",
+   "summary": "Studies the history of documentary film and photojournalism about war and conflict through archival research and filmmaking.",
+   "summary_zh": "通过档案研究与纪录片创作研究关于战争与冲突的纪录片和新闻摄影史。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "documentary film history",
+    "war documentary",
+    "photojournalism",
+    "film and memory",
+    "vietnam war",
+    "documentary production"
+   ]
+  },
+  {
+   "name": "Deb Morrison",
+   "summary": "Studies advertising creativity and the creative process and how brand messaging can drive social change and climate action.",
+   "summary_zh": "研究广告创意与创作过程，以及品牌传播如何推动社会变革与气候行动。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "advertising creativity",
+    "creative process",
+    "brand development",
+    "climate communication",
+    "brand responsibility",
+    "advertising education"
+   ]
+  },
+  {
+   "name": "Bryce Newell",
+   "summary": "Studies surveillance, privacy, policing, and the regulation of information technologies through socio-legal research such as on police body-worn cameras.",
+   "summary_zh": "以社会-法律研究方法探讨监控、隐私、警务与信息技术规制，如警用随身摄像头。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "surveillance studies",
+    "privacy",
+    "body-worn cameras",
+    "policing",
+    "information law",
+    "data protection",
+    "immigration",
+    "freedom of expression"
+   ]
+  },
+  {
+   "name": "Julianne Newton",
+   "summary": "Studies visual communication and photojournalism by applying ethics and cognitive theory to visual behavior.",
+   "summary_zh": "将伦理学与认知理论应用于视觉行为，研究视觉传播与新闻摄影。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "visual communication",
+    "visual ethics",
+    "photojournalism",
+    "visual behavior",
+    "cognitive theory",
+    "media ecology"
+   ]
+  },
+  {
+   "name": "S. Senyo Ofori-Parku",
+   "summary": "Studies environmental health risk sense-making, corporate sustainability discourse, and green consumer behavior using discourse analysis, in national and international contexts.",
+   "summary_zh": "运用话语分析研究环境健康风险的意义建构、企业可持续发展话语与绿色消费行为，涵盖国内与国际情境。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     },
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "environmental health risk",
+    "corporate sustainability",
+    "green consumers",
+    "discursive psychology",
+    "organic food",
+    "csr",
+    "tullow oil"
+   ]
+  },
+  {
+   "name": "Ellen Peters",
+   "summary": "Studies judgment and decision making, numeracy, and affect, and how evidence-based communication can improve health, financial, and environmental decisions.",
+   "summary_zh": "研究判断与决策、数字素养与情感，以及基于证据的传播如何改善健康、财务与环境决策。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "numeracy",
+    "judgment and decision making",
+    "risk perception",
+    "science of science communication",
+    "affect",
+    "adult aging",
+    "cancer screening",
+    "patient decisions"
+   ]
+  },
+  {
+   "name": "Whitney Phillips",
+   "summary": "Studies the politics and ethics of information, conspiracy belief, and the 'liberal devil' in US religious media using participant observation and rhetorical analysis.",
+   "summary_zh": "通过参与观察与修辞分析研究信息的政治与伦理、阴谋论信念以及美国宗教媒体中的“自由派魔鬼”叙事。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_RHETORIC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "conspiracy theories",
+    "media ethics",
+    "rightwing media",
+    "religion and politics",
+    "folklore",
+    "moral panics",
+    "information ecology",
+    "true crime"
+   ]
+  },
+  {
+   "name": "Daniel Pimentel",
+   "summary": "Conducts experiments on how XR storytelling (VR, AR, MR) drives prosocial attitudes and behavior for climate action, conservation, and well-being.",
+   "summary_zh": "通过实验研究XR叙事（VR、AR、MR）如何促进与气候行动、野生动物保护和身心健康相关的亲社会态度与行为。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "virtual reality",
+    "augmented reality",
+    "immersive storytelling",
+    "prosocial behavior",
+    "wildlife conservation",
+    "climate action",
+    "xr prototypes"
+   ]
+  },
+  {
+   "name": "Donnalyn Pompper",
+   "summary": "Studies public relations, corporate social responsibility, and intersecting social identities at work and in media through critical and historical approaches.",
+   "summary_zh": "以批判与历史方法研究公共关系、企业社会责任以及职场与媒介中的交叉社会身份。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "public relations",
+    "corporate social responsibility",
+    "social identity",
+    "diversity and inclusion",
+    "intersectionality",
+    "sustainability",
+    "oregon trail women"
+   ]
+  },
+  {
+   "name": "Wes Pope",
+   "summary": "Practices multimedia and cinematic photo and video journalism, including drone, 360 video, and photogrammetry storytelling.",
+   "summary_zh": "从事多媒体与电影化的图片和视频新闻实践，包括无人机、360度视频与摄影测量叙事。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "multimedia journalism",
+    "photojournalism",
+    "cinematography",
+    "drone cinematography",
+    "360 video",
+    "photogrammetry",
+    "pinhole photography"
+   ]
+  },
+  {
+   "name": "Bish Sen",
+   "summary": "Studies Indian television, popular culture, and the spread of digital culture in India within globalization and new media.",
+   "summary_zh": "在全球化与新媒体视角下研究印度电视、流行文化以及数字文化在印度的扩散。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_SOUTH_SE_ASIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "indian television",
+    "popular culture",
+    "india",
+    "globalization",
+    "digital culture",
+    "television studies"
+   ]
+  },
+  {
+   "name": "Autumn Shafer",
+   "summary": "Designs and evaluates theory-based health campaigns and studies message processing and narrative persuasion on topics like cancer screening and vaccines.",
+   "summary_zh": "设计并评估基于理论的健康传播运动，研究癌症筛查、疫苗等议题中的信息加工与叙事说服。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "health campaigns",
+    "narrative persuasion",
+    "message testing",
+    "cancer screening",
+    "vaccine misinformation",
+    "melanoma",
+    "campaign evaluation",
+    "research recruitment"
+   ]
+  },
+  {
+   "name": "Hollie Smith",
+   "summary": "Studies science and environmental communication about natural hazards and wildfire preparedness in the Pacific Northwest.",
+   "summary_zh": "研究太平洋西北地区自然灾害与野火防备相关的科学与环境传播。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "wildfire communication",
+    "natural hazards",
+    "pacific northwest",
+    "environmental communication",
+    "sustainability",
+    "stories of fire"
+   ]
+  },
+  {
+   "name": "Gretchen Soderlund",
+   "summary": "Studies journalism history, including sensationalism, scandal, and sex-trafficking coverage, and conspiracy narratives in American TV, via historical methods.",
+   "summary_zh": "运用历史方法研究新闻史，包括煽情主义、丑闻与性贩运报道，以及美国电视中的阴谋叙事。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "journalism history",
+    "sex trafficking",
+    "sensationalism",
+    "scandal",
+    "journalistic objectivity",
+    "moral reform",
+    "conspiracy narratives",
+    "feminist media history"
+   ]
+  },
+  {
+   "name": "Leslie Steeves",
+   "summary": "Studies communication for development, gender and media, and media and globalization in Africa, particularly Ghana.",
+   "summary_zh": "研究发展传播、性别与媒介，以及非洲（尤其是加纳）的媒介与全球化。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_AFRICA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "development communication",
+    "feminist media studies",
+    "africa",
+    "ghana",
+    "globalization",
+    "gender and technology",
+    "olpc"
+   ]
+  },
+  {
+   "name": "John Sutter",
+   "summary": "Studies and practices environmental and climate journalism, environmental cinema, and the history of climate storytelling through investigative and documentary work.",
+   "summary_zh": "通过调查报道与纪录片创作研究并实践环境与气候新闻、环境电影及气候叙事史。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "climate journalism",
+    "environmental media",
+    "climate storytelling",
+    "documentary film",
+    "investigative reporting",
+    "science communication"
+   ]
+  },
+  {
+   "name": "Brent Walth",
+   "summary": "Practices and teaches investigative, data, and solutions journalism, with long-form reporting on Oregon politics and government.",
+   "summary_zh": "从事并教授调查、数据与解决方案新闻，长期报道俄勒冈州政治与政府。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "investigative reporting",
+    "solutions journalism",
+    "data journalism",
+    "watchdog journalism",
+    "oregon",
+    "catalyst journalism project"
+   ]
+  },
+  {
+   "name": "Daniel Zweifach",
+   "summary": "Studies advertising and transmedia storytelling in film and TV, social media marketing of global entertainment franchises, fan cultures, representation, and AI.",
+   "summary_zh": "研究影视领域的广告与跨媒体叙事、全球娱乐品牌的社交媒体营销、粉丝文化、广告中的再现与企业社会责任以及人工智能对广告的影响。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "transmedia storytelling",
+    "film marketing",
+    "entertainment advertising",
+    "social media marketing",
+    "fan cultures",
+    "representation in advertising",
+    "corporate social responsibility",
+    "ai in advertising"
+   ]
+  }
+ ]
+}

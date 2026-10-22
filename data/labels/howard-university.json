@@ -1,0 +1,449 @@
+{
+  "slug": "howard-university",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Lance Yong Jin Park",
+      "summary": "Studies the social and policy implications of new information and communication technologies, including the internet's economic, political and policy dimensions.",
+      "summary_zh": "研究新兴信息传播技术的社会与政策影响，包括互联网在经济、政治与政策层面的意涵。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "new technologies",
+        "technology policy",
+        "internet and society",
+        "information communication technologies",
+        "social implications of technology",
+        "communication policy"
+      ]
+    },
+    {
+      "name": "Loren Saxton Coleman",
+      "summary": "Critically examines how Black people engage community media, social media, television and the Black press, using cultural theory to study race, spatial justice and representation.",
+      "summary_zh": "以批判视角考察黑人如何参与社区媒体、社交媒体、电视与黑人报刊，运用文化理论研究种族、空间正义与再现政治。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "black studies",
+        "black press",
+        "media representation",
+        "community media",
+        "spatial justice",
+        "racial justice",
+        "critical pedagogy",
+        "washington d.c."
+      ]
+    },
+    {
+      "name": "Gyo Hyun Koo",
+      "summary": "Studies how communication technologies, platform governance and journalistic practices shape perceptions and the spread of misinformation, using experimental and computational methods.",
+      "summary_zh": "运用实验与计算方法，研究传播技术、平台治理与新闻实践如何影响公众认知及虚假信息的传播。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "misinformation",
+        "disinformation",
+        "platform governance",
+        "content moderation",
+        "technology affordances",
+        "news literacy",
+        "public opinion",
+        "computational methods",
+        "experiments",
+        "misperception correction",
+        "journalistic practices"
+      ]
+    },
+    {
+      "name": "Chuka Onwumechili",
+      "summary": "Studies sport communication and media in Africa, especially Nigerian football, including historical media framing of race, footballer migration and women's football.",
+      "summary_zh": "研究非洲的体育传播与媒介，尤其是尼日利亚足球，包括种族议题的历史媒介框架、球员迁移与女子足球。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_AFRICA",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "sports communication",
+        "african football",
+        "nigeria",
+        "mediatization of sport",
+        "women's football",
+        "footballer migration",
+        "telecommunications",
+        "media framing"
+      ]
+    },
+    {
+      "name": "Monica Lindsey Ponder",
+      "summary": "Studies organization-level public health and crisis communication practice through womanist and radical Black feminist lenses, including arts, healing and moving images for social justice.",
+      "summary_zh": "以妇女主义与激进黑人女性主义视角研究组织层面的公共卫生与危机传播实践，并关注艺术、疗愈与影像在社会正义中的作用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public health communication",
+        "crisis communication",
+        "womanist",
+        "black feminism",
+        "health justice",
+        "arts and healing",
+        "decolonizing methodology",
+        "epidemiological history"
+      ]
+    },
+    {
+      "name": "Wei Sun",
+      "summary": "Studies intercultural, international and health communication, including Black and Asian American clinical trial hesitancy, skin-lightening health risks, stigma and misinformation.",
+      "summary_zh": "研究跨文化、国际与健康传播，包括黑人与亚裔美国人对临床试验的犹豫、美白产品的健康风险、社会污名与虚假信息。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "intercultural communication",
+        "international communication",
+        "health disparities",
+        "clinical trial hesitancy",
+        "skin-lightening products",
+        "asian american",
+        "social stigma",
+        "minority invisibility",
+        "new media",
+        "misinformation"
+      ]
+    }
+  ]
+}

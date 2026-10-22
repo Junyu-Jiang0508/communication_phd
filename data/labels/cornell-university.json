@@ -105,13 +105,6 @@
             "sources": [
               "department_profile"
             ]
-          },
-          {
-            "code": "A_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
           }
         ],
         "data": [],
@@ -438,8 +431,8 @@
     },
     {
       "name": "Susan Fussell",
-      "summary": "Studies computer-mediated communication and collaboration, including effects of culture and native language, virtual teams, and human-robot interaction, through experiments and system design.",
-      "summary_zh": "研究计算机中介传播与协作，包括文化和母语的影响、虚拟团队以及人机器人交互，采用实验与系统设计方法。",
+      "summary": "Studies computer-mediated communication and collaboration, including effects of culture and native language, virtual teams, and human-robot interaction, and builds tools such as energy-saving and telepresence systems.",
+      "summary_zh": "研究计算机中介传播与协作，包括文化和母语的影响、虚拟团队及人机（机器人）交互，并开发节能激励与远程临场机器人等工具。",
       "confidence": "high",
       "labels": {
         "topic": [
@@ -474,14 +467,6 @@
         ],
         "approach": [
           {
-            "code": "A_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "department_profile",
-              "publications"
-            ]
-          },
-          {
             "code": "A_DESIGN_BUILD",
             "primary": false,
             "sources": [
@@ -489,15 +474,7 @@
             ]
           }
         ],
-        "data": [
-          {
-            "code": "D_SURVEY_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "publications"
-            ]
-          }
-        ],
+        "data": [],
         "setting": [
           {
             "code": "SET_ORGANIZATIONS_WORKPLACES",
@@ -546,8 +523,7 @@
             "code": "T_HISTORY_THEORY",
             "primary": false,
             "sources": [
-              "department_profile",
-              "publications"
+              "department_profile"
             ]
           }
         ],
@@ -563,8 +539,7 @@
             "code": "A_HISTORICAL_ARCHIVAL",
             "primary": false,
             "sources": [
-              "department_profile",
-              "publications"
+              "department_profile"
             ]
           }
         ],
@@ -726,15 +701,7 @@
             ]
           }
         ],
-        "approach": [
-          {
-            "code": "A_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "approach": [],
         "data": [],
         "setting": [
           {
@@ -815,8 +782,7 @@
             "code": "A_COMPUTATIONAL",
             "primary": true,
             "sources": [
-              "department_profile",
-              "publications"
+              "department_profile"
             ]
           },
           {
@@ -827,17 +793,10 @@
             ]
           },
           {
-            "code": "A_NETWORK",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
             "code": "A_THEORY",
             "primary": false,
             "sources": [
-              "publications"
+              "department_profile"
             ]
           }
         ],
@@ -853,8 +812,7 @@
             "code": "D_ADMIN_LARGE_SCALE",
             "primary": false,
             "sources": [
-              "department_profile",
-              "publications"
+              "department_profile"
             ]
           }
         ],
@@ -915,15 +873,7 @@
             "code": "A_EXPERIMENT",
             "primary": true,
             "sources": [
-              "department_profile",
-              "publications"
-            ]
-          },
-          {
-            "code": "A_COMPUTATIONAL",
-            "primary": false,
-            "sources": [
-              "publications"
+              "department_profile"
             ]
           }
         ],
@@ -932,8 +882,7 @@
             "code": "D_SOCIAL_MEDIA",
             "primary": false,
             "sources": [
-              "department_profile",
-              "publications"
+              "department_profile"
             ]
           }
         ],
@@ -988,24 +937,8 @@
             ]
           }
         ],
-        "approach": [
-          {
-            "code": "A_SURVEY",
-            "primary": false,
-            "sources": [
-              "publications"
-            ]
-          }
-        ],
-        "data": [
-          {
-            "code": "D_SURVEY_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "publications"
-            ]
-          }
-        ],
+        "approach": [],
+        "data": [],
         "setting": [
           {
             "code": "SET_AUDIENCES_PUBLICS",
@@ -1217,13 +1150,6 @@
         ],
         "approach": [
           {
-            "code": "A_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
             "code": "A_CONTENT_ANALYSIS",
             "primary": false,
             "sources": [
@@ -1234,13 +1160,6 @@
         "data": [
           {
             "code": "D_NEWS_CONTENT",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
-            "code": "D_SURVEY_EXPERIMENT",
             "primary": false,
             "sources": [
               "department_profile"
@@ -1348,8 +1267,8 @@
     },
     {
       "name": "Jonathon Schuldt",
-      "summary": "Studies the social psychology of public opinion on environment, health, and US politics, examining message framing, social identity, and food labeling with surveys and experiments.",
-      "summary_zh": "研究环境、健康与美国政治议题中舆论的社会心理，考察信息框架、社会身份与食品标签，采用调查与实验。",
+      "summary": "Studies the social psychology of public opinion on environment, health, and US politics, examining message framing, social identity, and food labeling.",
+      "summary_zh": "研究环境、健康与美国政治领域舆论的社会心理机制，关注信息框架、社会身份与食品标签。",
       "confidence": "high",
       "labels": {
         "topic": [
@@ -1382,31 +1301,8 @@
             ]
           }
         ],
-        "approach": [
-          {
-            "code": "A_SURVEY",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
-            "code": "A_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
-        "data": [
-          {
-            "code": "D_SURVEY_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "approach": [],
+        "data": [],
         "setting": [
           {
             "code": "SET_AUDIENCES_PUBLICS",
@@ -1559,13 +1455,6 @@
           }
         ],
         "approach": [
-          {
-            "code": "A_QUALITATIVE",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          },
           {
             "code": "A_DESIGN_BUILD",
             "primary": false,

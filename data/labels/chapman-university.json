@@ -1,0 +1,835 @@
+{
+  "slug": "chapman-university",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Hannah Ball",
+      "summary": "Studies theory-driven health campaign messaging, psychological reactance in persuasion, and adult child-parent caregiving communication using quantitative and qualitative methods.",
+      "summary_zh": "运用定量与定性方法，研究以理论为导向的健康运动信息设计、说服中的心理抗拒，以及成年子女与年迈父母之间的照护沟通。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health campaigns",
+        "social marketing",
+        "persuasion",
+        "psychological reactance",
+        "family caregiving",
+        "vaccine confidence",
+        "prescription stimulant misuse",
+        "message design",
+        "crisis and emergency risk communication"
+      ]
+    },
+    {
+      "name": "Jennifer Bevan",
+      "summary": "Studies how people communicatively negotiate difficult relational interactions such as conflict, jealousy, caregiving, chronic illness and online surveillance, and their health correlates.",
+      "summary_zh": "研究人们如何在冲突、嫉妒、照护、慢性病和网络监视等困难关系互动中进行沟通协商，以及这些经历与身心健康的关联。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "jealousy",
+        "interpersonal conflict",
+        "family caregiving",
+        "chronic illness",
+        "online surveillance",
+        "social media",
+        "mental health",
+        "uncertainty",
+        "health information",
+        "mother-daughter relationships"
+      ]
+    },
+    {
+      "name": "Rebecca Tukachinsky Forster",
+      "summary": "Studies media psychology: how audiences choose, process and are influenced by media, including parasocial bonds with characters and celebrities, racial stereotypes, identity and media literacy.",
+      "summary_zh": "研究媒介心理学：受众如何选择、理解媒介并受其影响，包括与角色和名人的准社会关系、种族刻板印象、身份认同与媒介素养。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "media psychology",
+        "parasocial relationships",
+        "media involvement",
+        "celebrities",
+        "racial stereotypes",
+        "media literacy",
+        "persuasion",
+        "intergroup dynamics",
+        "well-being",
+        "generative ai"
+      ]
+    },
+    {
+      "name": "Mark Hopson",
+      "summary": "Studies culture, African American rhetorical traditions, social movement rhetoric and organizational diversity using rhetorical and qualitative methods such as autoethnography.",
+      "summary_zh": "运用修辞研究及自传民族志等质性方法，研究传播与文化，包括非裔美国人修辞传统、社会运动修辞、组织多元化与暴力预防传播。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "intercultural communication",
+        "african american rhetoric",
+        "social movement rhetoric",
+        "organizational diversity",
+        "violence prevention",
+        "autoethnography",
+        "grounded theory",
+        "black masculinities",
+        "phenomenology"
+      ]
+    },
+    {
+      "name": "Sophie Janicke-Bowles",
+      "summary": "Studies positive media psychology: how traditional and new media shape self-transcendent emotions, prosocial behavior, character development, well-being, spirituality and entertainment enjoyment.",
+      "summary_zh": "研究积极媒介心理学：传统与新媒体如何影响自我超越情绪、亲社会行为、品格发展、幸福感、灵性以及娱乐享受。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "positive media psychology",
+        "self-transcendent emotions",
+        "awe",
+        "elevation",
+        "well-being",
+        "spirituality",
+        "prosocial behavior",
+        "media entertainment",
+        "morality",
+        "digital flourishing"
+      ]
+    },
+    {
+      "name": "Wenshan Jia",
+      "summary": "Studies intercultural and global communication theory, especially communication between East Asia and the West, China's globalization and the Belt and Road Initiative, and peace and harmony.",
+      "summary_zh": "研究跨文化与全球传播理论，尤其关注东亚与西方之间的传播、中国特色的全球化与“一带一路”倡议，以及和平与和谐。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_CHINA",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "intercultural communication",
+        "global communication",
+        "communication theory",
+        "globalization with chinese characteristics",
+        "belt and road initiative",
+        "east-west communication",
+        "peace",
+        "harmony",
+        "intercultural dialogue"
+      ]
+    },
+    {
+      "name": "Vikki Katz",
+      "summary": "Studies how young people and parents, especially lower-income and immigrant families, navigate technology use and digital inequality, and develops civil discourse interventions for youth.",
+      "summary_zh": "研究青少年与家长（尤其是低收入和移民家庭）如何应对技术使用与数字不平等，并为青少年开发公民对话干预项目。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "digital inequality",
+        "immigrant families",
+        "parents and technology",
+        "civil discourse",
+        "free speech",
+        "antisemitism",
+        "israeli-palestinian conflict",
+        "college students",
+        "digital access"
+      ]
+    },
+    {
+      "name": "Sara LaBelle",
+      "summary": "Studies instructional and health communication, including teacher authenticity, student-to-student confirmation, faculty-student talk about mental health, and health campaigns on stimulant misuse.",
+      "summary_zh": "研究教学传播与健康传播，包括教师真实性、学生间认可、师生间关于心理健康的沟通，以及针对处方兴奋剂滥用的健康运动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "instructional communication",
+        "teacher authenticity",
+        "student-to-student confirmation",
+        "college classroom",
+        "mental health",
+        "prescription stimulant misuse",
+        "health campaigns",
+        "communication pedagogy"
+      ]
+    },
+    {
+      "name": "Gabriel Miao Li",
+      "summary": "Studies how beliefs, information and heuristics shape public attitudes toward contentious policies, and applies statistical and computational methods to misinformation correction and public opinion.",
+      "summary_zh": "研究信念、信息与启发式如何塑造公众对争议性政策的态度，并运用统计与计算方法研究虚假信息纠正效果和舆论。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public opinion",
+        "political attitudes",
+        "misinformation correction",
+        "heuristics",
+        "partisan hostility",
+        "political knowledge",
+        "computational methods",
+        "bayesian analysis",
+        "platform governance"
+      ]
+    },
+    {
+      "name": "Michelle Miller-Day",
+      "summary": "Studies the intersection of family and health communication, including mother-daughter relationships, mental health, narratives in health, and substance use prevention programs for youth.",
+      "summary_zh": "研究家庭传播与健康传播的交叉领域，包括母女关系、心理健康、健康叙事以及面向青少年的物质滥用预防项目。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "family communication",
+        "mother-daughter communication",
+        "substance use prevention",
+        "drug prevention",
+        "health narratives",
+        "translational research",
+        "family storytelling",
+        "mental health"
+      ]
+    },
+    {
+      "name": "Lisa Sparks",
+      "summary": "Studies health and risk communication, with emphasis on cancer communication, caregiving and communication in aging.",
+      "summary_zh": "研究健康与风险传播，重点关注癌症传播、照护以及老龄化过程中的传播。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health communication",
+        "cancer communication",
+        "health risk communication",
+        "aging",
+        "caregiving",
+        "older adults"
+      ]
+    },
+    {
+      "name": "Rachel Wade",
+      "summary": "Studies how strategic message design interacts with audience identity to shape persuasion, experimentally testing metacognitive and affective processes in health, politics and sustainability.",
+      "summary_zh": "研究战略信息设计如何与受众身份交互影响说服效果，通过实验检验健康、政治与可持续议题信息中的元认知与情感过程。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "strategic message design",
+        "persuasion",
+        "audience identity",
+        "processing fluency",
+        "metacognition",
+        "affect",
+        "campaigns",
+        "sustainability messaging",
+        "health information seeking"
+      ]
+    },
+    {
+      "name": "Keith Weber",
+      "summary": "Studies campaign and strategic message design, audience segmentation and social movement campaigns, with expertise in research methodology and statistics.",
+      "summary_zh": "研究传播运动与战略信息设计、受众细分以及社会运动传播运动，专长于研究方法与统计。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "campaign design",
+        "strategic message design",
+        "audience segmentation",
+        "social movement campaigns",
+        "research methodology",
+        "statistics",
+        "psychological reactance",
+        "environmental messaging"
+      ]
+    }
+  ]
+}

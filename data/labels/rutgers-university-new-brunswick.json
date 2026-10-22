@@ -4,8 +4,8 @@
  "faculty": [
   {
    "name": "Mark Aakhus",
-   "summary": "Studies argumentation and communication design in organizational and digital decision-making using discourse analysis, digital ethnography, and computational methods.",
-   "summary_zh": "运用话语分析、数字民族志与计算方法，研究组织与数字环境中决策过程里的论辩与传播设计。",
+   "summary": "Studies argumentation and communication design in digital society, including AI and accountable algorithmic systems, using discourse analysis, digital ethnography, and computational methods.",
+   "summary_zh": "运用话语分析、数字民族志与计算方法，研究数字社会中的论辩与传播设计，包括人工智能与可问责的算法系统。",
    "confidence": "high",
    "labels": {
     "topic": [
@@ -31,7 +31,7 @@
       ]
      },
      {
-      "code": "T_HCI_CMC",
+      "code": "T_PLATFORMS_AI",
       "primary": false,
       "sources": [
        "department_profile"
@@ -107,10 +107,10 @@
     "communication design",
     "discourse analysis",
     "digital ethnography",
-    "decision-making",
-    "conflict management",
-    "information infrastructures",
-    "mobile communication"
+    "artificial intelligence",
+    "algorithmic accountability",
+    "contestability by design",
+    "decision-making"
    ]
   },
   {
@@ -368,7 +368,7 @@
       ]
      },
      {
-      "code": "A_EXPERIMENT",
+      "code": "A_MIXED",
       "primary": false,
       "sources": [
        "department_profile"
@@ -428,6 +428,13 @@
      },
      {
       "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
       "primary": false,
       "sources": [
        "department_profile"
@@ -501,15 +508,7 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "approach": [],
     "data": [],
     "setting": [
      {
@@ -605,13 +604,6 @@
       "sources": [
        "department_profile"
       ]
-     },
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
      }
     ],
     "setting": [
@@ -701,6 +693,13 @@
       "sources": [
        "department_profile"
       ]
+     },
+     {
+      "code": "A_MIXED",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
      }
     ],
     "data": [],
@@ -735,8 +734,8 @@
   },
   {
    "name": "Jianing Li",
-   "summary": "Studies how people seek, evaluate, and discuss information in digital media, focusing on credibility, misinformation, and media literacy, using computational and survey methods.",
-   "summary_zh": "运用计算与定量方法，研究人们在数字媒体中如何寻求、评估和讨论信息，关注可信度、虚假信息与媒介素养。",
+   "summary": "Studies how people seek, evaluate, and discuss information in digital media, focusing on credibility, misinformation, and media literacy, using computational, quantitative, and mixed methods.",
+   "summary_zh": "运用计算、定量与混合方法，研究人们在数字媒体中如何寻求、评估和讨论信息，关注可信度、虚假信息与媒介素养。",
    "confidence": "high",
    "labels": {
     "topic": [
@@ -778,13 +777,6 @@
       ]
      },
      {
-      "code": "A_SURVEY",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
       "code": "A_MIXED",
       "primary": false,
       "sources": [
@@ -792,22 +784,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_AUDIENCES_PUBLICS",
@@ -864,26 +841,17 @@
       "sources": [
        "department_profile"
       ]
-     }
-    ],
-    "approach": [
+     },
      {
-      "code": "A_QUALITATIVE",
+      "code": "T_STRATEGIC_PR_AD",
       "primary": false,
       "sources": [
        "department_profile"
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_INTERVIEWS_FIELD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "approach": [],
+    "data": [],
     "setting": [
      {
       "code": "SET_HEALTH_SYSTEMS",
@@ -1140,15 +1108,7 @@
       ]
      }
     ],
-    "region": [
-     {
-      "code": "R_US",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
+    "region": []
    },
    "keywords": [
     "misinformation exposure",
@@ -1206,15 +1166,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_SOCIAL_MEDIA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_MARGINALIZED_COMMUNITIES",
@@ -1311,15 +1263,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_INTERVIEWS_FIELD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_FAMILIES_RELATIONSHIPS",
@@ -1468,13 +1412,6 @@
     ],
     "approach": [
      {
-      "code": "A_SURVEY",
-      "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
       "code": "A_THEORY",
       "primary": true,
       "sources": [
@@ -1482,15 +1419,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_FAMILIES_RELATIONSHIPS",
@@ -1721,6 +1650,13 @@
      },
      {
       "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
       "primary": false,
       "sources": [
        "department_profile"
@@ -2026,24 +1962,8 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_CONTENT_ANALYSIS",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_NEWS_CONTENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "approach": [],
+    "data": [],
     "setting": [
      {
       "code": "SET_AUDIENCES_PUBLICS",
@@ -2088,6 +2008,13 @@
      },
      {
       "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
       "primary": false,
       "sources": [
        "department_profile"
@@ -2263,13 +2190,6 @@
     "approach": [
      {
       "code": "A_DESIGN_BUILD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_EXPERIMENT",
       "primary": false,
       "sources": [
        "department_profile"
@@ -2477,6 +2397,13 @@
       "sources": [
        "department_profile"
       ]
+     },
+     {
+      "code": "R_EAST_ASIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
      }
     ]
    },
@@ -2584,6 +2511,13 @@
       "sources": [
        "department_profile"
       ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
      }
     ],
     "approach": [
@@ -2667,15 +2601,7 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "approach": [],
     "data": [],
     "setting": [
      {

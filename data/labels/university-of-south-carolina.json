@@ -1,0 +1,2224 @@
+{
+  "slug": "university-of-south-carolina",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Shannon A. Bowen",
+      "summary": "Studies ethics in public relations and strategic communication, including AI ethics, issues management, internal communication, and emergency management.",
+      "summary_zh": "研究公共关系与战略传播中的伦理问题，涵盖人工智能伦理、议题管理、内部传播与应急管理。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public relations ethics",
+        "applied ethics",
+        "ai ethics",
+        "issues management",
+        "internal communication",
+        "emergency and disaster management",
+        "kantian ethics",
+        "ethical decision making",
+        "strategic communication"
+      ]
+    },
+    {
+      "name": "Kenneth Campbell",
+      "summary": "Studies First Amendment legal history, news coverage of lynchings, and representations of African Americans in media using framing, collective memory, and cultivation analysis.",
+      "summary_zh": "运用框架、集体记忆与涵化分析，研究第一修正案法律史、私刑的新闻报道以及媒介中的非裔美国人再现。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "first amendment",
+        "legal history",
+        "lynching coverage",
+        "african american representation",
+        "collective memory",
+        "framing",
+        "cultivation analysis",
+        "black columnists"
+      ]
+    },
+    {
+      "name": "Karikarn Chansiri",
+      "summary": "Studies human-AI interaction and designs adaptive, context-aware intelligent systems, combining computational methods, behavioral experiments, and human-centered design.",
+      "summary_zh": "研究人机（AI）交互，结合计算方法、行为实验与以人为本的设计，开发能适应情境的智能系统。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "human-ai interaction",
+        "embodied ai",
+        "context-aware systems",
+        "adaptive intelligent systems",
+        "multimodal interaction",
+        "human-centered design",
+        "computational methods",
+        "well-being"
+      ]
+    },
+    {
+      "name": "Candice L. Edrington",
+      "summary": "Studies how social movements such as Black Lives Matter use visual and textual messaging on social media to mobilize, through a public relations lens.",
+      "summary_zh": "从公共关系视角研究“黑人的命也是命”等社会运动如何在社交媒体上运用视觉与文本信息进行动员。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "social movements",
+        "black lives matter",
+        "visual rhetoric",
+        "activism and advocacy",
+        "public relations",
+        "twitter",
+        "race",
+        "sharethemicnow"
+      ]
+    },
+    {
+      "name": "Jabari Miles Evans",
+      "summary": "Studies how urban youth of color use social media, hip-hop, and creator culture for self-expression, identity, and learning.",
+      "summary_zh": "研究城市有色人种青年如何借助社交媒体、嘻哈与创作者文化进行自我表达、身份建构与学习。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "race and media",
+        "hip-hop based education",
+        "drill rap",
+        "creator culture",
+        "connected learning",
+        "urban youth",
+        "chicago",
+        "self-expression on social media"
+      ]
+    },
+    {
+      "name": "Mary Anne Fitzpatrick",
+      "summary": "Studies family and marital communication from a social-psychological perspective, with additional work in text and discourse studies.",
+      "summary_zh": "从社会心理学视角研究家庭与婚姻传播，并涉及文本与话语研究。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "family communication",
+        "marital communication",
+        "social psychology",
+        "text and discourse studies",
+        "relationships"
+      ]
+    },
+    {
+      "name": "Sabrina Habib",
+      "summary": "Studies how technology, especially AI, shapes the creative process and the teaching of creativity in advertising and communication education.",
+      "summary_zh": "研究技术（尤其是人工智能）如何影响广告与传播教育中的创意过程及创造力教学。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "creativity",
+        "creative process",
+        "teaching creativity",
+        "generative ai",
+        "advertising creative",
+        "creative confidence",
+        "ai in education"
+      ]
+    },
+    {
+      "name": "Delaney Harness",
+      "summary": "Studies how organizational communication, data, and regulation shape environmental accountability and risk, including PFAS water quality, sustainability reporting, and carbon markets.",
+      "summary_zh": "研究组织传播、数据与监管如何塑造环境问责与风险，涉及PFAS水质、可持续发展报告与碳市场。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "environmental accountability",
+        "pfas",
+        "water quality",
+        "sustainability reporting",
+        "carbon markets",
+        "un global compact",
+        "blockchain",
+        "transparency",
+        "environmental governance"
+      ]
+    },
+    {
+      "name": "Haley R. Hatfield",
+      "summary": "Designs immersive virtual environments with communities to support education, youth engagement, and public understanding of environmental health.",
+      "summary_zh": "与社区合作设计沉浸式虚拟环境，以促进教育、青少年参与及公众对环境健康的理解。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "virtual environments",
+        "immersive media design",
+        "virtual reality",
+        "youth engagement",
+        "environmental health",
+        "community-based participatory research",
+        "children's environmental health"
+      ]
+    },
+    {
+      "name": "Jameson L. Hayes",
+      "summary": "Studies consumer-brand relationships and consumer engagement in advertising and social media, using data science.",
+      "summary_zh": "运用数据科学，研究广告和社交媒体中的消费者—品牌关系与消费者参与。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "consumer-brand relationships",
+        "consumer engagement",
+        "advertising",
+        "data science",
+        "social media insights",
+        "personalized advertising",
+        "privacy calculus"
+      ]
+    },
+    {
+      "name": "Kevin Hull",
+      "summary": "Studies local sports broadcasters in the United States, including career challenges, race and gender, and sports communication education, mainly through surveys.",
+      "summary_zh": "主要通过调查研究美国地方体育播报员的职业挑战、种族与性别问题，以及体育传播教育。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "sports media",
+        "local sports broadcasters",
+        "sportscasting",
+        "race and gender",
+        "sport communication education",
+        "twitter",
+        "women's sports coverage"
+      ]
+    },
+    {
+      "name": "Darin Johnson",
+      "summary": "Studies code switching and self-presentation across social, cultural, and organizational contexts under stigma, drawing on communication neuroscience.",
+      "summary_zh": "借助传播神经科学，研究人们在污名之下于社会、文化与组织情境中的语码转换与自我呈现。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "code switching",
+        "self-presentation",
+        "authenticity",
+        "stigma",
+        "discrimination",
+        "organizational culture",
+        "communication neuroscience"
+      ]
+    },
+    {
+      "name": "Jungmi Jun",
+      "summary": "Studies cancer and tobacco control communication, health information disparities, and minorities' coping with racism, including analysis of social media discourse.",
+      "summary_zh": "研究癌症与控烟传播、健康信息差异以及少数族裔对种族主义的传播性应对，并分析社交媒体讨论。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "health communication",
+        "tobacco control",
+        "cancer communication",
+        "tobacco regulatory science",
+        "health disparities",
+        "racism coping",
+        "risk perception",
+        "fda claims"
+      ]
+    },
+    {
+      "name": "Sei-Hill Kim",
+      "summary": "Studies how social issues in health, science, and politics are presented in the news and how that coverage affects audiences, using content analysis.",
+      "summary_zh": "运用内容分析，研究健康、科学与政治等社会议题如何在新闻中呈现及其对受众的影响。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_EAST_ASIA",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "media effects",
+        "news framing",
+        "tobacco news coverage",
+        "heated tobacco products",
+        "third-person effect",
+        "risk perception",
+        "south korea",
+        "science communication"
+      ]
+    },
+    {
+      "name": "Andrea Tanner Kornegay",
+      "summary": "Studies how practitioners develop health messages and how audiences access and comprehend health information across media, using quantitative and qualitative methods.",
+      "summary_zh": "运用定量与定性方法，研究传播从业者如何制作健康信息，以及受众如何在不同媒介中获取和理解健康内容。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health communication",
+        "health message development",
+        "audience comprehension",
+        "health information",
+        "physical activity communication",
+        "journalism education"
+      ]
+    },
+    {
+      "name": "Van Kornegay",
+      "summary": "Studies visual communication and international journalism through photojournalism, graphics, and photo essays.",
+      "summary_zh": "通过新闻摄影、图形与图片故事研究视觉传播和国际新闻。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "visual communications",
+        "international journalism",
+        "photojournalism",
+        "photo essays",
+        "press freedom",
+        "news graphics"
+      ]
+    },
+    {
+      "name": "Tong Lin",
+      "summary": "Develops and tests tobacco and cancer prevention messages for youth and young adults, using online and lab experiments, ecological momentary assessment, and surveys.",
+      "summary_zh": "运用线上与实验室实验、生态瞬时评估及调查，开发并检验面向青少年与年轻成人的烟草与癌症预防信息。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "tobacco regulatory science",
+        "message design",
+        "behavioral interventions",
+        "ecological momentary assessment",
+        "youth tobacco prevention",
+        "trust in health information",
+        "moral appeals",
+        "tobacco 21"
+      ]
+    },
+    {
+      "name": "Jacob Long",
+      "summary": "Studies how media use and social relationships stabilize or change partisan and political identities, using longitudinal surveys and quantitative methods, and builds R packages.",
+      "summary_zh": "运用纵向调查与定量方法研究媒介使用与社会关系如何维持或改变党派与政治身份，并开发R统计软件包。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "political communication",
+        "partisanship",
+        "social identity",
+        "quantitative methodology",
+        "r packages",
+        "longitudinal mediation",
+        "political comedy",
+        "replicability"
+      ]
+    },
+    {
+      "name": "Denise Ann McGill",
+      "summary": "Produces photojournalism and documentary video on migration, faith, multicultural issues, and sustainable agriculture.",
+      "summary_zh": "以新闻摄影与纪录视频创作关注移民、信仰、多元文化议题与可持续农业。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "photojournalism",
+        "documentary video",
+        "migration",
+        "refugees",
+        "faith",
+        "sustainable agriculture",
+        "somali bantu"
+      ]
+    },
+    {
+      "name": "Tara Marie Mortensen",
+      "summary": "Studies visual journalism, content creators, and audience credibility perceptions of news images, plus visual stereotyping, using eye-tracking, scale development, and content analysis.",
+      "summary_zh": "运用眼动追踪、量表开发与内容分析，研究视觉新闻、内容创作者、受众对新闻图片的可信度感知以及视觉刻板印象。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "visual journalism",
+        "photojournalism",
+        "news photo credibility",
+        "stock photography",
+        "eye-tracking",
+        "visual stereotypes",
+        "content creators"
+      ]
+    },
+    {
+      "name": "Scott Parrott",
+      "summary": "Studies how mass media shape beliefs, attitudes, and stigma about mental health, focusing on military veterans and elite athletes in news and sports media.",
+      "summary_zh": "研究大众媒介如何塑造人们对心理健康的信念、态度与污名，聚焦新闻与体育媒体中的退伍军人和精英运动员。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "mental health",
+        "stigma",
+        "media effects",
+        "military veterans",
+        "elite athletes",
+        "sports media",
+        "media framing",
+        "suicide coverage"
+      ]
+    },
+    {
+      "name": "Brett W. Robertson",
+      "summary": "Studies emergency and risk communication, including message design, organizational response, and digital platforms during hazards, using quantitative and qualitative methods.",
+      "summary_zh": "运用定量与定性方法，研究应急与风险传播，包括灾害中的信息设计、组织响应与数字平台的作用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "emergency communication",
+        "risk communication",
+        "disaster response",
+        "message design",
+        "heat risk",
+        "emergency management",
+        "machine-learning image classification",
+        "preparedness"
+      ]
+    },
+    {
+      "name": "Eric P. Robinson",
+      "summary": "Studies media law, including how social and new media affect courts and juries, defamation, reporter's privilege, and freedom of information, through legal analysis.",
+      "summary_zh": "通过法律分析研究媒介法，包括社交与新媒体对法院和陪审团的影响、诽谤、记者特权与信息自由。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "media law",
+        "defamation",
+        "actual malice",
+        "reporter's privilege",
+        "freedom of information",
+        "courts and juries",
+        "cyber law",
+        "clickwrap agreements"
+      ]
+    },
+    {
+      "name": "Wesley Elizabeth Stevens",
+      "summary": "Studies how platforms, algorithms, and neoliberal discourses regulate and commodify Black identity, focusing on Black influencers, creators, and digital labor.",
+      "summary_zh": "研究平台、算法与新自由主义话语如何规训并商品化黑人身份，聚焦黑人网红、创作者与数字劳动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "black identity",
+        "influencers",
+        "digital labor",
+        "algorithmic discrimination",
+        "racial affordances",
+        "blackfishing",
+        "instagram",
+        "creator economy"
+      ]
+    },
+    {
+      "name": "Damion Waymer",
+      "summary": "Studies public relations, crisis communication, and corporate social advocacy through rhetorical and critical lenses, with attention to race, class, and public memory.",
+      "summary_zh": "从修辞与批判视角研究公共关系、危机传播与企业社会倡导，关注种族、阶级与公共记忆。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "organizational rhetoric",
+        "public relations",
+        "crisis communication",
+        "corporate social responsibility",
+        "corporate social advocacy",
+        "image restoration theory",
+        "public memory",
+        "race and class"
+      ]
+    },
+    {
+      "name": "Taylor Wen",
+      "summary": "Studies emotions in advertising, marketing, and health messages, measuring consumer responses with experiments and psychophysiological tools such as eye-tracking and fMRI.",
+      "summary_zh": "研究广告、营销与健康信息中的情绪，通过实验及眼动追踪、fMRI等心理生理工具测量消费者反应。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "consumer psychology",
+        "emotions in advertising",
+        "mixed emotions",
+        "eye-tracking",
+        "fmri",
+        "health campaigns",
+        "brand anthropomorphism",
+        "media effects"
+      ]
+    },
+    {
+      "name": "Linwan Wu",
+      "summary": "Studies the psychological effects of advertising and digital media on consumers, especially reactions to AI in advertising and strategic communication, using social-scientific empirical methods.",
+      "summary_zh": "运用社会科学实证方法研究广告与数字媒体对消费者的心理影响，尤其关注消费者对广告和战略传播中人工智能的反应。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "advertising psychology",
+        "ai in advertising",
+        "ai disclosure",
+        "consumer responses",
+        "communication technology",
+        "corporate social responsibility",
+        "digital media"
+      ]
+    },
+    {
+      "name": "Anli Xiao",
+      "summary": "Studies multicultural and global public relations, nonprofit communication, CSR perceptions, and organization-public relationships, including comparisons of US and Chinese publics.",
+      "summary_zh": "研究多元文化与全球公共关系、非营利组织传播、企业社会责任认知与组织—公众关系，包括中美公众比较。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "R_CHINA",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "multicultural public relations",
+        "global public relations",
+        "nonprofit communication",
+        "corporate social responsibility",
+        "organization-public relationships",
+        "native advertising",
+        "fake news",
+        "prosocial behavior"
+      ]
+    },
+    {
+      "name": "Fan Yang",
+      "summary": "Studies human-AI and human-robot interaction and trust in emerging technologies, using biometric measures, experiments, surveys, and network and big data analytics.",
+      "summary_zh": "运用生物计量测量、实验、调查以及网络与大数据分析，研究人与AI及社交机器人的交互和对新兴技术的信任。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "human-ai interaction",
+        "social robots",
+        "human-robot interaction",
+        "ai-mediated communication",
+        "trust in technology",
+        "eye-tracking",
+        "eeg",
+        "companion webcasting"
+      ]
+    },
+    {
+      "name": "Viviana Carolina Zambrano Rodriguez",
+      "summary": "Studies decision-making about risky health, environmental, and traffic-safety behaviors, examining message framing and social media health information seeking with mixed methods.",
+      "summary_zh": "运用混合方法研究健康、环境与交通安全相关的风险行为决策，考察信息框架与社交媒体健康信息寻求。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health decision-making",
+        "risky behaviors",
+        "message framing",
+        "health information seeking",
+        "cannabis and driving",
+        "transportation safety",
+        "health campaigns",
+        "vaccination intentions",
+        "environmental protection"
+      ]
+    }
+  ]
+}

@@ -9,7 +9,7 @@
    "directory_url": "https://humancommunication.asu.edu/people/faculty",
    "phd_program_url": "https://humancommunication.asu.edu/graduate/phd",
    "phd_program_name": "Communication, PhD",
-   "notes": "JS-rendered iSearch feed with tabs Faculty / Academic Professionals / Fixed-Term; 67 cards. Kept the 25 professor-rank cards in the Faculty tab (minus K. Hazel Kwon, assigned to Cronkite) = 24; excluded 1 'Affiliated Faculty' (Marivel Danielson), 4 emeriti, 1 professor of practice, 4 teaching professors, 7 senior instructors, 19 instructors, 5 instructional professionals and 1 faculty associate. Eight included faculty have their ASU iSearch primary appointment in another ASU unit (see per-person notes)."
+   "notes": "JS-rendered iSearch feed with tabs Faculty / Academic Professionals / Fixed-Term; 67 cards. Kept the professor-rank HDSHC faculty from the Faculty tab = 16 (K. Hazel Kwon assigned to Cronkite). Excluded 8 professor-rank cards whose home appointment is another ASU unit and whom HDSHC lists on its 'Affiliated Faculty and Emeritus Faculty' page (humancommunication.asu.edu/node/1961) or who hold no HDSHC appointment in iSearch: Mark Hannah (English), Cheree Carlson, Jacqueline Martinez and Aaron Hess (CISA), Ashley K. Randall (CISA Counseling), Jeffrey Kassing, Greg Wise and Lindsey Mean (New College SSBS). Also excluded 1 'Affiliated Faculty' (Marivel Danielson), emeriti, 1 professor of practice, 4 teaching professors, 7 senior instructors, 19 instructors, 5 instructional professionals and 1 faculty associate. Paul Mongeau is kept: iSearch and the Faculty tab give 'Professor, Hugh Downs School' although node/1961 lists him as Emeritus."
   },
   {
    "name": "Walter Cronkite School of Journalism and Mass Communication",
@@ -47,24 +47,6 @@
    "notes": null
   },
   {
-   "name": "Cheree Carlson",
-   "title": "Professor",
-   "rank": "Professor",
-   "department": "Hugh Downs School of Human Communication",
-   "profile_url": "https://search.asu.edu/profile/6531",
-   "personal_url": null,
-   "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/aoacc?size=medium&break=1792646660&blankImage2=1",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Rhetoric"
-   ],
-   "bio": "Adina Carlson has been a professor in the College of Integrative Sciences and Arts at Arizona State University since 2009. She is also an affiliate member of the women's studies program. Carlson's prior positions at ASU include 10 years as a professor with Hugh Downs School of Human Communication on the Tempe campus (1998–2008) and 10 years in the Department of Communication at ASU, as an associate professor (1990–98) and assistant professor (1988–90). Prior to her time at ASU, Carlson served as an assistant professor in the Department of Communication Arts and Theatre with the University of Maryland, College Park (1985–88). Research interests: Graduate Faculty in Communication research areas: rhetoric of gender, Kenneth Burke, feminism, forensic oratory Selected publications: A. Cheree Carlson (2020) \"Whiteness of a Darker Shade: Reclassifying Italian-Americans in the Trials of Maria Barbella.\" Western Journal of Communication. 84(5), 528-549. DOI: 10.1080/10570314.2020.177933 | A. Cheree Carlson (2020) \"Whiteness of a Darker Shade: Reclassifying Italian-Americans in the Trials of Maria Barbella.\" Western Journal of Communication. 84(5), 528-549. DOI: 10.1080/10570314.2020.177933 | A. Cheree Carlson (2019) \"An Echo of Diversity: A Dramatistic Analysis of Vision Quest .\" More Critical Approaches to Comics , Matthew J. Smith, Randy Duncan and Matthew Brown, eds. Lexington Books. | A. Cheree Carlson (2019) \"An Echo of Diversity: A Dramatistic Analysis of Vision Quest .",
-   "sources": [
-    "department_profile"
-   ],
-   "notes": "Listed in the HDSHC directory 'Faculty' tab, but ASU iSearch gives primary affiliation as CISA - School of Applied Sciences and Arts."
-  },
-  {
    "name": "Laura Guerrero",
    "title": "School Director and Professor",
    "rank": "Professor",
@@ -85,88 +67,6 @@
     "department_profile"
    ],
    "notes": null
-  },
-  {
-   "name": "Mark Hannah",
-   "title": "Professor",
-   "rank": "Professor",
-   "department": "Hugh Downs School of Human Communication",
-   "profile_url": "https://search.asu.edu/profile/931206",
-   "personal_url": "https://www.linkedin.com/in/mark-hannah-b885b940/",
-   "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/mahannah?size=medium&break=1792641291&blankImage2=1",
-   "google_scholar_url": "https://scholar.google.com/citations?user=n3OshS8AAAAJ&hl=en",
-   "research_areas": [
-    "Business Writing",
-    "Classical Rhetoric",
-    "Composition Studies",
-    "English",
-    "Interdisciplinarity",
-    "Interdisciplinary Collaboration",
-    "Law",
-    "Pedagogical Theories in Rhetoric and Composition",
-    "Professional and Technical Writing",
-    "Research Methodologies in Rhetoric and Composition",
-    "Rhetoric",
-    "Rhetoric and Composition",
-    "Scholarly and Professional Writing",
-    "Scholarly Writing",
-    "Tax Law",
-    "Technical Writing"
-   ],
-   "bio": "Mark A. Hannah is Professor of English at Arizona State University. His work examines intersections of law, rhetoric, and expertise in multi-disciplinary problem-solving contexts, and his research has appeared in Saint Louis University Law Journal , Nevada Law Journal , IEEE: Transactions on Professional Communication , Technical Communication , Technical Communication Quarterly , Journal of Technical Writing and Communication , Communication Design Quarterly, Connexions International Professional Communication Journal, Business and Professional Communication Quarterly, International Journal of Business Communication , College Composition and Communication , Programmatic Perspectives , Nature , Environment Systems and Decisions , and chapters in edited collections . Research interests: Specialties: Rhetoric, Professional Communiation, Interdisciplinary Collaboration, Public Understanding of Law Selected publications: *Indicates Graduate Student Collaborator | **Indicates Undergraduate Student Collaborator | Conti, Delia B., Linda L. Berger, Michael J. Cedrone, Mark A. Hannah , Melissa E. Love Koenig, and Julie A. Oseid. Law and Rhetoric: A Primer . Durham, NC: Carolina Academic Press. 2024. 318 pp. | SCHOLARLY JOURNAL ARTICLES (Refereed) | Willers, Heidi*, Mark A. Hannah , and Sangeet Bhalla**. “Developing an Accessibility Mindset: Examining EEOC Complaints to Understand Employee Lived Experience with Organizational Disability Policies and Practices.",
-   "sources": [
-    "department_profile"
-   ],
-   "notes": "Listed in the HDSHC directory 'Faculty' tab, but ASU iSearch gives primary affiliation as Department of English (HDSHC lists him as affiliated faculty)."
-  },
-  {
-   "name": "Aaron Hess",
-   "title": "Interim School Director and Professor",
-   "rank": "Professor",
-   "department": "Hugh Downs School of Human Communication",
-   "profile_url": "https://search.asu.edu/profile/786590",
-   "personal_url": null,
-   "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/arhess?size=medium&break=1792646634&blankImage2=1",
-   "google_scholar_url": "https://scholar.google.com/citations?user=Sp7KbEIAAAAJ&hl=en",
-   "research_areas": [
-    "Communication",
-    "Digital Culture",
-    "Digital Media",
-    "Modern and Contemporary Rhetorical Theories",
-    "Public Communication",
-    "Qualitative Methods"
-   ],
-   "bio": "Aaron Hess currently serves as interim director of the School of Applied Professional Studies in the College of Integrative Sciences and Arts (CISA). Previously, he was the Associate Dean for Academic Programs and Curricular Innovation in CISA. He is also Professor of Rhetoric and Communication in the School of Applied Sciences and Arts within CISA at Arizona State University. His scholarly research follows two complementary avenues. First, he specializes in participatory rhetorical methods that include innovative methodological intersections between textual analysis and participatory approaches such as ethnography, participant observation, and interviews. Second, he explores the complex ways technology augments rhetorical expression and reception in physical, digital, and hybrid spaces. Recently, Professor Hess completed a Fulbright stay in Bergen, Norway at the University of Bergen. During that time, he explored the relationship between ethos—understood as the perceived character of a speaker—and culture, society, and technology. His current research aims to investigate relationships between ethos, credibility, trust, information literacy and online scams. He is currently collaborating with colleagues from Europe on a large research project regarding online scams. At the core of Hess’ work is an applied focus, both in research and teaching.",
-   "sources": [
-    "department_profile"
-   ],
-   "notes": "Listed in the HDSHC directory 'Faculty' tab, but ASU iSearch gives primary affiliation as CISA (interim director, School of Applied Professional Studies; Professor, School of Applied Sciences and Arts)."
-  },
-  {
-   "name": "Jeffrey Kassing",
-   "title": "Professor",
-   "rank": "Professor",
-   "department": "Hugh Downs School of Human Communication",
-   "profile_url": "https://search.asu.edu/profile/194925",
-   "personal_url": "http://asusmaclab.weebly.com",
-   "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/jkassing?size=medium&break=1792647961&blankImage2=1",
-   "google_scholar_url": "https://scholar.google.com/citations?user=hu6GwFsAAAAJ&hl=en",
-   "research_areas": [
-    "Community Sports",
-    "Comparative Diaspora Studies",
-    "Diaspora Studies",
-    "Media Representations",
-    "Media Studies",
-    "Migration, Race, Ethnicity, and Culture",
-    "Place, Culture, and Identity",
-    "Social Media",
-    "Study Abroad and Intercultural Competencies"
-   ],
-   "bio": "Professor Kassing teaches courses in research methods and sport studies. In addition, he has developed and teaches study abroad courses in the United Kingdom and Spain. His research interests include sports fandom, sports media, sport and politics, sport and gender, and sport and migration. Previously he has published on various aspects of communication within the context of sport including communication between coaches and athletes, parents and youth athletes, and fans and athletes. Of late, his work has focused primarily on the socio-cultural aspects of soccer, featuring in publications that consider fan identity expressed through social media use, stadium displays, and migration patterns within a global perspective. Along with several published articles, this work includes the following authored and edited books: Perspectives on the U.S.-Mexico Soccer Rivalry: Passion and Politics in Red, White, Blue and Green (Palgrave, 2017) The Art of Tifo: Identity, Representation, and Performing Fandom in Football/Soccer (Peter Lang, 2022) Football and Diaspora: Connecting Dispersed Communities Through the Global Game (Routledge, 2023) States of Play: Soccer and Society Perspectives on the Global Game in America (Routledge, 2026) Reverse Flow Migration in International Football: Decolonization and Neocolonialism in the Global Game (Routlege, forthcoming) Dr.",
-   "sources": [
-    "department_profile"
-   ],
-   "notes": "Listed in the HDSHC directory 'Faculty' tab, but ASU iSearch gives primary affiliation as School of Social and Behavioral Sciences, New College (West Valley campus); HDSHC listed as secondary affiliation."
   },
   {
    "name": "K. Hazel Kwon",
@@ -192,43 +92,6 @@
     "department_profile"
    ],
    "notes": "Listed in both the Hugh Downs School and Cronkite directories; assigned to Cronkite per ASU iSearch primary affiliation (Professor and Research Director, Cronkite)."
-  },
-  {
-   "name": "Jacqueline Martinez",
-   "title": "Professor",
-   "rank": "Professor",
-   "department": "Hugh Downs School of Human Communication",
-   "profile_url": "https://search.asu.edu/profile/284226",
-   "personal_url": "http://www.linkedin.com/in/jacqueline-m-martinez-aa7368312",
-   "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/jmmarti?size=medium&break=1792592847&blankImage2=1",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Communication and Philosophy",
-    "Feminist and Queer Theory",
-    "Intercultural Communication",
-    "Race and Ethnicity"
-   ],
-   "bio": "Jacqueline Martinez (she/he/they) is Professor of Communication in the School of Applied Sciences and Arts at Arizona State University. Dr. Martinez’ professional life is dedicated to the study of the conditions of freedom and oppression as they are both sustained and usurped within the immediacy of our embodied experience across multiple domains of human communication and as situated within specific social, cultural, and historical structures. Dr. Martinez studies culture as it manifests in communicative experience with particular interest in how intercultural, intergroup, and interpersonal relations structure possibilities for human expression and perception within contexts of power. Dr. Martinez is the author of Phenomenology of Chicana Experience and Identity: Communication and Transformation in Praxis (Roman and LIttlefield, 2000), Communicative Sexualities: A Communicology of Sexual Experience (Lexington, 2011) , and co-author with Barbara Klein and Stephen Hart of New Understandings of Twin Relationships: From Harmony to Estrangement and Loneliness (Routledge, 2021). Dr. Martinez is President of the Caribbean Philosophical Association , and President of the Board of Directors of a community-based nonprofit organization that is dedicated to teaching traditional Japanese Karate-Dō as an endeavor of life-long learning and spiritual uplift.",
-   "sources": [
-    "department_profile"
-   ],
-   "notes": "Listed in the HDSHC directory 'Faculty' tab, but ASU iSearch gives primary affiliation as CISA - School of Applied Sciences and Arts."
-  },
-  {
-   "name": "Ashley K. Randall",
-   "title": "Professor",
-   "rank": "Professor",
-   "department": "Hugh Downs School of Human Communication",
-   "profile_url": "https://search.asu.edu/profile/1978159",
-   "personal_url": "https://ashleykrandall.wixsite.com/asucouplescoping",
-   "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/akrandal?size=medium&break=1792642956&blankImage2=1",
-   "google_scholar_url": "https://scholar.google.com/citations?user=U-QjiSkAAAAJ&hl=en&oi=ao",
-   "research_areas": [],
-   "bio": "Dr. Ashley K. Randall is a Professor in the School of Counseling and Counseling Psychology. Randall received her doctorate in Family Studies and Human Development from the University of Arizona. She also holds a master's degree in Clinical Psychology from North Dakota State University, and a bachelor's degree in Psychology from Indiana University. Randall completed a postdoctoral fellowship in the Department of Psychiatry, College of Medicine, and Family Studies and Human Development at the University of Arizona. Randall is a Fulbright Fellow (Switzerland, 2007) and Specialist (Indonesia, 2023), and holds fellow status in the American Psychological Association (Divisions 17, 43, and 52). She is President-Elect of the International Association for Relationship Research . Research interests: Experiencing stress is all too common. Although stressful experiences can have deleterious effects on individual well-being in a variety relationships and settings, romantic partners are in a unique position to regulate each other’s emotions during times of distress. To understand couples’ interpersonal emotion regulation, Dr. Randall uses multi-method approaches (e.g., self-report, daily diary, momentary measures of emotional experience, and behavioral observations) and advanced statistical analyses suitable for longitudinal dyadic data analysis.",
-   "sources": [
-    "department_profile"
-   ],
-   "notes": "Listed in the HDSHC directory 'Faculty' tab, but ASU iSearch gives primary affiliation as CISA - School of Counseling and Counseling Psychology."
   },
   {
    "name": "Tony Roberto",
@@ -274,27 +137,6 @@
    "notes": null
   },
   {
-   "name": "Greg Wise",
-   "title": "Professor",
-   "rank": "Professor",
-   "department": "Hugh Downs School of Human Communication",
-   "profile_url": "https://search.asu.edu/profile/229274",
-   "personal_url": null,
-   "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/gregwise?size=medium&break=1792647971&blankImage2=1",
-   "google_scholar_url": null,
-   "research_areas": [
-    "New Media Studies",
-    "Cultural Studies and Technology",
-    "Surveillance",
-    "Globalization"
-   ],
-   "bio": "Greg Wise has a double bachelor's degree in communications and English from Trinity University in San Antonio, Texas. After earning his master's and doctoral degrees in speech communication from the University of Illinois at Urbana-Champaign, Wise served on the faculty at Clemson University for four years before coming to Arizona State University's West campus in 1999. Wise's research interests focus on popular culture, technology and culture, new media, globalization, and surveillance. His publications include \"Cultural Globalization: A User's Guide,\" published by Blackwell; a book co-edited with Hille Koskela (University of Finland) on \"New Visualities\" published by Ashgate; a second edition of his co-authored (with Jennifer Daryl Slack) \"Culture and Technology: A Primer\" with Peter Lang in 2015; and a new book about representations of surveillance in popular films, \"Surveillance and Film,\" in 2016 with Bloomsbury Academic. \"Culture and Technology: A Primer\" won the book award in 2006 from the Critical and Cultural Studies Division of the National Communication Association.\"Surveillance and Film\" won the book award in 2018 from the Surveillance Studies Network. His extensive involvement with academic journals includes serving as executive editor of Communication and Critical/Cultural Studies from 2010 to 2012.",
-   "sources": [
-    "department_profile"
-   ],
-   "notes": "Listed in the HDSHC directory 'Faculty' tab, but ASU iSearch gives primary affiliation as School of Social and Behavioral Sciences, New College; HDSHC listed as secondary affiliation."
-  },
-  {
    "name": "Bradley Adame",
    "title": "Associate Professor and Director of Stakeholder Engagement and Innovation",
    "rank": "Associate Professor",
@@ -318,7 +160,7 @@
    "rank": "Associate Professor",
    "department": "Hugh Downs School of Human Communication",
    "profile_url": "https://search.asu.edu/profile/1378770",
-   "personal_url": "https://www.linkedin.com/in/uttaran-dutta-5b3b6a1/recent-activity/shares/",
+   "personal_url": null,
    "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/udutta?size=medium&break=1792647975&blankImage2=1",
    "google_scholar_url": "https://scholar.google.com/citations?user=yPApgOIAAAAJ&hl=en",
    "research_areas": [
@@ -363,7 +205,13 @@
    "personal_url": "https://jennahanchey.com/research/",
    "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/jhanchey?size=medium&break=1792647977&blankImage2=1",
    "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=g1W8yaUAAAAJ",
-   "research_areas": [],
+   "research_areas": [
+    "Decolonial Futurities",
+    "Speculative Fiction and Radical Imagination",
+    "Rhetoric",
+    "Critical/Cultural Studies",
+    "Critical Development Studies"
+   ],
    "bio": "Jenna Hanchey is continually searching for liberatory futures, reflecting over the racial and colonial legacies of our pasts, and laboring to enact justice in the present. Her essays engage decolonial possibility in, through, and beyond the collapse of “realities” that developmental logics take for granted. Her creative work explores these possibilities further, plumbing the depths of grief, centering intimacies, and engendering hope. Her first book, The Center Cannot Hold: Decolonial Possibility in the Collapse of a Tanzanian NGO , examines how decolonial potential can emerge from the collapse of neocolonial aid and development structures. Her second book, Decolonial Dreamwork: Africanfuturism and Imagination Beyond Development , examines how African speculative fiction imagines continental futures that challenge, reinvent, and eschew Western logics of development, and encourages everyone to imagine in solidarity with African creators. Her academic work may also be found in Feminist Africa ; Communication and Critical/Cultural Studies ; Journal of International and Intercultural Communication ; Review of Communication ; Communication, Culture & Critique ; Women's Studies in Communication ; Women & Language ; Departures in Critical Qualitative Research ; and Management Communication Quarterly , among other venues.",
    "sources": [
     "department_profile"
@@ -399,34 +247,12 @@
    "notes": null
   },
   {
-   "name": "Lindsey Mean",
-   "title": "Associate Professor",
-   "rank": "Associate Professor",
-   "department": "Hugh Downs School of Human Communication",
-   "profile_url": "https://search.asu.edu/profile/467425",
-   "personal_url": null,
-   "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/pmean?size=medium&break=1792647981&blankImage2=1",
-   "google_scholar_url": null,
-   "research_areas": [
-    "Identities",
-    "Gender",
-    "Discourses",
-    "Language and Culture",
-    "Community Sports"
-   ],
-   "bio": "Lindey Mean is an associate professor in the School of Social and Behavioral Sciences in the New College of Interdisciplinary Arts and Sciences at Arizona State University. She is also an affiliated faculty members with the Global Sport Institute at ASU. Mean's research focuses on the intersection of identities, sport, gender and sexuality, ideology and culture, discourses, language and representational practices across multiple sites and levels of enactment. She received her doctorate in psychology from the University of Sheffield in England. Research interests: Graduate Faculty in Communication research areas: sport and diversity, identities and discursive practices, language and re/presentation, ideology and culture Selected publications: Meân, L. J. Sport as gender/feminist studies. In A. C. Billings (Ed.) Defining Sport Communication (2017). | Meân, L. J. & Herrera, R. Gendered nations: Media representations of the men’s and women’s U.S.-Mexico soccer rivalry. In J. W. Kassing & L. J. Meân (Eds), Perspectives on the U.S.-Mexico Soccer Rivalry: Passion and Politics in Red, White, Blue, and Green, (2017). | Coche, R., Meân, L. J., & Guerra, O. Bicultural stress, soccer and rivalry: How Mexican-Americans experience the soccer competition between their two countries. In J. W. Kassing & L. J. Meân (Eds), Perspectives on the U.S.-Mexico Soccer Rivalry: Passion and Politics in Red, White, Blue, and Green (2017). | Meân, L. J. Foreword, p. ix-xiii (5 pages). In D. Caldwell, J.",
-   "sources": [
-    "department_profile"
-   ],
-   "notes": "Listed in the HDSHC directory 'Faculty' tab, but ASU iSearch gives primary affiliation as School of Social and Behavioral Sciences, New College; HDSHC listed as secondary affiliation."
-  },
-  {
    "name": "Jonathan Pettigrew",
    "title": "Associate Professor and Director of Doctoral Studies",
    "rank": "Associate Professor",
    "department": "Hugh Downs School of Human Communication",
    "profile_url": "https://search.asu.edu/profile/2692171",
-   "personal_url": "https://www.researchgate.net/profile/Jonathan_Pettigrew",
+   "personal_url": null,
    "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/jpettig2?size=medium&break=1792644108&blankImage2=1",
    "google_scholar_url": "https://scholar.google.com/citations?user=NvV56z8AAAAJ&hl=en&oi=ao",
    "research_areas": [
@@ -476,7 +302,7 @@
    "rank": "Associate Professor",
    "department": "Hugh Downs School of Human Communication",
    "profile_url": "https://search.asu.edu/profile/3701993",
-   "personal_url": "https://www.researchgate.net/profile/Joris_Van_Ouytsel",
+   "personal_url": null,
    "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/jvanouyt?size=medium&break=1792580567&blankImage2=1",
    "google_scholar_url": "https://scholar.google.be/citations?user=N3T-78EAAAAJ&hl=en&oi=ao",
    "research_areas": [
@@ -516,7 +342,7 @@
    "rank": "Associate Professor",
    "department": "Hugh Downs School of Human Communication",
    "profile_url": "https://search.asu.edu/profile/3141884",
-   "personal_url": "https://www.linkedin.com/in/alaina-zanin-1b627353",
+   "personal_url": null,
    "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/azanin1?size=medium&break=1792626055&blankImage2=1",
    "google_scholar_url": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=3_cqk4AAAAAJ&gmla=AJsN-F7umM7Z9yar25iCTocQmil5JGyaRZl7E9K86dn",
    "research_areas": [
@@ -649,10 +475,25 @@
    "rank": "Assistant Professor",
    "department": "Walter Cronkite School of Journalism and Mass Communication",
    "profile_url": "https://search.asu.edu/profile/5064375",
-   "personal_url": "https://www.facebook.com/mrcscolon",
+   "personal_url": "https://www.amazonialatitude.com",
    "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/macolon7?size=medium&break=1792647998&blankImage2=1",
    "google_scholar_url": null,
-   "research_areas": [],
+   "research_areas": [
+    "Amazonian and Indigenous studies",
+    "Brazilian literary and cultural studies",
+    "environmental humanities and ecocriticism",
+    "decolonial theory and epistemologies of the South",
+    "biocultural diversity and political ecology",
+    "extractivism, sovereignty, and resistance",
+    "documentary film and visual culture",
+    "alternative and community media",
+    "digital humanities with a focus on environmental and Indigenous archives",
+    "media representations of natureculture",
+    "slow media aesthetics",
+    "critical pedagogy",
+    "transdisciplinary approaches to ecological and cultural education",
+    "Latin American cultural and postcolonial theory"
+   ],
    "bio": "Marcos Colón, PhD, is the Southwest Borderlands Initiative Professor of Media and Indigenous Communities at the Walter Cronkite School of Journalism and Mass Communication at Arizona State University. He is the founder and editor-in-chief of Amazônia Latitude , a pioneering digital magazine that amplifies environmental, cultural, and Indigenous perspectives from the Amazon to global audiences. Through both scholarly and journalistic approaches, his research explores how mediated storytelling, particularly through Indigenous and community media, can challenge dominant narratives, foster environmental consciousness, and support decolonial knowledge production. His work investigates the role of journalism and documentary as tools for visibility, resistance, and intercultural dialogue in the context of Amazonian and Latin American realities. Colón’s interdisciplinary research and creative work bridge Brazilian literary and cultural studies, environmental humanities, and documentary film, with a sustained focus on Amazonian ontologies, biocultural diversity, and resistance to extractivism paradigms. His work engages with urgent ecological and epistemological questions, foregrounding Indigenous knowledge systems and the representation of natureculture as frameworks for reimagining the region beyond colonial and capitalist logics.",
    "sources": [
     "department_profile"
@@ -697,7 +538,7 @@
    "rank": "Professor",
    "department": "Walter Cronkite School of Journalism and Mass Communication",
    "profile_url": "https://search.asu.edu/profile/5822271",
-   "personal_url": "https://www.linkedin.com/in/celeste-gonz%C3%A1lez-de-bustamante-653b746/",
+   "personal_url": null,
    "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/cgonz320?size=medium&break=1792645476&blankImage2=1",
    "google_scholar_url": null,
    "research_areas": [],
@@ -713,7 +554,7 @@
    "rank": "Associate Professor",
    "department": "Walter Cronkite School of Journalism and Mass Communication",
    "profile_url": "https://search.asu.edu/profile/1925783",
-   "personal_url": "https://twitter.com/rgrantjohnson",
+   "personal_url": null,
    "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/rgjohns2?size=medium&break=1792641145&blankImage2=1",
    "google_scholar_url": null,
    "research_areas": [],
@@ -729,7 +570,7 @@
    "rank": "Associate Professor",
    "department": "Walter Cronkite School of Journalism and Mass Communication",
    "profile_url": "https://search.asu.edu/profile/896577",
-   "personal_url": "http://www.linkedin.com/in/dave-keating-18867335",
+   "personal_url": null,
    "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/dmkeati1?size=medium&break=1792629330&blankImage2=1",
    "google_scholar_url": "https://scholar.google.com/citations?user=KP6HRyoAAAAJ&hl=en&oi=ao",
    "research_areas": [
@@ -753,7 +594,7 @@
    "rank": "Associate Professor",
    "department": "Walter Cronkite School of Journalism and Mass Communication",
    "profile_url": "https://search.asu.edu/profile/1899291",
-   "personal_url": "https://www.linkedin.com/in/sada-reed-bb77044/",
+   "personal_url": null,
    "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/sjreed7?size=medium&break=1792648012&blankImage2=1",
    "google_scholar_url": null,
    "research_areas": [
@@ -799,7 +640,7 @@
    "department": "Walter Cronkite School of Journalism and Mass Communication",
    "profile_url": "https://search.asu.edu/profile/271339",
    "personal_url": null,
-   "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/drussel?size=medium&break=1792648016&blankImage2=1",
+   "photo_url": null,
    "google_scholar_url": null,
    "research_areas": [],
    "bio": "Dennis Russell is an Associate Professor at the Walter Cronkite School of Journalism and Mass Communication (Downtown Phoenix campus), where he serves as the school's faculty honors lead. His teaching centers on media law and ethics and the philosophy of mass communication: recent courses include Media Law / Mass Communication Law (JMC 402, MCO 403, MCO 503), Media Ethics / Mass Communication Ethics (JMC 366, MCO 366) and the doctoral seminar Philosophy of Mass Communication (MCO 722), and he supervises honors theses and doctoral dissertations (e.g., chairing a 2025 dissertation on film authorship). In public comment on the arrest of journalists covering protests, he has argued that such actions aim \"to silence the dissemination of oppositional information and ideas, which, of course, is antithetical to any notion of a working democracy.\" His ASU iSearch profile carries no biography or research-interest text.",
@@ -807,7 +648,7 @@
     "department_profile",
     "university_news"
    ],
-   "notes": "iSearch profile has no biography/research text; bio compiled from Cronkite School news pages and course listings."
+   "notes": "iSearch profile has no biography/research text; bio compiled from Cronkite School news pages and course listings. No portrait on iSearch (blank placeholder)."
   },
   {
    "name": "Leslie-Jean Thornton",
@@ -863,6 +704,33 @@
     "department_profile"
    ],
    "notes": null
+  },
+  {
+   "name": "Asheley R. Landrum",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Walter Cronkite School of Journalism and Mass Communication",
+   "profile_url": "https://search.asu.edu/profile/4879450",
+   "personal_url": "http://www.asheleylandrum.com/",
+   "photo_url": "https://webapp4.asu.edu/photo-ws/directory_photo/arlandru?size=medium&break=1792632733&blankImage2=1",
+   "google_scholar_url": "https://scholar.google.com/citations?user=jwfLK58AAAAJ&hl=en&oi=ao",
+   "research_areas": [
+    "Audience Engagement",
+    "Identity",
+    "Informal Science Education",
+    "Media Literacy",
+    "Media Psychology",
+    "Misinformation",
+    "Researcher-Practitioner Partnerships",
+    "(Science of) Science Communication",
+    "Social Cognition",
+    "Trust"
+   ],
+   "bio": "Asheley R. Landrum, PhD, ​is an associate professor at the Walter Cronkite School of Journalism and Mass Communication and a Senior Global Futures Scientist Arizona State University. Her research investigates how values and worldviews influence audiences' selection and processing of information and how these phenomena develop from childhood into adulthood. ​Asheley is a fellow of the American Association for the Advancement of Science and she served on the National Academies of Science, Engineering, and Medicine's consensus panel \" Understanding and Addressing Misinformation about Science .\" Her research has been funded by the National Science Foundation and Templeton Religion Trust. Asheley is deeply committed to researcher-practitioner partnerships and has collaborated with journalistic outlets and content creators such as KQED public media , PBS Digital Studios, and Anderson Cooper 360 on CNN . These collaborations ensure that her research not only advances scholarly knowledge, but that it has practical applications in enhancing the practice of communication and builds bridges between the academy and professional practice. Research interests: I investigate how values and worldviews influence audiences' selection and processing of (science) information and how these phenomena develop from childhood into adulthood.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Cronkite directory card shows her 'Senior Global Futures Scientist' affiliation title; ASU iSearch primary title is Associate Professor, Journalism & Mass Comm."
   }
  ]
 }

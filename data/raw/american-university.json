@@ -1,0 +1,494 @@
+{
+ "university": "American University",
+ "slug": "american-university",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "School of Communication",
+   "school": null,
+   "directory_url": "https://www.american.edu/soc/faculty/",
+   "phd_program_url": "https://www.american.edu/soc/communication-studies/PhD/index.cfm",
+   "phd_program_name": "PhD in Communication",
+   "notes": "Single alphabetical full-time faculty page (JS-rendered; static requests return 403, so the directory and all profiles were fetched with headless Chromium). 41 full-time entries; the 28 with Professor/Associate/Assistant Professor titles are included (7 Professor incl. 1 University Professor, 11 Associate, 10 Assistant), drawn from all four SOC divisions (Communication Studies, Public Communication, Journalism, Film & Media Arts) because the PhD is school-wide even though Communication Studies administers it. Excluded 13: Hurst/Senior Professorial Lecturers, a Professorial Lecturer and an Executive in Residence; emeriti are on a separate page. Several included Film & Media Arts and Journalism faculty are practitioners (filmmakers, producers, investigative editors) whose profiles describe creative or professional work rather than research. Profiles have no research-interest field; research_areas is filled only where the bio states an explicit list. Each person's division is recorded in notes."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Patricia Aufderheide",
+   "title": "University Professor",
+   "rank": "Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/paufder.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/Pat_Aufderheide_221arw.JPG",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Patricia Aufderheide is University Professor of Communication Studies in the School of Communication at American University in Washington, D.C. She founded the School's Center for Social Media in 2000, until 2015. It is now led by Prof. Caty Borum, renamed the Center for Media & Social Impact; Aufderheide continues as Senior Research Fellow. She is also affiliate faculty in the School of International Service and the History department at American University, and a member of the Film and Media Arts division in the School of Communication. Her books include Kartemquin Films: Documentaries on the Frontlines of Democracy (University of California), Reclaiming Fair Use: How to Put Balance Back in Copyright (University of Chicago), with Peter Jaszi; Documentary: A Very Short Introduction (Oxford), The Daily Planet (University of Minnesota Press), and Communications Policy in the Public Interest (Guilford Press). She has been a Fulbright Research Fellow in Brazil (1994-5), Australia (2017), and South Korea (2024). She is also a John Simon Guggenheim fellow (1994) and has served as a juror at the Sundance Film Festival among others. Aufderheide has received numerous journalism and scholarly awards. In 2026, the National Academy of Television Arts & Sciences (Emmys) inducted her into its documentary Silver Circle for “significant and impactful contributions to the television industry.\" She has also won the George Stoney award for service to documentary from the University Film and Video Association in 2015, the International Communication Association's 2010 for Communication Research as an Agent of Change Award, Woman of Vision award from Women in Film and Video (DC) in 2010, a career achievement award in 2008 from the International Digital Media and Arts Association and the Scholarship and Preservation Award in 2006 from the International Documentary Association. Patricia Aufderheide is proud to publish with her students. Recent co-publications featuring our PhD and MFA students include: Butler, B., Anastacio, K., and Aufderheide, P. (2024). The Chilling effects of obstacles to accessing, using and sharing in-copyright data for quantitative research. Information and Culture, 69(1), 48-65. Haywood, A., Sanchez Santos, M., and Aufderheide, P. (2022). \"Community Media in A Pandemic: Facilitating Local Communication, Collective Resilience and Transitions to Virtual Public Life in the U.S.,\" Javnost - The Public. Bello, B., Aufderheide, P. (2021).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Communication Studies. University Professor (AU's highest faculty rank) mapped to Professor."
+  },
+  {
+   "name": "Caty Borum",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/chattoo.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/BorumChattooprofile.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Caty Borum is Executive Director of the Center for Media & Social Impact (CMSI), a creative innovation lab and research center based at AU’s School of Communication (SOC) that creates, showcases, and studies entertainment for social change, and Professor at SOC. She is an award-winning media producer, engaged scholar, and author and co-author of four books about entertainment media and social change: A Comedian and An Activist Walk Into a Bar: The Serious Role of Comedy in Social Justice, with co-author Lauren Feldman (foreword by Norman Lear, University of California Press); Story Movements: How Documentaries Empower People and Inspire Social Change (Oxford University Press), winner of the 2021 Broadcast Education Association Book Award; The Revolution Will Be Hilarious: Comedy for Social Change and Civic Power (NYU Press); and Radical Reality: Documentary Storytelling and the Global Fight for Social Justice, with co-author David Conrad-Perez. In 2021, she won American University’s annual “Outstanding Scholarship, Research, Creative Activity, and Other Professional Contributions Award,” a refereed honor that recognizes extraordinary faculty achievement. As a documentary producer, her films and TV programs have aired internationally and nationally, across TV, streaming, and theaters. In 2020, she was named to DOC NYC’s inaugural list of New Documentary Leaders, a peer-selected film industry award given to 16 global leaders who have made a substantial positive impact on the field. Professor Borum’s research and creative works have received six Anthem Awards (recognizing purpose-driven work) from the International Academy of Digital Arts and Sciences; one Telly Award; and academic awards and honors from the International Communication Association, Broadcast Education Association, Association for Education in Journalism & Mass Communication, Mass Communication and Society, and others.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Public Communication."
+  },
+  {
+   "name": "Larry Engel",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/engel.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/Larry_Engel_068arw.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "With nearly 50 years of teaching and filmmaking, and 350 projects, his documentaries appear on PBS, the Discovery Channels, and National Geographic, among many other outlets. Awards include a Daytime Emmy for Best Cinematography (and six more for writing and producing) and the Mountain Spirit award from Mountainfilm in Telluride. His teaching focuses on theory, production and emerging media. His favorite classes include Classroom-in-the-Wild: Extreme HD Alaska, and The Practice of Environmentalism that takes students to the Galapagos Islands and Cuba. The PBS series \"The Human Spark,\" hosted by Alan Alda, and directed and photographed by Engel (pbs.org/humanspark) won the prestigious AAAS Kavli Science Journalism Award for In-Depth Reporting, his second such award.. \"Potato Heads: Keepers of the Crop\" premiered at the DC Environmental Film Festival and has played in festivals around the world. Engel is a member of the Directors Guild of America, Writers Guild of America–East, Directors UK, UFVA, IDA, and the Potomac Appalachia Trail Club–Mountaineering Division. He is passionate about environmental and conservation issues and works with many regional nonprofits with students in CB-designated course. He also loves to rock climb, and mountain and road bike. His favorite place on the planet is Antarctica.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Film & Media Arts."
+  },
+  {
+   "name": "Leena Jayaswal",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/ljayasw.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/AUprofile_5.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Leena Jayaswal is a documentary filmmaker, award-winning photographer and Professor in the School of Communication at American University in Washington DC, where she is the director of the new BA in Photography. Her photography and film work often deals with the intersections of being Indian and American. This work has been nationally recognized in galleries around the country, including solo shows at the Gandhi Memorial Center, and International Visions Gallery. Group shows include Arthur M. Sackler Gallery, The Washington Project for the Arts/ Corcoran Gallery of Art, Arlington Arts Center, Kathleen Ewing Gallery, Lexington Art League and the Studio Gallery. Jayaswal has photographs in group collections with the Society of Photographic Education's Multicultural Caucus at the Center for Photography, En Foco, Light Work, Photo Center Northwest and the Asian American Arts Centre. Previously she has worked for famed photographer, Mary Ellen Mark, and with the Sandra Berler Gallery. Her award winning films have been screened in various film festivals around the country. “Crossing Lines” was picked up for national distribution by NETA and has been broadcast on over 100 PBS affiliates across the country. The film has won numerous international and national awards including the prestigious Gracie Allen Award, and is currently being distributed by New Day Films. Her latest film, \"Mixed\", a collaboration with Prof. Caty Borum Chattoo, explores what it means to be mixed-race in American, fifty years after the historic, landmark Supreme Court Decision, Loving v. Virginia which made interracial marriage legal. Jayaswal is also working with artist Monica Bose on a feature documentary about climate change, called, \"Rising Up to Climate Change: Storytelling with Saris.\" Jayaswal was one of 8 filmmakers to be a part of the Futures Exhibition at the reopening of the Smithsonian's Arts + Industry's Futures Exhibition. Jayaswal was the Schools' first Inclusion Officer and Associate Dean from 2019-2022. She served as the Interim Dean for SOC in 2023-24",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Film & Media Arts."
+  },
+  {
+   "name": "Brigid Maher",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/bmaher.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/bmaher_1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Brigid Maher is a tenured full professor in the School of Communication. She is also a Senior Fellow at the Community Voice Lab at American University and Founder and Creative Director of the Anacostia Youth Media Festival. She is an award-winning documentary filmmaker focusing on women, from women’s issues in the Middle East to women’s health and beyond. She recently completed the documentary Experimental Curator: The Sally Dixon Story (2022), about a little-known pioneer in the male-dominated art world who transformed experimental cinema by helping film artists make it and the public see and understand it. Recently the film premiered at the Ann Arbor Film Festival, which is the oldest and most prestigious experimental film festival in the United States. The film also broadcast on public television across the country during Women’s History month. Maher produced and directed The Mama Sherpas (2015) in collaboration with executive producers Ricki Lake and Abby Epstein (The Business of Being Born). It follows nurse-midwives and their patients over two years to give an intimate glimpse of the unique value midwives can bring to childbirth in the hospital system. Distributed by Bond/360, it screened nationwide and is available for streaming on Amazon Prime Video and elsewhere. Maher produced and directed Veiled Voices (2009), bringing to light the complex role of female leaders in contemporary Islam through the stories of three women in Egypt, Syria, and Lebanon. It screened on 150+ public television stations across the US, with multiple national satellite broadcasts. It was featured in the Al Jazeera Documentary Film Festival and the Los Angeles Women’s International Film Festival and was distributed by Arab Film Distribution. In 2005 Maher was a Fulbright Senior Scholar in Lebanon, where she wrote, produced, and directed a fiction short, A.W.O.L. Shot on location in the Bekaa Valley, the film explores cross-cultural ambiguity and tension sparked by the Iraq War. It is distributed by Third World Newsreel. In 2002 she wrote, produced, and directed the feature film Adrift in the Heartland, shot in the West Bank and Chicago. Maher’s writing examines the interplay between traditional film theory and new media theory.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Film & Media Arts."
+  },
+  {
+   "name": "Adrienne Massanari",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/adrienne.cfm",
+   "personal_url": "http://www.adriennemassanari.com",
+   "photo_url": "https://www.american.edu/uploads/profiles/large/massanari-small.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=UnZccCEAAAAJ&hl=en",
+   "research_areas": [
+    "digital culture",
+    "online communities",
+    "platform politics",
+    "game studies",
+    "pop culture",
+    "gender and race online"
+   ],
+   "bio": "I am an Associate Professor in the Communication Studies division. My research interests include digital culture, online communities, platform politics, game studies, pop culture, and gender and race online (and I'm happy to work with students who might be interested in any/all of these areas). My recent book for MIT Press (2024), Gaming Democracy: How Silicon Valley Leveled Up the Far Right, discusses how Silicon Valley’s culture and politics contributed to the rise of the far-right. My 2015 book, Participatory Culture, Community, and Play: Learning from Reddit (Peter Lang), explored the unique culture of Reddit.com. My work has appeared in New Media & Society, Feminist Media Studies, Social Media + Society, Journal of Communication, Journal of Computer-Mediated Communication, Journal of Information Technology & Politics, and First Monday. I also serve on the editorial boards for the Journal of Sociotechnical Critique (open-access) and New Review of Hypermedia & Multimedia. Prior to joining AU, I was Associate Professor in the Department of Communication and affiliate faculty in Gender and Women’s Studies at the University of Illinois at Chicago. Before joining AU and UIC, I was a faculty member in the School of Communication at Loyola University-Chicago, where I also served as the Director for the Center for Digital Ethics and Policy. I have over ten years of experience working as a user-interface designer, usability consultant, and information architect in corporate and educational settings. Selected publications Fox, J., Pearce, K. E., Massanari, A. L., Riles, J. M., Szulc, Ł., Ranjit, Y. S., Trevisan, F., Soriano, C. R. R., Vitak, J., Arora, P., Ahn, S. J., Alper, M., Gambino, A., Gonzalez, C., Lynch, T., Williamson, L. D., & L. Gonzales, A. (2021). Open Science, Closed Doors? Countering Marginalization through an Agenda for Ethical, Inclusive Research in Communication. Journal of Communication, 71(5), 764-784. https://doi.org/10.1093/joc/jqab029 Massanari, A. L. (2020). Reddit’s Alt-Right: Toxic Masculinity, Free Speech, and/r/The_Donald. In M. Zimdars & K. McLeod (Eds.) Fake News: Understanding media and misinformation in the digital age (pp. 179-190). Massanari, A. L. (2018). Rethinking research ethics, power, and the risk of visibility in the era of the “alt-right” gaze. Ethic as method in the era of Big Data (A. Markham & A. Herman, Eds). Special issue of Social Media + Society.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Communication Studies. Directory and profile title is Professor; the bio text still says Associate Professor."
+  },
+  {
+   "name": "Aram Sinnreich",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/aram.cfm",
+   "personal_url": "http://sinnreich.com",
+   "photo_url": "https://www.american.edu/uploads/profiles/large/Aramheadshot300sq_1.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=DUdhGXAAAAAJ&hl=en&oi=ao",
+   "research_areas": [
+    "surveillance and privacy",
+    "intellectual property",
+    "digital rights",
+    "digital culture",
+    "democracy and governance",
+    "music"
+   ],
+   "bio": "Dr. Aram Sinnreich is a Professor and Graduate Director of the Communication Studies division at American University’s School of Communication. Sinnreich’s work focuses on the intersection of culture, law and technology, with an emphasis on subjects such as surveillance and privacy, intellectual property, digital rights, digital culture, democracy and governance, and music. He is the author of five books: Mashed Up (2010); The Piracy Crusade (2013); The Essential Guide to Intellectual Property (2019); science fiction novel A Second Chance for Yesterday (2023; coauthored with Rachel Hope Cleves as R.A. Sinn); and The Secret Life of Data (2024; coauthored with Jesse Gilbert). He has also written for publications including The New York Times, Billboard, Wired, The Daily Beast, and Rolling Stone. Sinnreich is a core faculty member in the SOC doctoral program, and the MA in Media, Technology & Democracy and frequently collaborates on research publications and projects with SOC graduate students. Some recent examples include: Rosa, F. R., Clifford, M., & Sinnreich, A. (2021). The more things change: Who gets left behind as remix goes mainstream? In E. Navas, O. Gallagher, and x. burrough (Eds.), The handbook of remix studies and digital humanities. New York: Routledge. Sinnreich, A. & Dols, S. (2022). Chopping Neoliberalism, Screwing the Industry: DJ Screw, the Dirty South, and the Temporal Politics of Resistance. In R. Christopher (Ed.), Boogie down predictions: Hip-Hop, Time, and Afrofuturism. Cambridge, MA: MIT Press. Sinnreich, A., Sanchez-Santos, M., Perry, N. W., & Aufderheide, P. (2023). Performative media policy: Section 230’s evolution from regulatory statute to loyalty oath. Communication Law & Policy. Struett, T., Sinnreich, A., Aufderheide, P. & Gehl, R. (2025). Can This Platform Survive? Governance Challenges for the Fediverse. International Journal of Communication. Prior to coming to AU, Sinnreich served as Associate Professor at Rutgers University's School of Communication and Information, Director at media innovation lab OMD Ignition Factory, Managing Partner of media/tech consultancy Radar Research, Visiting Professor at NYU Steinhardt, and Senior Analyst at Jupiter Research. Sinnreich is also a bassist, composer, and music producer.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Communication Studies."
+  },
+  {
+   "name": "Kurt Braddock",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/braddock.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/kurt4.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Kurt Braddock is an Assistant Professor of Public Communication in the School of Communication at American University. Kurt also holds faculty fellow positions at the SOC's Center for Media and Social Impact (CMSI) and the IDEAS Lab. His research focuses on the persuasive strategies used by violent extremist groups to recruit and radicalize audiences targeted by their propaganda. Kurt also explores how theories of communication, persuasion, and social influence can be used to inform practices meant to prevent radicalization among vulnerable audiences. His first book, titled Weaponized Words: The Strategic Role of Persuasion in Violent Radicalization and Counter-Radicalization (Cambridge University Press, 2020), provides examples of how terrorist groups persuade audiences to adopt their ideologies, and how this process can be fought. Kurt is presently interested in the development of communicative counter-radicalization strategies that prevent white supremacism, neo-Nazism, and the adoption of other violent far-right ideologies. In addition to publishing his work in key communication and security journals (e.g., Communication Monographs, Terrorism and Political Violence, Studies in Conflict & Terrorism), Kurt also provides input to key institutions in D.C. to inform how they fight terrorism. Some of these institutions include the U.S. Department of State, the U.S. Department of Homeland Security, and the U.S. Department of Defense. His work has also been used at the international level, where Kurt has advised the U.K. Home Office, Public Safety Canada, the United Nations Counterterrorism Executive Directorate, and others.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Public Communication. Directory and profile title is Associate Professor; the bio text still says Assistant Professor."
+  },
+  {
+   "name": "Megan Finn",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/finn.cfm",
+   "personal_url": "https://meganfinn.com/",
+   "photo_url": "https://www.american.edu/uploads/profiles/large/Megan_Finn_003arw.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Hello! You can learn more about my work and find links to my publications at meganfinn.com. I am accepting MA and PhD advisees. I have a number of research projects which are historical and contemporary empirical studies of responsible computing and data governance. My work examines relations among policies, infrastructures, and practices in the production, circulation, and use of data and information. I examine these themes in a book, called Documenting Aftermath: Information Infrastructures in the Wake of Disasters, with MIT Press (October 2018). The book is an examination of how changing public information infrastructures shaped people’s experience of earthquakes in Northern California in 1868, 1906, and 1989 followed by an analysis of the institutions, policies, and technologies that shape today’s postdisaster information landscape. I argue that information orders—complex constellations of institutions, technologies, and practices—influence how we act in, experience, and document events. What I term event epistemologies, constituted both by historical documents and by researchers who study them, explain how information orders facilitate particular possibilities for knowledge. Before moving to SOC at AU, I was a professor at University of Washington’s Information School. I was a faculty member of the DataLab at the iSchool, and an affiliate of the UW’s eScience Institute, where, as a part of the Data Science Studies group, I co-convened a talk series, “Data Then and Now” from 2019-2021. I was an advisor with my university’s Science, Technology and Society Studies (STSS) program where I have been lucky enough to advise incredible students from Forestry, Law, and Urban Planning. I was lucky enough to supervise Meg Young, now a researcher at Data and Society. I am still an affiliate professor with the University of Washington. In 2022-2023 I was a visiting scholar at UC Berkeley’s Center for Science, Technology, Medicine, and Society and Stanford’s Department of Communication and HAI. In 2021-2022 I was a Lenore Annenberg and Wallis Annenberg Fellowship in Communication at the Center for Advanced Study in the Behavioral Sciences at Stanford University. From 2012-2014 I spent two wonderful years as a Postdoctoral Researcher at Microsoft Research New England in Cambridge, MA with the Social Media Research Group.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Communication Studies."
+  },
+  {
+   "name": "Laura Hinson",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/hinson.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/Hinson.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Laura Waters Hinson is an award-winning filmmaker and Associate Professor of Film at American University. Her new feature documentary, Strange Ashes, will make its world premiere at the Austin Film Festival in October 2026. She is the director of five feature documentaries and four short films that have screened at more than 100 film festivals and at the U.S. Congress, United Nations, and Smithsonian National Gallery of Art, with broadcasts on PBS, WORLD, ShortsTV, and Curiosity Stream. Her short documentary The Test (2024) won six major festival awards for Best Documentary and qualified for the Oscars. In 2025, she launched a PBS documentary series, the Community Voice Lab Doc Series, on WETA-PBS. Laura serves as the director of the Community Voice Lab and co-head of the film division's documentary concentration. Laura’s films focus on personal journeys, especially among women, exploring themes of reconciliation, human resilience, and entrepreneurship. Her first feature documentary, As We Forgive, about Rwanda’s reconciliation movement and narrated by Mia Farrow, won the 2008 student Academy Award for best documentary, the Cinema for Peace Award in Berlin, and was broadcast nationally on public television. Since 2009 have screened at dozens of international film festivals such as the Big Sky Documentary Film Fest, Santa Barbara International Film Fest, Palm Springs ShortFest, Austin Film Fest, Seattle Human Rights Film Fest, Pan African Film Fest, Heartland Film Fest, Manchester Film Fest, among many others. Her feature documentary about the 3D printed housing revolution, Project Home, was released in September 2023 by 1091 Pictures and is available on Apple+, Amazon and other digital platforms. Laura’s earlier film, Street Reporter, won the Jury Award for Best Short Documentary at the Annapolis Film Festival 2022, the Social Impact Media Award for Creative Activism and the Audience Choice Award at the 2021 Austin Film Festival and the Indy Shorts Film Festival. Prior to this, she directed Mama Rwanda, a documentary about the new generation of women entrepreneurs in Rwanda transforming their nation after genocide, supported by the National Geographic All Roads Film Project. During the Spring of 2019, Laura served as the director's shadow on the set of Showtime's Homeland.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Film & Media Arts."
+  },
+  {
+   "name": "Natalie Hopkinson",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/natalieh.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/Dr.NatalieHopkinson863412.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Natalie Hopkinson is associate professor of media, democracy and society. She is author of three books and hundreds of journalistic as well as academic peer-reviewed articles and book chapters about Black and Indigenous art, media, and knowledge systems. Her exhibits, film and other documentary projects map culture in West Africa, the Caribbean, South America and Europe. She served as Chief Curator of the Go-Go Museum & Cafe, whose Feb. 2025 grand opening in Historic Anacostia culminated decades of her journalism, scholarship and advocacy. She reported on go-go music as an arts and youth culture staff writer at the Washington Post, and served on the founding team of editors for the digital magazine The Root, the Slate spinoff led by Harvard University scholar Dr. Henry Louis Gates Jr. Her doctoral dissertation at the University of Maryland-College Park was the first to theorize go-go music as a public sphere, news and cultural network. As co-founder of the Don't Mute DC movement, she shaped DC law 23-71 that decriminalized go-go music and designated it the Official Music of Washington, D.C. in 2020. She revived the city's folklife research program, Traditional Arts DC, which specializes in archiving, mapping and cultural transmission of District of Columbia heritage. From 2022-2025, she has served as co-lead scholar and curatorial consultant to the National Civil Rights Museum at the Lorraine Motel in Memphis. SELECTED HONORS Natalie Hopkinson's books include: A Mouth is Always Muzzled (2018, The New Press), Go-Go Live (2012, Duke University Press) and Deconstructing Tyrone with Natalie Y. Moore (2006, Cleis Press). Her writing was recognized by the Hurston/Wright Legacy Awards, PEN-America, and the Independent Publishers Association, SPIN Magazine, among others. The Capstone Group, the D.C. Commission on Women, and The Poverty & Race Research Action Council named her a “flame of inspiration” and “cultural influencer” and “voice for racial justice.” District of Columbia Mayor Muriel Bowser proclaimed Nov. 5, 2021 “Pushy Woman Day” in Washington, D.C. to honor her success challenging entrenched special political interests in the arts. She is the recipient of the 2023 Artist Activist award from the Canady Foundation for the Arts and the 2024 \"Wammie\" Award for Music Advocacy.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Journalism."
+  },
+  {
+   "name": "Wendy Melillo",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/melillo.cfm",
+   "personal_url": "http://wendymelillo.com",
+   "photo_url": "https://www.american.edu/uploads/profiles/large/wendy_melillo_profile_photo_updated.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Wendy Melillo is a full-time professor of Journalism. She teaches in the School of Communication's Journalism division. Her research is focused on how strategic communication influences society and the media. Melillo was a reporter for The Washington Post, earning a Pulitzer Prize nomination and an award from the White House Correspondents' Association for her coverage of the United Way scandal. She spent nearly a decade covering political advertising and strategic communication planning for the business publication Adweek before joining SOC. Her first book was published in 2013, How McGruff and the Crying Indian Changed America. The book discusses the compelling - and sometimes controversial - story of the Ad Council and the campaigns that have become part of the nation’s collective memory.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Journalism."
+  },
+  {
+   "name": "Claudia Myers",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/MYERS.cfm",
+   "personal_url": "http://claudiamyersfilms.com",
+   "photo_url": "https://www.american.edu/uploads/profiles/large/claudiamyers copy.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Claudia Myers was named one of \"10 Filmmakers to Watch\" by Independent Magazine in 2015. She has written and directed four features, won multiple awards, was twice a finalist for the Sundance Screenwriters Lab, and is an alumna of the Hamptons Screenwriters Lab. Claudia wrote and directed ABOVE THE SHADOWS, a supernatural drama starring Olivia Thirlby, Alan Ritchson, Jim Gaffigan and Megan Fox. The film opened the 2019 Brooklyn Film Festival where it won the Audience Award for Best Narrative Feature. After a theatrical release, the film was acquired for streaming on Amazon Prime. Prior to this, Claudia wrote, directed, and produced the military drama FORT BLISS starring Michelle Monaghan, Ron Livingston & Pablo Schreiber. The film won several awards and top critics for The Washington Post and Philadelphia Inquirer both cited Fort Bliss among the best films of 2014. Prior to this Claudia wrote and directed KETTLE OF FISH with Matthew Modine and Gina Gershon, which premiered at the Tribeca Film Festival and won a Nickelodeon Screenwriting Award. Claudia also co-wrote WILD OATS which won second place at the Slamdance Screenplay Competition. The film stars Shirley MacLaine, Jessica Lange and Demi Moore. Although Claudia works primarily in fiction, she also has experience in documentary. Claudia recently co-directed THE TEST, a short documentary offering a unique look at one man's journey towards US citizenship. The film has screened at over 15 festivals and won several jury awards for best short documentary. Earlier in her career, Claudia made a number of TV documentaries about the military community. Among these, THE LONG ROAD BACK about wounded soldiers returning from Iraq, won two Telly Awards, an Aurora Award, and was nominated for a regional Emmy. Claudia is currently in development on several projects, and recently directed the TV drama THE BAD GUARDIAN with Melissa Joan Hart and Lala Anthony.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Film & Media Arts."
+  },
+  {
+   "name": "Krzysztof Pietroszek",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/pietrosz.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/me1_2.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=2Tolc0IAAAAJ",
+   "research_areas": [],
+   "bio": "I am an Associate Professor in the Film and Media Arts Division of the School of Communication at American University in Washington, D.C., where I explore the confluence of filmmaking, game design, and computer science. My creative portfolio includes writing and directing one of the first volumetric (holographic) fiction films, \"Vera,\" and producing several award-winning short films. In the realm of virtual reality, I have developed engaging VR video games such as \"Cube VR\" and \"Chessnaught VR.\" My academic journey is marked by the publication of over 60 peer-reviewed research papers, which have garnered more than 1100 citations, reflecting the impact of my work on immersive media, storytelling, and the application of technology. As the Founding Director of the Institute for Immersive Designs, Experiences, Applications, and Stories (Institute for IDEAS) at American University, I lead initiatives that merge creativity with technological innovation. Throughout my career, I have successfully attracted over $4 million in funding from prestigious institutions, including the National Science Foundation and the Canada Media Fund, to support my research and projects. My work not only contributes to the academic and creative communities but also aims to push the boundaries of how we engage with digital and immersive media.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Film & Media Arts."
+  },
+  {
+   "name": "Benjamin Stokes",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/bstokes.cfm",
+   "personal_url": "https://BenjaminStokes.net",
+   "photo_url": "https://www.american.edu/uploads/profiles/large/AU-Benjamin_Stokes_018arw.JPG",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Benjamin Stokes is a civic media scholar, game designer, and director of The Playful City Lab. He is an associate professor and division director for the School of Communication's Communication Studies division. Benjamin is a fellow at the AU Game Center and the Metropolitan Policy Center. Previously, Benjamin co-founded Games for Change, the movement hub for advancing social change with games. At the MacArthur Foundation prior to academia, Benjamin was a program officer in their portfolio on Digital Media and Learning. Benjamin has also worked at the UC Berkeley School of Information as a postdoctoral scholar in data science. Design experience in civil society includes leading teams at NetAid/Mercy Corps in global citizenship education. His recent book is Locally Played: Real-World Games for Stronger Places and Communities (MIT Press, 2020). Students considering our PhD Program, MA in Media, Technology and Democracy, or MA/MFA in Game Design and Interactivity are encouraged to be in touch. Recent collaborations with students include projects on neighborhood storytelling networks, place-based games, participatory design, and play that strengthens cities and communities.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Communication Studies."
+  },
+  {
+   "name": "Margot Susca",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/susca.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/IMG_8647.JPG",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Margot Susca is a tenured associate professor of journalism, accountability, and democracy. Dr. Susca combines investigative reporting techniques with critical political-economy methods to examine media ownership and its implications for democracy. She is a recognized expert on the growing influence of private equity and hedge funds in the news marketplace. The University of Illinois Press published her first book, Hedged: How Private Investment Funds Helped Destroy American Newspapers and Undermine Democracy in January 2024. It won the Frank Luther Mott/Kappa Tau Alpha Research Award, which annually honors the best research-based book about journalism or mass communication. Dr. Susca's second book under contract with the University of Massachusetts Press is in peer review. Additionally, her scholarship has been published in peer-reviewed journals including Communication and Democracy; Critical Studies in Media Communication; and Communication, Culture, & Critique. Dr. Susca's academic and professional newsroom experiences inform her work as a mentor, scholar, and teacher. In 2022, she won American University’s Outstanding Teaching Award given annually to a full-time faculty member in a tenure-line position. She mentors and teaches undergraduate, master's, and doctoral students in the School of Communication and through the Complex Problems program works with first-years from every University major. Since 2016, Dr. Susca regularly has served as an editor at the Investigative Reporting Workshop on campus founded by nonprofit news pioneer Charles Lewis. Off campus, she has served as a Maynard Institute for Journalism Education fellowship mentor in the Storytelling/Investigative Reporting track, and she has worked as an assessor with Poynter's International Fact Check Network for nearly a decade. Dr. Susca is a frequent guest and expert on news programs and podcasts around the world discussing journalism and society, the business of media, and corporate media ownership. Before earning a doctorate, she worked as a newspaper reporter in Connecticut and Florida.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Journalism."
+  },
+  {
+   "name": "John Watson",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/jwatson.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/john_watson_profile_request.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "John C. Watson is an associate professor tenured in the Journalism Division. He brings a combination of professional experience and scholarly credentials to the classroom. A journalist for 21 years, he has a law degree and a Ph.D. His research on media law and journalism ethics has been has been presented at scholarly conferences and published in law reviews and refereed scholarly journals. He is the author of the 2008 book Journalism Ethics by Court Decree. He advocates for the formal professionalization and licensing of journalists to provide professional responsibilities and privileges that distinguish them from other mass media content providers.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Journalism."
+  },
+  {
+   "name": "Sherri Williams",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/sherriw.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/Williams300_2.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Sherri Williams is a race and representation researcher who teaches about how media images are connected to and uphold oppression and inequality. Williams, who was a journalist for a decade before entering academia, teaches journalism and media studies courses that examine how race, gender, class, sexual identity, ability, age and body size are portrayed in mass media. Williams believes that storytelling can be a tool for liberation. She is also the inclusion officer for the School of Communication. Williams’ research is at the intersection of social media, social justice, reality television, mass media and how people of color use and are represented by these mediums. Williams is interested in how Black people’s use of social media is changing social justice and television. Williams' new book, Black Social Television: How Black Twitter Changed Television, explores how the Black TV audience got shows revived and blocked because of their digital activism. Black Social TV is a multiple award winner: the 2026 Harry Shaw and Katrina Hazzard-Donald Award for Outstanding Work in African American Popular Culture Studies (Popular Culture Association), the 2025 Outstanding Book Award from the African American Communication and Culture Division (National Communication Association) and the 2025 Bonnie Ritter Book Award Feminist and Gender Studies Division (National Communication Association). Williams is also interested in and studies how marginalized people, especially Black women, are represented in mass media. A popular course that she created, Identity, Power and Misrepresentation, connects anti-Blackness, colonialism, genocide, Orientialism, heteropatriarchy and capitalism to contemporary stereotypes. Preparing the next generation of journalists who can cover marginalized communities with dignity and accuracy is a priority for Williams. She sometimes partners with national media outlets, through her course COMM 588 Race, Ethnic and Community Reporting, for journalism projects in which students’ work produced in the course is published by national media outlets. Williams’ students 2020 presidential election project, Vision 2020: Election Stories from the Next Generation, was published by The Nation magazine in 2020. Her course-based journalism project, Racial Reckoning: A Year After a Movement Rocked the Nation, was published by Teen Vogue in 2021.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Journalism."
+  },
+  {
+   "name": "Sarah Aghazadeh",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/saghazadeh.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/sarah-aghazadeh.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Sarah A. Aghazadeh (she/her) is an Assistant Professor of Advocacy and Social Impact Communication at American University’s School of Communication. Broadly, her research investigates theory and application of advocacy, activism, and community building. Her work often addresses taboo and stigmatized social issues and discourses by utilizing qualitative, rhetorical, and/or community-engaged methods. She received the inaugural L’Etang-Pieczka Award for outstanding research from Public Relations Inquiry (2024). She has taught a variety of communication, public relations, news writing, and health communication courses during her years as an instructor. She joined American University in 2025, after serving as an Assistant Professor of Public Relations at Auburn University. Selected Publications Aghazadeh, S.A. (2024). Don’t say “the D word”: Exploring death taboo and biopower in pregnancy loss awareness advocacy. Public Relations Inquiry, 13(2), 235-257. https://doi.org/10.1177/2046147X241234066 Aghazadeh, S.A. (2024). Exploring leisure and municipal government public relations for community: A case example of parks and recreation. Public Relations Review, 50(1), Article 102410. https://doi.org/10.1016/j.pubrev.2023.102410 Aghazadeh, S.A., Capizzo, L., & Tindall, N.T.J. (2024). Wrangling in the marketplace or bartering in the bazaar? Adapting metaphors for public relations’ societal role. Journal of Public Relations Research, 36(2), 129-151. https://doi.org/10.1080/1062726X.2023.2285067 Aghazadeh, S.A., & Aldoory, L. (2023). Community-based participatory research for public relations: Realizing potential for researcher-participant relationships. Public Relations Review, 49(1), Article 102290. https://doi.org/10.1016/j.pubrev.2023.102290 Aghazadeh, S.A. (2022). Advocacy and marginality: Considering legitimacy, authenticity, and culture to extend fully functioning society theory. Journal of Public Relations Research, 34(6), 257-273. https://doi.org/10.1080/1062726X.2022.2118749",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Public Communication."
+  },
+  {
+   "name": "Chelsea Butkowski",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/butkowsk.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/Chelsea_Butkowski_009arw_webversion.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "digital media and identity",
+    "feminist and queer media studies",
+    "platforms and algorithms",
+    "visual cultures",
+    "political communication"
+   ],
+   "bio": "Dr. Chelsea Butkowski is an Assistant Professor of Data, Media & Identity in American University's School of Communication. Their research examines the relationship between digital media technologies and identity, including the social practices and effects of everyday social media use. Most recently, they have turned to studying online identities during times of rapid change to consider how so-called \"unsettled times\" can unsettle our sense of self. Butkowski's research interests include feminist and queer media studies, platforms and algorithms, visual cultures, and political communication. Recent work has involved analyses of digital popular culture during U.S. elections and legacies of gender stereotyping in selfies. They are currently undertaking a multi-year study of social media and identity during the COVID-19 pandemic. Butkowski draws from a background in art history, material culture, and museum studies to situate contemporary digital and visual media within wider historical contexts of communication practice. They also specialize in social scientific media research methods, including content analysis and in-depth interviewing. Butkowski's research has been recognized with support from major funding organizations and awards at national and international conferences. Their work can also be found in a number of leading communication journals, including New Media & Society; Social Media + Society; Journal of Computer-Mediated Communication; Communication, Culture & Critique; and Feminist Media Studies. Butkowski is also affiliated with the UNC Center on Information Technology and Public Life (CITAP) and the UPenn Center on Digital Culture & Society (CDCS). Butkowski is currently taking PhD students, so please be in touch! Recent Publications: Butkowski, C. P., & Corry, F. (equal authorship). (2025). Social media’s midlife crisis: How public discourse imagines platform futures. Social Media + Society, 11(2), 1–13. https://doi.org/10.1177/20563051251351493 Butkowski, C. P., Wilson, S. R., Wiemer, E. C., & *Kessler, F. (2025). The bad citizen? Framing non-voting on Twitter during the 2020 U.S. election. Journal of Information Technology & Politics. Advance online publication, 1–18. https://doi.org/10.1080/19331681.2025.2455973 Butkowski, C. P. (2024). Record, revise, reinvent, and resist: The politics of social media self-representation during the COVID-19 pandemic. New Media & Society. Advance online publication, 1–20.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Communication Studies."
+  },
+  {
+   "name": "Rosalind Donald",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/rdonald.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/Ros_Headshot1_Retouched1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "I study how we talk about climate change, examining how environmental injustices shape today's climate debate. I am particularly interested in the ways different groups, like city planners, journalists, filmmakers, and community groups communicate their visions of living with nature throughout history, and I am an associate director of the Center for Environmental Filmmaking. I'm currently writing a book, \"Greenlining\", which digs into the battle for environmental and climate justice in Miami since the New Deal.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Public Communication."
+  },
+  {
+   "name": "Rohan Grover",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/rgrover.cfm",
+   "personal_url": "https://www.rohangrover.org/",
+   "photo_url": "https://www.american.edu/uploads/profiles/large/rgrover-sq-300_1.png",
+   "google_scholar_url": "https://scholar.google.com/citations?user=7BoPFOoAAAAJ",
+   "research_areas": [],
+   "bio": "Rohan Grover (he/they) is Assistant Professor of AI and Media at American University’s School of Communication and a Non-Resident Fellow with the Center for Democracy and Technology. His research explores how media and technology industries translate public values into commercial products, thereby reconfiguring public interest work to serve private capital. Currently, he is especially interested in public interest intermediaries and the political economy of technocratic expertise. His current book project, tentatively titled Manufacturing User Consent: The Social Life of Data Privacy Law in Action, is under contract with the University of California Press. It draws on ethnographic research in the privacy tech industry to demonstrate the unanticipated politics of implementing and translating data privacy law on the ground. The dissertation upon which the book is based was selected as a finalist for the Best Dissertation Award from the Society of Business Ethics. Grover's research has been published in journals such as New Media & Society, Political Communication, the International Journal of Communication, Telecommunications Policy, the Journal of Information Policy, The Information Society, and at CHI. His work has been supported by two NSF-funded grants in the areas of research translation and law & science. His research has been recognized with the James R. Cleary Prize for Student Media Law & Policy Research as well as top paper awards from the International Communication Association. He has also received support from major funders across the fields of communication, computing, political science, and media studies. Previously, Grover was a product manager and data strategist at digital media and political advocacy organizations including HuffPost, MoveOn, Planned Parenthood, and Upworthy. Grover is currently accepting PhD students. Please feel free to reach out if you are interested in pursuing a PhD in Communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Communication Studies."
+  },
+  {
+   "name": "Maya Livio",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/livio.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/MayaLivio_headshot_300x300.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "environmental media studies",
+    "critical AI, data, and infrastructure studies",
+    "feminist science and technology studies",
+    "new/digital media studies",
+    "ecocinema and media arts",
+    "human-computer interaction",
+    "game studies",
+    "media archaeology"
+   ],
+   "bio": "Dr. Maya Livio is a faculty member at American University's School of Communication (SOC) and the SOC doctoral program as well as the incoming director of the Center for Environmental Filmmaking (2026). Her interdisciplinary research and practice examine the environmental dimensions of media and computation technologies. Currently, she is working on multiple projects on the environmental stakes of AI systems. The first develops long-term research on the lesser-known impacts of AI-driven data center development. The second is a project on the relationships between AI and biodiversity loss. Livio has held major fellowships and residencies including at Caltech and the Huntington Library (2023) and the MAK Center for Art & Architecture and SOM Foundation (2024). Her work has been published by and featured in leading journals and venues such as New Media & Society, CHI, e-flux Journal, The Washington Post, NPR, Contemporary Art Review Los Angeles, and books from Amherst College Press and Punctum Books. Blending traditional research with practice and public scholarship, Livio's work includes scholarly writing, media projects, essayistic writing, curation, and community organizing. This has, for example, included work as curator of MediaLive, an international biennial exhibition of media arts at Boulder Museum of Contemporary Art (BMoCA), and as curator of the Media Archaeology Lab, a collecting institution for historical technologies. Previously, she has served as Editor at the European Journalism Center and Editor at the international research consultancy Ecorys, advising on projects for the European Commission. Information for prospective graduate students: Dr. Livio is currently accepting PhD students. She is particularly well-suited to work with students whose areas of inquiry draw from new/digital media studies; environmental media studies; feminist science and technology studies (fSTS); ecocinema and media arts; critical AI, data, and infrastructure studies; environmental humanities; human-computer interaction (HCI); game studies; media archaeology, and the history of technology. Dr. Livio can support students whose methods are qualitative, ethnographic, digital methods-driven, practice-based, design-informed, or speculative. If you are interested in working together as a graduate student, please send an email including a few paragraphs outlining the research questions, case studies, or goals animating your work.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Film & Media Arts."
+  },
+  {
+   "name": "Sarah Menke-Fish",
+   "title": "Assistant Professor and Senior Director of Experiential Learning",
+   "rank": "Assistant Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/smenke.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/menkefish1_1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Sarah Menke-Fish is a full-time professor of Film and Media Arts. She serves as Assistant Dean of Experiential Learning and Associate Director for the Center for Environmental Filmmaking. Menke-Fish launched and directs Discover the World of Communication, a summer program that brings high school students from around the world to AU and U.C. Berkeley for intense, hands-on courses in environmental communication, video production, screen writing and journalism. She received the AU Faculty Green Teaching Award 2019, The Alan G. Penczek Service-Learning Faculty Award, Maryland-DC Campus Compact 2013 and the University Faculty Award for Outstanding Teaching 2012. In 2005 she was selected Faculty Member of the Year by the AU Student Confederation; in 2002, she received American University's award for Outstanding Teaching in an Adjunct Position. Prior to joining the SOC faculty, Menke-Fish coordinated Montgomery County Public Schools' Humanities and Communication Magnet Program. She has won numerous awards for educational documentaries produced with middle school and high school students, including CINE awards for If You Change Your Mind and Remotely Science. She and her students received the Presidential Environmental Youth Award for Trash: What A Waste, a comprehensive look at recycling.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Film & Media Arts. Title 'Assistant Professor and Senior Director of Experiential Learning' mapped to Assistant Professor."
+  },
+  {
+   "name": "Joe Pirro",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/jpirro.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/Joe_Pirro_127small_3.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Joe Pirro is a producer whose work focuses on championing diverse, emerging voices both domestically and abroad. Joe produced Andrew Ahn’s The Wedding Banquet starring Bowen Yang and Lily Gladstone which premiered at the 2025 Sundance Film Festival where Joe won the Sundance Institute - Amazon MGM Studios Producers Award for Fiction. The film was released theatrically in the U.S. by Bleecker Street and internationally by Universal. His other recent credits include Ahn’s Driveways (Berlin ’19), Gerardo Naranjo's El Yerno (released by Netflix May '26), Mike Ott’s McVeigh (Tribeca ’24), and Minhal Baig’s We Grown Now (Toronto, ’23) which was released in 2024 by Sony Pictures Classics and was nominated for three Film Independent Spirit Awards including Best Feature. Other credits include Kitty Green’s Casting JonBenet and The Assistant, Amman Abbasi’s Dayveon, Rhys Ernst’s Adam, and Jean-Stéphane Sauvaire’s A Prayer Before Dawn which premiered at Cannes in 2017 before being released theatrically by A24. Prior to producing, he worked at United Talent Agency, Red Hour Films, The Weinstein Co., and Focus Features. He is a Producer-in-Residence at Film Independent, a Producers Guild of America mentor for early career producers, and a Creative Advisor for SFFilm's Artist Development Programs. Originally from Roanoke, VA, Joe received his BA from The College of William & Mary and his M.S.Ed from Hunter College during which time he taught elementary school in Brooklyn.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Film & Media Arts."
+  },
+  {
+   "name": "Gemma Puglisi",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/puglisi.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/gemma-puglisi-profile_1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Gemma Puglisi is a full-time professor of Public Communication. She is an award-winning media strategist and producer with more than 25 years of experience. During her career she has worked in broadcast news, public relations, entertainment and the financial sector, where she was a market reporter/media relations specialist for Nasdaq. Her SOC classes have won recognition from the Washington Post, the Washington Times, the D.C. Mystics and other organizations. Puglisi is often sought as an expert on crisis public relations, media issues, and women in communications. In 2006, she received the Order of the Star and was knighted by the Republic of Italy for her contributions to education and promoting Italian language and culture. She has also been recognized with some of the top awards in her field including the following: o The National Capital Chapter PRSA Hall of Fame Honoree o PRNEWS Top Women in PR, Mentor o The Campus Compact Mid-Atlantic Award: The Alan G. Penczek Service Learning Faculty Award o The American University's School of Communication's Diversity, Equity, and Inclusion Faculty Award o The Washington PR Woman of the Year by the Washington PR Women o RAGAN's PRNEWS Communicator of the Year Award, Honorable Mention",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Public Communication."
+  },
+  {
+   "name": "Jamie Sisley",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/sisley.cfm",
+   "personal_url": null,
+   "photo_url": "https://www.american.edu/uploads/profiles/large/JamieProfilePic.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Jamie Sisley is an Emmy Award-winning filmmaker who recently wrote and directed \"Stay Awake,\" a narrative feature film that premiered at the 2022 Berlin Film Festival, where it won the AG Kino Gilde Auteur Award and was Honorable Mention for the Crystal Bear. Starring Chrissy Metz (\"This Is Us\"), Wyatt Oleff (“IT,\" Netflix’s “I Am Not Okay With This,\" Apple’s “City on Fire”), and Fin Argus (Max’s “Queer As Folk,” “The Other Two”), \"Stay Awake\" is a personal exploration of the roller coaster ride that families go on while trying to help their loved ones battle addiction. The feature is based off a short film of the same name that Jamie also wrote and directed. The short film premiered at the 2015 Berlin Film Festival, won both the National Board of Review Film Prize and Slamdance Grand Jury Prize, and played over 120 film festivals around the world. In addition, Jamie received an Emmy Nomination for his feature documentary, \"Farewell Ferris Wheel.\" Shot over the course of six years, \"Farewell Ferris Wheel\" explores how the U.S. Carnival industry fights to keep itself alive by legally employing Mexican migrant workers with the controversial H-2B guestworker visa. The film won the Creative Promise Award from the Tribeca Film Institute, received an Imagen Award Nomination for the positive portrayal of Latinos in entertainment, and was nationally broadcast on PBS and Netflix. Jamie’s work has been supported by the Sundance Institute, SFFILM, Tribeca Film Institute, Film Independent, ITVS, and The Smithsonian Institute. Prior to film, Jamie was an artist manager in the music industry at Red Light Management.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Film & Media Arts."
+  },
+  {
+   "name": "Joe Stephens",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Communication",
+   "profile_url": "https://www.american.edu/soc/faculty/jstephens.cfm",
+   "personal_url": null,
+   "photo_url": null,
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Joe Stephens is an Assistant Professor of Journalism and Executive Editor of the Investigative Reporting Workshop (IRW). The Workshop is an innovative, editorially independent, nonprofit newsroom that holds power to account. IRW pairs early-career journalists with veteran reporters to produce rigorous accountability stories that would otherwise go untold. Its work with partner newsrooms has exposed injustice for nearly two decades, in articles that have been recognized repeatedly by the Pulitzer board, among others. Stephens came to AU from Princeton University, where he was the founding director of the Program in Journalism and, for 12 years, the Ferris Professor of Journalism in Residence. A veteran investigative reporter, he is a three-time winner of the George Polk Award and a three-time finalist for the Pulitzer Prize. Stephens joined the Washington Post in 1999, where he was a member of the investigative projects team for more than 16 years. He has written extensively on presidential politics, political corruption, the war against terrorism, Afghan reconstruction, the federal judiciary, and drug experiments conducted on children in the developing world. He has reported and lectured in Europe, Africa, Asia, Latin America, and across the U.S. His stories have led to Congressional hearings, national legislative reforms, criminal convictions, and millions of dollars in fines. Stephens has won more than a dozen other national honors, including top awards from the Overseas Press Club, the Gerald Loeb Foundation, the Society of Professional Journalists, the Scripps Howard Foundation, Investigative Reporters and Editors, and the Annie E. Casey Foundation. Stephens was a member of The Washington Post staff in 2002, when it was awarded the Pulitzer Prize for national reporting, for coverage of the Sept. 11, 2001, attacks. He has been a finalist on multiple occasions for Harvard’s Goldsmith Prize, the Gerald Loeb award for financial reporting, and the Investigative Reporters and Editors award. Stephens has judged many major contests, and served on Pulitzer Prize juries in 2019 (Criticism) and 2020 (Investigative Reporting). He has served as a trustee and board advisor at the Fund for Investigative Journalism and the Jersey Vindicator. From 2014 through 2025, Stephens directed and moderated Princeton University’s Newsmaker Dinner series, a public affairs discussion group. In 2016, he was named Faculty in Residence at Mathey College.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Division: Journalism."
+  }
+ ]
+}

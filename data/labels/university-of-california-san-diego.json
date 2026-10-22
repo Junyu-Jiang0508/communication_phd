@@ -1,0 +1,1685 @@
+{
+ "slug": "university-of-california-san-diego",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "Morana Alac",
+   "summary": "Studies multimodal and multisensory interaction, such as gesture and the senses, in scientific laboratories and everyday technology use through ethnographic and ethnomethodological research.",
+   "summary_zh": "通过民族志与常人方法学研究，考察科学实验室及日常技术使用中的多模态、多感官互动，如手势与感官实践。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_LANGUAGE_INTERACTION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "ethnomethodology",
+    "gesture",
+    "multimodality",
+    "the senses",
+    "interaction with technology",
+    "scientific laboratories",
+    "digital voice assistants",
+    "ethnography"
+   ]
+  },
+  {
+   "name": "Patrick Anderson",
+   "summary": "Studies how violence, mortality, pain, and illness shape political subjectivity, drawing on performance studies, cultural studies, and queer and gender studies.",
+   "summary_zh": "借助表演研究、文化研究以及酷儿与性别研究，探讨暴力、死亡、痛苦与疾病如何塑造政治主体性。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "performance studies",
+    "cultural studies",
+    "violence",
+    "mortality",
+    "pain",
+    "political subjectivity",
+    "queer suicide",
+    "critical gender studies"
+   ]
+  },
+  {
+   "name": "Boatema Boateng",
+   "summary": "Studies how intellectual property law intersects with race, gender, and nation, examining Ghanaian adinkra and kente cloth, U.S. quilting, and Black indigeneities in Africa and the diaspora.",
+   "summary_zh": "研究知识产权法如何与种族、性别和国族交织，考察加纳阿丁克拉与肯特布、美国拼布艺术以及非洲与离散群体中的黑人原住性。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_AFRICA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "intellectual property",
+    "copyright",
+    "critical legal studies",
+    "critical race studies",
+    "indigenous studies",
+    "african diaspora",
+    "kente cloth",
+    "adinkra",
+    "ghana",
+    "quilting"
+   ]
+  },
+  {
+   "name": "Angela Booker",
+   "summary": "Studies how youth, families, and schools use media and technology for civic participation, learning, and community development, using ethnographic, qualitative, and design-based research.",
+   "summary_zh": "运用民族志、质性与基于设计的研究方法，探讨青少年、家庭和学校如何利用媒介与技术进行公共参与、学习与社区发展。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "youth civic participation",
+    "informal learning",
+    "media and technology for learning",
+    "parent advocacy",
+    "anthropology and education",
+    "design-based research",
+    "ethnography",
+    "digital storytelling"
+   ]
+  },
+  {
+   "name": "Matilde Córdoba Azcárate",
+   "summary": "Studies tourism, capitalism, space, and the politics of nature and heritage, with ethnographic work on tourism, megaprojects, and Maya territorial defense in Yucatán, Mexico.",
+   "summary_zh": "研究旅游、资本主义、空间以及自然与遗产政治，并以民族志方法考察墨西哥尤卡坦的旅游业、大型工程与玛雅领土捍卫。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_LATIN_AMERICA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "tourism",
+    "political ecology",
+    "heritage",
+    "megaprojects",
+    "maya territorial defense",
+    "yucatán",
+    "critical geography",
+    "ethnography",
+    "tourism geopolitics"
+   ]
+  },
+  {
+   "name": "Zeinabu Irene Davis",
+   "summary": "Makes independent films centered on African American women and writes on film history, world cinema, folklore, and African and African American cinema.",
+   "summary_zh": "创作以非裔美国女性为中心的独立电影，并撰写关于电影史、世界电影、民间传说以及非洲与非裔美国电影的论述。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_AFRICA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "independent film",
+    "african american cinema",
+    "african cinema",
+    "african american women",
+    "film history",
+    "world cinema",
+    "folklore",
+    "fespaco"
+   ]
+  },
+  {
+   "name": "Andrew deWaard",
+   "summary": "Studies the cultural industries, financialization, and media ownership using critical political economy of media, including independent music in the streaming age.",
+   "summary_zh": "以媒介批判政治经济学方法研究文化产业、金融化与媒介所有权，包括流媒体时代的独立音乐。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "cultural industries",
+    "political economy of media",
+    "financialization",
+    "media consolidation",
+    "media ownership",
+    "media authorship",
+    "streaming music",
+    "digital humanities"
+   ]
+  },
+  {
+   "name": "Fernando Domínguez Rubio",
+   "summary": "Studies art, museums, maintenance and repair, and the labor and ecologies that sustain cultural objects, working across sociology, science and technology studies, and design.",
+   "summary_zh": "横跨社会学、科学技术研究与设计，研究艺术、博物馆、维护与修复，以及维系文化物品所需的劳动与生态。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "personal_site"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "personal_site"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "science and technology studies",
+    "art museums",
+    "maintenance and repair",
+    "material culture",
+    "sociology of art",
+    "design and architecture",
+    "politics of knowledge"
+   ]
+  },
+  {
+   "name": "Alexander Fattal",
+   "summary": "Studies the politics of visual representation around Colombia's armed conflict, including counterinsurgency marketing and branding, through multimodal anthropology, photography, and documentary.",
+   "summary_zh": "通过多模态人类学、摄影与纪录片创作，研究围绕哥伦比亚武装冲突的视觉再现政治，包括反叛乱营销与品牌化。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_LATIN_AMERICA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "colombian armed conflict",
+    "counterinsurgency",
+    "guerrilla marketing",
+    "visual anthropology",
+    "experimental documentary",
+    "community-based photography",
+    "latin american cinema",
+    "refugees"
+   ]
+  },
+  {
+   "name": "Kelly Gates",
+   "summary": "Critically analyzes digital media technologies and the automation of surveillance in the United States, including facial recognition and the corporate police surveillance economy.",
+   "summary_zh": "批判性地分析数字媒介技术与美国监控的自动化，包括人脸识别技术以及企业与警方的监控经济。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "surveillance",
+    "facial recognition",
+    "biometrics",
+    "computer vision",
+    "policing",
+    "datafication",
+    "automation",
+    "digital media technologies"
+   ]
+  },
+  {
+   "name": "Stuart Geiger",
+   "summary": "Studies AI, data science, and content moderation on online platforms, including bias auditing of language models, using ethnography and computational and mixed methods.",
+   "summary_zh": "运用民族志以及计算与混合方法，研究人工智能、数据科学与网络平台内容审核，包括对语言模型的偏见审计。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_MIXED",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "content moderation",
+    "platform governance",
+    "machine learning fairness",
+    "data science",
+    "language models",
+    "algorithmic auditing",
+    "wikipedia",
+    "open source software",
+    "online ethnography"
+   ]
+  },
+  {
+   "name": "Brian Goldfarb",
+   "summary": "Studies visual and digital media cultures in education, disability, and environmental activism, and creates collaborative media projects on Tourette syndrome and refugee wellness.",
+   "summary_zh": "研究教育、残障与环境行动中的视觉与数字媒介文化，并开展关于妥瑞氏症与难民心理健康的协作媒体项目。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "visual pedagogy",
+    "visual culture",
+    "disability studies",
+    "media and education",
+    "environmental activism",
+    "tourette syndrome",
+    "refugee narratives",
+    "museum curatorship"
+   ]
+  },
+  {
+   "name": "Anthony J. Harb",
+   "summary": "Studies how language and media practices shape inequality for Latinx and Arab communities, from Spanish-language community radio to news coverage of Gaza, drawing on sociolinguistics.",
+   "summary_zh": "借助社会语言学研究语言与媒介实践如何塑造拉丁裔与阿拉伯社群所面临的不平等，涵盖西语社区电台与加沙新闻报道等。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_LANGUAGE_INTERACTION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_MIDDLE_EAST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "critical sociolinguistics",
+    "linguistic anthropology",
+    "raciolinguistics",
+    "community radio",
+    "latinx immigrants",
+    "palestine",
+    "gaza news coverage",
+    "antiracist organizing",
+    "disability"
+   ]
+  },
+  {
+   "name": "Erin T. Hill",
+   "summary": "Studies U.S. film and television production history and contemporary media industry labor, focusing on gender, race, and class in feminized and below-the-line creative work.",
+   "summary_zh": "研究美国电影电视制作史与当代媒介产业劳动，关注女性化及线下创意工作中的性别、种族与阶级问题。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "media industries",
+    "production cultures",
+    "creative labor",
+    "women's work in media",
+    "below-the-line labor",
+    "film development",
+    "hollywood",
+    "gig work",
+    "occupational stereotypes"
+   ]
+  },
+  {
+   "name": "Lilly Irani",
+   "summary": "Studies the cultural politics of high-tech work and innovation in India and global AI economies through ethnography, and designs software such as Turkopticon that offers alternatives to platforms.",
+   "summary_zh": "以民族志研究印度及全球人工智能经济中高科技工作与创新的文化政治，并设计如Turkopticon等为现有平台提供替代方案的软件。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_SOUTH_SE_ASIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "innovation cultures",
+    "high-tech work",
+    "entrepreneurial citizenship",
+    "india",
+    "ai economies",
+    "turkopticon",
+    "crowdwork",
+    "science and technology studies",
+    "human-computer interaction"
+   ]
+  },
+  {
+   "name": "Caroline Jack",
+   "summary": "Studies the history of advertising, corporate communication, and promotional culture, including how sponsored media such as PSAs, pamphlets, and educational films sold American capitalism.",
+   "summary_zh": "研究广告、企业传播与促销文化的历史，包括公益广告、小册子和教育影片等赞助媒介如何推销美国资本主义。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "promotional culture",
+    "advertising",
+    "corporate communication",
+    "sponsored media",
+    "economic education",
+    "media history",
+    "business history",
+    "free enterprise"
+   ]
+  },
+  {
+   "name": "Shawna Kidman",
+   "summary": "Studies how corporate, legal, and financial systems shape entertainment, using business and legal history to examine broadcasting, streaming, film financing, copyright, and comics.",
+   "summary_zh": "运用商业史与法律史方法，研究企业、法律与金融体系如何塑造娱乐产业，涉及广播、流媒体、电影融资、版权与漫画。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "media industries",
+    "broadcast and cable history",
+    "streaming distribution",
+    "film financing",
+    "franchising",
+    "copyright law",
+    "comic books",
+    "media ownership"
+   ]
+  },
+  {
+   "name": "Carol Padden",
+   "summary": "Studies sign languages, especially American Sign Language, and how a new sign language develops structure such as word order across generations of signers.",
+   "summary_zh": "研究手语，特别是美国手语，以及一种新兴手语如何在几代使用者中形成语序等语言结构。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_LANGUAGE_INTERACTION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "sign language",
+    "american sign language",
+    "asl",
+    "emerging sign languages",
+    "language emergence",
+    "word order",
+    "deaf communities",
+    "language and culture"
+   ]
+  },
+  {
+   "name": "David Serlin",
+   "summary": "Studies the history and culture of disability, technology, and design, including architecture, material culture, and the senses, drawing on feminist, crip, and queer theories of embodiment.",
+   "summary_zh": "借助女性主义、残障（crip）与酷儿的身体理论，研究残障、技术与设计的历史与文化，包括建筑、物质文化与感官。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "disability history",
+    "architecture",
+    "built environment",
+    "material culture",
+    "museums",
+    "history of the senses",
+    "crip theory",
+    "queer theory",
+    "embodiment"
+   ]
+  },
+  {
+   "name": "Christo Sims",
+   "summary": "Studies technological change and social inequality through historically attuned ethnography, from tech-driven school reform to Silicon Valley's growth amid ecological limits.",
+   "summary_zh": "以具有历史视角的民族志研究技术变迁与社会不平等，从技术驱动的学校改革到生态约束下的硅谷发展。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "techno-idealism",
+    "school reform",
+    "social inequality",
+    "silicon valley",
+    "sustainable architecture",
+    "science and technology studies",
+    "ethnography",
+    "knowledge economies"
+   ]
+  },
+  {
+   "name": "Megan Ybarra",
+   "summary": "Studies radical placemaking in environmental justice and abolition organizing, using archival research, surveys, participant observation, and institutional ethnography, including in Guatemala.",
+   "summary_zh": "运用档案研究、问卷调查、参与观察与制度民族志，研究环境正义与废除主义组织中的激进地方营造，包括在危地马拉的研究。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_SURVEY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_LATIN_AMERICA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "environmental justice",
+    "political ecology",
+    "abolition",
+    "radical placemaking",
+    "latinx geographies",
+    "conservation ngos",
+    "indigenous land defenders",
+    "guatemala",
+    "institutional ethnography"
+   ]
+  },
+  {
+   "name": "Elana Zilberg",
+   "summary": "Studies security, space, and mobility between the United States and Latin America, and urban river revitalization movements, using ethnographic methods.",
+   "summary_zh": "运用民族志方法研究美国与拉丁美洲之间的安全、空间与流动，以及城市河流复兴运动。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_LATIN_AMERICA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "transnational gangs",
+    "immigration law",
+    "security",
+    "mobility",
+    "el salvador",
+    "urban river revitalization",
+    "urban nature",
+    "infrastructure",
+    "ethnography"
+   ]
+  }
+ ]
+}

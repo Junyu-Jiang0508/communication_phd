@@ -1,0 +1,2659 @@
+{
+  "slug": "north-carolina-state-university",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Chris Anson",
+      "confidence": "high",
+      "summary": "Studies writing instruction, including response to student writing, writing assessment, writing across the curriculum, literacy theory, and digital literacies.",
+      "summary_zh": "研究写作教学，包括对学生写作的反馈、写作评估、跨课程写作、读写理论与数字素养。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "writing across the curriculum",
+        "response to student writing",
+        "writing assessment",
+        "writing program administration",
+        "literacy theory",
+        "digital literacies",
+        "composition studies",
+        "writing analytics"
+      ]
+    },
+    {
+      "name": "Zachary Beare",
+      "confidence": "high",
+      "summary": "Studies how emotion and identity shape rhetorical activity and composition teaching, with queer and feminist pedagogy and secondary work on rhetorics of queer and reproductive health.",
+      "summary_zh": "研究情感与身份如何影响修辞活动与写作教学，关注酷儿与女性主义教学法，并兼及酷儿与生殖健康的修辞。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "rhetoric and composition",
+        "first-year writing",
+        "emotion and embodiment",
+        "queer pedagogy",
+        "feminist pedagogy",
+        "teacher development",
+        "multimodal composition",
+        "rhetoric of health and medicine"
+      ]
+    },
+    {
+      "name": "Kalyca Becktel",
+      "confidence": "high",
+      "summary": "Studies public relations with a focus on brand-public relationships, the public's use of digital media, and publics' relationships with extreme organizations.",
+      "summary_zh": "研究公共关系，聚焦品牌与公众的关系、公众的数字媒体使用以及公众与极端组织的关系。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public relations",
+        "brand-public relationships",
+        "extreme organizations",
+        "digital media use",
+        "organization-public relationships",
+        "brand communication"
+      ]
+    },
+    {
+      "name": "David Berube",
+      "confidence": "high",
+      "summary": "Studies science and technology communication, especially risk communication about emerging technologies such as nanotechnology, along with climate, disaster, and pandemic communication.",
+      "summary_zh": "研究科学与技术传播，尤其是纳米技术等新兴技术的风险传播，并涉及气候、灾害与疫情传播。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "science communication",
+        "risk communication",
+        "emerging technologies",
+        "nanotechnology",
+        "climate change communication",
+        "disaster communication",
+        "pandemic communication",
+        "debate"
+      ]
+    },
+    {
+      "name": "Andy Binder",
+      "confidence": "high",
+      "summary": "Studies how information about controversial science topics flows through communication channels and shapes risk perception, using national opinion surveys, meta-analysis, and systematic review.",
+      "summary_zh": "研究争议性科学议题的信息如何经由传播渠道流动并影响风险感知，采用全国民意调查、元分析与系统综述。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "controversial science",
+        "risk perception",
+        "public understanding of science",
+        "reclaimed water",
+        "genetic engineering",
+        "opinion survey",
+        "meta-analysis",
+        "sexting"
+      ]
+    },
+    {
+      "name": "Helen Burgess",
+      "confidence": "high",
+      "summary": "Studies digital rhetorics, electronic literature, and critical code studies through critical making, multimedia production, web development, and text/textile practice.",
+      "summary_zh": "研究数字修辞、电子文学与批判代码研究，通过批判性制作、多媒体创作、网页开发与文本/织物实践开展。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "digital rhetoric",
+        "electronic literature",
+        "critical code studies",
+        "critical making",
+        "digital humanities",
+        "multimodal composition",
+        "web development",
+        "textiles"
+      ]
+    },
+    {
+      "name": "Yang Alice Cheng",
+      "confidence": "high",
+      "summary": "Studies AI and strategic communication, including responsible AI, AI literacy, human-AI interaction, crisis communication, misinformation, public trust, and organization-public relationships.",
+      "summary_zh": "研究人工智能与战略传播，包括负责任的AI、AI素养、人机交互、危机传播、虚假信息、公众信任与组织—公众关系。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "ai and strategic communication",
+        "responsible ai",
+        "ai literacy",
+        "human-ai interaction",
+        "crisis communication",
+        "misinformation",
+        "public trust",
+        "organization-public relationships"
+      ]
+    },
+    {
+      "name": "Kirsti Cole",
+      "confidence": "high",
+      "summary": "Studies how people learn to write, how writing programs support students and faculty, and how AI is reshaping writing practice, alongside feminist rhetoric and leadership.",
+      "summary_zh": "研究人们如何学习写作、写作项目如何支持师生，以及人工智能如何重塑写作实践，并关注女性主义修辞与领导力。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "writing program administration",
+        "writing pedagogy",
+        "ai and writing",
+        "digital rhetoric",
+        "feminist rhetoric",
+        "writing across the curriculum",
+        "faculty development"
+      ]
+    },
+    {
+      "name": "Deanna Dannels",
+      "confidence": "low",
+      "summary": "Leads the college of humanities and social sciences as dean; the profile describes administrative initiatives rather than a specific research program.",
+      "summary_zh": "担任人文与社会科学学院院长；简介主要介绍行政举措，未说明具体研究方向。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "academic leadership",
+        "humanities and social sciences",
+        "student success",
+        "faculty wellness",
+        "communication"
+      ]
+    },
+    {
+      "name": "Meg Day",
+      "confidence": "high",
+      "summary": "Writes and studies poetry with a focus on disability poetics and Deaf and hard-of-hearing poetics.",
+      "summary_zh": "从事诗歌创作与研究，聚焦残障诗学以及聋人与听障诗学。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "personal_site"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "personal_site"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "poetry",
+        "creative writing",
+        "disability poetics",
+        "deaf poetics",
+        "hard-of-hearing",
+        "genderqueer",
+        "disability studies"
+      ]
+    },
+    {
+      "name": "Huiling Ding",
+      "confidence": "high",
+      "summary": "Studies responsible AI, AI ethics, and risk and health communication, along with labor market analytics, technical communication, and intercultural and medical rhetoric.",
+      "summary_zh": "研究负责任的人工智能、AI伦理、风险与健康传播，并涉及劳动力市场分析、技术传播以及跨文化与医学修辞。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "responsible ai",
+        "ai ethics",
+        "risk communication",
+        "labor market analytics",
+        "technical communication",
+        "medical rhetoric",
+        "intercultural rhetoric",
+        "sars"
+      ]
+    },
+    {
+      "name": "Robin Dodsworth",
+      "confidence": "high",
+      "summary": "Studies language variation and change in Raleigh, North Carolina, using a corpus of conversational recordings from residents, acoustic phonetics, and social network methods.",
+      "summary_zh": "研究北卡罗来纳州罗利市的语言变异与变化，使用居民会话录音语料、声学语音学与社会网络方法。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_NETWORK",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "language variation and change",
+        "sociolinguistics",
+        "acoustic phonetics",
+        "social networks",
+        "southern vowel shift",
+        "raleigh",
+        "conversational corpus"
+      ]
+    },
+    {
+      "name": "Fernanda Duarte",
+      "confidence": "high",
+      "summary": "Studies the sociotechnical dimensions of emerging media technologies and how people appropriate and subvert them, through critical making, media arts, and activism.",
+      "summary_zh": "研究新兴媒介技术的社会技术维度以及人们如何挪用和颠覆这些技术，通过批判性制作、媒介艺术与行动主义开展。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "critical making",
+        "media arts",
+        "mobilities",
+        "mobile media",
+        "new media theory",
+        "activism",
+        "emerging technologies",
+        "subjectification"
+      ]
+    },
+    {
+      "name": "Veljko Dubljevic",
+      "confidence": "high",
+      "summary": "Studies neuroethics and the ethics of AI and neurotechnology, including the cognitive neuroscience of moral judgment, from a philosophical perspective.",
+      "summary_zh": "从哲学视角研究神经伦理学以及人工智能与神经技术伦理，包括道德判断的认知神经科学。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "neuroethics",
+        "ethics of ai",
+        "neurophilosophy",
+        "neurotechnology",
+        "cognitive neuroscience of ethics",
+        "bioethics"
+      ]
+    },
+    {
+      "name": "Tugce Ertem Eray",
+      "confidence": "high",
+      "summary": "Studies international public relations, public diplomacy, and social identity, including DEI and intersectional identities at work and bibliometric studies of the PR field.",
+      "summary_zh": "研究国际公共关系、公共外交与社会身份，包括职场中的多元平等包容与交叉身份，以及公关领域的文献计量研究。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "international public relations",
+        "public diplomacy",
+        "social identity",
+        "dei",
+        "intersectionality",
+        "bibliometrics",
+        "public relations ethics"
+      ]
+    },
+    {
+      "name": "Casie Fedukovich",
+      "confidence": "high",
+      "summary": "Studies writing program administration, academic labor, and teaching assistant preparation, with attention to class, body politics, and space, using qualitative methods and discourse analysis.",
+      "summary_zh": "研究写作项目管理、学术劳动与助教培养，关注阶级、身体政治与空间，采用质性方法与话语分析。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "writing program administration",
+        "academic labor",
+        "teaching assistant preparation",
+        "composition",
+        "class",
+        "body politics",
+        "rhetorics of space and place",
+        "qualitative research"
+      ]
+    },
+    {
+      "name": "Paul Fyfe",
+      "confidence": "high",
+      "summary": "Studies nineteenth-century British book and media history and the ethics of AI, using computer vision and multimodal AI to analyze Victorian newspapers and periodical illustrations.",
+      "summary_zh": "研究十九世纪英国书籍与媒介史以及人工智能伦理，运用计算机视觉与多模态AI分析维多利亚时期报纸与期刊插图。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_EUROPE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "victorian media",
+        "digital humanities",
+        "book history",
+        "computer vision",
+        "illustrated newspapers",
+        "language model ethics",
+        "nineteenth-century periodicals",
+        "oceanic exchanges"
+      ]
+    },
+    {
+      "name": "Victoria Gallagher",
+      "confidence": "high",
+      "summary": "Studies visual and material rhetoric through rhetorical criticism of civil rights discourse, memorials, museums, and public art, and also communication ethics and organizational communication.",
+      "summary_zh": "研究视觉与物质修辞，对民权话语、纪念场所、博物馆与公共艺术进行修辞批评，并涉及传播伦理与组织传播。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "visual rhetoric",
+        "material rhetoric",
+        "civil rights discourse",
+        "memorials",
+        "public art",
+        "virtual martin luther king",
+        "communication ethics",
+        "digital humanities"
+      ]
+    },
+    {
+      "name": "Marsha Gordon",
+      "confidence": "high",
+      "summary": "Studies American film history, including documentary, the Hollywood studio system, independent filmmakers of the 1940s-50s, orphan and educational films, and race in nontheatrical film.",
+      "summary_zh": "研究美国电影史，包括纪录片、好莱坞制片厂制度、二十世纪四五十年代独立电影人、孤儿片与教育片，以及非院线电影中的种族。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "film history",
+        "documentary",
+        "hollywood studio system",
+        "orphan films",
+        "educational film",
+        "nontheatrical film",
+        "women directors",
+        "ida lupino"
+      ]
+    },
+    {
+      "name": "Jessica Jameson",
+      "confidence": "high",
+      "summary": "Studies organizational communication that supports collaboration, conflict management, and wellbeing, including workplace mediation, dispute system design, and conflict in health care settings.",
+      "summary_zh": "研究促进协作、冲突管理与福祉的组织传播，包括职场调解、纠纷系统设计以及医疗场景中的冲突。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "organizational conflict",
+        "conflict management",
+        "mediation",
+        "workplace mediation",
+        "dispute system design",
+        "collaboration",
+        "emotion in conflict",
+        "wellbeing"
+      ]
+    },
+    {
+      "name": "Andrew Johnston",
+      "confidence": "high",
+      "summary": "Studies film history and theory, especially abstract animation, avant-garde film, and the history of computer-generated imagery, through media archaeology and work on digital archives.",
+      "summary_zh": "研究电影史与电影理论，尤其是抽象动画、先锋电影与计算机生成图像的历史，采用媒介考古学并关注数字档案。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "animation",
+        "avant-garde film",
+        "media archaeology",
+        "computer-generated imagery",
+        "color aesthetics",
+        "film theory",
+        "digital archives"
+      ]
+    },
+    {
+      "name": "Kama Kosenko",
+      "confidence": "high",
+      "summary": "Studies how people with stigmatized conditions and identities communicate about them, focusing on sexual communication, disclosure, social support, and HIV/STI prevention.",
+      "summary_zh": "研究带有污名化疾病与身份的人群如何进行沟通，聚焦性沟通、自我披露、社会支持与艾滋病/性传播感染预防。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "stigma",
+        "disclosure",
+        "sexual communication",
+        "safer sex communication",
+        "hiv prevention",
+        "sti prevention",
+        "social support",
+        "uncertainty management"
+      ]
+    },
+    {
+      "name": "Chris Lindgren",
+      "confidence": "high",
+      "summary": "Studies coding and data science work as rhetorical communication and Indigenous data sovereignty, designing community archives and data tools through community-engaged, design-justice work.",
+      "summary_zh": "将编程与数据科学工作作为修辞传播来研究，关注原住民数据主权，通过社区参与和设计正义路径构建社区档案与数据工具。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "critical data studies",
+        "indigenous data sovereignty",
+        "data visualization",
+        "coding literacy",
+        "design justice",
+        "community archiving",
+        "python",
+        "decolonial archives"
+      ]
+    },
+    {
+      "name": "Michelle McMullin",
+      "confidence": "medium",
+      "summary": "Studies team collaboration and communication, project planning, and research practice and mentoring, including mapping tools for fostering cooperation on complex problems.",
+      "summary_zh": "研究团队协作与沟通、项目规划以及研究实践与指导，包括用于促进复杂问题合作的映射工具。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "team collaboration",
+        "mentoring",
+        "research design",
+        "project planning",
+        "assemblage mapping",
+        "design of communication"
+      ]
+    },
+    {
+      "name": "Jeffrey Mielke",
+      "confidence": "high",
+      "summary": "Studies linguistic sound patterns and the phonetic origins of sound change, including covert articulatory variation, using laboratory and computational techniques.",
+      "summary_zh": "研究语言语音模式与音变的语音学起源，包括隐性发音差异，采用实验室与计算技术。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "phonology",
+        "phonetics",
+        "sound change",
+        "articulatory variation",
+        "english /r/",
+        "distinctive features",
+        "language variation"
+      ]
+    },
+    {
+      "name": "Jason Miller",
+      "confidence": "high",
+      "summary": "Writes books, films, and digital humanities projects on Martin Luther King Jr., Langston Hughes, and Nina Simone, including a dual biography on the birth of Black Power.",
+      "summary_zh": "围绕马丁·路德·金、兰斯顿·休斯与妮娜·西蒙创作书籍、影片与数字人文项目，包括一部关于黑人权力运动兴起的双人传记。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "martin luther king",
+        "langston hughes",
+        "nina simone",
+        "black power",
+        "civil rights",
+        "biography",
+        "public scholarship",
+        "digital humanities"
+      ]
+    },
+    {
+      "name": "Juliana Makuchi Nfah-Abbenyi",
+      "confidence": "low",
+      "summary": "Serves as an associate dean for faculty and staff development; the profile describes administrative work in English and comparative literature rather than a specific research program.",
+      "summary_zh": "担任负责教职员发展的副院长；简介主要介绍其在英语与比较文学领域的行政工作，未说明具体研究方向。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "comparative literature",
+        "english",
+        "faculty development",
+        "academic leadership",
+        "belongingness"
+      ]
+    },
+    {
+      "name": "Nii Kotei Nikoi",
+      "confidence": "high",
+      "summary": "Studies African popular culture and global media, focusing on hiplife and hip-hop music video production, creative work, and networked radio in Accra, Ghana.",
+      "summary_zh": "研究非洲流行文化与全球媒介，聚焦加纳阿克拉的嘻哈/hiplife音乐录影带制作、创意劳动与网络化广播。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": true,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_AFRICA",
+            "primary": true,
+            "sources": [
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "african popular culture",
+        "hiplife",
+        "hip-hop",
+        "music videos",
+        "production studies",
+        "ghana",
+        "accra",
+        "networked radio"
+      ]
+    },
+    {
+      "name": "Stacey Pigg",
+      "confidence": "high",
+      "summary": "Studies how digital and networked writing practices shape work, learning, and engagement, including mobile writing workflows, attention dynamics, and public science engagement.",
+      "summary_zh": "研究数字与网络化写作实践如何塑造工作、学习与参与，包括移动写作流程、注意力动态与公众科学参与。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "professional writing",
+        "technical communication",
+        "networked writing",
+        "transient literacies",
+        "mobile writing",
+        "attention",
+        "networked learning",
+        "public science engagement"
+      ]
+    },
+    {
+      "name": "Jeffrey Reaser",
+      "confidence": "high",
+      "summary": "Studies dialects and language variation in North Carolina and develops dialect awareness programs and critical language pedagogy for schools and teacher education.",
+      "summary_zh": "研究北卡罗来纳州的方言与语言变异，并为学校与教师教育开发方言意识课程与批判性语言教学法。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "sociolinguistics",
+        "dialects",
+        "dialect awareness",
+        "language variation",
+        "critical language pedagogy",
+        "north carolina",
+        "ocracoke",
+        "teacher education"
+      ]
+    },
+    {
+      "name": "David Rieder",
+      "confidence": "medium",
+      "summary": "Studies digital rhetoric through creative coding, Arduino-based physical computing, and generative AI, including computational analysis of the prosody of James Baldwin's speech.",
+      "summary_zh": "通过创意编程、基于Arduino的物理计算与生成式AI研究数字修辞，包括对詹姆斯·鲍德温演讲韵律的计算分析。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "digital rhetoric",
+        "creative coding",
+        "physical computing",
+        "arduino",
+        "generative ai",
+        "prosody",
+        "james baldwin",
+        "sensory rhetoric"
+      ]
+    },
+    {
+      "name": "Roy Schwartzman",
+      "confidence": "high",
+      "summary": "Studies the formation and remediation of propaganda and prejudice, especially antisemitism and Holocaust survivor testimonies, along with public communication of science and teaching scholarship.",
+      "summary_zh": "研究宣传与偏见的形成与矫正，尤其是反犹主义与大屠杀幸存者证词，并涉及科学的公共传播与教学学术。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "propaganda",
+        "prejudice",
+        "antisemitism",
+        "holocaust testimonies",
+        "scholarship of teaching and learning",
+        "communication across the curriculum",
+        "science communication"
+      ]
+    },
+    {
+      "name": "Ariel Seay-Howard",
+      "confidence": "high",
+      "summary": "Studies how the public remembers slavery and racial violence through rhetorical analysis of lynching memorials, plantation museums, and documentary films as counter-memories.",
+      "summary_zh": "通过对私刑纪念馆、种植园博物馆与纪录片等反记忆的修辞分析，研究公众如何记忆奴隶制与种族暴力。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public memory",
+        "slavery",
+        "racial violence",
+        "lynching memorials",
+        "plantation museums",
+        "counter-memory",
+        "commemoration",
+        "documentary film"
+      ]
+    },
+    {
+      "name": "Rico Self",
+      "confidence": "medium",
+      "summary": "Studies race, gender, and sexuality through rhetorical and cultural studies, performance studies, and critical media studies, drawing on Black studies, Southern studies, and autoethnography.",
+      "summary_zh": "从修辞与文化研究、表演研究和批判媒介研究视角研究种族、性别与性向，借鉴黑人研究、美国南方研究与自我民族志。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "performance studies",
+        "black studies",
+        "critical media studies",
+        "southern studies",
+        "autoethnography",
+        "gender and sexuality",
+        "rhetorical studies"
+      ]
+    },
+    {
+      "name": "Yasheng She",
+      "confidence": "medium",
+      "summary": "Studies anime and analog and digital games as visual culture through cultural studies, gender and queer theory, and Asian/Asian American studies, including apocalyptic imaginations in global media.",
+      "summary_zh": "从文化研究、性别与酷儿理论及亚洲/亚裔美国研究视角，研究作为视觉文化的动漫与桌游/电子游戏，包括全球媒介中的末日想象。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "anime",
+        "games",
+        "visual culture",
+        "queer theory",
+        "asian american studies",
+        "apocalyptic imagination",
+        "public memory",
+        "film"
+      ]
+    },
+    {
+      "name": "John Stadler",
+      "confidence": "high",
+      "summary": "Studies how film and media shape modern notions of gender and sexual difference, focusing on queer media and the influence of adult media on gay culture.",
+      "summary_zh": "研究电影与媒介如何塑造现代性别与性差异观念，聚焦酷儿媒介以及成人媒介对同性恋文化的影响。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "queer media",
+        "porn studies",
+        "adult media",
+        "gay culture",
+        "film studies",
+        "sexual identities",
+        "media technologies"
+      ]
+    },
+    {
+      "name": "Timothy Stinson",
+      "confidence": "medium",
+      "summary": "Studies medieval literature, manuscripts, and book history, publishing in medieval studies and bibliographical scholarship.",
+      "summary_zh": "研究中世纪文学、手稿与书籍史，成果发表于中世纪研究与目录学领域。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "medieval studies",
+        "manuscript studies",
+        "book history",
+        "chaucer",
+        "langland",
+        "bibliography"
+      ]
+    },
+    {
+      "name": "Jason Swarts",
+      "confidence": "high",
+      "summary": "Studies technical communication practice, genre, and knowledge work with emerging technologies, using mixed quantitative/qualitative discourse analysis, corpus techniques, and usability testing.",
+      "summary_zh": "研究新兴技术环境下的技术传播实践、文类与知识工作，采用定量/定性混合话语分析、语料库技术与可用性测试。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "technical communication",
+        "genre",
+        "knowledge work",
+        "decision support",
+        "data communication",
+        "corpus analysis",
+        "usability testing",
+        "discourse analysis"
+      ]
+    },
+    {
+      "name": "Anu Thapa",
+      "confidence": "high",
+      "summary": "Studies film and media history and theory, focusing on South Asian cinemas, postcolonial and decolonial theory, and special effects as a site where religion and technology meet.",
+      "summary_zh": "研究电影与媒介史及理论，聚焦南亚电影、后殖民与去殖民理论，以及作为宗教与技术交汇点的电影特效。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_SOUTH_SE_ASIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "south asian cinema",
+        "film theory",
+        "special effects",
+        "religion and technology",
+        "postcolonial theory",
+        "decolonial theory",
+        "digital humanities"
+      ]
+    },
+    {
+      "name": "Douglas Walls",
+      "confidence": "high",
+      "summary": "Studies digital rhetorics and user experience, designing inclusive information architecture for public health information and rural organizations serving marginalized communities.",
+      "summary_zh": "研究数字修辞与用户体验，为公共卫生信息及服务边缘化社群的农村机构设计包容性的信息架构。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "user experience",
+        "information architecture",
+        "experience architecture",
+        "inclusive design",
+        "public health information",
+        "rural communities",
+        "digital rhetoric",
+        "social media"
+      ]
+    },
+    {
+      "name": "Rebecca Walsh",
+      "confidence": "high",
+      "summary": "Studies transatlantic and transnational modernist literature and American culture, examining space, migration, race, and gender through postcolonial, diaspora, and feminist/queer theory.",
+      "summary_zh": "研究跨大西洋与跨国现代主义文学及美国文化，借助后殖民、离散研究与女性主义/酷儿理论考察空间、移民、种族与性别。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "modernism",
+        "transnationalism",
+        "world literature",
+        "migration",
+        "diaspora studies",
+        "cultural geography",
+        "postcolonial theory",
+        "queer theory"
+      ]
+    },
+    {
+      "name": "Steve Wiley",
+      "confidence": "high",
+      "summary": "Studies decolonial media theory, globalization, and subject formation through ethnographic fieldwork and interviews in Latin America, especially Chile, Argentina, and Mexico.",
+      "summary_zh": "研究去殖民媒介理论、全球化与主体形成，在拉丁美洲（尤其是智利、阿根廷和墨西哥）开展民族志田野与访谈。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "decolonial media theory",
+        "globalization",
+        "ethnography",
+        "chile",
+        "latin america",
+        "life-history interviews",
+        "canto nuevo",
+        "subject formation"
+      ]
+    },
+    {
+      "name": "Kenneth Zagacki",
+      "confidence": "high",
+      "summary": "Studies rhetorical theory and criticism, analyzing presidential foreign policy speeches, scientific argumentation, visual rhetoric, and civil rights discourse.",
+      "summary_zh": "研究修辞理论与批评，分析总统外交政策演讲、科学论证、视觉修辞与民权话语。",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "rhetorical criticism",
+        "presidential rhetoric",
+        "foreign policy",
+        "scientific argumentation",
+        "visual rhetoric",
+        "communication ethics",
+        "philosophy and rhetoric",
+        "civil rights"
+      ]
+    }
+  ]
+}

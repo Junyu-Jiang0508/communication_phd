@@ -1,0 +1,635 @@
+{
+ "university": "University of Iowa",
+ "slug": "university-of-iowa",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "School of Journalism and Mass Communication",
+   "school": "College of Liberal Arts and Sciences",
+   "directory_url": "https://journalism.uiowa.edu/people/faculty",
+   "phd_program_url": "https://journalism.uiowa.edu/graduate/phd-mass-communication",
+   "phd_program_name": "Doctor of Philosophy in Mass Communication",
+   "notes": "Single static faculty page (35 entries) mixing tenure-line faculty with Professors of Instruction, Professors of Practice and Visiting faculty; filtered by title. Adjunct/Visiting/Emeritus live on separate pages and were not scraped."
+  },
+  {
+   "name": "Department of Communication Studies",
+   "school": "College of Liberal Arts and Sciences",
+   "directory_url": "https://communicationstudies.uiowa.edu/people/faculty",
+   "phd_program_url": "https://communicationstudies.uiowa.edu/graduate/phd-communication-studies",
+   "phd_program_name": "Doctor of Philosophy in Communication Studies",
+   "notes": "Single static faculty page (37 entries) mixing Communication Studies tenure-line faculty with Rhetoric-program instructional faculty (Professors of Instruction); filtered by title. Two tenure-line 'Professor, Rhetoric' entries retained with notes."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Melissa Tully",
+   "title": "Director, School of Journalism and Mass Communication / Professor and CLAS Collegiate Scholar",
+   "rank": "Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://journalism.uiowa.edu/people/melissa-tully",
+   "personal_url": null,
+   "photo_url": "https://journalism.uiowa.edu/sites/journalism.uiowa.edu/files/styles/square__768_x_768/public/2022-10/melissa-tully.jpg?h=e86ed5e1&itok=RYeyrVmC",
+   "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=ffSfvHkAAAAJ&view_op=list_works",
+   "research_areas": [
+    "news literacy",
+    "misinformation",
+    "global media",
+    "African media studies",
+    "engagement"
+   ],
+   "bio": "Melissa studies news literacy, misinformation, global media with a particular focus on African media studies, and engagement. Melissa has a particular interest in media produced in and about Africa and has conducted research in multiple Sub-Saharan African countries. She is currently working on research about misinformation and news literacy in Kenya. Melissa teaches courses that focus on social and digital media for both undergraduate and graduate students. Melissa is a CLAS Collegiate Fellow and Researcher Affiliate in the Center for Social Science Research at the University of Iowa. Global Digital Media Mixed Methods Research and Design Education: PhD, University of Wisconsin-Madison, 2011",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from the research-interest sentence in the profile bio (site has no structured research-areas field for this person)."
+  },
+  {
+   "name": "Venise Berry",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://journalism.uiowa.edu/people/venise-berry",
+   "personal_url": "https://veniseberry.com/",
+   "photo_url": "https://journalism.uiowa.edu/sites/journalism.uiowa.edu/files/styles/square__768_x_768/public/2020-12/venise-berry.jpg?h=c8a2da91&itok=lmtHivNL",
+   "google_scholar_url": null,
+   "research_areas": [
+    "media, youth, and popular culture",
+    "media research and criticism",
+    "African American film",
+    "fiction and nonfiction writing"
+   ],
+   "bio": "Venise Berry received a BA (1977) in journalism and an MA (1979) in communication studies from The University of Iowa. Her PhD was awarded in 1989 in radio, TV, and film at the University of Texas in Austin. Her professional media career began in radio news but has expanded into teaching, media research, and criticism, as well as fiction, script, and nonfiction writing. She is the author of three national bestselling novels, So Good, An African American Love Story (Dutton/Penguin, 1996), All of Me, A Voluptuous Tale (Dutton/Penguin 2000), and Colored Sugar Water (Dutton/Penguin/Putnam 2002). In 2003 she received the Creative Contribution to Literature award from the Zora Neale Hurston Society. All of Me received a 2001 Honor Book Award from the Black Caucus of the American Library Association. Also in 2001 she was recognized with an Iowa Author Award from the Public Library Foundation in Des Moines. Berry's research is in the area of African American Cultural Criticism. She is developing a theory called \"racialism,\" which involves the influence of the media on African American images and messages. She is published widely in academic circles with numerous articles based on her research in the area of media, youth, and popular culture.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from the research-interest sentence in the profile bio (site has no structured research-areas field for this person)."
+  },
+  {
+   "name": "David Dowling",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://journalism.uiowa.edu/people/david-dowling",
+   "personal_url": null,
+   "photo_url": "https://journalism.uiowa.edu/sites/journalism.uiowa.edu/files/styles/square__768_x_768/public/2020-12/david-dowling.jpg?h=9304f26c&itok=IaW7bVF5",
+   "google_scholar_url": null,
+   "research_areas": [
+    "digital media and journalism studies",
+    "publishing industries",
+    "narrative journalism",
+    "podcast journalism",
+    "immersive longform storytelling"
+   ],
+   "bio": "David Dowling’s work in digital media and journalism studies centers on developments in publishing industries that drive markets and cultural production. He is the author and editor of 12 books and numerous articles on media, communication, and culture with an emphasis on narrative journalism from print to the digital age. His latest books are Podcast Journalism: The Promise and Perils of Audio Reporting (Columbia University Press 2024) and The Art of Fact in the Digital Age: An Anthology of New Literary Journalism (co-edited with Jacqueline Marino; Bloomsbury Academic 2024). His work has earned coverage and reviews in The Chronicle of Higher Education , The Washington Post , The London School of Economics Newsroom Report , and elsewhere. The impact of shifts in online culture and digital publishing industries on multimedia narrative is the focus of Immersive Longform Storytelling: Media, Technology, Audience (2019). This research on digital journalism’s pivot toward increasingly immersive forms—from podcasts to 360/VR and interactive documentaries—provides the foundation in interactive news media for The Gamification of Digital Journalism: Innovation in Journalistic Storytelling (2021) . Also extending from the 2019 book are studies on podcasting that include Podcast Journalism and two award-winning articles (Dowling & Miller 2019; Fox, Dowling, & Miller 2020). His research on digital longform journalism began with “Can We Snowfall This?",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from the research-interest sentence in the profile bio (site has no structured research-areas field for this person)."
+  },
+  {
+   "name": "Meenakshi Gigi Durham",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://journalism.uiowa.edu/people/meenakshi-gigi-durham",
+   "personal_url": null,
+   "photo_url": "https://journalism.uiowa.edu/sites/journalism.uiowa.edu/files/styles/square__768_x_768/public/2021-02/gigi_durham.jpg?h=b794d21b&itok=eZsxoqKC",
+   "google_scholar_url": null,
+   "research_areas": [
+    "media and the politics of the body",
+    "gender",
+    "sexuality",
+    "race",
+    "youth cultures",
+    "sexual violence"
+   ],
+   "bio": "Meenakshi Gigi Durham is a distinguished scholar, teacher, and writer whose work centers on media and the politics of the body. Her research emphasizes issues of gender, sexuality, race, youth cultures, and sexual violence. She holds a joint appointment in Gender, Women's & Sexuality Studies and was Associate Dean for Outreach and Engagement in the College of Liberal Arts and Sciences from 2017-2019. She began serving as the University’s faculty ombudsperson in 2021. Durham is the 2023 recipient of the Michael J. Brody Award for Faculty Excellence in Service and the 2019 recipient of the University of Iowa’s May Brodbeck Distinguished Achievement Award for Faculty. She also received the campus-wide 2017 President and Provost Teaching Excellence Award, the University of Iowa’s highest award for teaching. She was named a CLAS Collegiate Scholar in 2012. She is also the recipient of a Faculty Scholar Award from The University of Iowa. She was the 2014 recipient of the International Communication Association's Teresa Award, the Feminist Scholarship Division's highest award for achievement in research.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from the research-interest sentence in the profile bio (site has no structured research-areas field for this person)."
+  },
+  {
+   "name": "Brian Ekdale",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://journalism.uiowa.edu/people/brian-ekdale",
+   "personal_url": null,
+   "photo_url": "https://journalism.uiowa.edu/sites/journalism.uiowa.edu/files/styles/square__768_x_768/public/2023-01/Brian%20Ekdale.jpg?h=08ccb6a9&itok=5oWY8jhW",
+   "google_scholar_url": null,
+   "research_areas": [
+    "digital media production",
+    "algorithmic personalization",
+    "disparities in scholarly knowledge production"
+   ],
+   "bio": "Brian has three primary areas of research: digital media production, algorithmic personalization, and disparities in scholarly knowledge production. Brian teaches several courses that prepare students to be better consumers and producers of digital and social media. He has professional experience as a software trainer, instructional technologist, and video producer. Brian is the director of the Center for Publics, Platforms & Personalization , an interdisciplinary research group dedicated to studying the relationship between personalization algorithms and society. Global Digital Cultures Recent publications Marques, F. P. J., Asuman, M., Sobel Cohen, M., Ekdale, B., & Ibrahim, A. (2026). Communication Research Inequalities and the Prestige Dilemma: Negotiating International Recognition and Local Representation in Global South Journals. Journalism & Mass Communication Quarterly , 0 (0). Maragh-Lloyd, R., Stoldt, R., Ssozi, J., Biddle, K., Ekdale, B., & Havens, T. (2025). “They're trying to influence me to gain the more acceptable viewpoint:” The algorithmic imaginaries of politically activated social media users. New Media & Society. Advanced online publication. Ibrahim, A. A., & Ekdale, B. (2025). Political campaign responses to information disorder: A case study of the 2023 Nigerian presidential elections.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from the research-interest sentence in the profile bio (site has no structured research-areas field for this person)."
+  },
+  {
+   "name": "Brett Johnson",
+   "title": "John Kamp Associate Professor of Media Law and Policy / Director of Undergraduate Studies",
+   "rank": "Associate Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://journalism.uiowa.edu/people/brett-johnson",
+   "personal_url": null,
+   "photo_url": "https://journalism.uiowa.edu/sites/journalism.uiowa.edu/files/styles/square__768_x_768/public/2022-09/brett-johnson.jpg?h=d3c8ef2d&itok=70oJU9lr",
+   "google_scholar_url": null,
+   "research_areas": [
+    "media law",
+    "media ethics",
+    "media sociology",
+    "digital technology and media"
+   ],
+   "bio": "Brett comes to UI after teaching at the Missouri School of Journalism from 2015 to 2022. Brett received his MA from UI SJMC in 2011, and his PhD in Mass Communication from the University of Minnesota in 2015. His research and teaching focus on media law, media ethics, media sociology, and the disruptive forces of digital technology on all of these fields. Brett received his JD from the UI College of Law in 2024. Recent Publications Johnson, B. G.(2026). Shielding journalism professors from the sunshine. Journal of Civic Information, 8(1), 15-30. https://doi.org/10.32473/joci.8.1.141017 Johnson, B. (2026, 4 30). Managing Civility in Public Comment Sessions at Town Council Meetings. Washington University Journal of Law and Policy 80(1) :029-066. Perreault, G., Johnson, B. G., & Klein, L. (2022). “Covering Hate: Field Theory and Journalistic Role Conception in Reporting on White Nationalist Rallies.” Journalism Practice , 16(6), 1117-1133. doi:10.1080/17512786.2020.1835525 Young, R., Kananovich, V. & Johnson, B. G. (2021). “Young Adults’ Folk Theories of How Social Media Harms Its Users.” Mass Communication & Society . doi:10.1080/15205436.2021.1970186 Johnson, B. G., Thomas, R. J. & Kelling, K. (2021). “Boundaries of Hate: Ethical Implications of the Discursive Construction of Hate Speech in U.S. Opinion Journalism.”",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from the research-interest sentence in the profile bio (site has no structured research-areas field for this person)."
+  },
+  {
+   "name": "Sang Jung Kim",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://journalism.uiowa.edu/people/sang-jung-kim",
+   "personal_url": null,
+   "photo_url": "https://journalism.uiowa.edu/sites/journalism.uiowa.edu/files/styles/square__768_x_768/public/2023-08/Sang%20Jung%20Kim.JPG?h=ebd4027b&itok=TX-RpKpY",
+   "google_scholar_url": null,
+   "research_areas": [
+    "technology, politics, and social identity",
+    "social media platforms",
+    "multi-modal messages",
+    "experimental methods",
+    "computational approaches"
+   ],
+   "bio": "Sang studies the interaction between technology, politics, and social identity, with particular attention to the mediating role of social media platforms and the spread of information to the public. Sang specializes in examining messages in a multi-modal form, and utilize both experimental methods and computational approaches to understand how consumers and creators of such content introduce and are impacted by biases. Sang teaches courses that focus on analytics for both undergraduate and graduate students. Recent publications Luo, S., Kim, S. J., Duan, Z., & Chen, K. (2026). Refusal as silence: Gendered disparities in Vision-Language Model responses. New Media & Society , 0 (0). https://doi.org/10.1177/14614448261441886 Kim, S. J., Chen, L. (2026). Visual Framing at Scale: A Theory-Driven Computational Framework for Analyzing Protest Imagery with Generative AI. Computational Communication Research , Volume 8, Issue 2 , Jan 2026, p. 1. https://doi.org/10.5117/CCR2026.2.3.KIM Chen, L., Zhou, K., & Kim, S. J. (2026). “You Are Not Fat”: The Postfeminist Contradiction in #RejectBodyAnxiety—A Computationally Assisted Critical Thematic Analysis. Social Media + Society , 12 (1). https://doi.org/10.1177/20563051261419392 (Original work published 2026) Li, J., Kim, S. J., Muddiman, A., & Saffer, A. J. (2026). Why are people skeptical of social media: Emerging evidence on fostering skepticism to improve accuracy.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from the research-interest sentence in the profile bio (site has no structured research-areas field for this person)."
+  },
+  {
+   "name": "Jamil Marques",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://journalism.uiowa.edu/people/jamil-marques",
+   "personal_url": null,
+   "photo_url": "https://journalism.uiowa.edu/sites/journalism.uiowa.edu/files/styles/square__768_x_768/public/2025-01/Marques%20Picture%20SJMC.jpg?h=467163bb&itok=pTM9EJKF",
+   "google_scholar_url": null,
+   "research_areas": [
+    "political communication",
+    "media sociology",
+    "journalism studies",
+    "global media studies"
+   ],
+   "bio": "Teaching for Communication and Political Science Departments for nearly 20 years has allowed Jamil to blend insights from Political Communication, Media Sociology, and Journalism Studies. His experience mentoring undergraduate, MA, and PhD students involves encouraging them to work across theories and methods in the Humanities and Social Sciences. Jamil's ambition for excellence is translated by a solid record of research papers coauthored with his students. In addition to contributing as a reviewer for more than 90 academic outlets, Jamil has served the ICA's Journal of Communication as Associate Editor since 2022. He is also the Assistant Director of the Brazil-based National Institute of Science and Technology in Information Disputes and Sovereignty. At the University of Iowa, Jamil also leads the Global Media Studies Working Group, an initiative supported by the Obermann Center for Advanced Studies. Areas of interest Political Communication Journalism Studies Global and Comparative Media Communications Law & Policy Mis- and Disinformation Public Opinion De-Westernization & Knowledge Production Latin America and the Global South Recent publications Marques, F. P. J., Costa, L. O. P., Kniess, A. B., & Goyanes, M. (2026). Funding, evaluation, and research governance: How domestic structures limit the internationalization of Brazilian communication scholarship.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from the research-interest sentence in the profile bio (site has no structured research-areas field for this person)."
+  },
+  {
+   "name": "Thomas Oates",
+   "title": "Professor / Director of Graduate Studies",
+   "rank": "Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://journalism.uiowa.edu/people/thomas-oates",
+   "personal_url": null,
+   "photo_url": "https://journalism.uiowa.edu/sites/journalism.uiowa.edu/files/styles/square__768_x_768/public/2023-01/TomOates_0.jpg?h=540eda62&itok=4H7T1jaB",
+   "google_scholar_url": null,
+   "research_areas": [
+    "sport media",
+    "sports coverage in magazines, newspapers, websites, video games and video"
+   ],
+   "bio": "Thomas’s primarily interest lies in sports coverage within magazines, newspapers, websites, video games, and videos. During his childhood, Thomas would sometimes spend summer at work with his father, who was also an academic. To pass time, he would spend time leafing through bound copies of old Sports Illustrated magazines. He found himself fascinated in the kinds of stories that were told about great athlete and memorable games. Additionally, he found that there were innumerable ways to tell these stories, yet most conformed to similar patterns. This is what motivates his research today as a UI assistant professor with a joint appointment in American Studies, where he primarily teachers the Sport Studies major and graduate track, along with Journalism and Mass Communication. He in continually interested in exploring how sport media make their subject meaningful and compelling in a changing cultural world. Publications Thomas P. Oates* and Zack Furness (eds.), The NFL: Critical and Cultural Approaches (Philadelphia: Temple University Press, 2014). Thomas P. Oates* and Robert Alan Brookey (eds.), Playing to Win: Sports and Video Games , edited collection under contract with Indiana University Press (Bloomington, IN: Indiana University Press, 2014). Thomas Patrick Oates, “Failure is Not an Option: Race and Resistance in Personal History Documentaries.”",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from the research-interest sentence in the profile bio (site has no structured research-areas field for this person)."
+  },
+  {
+   "name": "Alex Scott",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://journalism.uiowa.edu/people/alex-scott",
+   "personal_url": null,
+   "photo_url": "https://journalism.uiowa.edu/sites/journalism.uiowa.edu/files/styles/square__768_x_768/public/2022-09/Alex_Scott_1.jpg?h=93fa4828&itok=05BrmT6l",
+   "google_scholar_url": null,
+   "research_areas": [
+    "photojournalism practice",
+    "non-fiction visual practices and social difference",
+    "visual theory",
+    "migration",
+    "history of photojournalism",
+    "global media"
+   ],
+   "bio": "Alex Scott’s research explores the political, economic, and aesthetic currents that influence photojournalism practice. Much of his research focuses on analyzing the construction of social difference in non-fiction visual practices, but he also writes on visual theory, migration, the history of photojournalism, and global media. Alex serves as an associate editor for Visual Communication Quarterly and is a co-founder of the Visual Media Lab at Iowa. Alex Scott received his PhD in journalism and media from the University of Texas at Austin. Before entering academia, he worked as a photojournalist in Texas and as a photo editor for ABC News and Bloomberg News in New York. Alex co-founded the Iowa Stories and Lived Experiences (ISLE) documentary workshop, an annual immersive summer course focused on documentary journalism and community storytelling. Projects from the workshop have been awarded and recognized by College Photographer of the Year and the National Press Club. Recent publications Scott, A. (2026). Identity, Diversity, and Semiotic Innovation in Contemporary Photojournalism. Howard Journal of Communications , 1–23. https://doi.org/10.1080/10646175.2026.2677535 Scott, A. (2026). A Matter of Style: The Meaning Potential of Photojournalism Aesthetics. Visual Communication Quarterly , 1–22. https://doi.org/10.1080/15551393.2026.2624812 Scott, A., & Lough, K. (2026). “@?”: Authorship and Newsroom Image Crediting Practices on Instagram.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from the research-interest sentence in the profile bio (site has no structured research-areas field for this person)."
+  },
+  {
+   "name": "Sujatha Sosale",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://journalism.uiowa.edu/people/sujatha-sosale",
+   "personal_url": null,
+   "photo_url": "https://journalism.uiowa.edu/sites/journalism.uiowa.edu/files/styles/square__768_x_768/public/2023-01/SujathaSosale.jpg?h=c2be4ce9&itok=RuDJ4zGc",
+   "google_scholar_url": null,
+   "research_areas": [
+    "media and social change in the Global South",
+    "South Asia, Southeast Asia and Africa",
+    "news and development",
+    "political economy of media technologies in colonial and postcolonial contexts"
+   ],
+   "bio": "Sujatha Sosale studies media and social change in Global South countries, with a focus on South Asia, Southeast Asia and parts of Africa, especially areas with a history of Anglophone and Francophone colonization. Her publications include research on news and public affairs reporting about contemporary development, trade agreements in the news, national identity and news discourse at critical historical junctures, the political economy of the development of media technologies in colonial contexts, and media technology use in contemporary urban, postcolonial contexts. Sujatha was selected for the Faculty Scholar Award in the College of Arts and Sciences, The University of Iowa for the period of 2019-2021. Sujatha’s current research, in a book with the working title “Mobile and Electronic Media Use in Rural South India: Adaptive Modernizations at the Edge of the Grid” examines the integration of mobile and electronic media in the daily lives of communities in rural South India before the COVID-19 pandemic. Originally a native of Bengaluru, India, where she got her first graduate degree, Sujatha worked as a copywriter, writing for a variety of media, for commercial as well as public service campaigns. She also worked as a freelance journalist, contributing features and reviews to regional and local dailies and weeklies on public affairs and the arts. Sujatha has served as Director of Graduate Studies at the School of Journalism and Mass Communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from the research-interest sentence in the profile bio (site has no structured research-areas field for this person)."
+  },
+  {
+   "name": "Travis Vogan",
+   "title": "Erich Funke Professor",
+   "rank": "Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://journalism.uiowa.edu/people/travis-vogan",
+   "personal_url": null,
+   "photo_url": "https://journalism.uiowa.edu/sites/journalism.uiowa.edu/files/styles/square__768_x_768/public/2023-01/Travis%20Vogan.jpg?h=40dc3874&itok=CPTP5GRS",
+   "google_scholar_url": null,
+   "research_areas": [
+    "sport, media, and U.S. culture",
+    "film and television",
+    "media industries",
+    "documentary"
+   ],
+   "bio": "Travis's research and teaching center on sport, media, and U.S. culture. He is especially interested in film and television, media industries, documentary, and how understandings of \"high\" and \"low\" culture figure into these topics. He has written several books on these topics: LeRoy Neiman: The Life of America’s Most Beloved and Belittled Artist (University of Chicago Press) The Boxing Film: A Cultural and Transmedia History (Rutgers University Press) Sporting Realities: Critical Readings of the Sports Documentary (University of Nebraska Press). Co-edited with Samantha N. Sheppard ABC Sports: The Rise and Fall of Network Sports Television (University of California Press) ESPN: The Making of the Sports Media Empire (University of Illinois Press) Keepers of the Flame: NFL Films and the Rise of Sports Media (University of Illinois Press) Aside from books, Travis has published in American Art , Film History, Journal of Cinema and Media Studies, Convergence , Television & New Media, Popular Communication , Communication & Sport , Journal of Sport History , The Moving Image , and various other journals and anthologies.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from the research-interest sentence in the profile bio (site has no structured research-areas field for this person)."
+  },
+  {
+   "name": "Rachel Young",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://journalism.uiowa.edu/people/rachel-young",
+   "personal_url": null,
+   "photo_url": "https://journalism.uiowa.edu/sites/journalism.uiowa.edu/files/styles/square__768_x_768/public/2020-12/rachel-young2.jpg?h=3cf1d5c4&itok=Xv-X0iQS",
+   "google_scholar_url": null,
+   "research_areas": [
+    "effects of media on health",
+    "media representations of health",
+    "health journalism",
+    "health messaging and stigma"
+   ],
+   "bio": "Rachel is an associate professor and director of undergraduate studies in the School of Journalism and Mass Communication, University of Iowa. Her mixed-methods research explores the complex effects of media on health. She uses textual analysis, interviews, content analysis, and experiments to understand media representations of health and their effect on audiences. She has also explored how adolescents and parents manage digital media use to protect against health risks and encourage benefits. Current research projects include a national survey of and interviews with health journalists to explore how roles and practices reflect major changes to the news media landscape and growing awareness of health stigma and disparities. A series of experiments explores the unintended effects of health messaging on stigma toward people who use drugs and other groups. Rachel is also trained as a facilitator for digital storytelling, an approach to creating meaningful personal videos that she has used in her health research with community groups. Rachel has also won college, university, and national teaching awards for her work in the classroom, where she applies inclusive strategies for discussion, assignments, and assessment to support learning for all students. Her strategic communication courses connect professional skills to real-world issues through community engagement.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from the research-interest sentence in the profile bio (site has no structured research-areas field for this person)."
+  },
+  {
+   "name": "Bingbing Zhang",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://journalism.uiowa.edu/people/bingbing-zhang",
+   "personal_url": null,
+   "photo_url": "https://journalism.uiowa.edu/sites/journalism.uiowa.edu/files/styles/square__768_x_768/public/2023-08/bingbing%20Zhang.JPG?h=a41a4e9a&itok=FY7H7Ful",
+   "google_scholar_url": "https://scholar.google.com/citations?user=MLij0NcAAAAJ&hl=en",
+   "research_areas": [
+    "media effects",
+    "political communication",
+    "health/science communication",
+    "emerging technologies",
+    "misinformation"
+   ],
+   "bio": "Bingbing's research areas include media effects, political communication, health/science communication, and emerging technologies. Her research focuses on how people process (mis)information, particularly regarding controversial health, science, and political issues, as well as the effects of various strategic media messages, such as narrative messages, on changing people’s beliefs, attitudes, and behaviors. The primary goal of her research is to explore how strategic media messages bolster healthy social practices in the following four aspects: encouraging prosocial behaviors, promoting healthy practice, increasing public understanding of science, and fostering democratic engagement. Her current research examines how emerging technologies—particularly artificial intelligence—shape journalistic practices and news consumption, as well as the effects of AI-generated content (e.g., deepfakes) on people’s beliefs, attitudes, and behaviors, along with potential interventions (e.g., inoculation messages and AI-driven fact-checking) to address misinformation. Her methodological expertise spans both quantitative and qualitative methods. Her work relies mainly on surveys, experiments, and content analysis, and she has added interviews and focus groups to her repertoire.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from the research-interest sentence in the profile bio (site has no structured research-areas field for this person)."
+  },
+  {
+   "name": "Kembrew McLeod",
+   "title": "Department Chair / Professor, Communication Studies",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communicationstudies.uiowa.edu/people/kembrew-mcleod",
+   "personal_url": null,
+   "photo_url": "https://communicationstudies.uiowa.edu/sites/communicationstudies.uiowa.edu/files/styles/square__768_x_768/public/2022-06/Kembrew_McLeod.jpg?h=080c3aa2&itok=oKtU8NV7",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media History & Culture"
+   ],
+   "bio": "Kembrew McLeod is a professor of communication studies at the University of Iowa and an independent documentary producer. A prolific author and filmmaker, he has written and produced several books and documentaries that focus on popular music, independent media and copyright law. He co-produced the documentary Copyright Criminals , which premiered at the 2009 Toronto International Film Festival and aired in 2010 on PBS’s Emmy Award-winning documentary series, Independent Lens . His first documentary, Money For Nothing , was programmed at the 2002 South by Southwest Film Festival and the 2002 New England Film and Video Festival, where it received the Rosa Luxemburg Award for Social Consciousness. McLeod’s second documentary, Freedom of Expression®: Resistance and Repression in the Age of Intellectual Property , was distributed by the Media Education Foundation—where he also worked as an educational documentary producer.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Logan Brown",
+   "title": "Assistant Professor, Communication Studies",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communicationstudies.uiowa.edu/people/logan-brown",
+   "personal_url": null,
+   "photo_url": "https://communicationstudies.uiowa.edu/sites/communicationstudies.uiowa.edu/files/styles/square__768_x_768/public/2024-09/Logan_Brown__700x467.jpg?h=131ff78d&itok=yBIu-_l8",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media History & Culture"
+   ],
+   "bio": "Logan Brown joined the faculty after completing a dual PhD in Media Studies and Informatics at Indiana University in 2024. His work analyzes the history of games and entertainment software broadly from a critical lens that aims to surface the invisible or obscured structures of power undergirding the digital economy in the 21st century. Professor Brown is under contract with MIT Press for his first book project, tentatively titled Mobilizing Play: How Games Helped Cell Phones Conquer America . Mobilizing Play pushes back against the Apple-branded notion that mobile media – and our saturated, habit-forming mobile culture – began with the iPhone. Instead, it offers a close look at the formation of and strategies behind the early American mobile games industry to demonstrate that everything we associate with the iPhone, from deliberately addictive game design to app stores and platform economics, was really forged in this earlier period to suit the immediate economic needs of the telecom industry. He has also published widely on game culture, the history of computing, and capitalism in venues like Game Studies, Games & Culture , Technology & Culture , and New Media & Society . Logan Brown teaches numerous graduate and undergraduate courses at the University of Iowa, including Games, Culture, & Society; Introduction to the Platform Society, Theories of Digital Labor, and Doing Game History. Education: PhD, Indiana University, 2024",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Shelly Campo",
+   "title": "Associate Professor, Communication Studies",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communicationstudies.uiowa.edu/people/shelly-campo",
+   "personal_url": null,
+   "photo_url": "https://communicationstudies.uiowa.edu/sites/communicationstudies.uiowa.edu/files/styles/square__768_x_768/public/2022-12/Shelly_Campo.jpg?h=787da7df&itok=uL6X5J-v",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Interpersonal Communication & Relationships"
+   ],
+   "bio": "Shelly’s areas of expertise include health campaigns, risk communication, and persuasion. She has worked on a range of health topics focusing on how to adopt new, or reinforce existing health attitudes and behaviors using innovative, theory- and data-driven communication research. She has developed and/or evaluated numerous health campaigns for different audiences (e.g., college students, young adults, rural populations, and minority populations) on a range of topics, such as binge drinking prevention, unintended pregnancy prevention, occasional smoking prevention, colorectal cancer screening, smoking cessation, and hazing. She teaches graduate courses in health communication, health campaigns, and persuasion and health. She is an associate professor in the Department of Community and Behavioral Health as well as the Department of Communication Studies. She is also the director of the Center for Health Communication and Social Marketing.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Emerson Cram",
+   "title": "Associate Professor, Communication Studies / Associate Professor, Gender, Women's & Sexuality Studies",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communicationstudies.uiowa.edu/people/emerson-cram",
+   "personal_url": null,
+   "photo_url": "https://communicationstudies.uiowa.edu/sites/communicationstudies.uiowa.edu/files/styles/square__768_x_768/public/2026-03/Cram_Headshot_2026.jpg?h=761f0c12&itok=yhaHfEm4",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric, Culture, Engagement"
+   ],
+   "bio": "Dr. Emerson Cram, an associate professor in the Departments of Communication Studies and Gender, Women’s & Sexuality Studies at the University of Iowa, brings expertise in frameworks of critical environmental justice that center recursive relationships between race, disability, sexuality and the environment. Their first book, Violent Inheritance: Sexuality, Land, and Energy in Making the North American West (University of California Press, 2022) examines the history of sexuality in the US as a story about energy to contextualize the regenerative and land-based practice of queer ecology today. Written for scholars in queer studies and the environmental/energy humanities, this book highlights how various regional communities engage cultural and environmental legacies of harm to reimagine violent ecologies through practices of care, healing, and regeneration. Violent Inheritance is the awardee of the Rhetoric Society of America’s 2023 Book Award, and the National Communication Association’s 2023 GLBTQ Communication Studies Division Book Award. Their current project is preliminarily titled Regenerating Mad Ecologies and Environmental Futures at a US Historic Poor Farm , which draws from a wide range of archives, community interviews, and field work at a former poor farm located in Iowa.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Joint appointment with Gender, Women's & Sexuality Studies; listed as core Communication Studies faculty."
+  },
+  {
+   "name": "Steve Duck",
+   "title": "Professor, Rhetoric",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communicationstudies.uiowa.edu/people/steve-duck",
+   "personal_url": null,
+   "photo_url": "https://communicationstudies.uiowa.edu/sites/communicationstudies.uiowa.edu/files/styles/square__768_x_768/public/2026-06/StevePic.png?h=ab622562&itok=S4Olcmv2",
+   "google_scholar_url": null,
+   "research_areas": [
+    "personal relationships",
+    "rhetorical presentation of relationships in everyday life"
+   ],
+   "bio": "Steve has been most interested in the study of personal relationships and the ways in which they are rhetorically presented in everyday life. He founded and then edited for fifteen years the Journal of Social and Personal Relationships and has written or edited some fifty-five books on personal relationships. His most recent books are Reimagining Relationships [Edward Elgar Publishing, 2026] and (with David T. McMahan) an introduction to the Basic Course (Communication in Everyday Life: The Basic Course, fourth edition, SAGE, 2025) and Communication in Everyday Life: A Survey, fifth edition (SAGE, 2025). A former College of Liberal Arts and Sciences Dean's Administrative Fellow, he served as Departmental Executive Officer (Chair) of the Department of Rhetoric from 2010-2022 and was also on the Executive Committee of University College and the Executive Committee of CLAS. He was Chair of Faculty Assembly 2020-2021.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Listed on the Communication Studies core faculty page with title 'Professor, Rhetoric' (Rhetoric program is housed in the Department of Communication Studies since the 2022 merger); not labelled Communication Studies. research_areas taken from the research-interest sentence in the profile bio (site has no structured research-areas field for this person)."
+  },
+  {
+   "name": "Natalie Fixmer-Oraiz",
+   "title": "F. Wendell Miller Associate Professor, Communication Studies",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communicationstudies.uiowa.edu/people/natalie-fixmer-oraiz",
+   "personal_url": null,
+   "photo_url": "https://communicationstudies.uiowa.edu/sites/communicationstudies.uiowa.edu/files/styles/square__768_x_768/public/2025-08/Fixmer-Oraiz.jpg?h=3790be6a&itok=XnG2K8HD",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric, Culture, Engagement"
+   ],
+   "bio": "Natalie Fixmer-Oraiz joined the faculty after completing her PhD in Communication Studies at the University of North Carolina at Chapel Hill in 2012 with a Graduate Certificate in Women’s Studies from Duke University. Professor Fixmer-Oraiz is the author of two books: Homeland Maternity: US Security Culture and the New Reproductive Regime (2019) and Doing Gender Justice: Queering Reproduction, Kin, and Care (2025; with Shui-yin Sharon Yam) . She has published articles on rhetoric and reproductive justice, the commercial surrogacy industry, and third-wave feminism in academic journals such as Communication and Critical/Cultural Studies , Women’s Studies in Communication , and Frontiers: A Journal of Women Studies; her work has also appeared in outlets such as The Washington Post and Iowa Public Radio . Fixmer-Oraiz is currently collaborating with Professors Lina-Maria Murillo and Asha Bhandary on a new book project that explores reproductive justice and care. Professor Fixmer-Oraiz also co-edits the Locating Reproductive Justice book series with Professor Murillo through the University of Iowa Press, and co-authors the award-winning textbook Gendered Lives: Communication, Gender, and Culture with Julia T. Wood. She teaches courses in rhetorical theory and criticism, gender and sexuality studies, social movements and feminisms.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ashley Hall",
+   "title": "Assistant Professor, Communication Studies",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communicationstudies.uiowa.edu/people/ashley-hall",
+   "personal_url": null,
+   "photo_url": "https://communicationstudies.uiowa.edu/sites/communicationstudies.uiowa.edu/files/styles/square__768_x_768/public/2023-09/Professional%20ARH%20.jpg?h=8dc63992&itok=bKOIyBJa",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric, Culture, Engagement"
+   ],
+   "bio": "Dr. Hall is a sophistiratchet Black queer scholar whose research examines Black American rhetorical cultures and their capacity to make and break worlds. She is a rhetorical scholar by training with interdisciplinary specializations in Black rhetorical theory, race and gender studies, and critical media studies. Her research contemplates rhetoric's role in Black people's everyday lives and considers how Black speech communities discursively, culturally, and spiritually envision worlds beyond antiblack violence. These interests oscillate around her investment in Black rhetorical traditions, cultural politics, and media across the 19th, 20th, and 21st centuries. Dr. Hall's current research interests focus on Black women's public discourse, ratchetness, and worldmaking as they intersect with questions of agency, subjectivity, and power. Her work examines how Black women like Cardi B and Megan Thee Stallion utilize rhetoric as an innovative technology to reimagine their agency, voice, and power amid structural violence.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Tim Havens",
+   "title": "Professor, Communication Studies",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communicationstudies.uiowa.edu/people/tim-havens",
+   "personal_url": null,
+   "photo_url": "https://communicationstudies.uiowa.edu/sites/communicationstudies.uiowa.edu/files/styles/square__768_x_768/public/2026-05/Tim-2026_1.jpg?h=db5d1e1a&itok=Twp_yf0_",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media History & Culture"
+   ],
+   "bio": "Tim Havens has published seven books and more than 30 essays on television studies, media globalization, race and media, platform studies, and the critical analysis of media industries. His most recent publication is Media Industries in the Digital Age: How Media Businesses Work Today with Amanda D. Lotz (Polity, 2024). Awards Algorithmic Personalization and Online Radicalization: A Mixed Methods Approach. (Award Amount: $1,026,047), awarded by Minerva Research Institute, U.S. Department of Defense. Principal Investigator (Dr. Brian Ekdale), Co-Principal Investigators (Dr. Timothy Havens, Dr. Andrew High, Dr. Raven Maragh-Lloyd, Dr. Rishab Nithyanad), 2020-23 Locating Budapest: The Film and Television Locations Industry and the Rise of an Alternative Media Capital. (Award Amount: 52,400 €), awarded by Corvinus Institute for Advanced Study, Budapest, Hungary, 2020-21 Outstanding Book Award, Communication Division for Black Television Travels: African-American Media Around the Globe (NYU Press, 2013), awarded by International Communication Association Popular Communication Division, 2015 Faculty Fellowship, awarded by National Association of Television Programming Executives, 2001 & 2008 Senior Fulbright Scholar, Research-Only Award to Hungary. “Hungarian Television Acquisitions and Scheduling Practices in Transition.”, awarded by Fulbright Scholar Program, 2002 Education: PhD, Indiana University",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Joy Elizabeth Hayes",
+   "title": "Professor, Communication Studies",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communicationstudies.uiowa.edu/people/joy-hayes",
+   "personal_url": null,
+   "photo_url": "https://communicationstudies.uiowa.edu/sites/communicationstudies.uiowa.edu/files/styles/square__768_x_768/public/2022-06/Joy_Hayes.jpg?h=42d69667&itok=mCxQJ0-6",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media History & Culture"
+   ],
+   "bio": "Joy’s research and teaching interests include media history and theory; race, ethnicity and the media; history of broadcasting in the US and Mexico; community media; and docudrama studies. She is a former Fulbright Scholar to Mexico and author or co-author of three books: New Deal radio: The Educational Radio Project (2022, Rutgers University Press); War of the Worlds to social media: Mediated communication in times of crisis (2013, Peter Lang); and Radio nation: Communication, popular culture and nationalism in Mexico (2020 [2000] University of Arizona Press). She publishes regularly in journals such as Media, Culture and Society, Journal of Cinema and Media Studies , Journal of Broadcasting and Electronic Media , and Television and New Media . In addition, she attends international conferences including the International Communication Association and the Society for Cinema and Media Studies. Joy’s current research is focused on the historical development of docudrama as a unique media format that combines truth claims with emotional excess and melodrama. She is also working on a range of ongoing projects, including a history of family planning communication in Kenya, and an investigation of the communication strategies of conservative populist Martin Dies and the US House Committee on Un-American Activities.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jiyeon Kang",
+   "title": "Associate Professor, Communication Studies",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communicationstudies.uiowa.edu/people/jiyeon-kang",
+   "personal_url": null,
+   "photo_url": "https://communicationstudies.uiowa.edu/sites/communicationstudies.uiowa.edu/files/styles/square__768_x_768/public/2022-06/Jiyeon_Kang.jpg?h=67d8b9d4&itok=NvCd6Egd",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric, Culture, Engagement"
+   ],
+   "bio": "Jiyeon Kang’s academic interests include digital media, publics and counterpublics, global higher education, and East Asia. She is especially interested in how marginalized groups reshape dominant discourses and create livable conditions in an inhospitable environment. She has studied this communicative process in a variety of contexts in the U.S. and East Asia. One component of her research focuses on conceptualizing the democratic potential of the Internet in the contexts of youth-driven social movements and online communities. Her first book, Igniting the Internet: Youth and Activism in Postauthoritarian South Korea , examines a decade of Internet activism in South Korea and accounts for the process whereby teenage Internet users’ captivation with issues close to them reshaped their political sensibilities and established a new movement repertoire. With another set of projects, she pursues the question of intercultural and international coexistence in the global integration of politics, economy, and technology. The modern environment forces people to share the same physical and online space without a clear vision of what constitutes an ethical model of coexistence. The marginalized are already part of this integrated network but are subject to surveillance and policing, while multicultural liberal society asks ethnic minorities and migrants to add “diversity” but provides an uncertain return.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Helen Lillie",
+   "title": "Assistant Professor, Communication Studies",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communicationstudies.uiowa.edu/people/helen-lillie",
+   "personal_url": null,
+   "photo_url": "https://communicationstudies.uiowa.edu/sites/communicationstudies.uiowa.edu/files/styles/square__768_x_768/public/2023-02/Helen%20Lillie%20%281%29.jpg?h=def3cf70&itok=lGNm8OgS",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Interpersonal Communication & Relationships"
+   ],
+   "bio": "Dr. Helen M. Lillie studies health and interpersonal communication. Her primary research areas include (a) how resilience is built via communication with close others and (b) how narratives can educate and persuade the public about illness prevention. She is interested in connections between narratives, emotion, topic avoidance, and resilience communication. Dr. Lillie’s research is situated in hardship contexts like cancer, caregiving, and the COVID-19 pandemic. Some of her recent work examines associations between resilience communication, relational uncertainty, and topic avoidance and their subsequent effects on relational health and coping. She also investigates narrative processing and how to create narratives that encourage healthy behaviors such as sunscreen use, reduced alcohol consumption, and vaccination – drawing from both persuasion and interpersonal communication theory to build better narratives. She focuses primarily on emotion as a mechanism of persuasion and on encouraging critical reflection to promote informed health decision making.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kate Magsamen-Conrad",
+   "title": "Professor, Communication Studies",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communicationstudies.uiowa.edu/people/kate-magsamen-conrad",
+   "personal_url": null,
+   "photo_url": "https://communicationstudies.uiowa.edu/sites/communicationstudies.uiowa.edu/files/styles/square__768_x_768/public/2022-06/Kate_Magsamen_Conrad_0.jpg?h=a7ffc51c&itok=B257P5ru",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Interpersonal Communication & Relationships"
+   ],
+   "bio": "Dr. Kate Magsamen-Conrad is a professor in the Department of Communication Studies at the University of Iowa. Her scholarship is at the intersection of health and interpersonal communication, and it prioritizes partnerships with community groups to improve lives. Her program of research draws on traditions in interpersonal and health/risk communication, relationships, and psychology, and relies on mixed methods to answer questions. Among her community-engaged projects are a project funded by the Cancer Research UK to work with low-income urban mothers to improve physical activity, and an intergroup communication intervention that partners emerging, middle-aged, and older adults to improve the well-being of aging communities. Her research also examines how technology can be both a facilitator and barrier to health management, and many projects utilize technology in the intervention process.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Rachel McLaren",
+   "title": "Associate Professor, Communication Studies",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communicationstudies.uiowa.edu/people/rachel-mclaren",
+   "personal_url": null,
+   "photo_url": "https://communicationstudies.uiowa.edu/sites/communicationstudies.uiowa.edu/files/styles/square__768_x_768/public/2025-12/Rachel-McLaren-headshot.jpg?h=26ee9c29&itok=O4jfIqDZ",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Interpersonal Communication & Relationships"
+   ],
+   "bio": "Dr. Rachel McLaren studies interpersonal communication, social cognition, and hurtful messages. Her research seeks to clarify the interplay of communication, cognition, and emotion in response to significant experiences, such as hurtful interactions, within personal relationships. She also examines how relationship and situational characteristics influence people’s ability to process relational messages. Her recent work focuses on how relational turbulence influences a couple’s ability to coordinate relational inferences about past hurtful events. Her other interests include examining how interactions within close relationships affect people’s global conceptions of the relationship and, in turn, how those conceptions influence their experiences of particular communication events. Dr. McLaren teaches courses on the dark side of communication and relationships as well as communication and conflict.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Sylvia Mikucki-Enyart",
+   "title": "Associate Professor, Communication Studies",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communicationstudies.uiowa.edu/people/sylvia-mikucki-enyart",
+   "personal_url": null,
+   "photo_url": "https://communicationstudies.uiowa.edu/sites/communicationstudies.uiowa.edu/files/styles/square__768_x_768/public/2023-02/sylvia.png?h=54f7680d&itok=TLjJLMeh",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Interpersonal Communication & Relationships"
+   ],
+   "bio": "Associate Professor Dr. Sylvia L. Mikucki-Enyart studies interpersonal and family communication. Her work examines how relational partners and families communicate (or don’t) when they experience uncertainty, or doubts, about their relationships during times of relational change (e.g., marriage, divorce). Specifically, she explores (a) in-law communication and the impact it has on marriages and parent-adult child relationships, (b) how adult children communicate following late-life parental divorce and remarriage, and (c) how emerging adult’s discuss sexual pleasure and desire. She teaches undergraduate and graduate courses on family and interpersonal communication, uncertainty management, and sexual communication. She is the editor-in-chief of the Journal of Family Communication. She often serves as a relationship expert and has been featured in The New York Times, The Wall Street Journal, Huffington Post, and Real Simple magazine, and she’s been a repeat guest on Talk of Iowa on Iowa Public Radio. She also writes a blog for Psychology Today entitled Communicating through Change: Using Communication to Navigate Life Transitions. She also provides evidence-based advice on Instagram @dr.sylviamikuckienyart.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Carol Severino",
+   "title": "Professor, Rhetoric / Director of the Writing Center",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communicationstudies.uiowa.edu/people/carol-severino",
+   "personal_url": null,
+   "photo_url": "https://communicationstudies.uiowa.edu/sites/communicationstudies.uiowa.edu/files/styles/square__768_x_768/public/2026-06/Carol.jpg?h=ab622562&itok=qriSOpHP",
+   "google_scholar_url": null,
+   "research_areas": [
+    "writing",
+    "language background",
+    "culture",
+    "pedagogy",
+    "writing centers"
+   ],
+   "bio": "Carol directs the Writing Center and the Writing Fellows Program and teaches courses that explore the relationships between writing, language background, culture, and pedagogy, also the focus of her research. She teaches both tutor preparation seminars: Teaching in a Writing Center (for graduate students preparing to tutor in the Writing Center) and Writing Theory and Practice (for new Writing Fellows; taught with Megan Knight). She teaches Topics in Second Language Acquisition: Writing for the FLARE Program as well as travel writing for the Honors First Year Seminar Program. She also tutors in the Writing Center every semester and conducts a writing center practicum for Linguistics TESOL students preparing to tutor and tutoring in the Writing Center. Carol was a Collegiate Teaching Award winner in 2003 and a Fulbright Scholar in Ecuador in 2008, and has served twice as an English Language Specialist for the US State Department in Honduras. Recently, she has given workshops and presentations in Mexico and Ecuador, as well as at the Universities of Wisconsin and Mississippi. In 2015, she keynoted the Latin American Writing Programs and Writing Centers Conference in Colombia (by Skype) and the Southern Illinois Writing Centers Consortium Conference.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Listed on the Communication Studies core faculty page with title 'Professor, Rhetoric' (Rhetoric program is housed in the Department of Communication Studies since the 2022 merger); not labelled Communication Studies. research_areas taken from the research-interest sentence in the profile bio (site has no structured research-areas field for this person)."
+  },
+  {
+   "name": "Jenna Supp-Montgomerie",
+   "title": "Associate Professor, Communication Studies",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communicationstudies.uiowa.edu/people/jenna-supp-montgomerie",
+   "personal_url": null,
+   "photo_url": "https://communicationstudies.uiowa.edu/sites/communicationstudies.uiowa.edu/files/styles/square__768_x_768/public/2022-06/Jenna_Supp_Montgomerie.jpg?h=8524deb4&itok=NfTlEpq8",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric, Culture, Engagement"
+   ],
+   "bio": "Jenna Supp-Montgomerie earned a PhD in religious studies with a certificate in cultural studies at the University of North Carolina at Chapel Hill. She holds a joint appointment in Religious Studies and Communication Studies at the University of Iowa. Her research examines the relationships of water, infrastructure, and religion. Her first book, When the Medium Was the Mission: The Atlantic Telegraph and the Religious Origins of Network Culture (NYU Press, 2021), traces the shaping influence of religion—particularly American Protestantism—on network culture through the story of the 1858 Atlantic Telegraph Cable. In a wide range of activities, from global mission to American public speech to utopian experiments in communal living, religion forged an imaginary of networks as connective, so much so that connection now serves as the primary definition of networks despite their reliance on various forms of dis connection. Her recent research examines the water that often serves as the background to infrastructure but is, itself, a vital element of our infrastructural lives. She has published on this theme in Cultural Studies , Material Religion , and elsewhere.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Rita Zajacz",
+   "title": "Associate Professor, Communication Studies / Director of Graduate Studies, Communication Studies",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communicationstudies.uiowa.edu/people/rita-zajacz",
+   "personal_url": null,
+   "photo_url": "https://communicationstudies.uiowa.edu/sites/communicationstudies.uiowa.edu/files/styles/square__768_x_768/public/2022-06/Rita_Zajacz.jpg?h=4cdd2fbf&itok=TvINcPau",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media History & Culture"
+   ],
+   "bio": "Rita seeks to understand the challenges and opportunities available to states as they seek control over the global communications infrastructure. She is interested in the application of enduring legal and geopolitical thinking to new technologies. Her historical book project, Reluctant power: networks, corporations and the struggle for global governance in the early 20th century , analyzes the transition from British to American leadership in global communications by defining “network control” and applying the concept to the early point-to-point radio network. Her new project examines the origins and contemporary manifestations of anonymity online. Rita serves on the editorial board of The Information Society and her research has appeared in the following journals: Journal of Broadcasting and Electronic Media , International Communication Gazette , Media, Culture and Society and The Information Society . On the undergraduate level, she teaches Media and Society, Privacy and anonymity on the Internet and Communication, Technology and National Security. Courses on the graduate level include Internet Histories and Surveillance and Privacy on the Internet.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  }
+ ]
+}

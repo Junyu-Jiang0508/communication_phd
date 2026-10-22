@@ -51,7 +51,7 @@
         "data": [
           {
             "code": "D_NEWS_CONTENT",
-            "primary": true,
+            "primary": false,
             "sources": [
               "department_profile",
               "publications"
@@ -168,13 +168,6 @@
               "department_profile",
               "publications"
             ]
-          },
-          {
-            "code": "A_QUALITATIVE",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
           }
         ],
         "data": [],
@@ -255,13 +248,6 @@
             "sources": [
               "department_profile"
             ]
-          },
-          {
-            "code": "A_QUALITATIVE",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
           }
         ],
         "data": [],
@@ -307,8 +293,8 @@
     },
     {
       "name": "François Bar",
-      "summary": "Studies the social and economic impacts of information technologies, telecom policy and technology appropriation via participatory co-design and community fieldwork from Skid Row to East Africa.",
-      "summary_zh": "通过参与式协同设计与社区田野研究（从洛杉矶贫民区到东非），探讨信息技术的社会经济影响、电信政策与技术挪用。",
+      "summary": "Studies the social and economic impacts of information technologies, telecom policy and technology appropriation via participatory co-design and community partnerships, from Skid Row to East Africa.",
+      "summary_zh": "通过参与式协同设计与社区合作（从洛杉矶贫民区到东非），探讨信息技术的社会经济影响、电信政策与技术挪用。",
       "confidence": "high",
       "labels": {
         "topic": [
@@ -350,20 +336,12 @@
               "department_profile",
               "publications"
             ]
-          },
-          {
-            "code": "A_QUALITATIVE",
-            "primary": true,
-            "sources": [
-              "department_profile",
-              "publications"
-            ]
           }
         ],
         "data": [
           {
             "code": "D_INTERVIEWS_FIELD",
-            "primary": true,
+            "primary": false,
             "sources": [
               "department_profile",
               "publications"
@@ -472,15 +450,7 @@
             ]
           }
         ],
-        "data": [
-          {
-            "code": "D_NEWS_CONTENT",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "data": [],
         "setting": [
           {
             "code": "SET_MARGINALIZED_COMMUNITIES",
@@ -754,29 +724,14 @@
         ],
         "approach": [
           {
-            "code": "A_QUALITATIVE",
+            "code": "A_CRITICAL_INTERPRETIVE",
             "primary": true,
             "sources": [
               "department_profile"
             ]
-          },
-          {
-            "code": "A_CRITICAL_INTERPRETIVE",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
           }
         ],
-        "data": [
-          {
-            "code": "D_INTERVIEWS_FIELD",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "data": [],
         "setting": [
           {
             "code": "SET_NEWSROOMS_MEDIA_ORGS",
@@ -835,8 +790,8 @@
     },
     {
       "name": "Nicholas Cull",
-      "summary": "Studies public diplomacy and the historical role of mass communication in foreign policy, drawing on archival history and advising foreign ministries on cultural diplomacy.",
-      "summary_zh": "研究公共外交以及大众传播在外交政策中的历史作用，运用档案史学方法并为各国外交部提供文化外交咨询。",
+      "summary": "Studies public diplomacy and the historical role of mass communication in foreign policy as a historian, and advises foreign ministries on cultural diplomacy.",
+      "summary_zh": "以历史学视角研究公共外交以及大众传播在外交政策中的历史作用，并为各国外交部提供文化外交咨询。",
       "confidence": "high",
       "labels": {
         "topic": [
@@ -1065,13 +1020,6 @@
             "sources": [
               "department_profile"
             ]
-          },
-          {
-            "code": "D_ADMIN_LARGE_SCALE",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
           }
         ],
         "setting": [
@@ -1263,14 +1211,6 @@
             "sources": [
               "department_profile"
             ]
-          },
-          {
-            "code": "D_ADMIN_LARGE_SCALE",
-            "primary": false,
-            "sources": [
-              "department_profile",
-              "publications"
-            ]
           }
         ],
         "setting": [
@@ -1355,7 +1295,7 @@
         "approach": [
           {
             "code": "A_QUALITATIVE",
-            "primary": true,
+            "primary": false,
             "sources": [
               "department_profile"
             ]
@@ -1456,20 +1396,13 @@
         "approach": [
           {
             "code": "A_QUALITATIVE",
-            "primary": true,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
-            "code": "A_CRITICAL_INTERPRETIVE",
             "primary": false,
             "sources": [
               "department_profile"
             ]
           },
           {
-            "code": "A_HISTORICAL_ARCHIVAL",
+            "code": "A_CRITICAL_INTERPRETIVE",
             "primary": false,
             "sources": [
               "department_profile"
@@ -1513,6 +1446,13 @@
           },
           {
             "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_US",
             "primary": false,
             "sources": [
               "department_profile"
@@ -1571,14 +1511,6 @@
             "primary": true,
             "sources": [
               "department_profile"
-            ]
-          },
-          {
-            "code": "A_CONTENT_ANALYSIS",
-            "primary": false,
-            "sources": [
-              "department_profile",
-              "publications"
             ]
           },
           {
@@ -1701,15 +1633,8 @@
         ],
         "approach": [
           {
-            "code": "A_EXPERIMENT",
-            "primary": true,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
             "code": "A_THEORY",
-            "primary": false,
+            "primary": true,
             "sources": [
               "department_profile",
               "publications"
@@ -1724,15 +1649,7 @@
             ]
           }
         ],
-        "data": [
-          {
-            "code": "D_SURVEY_EXPERIMENT",
-            "primary": true,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "data": [],
         "setting": [
           {
             "code": "SET_ORGANIZATIONS_WORKPLACES",
@@ -1949,23 +1866,7 @@
             ]
           }
         ],
-        "data": [
-          {
-            "code": "D_NEWS_CONTENT",
-            "primary": false,
-            "sources": [
-              "department_profile",
-              "publications"
-            ]
-          },
-          {
-            "code": "D_INTERVIEWS_FIELD",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "data": [],
         "setting": [
           {
             "code": "SET_AUDIENCES_PUBLICS",
@@ -2035,32 +1936,8 @@
             ]
           }
         ],
-        "approach": [
-          {
-            "code": "A_EXPERIMENT",
-            "primary": true,
-            "sources": [
-              "department_profile",
-              "publications"
-            ]
-          },
-          {
-            "code": "A_SURVEY",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
-        "data": [
-          {
-            "code": "D_SURVEY_EXPERIMENT",
-            "primary": true,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "approach": [],
+        "data": [],
         "setting": [
           {
             "code": "SET_AUDIENCES_PUBLICS",
@@ -2485,21 +2362,6 @@
             "sources": [
               "department_profile"
             ]
-          },
-          {
-            "code": "A_SURVEY",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
-            "code": "A_MIXED",
-            "primary": false,
-            "sources": [
-              "department_profile",
-              "publications"
-            ]
           }
         ],
         "data": [
@@ -2835,13 +2697,6 @@
             ]
           },
           {
-            "code": "D_SOCIAL_MEDIA",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
             "code": "D_ARCHIVES_TEXTS",
             "primary": false,
             "sources": [
@@ -2921,13 +2776,6 @@
         "approach": [
           {
             "code": "A_QUALITATIVE",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
-            "code": "A_SURVEY",
             "primary": false,
             "sources": [
               "department_profile"
@@ -3227,17 +3075,10 @@
           },
           {
             "code": "A_QUALITATIVE",
-            "primary": true,
+            "primary": false,
             "sources": [
               "department_profile",
               "publications"
-            ]
-          },
-          {
-            "code": "A_MIXED",
-            "primary": false,
-            "sources": [
-              "department_profile"
             ]
           }
         ],
@@ -3373,13 +3214,6 @@
             "sources": [
               "department_profile"
             ]
-          },
-          {
-            "code": "A_QUALITATIVE",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
           }
         ],
         "data": [],
@@ -3453,7 +3287,7 @@
         "approach": [
           {
             "code": "A_QUALITATIVE",
-            "primary": true,
+            "primary": false,
             "sources": [
               "department_profile"
             ]
@@ -3564,13 +3398,6 @@
           }
         ],
         "data": [
-          {
-            "code": "D_ADMIN_LARGE_SCALE",
-            "primary": true,
-            "sources": [
-              "department_profile"
-            ]
-          },
           {
             "code": "D_SOCIAL_MEDIA",
             "primary": false,
@@ -3749,14 +3576,6 @@
           }
         ],
         "approach": [
-          {
-            "code": "A_QUALITATIVE",
-            "primary": false,
-            "sources": [
-              "department_profile",
-              "publications"
-            ]
-          },
           {
             "code": "A_THEORY",
             "primary": false,
@@ -4107,15 +3926,7 @@
             ]
           }
         ],
-        "data": [
-          {
-            "code": "D_SOCIAL_MEDIA",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "data": [],
         "setting": [
           {
             "code": "SET_ORGANIZATIONS_WORKPLACES",
@@ -4222,13 +4033,6 @@
           {
             "code": "D_SOCIAL_MEDIA",
             "primary": true,
-            "sources": [
-              "publications"
-            ]
-          },
-          {
-            "code": "D_SURVEY_EXPERIMENT",
-            "primary": false,
             "sources": [
               "publications"
             ]

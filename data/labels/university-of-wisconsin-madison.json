@@ -251,15 +251,7 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "approach": [],
     "data": [],
     "setting": [
      {
@@ -454,8 +446,8 @@
   },
   {
    "name": "Kelley Conway",
-   "summary": "Studies French and transnational film history, filmmakers' creative processes, and women in the film industry through archival research and film analysis, plus digital humanities work.",
-   "summary_zh": "通过档案研究、电影分析与数字人文项目，研究法国与跨国电影史、电影人的创作过程以及电影业中的女性。",
+   "summary": "Studies French and transnational film history, filmmakers' creative processes, and women in the film industry through historical research and film analysis, plus digital humanities work.",
+   "summary_zh": "通过历史研究、电影分析与数字人文项目，研究法国与跨国电影史、电影人的创作过程以及电影业中的女性。",
    "confidence": "high",
    "labels": {
     "topic": [
@@ -594,14 +586,6 @@
       "sources": [
        "department_profile"
       ]
-     },
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
      }
     ],
     "data": [],
@@ -649,22 +633,7 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_DESIGN_BUILD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ],
+    "approach": [],
     "data": [],
     "setting": [],
     "region": []
@@ -1170,13 +1139,6 @@
       "sources": [
        "department_profile"
       ]
-     },
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
      }
     ],
     "data": [],
@@ -1308,13 +1270,6 @@
      {
       "code": "T_GLOBAL_INTERCULTURAL",
       "primary": true,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "T_MEDIA_INDUSTRIES_POLICY",
-      "primary": false,
       "sources": [
        "department_profile"
       ]
@@ -1744,15 +1699,7 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "approach": [],
     "data": [],
     "setting": [
      {
@@ -1888,13 +1835,6 @@
       "sources": [
        "department_profile"
       ]
-     },
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
      }
     ],
     "data": [
@@ -1968,13 +1908,6 @@
     ],
     "data": [
      {
-      "code": "D_ADMIN_LARGE_SCALE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
       "code": "D_SOCIAL_MEDIA",
       "primary": false,
       "sources": [
@@ -2013,8 +1946,8 @@
   },
   {
    "name": "Tomás Dodds",
-   "summary": "Studies how journalists and news organizations adopt AI and build open-source tools for the public interest, examining newsroom ethics through qualitative research.",
-   "summary_zh": "通过质性研究考察记者与新闻机构如何采用人工智能并开发服务公共利益的开源工具，关注新闻编辑室伦理。",
+   "summary": "Studies how journalists and news organizations adopt AI and build open-source tools for the public interest, examining newsroom ethics and responsible AI practices.",
+   "summary_zh": "考察记者与新闻机构如何采用人工智能并开发服务公共利益的开源工具，关注新闻编辑室伦理与负责任的人工智能实践。",
    "confidence": "high",
    "labels": {
     "topic": [
@@ -2035,14 +1968,6 @@
     ],
     "approach": [
      {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     },
-     {
       "code": "A_DESIGN_BUILD",
       "primary": false,
       "sources": [
@@ -2050,16 +1975,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_INTERVIEWS_FIELD",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_NEWSROOMS_MEDIA_ORGS",
@@ -2069,15 +1985,7 @@
       ]
      }
     ],
-    "region": [
-     {
-      "code": "R_EUROPE",
-      "primary": false,
-      "sources": [
-       "publications"
-      ]
-     }
-    ]
+    "region": []
    },
    "keywords": [
     "ai in journalism",
@@ -2490,13 +2398,6 @@
       "sources": [
        "department_profile"
       ]
-     },
-     {
-      "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
      }
     ],
     "data": [
@@ -2581,15 +2482,7 @@
       ]
      }
     ],
-    "data": [
-     {
-      "code": "D_INTERVIEWS_FIELD",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "data": [],
     "setting": [
      {
       "code": "SET_NEWSROOMS_MEDIA_ORGS",
@@ -2725,15 +2618,7 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_QUALITATIVE",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ],
+    "approach": [],
     "data": [],
     "setting": [
      {
@@ -2792,26 +2677,8 @@
       ]
      }
     ],
-    "approach": [
-     {
-      "code": "A_SURVEY",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
-    "data": [
-     {
-      "code": "D_SURVEY_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile",
-       "publications"
-      ]
-     }
-    ],
+    "approach": [],
+    "data": [],
     "setting": [
      {
       "code": "SET_AUDIENCES_PUBLICS",
@@ -2903,13 +2770,6 @@
      },
      {
       "code": "A_EXPERIMENT",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     },
-     {
-      "code": "A_SURVEY",
       "primary": false,
       "sources": [
        "department_profile"
@@ -3128,15 +2988,7 @@
       ]
      }
     ],
-    "region": [
-     {
-      "code": "R_CHINA",
-      "primary": false,
-      "sources": [
-       "department_profile"
-      ]
-     }
-    ]
+    "region": []
    },
    "keywords": [
     "anthropology of islam",
@@ -3165,6 +3017,13 @@
      },
      {
       "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
       "primary": false,
       "sources": [
        "department_profile"

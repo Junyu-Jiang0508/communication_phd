@@ -350,15 +350,7 @@
             ]
           }
         ],
-        "data": [
-          {
-            "code": "D_ADMIN_LARGE_SCALE",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "data": [],
         "setting": [
           {
             "code": "SET_ELECTIONS_GOVERNMENT",
@@ -584,7 +576,7 @@
             ]
           },
           {
-            "code": "T_STRATEGIC_PR_AD",
+            "code": "T_HCI_CMC",
             "primary": false,
             "sources": [
               "department_profile"
@@ -600,15 +592,7 @@
             ]
           }
         ],
-        "data": [
-          {
-            "code": "D_SOCIAL_MEDIA",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "data": [],
         "setting": [
           {
             "code": "SET_PLATFORMS",
@@ -922,13 +906,6 @@
             "sources": [
               "department_profile"
             ]
-          },
-          {
-            "code": "A_EXPERIMENT",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
           }
         ],
         "data": [
@@ -996,13 +973,6 @@
           {
             "code": "A_PHYSIO_NEURO",
             "primary": true,
-            "sources": [
-              "department_profile"
-            ]
-          },
-          {
-            "code": "A_EXPERIMENT",
-            "primary": false,
             "sources": [
               "department_profile"
             ]

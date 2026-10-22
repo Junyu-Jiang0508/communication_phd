@@ -1,0 +1,1297 @@
+{
+  "slug": "georgia-state-university",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Jaye Atkinson",
+      "summary": "Studies how communication sustains or challenges age stereotypes, from patronizing speech and ageist language to portrayals of older adults in film and advertising.",
+      "summary_zh": "研究传播如何维系或挑战年龄刻板印象，涵盖对老年人的居高临下式言语、年龄歧视语言，以及电影和广告中的老年人形象。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "communication and aging",
+        "ageism",
+        "age stereotypes",
+        "older adults",
+        "patronizing speech",
+        "intergroup communication",
+        "media portrayals",
+        "disney films",
+        "advertising portrayals"
+      ]
+    },
+    {
+      "name": "Tim Barouch",
+      "summary": "Examines how public argument and rhetoric shape citizenship, political judgment, and law, using rhetorical criticism and theory of legal and democratic discourse.",
+      "summary_zh": "研究公共论辩与修辞如何塑造公民身份、政治判断与法律，运用修辞批评及法律与民主话语理论。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public argument",
+        "argumentation",
+        "legal communication",
+        "citizenship",
+        "political judgment",
+        "rhetorical education",
+        "debate",
+        "liberal citizenship"
+      ]
+    },
+    {
+      "name": "Mia Bloom",
+      "summary": "Studies terrorism, propaganda, and political violence, including women and children in terror groups and QAnon, through ethnographic fieldwork in Europe, the Middle East, and South Asia.",
+      "summary_zh": "研究恐怖主义、宣传与政治暴力，包括恐怖组织中的女性与儿童以及QAnon，主要通过在欧洲、中东和南亚的民族志田野调查展开。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_MIDDLE_EAST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_EUROPE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_SOUTH_SE_ASIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "terrorism",
+        "propaganda",
+        "cyber terrorism",
+        "political violence",
+        "suicide terrorism",
+        "women and terrorism",
+        "qanon",
+        "radicalization",
+        "ethnographic fieldwork",
+        "comparative politics"
+      ]
+    },
+    {
+      "name": "David Cheshier",
+      "summary": "Works on rhetorical theory and criticism, argumentation, and public deliberation, connecting rhetoric with critical theory and political philosophy.",
+      "summary_zh": "从事修辞理论与批评、论证研究和公共审议研究，将修辞学与批判理论及政治哲学相结合。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "rhetorical theory",
+        "rhetorical criticism",
+        "argumentation studies",
+        "deliberative democracy",
+        "public deliberation",
+        "critical theory",
+        "political philosophy"
+      ]
+    },
+    {
+      "name": "Hue Duong",
+      "summary": "Studies persuasion, social influence, and message effects in health communication and social marketing, including violence prevention, tobacco control, and parental mediation in Vietnam.",
+      "summary_zh": "研究健康传播与社会营销中的说服、社会影响和信息效果，涉及暴力预防、控烟以及越南家庭中的父母媒介干预。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_SOUTH_SE_ASIA",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "health communication",
+        "persuasion",
+        "social influence",
+        "message effects",
+        "social marketing",
+        "tobacco control",
+        "violence prevention",
+        "parental mediation",
+        "development communication",
+        "vietnam"
+      ]
+    },
+    {
+      "name": "Carrie P. Freeman",
+      "summary": "Analyzes from a critical/cultural perspective how media construct nonhuman animal and environmental issues, and strategic communication and ethics for animal rights and social justice movements.",
+      "summary_zh": "从批判/文化研究视角分析媒体如何建构非人类动物与环境议题，并研究动物权利及社会正义运动的策略传播与媒介伦理。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "critical animal studies",
+        "animal rights",
+        "veganism",
+        "animal agribusiness",
+        "media ethics",
+        "environmental communication",
+        "social justice movements",
+        "framing",
+        "advocacy communication"
+      ]
+    },
+    {
+      "name": "Cynthia Hoffner",
+      "summary": "Studies psychological aspects of media uses and effects, including media and mental health, parasocial relationships with media figures, presumed media influence, and emotional responses.",
+      "summary_zh": "研究媒介使用与效果的心理层面，包括媒介与心理健康、与媒介人物的拟社会关系、假定媒介影响以及情绪反应。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "media psychology",
+        "media effects",
+        "mental health",
+        "parasocial relationships",
+        "presumed media influence",
+        "emotion",
+        "media stereotyping",
+        "stigma"
+      ]
+    },
+    {
+      "name": "Kesha James",
+      "summary": "Studies how Black speakers and Black popular culture, especially Black horror, use visual and discursive rhetoric to challenge the white gaze and reshape understandings of race and power.",
+      "summary_zh": "研究黑人演说者与黑人流行文化（尤其是黑人恐怖作品）如何运用视觉与话语修辞挑战白人凝视，重塑对种族与权力的理解。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "visual rhetoric",
+        "black popular culture",
+        "black horror",
+        "white gaze",
+        "whiteness studies",
+        "race and power",
+        "intersectionality",
+        "rhetorical criticism",
+        "feminist studies"
+      ]
+    },
+    {
+      "name": "Anthony (Tony) Lemieux",
+      "summary": "Applies persuasion and health behavior change models to terrorist propaganda and radicalization, using experiments and analysis of extremist magazines, music, images, and videos.",
+      "summary_zh": "将说服与健康行为改变模型应用于恐怖组织宣传与激进化研究，采用实验方法并分析极端主义杂志、音乐、图像和视频。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "terrorism",
+        "radicalization",
+        "propaganda",
+        "persuasion",
+        "social influence",
+        "music and social identity",
+        "crisis messaging",
+        "augmented reality experiment",
+        "transcultural conflict"
+      ]
+    },
+    {
+      "name": "Kevin Mudavadi",
+      "summary": "Studies journalism, misinformation, and media trust in Kenya and the United States, including journalists' working conditions, AI in news, and audience responses to misinformation.",
+      "summary_zh": "研究肯尼亚和美国的新闻业、虚假信息与媒体信任，包括记者工作状况、新闻中的人工智能以及受众对虚假信息的应对。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_AFRICA",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "journalism studies",
+        "misinformation",
+        "media trust",
+        "journalism and ai",
+        "online harassment",
+        "kenya",
+        "african journalism",
+        "journalist job satisfaction",
+        "audience agency"
+      ]
+    },
+    {
+      "name": "Maria Repnikova",
+      "summary": "Studies political persuasion, resistance, and media activism in illiberal contexts, comparing China and Russia through ethnography and in-depth interviews with journalists and officials.",
+      "summary_zh": "研究非自由政体中的政治说服、抵抗与媒体行动主义，通过民族志及对记者和官员的深度访谈比较中国与俄罗斯。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_CHINA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_EUROPE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "global communication",
+        "authoritarianism",
+        "china",
+        "russia",
+        "media activism",
+        "critical journalism",
+        "party-state",
+        "political persuasion",
+        "ethnography"
+      ]
+    },
+    {
+      "name": "MaryAnn Romski",
+      "summary": "Studies language development in children with severe communication disorders and tests augmentative communication interventions, including a caregiver app in South Africa.",
+      "summary_zh": "研究重度沟通障碍儿童的语言发展，并检验辅助与替代沟通干预措施的效果，包括在南非开发的照护者应用程序。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_AFRICA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "augmentative and alternative communication",
+        "developmental disabilities",
+        "early language intervention",
+        "severe communication disorders",
+        "receptive language",
+        "speech-language pathology",
+        "literacy development",
+        "caregiver app",
+        "south africa"
+      ]
+    },
+    {
+      "name": "Dror Walter",
+      "summary": "Uses computational methods such as network analysis and machine learning to study political extremism, health and science misinformation, and framing in online text and visual content.",
+      "summary_zh": "运用网络分析和机器学习等计算方法，研究政治极端主义、健康与科学虚假信息，以及网络文本和视觉内容中的框架。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "computational social science",
+        "health misinformation",
+        "political extremism",
+        "vaccine hesitancy",
+        "conspiracy theories",
+        "frame analysis",
+        "topic modeling",
+        "network analysis",
+        "foreign influence campaigns",
+        "politicization of science"
+      ]
+    },
+    {
+      "name": "Holley Wilkin",
+      "summary": "Conducts community-engaged health communication research in urban Atlanta and Los Angeles, studying storytelling networks, healthcare access, health media content, and entertainment-education.",
+      "summary_zh": "在亚特兰大和洛杉矶城市社区开展社区参与式健康传播研究，关注健康故事讲述网络、医疗可及性、媒体健康内容及娱乐教育。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "health communication",
+        "community-engaged research",
+        "storytelling network",
+        "healthcare access",
+        "entertainment-education",
+        "ethnic media",
+        "immigrant health",
+        "urban health",
+        "atlanta"
+      ]
+    },
+    {
+      "name": "Carol Winkler",
+      "summary": "Studies communication and conflict through rhetorical analysis of presidential foreign policy rhetoric, argumentation, visual images, and online extremist propaganda.",
+      "summary_zh": "通过修辞分析研究传播与冲突，关注总统外交政策修辞、论证、视觉图像以及网络极端主义宣传。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "presidential rhetoric",
+        "foreign policy rhetoric",
+        "terrorism",
+        "online extremism",
+        "visual propaganda",
+        "visual communication",
+        "argumentation and debate",
+        "communication and conflict"
+      ]
+    },
+    {
+      "name": "Shay Yao",
+      "summary": "Studies users' experiences with video games, social media, virtual reality, and AI and these technologies' potential to promote health and well-being, with interests in gender and quantitative and mixed methods.",
+      "summary_zh": "研究用户对电子游戏、社交媒体、虚拟现实和人工智能的使用体验，以及这些技术促进健康与福祉的潜力，并关注性别议题，擅长定量与混合方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "media psychology",
+        "video games",
+        "virtual reality",
+        "artificial intelligence",
+        "social media use",
+        "well-being",
+        "gender",
+        "user experience",
+        "quantitative methods"
+      ]
+    }
+  ]
+}

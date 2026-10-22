@@ -302,8 +302,7 @@
             "code": "D_NEWS_CONTENT",
             "primary": false,
             "sources": [
-              "department_profile",
-              "publications"
+              "department_profile"
             ]
           }
         ],
@@ -474,8 +473,8 @@
     },
     {
       "name": "Joan Donovan",
-      "summary": "Studies media manipulation, disinformation, and networked social movements, including how meme culture reshapes US politics, using qualitative and ethnographic research.",
-      "summary_zh": "运用质性与民族志研究，考察媒体操纵、虚假信息与网络化社会运动，包括表情包文化如何重塑美国政治。",
+      "summary": "Studies media manipulation, disinformation, and networked social movements, including how meme culture became a political communication strategy reshaping US politics.",
+      "summary_zh": "研究媒体操纵、虚假信息与网络化社会运动，包括表情包文化如何成为重塑美国政治的政治传播策略。",
       "confidence": "high",
       "labels": {
         "topic": [
@@ -501,25 +500,8 @@
             ]
           }
         ],
-        "approach": [
-          {
-            "code": "A_QUALITATIVE",
-            "primary": false,
-            "sources": [
-              "department_profile",
-              "publications"
-            ]
-          }
-        ],
-        "data": [
-          {
-            "code": "D_SOCIAL_MEDIA",
-            "primary": false,
-            "sources": [
-              "department_profile"
-            ]
-          }
-        ],
+        "approach": [],
+        "data": [],
         "setting": [
           {
             "code": "SET_SOCIAL_MOVEMENTS",
@@ -1033,8 +1015,8 @@
     },
     {
       "name": "Juwon Hwang",
-      "summary": "Studies how new media technologies shape health behavior and mental well-being, designing vaccination campaign messages and testing VR for distress with conventional and computational methods.",
-      "summary_zh": "结合传统与计算方法，研究新媒体技术如何影响健康行为与心理健康，设计疫苗接种宣传信息，并检验VR缓解心理困扰的作用。",
+      "summary": "Studies how new media technologies shape health behavior and mental well-being, designing vaccination campaign messages and exploring VR to ease distress with conventional and computational methods.",
+      "summary_zh": "结合传统与计算方法，研究新媒体技术如何影响健康行为与心理健康，设计疫苗接种宣传信息，并探索VR缓解心理困扰的潜力。",
       "confidence": "high",
       "labels": {
         "topic": [
@@ -1468,8 +1450,7 @@
         "new communication technologies",
         "social media",
         "nudging",
-        "ethics of ai",
-        "mobile communication"
+        "ethics of ai"
       ]
     },
     {
@@ -1957,8 +1938,7 @@
             "code": "D_NEWS_CONTENT",
             "primary": false,
             "sources": [
-              "department_profile",
-              "publications"
+              "department_profile"
             ]
           }
         ],
@@ -2174,8 +2154,7 @@
             "code": "D_ARCHIVES_TEXTS",
             "primary": false,
             "sources": [
-              "department_profile",
-              "publications"
+              "department_profile"
             ]
           }
         ],
@@ -2363,8 +2342,7 @@
         "civic participation",
         "citizen learning",
         "computational methods",
-        "social media",
-        "environmental politics"
+        "social media"
       ]
     },
     {
@@ -2439,8 +2417,7 @@
             "code": "SET_MARGINALIZED_COMMUNITIES",
             "primary": false,
             "sources": [
-              "department_profile",
-              "publications"
+              "department_profile"
             ]
           }
         ],

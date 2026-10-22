@@ -17,6 +17,12 @@ const fullTitle = title === 'Communication PhD Explorer' ? title : `${title} · 
     <link rel="icon" href={`${base}favicon.svg`} type="image/svg+xml" />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content={new URL(`${base}og.png`, Astro.site).href} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).href} />
     <script is:inline>
       (function () { try { var t = localStorage.getItem('theme'); if (t) document.documentElement.dataset.theme = t; var l = localStorage.getItem('lang'); if (l === 'zh') document.documentElement.lang = 'zh'; } catch (e) {} })();
     </script>

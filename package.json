@@ -7,9 +7,13 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "gen": "python pipeline/build.py",
+    "check:data": "python pipeline/validate_raw.py data/raw/*.json && python pipeline/validate_labels.py data/labels/*.json",
+    "report": "python pipeline/report.py"
   },
   "dependencies": {
+    "@astrojs/sitemap": "^3.7.4",
     "astro": "^5.18.2",
     "leaflet": "^1.9.4"
   }

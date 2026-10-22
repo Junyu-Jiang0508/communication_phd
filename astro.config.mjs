@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
+import sitemap from '@astrojs/sitemap';
 
 // Deployed as a GitHub Pages project site:
 // https://junyu-jiang0508.github.io/communication_phd/
@@ -10,4 +11,5 @@ export default defineConfig({
   build: {
     format: 'directory',
   },
+  integrations: [sitemap()],
 });

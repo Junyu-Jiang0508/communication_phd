@@ -1,0 +1,12 @@
+---
+import Base from '../layouts/Base.astro';
+const base = import.meta.env.BASE_URL;
+---
+<Base title="Page not found">
+  <div style="max-width:60ch;padding:48px 0">
+    <span class="hero-bars" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i></span>
+    <h1>No signal on this channel</h1>
+    <p class="lede" style="margin-top:12px">The page you asked for does not exist. Faculty pages can move when a directory is refreshed.</p>
+    <div class="toolbar" style="margin-top:20px"><a class="btn primary" href={base}>Find matches</a><a class="btn" href={`${base}faculty/`}>Browse the faculty directory</a><a class="btn" href={`${base}programs/`}>Browse programs</a></div>
+  </div>
+</Base>

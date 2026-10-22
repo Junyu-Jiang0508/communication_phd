@@ -1,0 +1,2656 @@
+{
+  "slug": "boston-university",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Michelle A. Amazeen",
+      "summary": "Studies the persuasive effects of misinformation, native advertising, and climate disinformation and efforts to correct them, using qualitative and quantitative methods.",
+      "summary_zh": "运用质性与量化方法，研究虚假信息、原生广告与气候虚假信息的说服效果及其纠正策略。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "misinformation",
+        "fact-checking",
+        "debunking",
+        "persuasion",
+        "native advertising",
+        "climate disinformation",
+        "persuasion knowledge",
+        "misinformation correction"
+      ]
+    },
+    {
+      "name": "Joshua Baldwin",
+      "summary": "Studies why audiences enjoy and appreciate entertainment, narratives, and games and how media shape well-being, using experiments, physiological measures, and computational visual analysis.",
+      "summary_zh": "运用实验、生理测量与计算视觉分析，研究受众为何享受和欣赏娱乐、叙事与游戏，以及媒介如何影响幸福感。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "media psychology",
+        "entertainment",
+        "enjoyment and appreciation",
+        "narratives",
+        "video games",
+        "well-being",
+        "prosocial behavior",
+        "virtual reality",
+        "computational visual analysis"
+      ]
+    },
+    {
+      "name": "Christopher Beaudoin",
+      "summary": "Studies how mediated communication shapes social capital and health outcomes, building media-effects theory and designing and evaluating health campaigns, including in Africa.",
+      "summary_zh": "研究媒介传播如何影响社会资本与健康结果，构建媒介效果理论，并设计与评估健康传播运动（包括在非洲）。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_AFRICA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "social capital",
+        "media effects",
+        "health campaigns",
+        "campaign evaluation",
+        "safe sex messaging",
+        "mtv africa",
+        "community-level effects",
+        "health outcomes"
+      ]
+    },
+    {
+      "name": "Bill Braudis",
+      "summary": "Practices and teaches screenwriting and comedy writing for television and animation, drawing on a career in stand-up comedy and animated sitcoms.",
+      "summary_zh": "从事并教授电视与动画的编剧及喜剧写作，其经验来自单口喜剧与动画情景喜剧创作生涯。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "screenwriting",
+        "comedy writing",
+        "television writing",
+        "stand-up comedy",
+        "animated sitcoms",
+        "joke writing"
+      ]
+    },
+    {
+      "name": "Raymond Carney",
+      "summary": "Studies American independent cinema and film criticism, especially John Cassavetes, through critical and historical analysis connecting film to pragmatist philosophy and American art.",
+      "summary_zh": "通过批判与历史分析研究美国独立电影与电影批评（尤其是约翰·卡萨维蒂），并将电影与实用主义哲学及美国艺术相联系。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "film studies",
+        "american independent cinema",
+        "john cassavetes",
+        "film criticism",
+        "pragmatism",
+        "frank capra",
+        "mike leigh",
+        "carl dreyer"
+      ]
+    },
+    {
+      "name": "Kathryn Coduto",
+      "summary": "Studies how people use social media and dating apps to connect, including compulsive social media use during news events and privacy management, bridging mass and interpersonal communication.",
+      "summary_zh": "研究人们如何借助社交媒体和约会软件建立联系，包括重大新闻事件中的强迫性社交媒体使用与隐私管理，连接大众传播与人际传播。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "compulsive social media use",
+        "privacy management",
+        "dating apps",
+        "interpersonal communication",
+        "social media",
+        "news events",
+        "relationships"
+      ]
+    },
+    {
+      "name": "James Cummings",
+      "summary": "Studies psychological processing of media and human-computer interaction, including multitasking, task-switching, and presence and empathy in immersive VR, using physiological measures.",
+      "summary_zh": "运用生理测量研究媒介心理加工与人机交互，包括多任务处理、任务切换，以及沉浸式VR中的临场感与共情。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "multitasking",
+        "task-switching",
+        "virtual reality",
+        "presence",
+        "immersive media",
+        "empathy",
+        "physiological responses",
+        "human screenome",
+        "persuasion"
+      ]
+    },
+    {
+      "name": "Debbie Danielpour",
+      "summary": "Practices and teaches screenwriting and fiction writing for film, television, and opera, and writes on the craft of screenwriting.",
+      "summary_zh": "从事并教授电影、电视与歌剧的编剧与小说写作，并撰写关于编剧技艺的文章。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "screenwriting",
+        "fiction writing",
+        "film and television",
+        "libretto",
+        "screenwriting studies",
+        "television scripts"
+      ]
+    },
+    {
+      "name": "Joan Donovan",
+      "summary": "Studies media manipulation, disinformation, and networked social movements, including how meme culture reshapes US politics, using qualitative and ethnographic research.",
+      "summary_zh": "运用质性与民族志研究，考察媒体操纵、虚假信息与网络化社会运动，包括表情包文化如何重塑美国政治。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "media manipulation",
+        "disinformation",
+        "memes",
+        "meme wars",
+        "networked social movements",
+        "sociology of knowledge",
+        "adversarial media movements",
+        "insurrection"
+      ]
+    },
+    {
+      "name": "Edward Downes",
+      "summary": "Studies public relations education and the politics and public relations of congressional press secretaries, promoting interdisciplinary scholarship.",
+      "summary_zh": "研究公共关系教育以及美国国会新闻秘书的政治与公关实践，倡导跨学科研究。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "public relations",
+        "public relations education",
+        "congressional press secretaries",
+        "capitol hill",
+        "political public relations",
+        "advertising education"
+      ]
+    },
+    {
+      "name": "Michael G. Elasmar",
+      "summary": "Studies how communication forms and changes belief systems such as brand beliefs, country images, and intergroup perceptions, using psychometric and mathematical models.",
+      "summary_zh": "运用心理测量与数学模型，研究传播如何形成和改变品牌信念、国家形象与群际认知等信念系统。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "belief systems",
+        "country image",
+        "public diplomacy",
+        "psychometrics",
+        "intergroup perceptions",
+        "brand beliefs",
+        "international communication",
+        "mathematical modeling"
+      ]
+    },
+    {
+      "name": "Amy Geller",
+      "summary": "Produces and directs documentary and fiction films and audio documentaries, including work on American film criticism and Jewish life.",
+      "summary_zh": "制作与执导纪录片、剧情片和音频纪录片，作品涉及美国电影批评与犹太人生活。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "documentary film",
+        "creative producing",
+        "filmmaking",
+        "audio documentary",
+        "jewish film",
+        "film criticism"
+      ]
+    },
+    {
+      "name": "Maria Elizabeth (Betsi) Grabe",
+      "summary": "Studies informed and misinformed citizenship, using experiments on how news reception varies across demographic groups, modalities, packaging styles, and visual framing of elections.",
+      "summary_zh": "研究知情与误知公民身份，以实验考察新闻接收如何因人口群体、模态、包装风格及选举视觉框架而异。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "informed citizenship",
+        "news reception",
+        "visual framing",
+        "image bite politics",
+        "political participation",
+        "misinformation resilience",
+        "experimental methods",
+        "news packaging"
+      ]
+    },
+    {
+      "name": "Roy Grundmann",
+      "summary": "Studies American and European narrative and avant-garde cinema, film and cultural theory, and gay and lesbian film history through critical and historical analysis.",
+      "summary_zh": "通过批判与历史分析研究美国与欧洲叙事电影和先锋电影、电影与文化理论，以及同性恋电影史与酷儿理论。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_EUROPE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "avant-garde film",
+        "queer theory",
+        "film theory",
+        "michael haneke",
+        "andy warhol",
+        "american cinema",
+        "european cinema",
+        "gay and lesbian film history"
+      ]
+    },
+    {
+      "name": "Traci Hong",
+      "summary": "Studies how health messaging, social norms, and peer influence in new media promote healthy behavior, using AI, machine learning, and social media analytics on vaping and vaccines.",
+      "summary_zh": "研究新媒体中的健康信息、社会规范与同伴影响如何促进健康行为，运用AI、机器学习与社交媒体分析研究电子烟和疫苗议题。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health communication",
+        "social norms",
+        "peer influence",
+        "vaping",
+        "smoking prevention",
+        "vaccine hesitancy",
+        "machine learning",
+        "social media analytics"
+      ]
+    },
+    {
+      "name": "Charlotte E. Howell",
+      "summary": "Studies television industries, genre, and fandom, including how US TV production negotiated Christianity in prime-time dramas, through industry and textual analysis.",
+      "summary_zh": "通过产业与文本分析研究电视产业、类型与粉丝文化，包括美国电视制作如何在黄金时段剧集中处理基督教题材。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "television studies",
+        "media industry studies",
+        "genre studies",
+        "fan studies",
+        "religion on television",
+        "christianity",
+        "prime-time drama"
+      ]
+    },
+    {
+      "name": "Juwon Hwang",
+      "summary": "Studies how new media technologies shape health behavior and mental well-being, designing vaccination campaign messages and testing VR for distress with conventional and computational methods.",
+      "summary_zh": "结合传统与计算方法，研究新媒体技术如何影响健康行为与心理健康，设计疫苗接种宣传信息，并检验VR缓解心理困扰的作用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health communication",
+        "vaccination",
+        "health campaign messages",
+        "mental well-being",
+        "virtual reality",
+        "political polarization",
+        "preventive behavior"
+      ]
+    },
+    {
+      "name": "Hayes Jackson",
+      "summary": "Practices and teaches screenwriting and television production, especially situation comedy, drawing on a long career writing for network and streaming TV.",
+      "summary_zh": "从事并教授编剧与电视制作，尤其是情景喜剧，其经验来自长期为电视网和流媒体撰稿的职业生涯。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "screenwriting",
+        "situation comedy",
+        "television production",
+        "sitcom",
+        "comedy writing",
+        "late night television"
+      ]
+    },
+    {
+      "name": "Deborah L. Jaramillo",
+      "summary": "Studies US television history, censorship and industry self-regulation, and the construction of death in radio, podcasting, and TV, through historical and critical analysis.",
+      "summary_zh": "通过历史与批判分析，研究美国电视史、审查与行业自律，以及广播、播客和电视中对死亡的建构。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "television history",
+        "media censorship",
+        "television code",
+        "death studies",
+        "podcasting",
+        "cable news",
+        "iraq war coverage",
+        "radio"
+      ]
+    },
+    {
+      "name": "Yi Grace Ji",
+      "summary": "Studies how organizations use strategic communication and emerging media, including generative AI, to engage stakeholders on sociopolitical issues via surveys, experiments, and computational methods.",
+      "summary_zh": "运用调查、实验与计算方法，研究组织如何借助战略传播与新兴媒体（包括生成式AI）在社会政治议题上与利益相关者互动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "strategic communication",
+        "corporate social advocacy",
+        "stakeholder engagement",
+        "generative ai",
+        "prosocial communication",
+        "sociopolitical discourse",
+        "computational social science",
+        "public relations"
+      ]
+    },
+    {
+      "name": "Xiaoya Jiang",
+      "summary": "Studies public opinion on contentious issues such as vaccination, immigration, and AI, using NLP, time series, and network analysis of news and social media plus surveys and experiments.",
+      "summary_zh": "研究疫苗、移民与人工智能等争议议题的舆论，运用自然语言处理、时间序列和网络分析新闻与社交媒体数据，并结合调查与实验。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public opinion",
+        "computational communication",
+        "natural language processing",
+        "time series analysis",
+        "vaccination",
+        "immigration",
+        "attitudes toward ai",
+        "social network analysis"
+      ]
+    },
+    {
+      "name": "James Katz",
+      "summary": "Studies the social and ethical implications of AI, social media, and human-robot interaction, examining how new communication technologies shape society and perceptions of the future.",
+      "summary_zh": "研究人工智能、社交媒体与人机器人交互的社会与伦理意涵，考察新传播技术如何塑造社会及人们对未来的认知。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "ai and society",
+        "human-robot interaction",
+        "social robots",
+        "new communication technologies",
+        "social media",
+        "nudging",
+        "ethics of ai",
+        "mobile communication"
+      ]
+    },
+    {
+      "name": "Arunima Krishna",
+      "summary": "Studies how publics perceive and communicate about controversial issues such as vaccine hesitancy, climate denial, and corporate misconduct, extending the situational theory of problem solving.",
+      "summary_zh": "研究公众如何认知和讨论疫苗犹豫、气候变化否认与企业不当行为等争议议题，并拓展问题解决情境理论（STOPS）。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "situational theory of problem solving",
+        "stops",
+        "vaccine hesitancy",
+        "climate change denial",
+        "misinformation",
+        "publics",
+        "corporate misconduct",
+        "workplace discrimination"
+      ]
+    },
+    {
+      "name": "Adam Lapidus",
+      "summary": "Practices and teaches television and comedy writing, drawing on decades of writing and producing sitcoms for network TV, Disney Channel, and Netflix.",
+      "summary_zh": "从事并教授电视与喜剧写作，其经验来自数十年为电视网、迪士尼频道和Netflix编写与制作情景喜剧。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "television writing",
+        "comedy writing",
+        "screenwriting",
+        "sitcoms",
+        "disney channel",
+        "family television"
+      ]
+    },
+    {
+      "name": "Ejae Lee",
+      "summary": "Studies how organizations communicate authentically with stakeholders to build trust, focusing on prosocial corporate communication and corporate social advocacy in the AI era across global contexts.",
+      "summary_zh": "研究组织如何与利益相关者进行真诚沟通以建立信任，聚焦AI时代全球语境下的亲社会企业传播与企业社会倡导。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "authenticity",
+        "corporate social advocacy",
+        "prosocial corporate communication",
+        "public relations",
+        "stakeholder trust",
+        "crisis communication",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "name": "Susanna S. Lee",
+      "summary": "Studies persuasion in social media marketing, including how influencers, virtual influencers, and message strategies shape ad avoidance and credibility, and effects of immersive media and AI.",
+      "summary_zh": "研究社交媒体营销中的说服，包括网红、虚拟网红及信息策略如何影响广告回避与可信度，以及沉浸式媒介与AI的效果。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "social media influencers",
+        "virtual influencers",
+        "advertising",
+        "ad avoidance",
+        "brand authenticity",
+        "message credibility",
+        "two-sided messaging",
+        "immersive media"
+      ]
+    },
+    {
+      "name": "Richard Lehr",
+      "summary": "Practices and teaches narrative nonfiction and investigative journalism, writing books and podcasts on crime, policing, race, and civil rights history.",
+      "summary_zh": "从事并教授叙事非虚构写作与调查新闻，撰写关于犯罪、警务、种族与民权历史的书籍和播客。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "investigative reporting",
+        "narrative nonfiction",
+        "spotlight team",
+        "true crime",
+        "podcasting",
+        "civil rights",
+        "birth of a nation"
+      ]
+    },
+    {
+      "name": "Ayse Lokmanoglu",
+      "summary": "Studies how state and non-state actors propagate supremacist ideologies online, attending to race, gender, and religion, using automated text and visual analysis and network analysis.",
+      "summary_zh": "研究国家与非国家行为体如何在网上传播至上主义意识形态，关注种族、性别与宗教，运用自动化文本与视觉分析及网络分析。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "extremism",
+        "supremacist ideologies",
+        "computational social science",
+        "digital humanities",
+        "automated visual analysis",
+        "network analysis",
+        "online propaganda",
+        "radicalization"
+      ]
+    },
+    {
+      "name": "AnneMarie K. McClain",
+      "summary": "Studies children's media, representation, and identity socialization, including how US Black families use media to socialize children about identity and after experiences of racism.",
+      "summary_zh": "研究儿童媒介、媒介再现与身份社会化，包括美国黑人家庭如何利用媒介在身份及遭遇种族主义后对孩子进行社会化。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "children's media",
+        "representation",
+        "identity socialization",
+        "black families",
+        "racial socialization",
+        "media and families",
+        "racism"
+      ]
+    },
+    {
+      "name": "William McKeen",
+      "summary": "Studies journalism history and literary journalism and writes biographies of writers and musicians, such as Hunter S. Thompson and the Key West arts scene.",
+      "summary_zh": "研究新闻史与文学新闻，并为作家和音乐人撰写传记，如亨特·S·汤普森及基韦斯特艺术群体。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "literary journalism",
+        "journalism history",
+        "hunter s. thompson",
+        "biography",
+        "music history",
+        "popular culture",
+        "key west"
+      ]
+    },
+    {
+      "name": "Patrice Oppliger",
+      "summary": "Studies how media and popular culture shape adolescent development, focusing on gender, sexualization, and humor in TV and comedy, using qualitative and quantitative methods.",
+      "summary_zh": "运用质性与量化方法，研究媒介与流行文化如何影响青少年发展，聚焦电视与喜剧中的性别、性化与幽默。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "adolescent development",
+        "gender in media",
+        "sexualization",
+        "humor studies",
+        "stand-up comedy",
+        "tween sitcoms",
+        "transmasculinity",
+        "hypermasculinity"
+      ]
+    },
+    {
+      "name": "Geoffrey Poister",
+      "summary": "Produces and directs documentaries for public television on cultural and social issues, including AIDS in South Africa and the legacy of Hiroshima.",
+      "summary_zh": "为公共电视制作和执导关于文化与社会议题的纪录片，包括南非的艾滋病问题与广岛的遗产。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "documentary film",
+        "television production",
+        "public television",
+        "nova",
+        "intercultural films",
+        "cinematography"
+      ]
+    },
+    {
+      "name": "Chris Chao Su",
+      "summary": "Studies how online media audiences form in a fragmented digital environment, using computational methods, network analysis, and passively measured audience data.",
+      "summary_zh": "运用计算方法、网络分析与被动测量的受众数据，研究碎片化数字环境中网络媒介受众如何形成。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ADMIN_LARGE_SCALE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "audience fragmentation",
+        "audience measurement",
+        "mobile media use",
+        "social media analytics",
+        "network analysis",
+        "passive measurement",
+        "digital media consumption",
+        "media sociology"
+      ]
+    },
+    {
+      "name": "Scott Thompson",
+      "summary": "Practices and teaches screenwriting and film adaptation, adapting memoirs and developing feature, television, and short film scripts.",
+      "summary_zh": "从事并教授编剧与电影改编，改编回忆录并开发长片、电视及短片剧本。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "screenwriting",
+        "film adaptation",
+        "story development",
+        "tv pilot",
+        "short film"
+      ]
+    },
+    {
+      "name": "Tammy R. Vigil",
+      "summary": "Studies US presidential campaigns, nominating conventions, and the rhetoric of presidential spouses through rhetorical analysis of public address.",
+      "summary_zh": "通过对公共演说的修辞分析，研究美国总统竞选、党代会以及总统配偶的修辞。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "presidential campaigns",
+        "first ladies",
+        "national conventions",
+        "public address",
+        "republican motherhood",
+        "presidential debates",
+        "identification"
+      ]
+    },
+    {
+      "name": "Morgan N. Weiland",
+      "summary": "Studies how the internet was socially constructed as a First Amendment speech system, taking a critical historical approach to the legal regulation of platforms and AI.",
+      "summary_zh": "研究互联网如何被社会性地建构为受第一修正案保护的言论体系，以批判性历史视角审视平台与AI的法律规制。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "first amendment",
+        "internet law",
+        "free speech",
+        "communication law",
+        "platform regulation",
+        "ai regulation",
+        "internet history"
+      ]
+    },
+    {
+      "name": "Christopher Wells",
+      "summary": "Studies how news coverage takes shape and how citizens learn about and participate in politics, using conventional and computational methods to examine interactive media systems.",
+      "summary_zh": "结合传统与计算方法，研究新闻报道如何形成、公民如何了解政治并参与其中，考察互动的媒介系统。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "political communication",
+        "news coverage",
+        "media systems",
+        "civic participation",
+        "citizen learning",
+        "computational methods",
+        "social media",
+        "environmental politics"
+      ]
+    },
+    {
+      "name": "Alan Wu",
+      "summary": "Practices film editing and directing for narrative features and short films screened at major international festivals.",
+      "summary_zh": "从事剧情长片与短片的剪辑和导演工作，作品入选多个重要国际电影节。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "film editing",
+        "film directing",
+        "narrative film",
+        "independent film",
+        "short film",
+        "film festivals"
+      ]
+    },
+    {
+      "name": "Denis Wu",
+      "summary": "Studies international communication and how emotional and image-based reactions to political figures shape voter decisions and perceptions of other nations.",
+      "summary_zh": "研究国际传播，以及对政治人物的情绪与形象反应如何影响选民决策和对他国的认知。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "international communication",
+        "affect agenda",
+        "image and emotion",
+        "voter decisions",
+        "perceptions of foreign nations",
+        "asian americans",
+        "media effects",
+        "media and well-being"
+      ]
+    },
+    {
+      "name": "Jing Yang",
+      "summary": "Studies authenticity and transparency in digital advertising and consumer responses to AI and emerging ad technologies, including human-AI interaction and advertising ethics.",
+      "summary_zh": "研究数字广告中的真实性与透明度，以及消费者对AI和新兴广告技术的反应，包括人机交互与广告伦理。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "digital advertising",
+        "ai in advertising",
+        "advertising ethics",
+        "transparency",
+        "authenticity",
+        "human-ai interaction",
+        "consumer responses",
+        "responsible ai"
+      ]
+    },
+    {
+      "name": "Sung-Un Yang",
+      "summary": "Studies strategic communication management and how AI reshapes public-organization relationships, employee communication, and organizational change, including professionals' AI adoption.",
+      "summary_zh": "研究战略传播管理，以及AI如何重塑组织—公众关系、员工沟通与组织变革，包括传播从业者对AI的采纳。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public relations",
+        "organization-public relationships",
+        "employee communication",
+        "organizational change",
+        "ai adoption",
+        "internal communication",
+        "leadership",
+        "strategic communication management"
+      ]
+    },
+    {
+      "name": "April Yue",
+      "summary": "Studies internal public relations, leadership communication, organizational change management, and corporate social responsibility and irresponsibility, including AI in public relations.",
+      "summary_zh": "研究内部公共关系、领导力沟通、组织变革管理以及企业社会责任与不负责任行为，包括公关中的AI应用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "internal communication",
+        "leadership communication",
+        "organizational change management",
+        "corporate social responsibility",
+        "csr",
+        "ceo communication",
+        "ai in public relations"
+      ]
+    },
+    {
+      "name": "Mitchell Zuckoff",
+      "summary": "Practices and teaches narrative nonfiction and investigative journalism, writing bestselling books on events such as 9/11 and Benghazi.",
+      "summary_zh": "从事并教授叙事非虚构写作与调查新闻，撰写关于9·11和班加西事件等的畅销书。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "narrative nonfiction",
+        "investigative journalism",
+        "narrative studies",
+        "spotlight team",
+        "9/11",
+        "book-length reporting"
+      ]
+    }
+  ]
+}

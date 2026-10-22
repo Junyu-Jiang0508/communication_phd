@@ -1,0 +1,3445 @@
+{
+ "slug": "university-of-missouri",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "Jeanne Abbott",
+   "summary": "Teaches newspaper editing and reporting as managing editor of a student-staffed community newsroom, drawing on long metro newspaper experience.",
+   "summary_zh": "以学生运营社区报纸的执行主编身份教授新闻编辑与报道，借鉴其长期的都市报从业经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "newspaper editing",
+    "community newspaper",
+    "columbia missourian",
+    "newsroom management",
+    "copy editing",
+    "journalism education"
+   ]
+  },
+  {
+   "name": "Brad Best",
+   "summary": "Teaches digital advertising and media sales, focusing on media buying, planning, and analytics that help news publishers grow revenue and engagement.",
+   "summary_zh": "教授数字广告与媒体销售，关注媒体购买、媒介策划以及帮助新闻出版商提升收入与用户参与的数据分析。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "media buying",
+    "media planning",
+    "digital advertising",
+    "media sales",
+    "digital analytics",
+    "news publisher revenue",
+    "youth and young adult market"
+   ]
+  },
+  {
+   "name": "Pete Bland",
+   "summary": "Supervises sports coverage at a student-staffed community newspaper and teaches sports journalism and digital news editing, including tests of pay models and social media practice.",
+   "summary_zh": "在学生运营的社区报纸主管体育报道，教授体育新闻与数字新闻编辑，并参与付费模式与社交媒体实践的测试。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "sports journalism",
+    "digital news editing",
+    "copy editing",
+    "culture reporting",
+    "community newspaper",
+    "news pay models"
+   ]
+  },
+  {
+   "name": "Elizabeth Brixey",
+   "summary": "Teaches reporting and editing as a teaching editor at a student-staffed community newspaper, with an emphasis on mentoring journalism students.",
+   "summary_zh": "在学生运营的社区报纸担任教学编辑，教授采访与编辑，注重指导新闻专业学生。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "news editing",
+    "community newspaper",
+    "journalism teaching",
+    "student mentoring",
+    "columbia missourian"
+   ]
+  },
+  {
+   "name": "Frank Corridori",
+   "summary": "Teaches strategic design and visual communication for advertising, drawing on professional work in art direction, branding, and package design.",
+   "summary_zh": "教授广告中的战略设计与视觉传播，借鉴其在艺术指导、品牌塑造和包装设计方面的职业经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "art direction",
+    "strategic design",
+    "visual communication",
+    "branding",
+    "advertising creative",
+    "package design"
+   ]
+  },
+  {
+   "name": "Gordon Dickson",
+   "summary": "Edits news at a student-staffed community newspaper, bringing long experience in transportation, business, and investigative reporting and multimedia storytelling.",
+   "summary_zh": "在学生运营的社区报纸担任新闻编辑，具有交通、商业与调查报道及多媒体叙事方面的长期经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "news editing",
+    "transportation reporting",
+    "business reporting",
+    "investigative reporting",
+    "multimedia journalism",
+    "podcasting"
+   ]
+  },
+  {
+   "name": "Tracy Draksler Brown",
+   "summary": "Teaches advertising campaigns and audience persuasion, drawing on agency experience leading integrated marketing, brand launches, and repositioning efforts.",
+   "summary_zh": "教授广告活动与受众说服，借鉴其在广告公司主导整合营销、品牌发布与品牌重新定位的经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "integrated marketing",
+    "brand strategy",
+    "advertising campaigns",
+    "audience persuasion",
+    "national student advertising competition",
+    "brand repositioning"
+   ]
+  },
+  {
+   "name": "Margaret Duffy",
+   "summary": "Studies leadership, organizational communication, visual communication, narrative, and persuasion in strategic communication and advertising.",
+   "summary_zh": "研究战略传播与广告中的领导力、组织传播、视觉传播、叙事与说服。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "leadership communication",
+    "organizational communication",
+    "visual communication",
+    "narrative",
+    "persuasion",
+    "advertising ethics",
+    "integrated marketing communication"
+   ]
+  },
+  {
+   "name": "David Estrada Orúe",
+   "summary": "Produces and teaches television news, drawing on bilingual reporting experience in Costa Rican and U.S. broadcast newsrooms.",
+   "summary_zh": "从事并教授电视新闻制作，借鉴其在哥斯达黎加与美国电视新闻编辑室的双语报道经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_LATIN_AMERICA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "television news",
+    "news producing",
+    "bilingual journalism",
+    "spanish-language news",
+    "costa rica",
+    "broadcast reporting"
+   ]
+  },
+  {
+   "name": "Jamie Flink",
+   "summary": "Teaches advertising account management, strategic planning, and audience research, drawing on brand strategy work for national retail and restaurant clients.",
+   "summary_zh": "教授广告客户管理、战略策划与受众研究，借鉴其为全国零售与餐饮品牌制定品牌战略的经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "account planning",
+    "brand strategy",
+    "integrated marketing communications",
+    "audience research",
+    "advertising",
+    "consumer persuasion"
+   ]
+  },
+  {
+   "name": "Elizabeth W. Frogge",
+   "summary": "Teaches television reporting and helps lead a university-run commercial TV newsroom, drawing on experience covering disasters such as Hurricane Katrina.",
+   "summary_zh": "教授电视报道并协助领导一家大学运营的商业电视台新闻部，借鉴其报道卡特里娜飓风等灾难的经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "television news",
+    "broadcast reporting",
+    "newsroom management",
+    "komu",
+    "women in sports media",
+    "disaster coverage"
+   ]
+  },
+  {
+   "name": "Robert Greene",
+   "summary": "Makes and teaches documentary film, creating hybrid nonfiction features that explore performance, reenactment, and documentary journalism.",
+   "summary_zh": "从事并教授纪录片创作，制作探索表演、重演与纪录新闻的混合型非虚构长片。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "documentary film",
+    "nonfiction filmmaking",
+    "documentary journalism",
+    "film editing",
+    "hybrid documentary"
+   ]
+  },
+  {
+   "name": "Keith Greenwood",
+   "summary": "Studies the history of photojournalism and the influences that shape how subjects are depicted in news photographs, using historical research.",
+   "summary_zh": "研究新闻摄影史以及影响新闻照片中人物呈现方式的因素，采用历史研究方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "photojournalism history",
+    "news photography",
+    "visual communication",
+    "visual representation",
+    "journalism history",
+    "press photographers"
+   ]
+  },
+  {
+   "name": "Andrea Heiss",
+   "summary": "Studies modern American art, cultural history, new journalism, and contemporary literature, and teaches arts and cultural reporting for magazines.",
+   "summary_zh": "研究美国现代艺术、文化史、新新闻主义与当代文学，并教授杂志的艺术与文化报道。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "arts journalism",
+    "cultural reporting",
+    "new journalism",
+    "modern american art",
+    "cultural history",
+    "contemporary literature",
+    "magazine journalism"
+   ]
+  },
+  {
+   "name": "David Herzog",
+   "summary": "Teaches and practices investigative and data journalism, including computer-assisted reporting, data literacy, and mapping for stories.",
+   "summary_zh": "教授并从事调查与数据新闻，包括计算机辅助报道、数据素养和新闻地图制作。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "data journalism",
+    "investigative reporting",
+    "computer-assisted reporting",
+    "nicar",
+    "data literacy",
+    "mapping",
+    "nonprofit journalism"
+   ]
+  },
+  {
+   "name": "Brittany Hilderbrand",
+   "summary": "Edits community news and draws on experience in statehouse reporting, public health communications, public relations, and speech writing.",
+   "summary_zh": "担任社区新闻编辑，具有州议会报道、公共卫生传播、公共关系与演讲撰稿方面的经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "community news",
+    "statehouse reporting",
+    "public affairs reporting",
+    "public relations",
+    "speech writing",
+    "search engine optimization"
+   ]
+  },
+  {
+   "name": "Amanda Hinnant",
+   "summary": "Studies health journalism, science communication, and narrative persuasion from a media sociology perspective, including national surveys of health journalists.",
+   "summary_zh": "从媒介社会学视角研究健康新闻、科学传播与叙事说服，包括对全国健康记者的调查。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "health journalism",
+    "science communication",
+    "media sociology",
+    "narrative persuasion",
+    "clinical trial recruitment",
+    "health journalists",
+    "science communication training"
+   ]
+  },
+  {
+   "name": "Mark Horvit",
+   "summary": "Teaches investigative reporting and directs a state government reporting program, drawing on training work in investigative and data journalism.",
+   "summary_zh": "教授调查报道并主持州政府报道项目，借鉴其在调查与数据新闻培训方面的经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "investigative reporting",
+    "state government reporting",
+    "data journalism",
+    "investigative reporters and editors",
+    "computer-assisted reporting",
+    "journalism training"
+   ]
+  },
+  {
+   "name": "Beverly Horvit",
+   "summary": "Studies international news coverage and foreign policy, analyzing how U.S. news organizations cover other regions of the world.",
+   "summary_zh": "研究国际新闻报道与外交政策，分析美国新闻机构如何报道世界其他地区。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "international news",
+    "foreign news coverage",
+    "foreign policy",
+    "news coverage of asia",
+    "newspaper research",
+    "press and politics"
+   ]
+  },
+  {
+   "name": "Stan Jastrzebski",
+   "summary": "Directs a public radio newsroom and teaches broadcast journalism, drawing on experience leading public media coverage of state politics.",
+   "summary_zh": "主持公共广播电台新闻部并教授广播新闻，借鉴其领导公共媒体州政治报道的经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "public radio",
+    "news directing",
+    "broadcast journalism",
+    "statehouse coverage",
+    "public media",
+    "kbia"
+   ]
+  },
+  {
+   "name": "Joy Jenkins",
+   "summary": "Studies organizational identities and practices in local newsrooms and gender and media, using a sociological approach to journalism's digital transition.",
+   "summary_zh": "以社会学视角研究地方新闻编辑室的组织身份与实践以及性别与媒介，关注新闻业的数字化转型。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "local journalism",
+    "journalistic identity",
+    "newsroom organization",
+    "magazine media",
+    "gender and media",
+    "digital transition",
+    "lifestyle media",
+    "community media"
+   ]
+  },
+  {
+   "name": "Laura Johnston",
+   "summary": "Teaches news writing and cross-platform editing, serves as opinion editor of a student-staffed community newspaper, and works with high school journalism workshops.",
+   "summary_zh": "教授新闻写作与跨平台编辑，担任学生运营社区报纸的评论版编辑，并参与高中新闻夏令营。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "news editing",
+    "opinion editing",
+    "cross-platform editing",
+    "news writing",
+    "high school journalism workshop",
+    "community newspaper"
+   ]
+  },
+  {
+   "name": "Damon Kiesow",
+   "summary": "Works on news product management and business strategy for sustainable local journalism, aligning community information needs with digital products.",
+   "summary_zh": "研究新闻产品管理与可持续地方新闻的商业策略，将社区信息需求与数字产品相结合。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "news product management",
+    "local news sustainability",
+    "paywalls",
+    "business of media",
+    "journalism innovation",
+    "user experience research",
+    "mobile news"
+   ]
+  },
+  {
+   "name": "Brian Kratzer",
+   "summary": "Teaches photojournalism and visual editing and leads documentary video projects, including work on rural Missouri families and youth.",
+   "summary_zh": "教授新闻摄影与视觉编辑并主持纪录视频项目，包括关于密苏里乡村家庭与青年的作品。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "photojournalism",
+    "photo editing",
+    "documentary video",
+    "rural missouri",
+    "multimedia storytelling",
+    "visual journalism"
+   ]
+  },
+  {
+   "name": "Lynda Kraxberger",
+   "summary": "Leads undergraduate journalism education, focusing on curriculum design, accreditation, assessment, and faculty development.",
+   "summary_zh": "主管本科新闻教育，关注课程设计、专业认证、教学评估与教师发展。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "journalism education",
+    "accreditation",
+    "curriculum design",
+    "academic assessment",
+    "faculty development",
+    "acejmc"
+   ]
+  },
+  {
+   "name": "David Kurpius",
+   "summary": "Leads a journalism school as dean, focusing on journalism education, experiential learning, strategic planning, and industry partnerships.",
+   "summary_zh": "以院长身份领导新闻学院，关注新闻教育、体验式学习、战略规划与业界合作。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "journalism education",
+    "academic leadership",
+    "experiential learning",
+    "missouri method",
+    "strategic planning",
+    "journalism awards"
+   ]
+  },
+  {
+   "name": "Lorah Lackland",
+   "summary": "Directs marketing for a student-staffed business news outlet, drawing on freelance graphic design and strategic communication experience.",
+   "summary_zh": "为学生运营的商业新闻媒体主管市场营销，具有自由职业平面设计与战略传播经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "marketing",
+    "graphic design",
+    "strategic communication",
+    "news marketing",
+    "missouri business alert"
+   ]
+  },
+  {
+   "name": "Sungkyoung Lee",
+   "summary": "Designs and tests health and science messages, using online and lab experiments to study cognitive and emotional processing, e.g., for clinical trial recruitment.",
+   "summary_zh": "设计并检验健康与科学信息，通过线上和实验室实验研究认知与情绪加工过程，如用于临床试验招募。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "health message design",
+    "clinical trial recruitment",
+    "message processing",
+    "persuasion",
+    "science communication",
+    "mental illness stigma",
+    "rural populations",
+    "minority health"
+   ]
+  },
+  {
+   "name": "Dominick Lee",
+   "summary": "Teaches video production and drone journalism, drawing on experience as a television photojournalist and editor.",
+   "summary_zh": "教授视频制作与无人机新闻，借鉴其担任电视新闻摄影记者与剪辑师的经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "drone journalism",
+    "video production",
+    "photojournalism",
+    "television news",
+    "video editing",
+    "visual storytelling"
+   ]
+  },
+  {
+   "name": "Kathryn Lucchesi",
+   "summary": "Teaches audience strategy and engagement, guiding newsroom social media strategy with a background in sports storytelling and digital marketing.",
+   "summary_zh": "教授受众策略与互动，借助体育叙事与数字营销背景指导新闻编辑室的社交媒体策略。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "audience strategy",
+    "audience engagement",
+    "social media strategy",
+    "sports storytelling",
+    "digital marketing",
+    "collegiate athletics"
+   ]
+  },
+  {
+   "name": "Monique Luisi",
+   "summary": "Studies how identity shapes health attitudes and communication about disease prevention, science accessibility, and marginalized groups in entertainment media, using mixed methods.",
+   "summary_zh": "研究身份如何影响健康态度，以及疾病预防、科学可及性和娱乐媒介中边缘群体的传播，采用混合方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_MIXED",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "health communication",
+    "vaccine communication",
+    "disease prevention",
+    "science communication accessibility",
+    "sexuality",
+    "race",
+    "entertainment media representation",
+    "identity"
+   ]
+  },
+  {
+   "name": "Haijing Ma",
+   "summary": "Studies science, risk, and health communication, especially theory-based interventions and persuasive messaging about addiction and tobacco to inform behavior change and regulation.",
+   "summary_zh": "研究科学、风险与健康传播，尤其是关于成瘾与烟草的理论驱动干预与说服信息，以促进行为改变并服务监管。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "risk communication",
+    "persuasive messaging",
+    "addiction",
+    "tobacco",
+    "nicotine",
+    "health interventions",
+    "behavior change",
+    "science communication"
+   ]
+  },
+  {
+   "name": "Sebastián Martínez Valdivia",
+   "summary": "Produces documentary journalism and public health reporting, with interest in immigrant life in the rural Midwest.",
+   "summary_zh": "从事纪录新闻与公共卫生报道，关注美国中西部乡村的移民生活。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "documentary journalism",
+    "public health reporting",
+    "immigrant communities",
+    "rural midwest",
+    "public radio",
+    "documentary filmmaking"
+   ]
+  },
+  {
+   "name": "Nick Mathews",
+   "summary": "Studies rural and local news and information ecosystems, centering audiences' lived experiences to improve news organizations' viability in their communities.",
+   "summary_zh": "研究乡村与地方新闻及信息生态，以受众的生活经验为中心，帮助新闻机构在社区中维持生存。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "rural news",
+    "local news ecosystems",
+    "community journalism",
+    "news audiences",
+    "information ecosystems",
+    "newspapers",
+    "media sociology"
+   ]
+  },
+  {
+   "name": "Cristina Mislán",
+   "summary": "Studies media history and how alternative media shape national and transnational dialogues on race, class, and gender, using critical/cultural approaches.",
+   "summary_zh": "运用批判/文化研究方法，研究媒介史以及另类媒体如何塑造关于种族、阶级与性别的国内与跨国对话。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "alternative media",
+    "media history",
+    "transnational media",
+    "race and gender",
+    "media representation",
+    "critical cultural studies",
+    "feminist media studies"
+   ]
+  },
+  {
+   "name": "Jeimmie Nevalga",
+   "summary": "Directs a university-run commercial TV newsroom and teaches newscast producing, drawing on experience producing local and election news coverage.",
+   "summary_zh": "主管一家大学运营的商业电视台新闻部并教授新闻节目制作，具有地方新闻与选举报道制作经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "newscast producing",
+    "television news",
+    "local news",
+    "news directing",
+    "election coverage",
+    "komu"
+   ]
+  },
+  {
+   "name": "Earnest L. Perry",
+   "summary": "Studies African American press history, especially the Black Press in the early 20th century, and media management and newsroom diversity, using historical research.",
+   "summary_zh": "运用历史研究方法研究非裔美国人报刊史（尤其是20世纪上半叶的黑人报刊）以及媒介管理与新闻编辑室多元化。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "black press",
+    "african american press history",
+    "journalism history",
+    "media management",
+    "newsroom diversity",
+    "minority journalists"
+   ]
+  },
+  {
+   "name": "Jeannette H. Porter",
+   "summary": "Studies African American communication about mental health and mental illness, aiming to increase mental health help-seeking.",
+   "summary_zh": "研究非裔美国人关于心理健康与精神疾病的传播，旨在提高心理健康求助行为。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "mental health communication",
+    "help-seeking",
+    "african american communication",
+    "mental illness stigma",
+    "health communication",
+    "leadership"
+   ]
+  },
+  {
+   "name": "Randy Reeves",
+   "summary": "Teaches broadcast reporting, drawing on experience producing television newscasts and directing small-market radio news and sports.",
+   "summary_zh": "教授广播电视报道，借鉴其制作电视新闻节目及主管小市场电台新闻与体育报道的经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "broadcast reporting",
+    "television news",
+    "newscast producing",
+    "radio news",
+    "sports news"
+   ]
+  },
+  {
+   "name": "Susan Dixon Renoe",
+   "summary": "Studies the broader societal impacts of research, institutional capacity for research engagement, and belonging in academia, linking science communication and research management.",
+   "summary_zh": "研究科研的更广泛社会影响、机构的科研参与能力以及学术界的归属感，连接科学传播与科研管理。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "broader impacts",
+    "research impact",
+    "science communication",
+    "research management",
+    "community engagement",
+    "higher education",
+    "institutional capacity"
+   ]
+  },
+  {
+   "name": "Shelly Rodgers",
+   "summary": "Studies advertising and health communication, including artificial intelligence in advertising and the psychological processing of digital health messages.",
+   "summary_zh": "研究广告与健康传播，包括广告中的人工智能以及数字健康信息的心理加工。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "advertising",
+    "artificial intelligence in advertising",
+    "digital health messages",
+    "health communication technology",
+    "message processing",
+    "science communication"
+   ]
+  },
+  {
+   "name": "Kathleen Rose",
+   "summary": "Studies science and risk communication, including scientists' public engagement and public attitudes toward controversial scientific and environmental issues.",
+   "summary_zh": "研究科学与风险传播，包括科学家的公众参与以及公众对争议性科学与环境议题的态度。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "science communication",
+    "risk communication",
+    "public engagement with science",
+    "scientists",
+    "public attitudes",
+    "controversial science",
+    "environmental issues"
+   ]
+  },
+  {
+   "name": "Jennifer Rowe",
+   "summary": "Teaches magazine journalism and edits a student city magazine, with interests in feature, service, and travel writing.",
+   "summary_zh": "教授杂志新闻并指导学生城市杂志的编辑，关注特稿、服务类与旅行写作。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "magazine journalism",
+    "city and regional magazines",
+    "magazine editing",
+    "travel writing",
+    "feature writing",
+    "vox magazine"
+   ]
+  },
+  {
+   "name": "Janet Saidi",
+   "summary": "Produces long-form audio journalism and podcasts that build community, combining oral history with public radio reporting.",
+   "summary_zh": "制作长篇音频新闻与播客，以口述史与公共广播报道相结合的方式建立社区联结。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "audio journalism",
+    "podcasting",
+    "public radio",
+    "oral history",
+    "community building",
+    "long-form audio"
+   ]
+  },
+  {
+   "name": "David Salisbury",
+   "summary": "Teaches advertising copywriting and branding, drawing on agency experience building integrated campaigns and internal communication strategies.",
+   "summary_zh": "教授广告文案与品牌塑造，借鉴其在广告公司策划整合传播活动与内部传播策略的经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "copywriting",
+    "branding",
+    "advertising creative",
+    "storytelling",
+    "internal communication",
+    "integrated campaigns"
+   ]
+  },
+  {
+   "name": "Jared Schroeder",
+   "summary": "Studies First Amendment theory and law and press freedom, examining historical contexts and how AI, deepfakes, and social media challenge free expression.",
+   "summary_zh": "研究美国第一修正案理论与法律及新闻自由，考察历史背景以及人工智能、深度伪造与社交媒体对言论自由的挑战。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "first amendment",
+    "freedom of expression",
+    "press freedom",
+    "media law",
+    "artificial intelligence",
+    "deepfakes",
+    "free expression theory"
+   ]
+  },
+  {
+   "name": "Amy Simons",
+   "summary": "Teaches news literacy, multimedia journalism, and social media strategy, with expertise in online teaching and international training for journalists.",
+   "summary_zh": "教授新闻素养、多媒体新闻与社交媒体策略，擅长在线教学和面向记者的国际培训。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "news literacy",
+    "social media journalism",
+    "mobile journalism",
+    "online teaching",
+    "instructional design",
+    "media criticism"
+   ]
+  },
+  {
+   "name": "Kellie Stanfield",
+   "summary": "Studies broadcast journalism education, developing a model for teaching skills, ethics, and theory to improve learning and self-efficacy, and also studies local and mobile news.",
+   "summary_zh": "研究广播新闻教育，构建教授技能、伦理与理论的教学模式以提升学习成效与自我效能，并研究地方与移动新闻。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "journalism education",
+    "broadcast journalism",
+    "journalism ethics",
+    "self-efficacy",
+    "local news",
+    "mobile journalism",
+    "pedagogy"
+   ]
+  },
+  {
+   "name": "Jon Stemmle",
+   "summary": "Studies tailored health communication and community-based participatory research, including photovoice, along with employee and corporate communication.",
+   "summary_zh": "研究定制化健康传播与社区参与式研究（包括影像发声法），以及员工与企业传播。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "community-based participatory research",
+    "tailored health communication",
+    "photovoice",
+    "health literacy",
+    "cancer prevention",
+    "employee communication",
+    "corporate communication",
+    "public relations"
+   ]
+  },
+  {
+   "name": "Elizabeth Stephens",
+   "summary": "Leads a student-staffed community newspaper as executive editor, focusing on community newspaper management and digital news practice.",
+   "summary_zh": "以执行总编身份领导学生运营的社区报纸，关注社区报纸管理与数字新闻实践。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "community newspaper management",
+    "digital news",
+    "newsroom leadership",
+    "website redesign",
+    "community outreach",
+    "columbia missourian"
+   ]
+  },
+  {
+   "name": "Ron Stodghill",
+   "summary": "Writes narrative nonfiction and service journalism, including books on Black colleges and culture, and teaches magazine and travel journalism.",
+   "summary_zh": "从事叙事性非虚构写作与服务类新闻，著有关于黑人大学与文化的著作，并教授杂志与旅行新闻。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "narrative nonfiction",
+    "service journalism",
+    "travel journalism",
+    "black colleges",
+    "magazine writing",
+    "business journalism"
+   ]
+  },
+  {
+   "name": "Chau Tong",
+   "summary": "Studies how search engines, social platforms, and AI systems shape health and political information, using algorithm audits, NLP, surveys, and digital trace data.",
+   "summary_zh": "研究搜索引擎、社交平台与人工智能系统如何塑造健康与政治信息，采用算法审计、自然语言处理、调查与数字痕迹数据。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_SURVEY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_NETWORK",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ADMIN_LARGE_SCALE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "algorithm audits",
+    "search engines",
+    "generative ai",
+    "misinformation",
+    "political polarization",
+    "health information equity",
+    "natural language processing",
+    "digital trace data"
+   ]
+  },
+  {
+   "name": "Yong Volz",
+   "summary": "Studies journalists as an occupational group in the U.S. and China, using historical and comparative sociology to trace gender, race, and social movements in journalistic identity.",
+   "summary_zh": "以历史与比较社会学方法研究中美记者作为职业群体的形成，考察性别、种族与社会运动对新闻职业身份的影响。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_CHINA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "journalism history",
+    "journalistic identity",
+    "historical sociology",
+    "foreign correspondents",
+    "women journalists",
+    "pulitzer prize",
+    "comparative sociology",
+    "china"
+   ]
+  },
+  {
+   "name": "Tom Warhover",
+   "summary": "Teaches news reporting and editing, drawing on leadership of a community newspaper and early practice in public (civic) journalism.",
+   "summary_zh": "教授新闻采访与编辑，借鉴其领导社区报纸及早期践行公共（公民）新闻的经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "civic journalism",
+    "public journalism",
+    "community newspaper",
+    "news editing",
+    "reporting and writing",
+    "newsroom strategy"
+   ]
+  },
+  {
+   "name": "Elizabeth Behm-Morawitz",
+   "summary": "Studies how people process and respond to mediated messages across video games, VR, social media, and AI, focusing on identity, cognition, and behavior through effects studies.",
+   "summary_zh": "研究人们如何加工和回应电子游戏、虚拟现实、社交媒体与人工智能中的媒介信息，关注身份、认知与行为效果。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "media effects",
+    "video game avatars",
+    "virtual reality",
+    "human-ai interaction",
+    "beauty filters",
+    "body image",
+    "counter-narratives",
+    "identity"
+   ]
+  },
+  {
+   "name": "Debbie S. Dougherty",
+   "summary": "Studies the relationship between power and organizing, especially organizational culture and sexual harassment and social class.",
+   "summary_zh": "研究权力与组织过程的关系，尤其是组织文化与性骚扰以及社会阶层问题。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "sexual harassment",
+    "organizational culture",
+    "social class",
+    "organizational power",
+    "organizing",
+    "applied communication"
+   ]
+  },
+  {
+   "name": "Rachael Hernandez",
+   "summary": "Studies communication about sensitive and stigmatized health topics, such as vaping and urinary tract infections, using interpretive qualitative methods informed by bioethics.",
+   "summary_zh": "以受生命伦理学启发的阐释性质性方法，研究关于电子烟、尿路感染等敏感和污名化健康话题的传播。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "stigma communication",
+    "vaping",
+    "college students",
+    "urinary tract infections",
+    "uncertainty management",
+    "bioethics",
+    "sensitive health topics"
+   ]
+  },
+  {
+   "name": "Haley Horstman",
+   "summary": "Studies how families communicate to make sense of adversity and diversity, using narrative theory and methods in contexts such as miscarriage, adoption, and international families.",
+   "summary_zh": "运用叙事理论与方法，研究家庭如何通过沟通理解逆境与多样性，涉及流产、收养与跨国家庭等情境。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_EUROPE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "family storytelling",
+    "narrative sense-making",
+    "miscarriage",
+    "adoptive families",
+    "resilience",
+    "intergenerational communication",
+    "international families"
+   ]
+  },
+  {
+   "name": "Brian Houston",
+   "summary": "Studies communication across all phases of disasters and the mental health and political consequences of community crises, including media coverage of terrorism and resilience.",
+   "summary_zh": "研究灾害各阶段的传播以及社区危机带来的心理健康与政治后果，包括恐怖主义媒体报道与社区韧性。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "disaster communication",
+    "crisis communication",
+    "community resilience",
+    "mental health",
+    "terrorism coverage",
+    "communication ecologies",
+    "public health"
+   ]
+  },
+  {
+   "name": "Rebecca Meisenbach",
+   "summary": "Studies marginalized identity and ethics in organizational life, developing stigma management communication theory and using qualitative research.",
+   "summary_zh": "研究组织生活中的边缘化身份与伦理，发展污名管理传播理论并采用质性研究。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "stigma management communication",
+    "identity negotiation",
+    "organizational ethics",
+    "nonprofit fundraising",
+    "working mothers",
+    "female breadwinners",
+    "intersectionality"
+   ]
+  },
+  {
+   "name": "Yerina Ranjit",
+   "summary": "Works in health and crisis communication; the department profile gives no further detail on research focus or methods.",
+   "summary_zh": "从事健康与危机传播研究；院系简介未提供关于研究重点或方法的更多信息。",
+   "confidence": "low",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "health communication",
+    "crisis communication",
+    "health and crisis communication"
+   ]
+  },
+  {
+   "name": "Julius M. Riles",
+   "summary": "Studies the interplay of media use and social relationships, including how portrayals of social groups shape perceptions and how parasocial relationships form, from a psychological view.",
+   "summary_zh": "从心理学视角研究媒介使用与社会关系的互动，包括社会群体的媒介呈现如何影响认知以及拟社会关系的形成。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "parasocial relationships",
+    "media portrayals",
+    "social group perceptions",
+    "media use",
+    "media psychology",
+    "diversity",
+    "social relationships"
+   ]
+  },
+  {
+   "name": "Astrid Villamil",
+   "summary": "Studies organizational communication about diversity, equity, and inclusion using critical and interpretive perspectives, including transnational and intersectional organizing.",
+   "summary_zh": "运用批判与阐释视角研究多元、公平与包容的组织传播，包括跨国与交叉性的组织过程。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "diversity equity and inclusion",
+    "organizational dei",
+    "intersectionality",
+    "transnational organizing",
+    "disorganizing",
+    "critical organizational communication"
+   ]
+  },
+  {
+   "name": "Ben Warner",
+   "summary": "Studies the effects of partisan media, presidential debates, campaign ads, and political humor, focusing on the causes, consequences, and remedies of political polarization.",
+   "summary_zh": "研究党派媒体、总统辩论、竞选广告与政治幽默的效果，聚焦政治极化的成因、后果与缓解途径。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "affective polarization",
+    "partisan media",
+    "presidential debates",
+    "campaign advertising",
+    "political humor",
+    "intergroup processes",
+    "election campaigns"
+   ]
+  },
+  {
+   "name": "Colleen Warner",
+   "summary": "Studies communication in diverse modern families, especially adoptive families and children's perceptions, and links family communication to religious and political identities.",
+   "summary_zh": "研究多样化现代家庭中的沟通，尤其是收养家庭与儿童的认知，并探讨家庭沟通与宗教和政治身份的关联。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "adoptive families",
+    "birth family communication",
+    "family communication",
+    "adoptee well-being",
+    "children's perceptions",
+    "religious identity",
+    "relational health"
+   ]
+  }
+ ]
+}

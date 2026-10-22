@@ -1,0 +1,33 @@
+name: Data correction
+description: Report a wrong, missing or outdated faculty record or program detail
+title: "Data correction: "
+labels: ["data"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: Link to the faculty or program page on the explorer
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is wrong?
+      options:
+        - Person is missing from a program
+        - Person should not be listed (left, emeritus, not tenure-line)
+        - Wrong title or rank
+        - Wrong or broken link / photo
+        - Research labels or summary are inaccurate
+        - Program information is wrong
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details and a source
+      description: What should it say instead? Please link the official department page if you can.
+    validations:
+      required: true

@@ -1,0 +1,783 @@
+{
+ "university": "University of Kansas",
+ "slug": "university-of-kansas",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "Department of Communication Studies",
+   "school": "College of Liberal Arts & Sciences",
+   "directory_url": "https://coms.ku.edu/faculty",
+   "phd_program_url": "https://coms.ku.edu/phd",
+   "phd_program_name": "PhD in Communication Studies",
+   "notes": "Directory lists 21 people; 4 Specialists (debate directors, online/introductory course directors) excluded as non-tenure-line. Lecturers and emeriti are on separate pages and were not scraped."
+  },
+  {
+   "name": "William Allen White School of Journalism and Mass Communications",
+   "school": null,
+   "directory_url": "https://journalism.ku.edu/faculty",
+   "phd_program_url": "https://journalism.ku.edu/start-your-doctoral-journey",
+   "phd_program_name": "PhD in Journalism and Mass Communications",
+   "notes": "Directory lists 37 people; excluded 9 Professors of the Practice (incl. Assistant Professor of the Practice), 2 Lecturers, 1 Instructor, 1 staff director. Dean included as Professor."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Mary Banwart",
+   "title": "Professor; Associate Vice Provost, Office of Faculty Affairs",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://coms.ku.edu/people/mary-banwart",
+   "personal_url": null,
+   "photo_url": "https://coms.ku.edu/sites/coms/files/styles/5_7_placeholder_/public/images/person-profile/MBanwart_photo_2023%20cropped-min.jpeg?h=5287c76a&itok=LUFIGnmf",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric & Political Communication"
+   ],
+   "bio": "Ph.D., University of Oklahoma\nRhetoric & Political Communication\nDr. Mary Banwart is a professor in the Department of Communication Studies and the Associate Vice Provost for Faculty Development, Mentoring and Growth in the Office of Faculty Affairs. She is also the Program Director/PI for the Women’s Global Leadership Consortium. Prior to her current role she was the director of the KU Institute for Leadership Studies. She has taught undergraduate and graduate courses in political communication and leadership, and her research focuses both on political communication and the influence of gender in political campaigns, as well as the effects of leadership development programs on empowerment, civic engagement, and organizational efficacy. She has been awarded over $14 million in grant-funding to develop efforts that elevate women’s voices in civic spaces. In addition to journal articles and book chapters, she is the co-author of\nGender and politics: Changing the face of civic life and Gender and political candidate communication: Videostyle, webstyle, and newsstyle, and is a co-editor of four books that explore political communication and elections.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jay P. Childers",
+   "title": "Associate Professor; Editor, Rhetoric & Public Affairs",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://coms.ku.edu/people/jay-p-childers",
+   "personal_url": null,
+   "photo_url": "https://coms.ku.edu/sites/coms/files/styles/5_7_placeholder_/public/images/person-profile/Childers-Head-Shot.jpg?h=de7b58d5&itok=bK3oMrd3",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric & Political Communication"
+   ],
+   "bio": "Ph.D., University of Texas at Austin\nRhetoric & Political Communication\nDr. Childers's research and teaching focuses on the intersection of rhetoric, politics, and violence. He is the author of\nThe Evolving Citizen: American Youth and the Changing Norms of Democratic Engagement (Pennsylvania State University Press, 2012), and the co-author (with Roderick P. Hart and Colene J. Lind) of\nPolitical Tone: How Leaders Talk and Why (University of Chicago Press, 2013). He has also authored a number of essays, including pieces that have appeared in\nPresidential Studies Quarterly,\nQuarterly Journal of Speech,\nRhetoric & Public Affairs, and\nWestern Journal of Communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Angela Gist-Mackey",
+   "title": "Associate Professor; Associate Chairperson",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://coms.ku.edu/people/angela-gist-mackey",
+   "personal_url": null,
+   "photo_url": "https://coms.ku.edu/sites/coms/files/styles/5_7_placeholder_/public/images/person-profile/1000031372.jpg?h=3f24d9a8&itok=bs0ZmSSR",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Relationships & Social Interaction"
+   ],
+   "bio": "Ph.D., University of Missouri\nRelationships & Social Interaction\nAngela N. Gist-Mackey (Ph.D., University of Missouri) is a tenured Associate Professor and Associate Chairperson in the Department of Communication Studies at the University of Kansas with an expertise in organizational communication. She is an interpretive critical scholar who largely researches issues of social mobility and power in organized contexts. Her program of research frequently explores topics related to social class, economic mobility, stigmatized social identities, and organizational culture. In sum, Dr. Gist-Mackey's body of scholarship identifies how people use communication and organizing when they face adversity. In 2019 and 2020 she won the best journal article of the year award from the National Communication Association’s Ethnography Division for her critical, comparative ethnographic scholarship. Much of Dr. Gist-Mackey’s research is community engaged, meaning she partners with local, regional, and campus organizations to provide insightful recommendations for improving their programming. Throughout her career she has partnered with unemployment agencies, health and human service organizations, financial literacy programs, county/city planning offices, substance use recovery communities, local shelters, and food pantries among others. In 2021, she won the Community Engaged Scholarship award from the College of Liberal Arts and Sciences at KU.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jeffrey A. Hall",
+   "title": "Professor; Chairperson",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://coms.ku.edu/people/jeffrey-hall",
+   "personal_url": null,
+   "photo_url": "https://coms.ku.edu/sites/coms/files/styles/5_7_placeholder_/public/images/person-profile/2512168_MayPortraits_JeffreyHall-36.jpg?h=d1f17f1d&itok=PvCUnSnJ",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Relationships & Social Interaction"
+   ],
+   "bio": "Ph.D., University of Southern California\nRelationships & Social Interaction\nJeffrey A. Hall is the Department Chair and Professor of Communication Studies at the University of Kansas. He also directs the Relationships and Technology Lab. He is a past Chair of the Human Communication and Technology Division of the National Communication Association, past chair of the Interpersonal Division at the International Communication Association, and the founder and editor of the journal Human Communication & Technology. He was awarded the Scholarly Achievement Award from the University of Kansas in 2023 and the Early Career Award from the Interpersonal Communication Division of the National Communication Association in 2015. His multiple award-winning book Relating Through Technology was published by Cambridge University Press in 2020. His my recent book The Social Biome (with Andy Merolla) was published by Yale University Press in 2025. He has written for the Wall Street Journal and been interviewed by the New York Times, National Public Radio, Washington Post, Financial Times, USA Today, The Atlantic, US News and World Report, and CNN, and has appeared on the Steve Harvey Show.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Beth Innocenti",
+   "title": "Professor; Director of Undergraduate Studies",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://coms.ku.edu/people/beth-innocenti",
+   "personal_url": "https://kansas.academia.edu/BethInnocenti",
+   "photo_url": "https://coms.ku.edu/sites/coms/files/styles/5_7_placeholder_/public/images/person-profile/Beth-Innocenti-2022C.jpg?h=b20d1717&itok=Sqk0JZD7",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric & Political Communication"
+   ],
+   "bio": "Ph.D., University of Illinois\nRhetoric & Political Communication\nBeth Innocenti's teaching and research interests are in argumentation and the history of rhetoric. She is particularly interested in how public, political arguing generates persuasive force. She teaches courses such as \"Rhetoric of Women's Rights,\" “Persuasive Speaking,” and \"Research Methods: Historical and Descriptive.\" Her work has been published in journals such as\nArgumentation,\nPhilosophy and Rhetoric, and\nJournal of Communication. She has served as Editor of\nArgumentation and Advocacy.\nSelected publications: Selected Recent Publications — | • Innocenti, Beth. “Calling Out Displays and Disclaimers of Aggression.” | Informal Logic, forthcoming. | • Innocenti, Beth. “Marshalling Normative Pragmatic Force to Secure Autonomy.” | • Innocenti, Beth. “Argumentation.” In",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Adrianne Kunkel",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://coms.ku.edu/people/adrianne-kunkel",
+   "personal_url": null,
+   "photo_url": "https://coms.ku.edu/sites/coms/files/styles/5_7_placeholder_/public/images/person-profile/Adrianne.Kunkel.Photo-smaller.jpg?h=de7b58d5&itok=lE4PvCME",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Relationships & Social Interaction"
+   ],
+   "bio": "Ph.D., Purdue University\nRelationships & Social Interaction\nDr. Kunkel teaches undergraduate and graduate courses in interpersonal communication, communication and gender, and social support. In 2002, Dr. Kunkel was recognized for her teaching by the Center for Teaching Excellence at the University of Kansas. In 2003, the Commission on the Status of Women and the Emily Taylor Women’s Resource Center named Dr. Kunkel the Outstanding Woman Educator of the Year at the University of Kansas. In 2004, she received the Silver Anniversary Award for Excellence in Teaching at the University of Kansas, and she was also recognized nationally with the Central States Communication Outstanding New Teacher Award. Dr. Kunkel is also a three-time recipient of the Communication Studies Donn W. Parson Graduate Faculty Mentorship Award (2003-2004, 2009-2010, 2010-2011) and, in 2011, she received the John C. Wright Mentor Award at the University of Kansas. In 2014, Dr. Kunkel was the recipient of the prestigious Mentoring Award, sponsored by the International Association for Relationship Research (IARR).\nDr. Kunkel’s research interests include studying emotional support/coping processes in personal relationships and support group settings, romantic relationship (re)definition processes, sex/gender similarities and differences, sexual harassment, and domestic violence intervention (both organizationally and interpersonally).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Yue Li",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://coms.ku.edu/people/yue-li",
+   "personal_url": null,
+   "photo_url": "https://coms.ku.edu/sites/coms/files/styles/5_7_placeholder_/public/images/person-profile/Yue%20Li%20professional%20picture.JPG?h=21542432&itok=ObBPmdPx",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Yue Li (Ph.D., The Ohio State University) is an assistant professor in Political Communication and Health. As a researcher, she uses computational social science methods to investigate the dynamic health information processing and longitudinal effects of digital media (e.g., social media and AI), particularly at the intersection of health and political communication. Her work engages and advances theories in information processing, misinformation diffusion, and media effects, and frequently leverages computational methods (social network analysis, natural language processing, and machine learning) to discern theoretical patterns in big data (e.g., text data, social network data, longitudinal survey data, and digital trace data), and thereby uniquely contributes to the understanding of the dynamic processes and outcomes of health and political communication at a relatively large scale and from a dynamic, reciprocal, network perspective.\nHer work has been published in flagship communication journals and high-impact interdisciplinary journals, such as\nHuman Communication Research,\nAsian Communication Research,\nJournal of Medical Internet Research, and\nApplied Network Science.\nAs a teacher, she is highly experienced in teaching persuasion theories, social media, quantitative research methods, and computational research methods.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Robert McDonald",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://coms.ku.edu/people/robert-mcdonald",
+   "personal_url": null,
+   "photo_url": "https://coms.ku.edu/sites/coms/files/styles/5_7_placeholder_/public/images/person-profile/Robert-McDonald.jpg?h=de7b58d5&itok=U96TBV0L",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric & Political Communication",
+    "Rhetorical theory",
+    "Psychoanalytic theory",
+    "Rhetoric of economics",
+    "Cultural studies"
+   ],
+   "bio": "Ph.D., University of North Carolina, Chapel Hill\nRhetoric & Political Communication\nDr. McDonald’s work is in the area of rhetorical theory and public culture with a particular attention to the role that economics and the economy play in everyday life. Dr. McDonald teaches classes on public address, popular culture, and public speaking, and his work has been published in the\nQuarterly Journal of Speech,\nAdvances in the History of Rhetoric, the\nJournal of Cultural Economy, and the\nInternational Journal of Žižek Studies.\nResearch: Rhetorical theory; Psychoanalytic theory; Rhetoric of economics; Cultural studies",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ashley Muddiman",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://coms.ku.edu/people/ashley-muddiman",
+   "personal_url": null,
+   "photo_url": "https://coms.ku.edu/sites/coms/files/styles/5_7_placeholder_/public/images/person-profile/AshleyMuddiman-MaximilianGlas_AVI6914_0.jpg?h=27cc573a&itok=TPDQozS7",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric & Political Communication"
+   ],
+   "bio": "Ph.D., University of Texas at Austin\nRhetoric & Political Communication\nDr. Ashley Muddiman earned her Ph.D. from the Department of Communication Studies at the University of Texas at Austin. Her research broadly explores political media effects. More specifically, she studies political incivility, including citizens’ perceptions of incivility as well as the effects of political incivility in online settings. She also is a faculty research associate with the Center for Media Engagement (CME), which is housed at the Moody College of Communication at the University of Texas at Austin. Her work with CME has explored shifting norms in digital news spaces, for instance how journalists and news users engage with partisan incivility in online comments, how journalists can intervene in comment sections to make them a bit less uncivil, and how clickbait headlines set expectations for news users. Her work has been published in the\nJournal of Communication,\nInternational Journal of Communication,\nNew Media & Society, and the\nJournal of Computer Mediated Communication, among other publications. Dr. Muddiman teaches courses at the graduate and undergraduate level, including courses in political communication, mass media and politics, new media and politics, political campaigns, and introduction to research methods.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Dorthy Pennington",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://coms.ku.edu/people/dorthy-pennington",
+   "personal_url": null,
+   "photo_url": "https://coms.ku.edu/sites/coms/files/styles/5_7_placeholder_/public/images/person-profile/PenningtonDorthy3.jpg?h=de7b58d5&itok=g7u4C9TC",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Relationships & Social Interaction",
+    "Identity mediation and diunitality in the rhetoric of Barack Obama",
+    "Social movements in African American communication and diaspora studies",
+    "Racial identity and power"
+   ],
+   "bio": "Ph.D., University of Kansas\nRelationships & Social Interaction\nDorthy Pennington’s teaching and research areas are intercultural and interracial communication/critical race theory, cultural rhetorics, African American communication and culture, the discourse of terror and trauma, and African American regional church history.\nResearch: Mediation and memory in the rhetoric of Condoleezza Rice. A paper from this body of research garnered a top paper award at the 2008 NCA Convention; Identity mediation and diunitality in the rhetoric of Barack Obama; Social movements in African American communication and diaspora studies; Racial identity and power; Theoretical constructs and applications in interracial communication-book manuscript completed; in search of a publisher\nSelected publications: “Emic, Etic, and Andragogy: The Contributions of Nobleza Asuncion-Lande to Intercultural Communication, “ | Journal of Intercultural Relations, 26(2012). | “Barack Obama’s ‘Authentic Self’ as a Spiritual Warrior,” | Howard Journal of Communications, 2014 – 2015.  DOI, 2014;  26(2015), 74-94.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Cameron Piercy",
+   "title": "Associate Professor; Director of Graduate Studies",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://coms.ku.edu/people/cameron-piercy",
+   "personal_url": null,
+   "photo_url": "https://coms.ku.edu/sites/coms/files/styles/5_7_placeholder_/public/images/person-profile/HeadShot2025_Low.jpg?h=50d9ab18&itok=13unefP_",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Relationships & Social Interaction"
+   ],
+   "bio": "Ph.D., University of Oklahoma\nRelationships & Social Interaction\nCameron W. Piercy (PhD, University of Oklahoma) is an Associate Professor of Relationships and Digital Media and the founding director of the\nHuman-Machine Communication Lab. He researches how socio-technical interactions change work. He is co-editor (with Alaina Zanin at Arizona State) of a forthcoming book titled\nTeaming with Machines: How Contemporary Teams Collaborate with Complex Work Technologies (Wiley).\nHis research is published in communication, technology, organization science, and psychology journals including:\nCommunication Research, New Media & Society, Computers in Human Behavior, International Journal of Business Communication, and\nMobile Media & Communication.\nHe is also an author of two open textbooks,\nProblem Solving in Teams and Groups (\nhttps://opentext.ku.edu/teams) and\nConnecting and Relating (\nhttps://opentext.ku.edu/interpersonal), and was awarded the 2023 Schulenburger Award for innovation and advocacy in scholarly communication.\nDr. Piercy teaches undergraduate and graduate classes in focused on teams and groups, human-machine communication, computer-mediated communication, and organizational communication. He is an active member of the Native Faculty and Staff Council and serves as a co-director of the College of Liberal Arts and Sciences Mentored Scholars Program.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Rikki Roscoe",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://coms.ku.edu/people/rikki-roscoe",
+   "personal_url": null,
+   "photo_url": "https://coms.ku.edu/sites/coms/files/styles/5_7_placeholder_/public/images/person-profile/Roscoe%20Headshot-min.JPG?h=7e56d2e1&itok=yDnCTfyh",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Relationships & Social Interaction"
+   ],
+   "bio": "Ph.D., University of Missouri\nRelationships & Social Interaction\nRikki A. Roscoe (Ph.D., University of Missouri) is an assistant professor in the Department of Communication Studies at the University of Kansas. Rikki is a critical-interpretive scholar who investigates stigma, identity, and inequity as they impact health communication and organizing. She is particularly interested in how stigma, when understood as an inherently power-laden communication process, impacts health and creates health inequities in a variety of contexts, including mental health, sexual and reproductive health, and autoimmune conditions. Through this work, Rikki aims to improve health outcomes for underserved communities. Her scholarship has been published in a variety of journals, including\nHealth Communication,\nJournal of Health Communication,\nInternational Journal of Communication,\nManagement Communication Quarterly, and\nWomen’s Reproductive Health.\nRikki has secured more than $230,000 in research funding, including awards from the National Institutes of Health (NIH) and the Russel Sage Foundation. Notably, Rikki is a faculty fellow for the NIH Center of Biomedical Research Excellence (COBRE) at KU and has been awarded $156,000 in grant funding to study the social experience and management of celiac disease, a chronic autoimmune condition impacting 3 million Americans.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Robert C. Rowland",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://coms.ku.edu/people/robert-c-rowland",
+   "personal_url": "https://rhetoricargument.blog.ku.edu",
+   "photo_url": "https://coms.ku.edu/sites/coms/files/styles/5_7_placeholder_/public/images/person-profile/RowlandRobert3.jpg?h=de7b58d5&itok=iJhuTLDB",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric & Political Communication"
+   ],
+   "bio": "Ph.D., University of Kansas\nRhetoric & Political Communication\nRobert C. (Robin) Rowland (PhD, the University of Kansas), is a Professor at the University of Kansas, where he teaches rhetoric and argumentation.  He has received four university-wide awards for his teaching, three major awards for his advising, and a national teaching award from the National Communication Association.  His more than 100 published essays have appeared in\nQuarterly Journal of Speech, Rhetoric & Public Affairs, Communication Theory, Philosophy and Rhetoric, Communication Monographs¸\nand other journals.  He has won several national awards for his articles, as well as for his overall research program in argumentation and political rhetoric. He has published four university press books, one of which (\nShared Land/Conflicting Identity, with David Frank), won the Kohrs-Campbell Prize in rhetorical criticism and is a former editor of the\nWestern Journal of Communication.\nRowland presented the keynote on rhetoric at the Reagan Centennial. His most recent book,\nThe Rhetoric of Donald Trump: Nationalist Populism and American Democracy, was published by the University Press of Kansas in the spring of 2021.  He rec",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Dave Tell",
+   "title": "Professor; Co-Director of the Institute for Digital Research in the Humanities",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://coms.ku.edu/people/dave-tell",
+   "personal_url": "https://www.davetell.org/",
+   "photo_url": "https://coms.ku.edu/sites/coms/files/styles/5_7_placeholder_/public/images/person-profile/2512148_CR_University-Research-Awards-Digital-Media-Dave-Tell%20copy.JPG?h=2f9fdf92&itok=uPX12jsi",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric & Political Communication"
+   ],
+   "bio": "Ph.D., Pennsylvania State University\nRhetoric & Political Communication\nDr. Tell’s research focuses on issues of race, memory, and the public humanities. For over two decades, his work has focused on the memory of the murder of Emmett Till. In collaboration with the Till family, he has created a website, a smartphone app, two museum exhibits, an award-winning book, and a bullet-proof roadside marker to tell the story for the next generation. His work has been funded by the National Endowment for the Humanities, the Mellon Foundation, the National Park Service, the Rhode Island School of Design, and the Institute for Museum and Library Services. In 2025, he won KU’s highest research award, the Balfour Jeffrey Research Award in the Humanities.\nDr. Tell’s scholarship has a strong public focus. He has written for the\nNew York Times,\nthe\nAtlantic, the\nWashington Post, Esquire,\nand the\nChicago Tribune.\nA record-breaking exhibit at the Smithsonian’s National Museum of American History was based on his scholarship. His work played an integral role in the creation of the Emmett Till and Maine Till-Mobley National Park and he was invited to the White House for the creation of the park.\nIn addition to the Till story, Dr. Tell is working with survivors and participants to tell a range of hard stories—from the history of Black Kansas City to the integration of the University of Mississippi.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Alcides Velasquez",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://coms.ku.edu/people/alcides-velasquez",
+   "personal_url": null,
+   "photo_url": "https://coms.ku.edu/sites/coms/files/styles/5_7_placeholder_/public/images/person-profile/Velasquez_Alcides.jpg?h=de7b58d5&itok=27LhFbzQ",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric & Political Communication"
+   ],
+   "bio": "Ph.D., Michigan State University\nRhetoric & Political Communication\nAlcides Velasquez (Ph.D., Michigan State University) is an Associate Professor in the Department of Communication Studies. His research examines the interplay between social media, social identity, and political communication, with a particular focus on marginalized communities. His work investigates how identity-based perceptions, such as stigma, discrimination, perceived injustice, and hostile media perceptions, emerge in digital media environments, and how these perceptions influence social media political expression, participation, and attitudes.\nIn his research, Dr. Velasquez has explored how social media facilitate collective expression, enable identity-based mobilization, and create opportunities for resisting negative group portrayals. Much of his research focuses on U.S. Latino populations and Latin American contexts. His recent projects include a multi-method study of stigma in political and media discourse during U.S. elections.\nHis work has been published in leading journals such as\nCommunication Research,\nJournal of Computer-Mediated Communication,\nNew Media & Society,\nSocial Media + Society,\nInformation, Communication & Society,\nMass Communication and Society, and\nJournal of Broadcasting & Electronic Media, among others.\nAt KU, Dr.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Alesia Woszidlo",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://coms.ku.edu/people/alesia-woszidlo",
+   "personal_url": "http://www.alesiadiane.com",
+   "photo_url": "https://coms.ku.edu/sites/coms/files/styles/5_7_placeholder_/public/images/person-profile/AlesiaWoszidlo.jpg?h=4d237f52&itok=zSyI2pDE",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Relationships & Social Interaction"
+   ],
+   "bio": "Ph.D., University of Arizona\nRelationships & Social Interaction\nDr. Alesia Woszidlo is an Associate Professor in the Department of Communication Studies as well as the Director of the Institute for Leadership Studies at the University of Kansas. She is the Co-PI and Academic Director of the Women’s Global Leadership Consortium and serves as a Co-Director of the Kansas Women’s Leadership Institute. Dr. Alesia is an interpersonal communication scholar whose specialty is family communication. She teaches undergraduate and graduate courses such as Family Communication; Communication, Leadership, and Conflict Management; Stress and Coping in Interpersonal Communication; and Behavioral and Social Science Research Methods. Her research examines the intersection of communication processes, mental health, family functioning, and relationship quality within the context of family relationships. She also researches the associations among effective leadership and leadership programming. Specifically, she examines factors that influence the engagement in and effectiveness of one's leadership and capacity to thrive in their personal and professional relationships and the communities they belong to.\nName pronunciation: Ah-leash-ah Vo-seed-lo https://www.alesiadiane.com/",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Yan Bing Zhang",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://coms.ku.edu/people/yan-bing-zhang",
+   "personal_url": null,
+   "photo_url": "https://coms.ku.edu/sites/coms/files/styles/5_7_placeholder_/public/images/person-profile/Yan-Bing2.jpg?h=de7b58d5&itok=73yImqpp",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Relationships & Social Interaction"
+   ],
+   "bio": "Ph.D., University of Kansas\nRelationships & Social Interaction\nDr. Yan Bing Zhang is a Professor in the Department of Communication Studies at the University of Kansas. She is a scholar specializing in intergroup and intercultural communication, with research focusing on the intersections of communication, relationships, social cognition, culture, and identity in face-to-face and mediated contexts. Dr. Zhang has received several prestigious awards, including the\n2007 William T. Kemper Fellowship for Teaching Excellence, the\n2019 Dean’s Award for Excellence in Mentoring Students in Research, and the\n2020 Howie Giles Mentorship Award from the International Association for Language and Social Psychology. Her work has been published in leading U.S. and international journals in communication and social psychology, such as\nJournal of Communication,\nCommunication Monographs,\nNew Media & Society,\nCommunication Research,\nJournal of Broadcasting & Electronic Media,\nJournal of Cross-Cultural Gerontology,\nInternational Journal of Intercultural Relations,\nJournal of Language and Social Psychology, and\nInternational Journal of Communication. In recognition of her scholarship, the Communication and Aging Division of the National Communication Association honored her with the\n2021 Giles-Nussbaum Distinguished Scholar Award.\nAligned with her research agenda, Dr.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Alyssa Appelman",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/alyssa-appelman-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Alyssa%20Appelman.jpg?h=df8ad793&itok=z8DH2EWR",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Journalistic Practices",
+    "News Accuracy",
+    "Fact-Checking",
+    "Media Credibilty",
+    "Media Psychology"
+   ],
+   "bio": "Alyssa Appelman is an associate professor in the William Allen White School of Journalism and Mass Communications at the University of Kansas. She is a faculty affiliate of KU’s\nInstitute for Policy and Social Research and Jewish Studies program.\nAlyssa teaches undergraduate courses in writing, editing and fact-checking, and she advises graduate students. She also chairs the Elected Standing Committee on Publications for the Association for Education in Journalism and Mass Communication (AEJMC). Alyssa received a Keeler Family Intra-University Fellowship in 2025-2026, and she participated in KU’s Senior Administrative Fellows program in 2024-2025. Alyssa is a\nU.S. Fulbright Specialist in Journalism and Mass Communications/ Media Studies.\nAlyssa conducts social-science research on journalism practices and their effects on audiences. Her research focuses mostly on perceptions of news accuracy and credibility. She has conducted projects on the effects and significance of grammatical errors, stylistic errors and factual errors in news articles. She also examines message effects and information processing in digital and social media. Her most recent work looks at journalistic transparency, as well as perceptions of journalists’ use of AI.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Genelle Belmas",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/genelle-belmas-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Belmas%2C%20Genelle_1.jpg?h=4e4185eb&itok=qeeEwkWD",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Associate Professor Genelle Belmas joined the William Allen White School of Journalism and Mass Communications from California State University, Fullerton as a tenured faculty member and head of the journalism concentration in the Department of Communications. She teaches media law, media ethics, communications technology and computer-assisted reporting. Her research primarily focuses on media law. Her work has appeared in the\nYale Journal of Online Law and Technology,\nthe\nFederal Communications Law Journal, and\nCommunications Law and Policy, among others, and has been cited by several appellate courts. She is the author of a media law textbook,\nMajor Principles of Media Law (Cengage). She has also been the recipient of several research and teaching external grants.\nSelected publications: Belmas, G. I., Shepard, J. M., & Overbeck, W. E. (2018). | Major Principles of Media Law, 2019 ed. | Belmas, G. I., & Vanacker, B. (2018). Satire in the Digital Age: Legal Issues with Parody Accounts, an Overview [Conference Proceedings]. In publication available after April 2018 conference. | Peters, J. W., Belmas, G. I., & Bobkowski, P. S. (2017). | A Paper Shield? Whether State Privilege Protections Apply to Student Journalists",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Steve Bien-Aime",
+   "title": "Associate Professor; Sports Media & Society Concentration Chair",
+   "rank": "Associate Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/steve-bien-aime-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/1808_Steve%20Bien-Aime_01%20%281%29%20%281%29%20%20%20%281%29.JPG?h=a3b3778b&itok=2Vr189U9",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Steve Bien-Aime, assistant professor, joins us from the School of Media and Communication in the College of Informatics at Northern Kentucky University. Steve also is an adjunct professor with The Poynter Institute, where he facilitates trainings on inclusive language and diversity for news outlets and universities. The former sports and business journalist now researches race and gender issues in media. He earned his doctorate at Penn State.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Directory and profile header say Associate Professor; older biography text still says assistant professor."
+  },
+  {
+   "name": "Ann M. Brill",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/ann-brill",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Brill_headshot.jpeg?h=420844c1&itok=bz7pPZKs",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Awards & honors: Administrator of the Year, Association for Education in Journalism and Mass Communication (AEJMC); Nominated for University of Missouri Provost Outstanding Junior Faculty Teaching Award; School of Journalism, 1996 and 1997; Outstanding Faculty Member, University of Missouri Panhellic Council, 1997;; profiled in University of Minnesota School of Journalism and Mass Communication Alumni Publication, 1995",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Former dean, returned to faculty; profile has no biography text, bio built from education and awards."
+  },
+  {
+   "name": "Sarah Cavanah",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/sarah-cavanah-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/sarah5_cropped.jpg?h=c108d53f&itok=2er1OoW5",
+   "google_scholar_url": null,
+   "research_areas": [
+    "News and information in rural communities",
+    "Scholastic media",
+    "Science communication on social media"
+   ],
+   "bio": "Sarah Cavanah is an assistant professor in the William Allen White School of Journalism and Mass Communications at the University of Kansas. She joined the KU faculty in 2024. Sarah is interested in how access to quality news and information impacts the health of communities, especially in rural areas. In particular, she is motivated by trying to find ways to match audience media use to sustainable ways of supporting quality news production. Sarah is also an active member of the research community around scholastic media, including how it impacts student learning outcomes and motivations for students and advisers to become involved. Her work for student media non-profit organizations led to her involvement with Real Duck Tails, a student-led science communication social effort, sparking an interest in student media beyond traditional news production, as well as science communication overall.\nSarah’s work has been published in\nJournalism & Mass Communication Educator, Mass Communication and Society, Journalism & Mass Communication Quarterly, Communication & Sport, Biological Conservation and Journal of Leadership, Accountability and Ethics.\nShe is a former research chair and current newsletter editor for the Scholastic Journalism Division of the Association for Education in Journalism and Mass Communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Yvonnes Chen",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/yvonnes-chen-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Yvonnes%20Chen_0.jpg?h=3e16b80a&itok=JCBCU3oJ",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media and health literacy",
+    "adolescents",
+    "prevention and intervention"
+   ],
+   "bio": "Yvonnes Chen is a professor in the School of Journalism and Mass Communications at the University of Kansas. She is one of the five 2017 Outstanding Educators awarded by the KU Torch Chapter of the Mortar Board (a senior honor society). She is also a 2017-2018 Keeler Intra-University Professorship recipient and was a Visiting Professor Program fellows awarded from the Advertising Educational Foundation in New York.\nHer research — which has received funding from government agencies — centers on designing effective programs to promote healthy lifestyles. Her most recent research focuses on how the brain is a window to understanding the effects of persuasive messages.\nKU News story.\nChen teaches courses on research methods, strategic campaigns, health communication, grant writing, and data analysis. At the core of her teaching is a desire to nurture students' personal growth and problem-solving ability. One of her greatest joys is to see students succeed – at the personal and professional level. Her students have received university awards (e.g., KU University Awards), competitive fellowships (e.g., FleishmanHillard Diversity Fellow) and regional/national awards (e.g., Bronze Quill and",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jeff Conlin",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/jeff-conlin",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Conlin%2C%20Jeff.JPG?h=d1948b57&itok=L_am6Gl_",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Jeff Conlin joined the full-time faculty at the William Allen White School of Journalism and Mass Communications in 2021 as an assistant professor supporting the strategic communication concentration. Previously, Conlin served as a lecturer at Penn State University and taught public relations writing and media relations methods courses, and search engine marketing classes.\nConlin’s research interests are at the intersection of strategic communication, science, and political contexts. Specifically, he studies the persuasive effects of messages, images, and emotions in relation to environmental and public health risks, and political advertising contexts. Topics of recent studies have addressed tamping down vaccination hesitation, effects of narrative ads in the 2018 midterm elections, and examining disgust and cuteness responses toward the eradication of feral pigs.\nBefore transitioning to academia, Conlin was an award-winning practitioner with more than 16 years of agency, start-up and corporate experience in public relations, corporate communications and digital marketing roles. Conlin’s professional communication work spanned areas such as transportation, ecommerce, food and carpet manufacturing, nonprofit and environmental conservation. His prior work experience continues to inform his current pedagogy and research.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Elizabeth Cox",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/elizabeth-cox-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/elizabethgrad-12.jpeg?h=5def5f59&itok=KkWnPxe_",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Sports Communication",
+    "Public Relations",
+    "Team-Fan Relationships",
+    "Crisis Communication",
+    "Social Media"
+   ],
+   "bio": "Elizabeth Cox is an assistant professor with the William Allen White School of Journalism and Mass Communications at the University of Kansas. Her research interest explores the intersection of public relations and sports communication to evaluate fan-team relationships and the strategic communication that cultivates them. Her dissertation examined the use of Name, Image, and Likeness (NIL) partnerships as a vehicle to strengthen relationships between teams and their fan bases. Elizabeth has complementary research interests in entertainment studies, crisis communication, and mental health messaging.\nElizabeth spent four years as a publicist with entertainment PR agency MPRM Communications in Los Angeles. She has continued to work with MPRM over the years as a freelance publicist. She has been involved in a wide range of publicity campaigns, including documentary projects with Showtime, Discovery, TV One, and Netflix, including Discovery’s\nShark Week and Netflix’s\nThe Social Dilemma. She also worked with Netflix on their slate of stand-up comedy specials. Elizabeth has also worked with NBC on a wide range of their competition shows, including\nThe Voice, American Ninja Warrior, and World of Dance,\namong others.\nOutside of television, Elizabeth has worked with an array of clients within publishing, podcast and audio entertainment, and more.\nResearch: Sports Communication; Public Relations; Team-Fan Relationships; Crisis Communication; Social Media\nSelected publications: (2025).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Megan Denneny",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/megan-denneny-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Megan%20Headshot.png?h=af8b786a&itok=fyBxMhy7",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Health communication",
+    "Reproductive and maternal health",
+    "Ethics of strategic communication",
+    "Health marketing and direct-to-consumer advertising",
+    "Informed consent and decision-making",
+    "Critical and cultural approaches to media",
+    "Qualitative methods"
+   ],
+   "bio": "Megan Denneny, PhD, is an assistant professor in the William Allen White School of Journalism and Mass Communications at the University of Kansas, where she teaches courses in public relations, digital marketing and advertising, including Advanced Digital Marketing Communication, Advertising and Public Relations (JMC 420) and Campaigns (JMC 640).\nHer research focuses on health communication, particularly in reproductive and maternal care, examining the ethics of strategic messaging and how it shapes patients' decisions and well-being. Her recent work explores how noninvasive prenatal testing is marketed to pregnant people and how those messages affect informed decision-making, drawing on critical communication theory and qualitative methods.\nBefore joining KU, she spent nearly a decade at a communication agency in Washington, D.C., leading campaign strategy and media relations for clients such as Marriott, Google and the American Cancer Society. She brings that experience into the classroom, where students work with real clients like Yelp and learn the full campaign process, from research and audience insights to strategy and creative execution. She also advises KU's team for the PR",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Vaibhav Diwanji",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/vaibhav-diwanji-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Diwanji%2C%20Vaibhav.JPG?h=ea6ebb3e&itok=U0xMWeLA",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Vaibhav Diwanji is an assistant professor in the William Allen White School of Journalism and Mass Communications at the University of Kansas. He received his Ph.D. from the College of Communication and Information at the Florida State University. His primary research interests lie at the intersection of consumer behavior, new and emerging media technologies and strategic communication. His recent research has been published in a variety of journals including Computers in Human Behavior, Journal of Retailing and Consumer Services, International Journal of Disaster Risk Reduction, and Journal of International Women’s Studies. In addition, he has presented his work at numerous advertising, marketing and communication international research conferences. Vaibhav also serves on the planning and organizing committee of the South Asian Media and Cultural Studies Conference organized by the Florida State University.\nDiwanji’s primary teaching areas are strategic communication, advertising and public relations, message development and account planning. He has also taught a range of communication courses including multimedia designing, diffusion of innovations, writing media criticism, media techniques, online presence and public speaking.\nPrior to joining academia, Vaibhav Diwanji held marketing strategy, communication, and research positions at different organizations in different verticals across three continents. He enjoys traveling, reading, and food.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Christopher Etheridge",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/christopher-etheridge-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Etheridge%2C%20Chris.JPG?h=ea6ebb3e&itok=5Iilf26K",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Chris Etheridge joined the William Allen White School of Journalism and Mass Communications faculty in 2020 as an assistant professor. He researches media representations of crime and community storytelling. His current work focuses on information-seeking behaviors of community groups and the ability of media outlets to serve those information needs. He also studies digital adoption of technology in rural communities and related relationships between news organizations and their audiences.\nEtheridge previously served on the faculty of the University of Arkansas at Little Rock and the University of Minnesota Duluth. He also has worked as a news reporter and in marketing and communications. He teaches courses on media and society, reporting and editing techniques, and media ethics.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Teri Finneman",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/teri-finneman-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Teri%20Finneman.JPG?h=aaa94f13&itok=1wGmi4D3",
+   "google_scholar_url": null,
+   "research_areas": [
+    "First ladies and women politicians",
+    "Gender and media",
+    "Oral history",
+    "Journalism history",
+    "Local news"
+   ],
+   "bio": "Teri Finneman is a professor in the William Allen White School of Journalism and Mass Communications at the University of Kansas. Her research focuses on news coverage of U.S. first ladies and women politicians, as well as the U.S. suffrage movement. She is an oral historian who captures the histories of journalists in the Heartland. Finneman is also founder and executive producer of the Journalism History podcast and The First Ladies podcast. She is the author of Press Portrayals of Women Politicians, 1870s-2000s, which was named a 2016 finalist for the Frank Luther Mott - Kappa Tau Alpha book award for best research-based book about journalism or mass communication. She also co-edited the books Social Justice, Activism and Diversity in U.S. Media History and A Cambridge Companion to US First Ladies. She co-authored the books Reviving Rural News and News Desert U.\nResearch: First ladies and women politicians; Gender and media; Oral history; Journalism history; Local news\nSelected publications: & Walck, P. (2026). News Desert U. Bloomsbury. | (2026). Making Mamie: How a Presidential Library Reinvented a First Lady’s Collective Memory. Journal of First Ladies Studies. | https://online.flippingbook.com/view/463906135/ | Nagel, T., Waters, I., & Delisle-Miller, P. (2026). Perceptions of rural newspapers among Generation Z: Understanding resistance to small-town employment. News Research Journal. | https://journals.sagepub.com/doi/10.1177/30497841261423241",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Mugur Geana",
+   "title": "Interim Associate Dean for Research & Faculty Development; Full Professor; Director, Center for Excellence in Health Communication to Underserved Populations",
+   "rank": "Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/mugur-geana-md-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Geana%2C%20Mugur.JPG?h=d78f1aaf&itok=QbKRhM8P",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Heath Communication",
+    "New Media",
+    "Health Disparities"
+   ],
+   "bio": "Dr. Mugur V. Geana is a Full Professor at the William Allen White School of Journalism and Mass Communications, specializing in research in health communication. With a background that includes an M.D. from the Institute of Medicine and Pharmacy, Bucharest, and a Ph.D. in Journalism and Mass Communications from the University of Missouri-Columbia, Dr. Geana expertly bridges the gap between medicine and strategic communication. Since coming to the University of Kansas in 2006, Dr. Geana led multiple research and capacity-building initiatives, such as founding the Center for Excellence in Health Communications to Underserved Populations, the Experimental Research Media Laboratory, and numerous externally funded research projects. His research focuses primarily on health communication strategies and the efficacy of media interventions in public health campaigns. His recent work explores AI's impact on consumer health communications, strategies to enhance vaccine uptake among marginalized populations, and the impact of social determinants of health on the uptake and processing of mediated health information. Dr. Geana is currently the Chair of the Digital Marketing Communications, Advertising, and Public Relations concentration.\nResearch: Heath Communication; New Media; Health Disparities\nSelected publications: Geana, M.V., Pei, J., Ngyuen, N., Izhar, N., and Chaif, R. (2025).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Melissa Greene-Blye",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/melissa-greene-blye-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Melissa%20headshot.png?h=1e40b39b&itok=79_RkYcV",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Melissa Greene-Blye worked as an anchor and reporter for 20 years in the news business, covering local news in television markets big and small. She enjoys using her knowledge and experience to educate the newest generation of journalists.\nMelissa is an enrolled citizen of the Miami Tribe of Oklahoma. Her research examines journalistic representations and negotiations of American Indian identity past and present. Most recently, her work has been published in Journalism History. She has presented research at the American Journalism Historians Association annual conference as well as the Joint Journalism Conference held in New York City each year.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Carol Holstead",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/carol-holstead",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Holstead%2C%20Carol.JPG?h=e9269172&itok=YSooTTU1",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Carol Holstead has taught in the School of Journalism and Mass Communications since 1991. She’s an associate professor with a professional background as a magazine writer and editor for a leading business-to-business publisher in Kansas City, where she started a national magazine for supermarket florists. She has a bachelor’s degree in journalism and a master’s degree in theater from Kansas State University. She’s taught a wide range of classes in the decades she’s been at the school, including courses in reporting, magazine publishing, design and writing, visual communication, public speaking and the school’s freshman media survey course, Media and Society.\nShe is deeply interested in how students learn and has written articles about teaching for\nThe Chronicle of Higher Education. She also has a research interest in magazine design. She is a frequent judge for the National Magazine Awards, the most prestigious awards in magazine journalism and design.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Margarita Orozco",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/margarita-orozco-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Margarita002-r.jpg?h=1565bf5f&itok=6RIJQWhY",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Margarita Orozco, assistant professor, comes from the University of Wisconsin-Madison where she earned her doctorate. Her research focuses on political communication, media effects, and deliberation in conflict contexts. Her dissertation work focuses on Populism and Intergroup Emotions in the United States, but she has a wealth of scholarly and professional expertise in the Latin American area as well. She is a regular contributor for different media in South American countries and worked as International Fellow for Journalism and Democracy at the Kettering Foundation. She will be working with the Center for Latin American and Caribbean Studies as part of their grant from the Department of Education.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Scott Reinardy",
+   "title": "Professor; Malcolm Applegate Professor in News Management and Editing",
+   "rank": "Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/scott-reinardy-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Reinardy%2C%20Scott.JPG?h=7a0b4359&itok=AImuvcW0",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Burnout and life issues of newspaper and television newsroom workers",
+    "Organizational adaptation and development of newspaper and television newsrooms",
+    "Media ethics",
+    "Journalism education",
+    "Sports media"
+   ],
+   "bio": "When I was entering graduate school after years of daily newspaper experience, I was asked, “What kind of academic research can we do to assist the profession?” At that time I had few answers. Now, much of my life’s work is dedicated to not only addressing that question but to developing classroom strategies in implementing the answers.\nIt is not unusual for a mid-career professional to transition to the academy. However, it is unusual for a former sports writer and editor to earn a Ph.D. during that transition.\nNow that I have made that transition, I continue to be rooted in the practice through research, immersive student journalism programs and regular interaction with professional journalists.\nAs part of my research during the past 15 years, professional newsroom workers have explained how their jobs have changed and what they have done to manage the changes. Reporters and editors have discussed the complications of breaking news on social media and what it means to the daily newspapers. Broadcast and newspaper journalists have explained how they are asked to do more with less while struggling to produce quality journalism.\nThe research provides a clearer picture of an evolving professional work environment and what can be taught in immersive newsroom experiences such as Multimedia Reporting, Statehouse Reporting, Digital Media, and Multimedia Sports Journalism.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Judith Rosenbaum-Andre",
+   "title": "Dean",
+   "rank": "Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/judith-rosenbaum-andre-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/ROSENBAUM-ANDRE%2C%20JUDITH.jpeg?h=24801ba5&itok=PLaA1RtQ",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Judith E. Rosenbaum-Andre serves as Dean of the William Allen White School of Journalism and Mass Communications. Prior to joining KU in 2026, Dean Rosenbaum-Andre held academic leadership positions at the University of Maine and Albany State University. She earned her Ph.D. in Mass Communications from Radboud University Nijmegen\nDean Rosenbaum-Andre’s research centers on understanding how and why people use digital and entertainment media as well as its impact on individuals and society at large. Research topics include spoilers and enjoyment, social media use, and media literacy. She has published more than 35 peer-reviewed articles and chapters, authored two books, and received several awards recognizing her research and teaching. Her teaching experience spans three institutions and includes undergraduate and graduate courses in media studies, communication, journalism, research methods, and ethics. She has also advised numerous undergraduate research projects, master's theses, and doctoral students, and remains committed to supporting student learning and scholarly development.\nSelected publications: & Adams, S. (2026). AI in the classroom: Building reflexivity and critical literacy skills. In W. Holmes (Ed.), | Handbook of Critical Studies of Artificial Intelligence and Education. Edward Elgar. | Rosenbaum, J.E., Ellithorpe, M., & Brookes, S. (2026). Does the dog die? Empathic distress and spoilers as self-protection. | Psychology of Popular Media.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Site title is \"Dean\" only; mapped to Professor (she joined KU in 2026 as dean after serving as full professor of media studies at University of Maine, per KU news release). Human should confirm rank."
+  },
+  {
+   "name": "Hyunjin Seo",
+   "title": "University Distinguished Professor; Director, KU Center for Digital Inclusion; Oscar Stauffer Professor of Journalism",
+   "rank": "Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/hyunjin-seo-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Hyunjin%20Seo.jpg?h=3e16b80a&itok=eM0_1W3D",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Social Media",
+    "Strategic Communication",
+    "Collective Action",
+    "Social Movement",
+    "Computational Social Science"
+   ],
+   "bio": "Hyunjin Seo is a University Distinguished Professor and Oscar Stauffer Chair in the William Allen White School of Journalism and Mass Communications at the University of Kansas, where she served as Associate Dean for Research and Faculty Development. She is also the founding director of the KU Center for Digital Inclusion, which has been funded by the National Science Foundation, the National Endowment for the Arts, the Ewing Marion Kauffman Foundation, and other grant-making organizations. She has previously served as a fellow and faculty associate at Harvard University’s Berkman Klein Center for Internet & Society and was the head of the Communication Technology division of the Association for Education in Journalism and Mass Communication.\nSeo’s research focuses on identifying emerging properties of networked communication and understanding their implications for social change, collective action and civic engagement. Seo is the author of\nNetworked Collective Actions: The Making of an Impeachment (Oxford University Press, 2022), which examines intricate relationships between social institutions and agents during South Korean collective actions directed at political changes. She strives to inform organizations and policies by working closely with community members, policymakers and activists through her research.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Yunwen Wang",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/yunwen-wang-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Wang_photo.JPG?h=04d92ac6&itok=7xqJQtw4",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Health Communication",
+    "Misinformation and Disinformation",
+    "Computational Social Science",
+    "Emerging Media Technology",
+    "User Experience (UX)",
+    "Media Psychology",
+    "Human-Computer Interaction"
+   ],
+   "bio": "Yunwen Wang joined the University of Kansas as an assistant professor in August 2024. With a background in health journalism and media production, she studies health communication, user experience (UX), and the impact of media and emerging technologies on consumer health and wellbeing. Wang uses a multidisciplinary approach to promote empathy and inclusivity in public communication. She combines computational, quantitative, and qualitative methods including natural language processing and recently computer vision. Her work seeks to support vulnerable and marginalized communities.\nBefore KU, Wang taught at Purdue University and the University of Southern California during her graduate studies. She completed her postdoctoral training at the Cedars-Sinai Medical Center in Los Angeles, California. In her free time, Wang enjoys digital and analogue photography, plants, nature, and volunteer activities.\nResearch: Health Communication; Misinformation and Disinformation; Computational Social Science; Emerging Media Technology; User Experience (UX); Media Psychology; Human-Computer Interaction\nSelected publications: Wang, O’Connor, K., Flores, I., Berdahl, C. T., Urbanowicz, R. J., Stevens, R., Bauermeister, J. A., & Gonzalez-Hernandez, G. (2024). Mpox discourse on Twitter by sexual minority men and gender-diverse individuals: Infodemiological study using BERTopic. | JMIR Public Health and Surveillance, | https://doi.org/10.2196/59193 | Wang, Y., Bannon, J.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Doug Ward",
+   "title": "Associate Director, Center for Teaching Excellence; Associate Professor",
+   "rank": "Associate Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/doug-ward",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Ward_Doug%20%28smaller%20image%29.jpg?h=429bea76&itok=-uSgJPEY",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Future of higher education",
+    "Effective pedagogy",
+    "Evaluation of teaching",
+    "Web, app and bot development",
+    "Multimedia storytelling",
+    "Data visualization and data analytics",
+    "Teaching and technology",
+    "American cultural history",
+    "Active learning",
+    "Future of education",
+    "Audience studies",
+    "Web development",
+    "App development",
+    "Data visualization & analytics"
+   ],
+   "bio": "Doug Ward is a cultural historian and former New York Times editor who teaches courses in pedagogy, data visualization, digital content strategy, and editing. He is also the associate director of the Center for Teaching Excellence.\nHe led development of the master’s degree in Digital Content Strategy and a digital literacy course known as Infomania. He also developed a hybrid approach for editing courses, reducing hours of class time while maintaining the same level of student learning. While teaching editing, he created KUEditing.com, an online language reference source and blog that is now only lightly maintained, and Journalism Tech, which has since shut down.\nAt the Center for Teaching Excellence, he works with faculty in such areas as flexible and online teaching, data analytics, use of technology to improve student engagement, and innovating teaching practices. He is part of a multi-university team called\nTEval, which received a National Science Foundation grant to create a fairer and more nuanced approach to evaluating teaching. He helped develop a university tool called My Students, which provides demographic information about students in individual courses. He writes about",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Also Associate Director of the Center for Teaching Excellence; listed as core J-School faculty."
+  },
+  {
+   "name": "Judy Watts",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/judy-watts-mps-ma-phd",
+   "personal_url": null,
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Watts-Judy-light-background_0.jpg?h=490a8b74&itok=AGUa0Z_X",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Judy Watts is an assistant professor in the William Allen White School of Journalism and Mass Communications at the University of Kansas. She recently received her doctorate from The Ohio State University School of Communication. Her research interests include narrative persuasion, health communication, and children’s understanding of media. Broadly, her research pursues the influence of media on individuals’ emotional responses, attitudinal change, and knowledge across the lifespan. She has been published in the Journal of Communication, Media Psychology, Health Communication, Journal of Health Communication, and Broadcasting of Entertainment & Media.\nIn regard to teaching, Dr. Watts aims to center students’ experience and provide an inclusive learning environment. As such, students can expect learning facilitated through conversation and participation where possible. She has taught interpersonal communication and managing public disputes. She teaches courses in the Digital Marketing Communications, Advertising and Public Relations concentration at the J-School involving writing, message development, and research methods.\nBefore joining academia, Watts had a career in public service, working for local and regional government entities as their public information officer and outreach administrator. She began her professional career by working in development for a local public radio station.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Tamar Wilner",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "William Allen White School of Journalism and Mass Communications",
+   "profile_url": "https://journalism.ku.edu/people/tamar-wilner-phd",
+   "personal_url": "https://www.tamarwilner.com",
+   "photo_url": "https://journalism.ku.edu/sites/journalism/files/styles/5_7_placeholder_/public/images/person-profile/Tamar%20Wilner.png?h=068592de&itok=mnvR6ocv",
+   "google_scholar_url": null,
+   "research_areas": [
+    "News, Media, Information, Digital Literacies",
+    "Media Trust and Credibility",
+    "Misinformation and Disinformation",
+    "Audience Studies",
+    "Translational Science"
+   ],
+   "bio": "Tamar Wilner is an assistant professor in the William Allen White School of Journalism and Mass Communications at the University of Kansas. She joined the KU faculty in fall 2024. Tamar’s research specialties include news literacy, media trust, and misinformation. She also studies the gap between journalism research and journalism practice. An interdisciplinary scholar, Tamar completed a postdoctoral appointment at the University of Texas School of Information, working on the\nCo-Designing for Trust digital literacy project, and she is interested in connecting with those who study digital literacies and the research-practice gap from a variety of fields.\nTamar received her Ph.D. from the University of Texas School of Journalism in May 2023, where her dissertation examined the roles of news skepticism and news cynicism in news literacy education. Previously, Tamar worked for 15 years as a print and online reporter and editor, covering topics ranging from local music to urban development to renewable energy and corporate sustainability, as well as writing about changes within the media itself.\nResearch: News, Media, Information, Digital Literacies; Media Trust and Credibility; Misinformation and Disinformation; Audience Studies; Translational Science\nSelected publications: Wilner, T., Clements-Housser, K., Bélair-Gagnon, V., & Sridharan, N. (In press). | Journalists’ views on the research-practice gap. | Riedl, M. J., Masullo, G. M., & Wilner, T. (In press).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  }
+ ]
+}

@@ -1,0 +1,899 @@
+{
+  "slug": "university-of-arizona",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Leila Bighash",
+      "summary": "Studies how information visibility in organizations shapes uncertainty, privacy, and expertise recognition using experiments, surveys, network analysis, and digital trace data.",
+      "summary_zh": "研究组织中的信息可见性如何影响不确定性、隐私与专长识别，采用实验、调查、社会网络分析和数字痕迹数据。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_NETWORK",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ADMIN_LARGE_SCALE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "information visibility",
+        "communication networks",
+        "expertise recognition",
+        "privacy",
+        "uncertainty",
+        "organizational communication",
+        "social network analysis",
+        "digital trace data",
+        "communication technology"
+      ]
+    },
+    {
+      "name": "Joseph Bonito",
+      "summary": "Studies participation and interaction processes in small groups, developing multilevel measurement models and applying machine learning to group interaction data.",
+      "summary_zh": "研究小群体中的参与与互动过程，发展多层测量模型，并将机器学习应用于群体互动数据。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "small group communication",
+        "group participation",
+        "multilevel measurement models",
+        "machine learning",
+        "group interaction",
+        "group decision-making",
+        "quitline"
+      ]
+    },
+    {
+      "name": "Jake Harwood",
+      "summary": "Studies intergroup communication, especially across age groups and through music, and uses LLM-based text coding and agent-based modeling of communication processes.",
+      "summary_zh": "研究群际传播，尤其关注年龄群体之间以及音乐在群际关系中的作用，并使用大语言模型文本编码和基于主体的建模。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "intergroup communication",
+        "intergenerational communication",
+        "aging",
+        "music",
+        "intergroup contact",
+        "llm text coding",
+        "agent-based modeling"
+      ]
+    },
+    {
+      "name": "Kate Kenski",
+      "summary": "Studies political communication, public opinion, and election campaigns, including social media incivility and gender and politics, using large-scale election surveys and platform development.",
+      "summary_zh": "研究政治传播、舆论与选举竞选，包括社交媒体不文明言论及性别与政治，采用大规模选举调查并开发在线平台。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "political communication",
+        "public opinion",
+        "election campaigns",
+        "incivility",
+        "gender and politics",
+        "national annenberg election survey",
+        "social media",
+        "quality of reasoning"
+      ]
+    },
+    {
+      "name": "Matthew A. Lapierre",
+      "summary": "Studies media effects on the health and well-being of children and families, including advertising and persuasion awareness, parental mediation, and media influences on gun attitudes.",
+      "summary_zh": "研究媒介对儿童与家庭健康和福祉的影响，包括广告与说服认知、父母对子女媒介使用的介导以及媒介对枪支态度的影响。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "children and advertising",
+        "persuasion knowledge",
+        "consumer behavior",
+        "parental mediation",
+        "gun attitudes",
+        "media effects",
+        "well-being",
+        "science communication"
+      ]
+    },
+    {
+      "name": "Rain Wuyu Liu",
+      "summary": "Studies persuasion and social norm messaging in health and environmental behavior change, including cultural values and campaign design, with fieldwork among Tibetan herders.",
+      "summary_zh": "研究健康与环境行为改变中的说服与社会规范信息，关注文化价值观与传播运动设计，并在藏族牧民中开展田野研究。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_CHINA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "social norms",
+        "persuasion",
+        "social influence",
+        "environmental communication",
+        "communication campaigns",
+        "cultural values",
+        "behavior change",
+        "tibetan herders"
+      ]
+    },
+    {
+      "name": "Tae Joon Moon",
+      "summary": "Designs and tests technology-enhanced interventions, such as remote biosensors and mobile health apps, for people affected by alcohol and substance use disorders.",
+      "summary_zh": "设计并检验面向酒精与物质使用障碍人群的技术增强干预，如远程生物传感器和移动健康应用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "alcohol use",
+        "substance use disorders",
+        "mhealth",
+        "remote biosensors",
+        "mobile health apps",
+        "technology-enhanced interventions",
+        "community-based interventions"
+      ]
+    },
+    {
+      "name": "Margaret J. Pitts",
+      "summary": "Uses qualitative methods to study positive communication, such as savoring, that enhances relational wellbeing in interpersonal, intercultural, and aging contexts.",
+      "summary_zh": "运用质性方法研究促进关系福祉的积极传播（如传播回味），关注人际、跨文化及老龄化情境。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "positive communication",
+        "communication savoring",
+        "aging",
+        "wellbeing",
+        "flourishing",
+        "intercultural communication",
+        "qualitative methods"
+      ]
+    },
+    {
+      "name": "Steve Rains",
+      "summary": "Studies how messages influence people in health and technology contexts, focusing on social support, digital coping, incivility, and persuasion resistance with computational methods.",
+      "summary_zh": "研究信息在健康与技术情境中如何影响人们，聚焦社会支持、数字应对、不文明言论和说服抵抗，并运用计算社会科学方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "social support",
+        "digital coping",
+        "incivility",
+        "persuasion resistance",
+        "social influence",
+        "computational social science",
+        "health communication",
+        "communication technology"
+      ]
+    },
+    {
+      "name": "Chris Segrin",
+      "summary": "Studies interpersonal relationships and mental health, examining social skills, relationship satisfaction, and problems such as depression, loneliness, and marital distress.",
+      "summary_zh": "研究人际关系与心理健康，考察社交技能、关系满意度以及抑郁、孤独和婚姻困扰等问题。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "interpersonal relationships",
+        "mental health",
+        "social skills",
+        "depression",
+        "loneliness",
+        "marital distress",
+        "family communication",
+        "psycho-oncology"
+      ]
+    },
+    {
+      "name": "Jennifer Stevens Aubrey",
+      "summary": "Studies media effects on young people's emotional, mental, and physical health, focusing on gender, sexuality, and body image, including content analyses of TikTok and Instagram.",
+      "summary_zh": "研究媒介对青少年情绪、心理与身体健康的影响，聚焦性别、性与身体意象，包括对TikTok和Instagram的内容分析。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "media effects",
+        "body image",
+        "sexuality",
+        "gender and media",
+        "adolescent development",
+        "entertainment education",
+        "tiktok",
+        "instagram"
+      ]
+    },
+    {
+      "name": "Rita Tang",
+      "summary": "Studies how people encounter, evaluate, and correct misinformation on social media and develop AI literacy, using experiments, surveys, computational methods, and interviews.",
+      "summary_zh": "研究人们如何在社交媒体上接触、评估和纠正虚假信息以及形成AI素养，采用实验、调查、计算方法和访谈。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "misinformation",
+        "misinformation correction",
+        "ai literacy",
+        "trust in ai",
+        "social media",
+        "health misinformation",
+        "crisis communication",
+        "political participation"
+      ]
+    }
+  ]
+}

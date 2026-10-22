@@ -1,0 +1,614 @@
+{
+ "university": "University of Oklahoma",
+ "slug": "university-of-oklahoma",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "Department of Communication",
+   "school": "Dodge Family College of Arts and Sciences",
+   "directory_url": "https://www.ou.edu/cas/comm/about/people",
+   "phd_program_url": "https://www.ou.edu/cas/comm/academics/graduate",
+   "phd_program_name": "Ph.D. in Communication",
+   "notes": "Scraped the 'Faculty' section only (14 people, all with profile pages). Excluded 'Special Faculty' affiliates from other departments (Hansen, Jensen, Leshner, Massey), 7 emeriti, graduate students and staff."
+  },
+  {
+   "name": "Gaylord College of Journalism and Mass Communication",
+   "school": null,
+   "directory_url": "https://www.ou.edu/gaylord/about/faculty-and-staff",
+   "phd_program_url": "https://www.ou.edu/gaylord/academics/graduate/phd-in-mass-communication",
+   "phd_program_name": "Ph.D. in Mass Communication",
+   "notes": "Area-organized directory (Advertising, Creative Media Production, Journalism, Professional Writing, Public Relations) plus College Leadership; rank taken from each profile page. Excluded instructors, lecturer, visiting professor, professor emerita, staff and the Online-MA section."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "John Banas",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://www.ou.edu/cas/comm/about/people/john-banas.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/cas/comm/about/people/john-banas/_jcr_content/content/section/par/image.img.jpg/1777496508654.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. John Banas is a quantitative social scientist who studies persuasion with a primary focus on message strategies that help people resist maladaptive influence such as misinformation and conspiracy theories. He also has a secondary research program that investigates media effects and humor. In theoretical terms, his research mainly investigates inoculation theory, the theory of psychological reactance, and mediated intergroup contact. Professor Banas’s research appears in top communication (e.g., Human Communication Research, Communication Monographs, Communication Research, Health Communication) and high-quality psychology and interdisciplinary journals (e.g., Journal of Language and Social Psychology, Journal of Media Psychology, PNAS Nexus). Dr. Banas has received Top Paper Awards from the Health Communication Division (2015, 2019) and Social Cognition Division (2022, 2023) of National Communication Association(NCA), as well as a Top Paper Award from the Computers and Technology Division of the International Communication Association (ICA) in 2022. He has served as Chair of the NCA’s Communication and Social Cognition Division (2017-2018). Professor Banas has also earned awards for his teaching efforts. He was awarded the University of Oklahoma General Education Teaching Award in 2013, the University of Oklahoma John H. and Jane M.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Elena Bessarabova",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://www.ou.edu/cas/comm/about/people/elena-bessarabova.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/cas/comm/about/people/elena-bessarabova/_jcr_content/content/section/par/image.img.jpg/1777556265785.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Elena Bessarabova is a quantitative social scientist who studies persuasion, focusing on the roles of emotion and cognition in information processing. She’s particularly interested in maladaptive decision-making, including bias, mis/disinformation, deception, and conspiratorial beliefs. Her current research focuses on communication strategies that can help mitigate bias and misinformation. Professor Bessarabova also studies the effects of message design and framing on adaptive attitudes and behaviors. In theoretical terms, her research advances the theory of psychological reactance, inoculation theory, and mediated intergroup contact. Her recent theoretical contribution involves the integration of the psychological reactance theory with the terror management health model to explain how autonomy-limiting language can be beneficial in situations of high risk. Dr. Bessarabova’s research appears in top communication (e.g., Human Communication Research , Communication Monographs, Communication Research, Health Communication ) and high-quality psychology and interdisciplinary journals (e.g., Motivation and Emotion, Journal of Language and Social Psychology, Risk Analysis, Journal of Media Psychology, Computers in Human Behavior).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ryan Bisel",
+   "title": "Professor & MAOL Program Director",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://www.ou.edu/cas/comm/about/people/ryan-bisel.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/cas/comm/about/people/ryan-bisel/_jcr_content/content/section_1677070264_c/par/image.img.jpg/1777556314077.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Bisel is a Professor of Organizational Communication. His researches leadership communication, organizational culture, and behavioral ethics. Dr. Bisel’s (2018) book titled, \" Organizational Moral Learning: A Communication Approach \" (Routledge) was honored with two Book of The Year Awards from the National Communication Association. Also, Dr. Bisel was honored as the 2009 and 2011 Saxton Applied Research Award Recipient for his work in organizational change messaging and team learning, respectively. His 2013 article on team learning earned the Dennis Gouran Article Award from the National Communication Association. Furthermore, Bisel was awarded with the 2010 Longmire Prize for Teaching and the 2019 Kinney-Sugg Outstanding Professor in the College of Arts and Sciences. Dr.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ioana Cionea",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://www.ou.edu/cas/comm/about/people/ioana-cionea.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/cas/comm/about/people/ioana-cionea/_jcr_content/content/section_1677070264_c/par/image.img.jpg/1777556408149.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "My primary research interests lie at the intersection of interpersonal communication, intercultural communication, and quantitative research methods. I study how individuals argue and/or engage in conflict in their interpersonal relationships and the effects culture or ethnicity have on these processes. For example, I have examined various aspects connected to serial arguments (i.e., repetitive episodes with the same person, about the same topic, that have occurred at least twice). I have also worked on developing a new measure of arguing goals, refining models that explain how people decide to engage in arguments, and what dialogic strategies they use when arguing. In addition, I am interested in how individuals engage in arguments or conflicts with others on social networking sites, having published a few studies about such interactions on Facebook or Twitter. My approach to research is mainly rooted in the social science perspective. I usually employ quantitative models to explain arguing behaviors, although I have relied on qualitative methods where needed, too. I am also interested in measurement issues, such as the psychometric assessment of instruments, and techniques of modeling communication behavior, such as structural equation modeling. Representative publications: Machette, A. T., & Cionea, I. A. (2023). In-laws, communication, and other frustrations: The challenges of intercultural marriages.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jill Edy",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://www.ou.edu/cas/comm/about/people/jill-edy.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/cas/comm/about/people/jill-edy/_jcr_content/content/section_1677070264_c/par/image.img.jpg/1777556574590.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Jill Edy is an Associate Professor who specializes in the study of media and politics. She earned her Ph.D. at Northwestern University (1998), her M.A. at Leicester University in the U.K., and her B.A. at The George Washington University. Dr. Edy is best known for her research on how the public’s shared memory of events is created and maintained through mass media. In her book, Troubled Pasts: News and the Collective Memory of Social Unrest (2006), she studied whether shared memories of 1960s social protests had evolved. In more recent work, she has explored how shared memory affects news coverage of current events and examined its potential to influence political decision making. Her work has appeared in a variety of communication, journalism, and political science journals including: Journal of Communication, Journalism and Mass Communication Quarterly, American Journal of Political Science,andJournal of Broadcasting and Electronic Media. Dr. Edy typically teaches seminars in political communication, public opinion, and media. She also occasionally teaches the core course in communication theory (2713) and the senior capstone class (4713). At the graduate level, her courses include the political communication seminar and qualitative methods. Representative publications: A Nation Fragmented: The Public Agenda in the Information Age. Philadelphia: Temple University Press. (with Patrick C.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Alice Fanari",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://www.ou.edu/cas/comm/about/people/alice-fanari.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/cas/comm/about/people/alice-fanari/_jcr_content/content/section_1677070264_c/par/image.img.jpg/1777557413920.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Fanari’s research focuses on the role of communication during cross-cultural transitions among different types of sojourners. She explores how communication can facilitate cross-cultural (re)adaptation, promote health and relational well-being, and improve intercultural relations. Populations she has studied include US students studying abroad, international students studying in the US, religious missionaries, military personnel, and their families. She is a mixed-methods scholar specializing in qualitative research methods. Representative publications: Liu, R. W., Fanari, A. , & Lee, D. G. (2024). Love better by fighting smarter: How intercultural couples develop dyadic cultural affinity through romantic conflict management. International Journal of Intercultural Relations , 100 , 101987. https://doi.org/10.1016/j.ijintrel.2024.101987 Fanari, A. (2024). Examining the portrayal of U.S. host families and exchange students on study abroad websites: A content analysis. Journal of International Students , 14 (3), 408–426. https://doi.org/10.32674/jis.v14i3.5490 Fanari, A. , & Segrin, C. (2023). Reentry shock and the role of communication in psychological health: A study of abrupt reentry during the COVID-19 pandemic. Journal of Intercultural Communication Research , 52(5), 493–512. https://doi.org/10.1080/17475759.2023.2239819 Fanari, A. , Gahler, H., Gim, H., Case, T., & Harwood, J. (2023).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Mengfei Guan",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://www.ou.edu/cas/comm/about/people/mengfei-guan.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/cas/comm/about/people/mengfei-guan/_jcr_content/content/section_1677070264_c/par/image.img.jpg/1777557339777.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Guan’s research interests focus on message effects, risk perception, and behavior change in the realms of health, risk, and science communication. In particular, she is interested in examining the role of different message design strategies in shaping people’s responses to persuasive messages. Her research also touches upon the impact of audience characteristics on message processing and risk-reducing behaviors as well as communication about social determinants of health. Representative publications: Guan, M., Li, Y., Scoles, J. D., & Zhu, Y. (2023). COVID-19 message fatigue: How does it predict behavioral intentions and what types of information are people tired of hearing about? Health Communication, 38(8), 1631-1640. https://doi.org/10.1080/10410236.2021.2023385. Featured in the CDC Health Communication Science Digest (January 2022, Vol. 13, Issue 1e) Zhuang, J., & Guan, M. (2022). Modeling the mediating and moderating roles of risk perceptions, efficacy, desired uncertainty, and worry in information seeking-cancer screening relationship using HINTS 2017 data. Health Communication, 37(7), 897-908. https://doi.org/10.1080/10410236.2021.1876324 Guan, M., Jennings, F. J., Villanueva, I. I., & Jackson, D. B. (2022). Delineating antecedents and outcomes of information seeking upon exposure to an environmental video opposing single-use plastics. Environmental Communication, 16(4), 563-57. https://doi.org/10.1080/17524032.2022.2102048 So, J., Ahn, J., & Guan, M. (2022).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Amy Johnson",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://www.ou.edu/cas/comm/about/people/amy-johnson.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/cas/comm/about/people/amy-johnson/_jcr_content/content/section_1677070264_c/par/image.img.jpg/1787236146027.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Johnson is a Professor in the Department of Communication. She has also served as Graduate Liaison for the department. Her area is interpersonal communication. Her research interests include long-distance relationships and computer-mediated communication, friendships, stepfamilies, and interpersonal argument. She has published in such venues as Communication Monographs, Journal of Communication, Journal of Social and Personal Relationships, and Personal Relationships. Representative publications: Johnson, A. J., & Bostwick, E. N. (in press). Arguing with family members about the 2016 Presidential Election: Characteristics of these political discussions. In D. Hample (Ed.), Local theories of argument . Taylor and Francis. Johnson, A. J., & Cionea, I. A. (2020). An exploratory mixed-method analysis of Twitter interpersonal arguments, characteristics, goals, and stress. In J. E. Rosenbaum and G. Bouvier (Eds.), #Talking points: Twitter and civic debate (pp. 205-232). Palgrave-Macmillan. Johnson, A. J., Cionea, I. A., Bostwick, E. N., Bassick, M. A., & Lindsey, N. J. (2020). Writing about serial arguments: The effects of manipulating argument perspective. In C. Winkler (Ed.), Networking argument . Taylor and Francis. Cionea, I. A., Johnson, A. J., & Bostwick, E. N. (2019). Argument interdependence and its effects on serial argument goals and tactics in romantic relationships. Journal of Social and Personal Relationships, 36 , 1975-1995. doi:10.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Timothy Levine",
+   "title": "Professor and Chair",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://www.ou.edu/cas/comm/about/people/timothy-levine.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/cas/comm/about/people/timothy-levine/_jcr_content/content/section_1677070264_c/par/image.img.jpg/1777557494079.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professor Levine’s teaching and research interests include deception, interpersonal communication, persuasion and social influence, experimental research design, measurement validation, and statistical conclusions validity. He has published more than 160 journal articles. His research has been funded by the National Science Foundation, Department of Defense, and Department of Justice and has received press coverage from New York Times , Washington Post , NPR, NBC, CNN, Discovery Channel, and National Geographic . His book, Duped: Truth-Default Theory and the Social Science of Lying and Deception , published in 2020 by the University of Alabama Press, details his 30-year program of research on deception leading to the development and testing of Truth-Default Theory. Representative publications: Levine, T. R., & Shebib, S. J. (2025). Understanding Human Communication: Why Communication is Important and How to be Good at It . Cognella. (First Edition). Levine, T. R. (2024). The relative frequency of true and false confessions and denials in an experimental paradigm designed to investigate deception detection. Communication Studies, 75 , 362-376. doi.org/10.1080/10510974.2023.2285014 Levine, T. R., & Markowitz, D. M. (2024). The role of theory in researching and understanding human communication. Human Communication Research, 50 , 15-27. https://doi.org/10.1093/hcr/hqad037 . Serota, K. B., Levine, T. R., Zvi, L., Markowitz, D. M., & Docan-Morgan, T. (2024).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Musa Malik",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://www.ou.edu/cas/comm/about/people/musa-malik.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/cas/comm/about/people/musa-malik/_jcr_content/content/section_1677070264_c/par/image.img.jpg/1788980991092.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Malik is an Assistant Professor in the Department of Communication at the University of Oklahoma. His research examines how narratives shape the different ways in which people understand themselves, and those around them, with a particular focus on morality, representation, and human–technology interaction. Dr. Malik’s research takes a computational, multilevel approach, drawing on natural language processing, computer vision, audio signal processing, and functional brain imaging to study narrative phenomena across societal, behavioral, and neural levels. He is also interested in developing computational tools and methods that facilitate large-scale communication research. Dr. Malik’s research has appeared in journals including Communication Methods and Measures , Computational Communication Research , Journal of Language and Social Psychology , Journal of Media Psychology , Journal of Medical Internet Research , and NeuroImage . His work has also supported collaborations with industry and academic partners, including Snap Inc., the Annenberg Inclusion Initiative, and the Media Neuroscience Lab. Dr. Malik holds a Ph.D. and M.A. in Communication from the University of California, Santa Barbara, and a B.S. in Neuroscience from New York University Shanghai. Representative publications: Falcione, K., Malik, M. , Wheeler, B., & Weber, R. (2026). Neural trajectories of gaming disorder accounting for psychopathology: Insights from the longitudinal ABCD study.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Pat Meirick",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://www.ou.edu/cas/comm/about/people/pat-meirick.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/cas/comm/about/people/pat-meirick/_jcr_content/content/section_1677070264_c/par/image.img.jpg/1777556964400.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Pat Meirick is a professor in the Department of Communication specializing in political and mass communication. His research typically examines media effects on individuals, focusing on why people hold the attitudes and beliefs that they do. He has three main research areas: 1) People’s false beliefs about politics and health: What roles do partisanship, affective polarization, “fake news,” and partisan news media use play in explaining them? 2) People’s beliefs about the influence of media messages on others and on themselves: What explains these beliefs, and what consequences might they have? 3) Political advertising: How do message factors like sponsorship and negativity, as well as audience factors like partisanship and political knowledge, explain ad effects? Can ad watches influence the accuracy of political ad campaigns? He is the author, with Dr. Jill Edy, of A Nation Fragmented: The Public Agenda in the Information Age , which examines why the public that has a harder time agreeing on what the most important issue facing the country is – and what that might mean for democracy. His work has appeared in such venues as Journal of Communication, Communication Research, Political Communication, Public Opinion Quarterly, Journalism and Mass Communication Quarterly, Media Psychology, International Journal of Public Opinion Research, Mass Communication and Society, Social Science Quarterly, and Journal of Advertising . Dr.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Gretchen Montgomery-Vestecka",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://www.ou.edu/cas/comm/about/people/gretchen-montgomery.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/cas/comm/about/people/gretchen-montgomery/_jcr_content/content/section_1677070264_c/par/image.img.jpg/1777557287462.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Intergroup communication; Intercultural communication; Ethnolinguistic identity; Attitudes toward immigration Representative publications: Montgomery, G. , & Acheme, D. A. (2022). Processing fluency and inferred motive: L1 English users’ evaluations of non-standard accented speech. Journal of Language and Social Psychology . Advance online publication. https://doi.org/10.1177/0261927X221081010 Montgomery, G. , & Zhang, Y. B., & Imamura, M. (2021). The effects of Latino immigrants’ acculturation strategy and U.S. Americans’ assimilation attitudes on perceptions of accommodation satisfaction and willingness to communicate. International Journal of Intercultural Relations, 82 , 157-167. https://doi.org/10.1016/j.ijintrel.2021.03.008 Velasquez, A., & Montgomery, G. (2020). Social media expression as a collective strategy: How perceptions of discrimination and groups status shape US Latinos’ online discussions of immigration. Social Media + Society. https://journals.sagepub.com/doi/full/10.1177/2056305120914009 Velasquez, A., Montgomery, G. , & Hall, J. A. (2019). Ethnic minorities’ social media political use: How ingroup identification, selective exposure, and collective efficacy shape social media political expression. Journal of Computer-Mediated Communication, 24 , 147-164. doi: 10.1093/jcmc/zmz007 Montgomery, G. , & Zhang, Y. B. (2018). Intergroup anxiety and willingness to accommodate: Exploring the effects of accent stereotyping and social attraction.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "James Olufowote",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://www.ou.edu/cas/comm/about/people/james-olufowote.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/cas/comm/about/people/james-olufowote/_jcr_content/content/section_1677070264_c/par/image.img.jpg/1787236171590.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Olufowote is an associate professor in the Department of Communication at The University of Oklahoma (OU) and an adjunct of the Department of International and Area Studies at OU. He conducts research largely at the intersections of health communication and organizational communication. At these intersections, he earlier focused on physician preparation and practice of healthcare ethics. He now focuses on topics that revolve around the public health of marginalized communities: community-based organizing, the culture(s) of marginalized communities, and health activism. He primarily pursues these topics through two research projects on sub-Saharan Africa: polio vaccine resistance in northern Nigeria and HIV/AIDS prevention in Tanzania. He is currently serving on the editorial boards of the following academic journals: Communication Studies , Frontiers in Health Communication , Health Communication , and Management Communication Quarterly . His research is published in academic journals such as Communication Quarterly , Health Communication , Howard Journal of Communications , Qualitative Health Research , Management Communication Quarterly , Western Journal of Communication , and Journal of Language and Social Psychology . Dr. Olufowote teaches undergraduate and graduate courses such as Health Communication, Communication and Public Health, and Communication in Health Organizations.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Norman Wong",
+   "title": "Associate Professor, Director of Graduate Studies",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://www.ou.edu/cas/comm/about/people/norman-wong.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/cas/comm/about/people/norman-wong/_jcr_content/content/section_1677070264_c/par/image.img.jpg/1777557196800.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Wong is an Associate Professor of Health Communication. His areas of research primarily look at the intersections between health communication, mass communication, and social influence. Specifically, his research is focused on looking at how people process and respond to different theoretically-derived message strategies for communicating health-related information within a variety of mass-mediated contexts (e.g., television, Internet, social media), and across a wide range of health topics such as HPV vaccinations, tobacco cessation, binge drinking, cancer prevention, and relationship violence. Also, some of his recent works have examined the role entertainment media plays in shaping people’s beliefs and attitudes toward stigmatized health groups (e.g., those suffering a mental illness). Currently, he is working on developing and testing messages aimed at more effectively communicating the risks associated with e-cigarette products and reducing the onset of e-cigarette use (vaping) among young adult non-smokers. He is recognized for his expertise related to public health campaign communication. Dr. Wong's work has been presented at both national and international communication conferences and has published in high impact peer-reviewed journals such as Communication Monographs, Health Communication, Journal of Health Communication, Journal of Applied Communication Research, Communication Studies, and Communication Quarterly.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Andrea Miller",
+   "title": "Dean",
+   "rank": "Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/andrea-miller",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/andrea-miller/_jcr_content/content/section_791849516_co/par/image.img.png/1762284682065.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Andrea Miller is the Dean of the Gaylord College of Journalism and Mass Communication at the University of Oklahoma and the Sue Rainbolt Van Natta Chair in Journalism. Prior to that, she served as Dean of the Mayborn School of Journalism at the University of North Texas and Associate Dean for Undergraduate Studies and Administration in LSU’s Manship School of Mass Communication. Miller received her doctorate from the University of Missouri School of Journalism, her master’s degree from Texas Christian University and her undergraduate degree from Texas A&M University. Additionally, Miller was an award-winning television news producer for a decade. Miller has published articles on television news and crisis coverage in Journalism & Mass Communication Quarterly, Media Psychology, Visual Communication Quarterly, and the Journal of Contingencies and Crisis Management. Additionally, Miller has three books: Oil & Water (with Shearon Roberts and Victoria LaPoe, 2014) details the media lessons from Hurricane Katrina and the BP oil disaster, News Evolution or Revolution? (with Amy Reynolds, 2014) explores the future of the newspaper industry using the New Orleans Times-Picayune as a microcosm of the industry, and Public Relations and Journalism in Times of Crisis, A Symbiotic Partnership (with Jinx Broussard, 2019) includes communication case studies explored from both the public relations and journalistic perspectives.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Site title is 'Dean'; she holds the Sue Rainbolt Van Natta Chair in Journalism (endowed chair), so rank mapped to Professor per Dean/endowed-chair rule."
+  },
+  {
+   "name": "Elanie Steyn",
+   "title": "Associate Dean of Academic Affairs, Associate Professor, Gaylord Family Professor",
+   "rank": "Associate Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/elanie-steyn.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/elanie-steyn/_jcr_content/content/section_791849516_co/par/image.img.jpg/1637620490942.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Leadership",
+    "Management",
+    "Women in Leadership",
+    "Empowerment of Minority Communities",
+    "Scholarly Highlights",
+    "State Department partnerships in South Asia",
+    "OU Diplomacy Lab"
+   ],
+   "bio": "Steyn teaches in journalism, media management and business of media. Her research interests focus on women in media leadership, international media studies and media management. She has taught on these topics internationally and is the PI for several U.S. State Department and other grants on media and small business with South Asian countries. Prior to joining OU, Steyn conducted research for media and private sector businesses, government departments, universities and investment corporations in Africa and Europe. Steyn has published more than 30 peer-reviewed articles and/or chapters in textbooks, has read more than 50 conference papers and serves on review and editorial boards of academic journals. Before joining OU, she was a senior lecturer in the School of Communication Studies at the North-West University, Potchefstroom Campus in South Africa.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Doyle Yoon",
+   "title": "Professor, Director of Graduate Studies",
+   "rank": "Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/doyle-yoon.html",
+   "personal_url": "http://doyleyoon.oucreate.com/",
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/doyle-yoon/_jcr_content/content/section_791849516_co/par/image.img.jpg/1658866222066.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Doyle Yoon is a Professor and Director of Graduate Studies at Gaylord College. Yoon’s research explores brand experience, online information processing, customer relationship management, VR advertising, and attitudinal and behavioral studies on advertising effects. His research has been published in Psychology & Marketing, Journal of Communication, Journal of International Advertising, Journal of Marketing Communication, etc. He leads the Gaylord Digital Media Research Group, which investigates the effectiveness of new technology in advertising including the effectiveness of VR contents on consumers’ cognitive, attitudinal, and behavioral responses; the measurement of audiences’ attention to the YouTube pre-roll commercial using eye-tracking and survey methods in collaboration with industrial and system engineering scholars; and the effects of social media in terms of tie strength, regulatory focus, and as a business tool. Yoon teaches digital advertising and search engine marketing in the undergraduate level and quantitative research and seminar for brand experience with digital media in the graduate level. He also teaches media analytics as an adjunct faculty in the Data Science and Analytics Institute of the Gallogly College of Engineering. Yoon has served as a judge of international marketing and advertising competitions, including the Stevie International Business Awards, the One Show, and the Ad Stars.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ralph Beliveau",
+   "title": "Professor, Creative Media Production and Professional Writing Area Head",
+   "rank": "Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/ralph-beliveau.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/ralph-beliveau/_jcr_content/content/section_791849516_co/par/image.img.jpg/1637765821245.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Ralph Beliveau is a Professor for the Gaylord College, affiliate faculty in Film and Media Studies and Women’s and Gender Studies at the University of Oklahoma. For 2023-24, he serves as a Presidential Teaching Fellow in the Honors College. He writes and teaches about media education and literacy, Horror media, race, documentary, rhetorical criticism, video production, popular culture, & cultural studies. Recent work includes Digital Literacy: A Primer on Media, Identity, and the evolution of Technology 2 nd Edition, Screening #MeToo: Rape Culture in Hollywood, Gramsci and Media Literacy: Critically Thinking About TV and the Movies, and book chapters on Sharksploitation, Shirley Jackson, Sin-eating, The Wire and the entry for “Documentary” in the S age Encyclopedia of Journalism . At the University of Iowa he completed his Ph.D. and a program in Rhetoric of Inquiry, and received a B.S. in media production from Northwestern University. He ran an FM radio and cable television program while teaching at a high school on the Southwest side of Chicago, and worked in L.A. in independent film and television production. He served as editor of the Journal of Communication Inquiry , chair of the Cultural and Critical Studies division of the Association for Education in Journalism and Mass Communication and chaired the Student Documentary area for the Broadcast Education Association. He also has taught student groups in Edinburgh, London, Paris, Cardiff, and Arezzo.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Chang Sup Park",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/chang-sup-park",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/chang-sup-park/_jcr_content/content/section_791849516_co/par/image.img.jpg/1692399372684.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Park's research interests focus on how people engage in news and interact with journalists on social/mobile media, how newsrooms adopt and utilize artificial intelligence in the news production process, and how journalists adapt to rapidly changing technological environments. His work has appeared in prominent peer-reviewed journals, including Journalism and Mass Communication Quarterly , Journalism Studies , International Journal of Public Opinion Research , International Journal of Communication , Mass Communication and Society , Social Media + Society , and Journal of Broadcasting and Electronic Media among others. He has received extramural grants about automated journalism and South Korean drama.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ray Claxton",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/ray-claxton.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/ray-claxton/_jcr_content/content/section_791849516_co/par/image.img.jpg/1637765876526.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Ray Claxton is an associate professor of advertising and teaches art direction, visual communications, and creativity/design thinking. He has over 24 years of experience in the advertising, design, and marketing fields, and he’s created award-winning television, web, and interactive campaigns. Ray has taught design and advertising students in New York with various positions at Alfred University, Nazareth College, and Rochester Institute of Technology. After receiving his MFA in Graphic Design, he served as a Visiting Assistant Professor at Miami University in Oxford, Ohio. While there, he developed and was the Director of the Graphic Design Minor within the College of Creative Arts. He moved back to Oklahoma in 2017 and was a Visiting Assistant Professor at Oklahoma State University before coming to the University of Oklahoma and Gaylord College. He has an unhealthy obsession with ravens and pop culture, and is a superhero in an alternate reality.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kyle Bergersen",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/kyle-bergersen.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/kyle-bergersen/_jcr_content/content/section_791849516_co/par/image.img.jpg/1637764567426.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "For the last 15 years, Kyle has worked as a commercial director/cameraman shooting spots for Budweiser, Circle K, Honda, Toyota, Alamo Car Rental and many more. His advertising awards include a One Show Gold Pencil, Creativity Annual, Belding, Addy, Andy, Lulu, Golden Ollie, London Int'l Advertising Award and New York Festivals. A proud member of the WGA/W, Kyle has had writing deals with Dreamworks Animation, CBS, Touchstone TV, USA Network and Castlerock Entertainment (in association with Sandra Bullock's Fortis Films). His indie feature, Love Comes To The Executioner , is a dark comedy featuring Jeremy Renner (Academy Award nominee for \"Hurt Locker), Ginnifer Goodwin (Big Love) and Jonathan Tucker (Texas Chainsaw Massacre). Released by ThinkFilm, it aired on Showtime and Starz and is still available on Netflix. Check out Bergerson's profile at IMDB .",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Scott Hodgson",
+   "title": "Professor, Gaylord Family Research Professor",
+   "rank": "Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/scott-hodgson.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/scott-hodgson/_jcr_content/content/section_791849516_co/par/image.img.jpg/1637766427068.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Prior to coming to OU, Hodgson worked as a producer/director in New York, Illinois, Pennsylvania and Washington, D.C. for several full service production houses, in-house corporate video facilities and CNN's Washington bureau. He has also worked overseas helping develop local programming and training personnel in Egypt, Ethiopia, Nepal and Bangladesh. From 1988-2006 he served on the faculty and administration at SIU where he also ran a grant production unit and was executive producer of a local PBS series. In 2001 Hodgson was selected by Producer magazine as one of the top 100 producers in the nation. Scott continues to produce and direct and has won numerous national and international awards. Scott Hodgson Vimeo Profile",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Site title 'Professor, Gaylord Family Research Professor' (primary rank Professor)."
+  },
+  {
+   "name": "Christine Delp",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/christine-delp.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/christine-delp/_jcr_content/content/section_791849516_co/par/image.img.jpg/1791392350328.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Christine Delp is an Assistant Professor in Gaylord College, specializing in Creative Media Production. As a media sociologist and documentary filmmaker, her work bridges theory and practice through teaching, research, and creative production within the nonfiction media industries. Her research interests include media industries, documentary film, streaming video, production cultures, and media ethics. Her current research examines how the rise of streaming video services and platforms is reshaping the U.S. documentary film industry. She holds a Ph.D. in Sociology from the University of Minnesota, where she held an NSF Graduate Research Fellowship, and a B.A. from Duke University. Passionate about public and applied research, she also collaborates with documentary funding organizations on research and evaluation related to documentary distribution and ethics. Christine is also an award-winning documentary filmmaker. Most recently, she produced the Critics Choice, News & Documentary Emmy, and International Documentary Association-nominated documentary series BURDEN OF PROOF (HBO), as well as the documentary feature MAGIC & MONSTERS, which was named a runner-up for the Library of Congress Ken Burns/Lavine Prize for Film. She also directed and produced the documentary short SANTUARIO (PBS, Al Jazeera) and the fiction short PICKUP, which premiered at the New Orleans Film Festival.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Mike Boettcher",
+   "title": "Nicole and Evan H. Katz Endowed Professor of Journalism",
+   "rank": "Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/mike-boettcher.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/mike-boettcher/_jcr_content/content/section_791849516_co/par/image.img.jpg/1637765557409.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Veteran network news correspondent, Mike Boettcher, has been recognized with journalism’s top awards for his coverage of events that shaped the world since 1980. He also helped launch the era of 24-hour live news coverage when on June 1, 1980, he performed the first live satellite report for a fledgling network called CNN. In a three-decade network career Boettcher received national recognition in all facets of broadcast journalism – breaking news, feature, war coverage and investigative reporting. He was also recognized for his investigations of the world’s most dangerous terrorist groups. As the chief correspondent for CNN’s terrorism investigation unit, a team he created in the summer of 2001, Boettcher was awarded a Peabody, his third of four National Emmys and a National Headliner award. Boettcher is frequently asked to lecture on the subject of terrorism and journalism at some of the world’s top institutions and corporations, including London’s Royal United Services Institute, Sweden’s National Defense College, Scotland’s St. Andrews University, West Point’s Senior Leaders Conference, U.S. Army Europe, U.S. Army War College, The Aerospace Industries Association and the General Dynamics Corporation. In three decades of assignments covering world conflict for NBC News and CNN, he has witnessed, investigated and been a victim of terrorism himself. He was kidnapped and threatened with execution in El Salvador in 1985.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Title is an endowed professorship (mapped to Professor); profile describes a career network news correspondent, so this may be a professional/practice appointment rather than a research line."
+  },
+  {
+   "name": "David Craig",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/david-craig.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/david-craig/_jcr_content/content/section_791849516_co/par/image.img.jpg/1649942173680.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "David A. Craig is Interim Dean and Professor in the Gaylord College. He teaches journalism ethics, editing and graduate research courses. He is the author of Excellence in Online Journalism: Exploring Current Practices in an Evolving Environment (Sage, 2011) and The Ethics of the Story: Using Narrative Techniques Responsibly in Journalism (Rowman & Littlefield, 2006). His research interests include excellence in journalistic practice in new and old media, the ethics of journalistic language, coverage of ethics in professions and values for ethical decision-making. Craig worked for nine years as a news copy editor at the Lexington (Ky.) Herald-Leader . Craig earned a B.S. in journalism from Northwestern University, an M.A. in communication from Wheaton College and a Ph.D. in journalism from the University of Missouri-Columbia. He taught editing courses at Northwestern and Missouri. Craig has been a professor at the University of Oklahoma since 1996. He was director of graduate studies in the Gaylord College for nine years and has been associate dean for three years. He was recently awarded a President's Associates Presidential Professorship by the university. Related News View All News",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Robert Kerr",
+   "title": "Gaylord Family Professor, Edith Kinney Gaylord Presidential Professor",
+   "rank": "Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/robert-kerr.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/robert-kerr/_jcr_content/content/section_791849516_co/par/image.img.jpg/1637766059975.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Robert Kerr is a professor at Gaylord College. Kerr's First Amendment research focuses on legal and public-policy issues involved in maintaining a truly free marketplace of ideas for citizens in an age when corporate and government voices have grown more powerful than ever. His secondary research agenda focuses on media narratives influential in shaping the course of sports-media history. He was the most honored participant over the first decade of this millennium in national research competitions of the Association for Education in Journalism and Mass Communication, a 2010 Musambira and Nesta study documented. Kerr teaches Media Law and Media History at OU. Gaylord College students have twice voted him recipient of the Gaylord College Teaching Award. He has been named a Presidential Professor by OU and the winner of the National Communication Association's Franklyn S. Haiman Award for Distinguished Scholarship in Freedom of Expression. He was the keynote speaker at the 2019 Oklahoma County Bar Association’s annual Law Day Banquet. Among his four scholarly books, The Corporate Free-Speech Movement: Cognitive Feudalism and the Endangered Marketplace of Ideas (2008), foreshadowed the 2008 economic crisis in global markets, as well as the 2010 Supreme Court ruling in Citizens United v. FEC that removed virtually all limits on corporate media spending in political-candidate campaigns.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Glenn Leshner",
+   "title": "Presidential Professor",
+   "rank": "Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/glenn-leshner.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/glenn-leshner/_jcr_content/content/section_791849516_co/par/image.img.jpg/1681792183572.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Leshner’s research informs communication regulatory science (CRS), focused on the study of cognitive and emotional processing of media, particularly in the context of health messages. He currently directs the OU PRIME Lab (Psychological Responses to Information and Media Effects), located in the Center for Applied Social Research at the University of Oklahoma. Leshner and his students conduct cutting-edge research in the OU PRIME, which incorporates psychophysiological measures (e.g., heart rate, skin conductance, facial expression analysis, eye tracking) to the study of media processing and effects. He has produced more than 170 articles, book chapters, and conference papers, and has published in top journals such as Communication Research, Media Psychology, Journalism & Mass Communication Quarterly, Journal of Broadcasting & Electronic Media, and Health Communication. Prior to arriving at OU in 2015, he served more than 20 years on the faculty of the Missouri School of Journalism. Leshner received his Ph.D. From Stanford University, his M.M.C. from the University of South Carolina, and his B.A. from Rutgers University. Check out his research lab at OU PRIME Lab: ou.edu/gaylord/primelab",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Also listed as 'Special Faculty' (affiliate member) in the Department of Communication; home unit is Gaylord College."
+  },
+  {
+   "name": "John Schmeltzer",
+   "title": "Professor, Engleman/Livermore Professor in Community Journalism",
+   "rank": "Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/john-schmeltzer.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/john-schmeltzer/_jcr_content/content/section_791849516_co/par/image.img.jpg/1637621575065.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Pulitzer Prize-winning journalist John Schmeltzer is the Engleman/Livermore Professor in Community Journalism. The Engleman/Livermore Professorship was established by Charles and Jean Engleman and Ed Livermore, Sr. to support the development of future publishers and leaders in community journalism. Schmeltzer held numerous positions during his 35-year career at the Chicago Tribune from political writer during the mid-1970s to assistant business editor in 2008. He was instrumental in expanding the readership of the Tribune by developing a suburban version of the newspaper for which he served as associate metropolitan editor from 1976 to 1991. From 1997 to 2003, he covered the aerospace industry and covered many of the events that led to the Tribune being awarded a Pulitzer Prize in 2001. In recent years, Schmeltzer has worked to expand readership through social media and online newspaper editions. In addition to the Pulitzer, Schmeltzer also was a finalist for the UCLA Anderson School of Management Gerald Loeb Award for business journalism, three awards from the Chicago Headline Club and was awarded the Distinguished Service award from his almamater, Northern Illinois University in 2002.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Melanie Wilderman",
+   "title": "Associate Professor, Executive Director of Oklahoma Scholastic Media",
+   "rank": "Associate Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/melanie-wilderman.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/melanie-wilderman/_jcr_content/content/section_791849516_co/par/image.img.jpg/1637765175748.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Melanie Wilderman is a Gaylord College alumna with a B.A. and M.A. in journalism. She has worked in newspapers as both a reporter and designer and began teaching as an adjunct in 2004 for the Gaylord College as well as Oklahoma City Community College and Oklahoma State University. In 2005 she was hired as an instructor of mass communication and adviser to the student newspaper at Northwestern Oklahoma State University in Alva. She was honored with the John Sheffield Teacher of the Year award there in 2009, and she was also honored state-wide in 2012 as the SPJ Oklahoma Chapter Teacher of the Year shortly before coming back to Gaylord College as full-time faculty in 2013 where she teaches writing for media and multimedia journalism classes, among others. Wilderman has stayed active as a freelance writer for several Oklahoma publications, including Oklahoma Living, Luxiere Oklahoma and Norman Transcript Magazine. She has also written several stage plays that have been produced in the Oklahoma City area as well as many award-winning short film scripts. She was honored with the Randal Greenland Screenwriter of the Year award at the 2019 Austin Revolution Film Festival. She completed an Ed.D. in 2017 at Oklahoma State University in the Higher Education Leadership & Administration program. Research areas of interest include, scholastic and collegiate journalism education, service learning, and community journalism.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Rachel Patterson",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/rachel-patterson.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/rachel-patterson/_jcr_content/content/section/par/image_copy.img.jpg/1689790874076.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Rachel Patterson is an author, an Oklahoma native, and a graduate of the University of Central Oklahoma. Under the name Rachel Vincent, she has published thirty-three novels and assorted short fiction for both teens and adults with Random House, Harper Collins, Bloomsbury, Mira Books, and Harlequin Teen. Internationally, Rachel's novels have been published in sixteen countries and eleven languages. Her books have appeared on the New York Times and USA Today bestseller list, received starred reviews, been chosen for multiple state reading lists, selected as a VOYA Perfect Ten, YALSA Best Books For Young Adults, New York Public Library Best Books For Teens, and as a finalist for the Oklahoma Book Award.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Tobi Ogundiran",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/tobi-ogundiran",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/tobi-ogundiran/_jcr_content/content/section_791849516_co/par/image.img.jpg/1757342478143.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": ", as well as in several educational and Year's Best anthologies. Ogundiran's work has been taught in colleges across America and internationally. He is a recipient of the British Fantasy and Ignyte Awards and has been been a finalist for the Shirley Jackson, British Science Fiction Association and Nommo awards. He has written for the Overwatch and Magic: The Gathering universes. His work has been featured twice on the hit podcast LeVar Burton Reads. Ogundiran is particularly interested in Comparative Mythology, Speculative Fiction with an afrocentric viewpoint, and culture specific storytelling. He has an MD from Penza State University and an MFA from the University of Mississippi.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jensen Moore",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/jensen-moore.html",
+   "personal_url": "https://jensenmoore.weebly.com/",
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/jensen-moore/_jcr_content/content/section_791849516_co/par/image.img.jpg/1771362608261.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital Media",
+    "Health Communication",
+    "Crisis Communication",
+    "Highlights"
+   ],
+   "bio": "Jensen Moore, Ph.D. is an associate professor of public relations at the Gaylord College of Mass Communication where she teaches public relations principles, origins, and practice, crisis communication, social media strategies, public relations campaigns, sports promotion, strategic communication for nonprofits, and contemporary issues in public relations. Dr. Moore’s primary research interests are at the intersection of social media, crisis communication, and health communication. Specifically, her current research focuses on how individuals grieve using social networking sites. This line of research examines personal loss, grief following natural disasters (tornadoes, floods, hurricanes, etc.) and grief following man-made disasters (mass shootings, bombings, etc.). Additionally, she examines how individuals and organizations use social media for information sharing and information-seeking following man-made and natural disasters. To date, Moore has published more than 30 journal articles, book chapters, and refereed proceedings and presented more than 55 papers at research conferences. Dr. Moore is the 2023 Chair of the Public Relations Society of America (PRSSA) Educators Academy. She also serves on the International Public Relations Research Conference Advisory Committee and is a member of Champions for PRSSA. She is the former Head of the Mass Communication and Society Division of the Association for Educators in Journalism and Mass Communication (2015-2016). Dr.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Katerina Tsetsura",
+   "title": "Gaylord Family Professor, Professor",
+   "rank": "Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/katerina-tsetsura.html",
+   "personal_url": "https://www.katerinatsetsura.com/",
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/katerina-tsetsura/_jcr_content/content/section_791849516_co/par/image.img.png/1638992015460.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Katerina Tsetsura, Ph.D., is Gaylord Family Professor of Public Relations and Strategic Communication at the Gaylord College of Journalism and Mass Communication at the University of Oklahoma in the USA. Dr. Tsetsura is internationally known for her work in global public relations and media transparency. She is a co-author of “ Transparency, public relations, and the mass media: Combating hidden influences in news coverage worldwide ” (2017, Taylor & Francis) and co-editor of “ Strategic Communications in Russia: Public Relations and Advertising ” (2021, Taylor & Francis). Tsetsura has over 80 peer-reviewed publications. Her research areas include studying knowledge societies in transition, global public relations development, global public relations ethics, media transparency, social construction of public relations, public diplomacy and government relations, and understanding and enhancing community resilience. Dr. Katerina Tsetsura actively serves the profession of public relations in various roles. Currently, she serves as a Research Chair, an elected officer role with the Public Relations Division of NCA. Previously, Tsetsura served as Chair of PR Divisions of ICA and NCA, Chair of the Global Affairs Committee of Public Relations Society of America (PRSA), and a secretary of the PR Division of AEJMC. Tsetsura is a long-standing member of the U.S.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jiun-Yi (Jenny) Tsai",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/jiun-yi-tsai",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/jiun-yi-tsai/_jcr_content/content/section_791849516_co/par/image.img.jpg/1757341973075.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Tsai employs a wide range of empirical methods, including quantitative approaches such as surveys, field experiments, and content analysis; qualitative approaches such as interviews and focus groups; as well as mixed-method and computational analyses. She has served as Principal Investigator or Co-Investigator on several externally funded projects, with support from organizations such as the National Institutes of Health (NIH), the NCAA–Department of Defense, and the Online News Association. She actively contributes to the AEJMC Public Relations Division, serving as Co-Chair of the Research Committee, Chair of the Teaching Committee, and Program Planning Chair for the APHA Health Communication Working Group. Beyond her scholarly activities, she enjoys teaching public relations case studies, campaigns, and social media analytics, as well as mentoring emerging researchers.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Xiaochen Angela Zhang",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/xiaochen-angela-zhang.html",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/xiaochen-angela-zhang/_jcr_content/content/section_791849516_co/par/image.img.jpg/1637766738295.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Xiaochen Angela Zhang (Ph.D., University of Florida) is an associate professor in public relations. Her research interests lie in how crisis and risk communication can be optimized across complex social and institutional networks. Her overall research goal is to develop a better understanding of how organizational communication can be more responsive to stakeholder and general public needs. Her research aims at understanding 1) how to leverage communication to increase individual and community resilience in disaster events, 2) how diverse publics process crisis and risk information and how to optimize risk and hazard communication, and 3) ethical organizational communication for strategic crisis management. Dr. Zhang recently received the National Science Foundation (NSF) Faculty Early Career Development Program (CAREER) award ($520,000) to study the construction and communication of social and transactive knowledge networks for disaster community resilience. Over a 5-year span (2023-2028), Dr. Zhang is studying how relationships and communication among non-profits, community groups and local government agencies can improve disaster resilience, resource allocation, and emergency management by enabling direct and lateral organizational interactions. Dr.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Junho Park",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Gaylord College of Journalism and Mass Communication",
+   "profile_url": "https://www.ou.edu/gaylord/about/faculty-and-staff/junho-park",
+   "personal_url": null,
+   "photo_url": "https://www.ou.edu/content/gaylord/about/faculty-and-staff/junho-park/_jcr_content/content/section_791849516_co/par/image.img.jpg/1792517629211.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Junho Park (Ph.D., Florida State University) is an Assistant Professor of Public Relations in the Gaylord College of Journalism and Mass Communication. His research examines cognitive, emotional, and behavioral responses to mediated messages, with a particular emphasis on how communication strategies shape attitudes, beliefs, and behaviors in contexts of health and social consequence, including physical and mental health and risky behaviors such as gambling. His research primarily uses quantitative research methods that combine self-report and psychophysiological measures (e.g., heart rate, skin conductance, facial EMG, and eye tracking). Through this work, he aims to advance theory while generating practical insights for promoting people's health and well-being. His most recent study, published in $Addictive Behaviors$, examined how paid-partnership disclosures in influencer posts affect audience responses to oral nicotine pouch advertising on social media.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  }
+ ]
+}

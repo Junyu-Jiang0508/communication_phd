@@ -63,7 +63,7 @@ import meta from '../data/meta.json';
   .how p { margin-top: 14px; }
   .results-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px; margin-bottom: 12px; }
   .prog { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 12px; padding: 14px; background: var(--bg-2); border: 1px solid var(--line); border-radius: var(--radius-lg); }
-  .prog h3 { font-size: 1.05rem; }
+  .prog .prog-title { font-size: 1.05rem; }
   .prog .top { margin-top: 8px; display: grid; gap: 4px; font-size: 0.875rem; color: var(--ink-2); }
   .prog .top span b { font-weight: 600; color: var(--ink); }
   .prog .side { display: grid; justify-items: end; gap: 6px; align-content: start; }
@@ -169,7 +169,7 @@ import meta from '../data/meta.json';
       if (shown < last.length) body += `<div style="text-align:center;margin-top:14px"><button type="button" class="btn" id="more">${t('load_more', { n: Math.min(30, last.length - shown) })}</button></div>`;
     } else {
       const rows = programFit(last, P);
-      body = `<div class="rows">${rows.map((r) => `<article class="prog"><div><h3><a href="${withBase('programs/' + r.p.slug + '/')}">${esc(r.p.name)}</a></h3><div class="small muted">${esc(r.p.city)}, ${esc(r.p.state)} · ${t('faculty_n', { n: r.p.n })}${r.p.shanghai ? ` · ${t('shanghai')} #${esc(r.p.shanghai)}` : ''}</div><div class="top">${r.top.map((s) => `<span><button type="button" class="open-person btn quiet sm" data-id="${esc(s.f.id)}" style="padding:0;height:auto"><b>${esc(s.f.name)}</b></button> · ${esc(s.f.rank)} · ${Math.round(s.score * 100)}</span>`).join('')}</div></div><div class="side">${scoreHtml(r.fit)}<span class="small muted">${r.n} ${t('matches')}</span></div></article>`).join('')}</div>`;
+      body = `<div class="rows">${rows.map((r) => `<article class="prog"><div><h2 class="prog-title"><a href="${withBase('programs/' + r.p.slug + '/')}">${esc(r.p.name)}</a></h2><div class="small muted">${esc(r.p.city)}, ${esc(r.p.state)} · ${t('faculty_n', { n: r.p.n })}${r.p.shanghai ? ` · ${t('shanghai')} #${esc(r.p.shanghai)}` : ''}</div><div class="top">${r.top.map((s) => `<span><button type="button" class="open-person btn quiet sm" data-id="${esc(s.f.id)}" style="padding:0;height:auto"><b>${esc(s.f.name)}</b></button> · ${esc(s.f.rank)} · ${Math.round(s.score * 100)}</span>`).join('')}</div></div><div class="side">${scoreHtml(r.fit)}<span class="small muted">${r.n} ${t('matches')}</span></div></article>`).join('')}</div>`;
     }
     results.innerHTML = head + body;
     results.querySelectorAll<HTMLButtonElement>('[data-view]').forEach((b) => b.addEventListener('click', () => { view = b.dataset.view as any; render(); }));

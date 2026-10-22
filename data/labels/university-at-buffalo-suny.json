@@ -1,0 +1,1243 @@
+{
+  "slug": "university-at-buffalo-suny",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Laura M. Arpan",
+      "summary": "Studies attitudes, persuasion, and motivated reasoning in how people respond to pro-environmental and health messages and adopt sustainable energy technologies.",
+      "summary_zh": "研究人们如何回应环保与健康信息、如何采纳可持续能源技术，关注态度、说服与动机性推理。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "persuasion",
+        "attitudes",
+        "motivated reasoning",
+        "pro-environmental messages",
+        "sustainable energy",
+        "energy technology adoption",
+        "health messages",
+        "sustainability"
+      ]
+    },
+    {
+      "name": "Thomas Feeley",
+      "summary": "Measures and tests social influence processes in health and organizational contexts, including campaign effects on attitudes, organ donation education, and bibliometrics of academia.",
+      "summary_zh": "在健康与组织情境中测量和检验社会影响过程，包括传播运动对态度的效果、器官捐献教育以及学术界的文献计量研究。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ADMIN_LARGE_SCALE",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "social influence",
+        "health campaigns",
+        "attitude change",
+        "organ donation",
+        "kidney transplantation",
+        "bibliometrics",
+        "meta-analysis",
+        "faculty hiring networks",
+        "measurement"
+      ]
+    },
+    {
+      "name": "Mark Frank",
+      "summary": "Studies nonverbal communication, especially facial expressions, emotion, and deception detection in real-world settings, using the Facial Action Coding System.",
+      "summary_zh": "研究非语言传播，尤其是现实情境中的面部表情、情绪与欺骗识别，采用面部动作编码系统（FACS）。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "nonverbal communication",
+        "facial expressions",
+        "deception detection",
+        "facial action coding system",
+        "emotion",
+        "lie detection",
+        "intergroup aggression"
+      ]
+    },
+    {
+      "name": "Melanie Green",
+      "summary": "Develops transportation theory to explain how narratives and fiction shape real-world attitudes and behavior, applying it to health, prosocial outcomes, and women in STEM.",
+      "summary_zh": "发展叙事传输理论，解释叙事与虚构故事如何影响现实中的态度和行为，并应用于健康、亲社会结果及STEM领域女性议题。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "narrative persuasion",
+        "transportation theory",
+        "narrative transportation",
+        "fiction",
+        "prosocial narratives",
+        "self-compassion",
+        "women in stem",
+        "social media and interpersonal interaction"
+      ]
+    },
+    {
+      "name": "Lindsay Hahn",
+      "summary": "Studies how morally laden entertainment media affect children's social attitudes and examines moral appeals in extremist propaganda and mass shooter statements via content analysis.",
+      "summary_zh": "研究富含道德内容的娱乐媒介如何影响儿童的社会态度，并通过内容分析考察极端主义宣传和大规模枪击者陈述中的道德诉求。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "morality",
+        "moral media",
+        "children and media",
+        "entertainment media",
+        "violent extremism",
+        "radicalization",
+        "terrorist propaganda",
+        "mass shooters",
+        "moral lessons"
+      ]
+    },
+    {
+      "name": "Nojin Kwak",
+      "summary": "Examines how social media, mobile phones, and other digital platforms shape civic engagement, deliberative openness, political persuasion, and political participation.",
+      "summary_zh": "考察社交媒体、移动电话等数字平台如何影响公民参与、协商开放性、政治说服与政治参与。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "civic engagement",
+        "political participation",
+        "social media use",
+        "mobile telephony",
+        "deliberation",
+        "cross-cutting political discussion",
+        "selective exposure",
+        "incidental exposure",
+        "political persuasion"
+      ]
+    },
+    {
+      "name": "David Lee",
+      "summary": "Studies how everyday social interactions, social support, relationship construals, and social media use influence well-being and health, drawing on social psychology.",
+      "summary_zh": "借助社会心理学视角，研究日常社会互动、社会支持、关系认知与社交媒体使用如何影响幸福感与健康。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "personal_site"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "personal_site"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "personal_site"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "personal_site"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "social support",
+        "well-being",
+        "social relationships",
+        "social media use",
+        "relationship construals",
+        "everyday social interaction",
+        "social cognition",
+        "goal pursuit"
+      ]
+    },
+    {
+      "name": "Yotam Ophir",
+      "summary": "Studies misinformation, conspiracy theories, extremism, and public perceptions of science using surveys, experiments, and computational and network-based content analysis.",
+      "summary_zh": "研究虚假信息、阴谋论、极端主义与公众对科学的认知，采用调查、实验以及计算与网络分析驱动的内容分析。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "misinformation",
+        "conspiracy theories",
+        "extremism",
+        "science communication",
+        "public perceptions of science",
+        "computational content analysis",
+        "network analysis",
+        "persuasion",
+        "media effects"
+      ]
+    },
+    {
+      "name": "Arthur A. Raney",
+      "summary": "Studies why audiences enjoy and appreciate entertainment, the role of morality and moral emotions, and how eudaimonic, self-transcendent media experiences foster well-being.",
+      "summary_zh": "研究受众为何享受和欣赏娱乐内容、道德与道德情绪的作用，以及意义型与自我超越型媒介体验如何促进幸福感。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "entertainment theory",
+        "media enjoyment",
+        "appreciation",
+        "moral emotions",
+        "eudaimonic media",
+        "self-transcendent experiences",
+        "positive media psychology",
+        "well-being",
+        "sports fandom"
+      ]
+    },
+    {
+      "name": "Lance Rintamaki",
+      "summary": "Studies stigma management, social support in chronic illness, and sexual communication between partners, linking communication theory to health behavior outcomes.",
+      "summary_zh": "研究污名管理、慢性病中的社会支持以及伴侣间的性沟通，将传播理论与健康行为结果相联系。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "stigma management",
+        "chronic illness",
+        "social support",
+        "hiv",
+        "sexual communication",
+        "sexual negotiation",
+        "uncertainty management",
+        "health behavior",
+        "shared decision-making"
+      ]
+    },
+    {
+      "name": "Robin Schulze",
+      "summary": "Studies strategic storytelling and the structures of effective narrative, drawing on textual scholarship and American literature, with attention to storytelling in an age of AI.",
+      "summary_zh": "研究战略性讲故事与有效叙事结构，借鉴文本学与美国文学研究，并关注人工智能时代的叙事。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "strategic storytelling",
+        "narrative thinking",
+        "storytelling structure",
+        "textual scholarship",
+        "american literature",
+        "ai and storytelling"
+      ]
+    },
+    {
+      "name": "Michael A. Stefanone",
+      "summary": "Studies computer-mediated communication and social media use, examining effects on relationships, social capital, network awareness, selfie behavior, and online grieving.",
+      "summary_zh": "研究计算机中介传播与社交媒体使用，考察其对人际关系、社会资本、网络感知、自拍行为与网络哀悼的影响。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_NETWORK",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "computer-mediated communication",
+        "social media",
+        "social capital",
+        "network awareness",
+        "selfies",
+        "online grieving",
+        "social cognitive theory",
+        "social networks"
+      ]
+    },
+    {
+      "name": "Kelly Tenzek",
+      "summary": "Uses qualitative methods to study difficult dialogues in health and interpersonal contexts, especially end-of-life communication, aging, and medication safety in local communities.",
+      "summary_zh": "运用质性方法研究健康与人际情境中的艰难对话，尤其是临终沟通、老龄化以及社区中的用药安全。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "end-of-life communication",
+        "difficult dialogues",
+        "hospice",
+        "aging",
+        "older adults",
+        "medication safety",
+        "qualitative content analysis",
+        "death and dying"
+      ]
+    },
+    {
+      "name": "Frank Tutzauer",
+      "summary": "Applies game theory, social network analysis, and mathematical modeling to strategic dynamics in conflict resolution, bargaining, and negotiation.",
+      "summary_zh": "运用博弈论、社会网络分析和数学建模研究冲突解决、讨价还价与谈判中的策略动态。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "social network analysis",
+        "game theory",
+        "nash bargaining",
+        "prisoner's dilemma",
+        "conflict resolution",
+        "negotiation",
+        "mathematical modeling",
+        "two-mode networks",
+        "chaos theory"
+      ]
+    },
+    {
+      "name": "Hua \"Helen\" Wang",
+      "summary": "Designs and evaluates entertainment-education and storytelling interventions for health promotion and social change with underserved communities around the world.",
+      "summary_zh": "与全球各地的弱势群体合作，设计并评估用于健康促进与社会变革的娱乐教育和讲故事干预项目。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "entertainment-education",
+        "social and behavior change communication",
+        "sexual and reproductive health",
+        "gender-based violence",
+        "intervention design",
+        "program evaluation",
+        "storytelling",
+        "eco-anxiety",
+        "climate solutions",
+        "metahumans"
+      ]
+    },
+    {
+      "name": "Janet Yang",
+      "summary": "Studies how risk perception shapes communication behavior and decisions on climate change, PFAS pollution, vaccination, and recycling, using surveys and survey experiments.",
+      "summary_zh": "研究风险感知如何影响人们在气候变化、PFAS污染、疫苗接种和回收等议题上的传播行为与决策，采用调查与调查实验。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "risk perception",
+        "risk communication",
+        "pfas",
+        "climate change",
+        "vaccination",
+        "covid-19",
+        "plastic recycling",
+        "trust in science",
+        "survey experiments"
+      ]
+    },
+    {
+      "name": "Yini Zhang",
+      "summary": "Studies political discourse on social media and public trust in AI, using computational and experimental methods to analyze how platforms and AI shape the information ecology.",
+      "summary_zh": "研究社交媒体上的政治话语及公众对人工智能的信任，运用计算与实验方法分析平台和人工智能如何塑造信息生态。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "social media",
+        "political discourse",
+        "artificial intelligence",
+        "trust in ai",
+        "ai-generated content",
+        "computational social science",
+        "alt-tech platforms",
+        "truth social",
+        "keyword selection",
+        "opinion expression"
+      ]
+    },
+    {
+      "name": "Yanmengqian (Alison) Zhou",
+      "summary": "Studies persuasive health and risk messages and social support, especially how conflicting advice and recommendations affect attitudes, decisions, and behavior.",
+      "summary_zh": "研究健康与风险说服信息及社会支持，尤其关注相互矛盾的建议和推荐如何影响态度、决策与行为。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "conflicting health messages",
+        "advice",
+        "persuasion",
+        "social support",
+        "health campaigns",
+        "covid-19",
+        "vaccine hesitancy",
+        "risk communication",
+        "misinformation"
+      ]
+    }
+  ]
+}

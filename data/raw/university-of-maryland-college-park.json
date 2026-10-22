@@ -1,0 +1,842 @@
+{
+ "university": "University of Maryland, College Park",
+ "slug": "university-of-maryland-college-park",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "Department of Communication",
+   "school": "College of Arts and Humanities",
+   "directory_url": "https://communication.umd.edu/people-directory",
+   "phd_program_url": "https://communication.umd.edu/academics/graduate/PHD",
+   "phd_program_name": "Ph.D. in Communication",
+   "notes": "Drupal directory filtered with ?name=Faculty (4 pages, 32 entries); 26 tenure-line kept. Excluded 2 clinical professors, 1 principal lecturer, 1 research associate professor, 2 emeriti. Unfiltered directory also lists affiliate professors (home in Psychology, Kinesiology, iSchool) and emeriti, all excluded."
+  },
+  {
+   "name": "Philip Merrill College of Journalism",
+   "school": null,
+   "directory_url": "https://merrill.umd.edu/about/faculty-and-staff",
+   "phd_program_url": "https://merrill.umd.edu/degrees-programs/phd-program",
+   "phd_program_name": "Ph.D. in Journalism Studies",
+   "notes": "Single page with Leadership/Faculty/Staff/Adjunct/Emeritus sections; Leadership + Faculty sections scanned (44 entries); 16 tenure-line kept. Excluded professors of the practice, lecturers, visiting professor, bureau directors, deans without professor rank, emeriti."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Briana Barner",
+   "title": "Assistant Professor, Communication; Affiliate Faculty , The Harriet Tubman Department of Women, Gender, and Sexuality Studies; Affiliate Faculty, American Studies",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/briana-barner",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2023-08/0.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital Media",
+    "Gender",
+    "Race/Ethnicity",
+    "Sexuality"
+   ],
+   "bio": "Dr. Briana Barner is an Assistant Professor in the Department of Communication at the University of Maryland. She received a doctorate in Radio-Television-Film and a doctoral portfolio in Women’s and Gender Studies from the University of Texas. Briana also earned a Master’s in Women’s and Gender Studies from UT. She is an interdisciplinary critical and cultural communications scholar with research interests in Black podcasts, digital and Black feminism, digital media, Black cultural production and representation. Her work has been published in Radio Journal: International Studies in Broadcast & Audio Media, Film Quarterly, and the edited collection Saving New Sounds: Podcast Preservation and Historiography, Feminist Approaches to Media Theory and Research and Black Sisterhoods: Paradigms and Praxis. Briana is currently working on a manuscript about the cultural production of Black podcasts.\nSelected publications: Publications | Diversifying the Space of Podcasting: Access, Identity, and Reflective Practices | ‘Our pain prioritized for once’: Survivor-centred Black podcasts reckoning with Surviving R. Kelly | The Postdoc Journey: A Space For Radical Reflection | Service & Outreach | Buy Black: How Black Women Transformed US Pop Culture- A Conversation with Aria S. Halliday.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Becca Beets",
+   "title": "Assistant Professor, Communication",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/becca-beets",
+   "personal_url": "https://beccabeets.com/",
+   "photo_url": "https://communication.umd.edu/sites/default/files/2024-08/becca_beets-becca-beets.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Becca Beets is an Assistant Professor of Science Communication and New Media in the Department of Communication at the University of Maryland. Her research focuses on communication and perceptions of emerging areas of science, particularly the intersections between publics’ attitudes towards science, engagement, and communication in new media environments. As a mixed-methods researcher, Becca’s work involves using both qualitative and quantitative approaches. Her current research explores these topics in the context of scientific uncertainty. Becca’s research has been published in academic journals such as Public Understanding of Science, Journal of Risk Research, Journal of Science Communication, Journal of Medical Internet Research, and PLOS One. She received her PhD in Mass Communications from the University of Wisconsin–Madison and her MS in Science, Technology, and Environmental Policy from the University of Minnesota. Becca previously worked in the fields of science policy and digital communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Andrew Boge",
+   "title": "Assistant Professor, Communication",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/andrew-boge",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2024-08/1f7a0380-andrew-parayil-boge.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital Media",
+    "Ethnic Studies",
+    "Public Address",
+    "Race and Ethnicity",
+    "Rhetoric",
+    "Social Justice",
+    "Transnational Studies"
+   ],
+   "bio": "Dr. Andrew Parayil Boge is an Assistant Professor of Rhetoric, Media, & Culture in the Department of Communication at the University of Maryland, College Park. He received his PhD from the University of Iowa, with graduate certificates in the Public Digital Humanities and African American Studies. His interdisciplinary scholarship examines how racial ideologies are produced, maintained, and disrupted in public discourse. Informed by scholars of color in digital media and rhetorical studies, and intersectional race and ethnic studies, his work reckons with the real, situated violence of racism and the agential force of racialized peoples to disrupt such violence via discursive worldbuilding. Dr. Parayil Boge’s primary research project examines South Asian American racialization by theorizing the cultural and transnational logics of (anti-)brownness across racial projects. His scholarship can be found in Rhetoric and Public Affairs, Ethnic Studies Review, and Rhetoric Review.\nDr. Parayil Boge’s first book project, tentatively titled Brown Peril, unearths the transnational, imperial, and relational forces that shape the emergence of anti-brownness as a powerful form of racism in U.S. public culture. Through archival study, he utilizes racial rhetorical criticism to analyze three discursive registers (newspapers, legal rhetoric, popular films) to reveal how South Asian migrants became understood as a menacing racial horde, a particular peril for the white working class, and danger to white femineity and heteropatriarchy through the language of brownness.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Grant Bollmer",
+   "title": "Associate Professor, Communication",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/grant-bollmer",
+   "personal_url": "https://grantbollmer.com",
+   "photo_url": "https://communication.umd.edu/sites/default/files/2024-08/img_2362-grant-bollmer.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Critical Theory",
+    "Cultural Studies",
+    "Digital Cultures",
+    "History of Science"
+   ],
+   "bio": "I study the history and theory of \"digital cultures.\" In my work, I have examined a wide range of subjects and objects that relate to digital media. My research, however, primarily focuses on the cultural and economic dimensions of social media, the history of psychology, and the theory and philosophy of technology.\nI am the author or co-author of five books. This includes: The Influencer Factory: A Marxist Theory of Corporate Personhood on YouTube (Stanford, 2024; co-authored with Katherine Guinness), an examination of ultra-rich influencer videos that argues influencer culture reveals a drive to \"vertically integrate\" oneself and behave as if individuality can become interchangeable with the corporate form; The Affect Lab: The History and Limits of Measuring Emotion (Minnesota, 2023), a critique of affect theory in the humanities and social sciences that makes its claims through key moments in the psychology of emotion and the technologies used to measure emotional experience; Materialist Media Theory: An Introduction (Bloomsbury, 2019), which updates and revises the claims of Marshall McLuhan and Harold Innis in relation to a variety of recent theoretical innovations, especially New and Feminist Materialisms; Theorizing Digital Cultures (SAGE, 2018), which provides a model for the study of digital media that synthesizes British and German approaches to media and culture; and Inhuman Networks: Social Media and the Archaeology of Connection (Bloomsbury, 2016), which examines the history of connectivity in Western culture as it crosses the development of technological, biological, financial, and social networks.\nAdditionally, with Yigit Soncul, I'm co-editor of a special issue of the journal parallax on \"Networked Liminality\" (2020).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ganga Dhanesh",
+   "title": "Associate Professor, Communication; Co-Director of Graduate Studies, Communication",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/ganga-dhanesh",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2025-09/1%20Ganga%20Dhanesh.JPG",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Public Relations",
+    "Strategic Communication"
+   ],
+   "bio": "Dr. Dhanesh’s prior experience in corporate and nonprofit sectors has informed her extensive research program on corporate social responsibility (CSR) and strategic communication across issues, publics, cultures, and geographies. Her work has appeared in books and journals including Business Horizons, Journal of International Management, Management Communication Quarterly, Journal of Communication Management, Journal of Public Relations Research, and Public Relations Review. A bibliometric analysis in Public Relations Review placed her among the top two most productive scholars on CSR within public relations research. She has won multiple research awards including the Bob Heath Top Paper Award at the annual conference of the International Communication Association, 2012 and the Best Paper award at the annual congress of the European Public Relations Education and Research Association (EUPRERA), 2021. She delivered a keynote speech at the annual congress of the EUPRERA, 2023.\nDr. Dhanesh serves as Associate Editor for the Journal of Communication Management and is on several editorial boards including Business Horizons, Journal of Public Relations Research, and Public Relations Review. Bridging academia and practice, Dr. Dhanesh actively consults for national and multinational organizations on strategic communication. She was the founding university lead for the partnership between Zayed University and the Unstereotype Alliance UAE chapter, convened by UN Women, and her research has helped to inform the creation of gender stereotyping guidelines for the advertising industry in the United Arab Emirates. Dr. Dhanesh was also a lead researcher for the first Global Capabilities Framework study in the Middle East.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Nick Joyce",
+   "title": "Associate Professor, Communication",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/nick-joyce",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2021-03/profile_photo_of_nick_joyce.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Intercultural Communication",
+    "Intergroup Communication"
+   ],
+   "bio": "Dr. Joyce is interested in the communicative and psychological processes underlying intercultural relationships. One major area of his research examines how and why intercultural narratives and other forms of intergroup communication can be used to foster empathy, change perceptions, and improve attitudes toward other cultures and groups. A second major area of his research focuses on understanding how specific communication skills and psychological traits/states predict an individual’s willingness to engage in positive intercultural communication and narratives. He approaches these topics using social scientific methodologies. His research has appeared in a variety of publications including Basic and Applied Social Psychology , Communication Research , and the Journal of Media Psychology , among others. Graduate Advising Philosophy\nSelected publications: Publications | Social identity motivations and intergroup media attractiveness | The Sweet Spot: Curvilinear Effects of Media Exemplar Typicality on Stereotype Change",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Sahar Khamis",
+   "title": "Professor, Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/sahar-khamis",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2021-02/profile_photo_of_sahar_khamis.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Cultural Studies",
+    "Intercultural Communication",
+    "Media Studies"
+   ],
+   "bio": "Dr. Sahar Khamis is an expert on Arab and Muslim media, and the former Head of the Mass Communication and Information Science Department in Qatar University. She is a former Mellon Islamic Studies Initiative Visiting Professor at the University of Chicago.\nShe is the co-author of the books: Islam Dot Com: Contemporary Islamic Discourses in Cyberspace (Palgrave Macmillan, 2009) and Egyptian Revolution 2.0: Political Blogging, Civic Engagement and Citizen Journalism (Palgrave Macmillan, 2013), and the co-editor of Arab Women's Activism and Socio-Political Transformation: Unfinished Gendered Revolutions (Palgrave Macmillan, 2018). Additionally, she authored and co-authored numerous book chapters, journal articles and conference papers, regionally and internationally, in both English and Arabic. She is the recipient of a number of prestigious academic and professional awards, as well as a member of the editorial boards of several journals in the field of communication, in general, and the field of Arab and Muslim media, in particular.\nDr. Khamis is a media commentator and analyst, a public speaker, a human rights commissioner in the Human Rights Commission in Montgomery County, Maryland, and a radio host, who presents a monthly radio show on “U.S. Arab Radio” (the first Arab-American radio station broadcasting in the U.S. and Canada).\nAs of Fall 2023, Dr. Khamis has been elected as the new President of the Arab-US Association for Communication Educators (AUSACE) and as the new Chair of the Spiritual Communication Division at the National Communication Association (NCA). Additionally, Dr. Khamis has been selected to serve on the campus-wide Joint Presidential/Senate Antisemitism and Islamophobia Task Force, effective January, 2024.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jiyoun Kim",
+   "title": "Associate Professor, Communication; Co-Director of Graduate Studies, Communication",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/jiyoun-kim",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2021-03/profile_photo_of_jiyoun_kim.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Crisis & Risk Communication",
+    "Mass Communication",
+    "Science Communication"
+   ],
+   "bio": "Dr. Jiyoun Kim’s research expertise lies in risk, science, and environmental communication. Her work contributes to three primary areas of scholarship: (1) examining the factors shaping public understanding of and attitudes toward science, the environment, and risk; (2) exploring the dynamics of public engagement with science, environmental, and risk issues on social media; and (3) designing effective messages to help the public make informed choices.\nSpecifically, her recent research focuses on (1) how risk-related information is communicated by governments, the non-governmental sector, and media organizations; (2) how online group-level cues (e.g., social media sentiment and metrics) influence individuals’ cognitive processing and willingness to engage with the issue; and (3) how to develop effective communication strategies in the context of risk, science, and the environment to capture public attention, create appropriate behavioral responses, and promote informed decision-making. Her research has been published in leading communication, risk, and science journals, including Science Communication, Environmental Communication, Journal of Applied Communication Research, International Journal of Strategic Communication , Journalism & Mass Communication Quarterly, and Risk Analysis: An International Journal .\nKim Graduate Advising Philosophy\nSelected publications: Publications | Incorporating moral foundations into persuasive conversations: the cases of public support for agricultural biotechnology research and future pandemic preparedness | All joking aside? Comparing the effects of a humorous vs.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Sun Young Lee",
+   "title": "Associate Professor, Communication",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/sun-young-lee",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2021-03/profile_photo_of_sun_lee.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Crisis & Risk Communication",
+    "Public Relations",
+    "Strategic Communication"
+   ],
+   "bio": "Sun Young Lee earned her doctorate in journalism and mass communication from the University of North Carolina, Chapel Hill in 2012. Her research interests include visual strategies in corporate social responsibility (CSR) messages, strategies to engage the public with CSR activities and the effects of CSR practices in a crisis context. Lee’s research has appeared in the Journal of Business Ethics , Communication Research , Public Relations Review and elsewhere. Her current projects focus on the role of emotions and of public empowerment in the co-creation of social value through CSR activities. Prior to arriving at Maryland, she was on the faculty at Texas Tech University.\nLee Graduate Advising Philosophy\nSelected publications: Publications | Corporate Social Advocacy (CSA) and Message Strategies: What to Communicate and How to Communicate | How to strategically frame advocacy in a polarized landscape | Publics’ Views of Corporate Social Advocacy Initiatives: Exploring Prior Issue Stance, Attitude Toward a Company, and News Credibility | Creating shared value (CSV) and mutually beneficial relationships to address societal issues and develop corporate competitive advantage: A case study of Yuhan-Kimberly and an aging population | Visually Framing Disasters: Humanitarian Aid Organizations’ Use of Visuals on Social Media | Engaging Consumers with Corporate Social Responsibility Campaigns: The Roles of Interactivity, Psychological Empowerment, and Identification | Self-Imagery and Advertising Effectiveness: The Role of Sense of Presence",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Brooke Fisher Liu",
+   "title": "Professor, Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/brooke-fisher-liu",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2021-03/profile_photo_of_brooke_liu.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Crisis & Risk Communication",
+    "Public Relations",
+    "Strategic Communication"
+   ],
+   "bio": "Dr. Brooke Liu’s research investigates how strategic communication contributes to organizational and community crisis readiness. In 2024, Liu was elected a fellow of the International Communication Association for her distinguished scholarly contributions to the communication discipline and beyond. The University of Maryland also recognized Liu with the Distinguished Scholar-Teacher Award.\nLiu’s research has been funded by government agencies such as the National Oceanic and Atmospheric Administration (NOAA), the Food and Drug Administration (FDA), the Department of Homeland Security (DHS), and the National Science Foundation (NSF). Liu serves on the executive committee of the National Academies’ Societal Experts Action Network (SEAN). She also serves on the editorial boards for the Journal of Contingencies and Crisis Management , the Journal of Public Relations Research , and Public Relations Review . Previously, Liu served on NOAA’s Science Advisory Board and the FDA’s Risk Communication Advisory Committee.\nLiu’s teaching and mentoring have been recognized by the Graduate School’s Outstanding Faculty Mentor of the Year Award, the Philip Merrill Presidential Scholars Faculty Mentor Award, and the Andrew D. Wolvin Outstanding Teaching Award. She has developed and delivered risk communication training for a variety of government stakeholders including the Department of Homeland Security, the National Weather Service, and the Australian Institute for Disaster Resilience.\nLiu co-founded the University of Maryland Pandemic Readiness Initiative . She also actively supports the ADVANCE Program, which is a campus-wide enterprise to support the recruitment, retention, advancement, and professional growth of a diverse and thriving faculty.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kristy Maddux",
+   "title": "Professor, Communication; Affiliate, The Harriet Tubman Department of Women, Gender, and Sexuality Studies",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/kristy-maddux",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2021-04/comm_maddux.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Gender",
+    "Public Address",
+    "Rhetoric"
+   ],
+   "bio": "Kristy Maddux is Professor of Communication and Executive Director of the Honors College at UMD. Her research and teaching are in the area of Rhetoric and Political Culture, focusing on rhetorical practices of democratic citizenship, especially how they are inflected by gender, (dis)ability, religion, race, and other identity markers. She is invested in thinking about how ordinary citizens fuel democracy through habits such as deliberation, public advocacy, protest, listening, empathy, stranger sociability, and more, as well as the structures that encourage and inhibit those habits.\nOne set of recent and current projects investigates how the built environment facilitates such democratic habits of citizenship—how our streets, sidewalks, benches, lighting, parks, and more shape how citizens are able to interact with each other to do the work that democracy requires. Her research examines this question in specific contexts, including the corpus of work by landscape architect Frederick Law Olmsted, the 1893 World’s Columbian Exposition fairgrounds in Chicago, and the 1960s freeway revolt in Washington, D.C.\nMaddux is also working on a book manuscript, Holding our Breath: Rett Syndrome and the Search for What Makes us Human, that tells a multi-layered story about the people who have lived with this rare genetic disorder and the scientists, fundraisers, and advocates who have been working to treat and cure it for the last forty years. Putting these stories in conversation forces us to grapple with some of our most complicated questions about disability justice, bioethics, and what makes us human.\nHer first book, The Faithful Citizen, examined intersections between religious media and U.S.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Raquel Moreira",
+   "title": "Assistant Professor, Communication; Affiliate Faculty, Latin American and Caribbean Studies Center",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/raquel-moreira",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2025-09/250825_RaquelMoreiraHeadshots_TaneenMomeni01%20%281%29.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Cultural Studies",
+    "Gender and Sexuality Studies",
+    "Popular Culture",
+    "Race and Ethnicity"
+   ],
+   "bio": "Dr. Raquel Moreira is an Assistant Professor of Rhetoric, Media, & Culture in the Department of Communication at the University of Maryland, College Park. Her broader research agenda is concerned with issues of marginalization within minoritized groups in Latin/e America. Currently, Dr. Moreira is investigating hemispheric constructions of Latinidad, particularly the connections between mestizaje/mestiçagem and (anti) Blackness as they intersect with other colonial systems of gender and sexuality, national identity, and class. Her work has been published in journals such as Quarterly Journal of Speech, Communication and Race , Women’s Studies in Communication, International Journal of Communication, Celebrity Studies , among others. Moreira is also the author of Bitches Unleashed: Performance and Embodied Politics in Favela Funk (Peter Lang, 2021), which has received the 2021 Bonnie Ritter Feminist Book Award, the NCA's 2022 International and Intercultural Communication Division Best Book Award, as well as Central States Communication Association's 2023 Sexual Orientation and Gender Identity (SOGI) Caucus' Innovator Book Award.\nDr. Moreira's feminist and antiracist pedagogy is committed to creating spaces of collaboration, self-reflection, and social change. She has taught numerous courses in media theory and criticism, race, gender, and sexuality in popular culture, and many more. Teaching is the original reason she joined academia and, after spending the last decade teaching at liberal arts universities, Moreira is excited to connect with UMD students.\nSelected publications: Publications | Marielle Franco’s legacy as black feminist praxis in Brazil | Rejecting Latinidad, Embracing Améfrica Ladina",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Charles Morris III",
+   "title": "Chair, Communication; Professor, Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/charles-morris-iii",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2026-07/Morris%20Photo.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Memory",
+    "Queer Theory",
+    "Rhetoric"
+   ],
+   "bio": "Charles E. Morris III (he/him/his) is a queer rhetorical critic whose research focuses on LGBTQ history and public memory. Morris co-founded QED: A Journal in GLBTQ Worldmaking (Michigan State University Press). His books include Queering Public Address, An Archive of Hope: Harvey Milk's Speeches and Writings, Remembering the AIDS Quilt, and The Conceit of Context . His essays and guest edited special issues and forums have appeared in the Quarterly Journal of Speech, Rhetoric & Public Affairs, Communication & Critical/Cultural Studies, Text & Performance Quarterly, Women’s Studies in Communication and elsewhere.\nIn 2022, Morris was inducted as a Distinguished Scholar by the National Communication Association. He has also been the recipient of NCA’s Douglas Ehninger Distinguished Rhetorical Scholar Award (2021), three-time recipient of NCA’s Golden Monograph Award (2003, 2010, and 2022) for article of the year, as well as NCA's Public Address, Critical Cultural Studies, and Rhetorical and Communication Theory divisions’ distinguished scholar awards (2024, 2020, 2016), the Randy Majors Award for Distinguished LGBTQ Scholarship (2008), and the Karl Wallace Memorial Award (2001) for early career achievement.\nMorris served as chair of the Research Council and on the Executive Committee of the National Communication Association, 2020-2022.\nSelected publications: Publications | Queering Pasts and Futures of Public Address",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kang Namkoong",
+   "title": "Associate Professor, Communication; Director, Center for Health and Risk Communication",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/kang-namkoong",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2021-03/profile_photo_of_kang_namkoong_0.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Communication Science",
+    "Digital Media",
+    "Health Communication"
+   ],
+   "bio": "Dr. Namkoong's research focuses on the interrelationships between emerging media and health communication. His areas of focus include the effects of web- and mobile-based eHealth systems, cancer communications, and occupational health and safety education, and mental health interventions. His research program consists of two interrelated lines of inquiry: treatment-oriented health interventions and prevention-oriented health campaigns. The former concerns the effects of interactive communication technologies on patients' physical and psychological health benefits, while the latter concerns the potential of ICTs in addressing health outcome disparities among underserved populations. Dr. Namkoong has published over 40 peer-reviewed articles in prestigious journals such as the Journal of the National Cancer Institute Monographs , Cancer , Health Psychology , Journal of Health Communication , Journal of Public Health , and Health Communication . For his research on emerging media and health communication, Dr. Namkoong has received several extramural grants from government funding agencies, including the National Institute for Occupational Safety and Health (NIOSH).\nCurrent research projects : Dr. Namkoong is currently exploring the potential of mobile and immersive media technologies for public health interventions. For example, he has been involved in interdisciplinary research projects that focus on tackling health disparities in underserved populations. With a grant from NIOSH, he has developed smartphone-based health communication apps and virtual and augmented reality interventions to promote agricultural health and safety outcomes, addressing important public health concerns in rural communities.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Xiaoli Nan",
+   "title": "Professor, Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/xiaoli-nan",
+   "personal_url": "https://www.xiaolinan.com",
+   "photo_url": "https://communication.umd.edu/sites/default/files/2026-02/Xiaoli%20Nan%20Headshot%202026.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Health Communication",
+    "Persuasion"
+   ],
+   "bio": "Dr. Xiaoli Nan is a Distinguished Scholar-Teacher and Professor of Communication Science at the University of Maryland-College Park. She also holds appointments as an Affiliate Professor in the Department of Behavioral and Community Health and as a Faculty Associate of the Joint Institute for Food Safety and Applied Nutrition. Dr. Nan was the Director of the Center for Health and Risk Communication from 2011 to 2025. She was a full member of the Marlene and Stewart Greenebaum Comprehensive Cancer Center's Population Science Program from 2014 to 2024.\nDr. Nan’s research centers on the science of persuasion—examining how people form and change beliefs and attitudes, and how these processes are influenced by persuasive communication. She applies this framework to examine the effects of health communication, misinformation, and emerging media, as well as the role of artificial intelligence in generating and evaluating persuasive messages. Her interdisciplinary work addresses urgent public health issues including cancer prevention, vaccination, pandemics, climate change, and food safety and nutrition. At the University of Maryland, Dr. Nan teaches courses in health communication, persuasion and attitude change, media effects, and quantitative research methods.\nDr. Nan has published extensively in her areas of specialization with over 90 peer-reviewed journal articles. Dr. Nan’s work appears in top communication and interdisciplinary journals including Human Communication Research, Communication Research, Health Communication, Journal of Health Communication, Journalism and Mass Communication Quarterly, Journal of Advertising, Marketing Theory, Health Education, Social Science and Medicine, and Vaccine.\nDr.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Nana Kwame Osei Fordjour",
+   "title": "Assistant Professor, Communication",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/nana-kwame-osei-fordjour",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2023-08/IMG_4581%20-%20Nana%20Kwame%20Osei%20Fordjour.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Crisis & Risk Communication",
+    "Media Studies",
+    "Political Communication",
+    "Public Relations"
+   ],
+   "bio": "Dr. Nana Kwame Osei Fordjour is an Assistant Professor at the Department of Communication, University of Maryland, College Park. His research revolves around political public relations, crisis, and media studies. Dr. Osei Fordjour investigates politicians’ strategic messaging from perspectives like image construction, impression management, and authenticity. He studies contexts such as governance and elections. Dr. Osei Fordjour also studies various mediated and crisis communication forms to assess their broader implications.\nHe has presented his work at conferences such as the International Communication Association (ICA), the Association for Education in Journalism and Mass Communication (AEJMC), the National Communication Association (NCA), and the Easter and Western States Communication conferences (ECA and WSCA). Dr. Osei Fordjour’s research has been recognized with top paper awards at the AEJMC, NCA, ECA, and WSC Conventions.\nDr. Osei Fordjour's work has appeared in journals such as the Journal of Public Relations Research, the International Journal of Strategic Communication, the Howard Journal of Communications, Visual Communication Quarterly, Social Media in Society, the International Journal of Communication , the International Communication Research Journal , Newspaper Research Journal , and others.\nHe is the current Junior Vice Chair of the AEJMC Political Communication Division and has previously served as the Teaching Competition Chair of the same division. He has held positions like Delegate-at-Large at the WSCA. In addition, Dr. Osei Fordjour has over a decade of industry experience in public relations. He uses qualitative, critical, and mixed-method approaches and enjoys collaborative research and mentorship.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Hailey Otis",
+   "title": "Assistant Professor, Communication; Co-Director, Oral Communication Program, Communication",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/hailey-otis",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2025-09/Otis%20headshot.JPG",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric"
+   ],
+   "bio": "Dr. Hailey Nicole Otis is a critical rhetorical scholar committed to social justice and leveraging the tools of communication and rhetoric toward advocacy and worldmaking. Her research draws from intersectional feminist theory, queer theory, fat studies, and rhetorical theory and criticism to investigate the embodied and intersectional rhetorical tactics through which activists, advocates, influencers, and social media users envision and bring into being more liberatory worlds for multiply marginalized bodies. Her primary research topic coalesces around digital forms of contemporary intersectional fat activism and this work has been featured on top paper panels in both the Feminist and Women’s Studies division of the National Communication Association (NCA) as well as the Organization for Research on Women and Communication (ORWAC) division of the Western States Communication Association. Another line of Hailey’s research explores how marginalized groups (specifically those in fat and disabled bodies as well as bodies of color) engage in worldmaking against the backdrop of healthist COVID-related discourses that render certain lives disposable and unlivable. Hailey has received multiple Excellence in Teaching Awards and her essay, “Intersectional Rhetoric: Where Intersectionality as Analytic Sensibility and Embodied Rhetorical Praxis Converge,” earned the Stephen E. Lucas Debut Publication Award from NCA in 2020. Her research appears in outlets such as the Quarterly Journal of Speech, Women’s Studies in Communication, and the Oxford Encyclopedia of Queer Studies & Communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Shawn Parry-Giles",
+   "title": "Professor, Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/shawn-parry-giles",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2021-02/profile_photo_of_shawn_parry-giles.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Gender",
+    "Political Communication",
+    "Rhetoric"
+   ],
+   "bio": "Dr. Shawn J. Parry-Giles is a Professor in the Department of Communication at UMD. She also serves as the Director of the Rosenker Center for Political Communication and Civic Leadership. Dr. Parry-Giles studies rhetoric and politics with a focus on the relationship between power and resistance in historical and contemporary politics. She has co-authored and co-edited eight books and a diversity of journal articles on presidential rhetoric, war rhetoric and revolutions, women and politics, as well as media and politics. She teaches classes in democratic deliberation, rhetorical research methods, political communication, and academic writing.\nAs Director of the Rosenker Center, Dr. Parry-Giles co-edits two public and digital humanities projects designed to promote civic education through open-access websites that exemplify the role of public oratory in local, national, and global politics. Each website features a repository of historical public speeches and teaching resources that contextualize the rhetorical contributions of community activists and political leaders. The first is an academic journal entitled, the Voices of Democracy: The U.S. Oratory Project (with Drs. J. Michael Hogan and Skye de Saint Felix)—a project initially funded by the National Endowment for the Humanities. The second is the Recovering Democracy Archives: Speech Recovery Project (with Dr. Skye de Saint Felix), which recovers lesser-known speeches from archives of those advancing social justice aims. This project was funded by the Waterhouse Family Institute of Villanova University. Dr. Parry-Giles also helps mentor students in the principles of democratic deliberation to organize public dialogues around pressing political issues.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Trevor Parry-Giles",
+   "title": "Associate Dean for Faculty Affairs and Research, College of Arts and Humanities; Professor, Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/trevor-parry-giles",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2026-07/Headshot%202026%202.png",
+   "google_scholar_url": "https://scholar.google.com/citations?user=u2jPzEoAAAAJ&hl=en&oi=ao",
+   "research_areas": [
+    "Political Communication",
+    "Popular Culture",
+    "Rhetoric"
+   ],
+   "bio": "Trevor Parry-Giles is the Associate Dean for Faculty Affairs and Research in the College of Arts & Humanities and a Professor in the Department of Communication. Prior to becoming the AD for Faculty Affairs and Research, Dr. Parry-Giles served as ARHU's first Associate Dean for Diversity, Equity, and Inclusion.\nDr. Parry-Giles’s research and teaching focus on the historical and contemporary relationships between rhetoric, politics, law, and popular culture. He is the author or editor of four books, including The Character of Justice: Rhetoric, Law, and Politics in the Supreme Court Confirmation Process and The Prime-Time Presidency: The West Wing and U.S. Nationalism (with Shawn J. Parry-Giles) . His research has appeared in the Quarterly Journal of Speech , Rhetoric & Public Affairs , Presidential Studies Quarterly , the Journal of Popular Film and Television , Celebrity Studies , the Journal of Communication , and elsewhere. Dr. Parry-Giles is a Distinguished Research Fellow and a Distinguished Teaching Fellow of the Eastern Communication Association. In 2019, Dr. Parry-Giles received the University of Maryland's Graduate Faculty Mentor of the Year Award.\nDr. Parry-Giles completed the Big 10 Academic Alliance's Academic Leadership Program in 2024 and was named a 2022 HuMetricsHSS Community Fellow, participating in the HuMetrics \" Envisioning the Future Academy \" program in 2024. He also completed the ADVANCE program's Equity-Coaching Training at UMD in 2023. While working for the National Communication Association in the 2010s, Dr. Parry-Giles was the lead director of the Learning Outcomes in Communication project, funded by Lumina Foundation.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Primary listed title is Associate Dean (College of Arts and Humanities); second title line is Professor, Communication."
+  },
+  {
+   "name": "Damien Pfister",
+   "title": "Associate Professor, Communication; Affiliate Faculty, Classics",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/damien-pfister",
+   "personal_url": "http://damiensmithpfister.net/",
+   "photo_url": "https://communication.umd.edu/sites/default/files/2021-03/profile_photo_of_damien_pfister.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital Studies",
+    "Rhetoric"
+   ],
+   "bio": "Dr. Damien Smith Pfister, Associate Professor of Communication at the University of Maryland, studies the manifold intersections of the rhetorical and the digital. He is the author of Networked Media, Networked Rhetorics: Attention and Deliberation in the Early Blogosphere (Penn State, 2014) and co-editor of Ancient Rhetorics + Digital Networks (Alabama, 2018). Recent essays can be found in The Journal for the History of Rhetoric , The Quarterly Journal of Speech , Communication and the Public , and Philosophy & Rhetoric. A former member of the Board of Directors for the Rhetoric Society of America, Pfister is currently the Reviews editor for Rhetoric Society Quarterly . With Casey Boyle and Michele Kennerly, he co-edits the new Rhetoric + Digitality book series for the University of Alabama Press. Pfister’s current book project is titled Always On: Fashioning Ethos After Wearable Computers , on the rhetorical and cultural implications of wearables.\nSelected publications: Publications | Digitality, Diversity, and the Future of Rhetoric and Public Address | Digitality, Rhetoric, and Protocological Fascism; Or, Fascist Ants & Democratic Cicadas | Ancient Rhetorics & Digital Networks | Networked Media, Networked Rhetorics: Attention and Deliberation in the Early Blogosphere",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Yan Qu",
+   "title": "Assistant Professor, Communication",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/yan-qu",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2023-08/Yan%20Qu%20-%20Yan%20Qu.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Crisis & Risk Communication",
+    "Public Relations"
+   ],
+   "bio": "Dr. Yan Qu studies public relations and strategic communication broadly from a social network perspective. His research centers on developing and applying a personal network approach to examine various publics in public relations, as well as issues related to risk and crisis communication. More recently, Dr. Qu has launched a new line of research exploring how AI technologies reshape individuals’ identities and personal networks, and how these changes influence communication processes and outcomes in public relations, risk and crisis contexts. Dr. Qu is the recipient of the 2022 ICA James E. Grunig and Larissa A. Grunig Outstanding Dissertation Award, as well as multiple top paper awards from AEJMC and IPRRC. His research has appeared in peer-reviewed journals such as Journalism & Mass Communication Quarterly, Journal of Public Relations Research, Public Relations Review , and Health Communication , among others. Prior to his current role, Dr. Qu worked as a postdoctoral associate at the University of Minnesota, Twin Cities.\nQu Graduate Advising Philosophy\nSelected publications: Publications | How AI induces professional identity threats: A survey study with public relations professionals | A social influence perspective toward employee-organization relationships: The role of relationship norms in employee peer networks",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Anita Atwell Seate",
+   "title": "Professor, Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/anita-atwell-seate",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2026-08/Headshot-F23.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Crisis & Risk Communication",
+    "Intercultural Communication",
+    "Media Studies",
+    "Public Relations"
+   ],
+   "bio": "My research examines how communication shapes the ways people and communities understand and respond to potentially threatening situations. Much of my scholarship has developed along two related but distinct lines of inquiry: intergroup communication and risk and crisis communication.\nIn my intergroup communication research, I examine how social identities and intergroup dynamics shape communication processes, particularly how people respond to messages about social groups and threats to their identities, values, and communities. In my risk and crisis communication research, I examine how organizations and communities communicate about consequential risks, with much of this work focusing on weather and public safety. This research considers how relationships, message strategies, and community contexts shape how people understand and respond to risk.\nMy current work brings these two lines of scholarship into conversation, examining how insights about identity, intergroup relationships, and threat can help us communicate risk and crisis information in more culturally responsive and equitable ways. Across these areas, I am interested in how communication can either reinforce existing inequalities or help people and communities navigate threats more effectively.\nAtwell Seate Graduate Advising Philosophy\nSelected publications: Publications | The Twin Pillars of Crisis Communication: Protecting Safety and Building Healthy Relationships | Frontline Voices of care: How community health workers cultivate relationships | All joking aside? Comparing the effects of a humorous vs.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Catherine Knight Steele",
+   "title": "Associate Professor, Communication; Director, Black Communication and Technology Lab, Communication; Affiliate Associate Professor, The Harriet Tubman Department of Women, Gender, and Sexuality Studies",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/catherine-knight-steele",
+   "personal_url": "http://catherineknightsteele.com/",
+   "photo_url": "https://communication.umd.edu/sites/default/files/2021-04/steele-21.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital Media",
+    "Gender",
+    "Mass Communication",
+    "Race/Ethnicity"
+   ],
+   "bio": "Catherine Knight Steele is an Associate Professor of Communication at the University of Maryland - College Park and was the Founding Director of the Andrew W. Mellon funded African American Digital Humanities Initiative (AADHum). She now directs the Black Communication and Technology lab as a part of the Digital Inquiry, Speculation, Collaboration, & Optimism Network funded by the Andrew W. Mellon Foundation. Dr. Steele earned her Ph.D. in Communication from the University of Illinois at Chicago. Her research focuses on race, gender, and media, with a specific emphasis on African American culture and discourse in traditional and new media. She examines representations of marginalized communities in the media and how groups resist oppression and utilize online technology to create spaces of community. Dr. Steele's research on the Black blogosphere, digital discourses of resistance, and digital Black feminism has been published in such journals as Social Media + Society , I nformation, Communication and Society , and Television and New Media . Her book Digital Black Feminism (NYU Press Fall 2021), examines the relationship between Black women and technology as a centuries-long gendered and racial project in the U.S.\nTwitter: @SteeleCat717\nSelected publications: Publications | Technoskepticism: Between Possibility and Refusal | Doing Black Digital Humanities with Radical Intentionality | Doing Black Digital Humanities with Radical Intentionality | Digital Black Feminism | When the Black lives that matter are not our own: digital Black feminism and a dialectic of self and community",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Rianna Walcott",
+   "title": "Assistant Professor, Communication; Associate Director, Black Communication and Technology Lab, Communication; Affiliate Faculty, Department of African American and Africana Studies,; Affiliate Faculty, Artificial Intelligence Interdisciplinary Institute at Maryland,; Affiliate Faculty, The Harriet Tubman Department of Women, Gender, and Sexuality Studies",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/rianna-walcott",
+   "personal_url": "http://www.riannawalcott.com/",
+   "photo_url": "https://communication.umd.edu/sites/default/files/2024-06/dscf0750-large.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Diaspora",
+    "Digital Cultures",
+    "Digital Humanities",
+    "Race and Ethnicity"
+   ],
+   "bio": "Rianna Walcott is an Assistant Professor of Communication at the University of Maryland, Associate Director of the Black Communication and Technology (BCaT) Lab, and a former DISCO Network Postdoctoral Fellow. An alumna of the London Arts and Humanities Partnership (LAHP), Dr. Walcott earned her PhD in Digital Humanities at King's College London for her research on Black Black (and specifically Black British) communication practices across social media platforms, locating the evolution of a hybrid ‘Black British’ identity against the wider Black diaspora.\nSelected publications: Publications | Losing the API: Developing Novel Methods for Scraping Black Twitter | ‘Gen Z Language? Y'all Mean AAVE’: The Appropriation of African American Vernacular English as ‘TikTok Language’ | Technoskepticism: Between Possibility and Refusal",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Carly Woods",
+   "title": "Associate Professor, Communication; Affiliate Associate Professor, The Harriet Tubman Department of Women, Gender, and Sexuality Studies; Classics",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/carly-woods",
+   "personal_url": "http://carlyswoods.com/",
+   "photo_url": "https://communication.umd.edu/sites/default/files/2021-02/profile_photo_of_carly_woods.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Cultural Studies",
+    "Gender",
+    "Public Address",
+    "Rhetoric"
+   ],
+   "bio": "Dr. Carly S. Woods is a humanities-based Communication scholar with a passion for history, argumentation, and memory studies. She is particularly interested in rhetorics of belonging and exclusion within education , politics , and social change . Her research has been published in academic journals such as the Quarterly Journal of Speech , Rhetoric Society Quarterly , Argumentation and Advocacy , and Rhetoric Review .\nWoods’s first book, Debating Women: Gender, Education, and Spaces for Argument, 1835-1945 , was published with Michigan State University Press in 2018. Debating Women highlights the crucial role that debating organizations played as nineteenth and twentieth century women sought to access the fruits of higher education in the United States and United Kingdom. The book was awarded the National Communication Association's James A. Winans-Herbert A. Wichelns Memorial Award for Distinguished Scholarship in Rhetoric and Public Address and the American Forensic Association's Daniel Rohrer Memorial Outstanding Research Award. Woods is currently working on a second book, tentatively titled Ambassadors of Argument , which explores international argumentation, debate, and education in the interwar period. Other ongoing research projects focus on intersectional memory studies and the rhetoric and memory of politician Barbara Jordan.\nWoods is the recipient of numerous research , teaching, and service awards . At UMD, she regularly teaches undergraduate and graduate courses on rhetoric, public address, and social change.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Carina Zelaya",
+   "title": "Assistant Professor, Communication",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.umd.edu/directory/carina-zelaya",
+   "personal_url": null,
+   "photo_url": "https://communication.umd.edu/sites/default/files/2025-02/photoroom_20250203_165103.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "I study health communication strategies to strengthen public messaging and support informed decision-making. My work focuses on cancer prevention, crisis communication, and intimate health. I examine how beliefs influence health choices by studying how people perceive risks, make decisions, and access information. I also explore public health crises to help communities receive timely, actionable information and ensure health messages are clear, effective, and widely accessible. Additionally, I study how social and cultural factors influence sexual health behaviors and create clear, practical resources on sexual and reproductive health for young people. My goal is to translate research into real-world solutions that make health communication more effective and fair for all.\nSelected publications: Publications | Frontline Voices of care: How community health workers cultivate relationships | Cancer fatalism and cancer information seeking among Black women: Examining the impact of Aretha Franklin’s death on cancer communication outcomes. | Predicting interpersonal cancer talk among Black women in the United States following Aretha Franklin’s death: the role of network-level factors.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Linda Steiner",
+   "title": "Associate Dean, Faculty Affairs and Inclusion; Professor",
+   "rank": "Professor",
+   "department": "Philip Merrill College of Journalism",
+   "profile_url": "https://merrill.umd.edu/directory/linda-steiner",
+   "personal_url": null,
+   "photo_url": "https://merrill.umd.edu/sites/default/files/styles/optimized/public/people/Linda_Steiner_02.jpg?itok=WRSO0XCp",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Women",
+    "the media",
+    "women reporters",
+    "alternative media",
+    "public/citizen journalism."
+   ],
+   "bio": "Linda Steiner, a professor at the Philip Merrill College of Journalism, became associate dean in August 2023. As associate dean for faculty affairs — including tenure/tenure track and professional track faculty — she helps onboard new faculty, manage faculty mentoring, and improve faculty and staff development.\nIn April 2024, her role expanded to associate dean for faculty affairs and inclusion. Steiner leads and manages the college's work toward cultivating and supporting its community.\nShe previously served a three-year term as director of the University of Maryland's ADVANCE program, which is part of the Office of Faculty Affairs. She facilitated two peer networks for ADVANCE and led other program initiatives.\nNow in her second term as editor of \"Journalism & Communication Monographs,\" she has published nine co-authored or co-edited books, most recently, \"Front Pages, Front Lines: Media and the Fight for Women's Suffrage.\"\nHer research interests include media ethics, feminist theorizing and the conceptions/roles of women in the media workforce, especially journalism.\nSteiner is a past president of the Association for Education in Journalism and Mass Communication (AEJMC) and a fellow of the International Communication Association. She worked for a small newspaper in upstate New York before going to the University of Illinois at Urbana-Champaign, where she earned her Ph.D. Steiner is an affiliate professor in UMD’s Harriet Tubman Department of Women, Gender, and Sexuality Studies.\nExpertise Women and the media; women reporters; alternative media, public/citizen journalism.\nDegrees B.A., University of Pennsylvania Ph.D., University of Illinois at Urbana-Champaign",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Krishnan Vasudevan",
+   "title": "Associate Dean, Research; Associate Professor in Visual Communication",
+   "rank": "Associate Professor",
+   "department": "Philip Merrill College of Journalism",
+   "profile_url": "https://merrill.umd.edu/directory/krishnan-vasudevan",
+   "personal_url": "https://www.krishnanvasudevan.com/",
+   "photo_url": "https://merrill.umd.edu/sites/default/files/styles/optimized/public/people/Krishnan_Vasudevan_02.jpg?itok=wpxC4tJ3",
+   "google_scholar_url": "https://scholar.google.com/citations?user=Q8xk6B4AAAAJ&hl=en",
+   "research_areas": [],
+   "bio": "Krishnan Vasudevan , Ph.D., is a critical scholar, whose qualitative research and creative practice span the disciplines of media studies, platform studies and journalism studies. He became associate dean for research in September 2026. In a forthcoming book, Vasudevan examines how the frictionless ethos of Silicon Valley erodes the frictions that are necessary for a functioning democracy. This book builds upon his ethnographic research of social movements and his critical qualitative analysis of technology platforms. He is the co-editor of \"Platforms, Power and Friction\" (Routledge, 2025), and his research on platforms, journalism and design have been published in top-tier publications such as New Media & Society ; Information, Communication & Society ; Journalism & Mass Communication Quarterly ; and Journalism Studies .\nVasudevan co-leads the master's (M.A.) documentary concentration at the Philip Merrill College of Journalism and teaches the required visual theory course. Vasudevan's full-length documentary debut, “ One Driver, One Mic ,” premiered in 2022 and chronicles how a group of immigrant taxi drivers formed their own cooperative in Austin, Texas, to take on Uber, Lyft and the taxi industry. The film was an Official Selection at several film festivals: the 2023 Doc.London Documentary Film Festival, 2023 Big Sky Documentary Film Festival, 2022 Chagrin Documentary Film Festival, 2022 Workers Unite Film Festival and 2022 Immigration Film Festival. It is distributed by Collective Eye Films. ( Essay by Vasudevan on \"One Driver, One Mic.\" )\nPrior to earning his doctorate, Vasudevan was a multimedia journalist with stints at The New York Times and Slate.\nProspective doctoral and master's students can email Vasudevan at kvasu@umd.edu .",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "DeNeen Brown",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Philip Merrill College of Journalism",
+   "profile_url": "https://merrill.umd.edu/directory/deneen-brown",
+   "personal_url": null,
+   "photo_url": "https://merrill.umd.edu/sites/default/files/styles/optimized/public/people/deneen%20arctic%20yellow%20coat%20two.jpeg?itok=yEWe_CHS",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "DeNeen L. Brown joined the University of Maryland Philip Merrill College of Journalism faculty in 2019 after more than three decades at The Washington Post. She was promoted from associate professor to full professor in 2023.\nSince coming to UMD, she has continued to write for The Post , including a series of stories on the deadly 1921 Tulsa Race Massacre, which led to the city’s mayor reopening an investigation into suspected mass graves.\nAmong other jobs at The Post, Brown has covered police, courts and education, and was a foreign correspondent. She was a staff writer in The Post’s Metro and Style sections and a staff writer for The Washington Post Magazine. Brown has earned national recognition for writing narratives about the middle class, the homeless, culture, race, Black history, urban gentrification, poverty and the environment.\nAs The Post’s Canada bureau chief from 2000 to 2004, she traveled throughout the Canadian Arctic and Arctic Archipelago to write about climate change, melting permafrost, receding glaciers, indigenous populations and cultural erosion. She also has written dispatches from an icebreaker in the Northwest Passage, and covered stories from Greenland and Haiti.\nShe’s won national feature-writing prizes from the American Society of Newspaper Editors, the National Association of Black Journalists, the American Association of Sunday and Feature Editors, as well as regional awards from the Maryland, Delaware, District of Columbia Press Association. In 2006, Brown’s story titled “Mr. Wonderful” won first place and the best-in-show award for daily writing from the Virginia Press Association.\nBrown is a former Knight Fellow and Washington Post Media Fellow at Duke University.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lucy Dalglish",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Philip Merrill College of Journalism",
+   "profile_url": "https://merrill.umd.edu/directory/lucy-dalglish",
+   "personal_url": null,
+   "photo_url": "https://merrill.umd.edu/sites/default/files/styles/optimized/public/people/LucyDalglish-Print-5755.jpg?itok=3VPdiz6N",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Lucy A. Dalglish became dean of the Philip Merrill College of Journalism in 2012 and served until the end of June 2023.\nDalglish was awarded the 2021 Scripps Howard Award for Administrator of the Year by the Scripps Howard Foundation and the Association for Education in Journalism and Mass Communication.\nDalglish represents the Association of Schools of Journalism and Mass Communication on the Accrediting Council on Education in Journalism and Mass Communications, and frequently serves as a site-team member for accreditation visits at other journalism schools.\nDalglish was executive director of the Reporters Committee for Freedom of the Press from 2000-12. The Reporters Committee provides pro bono legal representation, amicus curiae support, and other legal resources to protect First Amendment freedoms and the newsgathering rights of journalists.\nPrior to assuming the Reporters Committee position, Dalglish was a media lawyer for almost five years in the trial department of the Minneapolis law firm of Dorsey & Whitney.\nFrom 1980-93, Dalglish was a reporter and editor at the St. Paul Pioneer Press. As a reporter, she covered beats ranging from general assignment and suburbs to education and courts. During her last three years at the Pioneer Press, she served as night city editor, assistant news editor and national/foreign editor.\nDalglish was awarded the Kiplinger Award by the National Press Foundation in 2012 for her service to journalism. She was also awarded the Wells Memorial Key, the highest honor bestowed by the Society of Professional Journalists, in 1995.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Mark Feldstein",
+   "title": "Richard Eaton Chair of Broadcast Journalism",
+   "rank": "Professor",
+   "department": "Philip Merrill College of Journalism",
+   "profile_url": "https://merrill.umd.edu/directory/mark-feldstein",
+   "personal_url": null,
+   "photo_url": "https://merrill.umd.edu/sites/default/files/styles/optimized/public/people/Mark_Feldstein_02.jpg?itok=VH8sDAYs",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Mark Feldstein spent 20 years as an award-winning on-air investigative correspondent at CNN, ABC News and various local television stations.\nOn assignment, he was beaten up, subpoenaed and sued in the U.S.; detained and censored by government authorities in Egypt; and escorted out of the country under armed guard in Haiti.\nHis exposés led to resignations, firings, multimillion dollar fines and prison terms — and more than 50 journalism awards, including two George Foster Peabody medallions, the Columbia-DuPont baton, the national Edward R. Murrow broadcasting prize and nine regional Emmys.\nAs a scholar, Feldstein has been published in numerous peer-reviewed journals. His book \" Poisoning the Press \" earned top academic awards for research and was selected by The Washington Post and other newspapers as a best book of the year.\nFeldstein is regularly quoted as a media analyst by leading outlets in the U.S. and abroad, and has testified as an expert witness on First Amendment issues before Congress and in court, most recently on behalf of WikiLeaks founder Julian Assange.\nHe has traveled to more than 30 countries and lectured around the world on investigative reporting, censorship, freedom of the press, and journalism history and ethics.\nRecent Publications\n“‘Free press wins in underhanded fashion’: Columnist Drew Pearson’s Blackmail of General Douglas MacArthur,” American Journalism, Winter 2022: 392-418.\n“ The Nixon White House Plotted to Assassinate a Journalist 50 Years Ago ,” Washington Post , March 25, 2022.\n“Investigative Reporters and Whistleblowers,” Journalism & Communication Monographs, fall 2020: 246-51.\nExpert witness report , U.S. v. Julian Assange , Crown Court at Woolwich (London), Jan. 12, 2020, pp. 1-26 (14,000-words).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Directory/profile title is the endowed chair only; profile bio describes him as professor (Richard Eaton Chair); mapped to Professor."
+  },
+  {
+   "name": "Christopher Hanson",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Philip Merrill College of Journalism",
+   "profile_url": "https://merrill.umd.edu/directory/christopher-hanson",
+   "personal_url": null,
+   "photo_url": "https://merrill.umd.edu/sites/default/files/styles/optimized/public/people/Chris_Hanson_05.jpg?itok=LZ84B6sa",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Christopher Hanson worked for 20 years as a reporter for Time, The Washington Star, Reuters and the Seattle Post-Intelligencer, focusing on topics such as presidential politics, Congress, the environment, American diplomacy and military affairs. Hanson was a combat correspondent in the Gulf War and covered the civil war in Rwanda.\nHe joined the Philip Merrill College of Journalism in 1999 after earning a Ph.D. in Mass Communication from the University of North Carolina under a Freedom Forum Fellowship and an M.A. in political theory and moral philosophy in 1984 from Oxford University. His research interests include journalism ethics, the role of master narratives and stereotypes in shaping news content, and media-military relations.\nA contributing editor of Columbia Journalism Review, Hanson has published over 80 articles in CJR, as well as opinion pieces in The New York Times, The Boston Globe, The New Republic and elsewhere. He has discussed the news media on National Public Radio, C-SPAN and other broadcast and cable outlets.\nDegrees B.A., Reed College M.A., Oxford University Ph.D., University of North Carolina at Chapel Hill",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Naeemul Hassan",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Philip Merrill College of Journalism",
+   "profile_url": "https://merrill.umd.edu/directory/naeemul-hassan",
+   "personal_url": "https://naeemulhassan.info/",
+   "photo_url": "https://merrill.umd.edu/sites/default/files/styles/optimized/public/people/Naeemul_Hassan_02.jpg?itok=1ICZjvGk",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Naeemul Hassan is an associate professor jointly appointed at the University of Maryland Philip Merrill College of Journalism and College of Information. A leader in applying big data and data mining principles and methods to journalism and computer science instruction, Hassan came to the university faculty in 2019 and earned tenure in 2025. He directs the Computational Journalism Lab at UMD.\nHe holds a Ph.D. in computer science from the University of Texas at Arlington and was previously an assistant professor at the University of Mississippi and the director of their multidisciplinary Data Exploration and Research laboratory (dear.lab). He taught courses on computational journalism, data visualization, software design and development and more.\nHassan’s interests include computational journalism, social media sensing, data mining and natural language processing. His research focuses on the ways in which different entities use social media as an engagement tool, as well as how to design algorithms that would reduce harm caused by clickbait in social media.\nHassan also co-developed a popular automated fact checking and monitoring platform called ClaimBuster, which assists journalists in ferreting out falsehoods.\nWebsite: https://naeemulhassan.info/\nDegrees B.S., Bangladesh University of Engineering & Technology Ph.D., University of Texas at Arlington",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Shuning Lu",
+   "title": "Assistant Professor in Media, Democracy and Technology",
+   "rank": "Assistant Professor",
+   "department": "Philip Merrill College of Journalism",
+   "profile_url": "https://merrill.umd.edu/directory/shuning-lu",
+   "personal_url": null,
+   "photo_url": "https://merrill.umd.edu/sites/default/files/styles/optimized/public/people/Shuning-Lu-2026-Profile.JPG?itok=Z-NIBrUQ",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Shuning Lu joined the faculty at the Philip Merrill College of Journalism in Fall 2025 as an assistant professor in media, democracy and technology.\nLu came to Merrill College from North Dakota State University, where she was an assistant professor in the Department of Communication. She received her doctoral degree from The University of Texas at Austin’s Moody College of Communication.\nLu’s research revolves around the intersection between journalism and social media. She uses experiments, surveys and computational social science methods to examine the emerging audience behavior and shifting journalistic practices in the digital environment in both the U.S. and China.\nAt Merrill College, she teaches courses in social media content creation, audience engagement and analytics.\nLu has published more than two dozen peer-reviewed articles in the field of journalism and communication. She has secured grants from Qualtrics, Social Science Research Council, The Arthur W. Page Center for Integrity in Public Communication and the Association for Education in Journalism and Mass Communication, among others. She has received multiple Top Paper Awards from the International Communication Association, National Communication Association and AEJMC.\nBefore coming to the U.S., Lu worked as a videographer and photographer for several major events, including the Special Olympics, Shanghai Book Fair and World Expo. Her passion for journalism began in middle school when she started hosting a radio show. Lu was born and raised in Shanghai, China.\nDegrees B.A., Fudan University (Shanghai, China) M.A., Fudan University (Shanghai, China) Ph.D., The University of Texas at Austin",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Christoph Mergerson",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Philip Merrill College of Journalism",
+   "profile_url": "https://merrill.umd.edu/directory/christoph-mergerson",
+   "personal_url": null,
+   "photo_url": "https://merrill.umd.edu/sites/default/files/styles/optimized/public/people/Christoph_Mergerson_02.jpg?itok=g6Zn_ApF",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Christoph Mergerson is an assistant professor at the Philip Merrill College of Journalism. He joined Merrill College as a visiting assistant professor in Fall 2021 and was appointed to the rank of assistant professor the following year. He is currently the lead instructor for Merrill College's journalism history course.\nIn addition to journalism history, his research and teaching interests include weather and disaster journalism, journalism and democracy, and media law and ethics. His research on the factors that influence the job satisfaction of television weathercasters and why it matters for our democratic society in the United States was recently published in Journalism & Mass Communication Quarterly. He is also researching the evolution of weathercasting in the post-broadcast era and the history of women in television meteorology in the Space Age.\nPrior to academia, Mergerson was a public affairs manager for a disaster preparedness organization and a radio producer in New Orleans. He was also an intern in the Office of Strategic Planning & Policy at the National Weather Service’s headquarters in Silver Spring, Maryland, and a media policy researcher with the Brookings Institution in Washington, D.C.\nMergerson earned his doctorate in media studies from Rutgers University, and has a master's degree in public affairs from The University of Texas at Austin. He earned his bachelor’s degree in political science from California State University, Northridge.\nDegrees B.A., California State University, Northridge M.P.Aff., The University of Texas at Austin Ph.D., Rutgers University",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Susan Moeller",
+   "title": "Professor of Media and International Affairs; Director of Ph.D. Studies",
+   "rank": "Professor",
+   "department": "Philip Merrill College of Journalism",
+   "profile_url": "https://merrill.umd.edu/directory/susan-moeller",
+   "personal_url": null,
+   "photo_url": "https://merrill.umd.edu/sites/default/files/styles/optimized/public/people/Susan-Moeller-2026-Updated-1-2.jpg?itok=smQ7lpGm",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Expertise in U.S.",
+    "global media",
+    "public policy",
+    "especially in regards to violence",
+    "conflict",
+    "war",
+    "disasters",
+    "terrorism",
+    "WMD",
+    "human rights",
+    "photojournalism",
+    "trauma",
+    "ethics."
+   ],
+   "bio": "Susan Moeller is the director of Merrill College's Ph.D. program. She also is director of the International Center for Media and the Public Agenda (ICMPA), an academic center that forms a bridge between Merrill College and the University of Maryland School of Public Policy. She is professor of media and international affairs at Merrill College and an affiliated faculty member at the School of Public Policy.\nIn 2008, Moeller was the recipient of two major awards: a Carnegie Scholar Award from the Carnegie Corporation of New York, a $100,000 grant for research and writing on how media report on the intersection of Islam and terrorism; and the State of Maryland Board of Regents Teaching Award, which recognized Moeller both for her work in the university classroom and for her work in helping to found a new global education program, the Salzburg Academy on Media and Global Change, where she is the co-director and lead faculty member.\nThe Salzburg Academy Moeller’s center launched the three-week-long summer academy together with the Salzburg Global Seminar, an independent, nongovernmental organization based in Austria. Over a dozen faculty and 60 students from five continents gather in Salzburg to jointly consider how media literacy can nurture good governance, corporate accountability and economic development — and to create online lessons that allow them to bring their insights back to students at their home institutions. By centering the academy experience around the writing and construction of an online curriculum for global media literacy, the program now engages not just the 60 students who come to Austria but the thousands at the 15 or so participating universities who cannot.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Deborah Nelson",
+   "title": "Professor of Investigative Journalism",
+   "rank": "Professor",
+   "department": "Philip Merrill College of Journalism",
+   "profile_url": "https://merrill.umd.edu/directory/deborah-nelson",
+   "personal_url": null,
+   "photo_url": "https://merrill.umd.edu/sites/default/files/styles/optimized/public/people/Deb_Nelson_01.jpeg?itok=iH4pE4FO",
+   "google_scholar_url": null,
+   "research_areas": [
+    "– Investigative journalism"
+   ],
+   "bio": "Deborah Nelson is a Pulitzer Prize-winning journalist who joined the Merrill College faculty in 2006 after five years as the Washington investigations editor for the Los Angeles Times. Before that, she reported for The Washington Post, The Seattle Times and the Chicago Sun-Times.\nNelson co-authored a series at The Seattle Times on widespread abuses in the federal government's tribal housing program that won a Pulitzer Prize for Investigative Reporting. She also served as an editor on Pulitzer Prize-winning investigations into child welfare for The Washington Post and military accidents for the Los Angeles Times.\nSince joining Merrill College, she has co-authored articles for Reuters that examined global hunger, pandemics, income inequality, climate change, antibiotic resistance and military housing conditions. The University of Maryland cited that work in awarding her the 2025 Kirwan Faculty Research and Scholarship Prize. The articles also won national awards, including from the Society of Professional Journalists, National Academies of Sciences, American Association for the Advancement of Science, White House Correspondents' Association and National Press Club.\nHer critically acclaimed book, “The War Behind Me” (Basic Books 2008), documents the coverup of U.S. war crimes in Vietnam and profiles the soldiers who tried to stop the atrocities.\nStudents in her investigative reporting course have produced their own award-winning work for Capital News Service and the Howard Center for Investigative Journalism. Their series on police use of force in collaboration with the Associated Press was a 2025 Pulitzer Prize finalist, and an investigation into congressional travel won a 2024 IRE Award.\nNelson has a J.D. from DePaul University College of Law and a B.S.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Sarah Oates",
+   "title": "Professor; Senior Scholar",
+   "rank": "Professor",
+   "department": "Philip Merrill College of Journalism",
+   "profile_url": "https://merrill.umd.edu/directory/sarah-oates",
+   "personal_url": "http://www.media-politics.com/",
+   "photo_url": "https://merrill.umd.edu/sites/default/files/styles/optimized/public/people/Sarah_Oates_03.jpg?itok=1hsEwQUF",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Disinformation",
+    "Russia",
+    "campaigns",
+    "elections",
+    "media freedom",
+    "journalists at risk",
+    "Trump",
+    "the media",
+    "media",
+    "authoritarianism",
+    "terrorism coverage",
+    "media in cross-national perspective"
+   ],
+   "bio": "Sarah Oates is a Merrill College professor and senior scholar. She served as associate dean for research from 2023-26.\nShe is a scholar in the field of political communication and democratization. A major theme in her work is the way in which analysts can measure disinformation and propaganda as it travels through media systems. She has studied how traditional media and the internet can support or subvert democracy in places as diverse as Russia, the United States and the United Kingdom. Oates was designated a UMD Distinguished Scholar-Teacher in 2021. She is an affiliate professor in the UMD Department of Communication and the College of Information.\nOates has published many books, articles, chapters and papers on topics including how the internet can challenge dictatorship, how election coverage varies in different countries and how national media systems cover terrorism in distinctive ways. Her latest book, “Seeing Red: Russian Propaganda and American News,” is co-written with Gordon Neil Ramsay.\nThe recipient of several fellowships and research awards, Oates has been a fellow at the Woodrow Wilson International Center for Scholars and a Fulbright scholar in Russia. She is a co-investigator for the Maryland Democracy Initiative .\nOates has taught undergraduates and graduate courses, as well as supervising doctoral dissertations in political communication with topics ranging from U.S. campaign coverage, how foreign propaganda penetrates domestic media systems, journalistic norms, to online political mobilization in Ukraine. Her current work focuses on how political narratives travel through media ecosystems, analyzing why some stories gain more attention than others from audiences.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Dana Priest",
+   "title": "Knight Chair in Public Affairs Journalism; Professor",
+   "rank": "Professor",
+   "department": "Philip Merrill College of Journalism",
+   "profile_url": "https://merrill.umd.edu/directory/dana-priest",
+   "personal_url": "http://pressuncuffed.org/",
+   "photo_url": "https://merrill.umd.edu/sites/default/files/styles/optimized/public/people/Dana_Priest_01.jpg?itok=2Ve_rmkQ",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dana Priest, the Washington Post investigative reporter and two-time Pulitzer Prize winner, became the third Knight Chair in Public Affairs Journalism at the Philip Merrill College of Journalism on May 2, 2014. Priest also won a Peabody Award and duPont-Columbia Award in 2019 for the PBS FRONTLINE film, \"The Facebook Dilemma.\"\nPriest has spent the majority of her career focusing on national security, military operations and the U.S. intelligence agencies. A two-time Pulitzer Prize winner and three-time finalist, Priest uncovered secret CIA prisons in Eastern Europe and deplorable conditions for veterans at the Walter Reed Medical Center in Washington.\nIn 2010, her project, “Top Secret America,” covered the buildup in top-secret intelligence organizations in the aftermath of Sept. 11. A unique searchable database of top secret sites was part of that investigation, which was expanded and published as a book and a “Frontline” documentary released in September 2011. Her first book, “The Mission: Waging War and Keeping Peace with America’s Military” (Norton, 2003), was a finalist for the Pulitzer and is still widely used in military academies. Priest is an alumna of UC Santa Cruz.\nPriest’s focus in Knight Hall is on global security issues increasingly important in a digital world. The tenured position – formerly held by Pulitzer Prize-winning journalist Haynes Johnson and journalist Hodding Carter III – will provide a unique opportunity to help the profession and journalism education define the future of national security journalism.\nHer student-led Press Uncuffed project successfully focused attention on the plight of journalists who are jailed around the world.\nDegree B.A., University of California, Santa Cruz",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Daniel Trielli",
+   "title": "Assistant Professor of Media and Democracy",
+   "rank": "Assistant Professor",
+   "department": "Philip Merrill College of Journalism",
+   "profile_url": "https://merrill.umd.edu/directory/daniel-trielli",
+   "personal_url": null,
+   "photo_url": "https://merrill.umd.edu/sites/default/files/styles/optimized/public/people/Daniel_Trielli_02.jpg?itok=tpup-ncD",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Daniel Trielli joined the Philip Merrill College of Journalism's faculty in Fall 2023 as assistant professor of media and democracy.\nTrielli, who earned his master’s degree at Merrill College in 2016, was previously an assistant professor of journalism at Loyola University Chicago since 2022. That year, he completed his Ph.D. at Northwestern University.\nHe researches the impact of algorithmic curation on journalism and political information, and studies how Google affects the news and the audiences that use it to search. He is interested in data and computational journalism, media literacy and algorithmic accountability.\nTrielli will teach courses in data journalism and journalism statistics.\nTrielli came to Merrill College as a master's student in 2015 after a 10-year career as a journalist in Brazil at the national newspaper, O Estado de S. Paulo, and the regional newspaper, Diário do Grande ABC.\nWhile at Merrill, he was a graduate assistant and reported for Capital News Service. He led the CNS data team that helped win a Robert F. Kennedy Journalism Award in 2018 for “Home Sick,” a report on income disparities and their effect on asthma rates in Baltimore.\nTrielli's research has been published in Information, Communication & Society and the journal of the International Symposium on Online Journalism, and was presented at the ACM CHI Conference on Human Factors in Computing Systems, and the Computation + Journalism Symposium. He also occasionally writes about it in public-facing media both in the United States and Brazil.\nDegrees B.A., Universidade Metodista de São Paulo M.J., University of Maryland Ph.D., Northwestern University",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Rob Wells",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Philip Merrill College of Journalism",
+   "profile_url": "https://merrill.umd.edu/directory/rob-wells",
+   "personal_url": null,
+   "photo_url": "https://merrill.umd.edu/sites/default/files/styles/optimized/public/people/Rob_Wells_04.jpg?itok=Yxq03rYW",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Rob Wells, a 2016 Ph.D. alum of Merrill College, returned to the university in the Spring 2022 semester after more than five years at the University of Arkansas, where he rose to the rank of associate professor and led Arkansas' journalism graduate program.\nWells has more than two decades of business journalism experience at The Associated Press, Bloomberg News and The Wall Street Journal.\nWhile at Arkansas, Wells ran ArkansasCovid.com, a statewide daily data and news website reporting on the pandemic. He also partnered with Merrill’s Howard Center for Investigative Journalism on multiple projects, including the award-winning “Nowhere To Go” homelessness investigation. Wells is the author of “The Enforcers: How Little-Known Trade Reporters Exposed the Keating Five and Advanced Business Journalism” (University of Illinois Press, 2019), and \"The Insider: How the Kiplinger Newsletter Bridged Washington and Wall Street\" (2022).\nWhile working on his doctorate at Merrill, Wells created a business reporting capstone class. During the 2011-12 school year, he helped launch a business reporting program at the University of South Carolina while serving as a Reynolds Visiting Business Journalism Professor.\nDegrees B.A., California State University, Sacramento M.A., St. John's College Ph.D., University of Maryland",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ronald Yaros",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Philip Merrill College of Journalism",
+   "profile_url": "https://merrill.umd.edu/directory/ronald-yaros",
+   "personal_url": "https://www.digitalengagementlab.org/",
+   "photo_url": "https://merrill.umd.edu/sites/default/files/styles/optimized/public/people/Ronald_Yaros_04.jpg?itok=KHt3-h6o",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital storytelling structures for engagement Mobile journalism",
+    "social media strategies Explanatory photos",
+    "data",
+    "video Science",
+    "health journalism Research methods (quantitative",
+    "qualitative) Blended",
+    "virtual teaching",
+    "learning"
+   ],
+   "bio": "Ronald Yaros is an associate professor of digital engagement at the Philip Merrill College of Journalism, director of the Digital Engagement Lab , and an affiliate associate professor at the University of Maryland's College of Information. He is a Tow-Knight Disruptive Educator for Journalism Innovation and Entrepreneurship, an Apple Distinguished Educator, and a recipient of the campus-wide Excellence in Teaching Award from the UMD Office of Undergraduate Studies. He is also an Apple and Google Play developer, producing an app for Merrill College's Capital News Service.\nSince 2008, Yaros’ work has focused on the micro-level processes people use to seek, select and share digital information produced by humans or artificial intelligence. His collaborations with students and newsrooms such as USA Today and The Baltimore Sun addressed a central challenge: how to sustain attention amid users’ limited time and varying environments. Yaros is the author of \" The Digital Engagement Model : How to Capture and Keep Audience Attention.\" The book details an evidence-based framework for designing content that aligns engagement with real-world constraints on attention. His research advances new strategies for simultaneously engaging traditional target audiences and incidental users who encounter content unexpectedly. His interdisciplinary research has appeared in three book chapters and in Frontiers in Media Psychology, Communication Research, Science Communication, News Research Journal, Health, Culture and Society, Innovative Higher Education, and the International Journal of Cyber Behavior, Psychology and Learning.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  }
+ ]
+}

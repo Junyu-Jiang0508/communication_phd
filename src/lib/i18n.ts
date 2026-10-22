@@ -54,6 +54,7 @@ const dict: Record<string, { en: string; zh: string }> = {
   scholar: { en: 'Google Scholar', zh: 'Google Scholar' },
   close: { en: 'Close', zh: '关闭' },
   open_page: { en: 'Open full page', zh: '打开完整页面' },
+  profile_text: { en: 'Profile text (from the department site)', zh: '个人简介（来自院系网站）' },
   research_areas: { en: 'Research areas (as listed by the department)', zh: '研究领域（院系原文）' },
   labels_title: { en: 'Research labels', zh: '研究标签' },
   labels_note: { en: 'Labels are generated from public profiles and are interpretive aids, not a complete account of anyone’s work. ★ marks a primary emphasis.', zh: '标签由公开资料自动生成，仅作解释性参考，不代表完整学术画像。★ 为主要侧重。' },

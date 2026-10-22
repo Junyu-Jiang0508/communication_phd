@@ -33,11 +33,11 @@ const issue = `https://github.com/Junyu-Jiang0508/communication_phd/issues/new?t
   <div class="fgrid">
     <div>
       {f.summary && <p class="lede" style="font-size:1.1rem"><span data-lang-only="en">{f.summary}</span><span data-lang-only="zh">{f.summary_zh || f.summary}</span></p>}
-      {f.areas.length > 0 && <section style="margin-top:22px"><h3 class="small muted" data-i18n="research_areas">Research areas (as listed by the department)</h3><div class="chips" style="margin-top:8px">{f.areas.map((a) => <span class="chip">{a}</span>)}</div></section>}
-      {bio && <section style="margin-top:22px"><h3 class="small muted">Profile text (from the department site)</h3><div class="bio">{bio.split(/\n+/).filter((x) => x.trim()).map((para) => <p>{para}</p>)}</div></section>}
+      {f.areas.length > 0 && <section style="margin-top:22px"><h2 class="sec-h" data-i18n="research_areas">Research areas (as listed by the department)</h2><div class="chips" style="margin-top:8px">{f.areas.map((a) => <span class="chip">{a}</span>)}</div></section>}
+      {bio && <section style="margin-top:22px"><h2 class="sec-h" data-i18n="profile_text">Profile text (from the department site)</h2><div class="bio">{bio.split(/\n+/).filter((x) => x.trim()).map((para) => <p>{para}</p>)}</div></section>}
     </div>
     <aside class="panel" style="align-self:start">
-      <h3 class="small muted" data-i18n="labels_title">Research labels</h3>
+      <h2 class="sec-h" data-i18n="labels_title">Research labels</h2>
       {DIMS.map((d) => (f.labels[d] || []).length > 0 && (
         <div style="margin-top:12px"><div class="small" style="font-weight:600;margin-bottom:6px"><span data-lang-only="en">{T.dimensions[d].label}</span><span data-lang-only="zh">{T.dimensions[d].label_zh}</span></div>
           <div class="chips">{(f.labels[d] || []).map((l) => <span class={`chip${l.p ? ' primary' : ''}`} data-dim={d} title={T.dimensions[d].labels[l.c]}><span data-lang-only="en">{T.dimensions[d].labels_short[l.c]}</span><span data-lang-only="zh">{T.dimensions[d].labels_short_zh[l.c]}</span>{l.p ? ' ★' : ''}</span>)}</div></div>

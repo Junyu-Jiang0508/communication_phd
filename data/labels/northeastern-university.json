@@ -1,0 +1,2803 @@
+{
+ "slug": "northeastern-university",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "Meryl Alper",
+   "summary": "Studies how disabled and autistic young people and their families use mobile and digital media, examining the social, cultural, and health implications of communication technologies.",
+   "summary_zh": "研究残障与自闭症青少年及其家庭如何使用移动与数字媒介，考察传播技术的社会、文化与健康影响。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "disability",
+    "autism",
+    "digital youth",
+    "children and families' technology use",
+    "mobile communication",
+    "children's media",
+    "inequality",
+    "assistive communication technology"
+   ]
+  },
+  {
+   "name": "Sangah Bae",
+   "summary": "Examines how people use and misuse social cues in the workplace and how these cues shape managerial decision-making, technology adoption, and equity in organizations.",
+   "summary_zh": "考察人们在职场中如何使用与误用社会线索，以及这些线索如何影响管理决策、技术采纳与组织公平。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "social cues",
+    "workplace",
+    "managerial decision-making",
+    "technology adoption",
+    "organizational equity",
+    "organizational behavior"
+   ]
+  },
+  {
+   "name": "Donathan Brown",
+   "summary": "Analyzes the rhetoric of race and public policy in the US, including immigration reform, policing, voting rights, and the civil rights legacy, through rhetorical criticism of policy debates.",
+   "summary_zh": "通过对政策辩论的修辞批评，分析美国种族与公共政策的修辞，涵盖移民改革、警务、投票权与民权遗产。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "race and public policy",
+    "political rhetoric",
+    "policy debates",
+    "immigration reform",
+    "policing",
+    "voting rights",
+    "civil rights",
+    "martin luther king"
+   ]
+  },
+  {
+   "name": "Patricia Davis",
+   "summary": "Studies public memory, race, gender, and representation at the nexus of rhetoric and media, including African American cultural memory in the US South and rhetorics of respectability.",
+   "summary_zh": "在修辞与媒介研究的交汇处研究公共记忆、种族、性别与再现，包括美国南方的非裔美国人文化记忆与体面政治修辞。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "public memory",
+    "african american cultural memory",
+    "southern identity",
+    "race and gender",
+    "representation",
+    "black women",
+    "respectability",
+    "media ethics"
+   ]
+  },
+  {
+   "name": "Adriana de Souza e Silva",
+   "summary": "Investigates how mobile and locative media, location-based games, and mobile media art shape urban mobility and interaction with public spaces, primarily in the Global South.",
+   "summary_zh": "研究移动与位置媒介、基于位置的游戏和移动媒体艺术如何塑造城市流动与公共空间互动，主要聚焦全球南方。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "mobile communication",
+    "locative media",
+    "location-based games",
+    "urban mobility",
+    "public spaces",
+    "global south",
+    "mobile media art",
+    "networked mobilities"
+   ]
+  },
+  {
+   "name": "Smit Desai",
+   "summary": "Studies how people understand, trust, and collaborate with conversational AI, using metaphor analysis and persona design to build voice and LLM agents for healthcare and aging.",
+   "summary_zh": "研究人们如何理解、信任并与对话式AI协作，运用隐喻分析与人设设计为医疗与老龄场景构建语音及大模型智能体。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "conversational ai",
+    "human-ai interaction",
+    "voice assistants",
+    "mental models",
+    "metaphor analysis",
+    "persona design",
+    "llm chatbots",
+    "older adults",
+    "serious illness conversations"
+   ]
+  },
+  {
+   "name": "Michael Ann Devito",
+   "summary": "Studies how trans and neurodivergent communities understand and adapt to algorithmic curation and content moderation, using grounded theory and participatory, community-centered design.",
+   "summary_zh": "研究跨性别与神经多样性社群如何理解并适应算法推荐与内容审核，采用扎根理论与参与式、以社群为中心的设计方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "folk theories of algorithms",
+    "content moderation",
+    "shadowbanning",
+    "tiktok",
+    "transgender",
+    "neurodivergent",
+    "participatory design",
+    "grounded theory",
+    "human-centered ai",
+    "dating apps"
+   ]
+  },
+  {
+   "name": "Ryan Ellis",
+   "summary": "Studies communication law and policy, infrastructure politics, and cybersecurity governance, tracing how infrastructure security and markets such as bug bounties are governed.",
+   "summary_zh": "研究传播法律与政策、基础设施政治与网络安全治理，追溯基础设施安全及漏洞赏金等市场如何被治理。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "infrastructure politics",
+    "cybersecurity",
+    "communication law and policy",
+    "infrastructure security",
+    "cybersecurity governance",
+    "bug bounty",
+    "municipal broadband",
+    "homeland security"
+   ]
+  },
+  {
+   "name": "Laura Forlano",
+   "summary": "Examines the aesthetics and politics of design and emerging technologies such as smart cities, automation, and wearable medical devices, using participatory workshops, speculative prototypes, and disability perspectives.",
+   "summary_zh": "考察设计与新兴技术（智慧城市、自动化、可穿戴医疗设备）的美学与政治，运用参与式工作坊、思辨原型与残障视角。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "speculative design",
+    "participatory design",
+    "smart cities",
+    "autonomous vehicles",
+    "future of work",
+    "wearable medical technologies",
+    "disability",
+    "socio-technical futures",
+    "computational fashion"
+   ]
+  },
+  {
+   "name": "Brooke Foucault Welles",
+   "summary": "Studies how online communication networks enable individual, team, and collective goals, including networked counterpublics and online activism, using network science and computational methods.",
+   "summary_zh": "运用网络科学与计算方法，研究在线传播网络如何促成个人、团队与集体目标，包括网络化反公众与网络行动主义。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_NETWORK",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "network science",
+    "networked counterpublics",
+    "online activism",
+    "social networks",
+    "event-based network analysis",
+    "network visualization",
+    "computational social science",
+    "online communication"
+   ]
+  },
+  {
+   "name": "Diane Francis",
+   "summary": "Studies how traditional and digital communication strategies can reduce health disparities among Black populations, including social media and mental health and digital tools for Black maternal health.",
+   "summary_zh": "研究传统与数字传播策略如何减少黑人群体的健康差距，涉及社交媒体与心理健康以及服务黑人孕产健康的数字工具。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "health equity",
+    "health disparities",
+    "black maternal health",
+    "birth companions",
+    "social media and mental health",
+    "digital health tools",
+    "race and health"
+   ]
+  },
+  {
+   "name": "Katherine Haenschen",
+   "summary": "Studies digital media and politics, using field experiments to test effects of digital communication on voter turnout and digital trace data to measure online political behavior.",
+   "summary_zh": "研究数字媒体与政治，运用田野实验检验数字传播对投票率的影响，并利用数字痕迹数据测量线上政治行为。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_ADMIN_LARGE_SCALE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "voter turnout",
+    "field experiments",
+    "digital trace data",
+    "political campaigns",
+    "online political behavior",
+    "digital media and politics",
+    "get-out-the-vote"
+   ]
+  },
+  {
+   "name": "Heidi Kevoe-Feldman",
+   "summary": "Uses conversation analysis of recorded calls to study how people manage action and crisis talk in 911 emergency dispatch, police negotiations, and customer service call centers.",
+   "summary_zh": "运用会话分析研究录音通话，考察人们在911紧急调度、警方危机谈判与客服呼叫中心中如何组织行动与危机对话。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_LANGUAGE_INTERACTION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "conversation analysis",
+    "911 emergency calls",
+    "carm",
+    "customer service",
+    "crisis negotiation",
+    "institutional talk",
+    "call centers",
+    "social interaction"
+   ]
+  },
+  {
+   "name": "Brennan Klein",
+   "summary": "Develops network and complex-systems tools to study information and emergence in networks, applying them to data justice in the US criminal-legal system and to team coordination in elite sports.",
+   "summary_zh": "开发网络与复杂系统工具研究网络中的信息与涌现，并将其应用于美国刑事司法系统中的数据正义及精英体育的团队协作。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_NETWORK",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ADMIN_LARGE_SCALE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "complex systems",
+    "network science",
+    "emergence",
+    "information in networks",
+    "data justice",
+    "criminal-legal system",
+    "team coordination",
+    "sports networks"
+   ]
+  },
+  {
+   "name": "Catherine Lambert",
+   "summary": "Studies science, risk, and environmental communication, examining how place-based relationships shape public responses to renewable and geothermal energy, natural hazards, and climate change.",
+   "summary_zh": "研究科学、风险与环境传播，考察基于地方的关系如何影响公众对可再生能源与地热开发、自然灾害及气候变化的反应。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "environmental communication",
+    "risk perception",
+    "place attachment",
+    "renewable energy acceptance",
+    "geothermal energy",
+    "natural hazards",
+    "climate change",
+    "public engagement"
+   ]
+  },
+  {
+   "name": "Chuncheng Liu",
+   "summary": "Studies the politics of data and classification in sociotechnical systems, using ethnography of China's social credit system, contact tracing, generative AI, and public health classification.",
+   "summary_zh": "研究社会技术系统中数据与分类的政治，以民族志考察中国社会信用体系、接触者追踪、生成式AI与公共卫生分类。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_CHINA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "social credit system",
+    "datafication",
+    "classification",
+    "surveillance",
+    "contact tracing",
+    "generative ai",
+    "science and technology studies",
+    "ethnography",
+    "china",
+    "hiv/aids"
+   ]
+  },
+  {
+   "name": "Amy Shirong Lu",
+   "summary": "Studies the psychological, physiological, and behavioral effects of narrative games, XR, and apps as digital health interventions, especially for child obesity and physical activity.",
+   "summary_zh": "研究叙事游戏、XR与应用程序作为数字健康干预的心理、生理与行为效果，尤其关注儿童肥胖与身体活动。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_PHYSIO_NEURO",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "games for health",
+    "narratives",
+    "mediated characters",
+    "child obesity",
+    "physical activity",
+    "xr",
+    "digital health interventions",
+    "health technology"
+   ]
+  },
+  {
+   "name": "Alina Ionica Lungeanu",
+   "summary": "Combines social and network science to study how team networks enable collaboration and innovation, including NASA simulated space-mission crews and cross-boundary science teams.",
+   "summary_zh": "结合社会科学与网络科学，研究团队网络如何促进协作与创新，包括NASA模拟太空任务团队与跨界科学团队。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_NETWORK",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "team science",
+    "social networks",
+    "network science",
+    "small teams",
+    "nasa",
+    "space mission simulation",
+    "cross-boundary collaboration",
+    "team innovation"
+   ]
+  },
+  {
+   "name": "Eileen McGivney",
+   "summary": "Conducts design-based research on how people learn with virtual reality, examining how design features shape learners' agency, emotions, identities, and learning outcomes.",
+   "summary_zh": "开展基于设计的研究，探讨人们如何借助虚拟现实学习，考察设计特征如何影响学习者的能动性、情绪、身份与学习成效。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "virtual reality",
+    "xr",
+    "learning sciences",
+    "immersive learning",
+    "design-based research",
+    "learner agency",
+    "stem education",
+    "game-based learning"
+   ]
+  },
+  {
+   "name": "Susan Mello",
+   "summary": "Studies how exposure to media risk information about COVID-19, environmental toxins, and cancer shapes risk perceptions and protective health behaviors, using quantitative methods.",
+   "summary_zh": "运用定量方法，研究媒体中有关新冠、环境毒素与癌症的风险信息接触如何影响风险感知与健康防护行为。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "risk perception",
+    "health communication",
+    "cancer communication",
+    "environmental toxins",
+    "covid-19",
+    "media exposure",
+    "protective health behaviors",
+    "behavior change theory"
+   ]
+  },
+  {
+   "name": "Hristina Nikolova",
+   "summary": "Studies dyadic and joint decision-making between partners and its influence on consumer behavior, along with data-driven consumer welfare interventions, using quantitative and qualitative research.",
+   "summary_zh": "运用定量与质性研究，探讨伴侣间的双人与共同决策如何影响消费行为，以及数据驱动的消费者福祉干预。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_MIXED",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "dyadic decision-making",
+    "joint decision-making",
+    "consumer behavior",
+    "couples",
+    "consumer welfare interventions",
+    "behavioral data science",
+    "retirement decisions"
+   ]
+  },
+  {
+   "name": "Matthew Nisbet",
+   "summary": "Studies how publics and decision-makers come to understand complex science and technology issues such as climate change, analyzing the influence of ideas, expertise, journalism, and philanthropy.",
+   "summary_zh": "研究公众与决策者如何理解气候变化等复杂科技议题，分析观念、专业知识、新闻报道与慈善资助的影响。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "science communication",
+    "climate change",
+    "energy politics",
+    "public engagement with science",
+    "climate journalism",
+    "strategic philanthropy",
+    "nonprofit journalism",
+    "expertise"
+   ]
+  },
+  {
+   "name": "Carey Noland",
+   "summary": "Studies organizational, interpersonal, and health communication.",
+   "summary_zh": "研究组织传播、人际传播与健康传播。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "organizational communication",
+    "interpersonal communication",
+    "health communication",
+    "workplace communication",
+    "relational communication"
+   ]
+  },
+  {
+   "name": "Beth Noveck",
+   "summary": "Studies institutional innovation and the responsible design of collective intelligence and AI to strengthen democratic institutions, open government, and public problem-solving.",
+   "summary_zh": "研究制度创新以及如何负责任地设计集体智慧与AI，以加强民主制度、开放政府与公共问题解决。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "open government",
+    "collective intelligence",
+    "civic technology",
+    "democratic institutions",
+    "public sector innovation",
+    "ai governance",
+    "public participation",
+    "govlab"
+   ]
+  },
+  {
+   "name": "Joseph Reagle",
+   "summary": "Studies online culture and digital communities, including Wikipedia collaboration, online comments, life hacking, and geek feminism.",
+   "summary_zh": "研究网络文化与数字社群，包括维基百科协作、网络评论、生活黑客与极客女性主义。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "wikipedia",
+    "online comments",
+    "life hacking",
+    "geek feminism",
+    "online culture",
+    "online collaboration",
+    "internet policy",
+    "digital culture"
+   ]
+  },
+  {
+   "name": "Craig Robertson",
+   "summary": "Studies the history of information, tracing how paper technologies such as the filing cabinet shaped information, work, and organization, alongside DIY independent music culture.",
+   "summary_zh": "研究信息史，追溯文件柜等纸质技术如何塑造信息、工作与组织，同时关注DIY独立音乐文化。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "information history",
+    "filing cabinet",
+    "media history",
+    "paper technologies",
+    "classification",
+    "the archive",
+    "diy culture",
+    "independent music"
+   ]
+  },
+  {
+   "name": "Maria Elena Villar",
+   "summary": "Studies strategic, health, and science communication with under-represented communities, co-creating content such as fotonovelas, radio stories, and games on mental health stigma, violence, and vaccines.",
+   "summary_zh": "研究面向弱势社群的战略、健康与科学传播，与社区共创图片小说、广播故事与游戏，议题涉及心理健康污名、暴力与疫苗。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "community engagement",
+    "co-creation",
+    "fotonovelas",
+    "mental health stigma",
+    "vaccine hesitancy",
+    "domestic and sexual violence",
+    "latinx communities",
+    "health communication"
+   ]
+  },
+  {
+   "name": "Lucas Wright",
+   "summary": "Studies online trust and safety professionals and compliance vendors for content moderation and AI safety, using interviews, discourse analysis, and online field experiments.",
+   "summary_zh": "研究在线信任与安全从业者及内容审核、AI安全合规服务商，运用访谈、话语分析与在线田野实验。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_MIXED",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "trust and safety",
+    "content moderation",
+    "platform governance",
+    "technology policy",
+    "ai safety",
+    "disinformation monitoring",
+    "copyright enforcement",
+    "compliance"
+   ]
+  },
+  {
+   "name": "Chunyan Wu",
+   "summary": "Studies digital communication, international and intercultural dynamics, and digital activism, using affective-discursive social media analysis of cases such as China's digital manosphere.",
+   "summary_zh": "研究数字传播、国际与跨文化动态及数字行动主义，运用情感-话语取向的社交媒体分析，如中国网络男性圈。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_CHINA",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "social media analysis",
+    "international communication",
+    "intercultural communication",
+    "digital activism",
+    "manosphere",
+    "misogyny",
+    "china",
+    "transnational",
+    "affective-discursive analysis"
+   ]
+  },
+  {
+   "name": "Seo Eun Yang",
+   "summary": "Develops deep learning, computer vision, NLP, and network methods to analyze visual and verbal political framing in news and photojournalism, and studies political neuroscience.",
+   "summary_zh": "开发深度学习、计算机视觉、自然语言处理与网络方法，分析新闻与新闻摄影中的视觉及语言政治框架，并研究政治神经科学。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_PHYSIO_NEURO",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "A_NETWORK",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_PHYSIO_LOG",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "visual framing",
+    "computer vision",
+    "deep learning",
+    "photojournalism",
+    "political neuroscience",
+    "multimodal data",
+    "nlp",
+    "political ideology"
+   ]
+  },
+  {
+   "name": "Alan Zaremba",
+   "summary": "Studies organizational and crisis communication, critiques theories of strategic ambiguity, and examines sports fan subculture and communication surrounding the 1970 Kent State shootings.",
+   "summary_zh": "研究组织与危机传播，批判战略模糊理论，并考察体育迷亚文化及1970年肯特州立大学事件相关传播。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "organizational communication",
+    "crisis communication",
+    "strategic ambiguity",
+    "sports fan subculture",
+    "kent state",
+    "sports betting"
+   ]
+  },
+  {
+   "name": "Rahul Bhargava",
+   "summary": "Builds creative data storytelling and computational journalism tools for social justice, including community data murals, AI civic technologies, and computational analyses of news coverage.",
+   "summary_zh": "为社会正义构建创意数据叙事与计算新闻工具，包括社区数据壁画、AI公民科技以及新闻报道的计算分析。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "data storytelling",
+    "computational journalism",
+    "community data",
+    "data murals",
+    "data literacy",
+    "civic technology",
+    "generative ai",
+    "gendered news coverage"
+   ]
+  },
+  {
+   "name": "Myojung Chung",
+   "summary": "Studies the spread and consequences of misinformation on digital media and develops countermeasures, especially the role of AI and algorithmic literacy, from a media psychology perspective.",
+   "summary_zh": "从媒介心理学视角研究数字媒体中虚假信息的传播与后果，并开发应对策略，尤其关注AI与算法素养的作用。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "misinformation",
+    "misinformation countermeasures",
+    "artificial intelligence",
+    "algorithmic literacy",
+    "digital media",
+    "media psychology",
+    "fact-checking"
+   ]
+  },
+  {
+   "name": "Caleb Gayle",
+   "summary": "Writes narrative journalism on the history of race and identity, drawing on reporting and oral histories with Black elders across the country.",
+   "summary_zh": "撰写关于种族与身份历史的叙事性新闻作品，依托实地报道与全国各地黑人长者的口述史。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "race and identity",
+    "narrative journalism",
+    "oral history",
+    "literary reporting",
+    "black history",
+    "longform nonfiction"
+   ]
+  },
+  {
+   "name": "Meg Heckman",
+   "summary": "Studies feminist journalism history, recovering women's overlooked contributions with archival and computational methods, and researches solutions to local news deserts.",
+   "summary_zh": "研究女性主义新闻史，运用档案与计算方法挖掘女性被忽视的贡献，并探索应对本地新闻荒漠的解决方案。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "journalism history",
+    "feminist media history",
+    "women in journalism",
+    "local news",
+    "news deserts",
+    "mobile news innovation",
+    "student journalism",
+    "nackey scripps loeb"
+   ]
+  },
+  {
+   "name": "Jeff Howe",
+   "summary": "Writes about crowdsourcing and massive online collaboration and how networked technologies are reshaping business and society.",
+   "summary_zh": "撰写关于众包与大规模在线协作的作品，探讨网络技术如何重塑商业与社会。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "crowdsourcing",
+    "online collaboration",
+    "power of the crowd",
+    "technology journalism",
+    "future of technology"
+   ]
+  },
+  {
+   "name": "Chenyan Jia",
+   "summary": "Studies how emerging media technologies shape attitudes and behavior, how to align social media AI with democratic values, and how to mitigate misinformation, bridging mass communication and HCI.",
+   "summary_zh": "融合大众传播与人机交互，研究新兴媒介技术如何影响态度与行为、如何使社交媒体AI契合民主价值，以及如何遏制虚假信息。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "human-centered ai",
+    "ai alignment",
+    "misinformation mitigation",
+    "social media ai",
+    "democratic values",
+    "societal objective functions",
+    "human-ai interaction",
+    "emerging media technologies"
+   ]
+  },
+  {
+   "name": "Jonathan Kaufman",
+   "summary": "Focuses on the changing state of the news media, China, and race and class in America, drawing on a career in business and international journalism.",
+   "summary_zh": "关注新闻媒体的变迁、中国以及美国的种族与阶层问题，借鉴其商业与国际新闻从业经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_CHINA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "changing news media",
+    "china",
+    "race and class in america",
+    "african american-jewish relations",
+    "business journalism",
+    "journalism education"
+   ]
+  },
+  {
+   "name": "Dan Kennedy",
+   "summary": "Studies the future of local and community news, examining media startups and news deserts through case reporting, alongside media criticism, ethics, and the First Amendment.",
+   "summary_zh": "研究本地与社区新闻的未来，通过案例报道考察媒体初创与新闻荒漠，并关注媒介批评、伦理与第一修正案。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "local news",
+    "community news",
+    "media startups",
+    "news deserts",
+    "media criticism",
+    "first amendment",
+    "media ethics",
+    "future of news"
+   ]
+  },
+  {
+   "name": "John P. Wihbey",
+   "summary": "Studies AI and media, social media platform governance and free speech, and news and knowledge in networked environments, and builds AI literacy tools.",
+   "summary_zh": "研究AI与媒体、社交媒体平台治理与言论自由以及网络化环境中的新闻与知识，并开发AI素养工具。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "platform governance",
+    "free speech",
+    "social media platforms",
+    "ai and media",
+    "ai literacy",
+    "news and knowledge",
+    "media entrepreneurship",
+    "digital storytelling"
+   ]
+  }
+ ]
+}

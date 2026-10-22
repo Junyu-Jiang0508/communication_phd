@@ -1,0 +1,951 @@
+{
+ "slug": "university-of-illinois-chicago",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "Eulàlia P. Abril",
+   "summary": "Studies persuasion and campaign messages in health and political communication, including fear and humor responses on social media.",
+   "summary_zh": "研究健康传播与政治传播中的说服与宣传运动信息，包括社交媒体上对恐惧诉求的幽默反应。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "persuasion",
+    "health campaigns",
+    "political communication",
+    "social media",
+    "fear appeals",
+    "humor",
+    "health communication"
+   ]
+  },
+  {
+   "name": "Tanja Aitamurto",
+   "summary": "Studies how people use media to express themselves and participate in democratic life, combining social science with engineering and design perspectives.",
+   "summary_zh": "研究人们如何借助媒介表达自我并参与民主生活，融合社会科学与工程及设计视角。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "democratic participation",
+    "civic engagement",
+    "media and democracy",
+    "empathy",
+    "inclusion",
+    "public sphere",
+    "design research"
+   ]
+  },
+  {
+   "name": "John A. Jones",
+   "summary": "Studies persuasion, credibility, and conflict management in public, business, and intercultural settings, along with nonverbal communication and humor.",
+   "summary_zh": "研究公共、商业与跨文化情境中的说服、可信度与冲突管理，以及非语言传播与幽默。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_LANGUAGE_INTERACTION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "persuasion",
+    "conflict management",
+    "credibility",
+    "nonverbal communication",
+    "humor",
+    "intercultural communication",
+    "rhetoric",
+    "communication education"
+   ]
+  },
+  {
+   "name": "Steve Jones",
+   "summary": "Studies the social and commercial uses of the internet and new and mobile media, and the social changes they bring.",
+   "summary_zh": "研究互联网及新媒体、移动媒体的社会与商业用途及其带来的社会变迁。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "internet studies",
+    "new media",
+    "mobile media",
+    "internet research",
+    "social uses of the internet",
+    "digital culture",
+    "visualization"
+   ]
+  },
+  {
+   "name": "Do Own Donna Kim",
+   "summary": "Studies playful digital cultures and mediated social interaction across physical, virtual, and hybrid places, plus Korean digital feminism and popular media.",
+   "summary_zh": "研究跨越实体、虚拟与混合空间的游戏性数字文化与中介化社会互动，并关注韩国数字女性主义与流行媒介。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_EAST_ASIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "playful digital cultures",
+    "mediated social interaction",
+    "hybrid spaces",
+    "authenticity",
+    "human and artificial",
+    "korean digital feminism",
+    "play",
+    "popular media"
+   ]
+  },
+  {
+   "name": "Jeehyun Jenny Lee",
+   "summary": "Studies the sociocultural and ethical implications of algorithmic social media, AI, and creator culture, focusing on power, inequity, and identity expression.",
+   "summary_zh": "研究算法化社交媒体、人工智能与创作者文化的社会文化及伦理影响，关注权力、不平等与身份表达。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "algorithmic culture",
+    "creator culture",
+    "sociotechnical imaginaries",
+    "ai ethics",
+    "social media",
+    "surveillance",
+    "identity expression",
+    "feminist media studies"
+   ]
+  },
+  {
+   "name": "Elena Maris",
+   "summary": "Studies tensions between media and tech industries and their audiences, including audience measurement, platform politics, digital fandom, and LGBTQ+ users.",
+   "summary_zh": "研究媒体与科技产业和其受众之间的互动与张力，包括受众测量、平台政治、数字粉丝文化及LGBTQ+用户。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "media industries",
+    "audience measurement",
+    "platform politics",
+    "digital fandom",
+    "online communities",
+    "lgbtq+ users",
+    "user-industry relations",
+    "popular culture"
+   ]
+  },
+  {
+   "name": "Zachary McDowell",
+   "summary": "Studies access and advocacy in digital peer production spaces such as Wikipedia, including digital literacy, video games, data ethics, and media manipulation.",
+   "summary_zh": "研究维基百科等数字同侪生产空间中的接入与倡导，涉及数字素养、电子游戏、数据伦理与媒介操纵。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "peer production",
+    "wikipedia",
+    "digital literacy",
+    "video games",
+    "media manipulation",
+    "data ethics",
+    "open access",
+    "community-based practice"
+   ]
+  },
+  {
+   "name": "Sharon Meraz",
+   "summary": "Studies political communication and networked journalism on social media, using network analysis, automated content analysis, and NLP to test agenda setting and framing.",
+   "summary_zh": "研究社交媒体上的政治传播与网络化新闻，运用社会网络分析、自动内容分析与自然语言处理检验议程设置与框架理论。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_NETWORK",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "network agenda setting",
+    "networked gatekeeping",
+    "networked framing",
+    "social network analysis",
+    "automated content analysis",
+    "twitter",
+    "political activism",
+    "virality"
+   ]
+  },
+  {
+   "name": "Zizi Papacharissi",
+   "summary": "Studies the social and political consequences of online and social media, theorizing digital media, democracy, and connective AI.",
+   "summary_zh": "研究网络媒体与社交媒体的社会和政治后果，对数字媒介、民主与“连接型AI”进行理论化探讨。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "social media",
+    "democracy",
+    "online political expression",
+    "digital media and democracy",
+    "connective ai",
+    "political future",
+    "networked publics"
+   ]
+  },
+  {
+   "name": "Andrew Rojecki",
+   "summary": "Studies communication in political movements, racial politics, and globalization in American politics, increasingly using NLP-based textual analysis.",
+   "summary_zh": "研究政治运动、种族政治与全球化背景下美国政治中的传播，近来采用基于自然语言处理的文本分析。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "racial politics",
+    "media representation of race",
+    "political movements",
+    "globalization",
+    "politics of insecurity",
+    "natural language processing",
+    "textual analysis"
+   ]
+  },
+  {
+   "name": "Samuel Hardman Taylor",
+   "summary": "Studies how social media, AI, and mobile technologies affect personal relationships and mental health, and designs tools supporting connection and social media analytics.",
+   "summary_zh": "研究社交媒体、人工智能与移动技术如何影响人际关系与心理健康，并设计支持社会联结的技术与社交媒体分析工具。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "personal relationships",
+    "mental health",
+    "social media",
+    "mobile phones",
+    "human-computer interaction",
+    "well-being",
+    "social media analytics",
+    "intimacy"
+   ]
+  },
+  {
+   "name": "Cindy Tekobbe",
+   "summary": "Studies the digital lives, identities, and activism of Indigenous and other underserved communities, AI ethics, and gender and sexuality online through rhetorical analysis.",
+   "summary_zh": "通过修辞分析研究原住民及其他弱势社群的数字生活、身份与行动主义，以及人工智能伦理和网络中的性别与性。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "indigenous rhetorics",
+    "digital activism",
+    "american indian",
+    "ai ethics",
+    "gender and sexuality online",
+    "feminist science and technology",
+    "digital identity"
+   ]
+  },
+  {
+   "name": "Jingyan Elaine Yuan",
+   "summary": "Studies how the internet and digital platforms mediate cultural practices and social change in China, and disinformation among Chinese Americans.",
+   "summary_zh": "研究互联网与数字平台如何中介中国的文化实践与社会变迁，以及虚假信息对美国华人的影响。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_CHINA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "chinese internet",
+    "digital platforms",
+    "cultural production",
+    "nationalism",
+    "privacy",
+    "chinese americans",
+    "disinformation",
+    "us-china relations"
+   ]
+  }
+ ]
+}

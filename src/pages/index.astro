@@ -149,6 +149,10 @@ import meta from '../data/meta.json';
     } finally { go.disabled = false; loadbar.hidden = true; }
   }
   go.addEventListener('click', () => run(true));
+  // A query in the URL fragment (never sent to a server) pre-fills the box, so a result set can be shared as a link.
+  if (location.hash.startsWith('#q=')) {
+    try { q.value = decodeURIComponent(location.hash.slice(3)); q.dispatchEvent(new Event('input')); } catch {}
+  }
   q.addEventListener('keydown', (e) => { if ((e.metaKey || e.ctrlKey) && e.key === 'Enter') run(true); });
 
   function why(s: Scored) {
@@ -160,7 +164,7 @@ import meta from '../data/meta.json';
   function render() {
     if (!last) return;
     const lang = getLang();
-    const head = `<div class="results-head rise"><div class="seg" role="group"><button type="button" aria-pressed="${view === 'faculty'}" data-view="faculty">${t('view_faculty')}</button><button type="button" aria-pressed="${view === 'programs'}" data-view="programs">${t('view_programs')}</button></div><span class="small muted">${view === 'faculty' ? t('results_n', { n: last.length }) : t('results_p', { n: programFit(last, P).length })}</span></div>`;
+    const head = `<div class="results-head rise"><div class="seg" role="group"><button type="button" aria-pressed="${view === 'faculty'}" data-view="faculty">${t('view_faculty')}</button><button type="button" aria-pressed="${view === 'programs'}" data-view="programs">${t('view_programs')}</button></div><span class="small muted">${view === 'faculty' ? t('results_n', { n: last.length }) : t('results_p', { n: programFit(last, P).length })}</span><button type="button" class="btn sm quiet" id="copy-link">${t('copy_link')}</button></div>`;
     let body = '';
     if (!last.length) body = `<div class="empty"><b>${t('no_results')}</b>${t('no_results_help')}</div>`;
     else if (view === 'faculty') {
@@ -174,6 +178,13 @@ import meta from '../data/meta.json';
     results.innerHTML = head + body;
     results.querySelectorAll<HTMLButtonElement>('[data-view]').forEach((b) => b.addEventListener('click', () => { view = b.dataset.view as any; render(); }));
     results.querySelector('#more')?.addEventListener('click', () => { shown += 30; render(); });
+    results.querySelector<HTMLButtonElement>('#copy-link')?.addEventListener('click', async (ev) => {
+      const url = location.origin + location.pathname + '#q=' + encodeURIComponent(lastQuery);
+      history.replaceState(null, '', '#q=' + encodeURIComponent(lastQuery));
+      const b = ev.currentTarget as HTMLButtonElement;
+      try { await navigator.clipboard.writeText(url); b.textContent = t('copied'); } catch { prompt(t('copy_link'), url); }
+      setTimeout(() => (b.textContent = t('copy_link')), 1500);
+    });
     bindSaveButtons(results);
   }
 </script>

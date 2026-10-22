@@ -104,6 +104,7 @@ const dict: Record<string, { en: string; zh: string }> = {
   sl_clear: { en: 'Remove all', zh: '清空' },
   remove: { en: 'Remove', zh: '移除' },
   copied: { en: 'Copied', zh: '已复制' },
+  copy_link: { en: 'Copy link', zh: '复制链接' },
 };
 
 export function getLang(): Lang {

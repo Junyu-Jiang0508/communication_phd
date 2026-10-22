@@ -80,9 +80,17 @@ export function setupDrawer(getPerson: (id: string) => { f: Faculty; p?: Program
   let drawer = document.querySelector<HTMLElement>('.drawer');
   if (!backdrop) { backdrop = document.createElement('div'); backdrop.className = 'drawer-backdrop'; document.body.appendChild(backdrop); }
   if (!drawer) { drawer = document.createElement('aside'); drawer.className = 'drawer'; drawer.setAttribute('role', 'dialog'); drawer.setAttribute('aria-modal', 'true'); document.body.appendChild(drawer); }
-  const close = () => { drawer!.dataset.open = 'false'; backdrop!.dataset.open = 'false'; document.body.style.overflow = ''; };
+  let lastFocus: HTMLElement | null = null;
+  const isOpen = () => drawer!.dataset.open === 'true';
+  const close = () => {
+    if (!isOpen()) return;
+    drawer!.dataset.open = 'false'; backdrop!.dataset.open = 'false'; document.body.style.overflow = '';
+    lastFocus?.focus?.();
+  };
   const open = (id: string) => {
     const x = getPerson(id); if (!x) return;
+    lastFocus = document.activeElement as HTMLElement;
+    drawer!.setAttribute('aria-label', x.f.name);
     drawer!.innerHTML = drawerHtml(x.f, x.p, tax);
     drawer!.dataset.open = 'true'; backdrop!.dataset.open = 'true'; document.body.style.overflow = 'hidden';
     bindSaveButtons(drawer!);
@@ -90,7 +98,17 @@ export function setupDrawer(getPerson: (id: string) => { f: Faculty; p?: Program
   };
   backdrop.addEventListener('click', close);
   drawer.addEventListener('click', (e) => { if ((e.target as HTMLElement).closest('[data-close]')) close(); });
-  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') close(); });
+  document.addEventListener('keydown', (e) => {
+    if (!isOpen()) return;
+    if (e.key === 'Escape') { close(); return; }
+    if (e.key === 'Tab') {
+      const f = Array.from(drawer!.querySelectorAll<HTMLElement>('a[href], button:not([disabled]), textarea, input, select')).filter((el) => el.offsetParent !== null);
+      if (!f.length) return;
+      const first = f[0], last = f[f.length - 1];
+      if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+      else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+    }
+  });
   document.addEventListener('click', (e) => { const b = (e.target as HTMLElement).closest<HTMLElement>('.open-person'); if (b) open(b.dataset.id!); });
   return { open, close };
 }

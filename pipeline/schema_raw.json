@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Raw faculty records for one university (data/raw/<slug>.json)",
+  "type": "object",
+  "required": ["university", "slug", "departments", "scraped_at", "faculty"],
+  "properties": {
+    "university": {"type": "string"},
+    "slug": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+    "scraped_at": {"type": "string"},
+    "departments": {
+      "type": "array", "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["name", "directory_url"],
+        "properties": {
+          "name": {"type": "string"},
+          "school": {"type": ["string", "null"]},
+          "directory_url": {"type": "string", "pattern": "^https?://"},
+          "phd_program_url": {"type": ["string", "null"]},
+          "phd_program_name": {"type": ["string", "null"]},
+          "notes": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "faculty": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "title", "rank", "department", "profile_url"],
+        "properties": {
+          "name": {"type": "string", "minLength": 3},
+          "title": {"type": "string"},
+          "rank": {"type": "string", "enum": ["Professor", "Associate Professor", "Assistant Professor"]},
+          "department": {"type": "string"},
+          "profile_url": {"type": "string", "pattern": "^https?://"},
+          "personal_url": {"type": ["string", "null"]},
+          "photo_url": {"type": ["string", "null"]},
+          "google_scholar_url": {"type": ["string", "null"]},
+          "research_areas": {"type": "array", "items": {"type": "string"}},
+          "bio": {"type": "string"},
+          "sources": {"type": "array", "items": {"type": "string"}},
+          "notes": {"type": ["string", "null"]}
+        }
+      }
+    }
+  }
+}

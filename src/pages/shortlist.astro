@@ -1,0 +1,47 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="Shortlist">
+  <div class="page-head">
+    <div><h1 data-i18n="sl_h1">Shortlist</h1><p class="lede" data-i18n="sl_lede">Faculty you saved, kept in this browser only. Add notes, then export to your application tracker.</p></div>
+    <div class="toolbar"><button type="button" class="btn" id="csv" data-i18n="sl_export_csv">Export CSV</button><button type="button" class="btn" id="md" data-i18n="sl_export_md">Copy as Markdown</button><button type="button" class="btn quiet" id="clear" data-i18n="sl_clear">Remove all</button></div>
+  </div>
+  <div id="list" class="rows"></div>
+  <style>
+    .note { width: 100%; margin-top: 8px; min-height: 56px; font-size: 0.9rem; }
+  </style>
+  <script>
+    import faculty from '../data/faculty.json';
+    import programs from '../data/programs.json';
+    import tax from '../data/taxonomy.json';
+    import { esc, withBase, type Faculty, type Program, type Taxonomy } from '../lib/data';
+    import { t, getLang } from '../lib/i18n';
+    import { avatar, chip, setupDrawer } from '../lib/ui';
+    import * as sl from '../lib/shortlist';
+    const F = faculty as unknown as Faculty[]; const P = programs as unknown as Program[]; const T = tax as unknown as Taxonomy;
+    const byId = new Map(F.map((f) => [f.id, f])); const byProg = new Map(P.map((p) => [p.slug, p]));
+    setupDrawer((id) => { const f = byId.get(id); return f ? { f, p: byProg.get(f.u) } : undefined; }, T);
+    const list = document.getElementById('list')!;
+    function rows() { return sl.load().map((e) => ({ e, f: byId.get(e.id) })).filter((x) => x.f) as { e: sl.Entry; f: Faculty }[]; }
+    function render() {
+      const lang = getLang();
+      const r = rows();
+      list.innerHTML = r.length ? r.map(({ e, f }) => { const p = byProg.get(f.u); return `<article class="row" data-id="${esc(f.id)}">${avatar(f)}<div class="who"><div class="name"><button type="button" class="open-person" data-id="${esc(f.id)}">${esc(f.name)}</button></div><div class="meta">${p ? `<a href="${withBase('programs/' + p.slug + '/')}">${esc(p.name)}</a> · ` : ''}${esc(f.dept)} · ${esc(f.rank)}</div><p class="sum">${esc(lang === 'zh' && f.summary_zh ? f.summary_zh : f.summary)}</p><div class="chips">${(f.labels.topic || []).filter((l) => l.p).slice(0, 3).map((l) => chip(T, 'topic', l.c, true)).join('')}</div><textarea class="textarea note" data-note="${esc(f.id)}" placeholder="${t('sl_note')}">${esc(e.note || '')}</textarea></div><div class="side"><span class="small muted">${esc(e.added)}</span><div class="actions">${f.profile ? `<a class="btn sm" href="${esc(f.profile)}" target="_blank" rel="noreferrer">${t('profile')}</a>` : ''}<button type="button" class="btn sm quiet" data-remove="${esc(f.id)}">${t('remove')}</button></div></div></article>`; }).join('') : `<div class="empty"><b>${t('sl_empty')}</b>${t('sl_empty_help')}</div>`;
+      list.querySelectorAll<HTMLTextAreaElement>('[data-note]').forEach((ta) => ta.addEventListener('change', () => sl.setNote(ta.dataset.note!, ta.value)));
+      list.querySelectorAll<HTMLButtonElement>('[data-remove]').forEach((b) => b.addEventListener('click', () => { sl.remove(b.dataset.remove!); render(); }));
+    }
+    const cols = ['name', 'rank', 'department', 'university', 'city', 'state', 'summary', 'profile_url', 'personal_site', 'added', 'note'];
+    const data = () => rows().map(({ e, f }) => { const p = byProg.get(f.u); return [f.name, f.rank, f.dept, p?.name || f.u, p?.city || '', p?.state || '', f.summary, f.profile || '', f.site || '', e.added, e.note || '']; });
+    document.getElementById('csv')!.addEventListener('click', () => {
+      const csv = [cols, ...data()].map((r) => r.map((v) => `"${String(v).replace(/"/g, '""')}"`).join(',')).join('\n');
+      const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob(['﻿' + csv], { type: 'text/csv' })); a.download = 'communication-phd-shortlist.csv'; a.click();
+    });
+    document.getElementById('md')!.addEventListener('click', async (ev) => {
+      const md = ['| Name | Rank | Department | University | Profile | Note |', '|---|---|---|---|---|---|', ...data().map((r) => `| ${r[0]} | ${r[1]} | ${r[2]} | ${r[3]} | ${r[7] ? `[link](${r[7]})` : ''} | ${String(r[10]).replace(/\n/g, ' ')} |`)].join('\n');
+      try { await navigator.clipboard.writeText(md); (ev.target as HTMLElement).textContent = t('copied'); setTimeout(() => ((ev.target as HTMLElement).textContent = t('sl_export_md')), 1500); } catch { prompt('Copy:', md); }
+    });
+    document.getElementById('clear')!.addEventListener('click', () => { if (rows().length && confirm(t('sl_clear') + '?')) { sl.clear(); render(); } });
+    document.addEventListener('langchange', render);
+    render();
+  </script>
+</Base>

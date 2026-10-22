@@ -1,0 +1,52 @@
+---
+import Base from '../../layouts/Base.astro';
+import programs from '../../data/programs.json';
+import faculty from '../../data/faculty.json';
+import tax from '../../data/taxonomy.json';
+import { RANK_ORDER, lastName, esc, type Program, type Faculty, type Taxonomy } from '../../lib/data';
+export function getStaticPaths() { return (programs as Program[]).map((p) => ({ params: { slug: p.slug }, props: { p } })); }
+const { p } = Astro.props as { p: Program };
+const base = import.meta.env.BASE_URL;
+const T = tax as unknown as Taxonomy;
+const roster = (faculty as Faculty[]).filter((f) => f.u === p.slug).sort((a, b) => RANK_ORDER[a.rank] - RANK_ORDER[b.rank] || lastName(a.name).localeCompare(lastName(b.name)));
+const ini = (n: string) => n.split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0]).join('').toUpperCase();
+---
+<Base title={p.name} description={`${p.name}: ${p.n} tenure-line Communication faculty, PhD units and links.`}>
+  <p class="small"><a href={`${base}programs/#${p.slug}`} data-i18n="nav_programs">Programs</a> › {p.city}, {p.state}</p>
+  <h1 style="margin-top:8px">{p.name}</h1>
+  <dl class="kv" style="margin-top:16px">
+    {p.shanghai && <><dt data-i18n="shanghai">ShanghaiRanking 2025, Communication</dt><dd>#{p.shanghai}</dd></>}
+    <dt data-i18n="nav_faculty">Faculty</dt><dd>{p.n} · {p.ranks['Professor'] || 0} / {p.ranks['Associate Professor'] || 0} / {p.ranks['Assistant Professor'] || 0}</dd>
+    {p.nca.length > 0 && <><dt data-i18n="nca_areas">NCA Doctoral Program Guide units</dt><dd>{p.nca.join('; ')}</dd></>}
+  </dl>
+  <h2 style="margin-top:28px" data-i18n="units">Units granting the PhD</h2>
+  <div class="rows" style="margin-top:10px">
+    {p.units.map((u) => (
+      <div class="panel"><b>{u.name}</b>{u.school && <div class="small muted">{u.school}</div>}{u.phd && <div class="small" style="margin-top:4px">{u.phd}</div>}
+        <div class="toolbar" style="margin-top:8px">{u.phd_url && <a class="btn sm" href={u.phd_url} target="_blank" rel="noreferrer" data-i18n="phd_page">PhD program page</a>}{u.directory && <a class="btn sm" href={u.directory} target="_blank" rel="noreferrer" data-i18n="directory_link">Faculty directory</a>}{u.url && <a class="btn sm quiet" href={u.url} target="_blank" rel="noreferrer">Unit site</a>}</div>
+      </div>
+    ))}
+  </div>
+  <h2 style="margin-top:28px" data-i18n="roster">Faculty roster</h2>
+  <div class="rows" style="margin-top:10px">
+    {roster.map((f) => (
+      <article class="row">
+        <span class="avatar">{f.photo ? <img src={`${base}${f.photo}`} alt="" loading="lazy" width="44" height="44" /> : ini(f.name)}</span>
+        <div class="who">
+          <div class="name"><a href={`${base}faculty/${f.id}/`} style="text-decoration:none;color:inherit">{f.name}</a></div>
+          <div class="meta">{f.rank} · {f.dept}</div>
+          {f.summary && <p class="sum">{f.summary}</p>}
+          {(f.labels.topic || []).length > 0 && <div class="chips">{(f.labels.topic || []).slice(0, 3).map((l) => <span class={`chip${l.p ? ' primary' : ''}`} data-dim="topic">{T.dimensions.topic.labels[l.c]}{l.p ? ' ★' : ''}</span>)}</div>}
+        </div>
+        <div class="side"><div class="actions"><button type="button" class="btn sm save-btn" data-save={f.id} data-i18n="save">Save</button>{f.profile && <a class="btn sm quiet" href={f.profile} target="_blank" rel="noreferrer" data-i18n="profile">Department profile</a>}</div></div>
+      </article>
+    ))}
+  </div>
+  <script>
+    import { bindSaveButtons } from '../../lib/ui';
+    import { has } from '../../lib/shortlist';
+    import { t } from '../../lib/i18n';
+    document.querySelectorAll<HTMLButtonElement>('.save-btn').forEach((b) => { const on = has(b.dataset.save!); b.setAttribute('aria-pressed', String(on)); b.textContent = on ? t('saved') : t('save'); });
+    bindSaveButtons(document);
+  </script>
+</Base>

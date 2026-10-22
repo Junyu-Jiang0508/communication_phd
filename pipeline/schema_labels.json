@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "LLM-generated research labels for one university (data/labels/<slug>.json)",
+  "type": "object",
+  "required": ["slug", "labeled_at", "faculty"],
+  "properties": {
+    "slug": {"type": "string"},
+    "labeled_at": {"type": "string"},
+    "faculty": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "summary", "confidence", "labels"],
+        "properties": {
+          "name": {"type": "string"},
+          "summary": {"type": "string", "maxLength": 220, "description": "One sentence, <= 200 characters, no name, present tense: what they study and how"},
+          "summary_zh": {"type": "string", "description": "Same summary in Chinese"},
+          "confidence": {"type": "string", "enum": ["high", "medium", "low"]},
+          "labels": {
+            "type": "object",
+            "required": ["topic", "approach", "data", "setting", "region"],
+            "properties": {
+              "topic": {"$ref": "#/$defs/labelList"},
+              "approach": {"$ref": "#/$defs/labelList"},
+              "data": {"$ref": "#/$defs/labelList"},
+              "setting": {"$ref": "#/$defs/labelList"},
+              "region": {"$ref": "#/$defs/labelList"}
+            }
+          },
+          "keywords": {"type": "array", "items": {"type": "string"}, "description": "5-10 specific lowercase keywords/phrases (e.g. 'misinformation', 'computational text analysis', 'wechat') for lexical matching"}
+        }
+      }
+    }
+  },
+  "$defs": {
+    "labelList": {
+      "type": "array",
+      "maxItems": 4,
+      "items": {
+        "type": "object",
+        "required": ["code", "primary", "sources"],
+        "properties": {
+          "code": {"type": "string"},
+          "primary": {"type": "boolean"},
+          "sources": {"type": "array", "items": {"type": "string", "enum": ["department_profile", "personal_site", "publications", "google_scholar", "cv"]}}
+        }
+      }
+    }
+  }
+}

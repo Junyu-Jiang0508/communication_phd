@@ -1,0 +1,66 @@
+---
+import Base from '../../layouts/Base.astro';
+import faculty from '../../data/faculty.json';
+import programs from '../../data/programs.json';
+import bios from '../../data/bios.json';
+import tax from '../../data/taxonomy.json';
+import { DIMS, type Faculty, type Program, type Taxonomy } from '../../lib/data';
+export function getStaticPaths() { return (faculty as Faculty[]).map((f) => ({ params: { slug: f.id }, props: { f } })); }
+const { f } = Astro.props as { f: Faculty };
+const base = import.meta.env.BASE_URL;
+const T = tax as unknown as Taxonomy;
+const p = (programs as Program[]).find((x) => x.slug === f.u);
+const bio = (bios as Record<string, string>)[f.id] || '';
+const ini = f.name.split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0]).join('').toUpperCase();
+const issue = `https://github.com/Junyu-Jiang0508/communication_phd/issues/new?title=${encodeURIComponent('Data correction: ' + f.name + ' (' + (p?.short || f.u) + ')')}&body=${encodeURIComponent('Page: ' + base + 'faculty/' + f.id + '/\n\nWhat is wrong:\n')}`;
+---
+<Base title={f.name} description={`${f.name}, ${f.rank}, ${f.dept}, ${p?.name || ''}. ${f.summary}`}>
+  <p class="small"><a href={`${base}faculty/`} data-i18n="dir_h1">Faculty directory</a> › {p && <a href={`${base}programs/${p.slug}/`}>{p.name}</a>}</p>
+  <div class="identity" style="display:flex;gap:20px;align-items:flex-start;margin-top:14px">
+    <span class="avatar lg">{f.photo ? <img src={`${base}${f.photo}`} alt="" width="96" height="96" /> : ini}</span>
+    <div>
+      <div class="small muted">{f.title}</div>
+      <h1 style="font-size:clamp(1.7rem,1.2rem+1.6vw,2.4rem)">{f.name}</h1>
+      <div class="muted" style="margin-top:6px">{p && <a href={`${base}programs/${p.slug}/`}>{p.name}</a>} · {f.dept}</div>
+      <div class="toolbar" style="margin-top:12px">
+        <button type="button" class="btn save-btn" data-save={f.id} data-i18n="save">Save</button>
+        {f.profile && <a class="btn" href={f.profile} target="_blank" rel="noreferrer" data-i18n="profile">Department profile</a>}
+        {f.site && <a class="btn" href={f.site} target="_blank" rel="noreferrer" data-i18n="personal_site">Personal site</a>}
+        {f.scholar && <a class="btn" href={f.scholar} target="_blank" rel="noreferrer" data-i18n="scholar">Google Scholar</a>}
+      </div>
+    </div>
+  </div>
+  <div class="fgrid">
+    <div>
+      {f.summary && <p class="lede" style="font-size:1.1rem"><span data-lang-only="en">{f.summary}</span><span data-lang-only="zh">{f.summary_zh || f.summary}</span></p>}
+      {f.areas.length > 0 && <section style="margin-top:22px"><h3 class="small muted" data-i18n="research_areas">Research areas (as listed by the department)</h3><div class="chips" style="margin-top:8px">{f.areas.map((a) => <span class="chip">{a}</span>)}</div></section>}
+      {bio && <section style="margin-top:22px"><h3 class="small muted">Profile text (from the department site)</h3><div class="bio">{bio.split(/\n+/).filter((x) => x.trim()).map((para) => <p>{para}</p>)}</div></section>}
+    </div>
+    <aside class="panel" style="align-self:start">
+      <h3 class="small muted" data-i18n="labels_title">Research labels</h3>
+      {DIMS.map((d) => (f.labels[d] || []).length > 0 && (
+        <div style="margin-top:12px"><div class="small" style="font-weight:600;margin-bottom:6px"><span data-lang-only="en">{T.dimensions[d].label}</span><span data-lang-only="zh">{T.dimensions[d].label_zh}</span></div>
+          <div class="chips">{(f.labels[d] || []).map((l) => <span class={`chip${l.p ? ' primary' : ''}`} data-dim={d}><span data-lang-only="en">{T.dimensions[d].labels[l.c]}</span><span data-lang-only="zh">{T.dimensions[d].labels_zh[l.c]}</span>{l.p ? ' ★' : ''}</span>)}</div></div>
+      ))}
+      <p class="small muted" style="margin-top:14px" data-i18n="labels_note">Labels are generated from public profiles and are interpretive aids, not a complete account of anyone’s work. ★ marks a primary emphasis.</p>
+      <dl class="kv small" style="margin-top:14px">
+        <dt data-i18n="confidence">Label confidence</dt><dd>{f.conf}</dd>
+        <dt data-i18n="sources">Sources</dt><dd>{f.src.join(', ')}</dd>
+        {f.scraped && <><dt data-i18n="scraped">Directory read on</dt><dd>{f.scraped}</dd></>}
+      </dl>
+      <p class="small" style="margin-top:12px"><a href={issue} target="_blank" rel="noreferrer" data-i18n="report">Report an error</a></p>
+    </aside>
+  </div>
+  <style>
+    .fgrid { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 28px; margin-top: 26px; align-items: start; }
+    .bio { margin-top: 8px; color: var(--ink-2); max-width: 70ch; display: grid; gap: 10px; }
+    @media (max-width: 860px) { .fgrid { grid-template-columns: 1fr; } }
+  </style>
+  <script>
+    import { bindSaveButtons } from '../../lib/ui';
+    import { has } from '../../lib/shortlist';
+    import { t } from '../../lib/i18n';
+    document.querySelectorAll<HTMLButtonElement>('.save-btn').forEach((b) => { const on = has(b.dataset.save!); b.setAttribute('aria-pressed', String(on)); b.textContent = on ? t('saved') : t('save'); });
+    bindSaveButtons(document);
+  </script>
+</Base>

@@ -1,0 +1,160 @@
+---
+import Base from '../layouts/Base.astro';
+import meta from '../data/meta.json';
+---
+<Base>
+  <section class="match">
+    <div class="match-input">
+      <h1 data-i18n="match_h1">Find the Communication faculty and programs that fit your research</h1>
+      <p class="lede" data-i18n="match_lede">Paste a paragraph from your statement of purpose, or describe your questions, methods and cases in English. Matching runs in your browser; nothing is uploaded.</p>
+      <label class="sr-only" for="q" data-i18n="match_h1">Describe your research</label>
+      <textarea id="q" class="textarea" rows="8" data-i18n="match_placeholder" data-i18n-attr="placeholder" placeholder="Example: I study how misinformation about vaccines spreads in Chinese-language WeChat groups, combining computational text analysis of posts with survey experiments on corrections. I am also interested in trust in journalism and platform governance."></textarea>
+      <div id="cjk" class="notice" hidden data-i18n="cjk_notice"></div>
+      <div id="hints" class="hints" hidden>
+        <div class="small muted"><b data-i18n="match_hint_title">Detected priorities</b> · <span data-i18n="match_hint_help">Click a chip to boost it; click again to require it.</span></div>
+        <div class="chips" id="hint-chips"></div>
+      </div>
+      <div class="toolbar">
+        <button type="button" class="btn primary" id="go" data-i18n="match_button">Find matches</button>
+        <span class="status" id="status"><span class="loadbar" id="loadbar" data-n="0" hidden><i></i><i></i><i></i><i></i><i></i><i></i></span><span id="status-text"></span></span>
+      </div>
+      <div id="err" class="notice error" hidden></div>
+      <details class="opts">
+        <summary data-i18n="match_opts">Options</summary>
+        <div class="opts-grid">
+          <label class="field"><span><span data-i18n="opt_threshold">Minimum fit</span> <output id="thr-out">30</output></span><input type="range" id="thr" min="10" max="70" value="30"></label>
+          <label class="field"><span><span data-i18n="opt_lex">Keyword weight</span> <output id="lex-out">25%</output></span><input type="range" id="lex" min="0" max="60" value="25"></label>
+          <div class="field"><span data-i18n="opt_rank">Rank</span><div class="toolbar"><label class="check"><input type="checkbox" class="rank" value="Professor" checked><span data-i18n="rank_prof">Professor</span></label><label class="check"><input type="checkbox" class="rank" value="Associate Professor" checked><span data-i18n="rank_assoc">Associate Professor</span></label><label class="check"><input type="checkbox" class="rank" value="Assistant Professor" checked><span data-i18n="rank_asst">Assistant Professor</span></label></div></div>
+        </div>
+      </details>
+    </div>
+    <div class="match-results" id="results">
+      <div class="panel inset how" id="how">
+        <h2 data-i18n="how_title">How matching works</h2>
+        <ol>
+          <li data-i18n="how_1">Your text is embedded on your device with a small open model (bge-small, 34 MB, downloaded once) and compared with each faculty member’s research profile.</li>
+          <li data-i18n="how_2">A keyword score and the research labels add a second signal, and every match shows why it was ranked.</li>
+          <li data-i18n="how_3">Switch to Programs to see which departments have several plausible advisors, not just one.</li>
+        </ol>
+        <p class="small muted" id="counts" data-p={meta.programs} data-f={meta.faculty} data-d={meta.built}>{meta.programs} programs · {meta.faculty} tenure-line faculty · built {meta.built}</p>
+      </div>
+    </div>
+  </section>
+</Base>
+<style>
+  .match { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 32px; align-items: start; }
+  .match-input { position: sticky; top: calc(var(--header-h) + 20px); display: grid; gap: 14px; }
+  .match-input h1 { max-width: 16ch; }
+  .hints { display: grid; gap: 8px; padding: 10px 12px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg-2); }
+  .opts summary { cursor: pointer; color: var(--ink-3); font-size: 0.875rem; font-weight: 600; }
+  .opts-grid { display: grid; gap: 12px; padding-top: 12px; }
+  .opts-grid input[type=range] { width: 100%; }
+  .how h2 { margin-bottom: 10px; }
+  .how ol { margin: 0; padding-left: 1.2em; display: grid; gap: 8px; color: var(--ink-2); }
+  .how p { margin-top: 14px; }
+  .results-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px; margin-bottom: 12px; }
+  .prog { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 12px; padding: 14px; background: var(--bg-2); border: 1px solid var(--line); border-radius: var(--radius-lg); }
+  .prog h3 { font-size: 1.05rem; }
+  .prog .top { margin-top: 8px; display: grid; gap: 4px; font-size: 0.875rem; color: var(--ink-2); }
+  .prog .top span b { font-weight: 600; color: var(--ink); }
+  .prog .side { display: grid; justify-items: end; gap: 6px; }
+  @media (max-width: 900px) { .match { grid-template-columns: 1fr; } .match-input { position: static; } }
+</style>
+<script>
+  import faculty from '../data/faculty.json';
+  import programs from '../data/programs.json';
+  import tax from '../data/taxonomy.json';
+  import { BASE, esc, withBase, type Faculty, type Program, type Taxonomy } from '../lib/data';
+  import { t, getLang } from '../lib/i18n';
+  import { indexFaculty, detectHints, loadIndex, loadModel, embed, semanticScores, score, programFit, type Hint, type Scored } from '../lib/match';
+  import { personRow, bindSaveButtons, setupDrawer, scoreHtml, mark, chip } from '../lib/ui';
+
+  const F = faculty as unknown as Faculty[];
+  const P = programs as unknown as Program[];
+  const T = tax as unknown as Taxonomy;
+  const byId = new Map(F.map((f) => [f.id, f]));
+  const byProg = new Map(P.map((p) => [p.slug, p]));
+  indexFaculty(F, T);
+  setupDrawer((id) => { const f = byId.get(id); return f ? { f, p: byProg.get(f.u) } : undefined; }, T);
+
+  const $ = <T extends HTMLElement>(s: string) => document.querySelector<T>(s)!;
+  const q = $<HTMLTextAreaElement>('#q'), go = $<HTMLButtonElement>('#go'), results = $('#results'), statusText = $('#status-text'), loadbar = $('#loadbar'), err = $('#err');
+  const thr = $<HTMLInputElement>('#thr'), lex = $<HTMLInputElement>('#lex');
+  let hints: Hint[] = [], last: Scored[] | null = null, view: 'faculty' | 'programs' = 'faculty', shown = 30, lastQuery = '';
+
+  thr.addEventListener('input', () => { $('#thr-out').textContent = thr.value; if (last) run(false); });
+  lex.addEventListener('input', () => { $('#lex-out').textContent = lex.value + '%'; if (last) run(false); });
+  document.querySelectorAll<HTMLInputElement>('.rank').forEach((c) => c.addEventListener('change', () => last && run(false)));
+
+  function renderHints() {
+    const box = $('#hints'), chips = $('#hint-chips');
+    box.hidden = !hints.length;
+    chips.innerHTML = hints.map((h, i) => `<button type="button" class="chip btn-chip" data-dim="${h.dim}" data-i="${i}" data-mode="${h.mode}" aria-pressed="${h.mode !== 'off'}">${esc(h.label)}${h.mode === 'require' ? ' ✓' : ''}</button>`).join('');
+    chips.querySelectorAll<HTMLButtonElement>('button').forEach((b) => b.addEventListener('click', () => {
+      const h = hints[Number(b.dataset.i)];
+      h.mode = h.mode === 'boost' ? 'require' : h.mode === 'require' ? 'off' : 'boost';
+      renderHints(); if (last) run(false);
+    }));
+  }
+  q.addEventListener('input', () => {
+    const text = q.value;
+    $('#cjk').hidden = !/[一-鿿]/.test(text);
+    const fresh = detectHints(text, T, getLang());
+    hints = fresh.map((h) => ({ ...h, mode: hints.find((x) => x.code === h.code)?.mode ?? 'boost' }));
+    renderHints();
+  });
+  document.addEventListener('langchange', () => { hints = detectHints(q.value, T, getLang()).map((h) => ({ ...h, mode: hints.find((x) => x.code === h.code)?.mode ?? 'boost' })); renderHints(); if (last) render(); });
+
+  let cached: { query: string; cos: Float32Array; ids: string[] } | null = null;
+  async function run(fresh = true) {
+    const text = q.value.trim(); if (!text) return;
+    err.hidden = true;
+    try {
+      if (fresh || !cached || cached.query !== text) {
+        go.disabled = true; loadbar.hidden = false; loadbar.dataset.n = '0'; statusText.textContent = t('match_loading');
+        const [{ manifest, ids, vec }, pipe] = await Promise.all([
+          loadIndex(BASE),
+          loadModel('Xenova/bge-small-en-v1.5', (p) => { loadbar.dataset.n = String(Math.min(6, Math.ceil(p.pct / 17))); statusText.textContent = p.phase === 'ready' ? t('match_ready') : `${t('match_loading')} ${p.pct}%`; }),
+        ]);
+        statusText.textContent = t('match_running'); loadbar.dataset.n = '6';
+        const qv = await embed(pipe, manifest, text);
+        cached = { query: text, cos: semanticScores(qv, vec, manifest.dimensions, manifest.quantizationScale), ids };
+        statusText.textContent = t('match_ready');
+      }
+      const ranks = new Set(Array.from(document.querySelectorAll<HTMLInputElement>('.rank:checked')).map((c) => c.value));
+      last = score(F, cached.ids, cached.cos, text, hints, { lexWeight: Number(lex.value) / 100, threshold: Number(thr.value) / 100, ranks });
+      lastQuery = text; shown = 30;
+      render();
+    } catch (e: any) {
+      err.hidden = false; err.textContent = t('model_error') + (e?.message ? ` (${e.message})` : '');
+      statusText.textContent = '';
+    } finally { go.disabled = false; loadbar.hidden = true; }
+  }
+  go.addEventListener('click', () => run(true));
+  q.addEventListener('keydown', (e) => { if ((e.metaKey || e.ctrlKey) && e.key === 'Enter') run(true); });
+
+  function why(s: Scored) {
+    const parts = [`${t('why_sem')} ${Math.round(s.sem * 100)}`, `${t('why_kw')} ${Math.round(s.lex * 100)}`];
+    if (s.labels.length) parts.push(`${t('why_labels')}: ${s.labels.map((l) => chip(T, l.dim, l.code)).join(' ')}`);
+    return `${t('why')}: ${parts.join(' · ')}`;
+  }
+  function render() {
+    if (!last) return;
+    const lang = getLang();
+    const head = `<div class="results-head rise"><div class="seg" role="group"><button type="button" aria-pressed="${view === 'faculty'}" data-view="faculty">${t('view_faculty')}</button><button type="button" aria-pressed="${view === 'programs'}" data-view="programs">${t('view_programs')}</button></div><span class="small muted">${view === 'faculty' ? t('results_n', { n: last.length }) : t('results_p', { n: programFit(last, P).length })}</span></div>`;
+    let body = '';
+    if (!last.length) body = `<div class="empty"><b>${t('no_results')}</b>${t('no_results_help')}</div>`;
+    else if (view === 'faculty') {
+      const terms = Array.from(new Set(last.slice(0, shown).flatMap((s) => s.terms)));
+      body = `<div class="rows">${last.slice(0, shown).map((s) => personRow(s.f, byProg.get(s.f.u), T, { score: s.score, why: why(s), summaryHtml: mark(lang === 'zh' && s.f.summary_zh ? s.f.summary_zh : s.f.summary, s.terms) })).join('')}</div>`;
+      if (shown < last.length) body += `<div style="text-align:center;margin-top:14px"><button type="button" class="btn" id="more">${t('load_more', { n: Math.min(30, last.length - shown) })}</button></div>`;
+    } else {
+      const rows = programFit(last, P);
+      body = `<div class="rows">${rows.map((r) => `<article class="prog"><div><h3><a href="${withBase('programs/' + r.p.slug + '/')}">${esc(r.p.name)}</a></h3><div class="small muted">${esc(r.p.city)}, ${esc(r.p.state)} · ${t('faculty_n', { n: r.p.n })}${r.p.shanghai ? ` · ${t('shanghai')} #${esc(r.p.shanghai)}` : ''}</div><div class="top">${r.top.map((s) => `<span><button type="button" class="open-person btn quiet sm" data-id="${esc(s.f.id)}" style="padding:0;height:auto"><b>${esc(s.f.name)}</b></button> · ${esc(s.f.rank)} · ${Math.round(s.score * 100)}</span>`).join('')}</div></div><div class="side">${scoreHtml(r.fit)}<span class="small muted">${r.n} ${t('matches')}</span></div></article>`).join('')}</div>`;
+    }
+    results.innerHTML = head + body;
+    results.querySelectorAll<HTMLButtonElement>('[data-view]').forEach((b) => b.addEventListener('click', () => { view = b.dataset.view as any; render(); }));
+    results.querySelector('#more')?.addEventListener('click', () => { shown += 30; render(); });
+    bindSaveButtons(results);
+  }
+</script>

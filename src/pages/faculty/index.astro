@@ -1,0 +1,123 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+<Base title="Faculty directory">
+  <div class="page-head">
+    <div><h1 data-i18n="dir_h1">Faculty directory</h1><p class="lede" data-i18n="dir_lede">Every tenure-line faculty member in the collected programs, through five lenses. Filters combine; counts update as you narrow.</p></div>
+  </div>
+  <div class="dir">
+    <aside class="dir-side" id="dir-side">
+      <button type="button" class="btn dir-toggle" id="facet-toggle" aria-expanded="false"><span data-i18n="filters">Filters</span></button>
+      <div class="facets-wrap" id="facets-wrap">
+        <div class="stack">
+          <input type="search" class="input" id="search" data-i18n="search_ph" data-i18n-attr="placeholder" placeholder="Search names, universities, summaries, keywords" />
+          <select class="select" id="univ"><option value="" data-i18n="all_universities">All universities</option></select>
+          <div class="toolbar"><label class="check"><input type="checkbox" class="rank" value="Professor" checked><span data-i18n="rank_prof">Professor</span></label><label class="check"><input type="checkbox" class="rank" value="Associate Professor" checked><span data-i18n="rank_assoc">Associate</span></label><label class="check"><input type="checkbox" class="rank" value="Assistant Professor" checked><span data-i18n="rank_asst">Assistant</span></label></div>
+          <label class="check"><input type="checkbox" id="primary"><span data-i18n="primary_only">Primary labels only</span></label>
+          <button type="button" class="btn sm quiet" id="clear" data-i18n="clear">Clear filters</button>
+        </div>
+        <div class="facets" id="facets"></div>
+      </div>
+    </aside>
+    <section class="dir-main">
+      <div class="results-line"><span id="count"></span><label class="small"><span data-i18n="sort">Sort</span> <select id="sort" class="select" style="display:inline-block;width:auto;min-height:30px;padding:3px 28px 3px 8px"><option value="name" data-i18n="sort_name">Last name</option><option value="univ" data-i18n="sort_univ">University</option><option value="rank" data-i18n="sort_rank">Rank</option></select></label></div>
+      <div id="list" class="rows"></div>
+      <div id="more-wrap" style="text-align:center;margin-top:14px"></div>
+    </section>
+  </div>
+</Base>
+<style>
+  .dir { display: grid; grid-template-columns: 280px minmax(0, 1fr); gap: 28px; align-items: start; }
+  .dir-side { position: sticky; top: calc(var(--header-h) + 16px); max-height: calc(100vh - var(--header-h) - 32px); overflow: auto; padding-right: 4px; }
+  .dir-toggle { display: none; width: 100%; }
+  .facets { margin-top: 18px; }
+  @media (max-width: 900px) {
+    .dir { grid-template-columns: 1fr; }
+    .dir-side { position: static; max-height: none; }
+    .dir-toggle { display: inline-flex; }
+    .facets-wrap { display: none; margin-top: 12px; }
+    .facets-wrap[data-open="true"] { display: block; }
+  }
+</style>
+<script>
+  import faculty from '../../data/faculty.json';
+  import programs from '../../data/programs.json';
+  import tax from '../../data/taxonomy.json';
+  import { DIMS, esc, lastName, RANK_ORDER, type Faculty, type Program, type Taxonomy, type Dim } from '../../lib/data';
+  import { t, getLang } from '../../lib/i18n';
+  import { personRow, bindSaveButtons, setupDrawer } from '../../lib/ui';
+  import { tokenize } from '../../lib/match';
+
+  const F = faculty as unknown as Faculty[]; const P = programs as unknown as Program[]; const T = tax as unknown as Taxonomy;
+  const byId = new Map(F.map((f) => [f.id, f])); const byProg = new Map(P.map((p) => [p.slug, p]));
+  setupDrawer((id) => { const f = byId.get(id); return f ? { f, p: byProg.get(f.u) } : undefined; }, T);
+  const $ = <T extends HTMLElement>(s: string) => document.querySelector<T>(s)!;
+  const search = $<HTMLInputElement>('#search'), univ = $<HTMLSelectElement>('#univ'), primary = $<HTMLInputElement>('#primary'), sort = $<HTMLSelectElement>('#sort');
+  const state = { q: '', u: '', primary: false, ranks: new Set(['Professor', 'Associate Professor', 'Assistant Professor']), sel: {} as Record<Dim, Set<string>>, sort: 'name', shown: 60 };
+  for (const d of DIMS) state.sel[d] = new Set();
+  // URL state
+  const params = new URLSearchParams(location.search);
+  state.q = params.get('q') || ''; state.u = params.get('u') || ''; state.primary = params.get('primary') === '1';
+  for (const d of DIMS) for (const c of (params.get(d) || '').split(',').filter(Boolean)) state.sel[d].add(c);
+  search.value = state.q; primary.checked = state.primary;
+  univ.innerHTML += [...P].sort((a, b) => a.name.localeCompare(b.name)).map((p) => `<option value="${esc(p.slug)}"${p.slug === state.u ? ' selected' : ''}>${esc(p.name)}</option>`).join('');
+
+  const docText = new Map(F.map((f) => [f.id, [f.name, byProg.get(f.u)?.name || '', byProg.get(f.u)?.short || '', f.dept, f.summary, f.summary_zh, f.kw.join(' '), f.areas.join(' ')].join(' ').toLowerCase()]));
+  function matches(f: Faculty, skipDim?: Dim) {
+    if (!state.ranks.has(f.rank)) return false;
+    if (state.u && f.u !== state.u) return false;
+    if (state.q) { const txt = docText.get(f.id)!; const ql = state.q.toLowerCase(); if (!txt.includes(ql) && !tokenize(state.q).every((tk) => txt.includes(tk))) return false; }
+    for (const d of DIMS) {
+      if (d === skipDim || !state.sel[d].size) continue;
+      const labs = (f.labels[d] ?? []).filter((l) => !state.primary || l.p).map((l) => l.c);
+      if (![...state.sel[d]].some((c) => labs.includes(c))) return false;
+    }
+    if (state.primary && !DIMS.some((d) => state.sel[d].size) && !(f.labels.topic ?? []).some((l) => l.p)) return false;
+    return true;
+  }
+  function renderFacets() {
+    const lang = getLang();
+    $('#facets').innerHTML = DIMS.map((d) => {
+      const dim = T.dimensions[d];
+      const counts = new Map<string, number>();
+      for (const f of F) if (matches(f, d)) for (const l of f.labels[d] ?? []) if (!state.primary || l.p) counts.set(l.c, (counts.get(l.c) || 0) + 1);
+      const codes = Object.keys(dim.labels).sort((a, b) => (counts.get(b) || 0) - (counts.get(a) || 0));
+      return `<div class="facet" data-dim="${d}"><h3>${esc(lang === 'zh' ? dim.label_zh : dim.label)}</h3><ul>${codes.map((c) => `<li><label data-zero="${!(counts.get(c) || 0)}"><input type="checkbox" data-dim="${d}" value="${c}"${state.sel[d].has(c) ? ' checked' : ''}><span class="t" title="${esc(dim.labels[c])}">${esc(lang === 'zh' ? dim.labels_zh[c] : dim.labels[c])}</span><span class="n">${counts.get(c) || 0}</span></label></li>`).join('')}</ul></div>`;
+    }).join('');
+    $('#facets').querySelectorAll<HTMLInputElement>('input').forEach((i) => i.addEventListener('change', () => { const d = i.dataset.dim as Dim; if (i.checked) state.sel[d].add(i.value); else state.sel[d].delete(i.value); state.shown = 60; update(); }));
+  }
+  function renderList() {
+    const lang = getLang();
+    let list = F.filter((f) => matches(f));
+    const cmp: Record<string, (a: Faculty, b: Faculty) => number> = {
+      name: (a, b) => lastName(a.name).localeCompare(lastName(b.name)) || a.name.localeCompare(b.name),
+      univ: (a, b) => (byProg.get(a.u)?.name || '').localeCompare(byProg.get(b.u)?.name || '') || lastName(a.name).localeCompare(lastName(b.name)),
+      rank: (a, b) => RANK_ORDER[a.rank] - RANK_ORDER[b.rank] || lastName(a.name).localeCompare(lastName(b.name)),
+    };
+    list.sort(cmp[state.sort]);
+    $('#count').textContent = t('showing', { a: Math.min(state.shown, list.length), b: list.length });
+    const activeDims = DIMS.filter((d) => state.sel[d].size);
+    $('#list').innerHTML = list.length ? list.slice(0, state.shown).map((f) => personRow(f, byProg.get(f.u), T, { chips: activeDims.length ? activeDims : ['topic', 'approach'] })).join('') : `<div class="empty"><b>${t('no_results')}</b>${t('no_results_help')}</div>`;
+    $('#more-wrap').innerHTML = state.shown < list.length ? `<button type="button" class="btn" id="more">${t('load_more', { n: Math.min(60, list.length - state.shown) })}</button>` : '';
+    document.getElementById('more')?.addEventListener('click', () => { state.shown += 60; renderList(); });
+    bindSaveButtons($('#list'));
+    void lang;
+  }
+  function syncUrl() {
+    const p = new URLSearchParams();
+    if (state.q) p.set('q', state.q); if (state.u) p.set('u', state.u); if (state.primary) p.set('primary', '1');
+    for (const d of DIMS) if (state.sel[d].size) p.set(d, [...state.sel[d]].join(','));
+    history.replaceState(null, '', location.pathname + (p.toString() ? '?' + p : ''));
+  }
+  function update() { renderFacets(); renderList(); syncUrl(); }
+  let timer: number | undefined;
+  search.addEventListener('input', () => { clearTimeout(timer); timer = window.setTimeout(() => { state.q = search.value.trim(); state.shown = 60; update(); }, 150); });
+  univ.addEventListener('change', () => { state.u = univ.value; state.shown = 60; update(); });
+  primary.addEventListener('change', () => { state.primary = primary.checked; update(); });
+  sort.addEventListener('change', () => { state.sort = sort.value; renderList(); });
+  document.querySelectorAll<HTMLInputElement>('.rank').forEach((c) => c.addEventListener('change', () => { if (c.checked) state.ranks.add(c.value); else state.ranks.delete(c.value); update(); }));
+  $('#clear').addEventListener('click', () => { state.q = ''; state.u = ''; state.primary = false; for (const d of DIMS) state.sel[d].clear(); search.value = ''; univ.value = ''; primary.checked = false; document.querySelectorAll<HTMLInputElement>('.rank').forEach((c) => { c.checked = true; state.ranks.add(c.value); }); update(); });
+  $('#facet-toggle').addEventListener('click', () => { const w = $('#facets-wrap'); const open = w.dataset.open !== 'true'; w.dataset.open = String(open); $('#facet-toggle').setAttribute('aria-expanded', String(open)); });
+  document.addEventListener('langchange', update);
+  update();
+</script>

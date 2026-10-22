@@ -1,0 +1,27 @@
+# build output
+dist/
+.astro/
+node_modules/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# scraped html cache and intermediate files (regenerable)
+data/cache/
+pipeline/.cache/
+
+# logs
+*.log
+npm-debug.log*
+
+# env
+.env
+.env.*
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+nul

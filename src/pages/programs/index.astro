@@ -1,0 +1,108 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+<Base title="Programs">
+  <div class="page-head">
+    <div><h1 data-i18n="prog_h1">Programs</h1><p class="lede" data-i18n="prog_lede">Communication, media and journalism doctoral programs, on the map or as a list. Pick one to see its units, links and complete faculty roster.</p></div>
+    <div class="seg" role="group"><button type="button" id="v-map" aria-pressed="true" data-i18n="map_view">Map</button><button type="button" id="v-list" aria-pressed="false" data-i18n="list_view">List</button></div>
+  </div>
+  <div class="prog-grid">
+    <section class="prog-left">
+      <div class="map" id="map"></div>
+      <div class="plist" id="plist" hidden></div>
+    </section>
+    <section class="prog-right panel" id="detail"></section>
+  </div>
+</Base>
+<style>
+  .prog-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(360px, 0.9fr); gap: 20px; align-items: start; }
+  .prog-left { position: sticky; top: calc(var(--header-h) + 16px); height: calc(100vh - var(--header-h) - 40px); min-height: 480px; }
+  .map { height: 100%; }
+  .plist { height: 100%; overflow: auto; display: grid; gap: 6px; align-content: start; padding-right: 4px; }
+  .pcard { display: grid; grid-template-columns: 34px minmax(0, 1fr) auto; gap: 12px; align-items: center; width: 100%; text-align: left; padding: 10px 12px; border: 1px solid var(--line); background: var(--bg-2); border-radius: var(--radius); color: var(--ink); }
+  .pcard:hover { border-color: var(--line-2); }
+  .pcard[aria-pressed="true"] { border-color: var(--action); box-shadow: inset 0 0 0 1px var(--action); }
+  .pcard img { width: 28px; height: 28px; border-radius: 6px; object-fit: contain; background: #fff; }
+  .pcard .ph { width: 28px; height: 28px; border-radius: 6px; background: var(--bg-4); display: grid; place-items: center; font-weight: 700; font-size: 0.8rem; }
+  .pcard b { display: block; font-size: 0.95rem; }
+  .pcard small { color: var(--ink-3); }
+  .pcard .n { color: var(--ink-3); font-size: 0.8rem; white-space: nowrap; }
+  .prog-right { max-height: calc(100vh - var(--header-h) - 40px); overflow: auto; }
+  .prog-right h2 { margin-top: 4px; }
+  .prog-right .kv { margin-top: 14px; }
+  .units { display: grid; gap: 8px; margin-top: 10px; }
+  .unit { padding: 10px 12px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg); }
+  .unit b { display: block; }
+  .unit .links { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+  .roster-head { display: flex; justify-content: space-between; align-items: center; margin: 22px 0 10px; }
+  .roster { display: grid; gap: 6px; }
+  .rrow { display: grid; grid-template-columns: 36px minmax(0, 1fr) auto; gap: 10px; align-items: center; padding: 8px 10px; border-radius: var(--radius); border: 1px solid var(--line); background: var(--bg-2); }
+  .rrow .avatar { width: 36px; height: 36px; border-radius: 8px; font-size: 0.75rem; }
+  .rrow b button { border: 0; background: none; padding: 0; font: inherit; font-weight: 700; color: inherit; cursor: pointer; text-align: left; }
+  .rrow b button:hover { color: var(--action); }
+  .rrow small { color: var(--ink-3); display: block; }
+  @media (max-width: 960px) { .prog-grid { grid-template-columns: 1fr; } .prog-left { position: static; height: 460px; } .prog-right { max-height: none; } }
+</style>
+<script>
+  import L from 'leaflet';
+  import 'leaflet/dist/leaflet.css';
+  import faculty from '../../data/faculty.json';
+  import programs from '../../data/programs.json';
+  import tax from '../../data/taxonomy.json';
+  import { esc, initials, lastName, RANK_ORDER, withBase, type Faculty, type Program, type Taxonomy } from '../../lib/data';
+  import { t, getLang } from '../../lib/i18n';
+  import { avatar, bindSaveButtons, chip, saveBtn, setupDrawer } from '../../lib/ui';
+
+  const F = faculty as unknown as Faculty[]; const P = (programs as unknown as Program[]).slice().sort((a, b) => a.name.localeCompare(b.name)); const T = tax as unknown as Taxonomy;
+  const byId = new Map(F.map((f) => [f.id, f])); const byProg = new Map(P.map((p) => [p.slug, p]));
+  setupDrawer((id) => { const f = byId.get(id); return f ? { f, p: byProg.get(f.u) } : undefined; }, T);
+  const $ = <T extends HTMLElement>(s: string) => document.querySelector<T>(s)!;
+  let selected = (location.hash.slice(1) && byProg.get(decodeURIComponent(location.hash.slice(1)))?.slug) || P[0]?.slug || '';
+
+  // map
+  const isDark = () => document.documentElement.dataset.theme ? document.documentElement.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+  const map = L.map('map', { zoomSnap: 0.25, scrollWheelZoom: true }).setView([38.5, -96.5], 4);
+  let tiles: L.TileLayer;
+  const setTiles = () => { if (tiles) tiles.remove(); tiles = L.tileLayer(`https://{s}.basemaps.cartocdn.com/${isDark() ? 'dark_all' : 'light_all'}/{z}/{x}/{y}{r}.png`, { maxZoom: 18, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>' }).addTo(map); };
+  setTiles();
+  document.addEventListener('themechange', setTiles);
+  const markers = new Map<string, L.Marker>();
+  const icon = (p: Program, active: boolean) => L.divIcon({ className: '', html: `<span class="pin${active ? ' active' : ''}">${p.logo ? `<img src="${withBase(p.logo)}" alt="">` : `<b>${esc(p.short.slice(0, 2))}</b>`}</span>`, iconSize: [30, 30], iconAnchor: [15, 30], tooltipAnchor: [0, -28] });
+  for (const p of P) {
+    const m = L.marker([p.lat, p.lng], { icon: icon(p, p.slug === selected) }).addTo(map);
+    m.bindTooltip(`<strong>${esc(p.name)}</strong><br>${esc(p.city)}, ${esc(p.state)} · ${t('faculty_n', { n: p.n })}`, { direction: 'top' });
+    m.on('click', () => select(p.slug));
+    markers.set(p.slug, m);
+  }
+  // list
+  function renderList() {
+    $('#plist').innerHTML = P.map((p) => `<button type="button" class="pcard" data-slug="${esc(p.slug)}" aria-pressed="${p.slug === selected}">${p.logo ? `<img src="${withBase(p.logo)}" alt="">` : `<span class="ph">${esc(p.short.slice(0, 1))}</span>`}<span><b>${esc(p.name)}</b><small>${esc(p.city)}, ${esc(p.state)}${p.shanghai ? ` · #${esc(p.shanghai)}` : ''}</small></span><span class="n">${t('faculty_n', { n: p.n })}</span></button>`).join('');
+    $('#plist').querySelectorAll<HTMLButtonElement>('.pcard').forEach((b) => b.addEventListener('click', () => select(b.dataset.slug!)));
+  }
+  function renderDetail() {
+    const p = byProg.get(selected); if (!p) { $('#detail').innerHTML = ''; return; }
+    const lang = getLang();
+    const roster = F.filter((f) => f.u === p.slug).sort((a, b) => RANK_ORDER[a.rank] - RANK_ORDER[b.rank] || lastName(a.name).localeCompare(lastName(b.name)));
+    const units = p.units.map((u) => `<div class="unit"><b>${esc(u.name)}</b>${u.school ? `<small class="muted">${esc(u.school)}</small>` : ''}${u.phd ? `<div class="small" style="margin-top:4px">${esc(u.phd)}</div>` : ''}<div class="links">${u.phd_url ? `<a class="btn sm" href="${esc(u.phd_url)}" target="_blank" rel="noreferrer">${t('phd_page')}</a>` : ''}${u.directory ? `<a class="btn sm" href="${esc(u.directory)}" target="_blank" rel="noreferrer">${t('directory_link')}</a>` : ''}${u.url ? `<a class="btn sm quiet" href="${esc(u.url)}" target="_blank" rel="noreferrer">${esc(u.name.length > 28 ? 'Site' : u.name)}</a>` : ''}</div></div>`).join('');
+    $('#detail').innerHTML = `<div class="small muted">${esc(p.city)}, ${esc(p.state)}</div><h2>${esc(p.name)}</h2>
+      <dl class="kv">${p.shanghai ? `<dt>${t('shanghai')}</dt><dd>#${esc(p.shanghai)}</dd>` : ''}<dt>${t('faculty_n', { n: '' }).trim()}</dt><dd>${p.n} · ${p.ranks['Professor'] || 0} / ${p.ranks['Associate Professor'] || 0} / ${p.ranks['Assistant Professor'] || 0} (${t('rank_prof')} / ${t('rank_assoc')} / ${t('rank_asst')})</dd>${p.nca.length ? `<dt>${t('nca_areas')}</dt><dd>${esc(p.nca.join('; '))}</dd>` : ''}</dl>
+      <h3 style="margin-top:18px">${t('units')}</h3><div class="units">${units}</div>
+      <div class="roster-head"><h3>${t('roster')}</h3><a class="btn sm" href="${withBase('programs/' + p.slug + '/')}">${t('open_page')}</a></div>
+      <div class="roster">${roster.map((f) => `<div class="rrow">${avatar(f)}<span><b><button type="button" class="open-person" data-id="${esc(f.id)}">${esc(f.name)}</button></b><small>${esc(f.rank)} · ${esc(f.dept)}</small>${(f.labels.topic || []).filter((l) => l.p).length ? `<span class="chips" style="margin-top:4px">${(f.labels.topic || []).filter((l) => l.p).slice(0, 2).map((l) => chip(T, 'topic', l.c, true)).join('')}</span>` : ''}</span>${saveBtn(f.id)}</div>`).join('') || `<div class="empty">${t('no_results')}</div>`}</div>`;
+    bindSaveButtons($('#detail'));
+    void lang;
+  }
+  function select(slug: string) {
+    if (selected && markers.get(selected)) markers.get(selected)!.setIcon(icon(byProg.get(selected)!, false));
+    selected = slug;
+    const p = byProg.get(slug)!; markers.get(slug)?.setIcon(icon(p, true));
+    history.replaceState(null, '', '#' + encodeURIComponent(slug));
+    $('#plist').querySelectorAll<HTMLButtonElement>('.pcard').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.slug === slug)));
+    renderDetail();
+  }
+  $('#v-map').addEventListener('click', () => { $('#v-map').setAttribute('aria-pressed', 'true'); $('#v-list').setAttribute('aria-pressed', 'false'); $('#map').hidden = false; $('#plist').hidden = true; setTimeout(() => map.invalidateSize(), 50); });
+  $('#v-list').addEventListener('click', () => { $('#v-map').setAttribute('aria-pressed', 'false'); $('#v-list').setAttribute('aria-pressed', 'true'); $('#map').hidden = true; $('#plist').hidden = false; });
+  document.addEventListener('langchange', () => { renderList(); renderDetail(); });
+  renderList(); renderDetail();
+  if (selected) { const p = byProg.get(selected)!; markers.get(selected)?.setIcon(icon(p, true)); }
+</script>

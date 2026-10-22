@@ -25,3 +25,6 @@ npm-debug.log*
 .idea/
 .vscode/
 nul
+
+# raw scrapes contain copied profile text and photo URLs: kept locally in ~/data/communication_phd, never committed
+data/raw

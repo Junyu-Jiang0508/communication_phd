@@ -1,5 +1,17 @@
 ---
 import Base from '../../layouts/Base.astro';
+import faculty from '../../data/faculty.json';
+import programs from '../../data/programs.json';
+import tax from '../../data/taxonomy.json';
+import { lastName, type Faculty, type Program, type Taxonomy } from '../../lib/data';
+import { personRow } from '../../lib/ui';
+import { t } from '../../lib/i18n';
+// The first page of the directory is rendered at build time, so the list shows before (or without) the script.
+const F = faculty as unknown as Faculty[];
+const byProg = new Map((programs as unknown as Program[]).map((p) => [p.slug, p]));
+const first = F.slice().sort((a, b) => lastName(a.name).localeCompare(lastName(b.name)) || a.name.localeCompare(b.name)).slice(0, 60);
+const initialRows = first.map((f) => personRow(f, byProg.get(f.u), tax as unknown as Taxonomy, { chips: ['topic', 'approach'] })).join('');
+const initialCount = t('showing', { a: first.length, b: F.length });
 ---
 <Base title="Faculty directory">
   <div class="page-head">
@@ -20,8 +32,8 @@ import Base from '../../layouts/Base.astro';
       </div>
     </aside>
     <section class="dir-main">
-      <div class="results-line"><span id="count"></span><label class="small"><span data-i18n="sort">Sort</span> <select id="sort" class="select" style="display:inline-block;width:auto;min-height:30px;padding:3px 28px 3px 8px"><option value="name" data-i18n="sort_name">Last name</option><option value="univ" data-i18n="sort_univ">University</option><option value="rank" data-i18n="sort_rank">Rank</option></select></label></div>
-      <div id="list" class="rows"></div>
+      <div class="results-line"><span id="count">{initialCount}</span><label class="small"><span data-i18n="sort">Sort</span> <select id="sort" class="select" style="display:inline-block;width:auto;min-height:30px;padding:3px 28px 3px 8px"><option value="name" data-i18n="sort_name">Last name</option><option value="univ" data-i18n="sort_univ">University</option><option value="rank" data-i18n="sort_rank">Rank</option></select></label></div>
+      <div id="list" class="rows" set:html={initialRows}></div>
       <div id="more-wrap" style="text-align:center;margin-top:14px"></div>
     </section>
   </div>
@@ -119,5 +131,7 @@ import Base from '../../layouts/Base.astro';
   $('#clear').addEventListener('click', () => { state.q = ''; state.u = ''; state.primary = false; for (const d of DIMS) state.sel[d].clear(); search.value = ''; univ.value = ''; primary.checked = false; document.querySelectorAll<HTMLInputElement>('.rank').forEach((c) => { c.checked = true; state.ranks.add(c.value); }); update(); });
   $('#facet-toggle').addEventListener('click', () => { const w = $('#facets-wrap'); const open = w.dataset.open !== 'true'; w.dataset.open = String(open); $('#facet-toggle').setAttribute('aria-expanded', String(open)); });
   document.addEventListener('langchange', update);
+  // restored from the back/forward cache: re-read the URL state and redraw
+  window.addEventListener('pageshow', (e) => { if (e.persisted) update(); });
   update();
 </script>

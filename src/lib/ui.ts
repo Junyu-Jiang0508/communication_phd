@@ -11,7 +11,6 @@ export function scoreHtml(score: number) {
 }
 export function avatar(f: Faculty, lg = false) {
   const cls = `avatar${lg ? ' lg' : ''}`;
-  if (f.photo) return `<span class="${cls}"><img src="${withBase(f.photo)}" alt="" loading="lazy" width="${lg ? 96 : 44}" height="${lg ? 96 : 44}" onerror="this.replaceWith(document.createTextNode('${esc(initials(f.name))}'))"></span>`;
   return `<span class="${cls}" aria-hidden="true">${esc(initials(f.name))}</span>`;
 }
 export function chip(tax: Taxonomy, dim: Dim, c: string, primary = false, extra = '') {

@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import meta from '../data/meta.json';
+import buildInfo from '../data/meta.json';
 ---
 <Base>
   <section class="match">
@@ -44,7 +44,7 @@ import meta from '../data/meta.json';
           <li data-i18n="how_2">A keyword score and the research labels add a second signal, and every match shows why it was ranked.</li>
           <li data-i18n="how_3">Switch to Programs to see which departments have several plausible advisors, not just one.</li>
         </ol>
-        <p class="small muted" id="counts" data-p={meta.programs} data-f={meta.faculty} data-d={meta.built}>{meta.programs} programs · {meta.faculty} tenure-line faculty · built {meta.built}</p>
+        <p class="small muted" id="counts" data-p={buildInfo.programs} data-f={buildInfo.faculty} data-d={buildInfo.built}>{buildInfo.programs} programs · {buildInfo.faculty} tenure-line faculty · built {buildInfo.built}</p>
       </div>
     </div>
   </section>
@@ -173,7 +173,7 @@ import meta from '../data/meta.json';
       if (shown < last.length) body += `<div style="text-align:center;margin-top:14px"><button type="button" class="btn" id="more">${t('load_more', { n: Math.min(30, last.length - shown) })}</button></div>`;
     } else {
       const rows = programFit(last, P);
-      body = `<div class="rows">${rows.map((r) => `<article class="prog"><div><h2 class="prog-title"><a href="${withBase('programs/' + r.p.slug + '/')}">${esc(r.p.name)}</a></h2><div class="small muted">${esc(r.p.city)}, ${esc(r.p.state)} · ${t('faculty_n', { n: r.p.n })}${r.p.shanghai ? ` · ${t('shanghai')} #${esc(r.p.shanghai)}` : ''}</div><div class="top">${r.top.map((s) => `<span><button type="button" class="open-person btn quiet sm" data-id="${esc(s.f.id)}" style="padding:0;height:auto"><b>${esc(s.f.name)}</b></button> · ${esc(s.f.rank)} · ${Math.round(s.score * 100)}</span>`).join('')}</div></div><div class="side">${scoreHtml(r.fit)}<span class="small muted">${r.n} ${t('matches')}</span></div></article>`).join('')}</div>`;
+      body = `<div class="rows">${rows.map((r) => `<article class="prog"><div><h2 class="prog-title"><a href="${withBase('programs/' + r.p.slug + '/')}">${esc(r.p.name)}</a></h2><div class="small muted">${esc(r.p.city)}, ${esc(r.p.state)} · ${t('faculty_n', { n: r.p.n })}</div><div class="top">${r.top.map((s) => `<span><button type="button" class="open-person btn quiet sm" data-id="${esc(s.f.id)}" style="padding:0;height:auto"><b>${esc(s.f.name)}</b></button> · ${esc(s.f.rank)} · ${Math.round(s.score * 100)}</span>`).join('')}</div></div><div class="side">${scoreHtml(r.fit)}<span class="small muted">${r.n} ${t('matches')}</span></div></article>`).join('')}</div>`;
     }
     results.innerHTML = head + body;
     results.querySelectorAll<HTMLButtonElement>('[data-view]').forEach((b) => b.addEventListener('click', () => { view = b.dataset.view as any; render(); }));

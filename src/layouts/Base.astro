@@ -1,7 +1,7 @@
 ---
 import '../styles/global.css';
 import Header from '../components/Header.astro';
-import meta from '../data/meta.json';
+import buildInfo from '../data/meta.json';
 interface Props { title?: string; description?: string; wide?: boolean }
 const { title = 'Communication PhD Explorer', description = 'Find US Communication, media and journalism PhD programs and faculty that match your research. Matching runs in your browser.' } = Astro.props;
 const base = import.meta.env.BASE_URL;
@@ -34,7 +34,7 @@ const fullTitle = title === 'Communication PhD Explorer' ? title : `${title} · 
     </main>
     <footer class="site-footer">
       <div class="shell">
-        <span>Communication PhD Explorer · data built {meta.built} · <a href={`${base}about/`}>methods, sources and limits</a></span>
+        <span>Communication PhD Explorer · data built {buildInfo.built} · <a href={`${base}about/`}>methods, sources and limits</a></span>
         <span>Made by <a href="https://junyuj.com" rel="noreferrer">Junyu Jiang</a> · <a href="https://github.com/Junyu-Jiang0508/communication_phd" rel="noreferrer">source</a> · inspired by the Political Science Program Explorer</span>
       </div>
     </footer>

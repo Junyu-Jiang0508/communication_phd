@@ -3,19 +3,17 @@ import Base from '../../layouts/Base.astro';
 import programs from '../../data/programs.json';
 import faculty from '../../data/faculty.json';
 import tax from '../../data/taxonomy.json';
-import { RANK_ORDER, lastName, esc, type Program, type Faculty, type Taxonomy } from '../../lib/data';
+import { RANK_ORDER, lastName, initials, type Program, type Faculty, type Taxonomy } from '../../lib/data';
 export function getStaticPaths() { return (programs as Program[]).map((p) => ({ params: { slug: p.slug }, props: { p } })); }
 const { p } = Astro.props as { p: Program };
 const base = import.meta.env.BASE_URL;
 const T = tax as unknown as Taxonomy;
 const roster = (faculty as Faculty[]).filter((f) => f.u === p.slug).sort((a, b) => RANK_ORDER[a.rank] - RANK_ORDER[b.rank] || lastName(a.name).localeCompare(lastName(b.name)));
-const ini = (n: string) => n.split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0]).join('').toUpperCase();
 ---
 <Base title={p.name} description={`${p.name}: ${p.n} tenure-line Communication faculty, PhD units and links.`}>
   <p class="small"><a href={`${base}programs/#${p.slug}`} data-i18n="nav_programs">Programs</a> › {p.city}, {p.state}</p>
   <h1 style="margin-top:8px">{p.name}</h1>
   <dl class="kv" style="margin-top:16px">
-    {p.shanghai && <><dt data-i18n="shanghai">ShanghaiRanking 2025, Communication</dt><dd>#{p.shanghai}</dd></>}
     <dt data-i18n="tenure_line">Tenure-line faculty</dt><dd><span data-lang-only="en">{p.n} — {p.ranks['Professor'] || 0} professors · {p.ranks['Associate Professor'] || 0} associate · {p.ranks['Assistant Professor'] || 0} assistant</span><span data-lang-only="zh">{p.n} 位 — 教授 {p.ranks['Professor'] || 0} · 副教授 {p.ranks['Associate Professor'] || 0} · 助理教授 {p.ranks['Assistant Professor'] || 0}</span></dd>
     {p.nca.length > 0 && <><dt data-i18n="nca_areas">NCA Doctoral Program Guide units</dt><dd>{p.nca.join('; ')}</dd></>}
   </dl>
@@ -31,7 +29,7 @@ const ini = (n: string) => n.split(/\s+/).filter(Boolean).slice(0, 2).map((w) =>
   <div class="rows" style="margin-top:10px">
     {roster.map((f) => (
       <article class="row">
-        <span class="avatar">{f.photo ? <img src={`${base}${f.photo}`} alt="" loading="lazy" width="44" height="44" /> : ini(f.name)}</span>
+        <span class="avatar" aria-hidden="true">{initials(f.name)}</span>
         <div class="who">
           <div class="name"><a href={`${base}faculty/${f.id}/`} style="text-decoration:none;color:inherit">{f.name}</a></div>
           <div class="meta">{f.rank} · {f.dept}</div>

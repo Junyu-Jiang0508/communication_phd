@@ -2,22 +2,19 @@
 import Base from '../../layouts/Base.astro';
 import faculty from '../../data/faculty.json';
 import programs from '../../data/programs.json';
-import bios from '../../data/bios.json';
 import tax from '../../data/taxonomy.json';
-import { DIMS, type Faculty, type Program, type Taxonomy } from '../../lib/data';
+import { DIMS, initials, type Faculty, type Program, type Taxonomy } from '../../lib/data';
 export function getStaticPaths() { return (faculty as Faculty[]).map((f) => ({ params: { slug: f.id }, props: { f } })); }
 const { f } = Astro.props as { f: Faculty };
 const base = import.meta.env.BASE_URL;
 const T = tax as unknown as Taxonomy;
 const p = (programs as Program[]).find((x) => x.slug === f.u);
-const bio = (bios as Record<string, string>)[f.id] || '';
-const ini = f.name.split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0]).join('').toUpperCase();
 const issue = `https://github.com/Junyu-Jiang0508/communication_phd/issues/new?title=${encodeURIComponent('Data correction: ' + f.name + ' (' + (p?.short || f.u) + ')')}&body=${encodeURIComponent('Page: ' + base + 'faculty/' + f.id + '/\n\nWhat is wrong:\n')}`;
 ---
 <Base title={f.name} description={`${f.name}, ${f.rank}, ${f.dept}, ${p?.name || ''}. ${f.summary}`}>
   <p class="small"><a href={`${base}faculty/`} data-i18n="dir_h1">Faculty directory</a> › {p && <a href={`${base}programs/${p.slug}/`}>{p.name}</a>}</p>
   <div class="identity" style="display:flex;gap:20px;align-items:flex-start;margin-top:14px">
-    <span class="avatar lg">{f.photo ? <img src={`${base}${f.photo}`} alt="" width="96" height="96" /> : ini}</span>
+    <span class="avatar lg" aria-hidden="true">{initials(f.name)}</span>
     <div>
       <div class="small muted">{f.title}</div>
       <h1 style="font-size:clamp(1.7rem,1.2rem+1.6vw,2.4rem)">{f.name}</h1>
@@ -34,7 +31,6 @@ const issue = `https://github.com/Junyu-Jiang0508/communication_phd/issues/new?t
     <div>
       {f.summary && <p class="lede" style="font-size:1.1rem"><span data-lang-only="en">{f.summary}</span><span data-lang-only="zh">{f.summary_zh || f.summary}</span></p>}
       {f.areas.length > 0 && <section style="margin-top:22px"><h2 class="sec-h" data-i18n="research_areas">Research areas (as listed by the department)</h2><div class="chips" style="margin-top:8px">{f.areas.map((a) => <span class="chip">{a}</span>)}</div></section>}
-      {bio && <section style="margin-top:22px"><h2 class="sec-h" data-i18n="profile_text">Profile text (from the department site)</h2><div class="bio">{bio.split(/\n+/).filter((x) => x.trim()).map((para) => <p>{para}</p>)}</div></section>}
     </div>
     <aside class="panel" style="align-self:start">
       <h2 class="sec-h" data-i18n="labels_title">Research labels</h2>
@@ -53,7 +49,6 @@ const issue = `https://github.com/Junyu-Jiang0508/communication_phd/issues/new?t
   </div>
   <style is:global>
     .fgrid { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 28px; margin-top: 26px; align-items: start; }
-    .bio { margin-top: 8px; color: var(--ink-2); max-width: 70ch; display: grid; gap: 10px; }
     @media (max-width: 860px) { .fgrid { grid-template-columns: 1fr; } }
   </style>
   <script>

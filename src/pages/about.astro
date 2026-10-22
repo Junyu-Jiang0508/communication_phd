@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import meta from '../data/meta.json';
+import buildInfo from '../data/meta.json';
 import programs from '../data/programs.json';
 import tax from '../data/taxonomy.json';
 import { DIMS, type Program, type Taxonomy } from '../lib/data';
@@ -14,9 +14,11 @@ const base = import.meta.env.BASE_URL;
     <p class="lede" style="margin-top:12px">A free tool for people applying to US doctoral programs in Communication, Media Studies and Journalism. It is modeled on the <a href="https://political-science-program-explorer.vw9pwn.chatgpt.site/" rel="noreferrer">Political Science Program Explorer</a> and rebuilt for Communication with program-level results, explainable matching, a shortlist and a bilingual interface. Built by <a href="https://junyuj.com" rel="noreferrer">Junyu Jiang</a>.</p>
 
     <h2>What is in the data</h2>
-    <p>{meta.programs} universities and {meta.faculty} tenure-line faculty (assistant, associate and full professors) from the units that grant a research PhD in communication, media or journalism. Lecturers, teaching and clinical faculty, professors of practice, emeriti, visiting and affiliated faculty are not included, because the tool is about who can supervise a dissertation. Data was read from official department directories on {meta.built}.</p>
+    <p>{buildInfo.programs} universities and {buildInfo.faculty} tenure-line faculty (assistant, associate and full professors) from the units that grant a research PhD in communication, media or journalism. Lecturers, teaching and clinical faculty, professors of practice, emeriti, visiting and affiliated faculty are not included, because the tool is about who can supervise a dissertation. Data was read from official department directories on {buildInfo.built}.</p>
     <h3>How the programs were chosen</h3>
-    <p>Candidates came from two public lists: US universities in the <a href="https://www.shanghairanking.com/rankings/gras/2025/AS0507" rel="noreferrer">ShanghaiRanking 2025 Global Ranking of Academic Subjects, Communication</a> (top 200) and the <a href="https://www.natcom.org/doctoral-program-guide/" rel="noreferrer">NCA Doctoral Program Guide</a>. Each candidate was then checked against its official pages for a research doctorate; universities that only offer master’s degrees were dropped. Rankings are shown as one signal with their year, not as a verdict on fit.</p>
+    <p>Candidates came from the <a href="https://www.natcom.org/doctoral-program-guide/" rel="noreferrer">NCA Doctoral Program Guide</a> and from the US universities in the ShanghaiRanking 2025 Communication subject list, which was used only to find candidates. Each candidate was then checked against its official pages for a research doctorate; universities that only offer master’s degrees were dropped. The site shows no rankings: they say little about whether a department fits your research.</p>
+    <h3>What is published about each person</h3>
+    <p>A one-sentence research summary written for this site, the research areas the department lists, the research labels below, and links to the official department profile and, where the department links them, a personal site or Google Scholar. No photos are stored or shown, and profile text from department pages is not republished: it is read once, at build time, to compute the matching vectors, and only those vectors are published.</p>
     <h3>Research labels</h3>
     <p>Every faculty member carries labels in five dimensions, assigned by a language model from the public profile text (department profile, personal site when linked, listed research areas). A ★ marks a primary emphasis. Labels are interpretive aids: they describe documented emphases, not the whole of anyone’s work, and they can be wrong. Each record states its sources and a confidence level.</p>
     <div class="rows" style="margin:12px 0">
@@ -25,7 +27,7 @@ const base = import.meta.env.BASE_URL;
 
     <h2>How matching works</h2>
     <ol>
-      <li><b>Semantic score.</b> Each faculty member is represented by the average of two 384-dimensional <code>bge-small-en-v1.5</code> vectors: one for the one-sentence research summary and keywords, one for the profile text. Faculty vectors are precomputed and stored as 8-bit integers; your text is embedded in your browser with <a href="https://huggingface.co/docs/transformers.js" rel="noreferrer">Transformers.js</a> (a one-time download of about 34 MB, cached by the browser). Raw cosine similarities from this model are compressed (almost every pair scores between 0.5 and 0.8), so they are calibrated against 32 realistic probe descriptions: a faculty member at the median of a typical query’s distribution scores 0, one in the top 0.5% scores 85, and the curve flattens above that.</li>
+      <li><b>Semantic score.</b> Each faculty member is represented by the average of two 384-dimensional <code>bge-small-en-v1.5</code> vectors: one for the one-sentence research summary and keywords, one for the profile text. Faculty vectors are precomputed from the public profile and stored as 8-bit integers (the profile text itself is not published); your text is embedded in your browser with <a href="https://huggingface.co/docs/transformers.js" rel="noreferrer">Transformers.js</a> (a one-time download of about 34 MB, cached by the browser). Raw cosine similarities from this model are compressed (almost every pair scores between 0.5 and 0.8), so they are calibrated against 32 realistic probe descriptions: a faculty member at the median of a typical query’s distribution scores 0, one in the top 0.5% scores 85, and the curve flattens above that.</li>
       <li><b>Keyword score.</b> A BM25-style score over the same profile text, plus exact matches of each person’s keyword phrases, normalised to 0–100.</li>
       <li><b>Detected priorities.</b> Regions, methods and topics named in your text become chips. By default a chip adds a small bonus (3 points, up to 9) to faculty who carry that label; click it once to make it a requirement, and again to switch it off.</li>
       <li><b>Fit</b> = 75% semantic + 25% keyword + bonuses (weights adjustable). <b>Program fit</b> = 50% of the best match + 30% of the second + 20% of the third, so departments with several plausible advisors rank above departments with one star.</li>
@@ -36,12 +38,12 @@ const base = import.meta.env.BASE_URL;
     <ul>
       <li>The model reads English. Chinese text runs, but matches will be weaker.</li>
       <li>A short profile gives a short embedding: faculty with sparse public pages are under-matched, not absent.</li>
-      <li>Directories change. Hires, departures and title changes after {meta.built} are not reflected until the next build.</li>
+      <li>Directories change. Hires, departures and title changes after {buildInfo.built} are not reflected until the next build.</li>
       <li>Multi-unit colleges (for example Texas, Penn State, Michigan State, Colorado) list all PhD-granting units; check each unit’s own admission page for which faculty supervise which program.</li>
     </ul>
 
     <h2>Corrections</h2>
-    <p>Every faculty page has a “Report an error” link that opens a GitHub issue; corrections are folded into the next build. The code and the data pipeline are public at <a href="https://github.com/Junyu-Jiang0508/communication_phd" rel="noreferrer">github.com/Junyu-Jiang0508/communication_phd</a>.</p>
+    <p>Every faculty page has a “Report an error” link that opens a GitHub issue; corrections are folded into the next build. Faculty who would like their information changed or removed can <a href="https://github.com/Junyu-Jiang0508/communication_phd/issues/new?template=data-correction.yml" rel="noreferrer">open an issue</a> or email <a href="mailto:junyujiang0508@gmail.com">junyujiang0508@gmail.com</a>, and the record will be updated or taken down. The code and the data pipeline are public at <a href="https://github.com/Junyu-Jiang0508/communication_phd" rel="noreferrer">github.com/Junyu-Jiang0508/communication_phd</a>.</p>
 
     <h2>Universities included</h2>
     <ul style="columns: 2; column-gap: 24px">{P.map((p) => <li><a href={`${base}programs/${p.slug}/`}>{p.name}</a> <span class="muted small">({p.n})</span></li>)}</ul>

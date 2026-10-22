@@ -3,14 +3,14 @@ export type Dim = (typeof DIMS)[number];
 export type LabelRef = { c: string; p: boolean };
 export type Faculty = {
   id: string; name: string; u: string; dept: string; rank: string; title: string;
-  profile: string | null; site: string | null; scholar: string | null; photo: string | null;
+  profile: string | null; site: string | null; scholar: string | null;
   areas: string[]; summary: string; summary_zh: string; conf: string;
   labels: Record<Dim, LabelRef[]>; kw: string[]; src: string[]; scraped: string | null; v: number;
 };
 export type Unit = { name: string; school: string | null; url: string | null; phd: string | null; phd_url: string | null; directory: string | null };
 export type Program = {
   slug: string; name: string; short: string; city: string; state: string; lat: number; lng: number;
-  domain: string | null; logo: string | null; shanghai: string | null; nca: string[]; units: Unit[];
+  domain: string | null; logo: string | null; nca: string[]; units: Unit[];
   n: number; ranks: Record<string, number>; notes: string;
 };
 export type Taxonomy = { dimensions: Record<Dim, { label: string; label_zh: string; description: string; description_zh: string; labels: Record<string, string>; labels_zh: Record<string, string>; labels_short: Record<string, string>; labels_short_zh: Record<string, string> }> };

@@ -1,14 +1,17 @@
 #!/usr/bin/env python
 """Build site data from pipeline outputs.
 
-  python pipeline/build.py [--skip-photos] [--skip-logos] [--skip-embed]
+  python pipeline/build.py [--skip-logos] [--skip-embed]
 
 Inputs : data/programs.json, data/raw/*.json, data/labels/*.json, pipeline/taxonomy.json
-Outputs: src/data/{programs,faculty,bios,taxonomy,meta}.json
+Outputs: src/data/{programs,faculty,taxonomy,meta}.json
          public/search/{manifest.json,index.json,vectors.i8.bin}
-         public/faculty/<id>.webp (112px portraits), public/schools/<slug>.png (favicons)
+         public/schools/<slug>.png (favicons)
+
+Profile text (raw "bio") is read only to compute the embeddings; it is never written to the site.
+No faculty photos are downloaded or published.
 """
-import argparse, hashlib, io, json, re, sys, time, unicodedata
+import argparse, io, json, re, sys, unicodedata
 from pathlib import Path
 from datetime import date
 
@@ -57,20 +60,9 @@ def fetch_bytes(url, timeout=25):
     r.raise_for_status()
     return r.content
 
-def make_thumb(data, size=112):
-    from PIL import Image, ImageOps
-    im = Image.open(io.BytesIO(data))
-    if min(im.size) < 40:
-        raise ValueError(f"placeholder-sized image {im.size}")
-    im = ImageOps.exif_transpose(im).convert("RGB")
-    im = ImageOps.fit(im, (size, size), method=Image.LANCZOS, centering=(0.5, 0.35))
-    out = io.BytesIO()
-    im.save(out, "WEBP", quality=78, method=6)
-    return out.getvalue()
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--skip-photos", action="store_true")
     ap.add_argument("--skip-logos", action="store_true")
     ap.add_argument("--skip-embed", action="store_true")
     ap.add_argument("--only", help="comma-separated slugs (pilot builds)")
@@ -83,13 +75,11 @@ def main():
         programs = [p for p in programs if p["slug"] in keep]
     out_dir = ROOT / "src" / "data"; out_dir.mkdir(parents=True, exist_ok=True)
     (ROOT / "public" / "search").mkdir(parents=True, exist_ok=True)
-    (ROOT / "public" / "faculty").mkdir(parents=True, exist_ok=True)
     (ROOT / "public" / "schools").mkdir(parents=True, exist_ok=True)
-    photo_cache = ROOT / "data" / "cache" / "photos"; photo_cache.mkdir(parents=True, exist_ok=True)
 
     label_text = {dim: d["labels"] for dim, d in tax["dimensions"].items()}
     faculty, bios, programs_out = [], {}, []
-    stats = {"programs": 0, "faculty": 0, "with_labels": 0, "with_photo": 0, "photo_failed": 0}
+    stats = {"programs": 0, "faculty": 0, "with_labels": 0}
 
     for p in programs:
         slug = p["slug"]
@@ -118,7 +108,7 @@ def main():
                 "rank": f["rank"], "title": f.get("title") or f["rank"],
                 "profile": f.get("profile_url"), "site": f.get("personal_url") or None,
                 "scholar": f.get("google_scholar_url") or None,
-                "photo": None, "areas": [x for x in (f.get("research_areas") or []) if x][:8],
+                "areas": [x for x in (f.get("research_areas") or []) if x][:8],
                 "summary": (lab or {}).get("summary") or "", "summary_zh": (lab or {}).get("summary_zh") or "",
                 "conf": (lab or {}).get("confidence") or "low", "labels": lab_out,
                 "kw": [k.lower() for k in ((lab or {}).get("keywords") or [])][:12],
@@ -126,23 +116,6 @@ def main():
                 "scraped": raw.get("scraped_at"),
             }
             bios[fid] = (f.get("bio") or "")[:4000]
-            # photo
-            purl = f.get("photo_url")
-            if purl and not a.skip_photos:
-                tp = ROOT / "public" / "faculty" / f"{fid}.webp"
-                if tp.exists():
-                    rec["photo"] = f"faculty/{fid}.webp"
-                else:
-                    # Photos come only from the cache filled by pipeline/prefetch_photos.py (no network here).
-                    cp = photo_cache / (hashlib.sha1(purl.encode()).hexdigest() + ".bin")
-                    try:
-                        if not cp.exists(): raise FileNotFoundError("not in photo cache (run prefetch_photos.py)")
-                        tp.write_bytes(make_thumb(cp.read_bytes()))
-                        rec["photo"] = f"faculty/{fid}.webp"
-                    except Exception as e:
-                        stats["photo_failed"] += 1
-                        sys.stderr.write(f"photo skipped {fid}: {str(e)[:80]}\n")
-            if rec["photo"]: stats["with_photo"] += 1
             faculty.append(rec); count += 1; ranks[f["rank"]] += 1
         # logo
         logo = None
@@ -165,7 +138,7 @@ def main():
         programs_out.append({
             "slug": slug, "name": p["university"], "short": sn, "city": p["city"], "state": p["state"],
             "lat": p["latitude"], "lng": p["longitude"], "domain": p.get("domain"), "logo": logo,
-            "shanghai": p.get("shanghai_2025_comm_rank"), "nca": p.get("nca_guide_units") or [],
+            "nca": p.get("nca_guide_units") or [],
             "units": [{"name": u["name"], "school": u.get("school"), "url": u.get("unit_url"),
                        "phd": u.get("phd_program_name"), "phd_url": u.get("phd_program_url"),
                        "directory": u.get("directory_url")} for u in p["units"] if u.get("include")],
@@ -217,7 +190,6 @@ def main():
 
     json.dump(programs_out, open(out_dir / "programs.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
     json.dump(faculty, open(out_dir / "faculty.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
-    json.dump(bios, open(out_dir / "bios.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
     json.dump(tax, open(out_dir / "taxonomy.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
     stats["built"] = date.today().isoformat()
     json.dump(stats, open(out_dir / "meta.json", "w"), indent=1)

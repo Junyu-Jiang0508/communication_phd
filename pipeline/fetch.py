@@ -61,9 +61,11 @@ def looks_like_js_shell(html):
     return len(text) < 600 or "enable javascript" in text.lower()
 
 def get(url, render=False):
+    # a static request that fell back to rendering is cached under the render key
+    for cp in [cache_path(url, render)] + ([] if render else [cache_path(url, True)]):
+        if cp.exists():
+            return cp.read_text(encoding="utf-8", errors="ignore")
     cp = cache_path(url, render)
-    if cp.exists():
-        return cp.read_text(encoding="utf-8", errors="ignore")
     html = None
     if not render:
         try:

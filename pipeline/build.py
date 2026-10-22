@@ -60,6 +60,8 @@ def fetch_bytes(url, timeout=25):
 def make_thumb(data, size=112):
     from PIL import Image, ImageOps
     im = Image.open(io.BytesIO(data))
+    if min(im.size) < 40:
+        raise ValueError(f"placeholder-sized image {im.size}")
     im = ImageOps.exif_transpose(im).convert("RGB")
     im = ImageOps.fit(im, (size, size), method=Image.LANCZOS, centering=(0.5, 0.35))
     out = io.BytesIO()
@@ -131,15 +133,15 @@ def main():
                 if tp.exists():
                     rec["photo"] = f"faculty/{fid}.webp"
                 else:
+                    # Photos come only from the cache filled by pipeline/prefetch_photos.py (no network here).
                     cp = photo_cache / (hashlib.sha1(purl.encode()).hexdigest() + ".bin")
                     try:
-                        data = cp.read_bytes() if cp.exists() else fetch_bytes(purl)
-                        if not cp.exists(): cp.write_bytes(data); time.sleep(0.25)
-                        tp.write_bytes(make_thumb(data))
+                        if not cp.exists(): raise FileNotFoundError("not in photo cache (run prefetch_photos.py)")
+                        tp.write_bytes(make_thumb(cp.read_bytes()))
                         rec["photo"] = f"faculty/{fid}.webp"
                     except Exception as e:
                         stats["photo_failed"] += 1
-                        sys.stderr.write(f"photo failed {fid}: {str(e)[:80]}\n")
+                        sys.stderr.write(f"photo skipped {fid}: {str(e)[:80]}\n")
             if rec["photo"]: stats["with_photo"] += 1
             faculty.append(rec); count += 1; ranks[f["rank"]] += 1
         # logo

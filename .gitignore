@@ -9,7 +9,7 @@ __pycache__/
 .venv/
 
 # scraped html cache and intermediate files (regenerable)
-data/cache/
+data/cache
 pipeline/.cache/
 
 # logs

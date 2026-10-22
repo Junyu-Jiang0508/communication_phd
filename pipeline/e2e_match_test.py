@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """End-to-end check of the Match page in headless Chromium against a running preview (default http://localhost:4321/communication_phd/).
 Downloads the real bge-small model from the CDN/HF hub, runs a query, prints the top results and any console errors."""
-import sys, time, json
+import sys, time, json, os, tempfile
 from playwright.sync_api import sync_playwright
 BASE = sys.argv[1] if len(sys.argv) > 1 else "http://localhost:4321/communication_phd/"
 QUERY = sys.argv[2] if len(sys.argv) > 2 else ("I study how misinformation about vaccines spreads in Chinese-language WeChat groups, combining computational text analysis "
@@ -32,7 +32,8 @@ with sync_playwright() as p:
     pg.click('[data-view="programs"]'); pg.wait_for_timeout(200)
     print("programs view:", pg.inner_text(".results-head").replace("\n", " | "))
     for r in pg.query_selector_all("#results .prog")[:5]:
-        print("  ", r.query_selector("h3").inner_text(), "fit", r.query_selector(".score b").inner_text(), "|", r.query_selector(".side .small").inner_text())
-    pg.screenshot(path="/tmp/claude-1000/-home-Junyu-work-communication-phd/88a78c8e-73c8-4ee1-84e1-9c939f56e63d/scratchpad/shot-match-results.png", full_page=False)
+        print("  ", r.query_selector(".prog-title").inner_text(), "fit", r.query_selector(".score b").inner_text(), "|", r.query_selector(".side .small").inner_text())
+    shot = os.path.join(tempfile.gettempdir(), "shot-match-results.png")
+    pg.screenshot(path=shot, full_page=False); print("screenshot:", shot)
     print("errors:", errs[:5] if errs else "none")
     b.close()

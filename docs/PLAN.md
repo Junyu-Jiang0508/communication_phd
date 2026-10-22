@@ -157,3 +157,5 @@ src/data/*.json + public/search/{manifest.json, index.json, vectors.i8.bin} + pu
 - **Astro 作用域样式陷阱**：页面里用 `innerHTML` 生成的元素拿不到 scoped 样式的 `data-astro-cid`，需要 `<style is:global>`。
 - **字体**：全局 `font-feature-settings: 'tnum'` 会让 Schibsted Grotesk 的逗号/句号变成等宽占位（看起来像全角标点），改为只在数字场景启用 tabular-nums。
 - **项目名单**：73 所候选 → Workflow 1 逐校核实 → 72 所（University of Denver 现仅有硕士，剔除）。多院系学校（如 UT Austin 4 个、Michigan State 4 个、Colorado 4 个授予博士的单位）分别抓取。
+- **不再发布头像、简介原文和排名（2026-10-22）**：教员一律用姓名首字母头像；院系主页的简介原文只在本地构建时用来计算向量，`data/raw` 移出仓库（放在 `~/data/communication_phd`）；ShanghaiRanking 不再展示。About 页说明发布了哪些信息，并给出修改或移除信息的联系方式。
+- **匹配重做（2026-10-22，评测见 `pipeline/eval/README.md`）**：用 40 条测试描述、1,309 个人工标准的分级判断（0–3）比较了 15 个嵌入模型、多种文档视图、融合方式、4 个交叉编码器和中文翻译方案。上线组合为 arctic-embed-m-v1.5（三视图平均）+ BM25（只用公开文本）按 z 分数 85/15 融合 + ms-marco-MiniLM 重读前 30 名 + 中文先翻译（浏览器内置翻译或 opus-mt）并附术语表关键词行。nDCG@10 从 0.69 提到 0.85，中文从 0.01 到约 0.7；1.2 GB 的大模型组合（0.82）反而更差。代价是首次下载从 34 MB 增加到约 133 MB。

@@ -23,6 +23,7 @@ import buildInfo from '../data/meta.json';
           <button type="button" class="chip ex" data-ex="4">HIV testing campaigns</button>
       </div>
       <div id="cjk" class="notice" hidden data-i18n="cjk_notice"></div>
+      <div id="translated" class="notice" hidden></div>
       <div id="hints" class="hints" hidden>
         <div class="small muted"><b data-i18n="match_hint_title">Detected priorities</b> · <span data-i18n="match_hint_help">Click a chip to boost it; click again to require it.</span></div>
         <div class="chips" id="hint-chips"></div>
@@ -31,7 +32,7 @@ import buildInfo from '../data/meta.json';
         <summary data-i18n="match_opts">Options</summary>
         <div class="opts-grid">
           <label class="field"><span><span data-i18n="opt_threshold">Minimum fit</span> <output id="thr-out">35</output></span><input type="range" id="thr" min="10" max="80" value="35"></label>
-          <label class="field"><span><span data-i18n="opt_lex">Keyword weight</span> <output id="lex-out">25%</output></span><input type="range" id="lex" min="0" max="60" value="25"></label>
+          <label class="field"><span><span data-i18n="opt_lex">Keyword weight</span> <output id="lex-out">15%</output></span><input type="range" id="lex" min="0" max="50" value="15"></label>
           <div class="field"><span data-i18n="opt_rank">Rank</span><div class="toolbar"><label class="check"><input type="checkbox" class="rank" value="Professor" checked><span data-i18n="rank_prof">Professor</span></label><label class="check"><input type="checkbox" class="rank" value="Associate Professor" checked><span data-i18n="rank_assoc">Associate Professor</span></label><label class="check"><input type="checkbox" class="rank" value="Assistant Professor" checked><span data-i18n="rank_asst">Assistant Professor</span></label></div></div>
         </div>
       </details>
@@ -81,7 +82,7 @@ import buildInfo from '../data/meta.json';
   import tax from '../data/taxonomy.json';
   import { BASE, esc, withBase, labelText, type Faculty, type Program, type Taxonomy } from '../lib/data';
   import { t, getLang } from '../lib/i18n';
-  import { indexFaculty, detectHints, loadIndex, loadModel, embed, semanticScores, score, programFit, type Hint, type Scored } from '../lib/match';
+  import { indexFaculty, detectHints, loadIndex, loadModel, loadReranker, embed, semanticScores, score, rerank, programFit, hasCJK, translateToEnglish, type Hint, type Scored, type Manifest } from '../lib/match';
   import { personRow, bindSaveButtons, setupDrawer, scoreHtml, mark, chip } from '../lib/ui';
   const EXAMPLES = ["I study how misinformation about vaccines spreads in Chinese-language WeChat groups, combining computational text analysis of posts with survey experiments on corrections.", "My research examines how adolescents use social media and how it affects their mental health and friendships, using longitudinal surveys and experience sampling.", "I am interested in the rhetoric of social movements and public memory, analyzing speeches, protest signs and commemorations through critical and historical methods.", "I want to study how newsrooms adopt generative AI tools and what it means for journalistic norms, through interviews and newsroom ethnography.", "I research health communication campaigns that encourage HIV testing among young Black and Latino men, using message design experiments and community partnerships."];
 
@@ -122,25 +123,50 @@ import buildInfo from '../data/meta.json';
   });
   document.addEventListener('langchange', () => { hints = detectHints(q.value, T, getLang()).map((h) => ({ ...h, mode: hints.find((x) => x.code === h.code)?.mode ?? 'boost' })); renderHints(); if (last) render(); });
 
-  let cached: { query: string; cos: Float32Array; ids: string[]; calib: { lo: number; hi: number; scaleAtHi?: number } } | null = null;
+  let cached: { query: string; english: string; via: 'browser' | 'model' | null; cos: Float32Array; ids: string[]; manifest: Manifest } | null = null;
+  const progress = (label: string) => (p: { phase: string; pct: number }) => { loadbar.dataset.n = String(Math.min(6, Math.ceil(p.pct / 17))); statusText.textContent = p.phase === 'ready' ? t('match_ready') : `${label} ${p.pct}%`; };
+  function showTranslation() {
+    const box = $('#translated');
+    box.hidden = !cached?.via;
+    if (!cached?.via) return;
+    box.innerHTML = `<b>${t('translated_note')}</b> <span class="muted small">(${t(cached.via === 'browser' ? 'translated_via_browser' : 'translated_via_model')})</span><div style="margin-top:4px">${esc(cached.english)}</div><button type="button" class="btn sm quiet" id="use-english" style="margin-top:6px">${t('translated_edit')}</button>`;
+    box.querySelector('#use-english')?.addEventListener('click', () => { q.value = cached!.english; q.dispatchEvent(new Event('input')); q.focus(); });
+  }
+  let runSeq = 0; // option changes can overlap; only the latest run renders
   async function run(fresh = true) {
     const text = q.value.trim(); if (!text) return;
+    const seq = ++runSeq;
     err.hidden = true;
     try {
       if (fresh || !cached || cached.query !== text) {
         go.disabled = true; loadbar.hidden = false; loadbar.dataset.n = '0'; statusText.textContent = t('match_loading');
-        const [{ manifest, ids, vec }, pipe] = await Promise.all([
-          loadIndex(BASE),
-          loadModel('Xenova/bge-small-en-v1.5', (p) => { loadbar.dataset.n = String(Math.min(6, Math.ceil(p.pct / 17))); statusText.textContent = p.phase === 'ready' ? t('match_ready') : `${t('match_loading')} ${p.pct}%`; }),
-        ]);
+        const { manifest, ids, vec } = await loadIndex(BASE);
+        let english = text, via: 'browser' | 'model' | null = null, keywords = '';
+        if (hasCJK(text)) {
+          statusText.textContent = t('match_translating');
+          const tr = await translateToEnglish(text, manifest.translate, progress(t('match_translating')));
+          english = tr.text; via = tr.via; keywords = tr.keywords;
+          hints = detectHints(english, T, getLang()).map((h) => ({ ...h, mode: hints.find((x) => x.code === h.code)?.mode ?? 'boost' }));
+          renderHints();
+        }
+        // the reranker downloads alongside the embedding model
+        loadReranker(manifest.rerank.model).catch(() => {});
+        const pipe = await loadModel(manifest.model, progress(t('match_loading')));
         statusText.textContent = t('match_running'); loadbar.dataset.n = '6';
-        const qv = await embed(pipe, manifest, text);
-        cached = { query: text, cos: semanticScores(qv, vec, manifest.dimensions, manifest.quantizationScale), ids, calib: manifest.calibration || { lo: 0.6, hi: 0.75 } };
-        statusText.textContent = t('match_ready');
+        const qv = await embed(pipe, manifest, english, keywords);
+        cached = { query: text, english, via, cos: semanticScores(qv, vec, manifest.dimensions, manifest.quantizationScale), ids, manifest };
       }
       const ranks = new Set(Array.from(document.querySelectorAll<HTMLInputElement>('.rank:checked')).map((c) => c.value));
-      last = score(F, cached.ids, cached.cos, text, hints, { lexWeight: Number(lex.value) / 100, threshold: Number(thr.value) / 100, ranks, calib: cached.calib });
-      lastQuery = text; shown = 30;
+      let res = score(F, cached.ids, cached.cos, cached.english, hints, { lexWeight: Number(lex.value) / 100, threshold: Number(thr.value) / 100, ranks, manifest: cached.manifest });
+      try {
+        statusText.textContent = t('match_rerank');
+        const rr = await loadReranker(cached.manifest.rerank.model);
+        res = await rerank(rr, cached.english, res, cached.manifest.rerank, T);
+      } catch { /* the first-pass order still stands */ }
+      if (seq !== runSeq) return;
+      statusText.textContent = t('match_ready');
+      last = res; lastQuery = text; shown = 30;
+      showTranslation();
       render();
       if (fresh && window.innerWidth < 900) results.scrollIntoView({ behavior: 'smooth', block: 'start' });
     } catch (e: any) {
@@ -158,6 +184,7 @@ import buildInfo from '../data/meta.json';
   function why(s: Scored) {
     const lang = getLang();
     const parts = [`${t('why_sem')} <b>${Math.round(s.sem * 100)}</b>`, `${t('why_kw')} <b>${Math.round(s.lex * 100)}</b>`];
+    if ((s.moved ?? 0) > 0) parts.push(t('why_reread'));
     if (s.labels.length) parts.push(`${t('why_labels')}: ${s.labels.map((l) => esc(labelText(T, l.dim, l.code, lang))).join(', ')}`);
     return `${t('why')} · ${parts.join(' · ')}`;
   }

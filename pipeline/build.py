@@ -18,9 +18,15 @@ from datetime import date
 ROOT = Path(__file__).resolve().parents[1]
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
       "Chrome/124.0 Safari/537.36 CommPhDExplorer/0.1")
-MODEL = "BAAI/bge-small-en-v1.5"
-BROWSER_MODEL = "Xenova/bge-small-en-v1.5"
+# Matching setup, chosen on the judged evaluation set in pipeline/eval (see pipeline/eval/README.md).
+MODEL = "Snowflake/snowflake-arctic-embed-m-v1.5"     # same weights in the browser (onnx/model_quantized.onnx, q8)
+BROWSER_MODEL = "Snowflake/snowflake-arctic-embed-m-v1.5"
 QUERY_PREFIX = "Represent this sentence for searching relevant passages: "
+FUSION = {"dense": 0.85, "lex": 0.15}                  # weights on per-query z-scores
+HINTS = {"region": 0.25, "approach": 0.1, "topic": 0.05}  # z-units added per detected label the person carries
+RERANK = {"model": "Xenova/ms-marco-MiniLM-L-6-v2", "k": 30, "mix": 0.5}
+TRANSLATE = {"model": "Xenova/opus-mt-zh-en"}           # fallback when the browser has no built-in translator;
+# pipeline/glossary_zh.json maps platform names and method terms to English keywords appended to translated queries
 
 def slugify(s):
     s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
@@ -119,22 +125,21 @@ def main():
             faculty.append(rec); count += 1; ranks[f["rank"]] += 1
         # logo
         logo = None
-        if not a.skip_logos and p.get("domain"):
-            lp = ROOT / "public" / "schools" / f"{slug}.png"
-            if lp.exists():
-                logo = f"schools/{slug}.png"
-            else:
-                for url in (f"https://www.google.com/s2/favicons?domain={p['domain']}&sz=64",
-                            f"https://{p['domain']}/favicon.ico"):
-                    try:
-                        data = fetch_bytes(url, timeout=15)
-                        from PIL import Image
-                        im = Image.open(io.BytesIO(data)).convert("RGBA")
-                        if im.size[0] < 16: continue
-                        im = im.resize((64, 64), Image.LANCZOS)
-                        im.save(lp, "PNG"); logo = f"schools/{slug}.png"; break
-                    except Exception as e:
-                        sys.stderr.write(f"logo failed {slug} {url}: {str(e)[:60]}\n")
+        lp = ROOT / "public" / "schools" / f"{slug}.png"
+        if lp.exists():
+            logo = f"schools/{slug}.png"  # existing favicons are kept; --skip-logos only skips downloading new ones
+        elif not a.skip_logos and p.get("domain"):
+            for url in (f"https://www.google.com/s2/favicons?domain={p['domain']}&sz=64",
+                        f"https://{p['domain']}/favicon.ico"):
+                try:
+                    data = fetch_bytes(url, timeout=15)
+                    from PIL import Image
+                    im = Image.open(io.BytesIO(data)).convert("RGBA")
+                    if im.size[0] < 16: continue
+                    im = im.resize((64, 64), Image.LANCZOS)
+                    im.save(lp, "PNG"); logo = f"schools/{slug}.png"; break
+                except Exception as e:
+                    sys.stderr.write(f"logo failed {slug} {url}: {str(e)[:60]}\n")
         programs_out.append({
             "slug": slug, "name": p["university"], "short": sn, "city": p["city"], "state": p["state"],
             "lat": p["latitude"], "lng": p["longitude"], "domain": p.get("domain"), "logo": logo,
@@ -148,40 +153,45 @@ def main():
         print(f"{slug:45s} faculty={count:3d} labels={sum(1 for f in raw['faculty'] if norm_name(f['name']) in labels):3d}")
 
     # embeddings
-    index, vec_rows = [], []
     if not a.skip_embed:
         from sentence_transformers import SentenceTransformer
         import numpy as np
+        from textmatch import BM25, published_text
         model = SentenceTransformer(MODEL)
-        # Two views per person, averaged: (A) concise LLM summary + keywords, (B) profile text.
-        # Chosen over a single concatenated text after comparing top-vs-median gaps on probe queries (docs/PLAN.md).
-        view_a, view_b = [], []
+        # Three views per person, embedded separately, summed and renormalised:
+        # LLM summary + keywords, profile text (local only, never published), and the published text.
+        v_sum, v_bio, v_pub = [], [], []
         for r in faculty:
-            a_txt = " ".join(x for x in [r["summary"], ("Keywords: " + ", ".join(r["kw"]) + ".") if r["kw"] else ""] if x).strip()
+            s_txt = " ".join(x for x in [r["summary"], ("Keywords: " + ", ".join(r["kw"]) + ".") if r["kw"] else ""] if x).strip()
             b_txt = (bios.get(r["id"], "") or "").strip()
             if len(b_txt) < 200:
                 b_txt = " ".join(x for x in [r["title"], r["dept"], ("Research areas: " + "; ".join(r["areas"]) + ".") if r["areas"] else "", b_txt] if x)
-            view_a.append(a_txt or b_txt); view_b.append(b_txt[:1500] or a_txt)
-        ea = model.encode(view_a, batch_size=64, normalize_embeddings=True, show_progress_bar=True)
-        eb = model.encode(view_b, batch_size=64, normalize_embeddings=True, show_progress_bar=True)
-        emb = ea + eb
+            p_txt = published_text(r, tax)
+            v_sum.append(s_txt or p_txt); v_bio.append(b_txt[:1500] or p_txt); v_pub.append(p_txt)
+        emb = sum(model.encode(v, batch_size=32, normalize_embeddings=True, show_progress_bar=True) for v in (v_sum, v_bio, v_pub))
         emb = emb / np.linalg.norm(emb, axis=1, keepdims=True)
-        # calibration from realistic probe queries
-        probes = load_json(ROOT / "pipeline" / "probes.json")["probes"]
-        qv = model.encode([QUERY_PREFIX + q for q in probes], normalize_embeddings=True)
-        deq = np.clip(np.round(emb * 127), -127, 127) / 127.0
-        cos = qv @ deq.T
-        hi_pct = 99.5 if len(faculty) >= 400 else 97.5
-        lo = float(np.median(np.percentile(cos, 75, axis=1)))
-        hi = float(np.median(np.percentile(cos, hi_pct, axis=1)))
-        print(f"calibration: lo(p75)={lo:.4f} hi(p{hi_pct})={hi:.4f} over {len(probes)} probes")
         q = np.clip(np.round(emb * 127), -127, 127).astype(np.int8)
+        # calibration from realistic probe queries: the raw cosine (shown as "semantic") and the fused score (shown as fit)
+        probes = load_json(ROOT / "pipeline" / "probes.json")["probes"]
+        qv = model.encode([QUERY_PREFIX + t for t in probes], normalize_embeddings=True)
+        cos = qv @ (q.astype(np.float32) / 127.0).T
+        bm = BM25(v_pub); lex = np.array([bm.scores(t) for t in probes], dtype=np.float32)
+        zs = lambda x: (x - x.mean(axis=1, keepdims=True)) / (x.std(axis=1, keepdims=True) + 1e-9)
+        fused = FUSION["dense"] * zs(cos) + FUSION["lex"] * zs(lex)
+        hi_pct = 99.5 if len(faculty) >= 400 else 97.5
+        cal = lambda m: {"lo": round(float(np.median(np.percentile(m, 75, axis=1))), 4),
+                         "hi": round(float(np.median(np.percentile(m, hi_pct, axis=1))), 4),
+                         "hiPercentile": hi_pct, "probes": len(probes), "scaleAtHi": 0.85}
+        sem_cal, fit_cal = cal(cos), cal(fused)
+        print(f"calibration: cosine {sem_cal['lo']}..{sem_cal['hi']}  fused z {fit_cal['lo']}..{fit_cal['hi']}")
         (ROOT / "public" / "search" / "vectors.i8.bin").write_bytes(q.tobytes())
         for i, r in enumerate(faculty):
             r["v"] = i
         json.dump({"model": BROWSER_MODEL, "dimensions": int(emb.shape[1]), "vectorCount": len(faculty),
                    "quantizationScale": 127, "queryPrefix": QUERY_PREFIX, "pooling": "cls", "normalize": True,
-                   "calibration": {"lo": round(lo, 4), "hi": round(hi, 4), "hiPercentile": hi_pct, "probes": len(probes), "scaleAtHi": 0.85},
+                   "fusion": FUSION, "hints": HINTS, "rerank": RERANK,
+                   "translate": {**TRANSLATE, "glossary": load_json(ROOT / "pipeline" / "glossary_zh.json")},
+                   "semCalibration": sem_cal, "calibration": fit_cal,
                    "built": date.today().isoformat()},
                   open(ROOT / "public" / "search" / "manifest.json", "w"), indent=1)
         json.dump([r["id"] for r in faculty], open(ROOT / "public" / "search" / "index.json", "w"))

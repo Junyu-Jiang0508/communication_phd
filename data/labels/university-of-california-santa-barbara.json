@@ -1,0 +1,2774 @@
+{
+  "slug": "university-of-california-santa-barbara",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Tamara Afifi",
+      "summary": "Studies how family members and partners communicate under stress and how it shapes relational, mental, and physiological health, using surveys, diaries, lab interactions, and biomarkers.",
+      "summary_zh": "研究家庭成员与伴侣在压力下如何沟通及其对关系、心理和生理健康的影响，结合家庭问卷、日记、实验室互动与生物标志物等方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "family communication",
+        "stress and coping",
+        "biological stress markers",
+        "communal coping",
+        "privacy and secrets",
+        "social support",
+        "resilience",
+        "refugee families",
+        "longitudinal diary"
+      ]
+    },
+    {
+      "name": "Walid Afifi",
+      "summary": "Studies how uncertainty drives information seeking and decision-making, developing the Theory of Motivated Information Management and a Chronic Uncertainty Framework for immigrant communities.",
+      "summary_zh": "研究不确定性如何驱动信息寻求与决策，提出动机性信息管理理论，并针对移民社区发展慢性不确定性框架。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "uncertainty management",
+        "theory of motivated information management",
+        "information seeking",
+        "chronic uncertainty framework",
+        "immigrant communities",
+        "community-engaged research",
+        "well-being",
+        "trauma"
+      ]
+    },
+    {
+      "name": "Norah Dunbar",
+      "summary": "Studies credibility and deception detection, examining how dominance, nonverbal synchrony, and power shape impressions and persuasion in interpersonal and mediated interaction.",
+      "summary_zh": "研究可信度与欺骗识别，考察支配性、非言语同步和权力如何影响人际与中介互动中的印象形成与说服。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "deception detection",
+        "credibility",
+        "nonverbal communication",
+        "nonverbal synchrony",
+        "dominance and power",
+        "persuasion",
+        "video games",
+        "computer-mediated communication"
+      ]
+    },
+    {
+      "name": "Jennifer Gibbs",
+      "summary": "Studies collaboration in global, remote, and hybrid teams and how digital media and AI transform organizing, using field-based qualitative and quantitative methods.",
+      "summary_zh": "研究全球化、远程与混合办公团队中的协作，以及数字媒体与人工智能如何改变组织过程，采用基于田野的定性与定量方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "global teams",
+        "remote work",
+        "hybrid work",
+        "future of work",
+        "boundary management",
+        "concertive control",
+        "online communities",
+        "ai in organizations",
+        "technological affordances"
+      ]
+    },
+    {
+      "name": "Amy Gonzales",
+      "summary": "Studies the digital divide, especially disruptions in device access, and how technology-mediated social support affects identity and well-being among disadvantaged communities.",
+      "summary_zh": "研究数字鸿沟（尤其是设备接入的短期中断），以及技术中介的社会支持如何影响弱势群体的身份认同与福祉。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "digital divide",
+        "digital inequality",
+        "device access",
+        "digital literacy",
+        "social support",
+        "well-being",
+        "low-income populations",
+        "technology policy"
+      ]
+    },
+    {
+      "name": "Kristy Hamilton",
+      "summary": "Uses experiments to study human memory, cognition, and metacognitive monitoring and control when people think with digital technologies.",
+      "summary_zh": "运用实验方法研究人们借助数字技术思考时的记忆、认知以及元认知监控与控制过程。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "human memory",
+        "cognition",
+        "metacognition",
+        "cognitive offloading",
+        "digital media",
+        "decision science",
+        "media psychology"
+      ]
+    },
+    {
+      "name": "Jennifer Kam",
+      "summary": "Examines how structurally rooted stressors affect the health and well-being of immigrant youth and families and what promotes thriving, using quantitative and qualitative methods.",
+      "summary_zh": "运用定量与定性方法，研究源于结构性障碍的压力源如何影响移民青少年及其家庭的健康与福祉，以及促进其成长的因素。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "immigrant youth",
+        "immigrant families",
+        "structural barriers",
+        "stressors",
+        "thriving",
+        "resilience",
+        "well-being",
+        "adolescent development",
+        "prevention"
+      ]
+    },
+    {
+      "name": "Young Ji Kim",
+      "summary": "Studies team collaboration, examining how diversity, communication processes, and human-machine teaming shape collective intelligence and team performance, including neurodiversity at work.",
+      "summary_zh": "研究团队协作，考察多样性、沟通过程与人机协作如何影响集体智能和团队绩效，并关注职场神经多样性。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "team collaboration",
+        "collective intelligence",
+        "human-machine teaming",
+        "team diversity",
+        "neurodiversity",
+        "boundary work",
+        "distributed work",
+        "small groups"
+      ]
+    },
+    {
+      "name": "Dan Lane",
+      "summary": "Studies how political expression on social media can stimulate political engagement, improve intergroup relations, and reduce political inequality.",
+      "summary_zh": "研究社交媒体上的政治表达如何促进政治参与、改善群际关系并减少政治不平等。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "political expression",
+        "social media",
+        "political engagement",
+        "political inequality",
+        "intergroup relations",
+        "social change",
+        "digital storytelling"
+      ]
+    },
+    {
+      "name": "Jiaying Liu",
+      "summary": "Studies health message effects and risky health decisions such as youth vaping, using surveys, online and eye-tracking experiments, computational text analysis, and neuroimaging.",
+      "summary_zh": "研究健康信息效果与青少年电子烟等风险健康决策，结合全国性调查、在线与眼动实验、计算文本分析和神经影像方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health communication",
+        "message effects",
+        "persuasion",
+        "e-cigarettes",
+        "youth tobacco use",
+        "eye-tracking",
+        "neuroimaging",
+        "crowdsourced annotation",
+        "computational text analysis",
+        "campaign evaluation"
+      ]
+    },
+    {
+      "name": "Guadalupe (Lupita) Madrigal",
+      "summary": "Studies how identity, race, and information shape U.S. political processes, focusing on Latinx populations, immigration, and news portrayals of immigrant children.",
+      "summary_zh": "研究身份、种族与信息如何影响美国政治过程，聚焦拉丁裔群体、移民议题及新闻对移民儿童的呈现。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "latinx politics",
+        "immigration",
+        "news portrayals",
+        "immigrant children",
+        "social identity",
+        "race and politics",
+        "immigration policy",
+        "chicanx studies"
+      ]
+    },
+    {
+      "name": "Dana Mastro",
+      "summary": "Documents how social groups are represented across media and tests how exposure to these portrayals affects users' cognitions, emotions, behaviors, and intergroup dynamics.",
+      "summary_zh": "记录不同社会群体在媒体中的呈现方式，并检验接触这些呈现如何影响受众的认知、情绪、行为与群际关系。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "media representation",
+        "stereotyping",
+        "intergroup dynamics",
+        "race and ethnicity in media",
+        "media exposure effects",
+        "content analysis",
+        "social identity"
+      ]
+    },
+    {
+      "name": "Andy Merolla",
+      "summary": "Studies how everyday interpersonal communication relates to well-being, connection, forgiveness, and hope, using experience sampling of daily social interaction.",
+      "summary_zh": "研究日常人际沟通如何与福祉、联结感、宽恕和希望相关联，采用经验取样法追踪日常社交互动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "well-being",
+        "experience sampling",
+        "social connection",
+        "conflict management",
+        "interpersonal forgiveness",
+        "relational maintenance",
+        "hope",
+        "social biome"
+      ]
+    },
+    {
+      "name": "Miriam Metzger",
+      "summary": "Studies how people judge the credibility of online information and make privacy decisions in digital environments, using quantitative social science methods.",
+      "summary_zh": "运用定量社会科学方法，研究人们如何判断网络信息的可信度以及如何在数字环境中做出隐私决策。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "online credibility",
+        "credibility assessment",
+        "trust in online information",
+        "information privacy",
+        "privacy decision-making",
+        "digital communication technologies"
+      ]
+    },
+    {
+      "name": "Karen Myers",
+      "summary": "Studies the communicative constitution of organizations and workplace interaction, including newcomer socialization, emotion management, work-life balance, and organizational identification.",
+      "summary_zh": "研究组织的传播构成与职场互动，包括新员工社会化、情绪管理、工作与生活平衡以及组织认同。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "organizational socialization",
+        "newcomer assimilation",
+        "emotion management",
+        "work-life balance",
+        "intergenerational interaction",
+        "organizational identification",
+        "communicative constitution of organizations",
+        "worker wellbeing"
+      ]
+    },
+    {
+      "name": "Robin Nabi",
+      "summary": "Studies the role of emotion in media processes and effects, focusing on emotional persuasive messages and how media use relates to stress, coping, and well-being.",
+      "summary_zh": "研究情绪在媒体过程与效果中的作用，聚焦情绪化说服信息以及媒体使用与压力、应对和福祉的关系。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "emotion",
+        "persuasion",
+        "emotional appeals",
+        "media and well-being",
+        "stress coping",
+        "media prescriptions",
+        "covid-19",
+        "emotional intelligence"
+      ]
+    },
+    {
+      "name": "Prateekshit \"Kanu\" Pandey",
+      "summary": "Studies how political humor and satire affect democratic participation and news sharing in the U.S. and South Asia, using survey experiments, network analysis, and neuroimaging.",
+      "summary_zh": "研究政治幽默与讽刺如何影响美国和南亚的民主参与与新闻分享，采用调查实验、网络分析和神经影像方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_SOUTH_SE_ASIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "political humor",
+        "satire",
+        "political entertainment",
+        "democratic participation",
+        "news sharing",
+        "political agency",
+        "survey experiments",
+        "neuroimaging",
+        "south asia"
+      ]
+    },
+    {
+      "name": "Casey Randazzo",
+      "summary": "Studies how communities and AI agents organize collective action in disaster response and recovery, using network analysis, generative agent-based modeling, and discourse analysis.",
+      "summary_zh": "研究社区与人工智能代理如何在灾害应对与恢复中组织集体行动，采用网络分析、生成式智能体建模和话语分析。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "human-ai organizing",
+        "disaster response",
+        "disaster recovery",
+        "collective action",
+        "large language models",
+        "generative agent-based modeling",
+        "network analysis",
+        "discourse analysis"
+      ]
+    },
+    {
+      "name": "Scott Reid",
+      "summary": "Studies communication in group processes and intergroup relations through social identity and evolutionary theories, such as voice pitch shifts as honest signals of aggression.",
+      "summary_zh": "从社会认同与进化理论视角研究群体过程与群际关系中的沟通，例如音调变化作为攻击意图的诚实信号。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "intergroup relations",
+        "social identity theory",
+        "evolutionary explanations",
+        "voice pitch",
+        "anger",
+        "honest signals",
+        "aggression",
+        "group processes"
+      ]
+    },
+    {
+      "name": "Ronald E. Rice",
+      "summary": "Studies the social uses and effects of new media, organizational communication, environmental and public communication campaigns, and social networks, including bibliometric methods.",
+      "summary_zh": "研究新媒体的社会使用与影响、组织传播、环境与公共传播运动以及社会网络，并运用文献计量方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_NETWORK",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "environmental communication",
+        "public communication campaigns",
+        "social networks",
+        "bibliometrics",
+        "new media effects",
+        "organizational theory",
+        "internet and health",
+        "online hate",
+        "unusual routines"
+      ]
+    },
+    {
+      "name": "Muniba Saleem",
+      "summary": "Studies how media portrayals affect intergroup relations among racial, ethnic, and religious groups and how minorities use and cope with media, applying social psychological theory.",
+      "summary_zh": "运用社会心理学理论，研究媒体呈现如何影响种族、族裔与宗教群体间的关系，以及少数族裔如何使用和应对媒体环境。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "media stereotypes",
+        "intergroup relations",
+        "religious minorities",
+        "racial-ethnic minorities",
+        "media representation",
+        "hostile attitudes",
+        "social identity",
+        "coping with media"
+      ]
+    },
+    {
+      "name": "Shaunak Sastry",
+      "summary": "Studies global health communication through culture-centered, community-partnered interventions, addressing pandemic governance and the health impacts of climate change.",
+      "summary_zh": "以文化中心路径和社区合作干预研究全球健康传播，关注疫情治理及气候变化对健康的影响。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "global health communication",
+        "culture-centered approach",
+        "community-engaged research",
+        "pandemic governance",
+        "climate change and health",
+        "extreme weather",
+        "health interventions",
+        "globalization"
+      ]
+    },
+    {
+      "name": "Joe Walther",
+      "summary": "Develops theories of computer-mediated communication and tests how interpersonal and intergroup dynamics shape attitudes, relationships, and online hate in mediated interaction.",
+      "summary_zh": "构建计算机中介传播理论，并检验人际与群际动力如何在中介互动中影响态度、关系与网络仇恨。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "computer-mediated communication",
+        "social information processing theory",
+        "hyperpersonal model",
+        "warranting theory",
+        "online hate",
+        "intergroup conflict",
+        "social media",
+        "online relationships"
+      ]
+    },
+    {
+      "name": "René Weber",
+      "summary": "Studies the neural mechanisms of responses to media narratives, including moral conflict, persuasion, media violence, and flow, and analyzes moral narratives in news and entertainment.",
+      "summary_zh": "研究受众对媒介叙事反应的神经机制，包括道德冲突、说服、媒体暴力和心流体验，并分析新闻与娱乐中的道德叙事。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "media neuroscience",
+        "moral narratives",
+        "moral conflict",
+        "media violence",
+        "flow experience",
+        "media multitasking",
+        "adhd",
+        "compulsive media use",
+        "persuasion"
+      ]
+    },
+    {
+      "name": "Alenda Y. Chang",
+      "summary": "Merges ecocritical theory with analysis of contemporary media, developing ecological frameworks for understanding and designing video games.",
+      "summary_zh": "将生态批评理论与当代媒介分析相结合，为理解和设计电子游戏发展生态学框架。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "ecocriticism",
+        "video games",
+        "environmental media",
+        "game studies",
+        "green games",
+        "digital morphogenesis",
+        "playing nature"
+      ]
+    },
+    {
+      "name": "Althea Wasow",
+      "summary": "Studies silent cinema and precinematic visual culture, analyzing the entanglement of police power and motion pictures through historical research, Black studies, and essay filmmaking.",
+      "summary_zh": "研究默片与前电影视觉文化，结合历史研究、黑人研究与散文电影创作，分析警察权力与电影之间的纠缠。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "silent cinema",
+        "policing and film",
+        "black studies",
+        "critical carceral studies",
+        "essay film",
+        "precinematic visual culture",
+        "bert williams",
+        "satellite coast"
+      ]
+    },
+    {
+      "name": "Bhaskar Sarkar",
+      "summary": "Studies global and Indian media through critical cultural analysis, examining piracy and informal media of the global South, populism, risk and securitization, and queer subcultures.",
+      "summary_zh": "以批判文化分析研究全球与印度媒介，考察全球南方的盗版与非正式媒介、民粹主义、风险与安全化以及酷儿亚文化。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_SOUTH_SE_ASIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "indian cinema",
+        "bollywood",
+        "media piracy",
+        "global media",
+        "partition",
+        "queer subcultures",
+        "risk and securitization",
+        "populism",
+        "asian video cultures"
+      ]
+    },
+    {
+      "name": "Cristina Venegas",
+      "summary": "Studies the history, theory, and criticism of Latin American film and digital media, including Cuban cinema, the state and digital culture, and digital activism.",
+      "summary_zh": "研究拉丁美洲电影与数字媒介的历史、理论与批评，包括古巴电影、国家与数字文化以及数字行动主义。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "latin american cinema",
+        "cuban film",
+        "digital culture in cuba",
+        "julio garcía espinosa",
+        "digital activism",
+        "community media",
+        "film history",
+        "film criticism"
+      ]
+    },
+    {
+      "name": "Greg Siegel",
+      "summary": "Studies media history and theory, science and technology studies, and sound studies, using cultural and critical history to examine forensic media, accidents, and unexplained sounds.",
+      "summary_zh": "研究媒介历史与理论、科学技术研究和声音研究，以文化与批判史路径考察法证媒介、事故与无法解释的声音。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "media history",
+        "media theory",
+        "sound studies",
+        "forensic media",
+        "accidents",
+        "science and technology studies",
+        "broadcast signal",
+        "atomic age"
+      ]
+    },
+    {
+      "name": "Jason Ludwig",
+      "summary": "Studies the history of computing and politics in the postwar U.S., tracing how computing was deployed against the urban crisis and reshaped racial politics and policy.",
+      "summary_zh": "研究战后美国计算技术与政治的历史，追溯计算技术如何被用于应对城市危机并重塑种族政治与政策。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "history of computing",
+        "urban crisis",
+        "race and technology",
+        "urban politics",
+        "surveillance capitalism",
+        "postwar united states",
+        "software and society",
+        "technology and labor"
+      ]
+    },
+    {
+      "name": "Jennifer Holt",
+      "summary": "Studies media industries and digital media policy, tracing the history of regulating pipelines, platforms, data, and cloud infrastructures.",
+      "summary_zh": "研究媒介产业与数字媒介政策，追溯管道、平台、数据及云基础设施监管的历史。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "media industries",
+        "media policy",
+        "cloud infrastructure",
+        "digital media regulation",
+        "media infrastructures",
+        "streaming",
+        "broadcast regulation",
+        "connected viewing",
+        "television history"
+      ]
+    },
+    {
+      "name": "Laila Shereen Sakr",
+      "summary": "Merges digital art practice, feminist decolonial thought, and critical AI to study Arab digital cultures, data, and archives, building media systems such as R-Shief.",
+      "summary_zh": "融合数字艺术实践、女性主义去殖民思想与批判性人工智能，研究阿拉伯数字文化、数据与档案，并构建R-Shief等媒介系统。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_MIDDLE_EAST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "glitch art",
+        "critical ai",
+        "arab digital cultures",
+        "r-shief",
+        "arab spring",
+        "feminist decolonial theory",
+        "data art",
+        "technoculture",
+        "egypt 2011"
+      ]
+    },
+    {
+      "name": "Lisa Parks",
+      "summary": "Studies satellite technologies, media infrastructures, and media globalization, along with militarization, surveillance, and AI, through media history and critical theory.",
+      "summary_zh": "以媒介史和批判理论研究卫星技术、媒介基础设施与媒介全球化，并关注军事化、监控与人工智能。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "satellite technologies",
+        "media infrastructures",
+        "media globalization",
+        "drone warfare",
+        "surveillance",
+        "militarization",
+        "television studies",
+        "media backends",
+        "environmental media"
+      ]
+    },
+    {
+      "name": "Mona Damluji",
+      "summary": "Studies underrepresented media histories of energy, cities, and infrastructure in the Middle East, especially oil-industry documentary films in Iran and Iraq.",
+      "summary_zh": "研究中东能源、城市与基础设施中被忽视的媒介史，尤其是伊朗和伊拉克石油工业纪录片。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_MIDDLE_EAST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "oil films",
+        "energy humanities",
+        "documentary film",
+        "petrocinema",
+        "iran",
+        "iraq",
+        "urban studies",
+        "sponsored films",
+        "middle east media history"
+      ]
+    },
+    {
+      "name": "Naoki Yamamoto",
+      "summary": "Studies film theory and Japanese cinema, tracing Japan's role in the global circulation of film theory through Marxist criticism and cultural history.",
+      "summary_zh": "研究电影理论与日本电影，通过马克思主义批评与文化史考察日本在电影理论全球流通中的角色。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_EAST_ASIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "film theory",
+        "japanese cinema",
+        "marxist criticism",
+        "realism",
+        "soviet montage",
+        "documentary film",
+        "avant-garde art",
+        "japanese media theory"
+      ]
+    },
+    {
+      "name": "Patrice Petro",
+      "summary": "Studies film and media history and historiography from a feminist perspective, including cinema and gender, 1920s movie stars, and media and global security.",
+      "summary_zh": "从女性主义视角研究电影与媒介史及史学，包括电影与性别、1920年代电影明星以及媒介与全球安全。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "feminist film history",
+        "cinema and gender",
+        "film historiography",
+        "movie stars",
+        "modernity",
+        "war on terror",
+        "global security"
+      ]
+    },
+    {
+      "name": "Peter Bloom",
+      "summary": "Studies British, French, and Belgian colonial media, focusing on documentary, radio, and cinema in West Africa and Southeast Asia, through historical and archival research.",
+      "summary_zh": "以历史与档案研究考察英、法、比殖民媒介，聚焦西非和东南亚的纪录片、广播与电影。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_AFRICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_SOUTH_SE_ASIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_EUROPE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "colonial media",
+        "french colonial documentary",
+        "african diaspora",
+        "west africa",
+        "radio-cinema",
+        "empire",
+        "pre-cinema",
+        "francophone studies"
+      ]
+    },
+    {
+      "name": "Ross Melnick",
+      "summary": "Studies film history and the entertainment industry, especially film exhibition and how Hollywood movie theaters projected American power worldwide, using archival research.",
+      "summary_zh": "运用档案研究考察电影史与娱乐产业，尤其是电影放映业以及好莱坞影院如何在全球投射美国影响力。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "film history",
+        "film exhibition",
+        "movie theaters",
+        "global hollywood",
+        "newsfilm",
+        "entertainment industry",
+        "roxy rothafel",
+        "archival theory"
+      ]
+    }
+  ]
+}

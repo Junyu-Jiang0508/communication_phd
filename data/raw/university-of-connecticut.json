@@ -1,0 +1,409 @@
+{
+ "university": "University of Connecticut",
+ "slug": "university-of-connecticut",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "Department of Communication",
+   "school": "College of Liberal Arts and Sciences",
+   "directory_url": "https://communication.uconn.edu/people/faculty/",
+   "phd_program_url": "https://communication.uconn.edu/graduate/phd/",
+   "phd_program_name": "Ph.D. in Communication",
+   "notes": "Single static directory page (30 entries). Included 19 tenure-line faculty; excluded 6 in-Residence (non-tenure) professors, 1 visiting assistant professor, and 4 emeriti listed in a separate Emeriti section."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Kirstie Farrar",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/kirstie-farrar/",
+   "personal_url": null,
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2019/11/kirstie-farrar.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Psychological effects of mass media",
+    "Children and mass media",
+    "Mass media, violence, and aggression",
+    "Contextual features of violent video game play and aggression",
+    "Sex in the media",
+    "Television’s impact on family communication patterns"
+   ],
+   "bio": "Kirstie M. Farrar is an Associate Professor and Director of Graduate Studies in the Department of Communication at the University of Connecticut. She also holds a research affiliation with UConn’s Center for Health Intervention and Prevention. Her research interests include the effects of the mass media on individuals, particularly concerning violent video games and aggression. Her work has appeared in the Journal of Communication , Media Psychology , Mass Communication & Society , Presence: Teleoperators and Virtual Environments and the Journal of Broadcasting & Electronic Media . Research interests: Psychological effects of mass media; Children and mass media; Mass media, violence, and aggression; Contextual features of violent video game play and aggression; Sex in the media; Television’s impact on family communication patterns. Selected publications: McGloin, R., Farrar, K.M., & Fishlock, J. (2015). Violent games and violent controllers: Investigating the use of realistic gun controllers on perceptions of realism, immersion and outcome aggression. Journal of Communication. | Krcmar, M., Farrar, K.M., Jalette, G., & McGloin, R. (2014). Appetitive and Defensive Arousal in Violent Video Games: Investigating Attraction and Effects. Media Psychology. DOI: 10.1080/15213269.2014.888007 | Farrar, K.M. (2013). Sex on Television: A Review of Socialization Effects and the Role of Context and Individual Differences. In E. Scharrer (Ed.), Media Effects/Media Psychology , Vol.5....",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Directory also lists administrative role: Interim Department Head"
+  },
+  {
+   "name": "Anne Oeldorf-Hirsch",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/anne-oeldorf-hirsch/",
+   "personal_url": null,
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2019/11/anne-oeldorf-hirsch-1-e1789269038686.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=X5vHQDsAAAAJ&hl=en&oi=ao",
+   "research_areas": [
+    "Information sharing in online social networks",
+    "Effects of social media use",
+    "Online misinformation and disinformation",
+    "Algorithmic literacy and algorithmic transparency",
+    "Social impacts of communication technology"
+   ],
+   "bio": "Anne Oeldorf-Hirsch is an Associate Professor in the Department of Communication at the University of Connecticut, where she conducts research in the Human-Computer Interaction lab. Her research interests include the use of social media for information sharing, community building, and well-being. Specifically, her work investigates the features of these communities that shape how we communicate with and through them. Her recent work focuses on the role of algorithmic literacy in how users understand social media platforms, particularly for highly targeted content on apps such as Instagram and TikTok. Research interests: Information sharing in online social networks; Effects of social media use; Online misinformation and disinformation; Algorithmic literacy and algorithmic transparency; Social impacts of communication technology.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Directory also lists administrative role: Interim Director of Graduate Studies"
+  },
+  {
+   "name": "David Atkin",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/david-atkin/",
+   "personal_url": null,
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2019/11/david-atkin.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=WA85JA8AAAAJ&hl=en",
+   "research_areas": [
+    "New Communication Technology"
+   ],
+   "bio": "David Atkin has done grant-supported work on the adoption, use and regulation of new media. He received the field’s Krieghbaum Under-40 award, granted annually to a junior scholar for distinction in research. Atkin also won University Distinguished Research as well as Teaching Awards prior to his arrival here. He’s ranked among the 80 most prolific scholars in the history of our discipline, the 25 most prolific since 1995, and the two most prolific scholars in telecom as well as communication policy. Books include Communication Technology and Society , The Televiewing Audience , Communication Technology and Social Change, and Audience Genre Expectations in the Age of Digital Media. Author of over 190 scholarly articles, Atkin has been ranked among the top 1% most-cited scholars in the Humanities and Social Sciences according to Research.com (2022-24). E lected as a Fellow of the International Communication Association (2025). Google Scholar",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Directory also lists administrative role: Individualized Major Coordinator. research_areas taken from directory topic tags (profile has no Research Interests section)"
+  },
+  {
+   "name": "Saraswathi Bellur",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/saraswathi-bellur/",
+   "personal_url": null,
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2019/11/saraswathi-bellur.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "the concept of interactivity and its effect on users’ evaluation of media interfaces, mediated content and user engagement",
+    "the effect of interactive health technologies and their influence on attitudes toward preventive and proactive health behaviors",
+    "the role of psychophysiological responses [heart-rate (ECG), skin conductance (EDA), and brain-wave (EEG)] in understanding user responses to different forms of media and mediated content"
+   ],
+   "bio": "Saraswathi (Saras) Bellur (Ph.D., Penn State University, 2012) is an Associate Professor in the Department of Communication, University of Connecticut (UConn). Situated in media effects, Dr. Bellur’s research focuses on understanding the psychological and physiological effects of interactive media on key communication processes and outcomes. With several publications in flagship journals in the field, Dr. Bellur’s work has contributed to both theoretical and empirical body of knowledge surrounding interactivity research. Dr. Bellur’s research has also focused on explication and measurement issues related to interactivity, cognitive heuristics and user engagement. Dr. Bellur has co-developed a new theoretical framework called the motivational technology model, which examines how we can harness unique affordances of new media, such as interactivity, to boost individual’s intrinsic motivation, and encourage them to engage in preventive health behaviors. Her recent work has also examined the effects of media multitasking on learning and enjoyment. Dr. Bellur looks forward to pursuing innovative and collaborative projects that contribute toward a theory-driven understanding of communication technologies and their effects. Research interests: the concept of interactivity and its effect on users’ evaluation of media interfaces, mediated content and user engagement; the effect of interactive health technologies and their influence on attitudes toward preventive and proactive...",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "John Christensen",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/john-christensen/",
+   "personal_url": null,
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2019/11/john-christensen.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=FQRES50AAAAJ&hl=en&oi=ao",
+   "research_areas": [
+    "New Communication Technology"
+   ],
+   "bio": "As an Associate Professor in the Department of Communication at the University of Connecticut, I leverage my background in social psychology and communication science to research the evolving intersection between humans and artificial intelligence. With a PhD from the University of Southern California and postdoctoral training at the University of Pennsylvania, I bring a multidisciplinary approach to understanding complex human-AI social dynamics, focusing on phenomena like algorithm aversion, identity threat, and AI anxiety. I am an affiliate of UConn’s Cognitive Science Program and the Institute for Collaboration on Health, Intervention, and Policy. My research has been supported by organizations such as the National Institutes of Health, the Department of Defense, and Cigna. I’m driven by a commitment to applying data-informed insights to real-world challenges and have refined my expertise through internships at institutions like the National Cancer Institute, the Howard Hughes Medical Institute, the Institute for Creative Technologies, and the RAND Corporation",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory topic tags (profile has no Research Interests section)"
+  },
+  {
+   "name": "Amanda Cooper",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/amanda-cooper/",
+   "personal_url": null,
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2019/11/amanda-cooper-e1789269105470.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=wrMEJLAAAAAJ",
+   "research_areas": [
+    "Interpersonal, Health, and Family Communication",
+    "Communication and Aging",
+    "Family Caregiving",
+    "Communication at the End of Life",
+    "Transitions Across the Lifespan"
+   ],
+   "bio": "Amanda Cooper, PhD, is an Assistant Professor of Interpersonal Communication at the University of Connecticut. Her research is situated at the intersection of interpersonal, family, and health communication, examining the influence of daily communication behaviors on relationship quality and health. She studies processes such as relationship maintenance, social support, narrative sense-making, coping and resilience, and positive aging. Much of Dr. Cooper’s research focuses on dementia caregiving and the ways that families can communicate to maintain their relationships and sustain well-being while living with dementia. Her research has been published in journals such as the Journal of Social and Personal Relationships, Personal Relationships, Journal of Family Communication, Health Communication, and Communication Research. Her research has received numerous awards including the Kory Floyd Fellowship in Interpersonal Relations (University of Arizona Department of Communication), the Dawn O. Braithwaite Qualitative Research Award (CSCA Interpersonal and Family Division), the Outstanding Dissertation Award (NCA Communication and Aging Division), and the Leslie A. Baxter Early Career Award (NCA Family Communication Division). Research interests: Interpersonal, Health, and Family Communication; Communication and Aging; Family Caregiving; Communication at the End of Life; Transitions Across the Lifespan.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Shardé M. Davis",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/sharde-m-davis/",
+   "personal_url": null,
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2019/11/sharde-davis.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=hfYpq1kAAAAJ",
+   "research_areas": [
+    "Interpersonal, Relational, and Intergroup Communication",
+    "Communication among Black Women Groups",
+    "Supportive Communication",
+    "Race, Gender, and Communication",
+    "Black Feminism",
+    "Health Outcomes",
+    "Quantitative and Qualitative Methods"
+   ],
+   "bio": "Dr. Shardé M. Davis is an Associate Professor in the Department of Communication and a faculty affiliate of the Africana Studies Institute and the Institute for Collaboration on Health, Intervention, and Policy (InCHIP) at the University of Connecticut. Dr. Davis attended the University of California, Santa Barbara (UCSB) and conducted undergraduate research through the Ronald E. McNair Scholars Program. Her work was awarded the Steven H. Chaffee Undergraduate Research Award from the Department of Communication. Dr. Davis earned her B.A. in Communication and Feminist Studies as well as her M.A. in Communication at UCSB. She later moved to Iowa City, Iowa to finish her Ph.D. in Communication Studies and a doctoral certificate in Gender, Women’s, and Sexuality Studies at the University of Iowa. Her primary area of specialization is interpersonal communication, with emphases in racial and gender identity, resistance, counter hegemony, and resilience, intra/intergroup dynamics, and supportive communication. Her specific line of research explores how Black women’s complex identities — and the power-laden social structures that shape them — influence the way they communicate with close others. These interests are represented in her theory, called The Strong Black Woman Collective (SBWC; Davis, 2015). The theory explicates how Black women use their communication during group-level interactions with other Black women to collectively manage their marginal position in U.S. society....",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Amanda Denes",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/amanda-denes/",
+   "personal_url": null,
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2019/11/Denes.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=MPBqYlEAAAAJ&hl=en&oi=ao",
+   "research_areas": [
+    "Interpersonal and Relational Communication",
+    "Biosocial Approaches to Communication",
+    "Sex and Sexuality",
+    "LGBTQI+ Communication",
+    "Gender and Communication",
+    "Social Support, Relational Maintenance, and Infidelity"
+   ],
+   "bio": "Amanda Denes, PhD, is a Professor in the Department of Communication at the University of Connecticut. Her primary area of specialization is interpersonal and health communication, with emphases in biosocial models of communication, sexual communication, and communication processes related to maintaining healthy relationships. Overall, the aim of her research is to identify communication processes in close relationships that contribute to people’s physical, psychological, and relational health and use these findings to inform interventions that improve the health and well-being of the individuals at the heart of her work. Amanda is an award-winning, internationally recognized scholar. Amanda is honored to have been selected for a Bellagio Center Residency from the Rockefeller Foundation, where she developed the Everyday Talk Project, which translates research into tools to help people improve their health through communication. Amanda is a proud Fulbright alumna, having received a U.S. Scholar Award from the Australian-American Fulbright Commission for her research at the Translational Health Research Institute at Western Sydney University exploring couples’ communication when navigating a cancer diagnosis and treatment. Amanda was also named a Hunt-Simes Visiting Junior Chair of Sexuality Studies at the University of Sydney as part of a fellowship through the Sydney Social Sciences and Humanities Advanced Research Centre (SSSHARC) for her project exploring the links...",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Mark Hamilton",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/mark-hamilton/",
+   "personal_url": null,
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2019/11/mark-hamilton.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Marketing"
+   ],
+   "bio": "Mark Hamilton is a Professor in the Department of Communication at the University of Connecticut. His research focus is on social influence — which includes marketing, persuasion, language effects, chronemics, and culture. Dr. Hamilton has published in all of the major communication journals except Communication Research. He has over 25 years of experience with private and public sector marketing. His repertoire in product and social marketing includes audience segmentation with cluster analysis, brand positioning with correspondence analysis, driver analysis with causal modeling, and sales volumetrics with mathematical modeling. He has worked with scores of major corporations such as Diageo PLC, Kmart, PepsiCo, and the CocaCola Company as well as many small and medium-sized enterprises (SMEs). His academic research revolves around both message production (e.g., message tailoring, verbal aggression, conflict and symbolic acts of violence) and message evaluation (the effects of language intensity, opinionated language, and obscenity). His interest in message production has taken him into disparate realms, including the structure of personality and belief systems, temporal influence (event timing, chronobiology), and the impact of national culture on marketing content. His interest in message effects has likewise propelled him towards a superfluity of research spheres that include theories of attitude change, charisma and source credibility, celebrity, and health campaigns....",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory topic tags (profile has no Research Interests section)"
+  },
+  {
+   "name": "Elizabeth Hintz",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/elizabeth-hintz/",
+   "personal_url": null,
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2021/05/elizabeth-hintz-1.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=ByZ6qXEAAAAJ&inst=9808383360503840251",
+   "research_areas": [
+    "Interpersonal, Family, and Health Communication",
+    "Women’s Health Issues",
+    "Gender and Feminist Approaches",
+    "Qualitative Methods"
+   ],
+   "bio": "Elizabeth A. Hintz (Ph.D., University of South Florida) is an Associate Professor of Health Communication at the University of Connecticut. She holds affiliate appointments in Women’s, Gender, and Sexuality Studies and the Institute for Collaboration on Health, Intervention, and Policy and is a Senior Editor at the journal Health Communication . Her research sits at the intersection of interpersonal, family, and health communication, with a focus on how people navigate difficult conversations about complex, stigmatized, and poorly understood health conditions. She co-developed the theory of communicative (dis)enfranchisement. She has published more than 70 peer-reviewed articles along with many book chapters and several edited volumes. Her work appears in journals such as Journal of Communication , Human Communication Research , Communication Monographs , Social Science & Medicine , and Health Communication . Her research has also been featured in public and professional outlets including The New York Times, The BBC, and WIRED. Dr. Hintz’s research program is collaborative and interdisciplinary. She has served as a principal investigator, co-investigator, or consultant on projects supported by the National Institutes of Health (NIH), the U.S. Department of Veterans Affairs (VA), and international funding agencies. She has received a Fulbright-Tampere University Scholar Award, completed a research fellowship at the Center for Advanced Internet Studies in Germany, and was...",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kenneth Lachlan",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/kenneth-lachlan/",
+   "personal_url": null,
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2019/11/ken-lachlan-2026.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Psychological Effects of Mass Media",
+    "Emergency and Crisis Communication",
+    "Risk Communication",
+    "Information Seeking and Uncertainty Reduction"
+   ],
+   "bio": "Kenneth A. Lachlan is Professor and Department Head in the Department of Communication at the University of Connecticut. Prior to joining UConn in 2015, Ken was the Founding Chair of the Communication Department at the University of Massachusetts Boston. He served as the Editor in Chief of Communication Studies from 2016 to 2018, and currently serves on the Executive Board of the National Communication Association. His publication record was ranked in the top 1% of published scholars in the field between 2007 and 2011 ( Communication Education, 61 (4), 381-392), and again between 2012 and 2016 ( Communication Education, 67 (1), 88-101). He was also ranked third in crisis communication publications in the field between 2000 and 2018 ( Journal of the Association for Communication Administration, 38 (2), 39-56). His research interests include media dependencies during crises and disasters, community-level risk mitigation interventions, and the role of cognitive processing styles in responding to emergency messages. Research interests: Psychological Effects of Mass Media; Emergency and Crisis Communication; Risk Communication; Information Seeking and Uncertainty Reduction.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Directory also lists administrative role: Associate Dean for Social Sciences and Regional Campuses"
+  },
+  {
+   "name": "Carolyn A. Lin",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/carolyn-a-lin/",
+   "personal_url": null,
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2019/11/Lin_Updated-Headshot.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=tJE7pnEAAAAJ&hl=en",
+   "research_areas": [
+    "Advertising, public relations, marketing, intercultural, and political communication",
+    "Online media, social media, mobile media, augmented reality, and generated AI",
+    "Risk, crisis, health, science, and environmental communication",
+    "Biometric responses to information, message, and visual stimuli (via the CASE lab)"
+   ],
+   "bio": "Carolyn’s research applies marketing and persuasive communication theories and techniques to impact advertising and public relations campaign outcomes – as well as to increase health and environmental equity through community outreach and engagement. Her research has been funded by federal and state agencies (e.g., NIH, NSF, EPA, Department of Education, and the State of Connecticut), among other sources. She also studies the effects of human-computer interaction on promoting health and environmental risk prevention and intervention via interactive informatics, videogames and mobile apps. To date, she has developed or co-developed an informatics system, two videogames, and two mobile apps that focus on health risk management and education as well as storm risk preparedness and mitigation. Research interests: Advertising, public relations, marketing, intercultural, and political communication; Online media, social media, mobile media, augmented reality, and generated AI; Risk, crisis, health, science, and environmental communication; Biometric responses to information, message, and visual stimuli (via the CASE lab).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Zexin “Marsha” Ma",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/zexin-ma/",
+   "personal_url": "http://sites.google.com/view/zexinma",
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2023/09/Marsha-Headshots.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=MWio1qEAAAAJ&hl=en",
+   "research_areas": [
+    "Health Communication",
+    "Narrative Persuasion",
+    "Message Design and Effects",
+    "Persuasive AI",
+    "Misinformation",
+    "Health Disparities"
+   ],
+   "bio": "Dr. Zexin “Marsha” Ma is an Assistant Professor of Health Communication at the University of Connecticut. Her research focuses on the design and effects of health messages, particularly how narratives persuade audiences and how people respond defensively to health-risk information. Her current projects examine narrative pictorial warning labels communicating the cancer risks of alcohol, the spread and correction of health misinformation, and the use of AI-powered chatbots to support effective health communication. Dr. Ma is also actively engaged in interdisciplinary research aimed at advancing health equity. Her work in this area includes improving risk perceptions and health-protective behaviors related to air pollution, increasing enrollment in Early Hearing Detection and Intervention programs, and preventing substance use among underserved populations. Dr. Ma has served as Principal Investigator on a National Institutes of Health (NIH)-funded project on alcohol and cancer communication. Her work has been published in top communication and interdisciplinary journals, including Journal of Communication, Human Communication Research, Health Communication, Addictive Behaviors, and Computers in Human Behavior. She currently serves on the editorial board of Health Communication. Research interests: Health Communication; Narrative Persuasion; Message Design and Effects; Persuasive AI; Misinformation; Health Disparities.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Rory McGloin",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/rory-mcgloin/",
+   "personal_url": null,
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2019/11/Rory_McGloin_012.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Predictors and outcomes of organizational communication training and development",
+    "Entrepreneurial mindset, self-efficacy, and business communication skills",
+    "Characteristics of effective communication amongst leaders",
+    "Perceptions of online source expertise and credibility"
+   ],
+   "bio": "Dr. Rory McGloin, Ph.D. is an award-winning business communication professor at the University of Connecticut. Rory holds a tenured appointment with the Department of Communication and is also a Visiting Professor at Ulster University in Belfast, Northern Ireland. Rory’s career in higher education spans 20+ years, including engagements with over 10,000 learners to date and 39 peer-reviewed publications. In addition to this, Rory serves as the Associate Director for Entrepreneurial Communication and Research with the Connecticut Center for Entrepreneurship and Innovation in Hartford, CT. Rory’s purpose and passion in life is to help others communicate effectively. Rory has dedicated his professional pursuits to creating and delivering professional communication solutions for organizations and their leadership teams. Rory specializes in helping organizations identify their core values and works to align an organization’s vision with specific tactics and strategies that enhance the efficiency and effectiveness of their team communication. Rory is known for his engaging and dynamic approach to helping individuals maximize their unique skills and characteristics. Rory’s current academic research is focused on the process of training and development, examining the influence of individual identities and values on perceptions of a program’s impact. Rory is also interested in developing the business communication skills of entrepreneurs and executives and conducts research that...",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kristine Nowak",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/kristine-nowak/",
+   "personal_url": null,
+   "photo_url": null,
+   "google_scholar_url": null,
+   "research_areas": [
+    "New Communication Technology"
+   ],
+   "bio": "Kristine Nowak is a Professor in the Department of Communication at the University of Connecticut. She is interested in person perception, identity, persuasion, and information processing and how these processes are influenced by the way the message is presented, with particular attention to how these processes change with the use of social media and new technologies. Several projects have examined how people use different types of avatars in computer-mediated interactions and how the perception of those avatars influences identification and self-concept as well as person and message perception. Her research on human-computer interaction evaluates systems and makes recommendations for the best type of system design for different messages or goals, as well as the use of specific systems for learning and persuasion. She is also working on some projects to examine the effect of multitasking and constant connectivity on learning and relationship development. Her work has been published in several journals, including the Journal of Computer Mediated Communication , Computers and Human Behavior , Journal of Communication , Media Psychology , and Presence: Teleoperators and Virtual Environments . Selected publications: Oeldorf-Hirsch, A. and Nowak, K.L. (2018). There is Something I Need to Tell You: Balancing Appropriateness and Efficiency in Modality Choice for Interpersonal Disclosures. Communication Studies. 1-20. doi: 10.1080/10510974.2017.1417878. | Nowak, K. L. and Fox, J....",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory topic tags (profile has no Research Interests section). profile shows only a generic placeholder image, no portrait"
+  },
+  {
+   "name": "Tyler Page",
+   "title": "Associate Professor and Stamford Faculty Coordinator",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/tyler-page/",
+   "personal_url": null,
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2020/07/tyler-page.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=KPI7lVcAAAAJ&hl=en",
+   "research_areas": [
+    "Marketing"
+   ],
+   "bio": "Tyler G. Page, Ph.D., is an associate professor in the Department of Communication. He also serves as faculty coordinator for the department at the Stamford campus. He has a background in public relations and marketing in the technology sector, including work as the first marketing/public relations person at survey-giant Qualtrics and the Vice President of Marketing and Operations at Peer60. Tyler’s work seeks to understand how individuals, organizations, communities, and societies build healthy relationships across diverse viewpoints and value systems. A traveler that has lived in seven U.S. states and one Canadian province, Tyler has spent his life connecting with wonderful people who have different worldviews, life experiences, and political viewpoints. His research builds upon this life experience to create understanding among disparate groups. He has published award-winning research using moral foundations theory to understand perceptions of crisis, historical work examining the moral roots of public relations in the 19th century, computational work highlighting the connections across silos of public relations scholarship, and theoretical work conceptualizing how stakeholders use organizations to fulfill their own personal objectives . Selected publications: Page, T. G. , Capizzo, L. (2024). Toward an open-tent model of organizations: Stakeholders, permeability, and multiple identities in public relations theory. Public Relations Review, 50(1). 102429....",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory topic tags (profile has no Research Interests section)"
+  },
+  {
+   "name": "Diana Rios",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/diana-rios/",
+   "personal_url": null,
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2019/11/diana-rios.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Mass Communication"
+   ],
+   "bio": "Diana Rios has a joint appointment as an Associate Professor in the Department of Communication and El Instituto, the Institute of Latina/o, Caribbean, and Latin American Studies. Her research cuts across specialties in communication by considering media and intercultural communication processes. Her research areas are interdisciplinary and include mass media, Chicana/o-Latina/o studies, ethnicity and race, gender, and women’s studies. Professor Rios served as Associate Director, and later Director, of what is now El Instituto. She has received recognition for her contributions to the university and has also held numerous offices in the Association of Educators in Journalism and Mass Communication, as well as in the International Communication Association.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Profile lists affiliation: Department of Communication and El Instituto. research_areas taken from directory topic tags (profile has no Research Interests section)"
+  },
+  {
+   "name": "Jocelyn Steinke",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/jocelyn-steinke/",
+   "personal_url": null,
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2020/07/JSteinke2022MHC-1-e1755015307552.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Science communication",
+    "STEM Identity",
+    "Broadening STEM participation through media intervention",
+    "Mass media effects"
+   ],
+   "bio": "Jocelyn Steinke (Ph.D., University of Wisconsin-Madison) is a professor in the Department of Communication at the University of Connecticut. Dr. Steinke’s interdisciplinary research examines media images of science, technology, engineering, and mathematics (STEM) professionals, focusing on the effects of media images on adolescent girls’ interest in STEM and their STEM identity development. Dr. Steinke’s research has informed STEM outreach and STEM media programs centered on broadening participation of girls and young women to promote gender equity in STEM. Dr. Steinke’s research has been funded by the National Science Foundation (NSF) and published in leading journals in the field. Dr. Steinke serves on the Science Communication Editorial Board and has served as an advisory board member and consultant for several NSF-funded media projects. Dr. Steinke is a fellow of the American Association for the Advancement of Science (AAAS) recognized for her contributions to the public understanding of science. Research interests: Science communication; STEM Identity; Broadening STEM participation through media intervention; Mass media effects. Selected publications: Steinke, J.; Gilbert, C.; Coletti, A.; Holland Levin, S.; Suk, J.; Oeldorf-Hirsch, A. (2024). Women in STEM on TikTok: Advancing visibility and voice through STEM identity expression , Social Media + Society , 10(3). https://doi.org/10.1177/20563051241274675 | Steinke, J. Gilbert, C.; Opat, K.; Landrum, A. (2024)....",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jiyoun Suk",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://communication.uconn.edu/person/jiyoun-suk/",
+   "personal_url": "https://www.jiyounsuk.com/",
+   "photo_url": "https://communication.media.uconn.edu/wp-content/uploads/sites/3974/2025/08/Jiyoun-Suk-400x400-1.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=Vu2km0AAAAAJ&hl=en",
+   "research_areas": [
+    "Computational Social Science",
+    "Political Communication",
+    "Mis/Disinformation",
+    "Digital politics and gender",
+    "Social justice and activism"
+   ],
+   "bio": "Jiyoun Suk is an Assistant Professor in the Department of Communication at the University of Connecticut. She is a core faculty member in the Women’s, Gender, and Sexuality Studies Program and a faculty affiliate at the Center for mHealth and Social Media. Additionally, she is a key member of the Human-Centered AI team at the UConn Humanities Institute (UCHI) and co-directs the Communication and Emerging Media (CEM) Lab. Her research examines how communication processes in the emerging media and technology environments shape social trust, activism, and political polarization. Specifically, she investigates (1) the cross-platform and multimodal (e.g., visual-and-text) dynamics of communication (2) mis/disinformation and contentions in political and social discourse and (3) the impact of these dynamics on traditionally marginalized communities, including women/sexual violence survivors, racial/ethnic minorities, and immigrants. To address these questions, she employs computational social science methods, such as natural language processing, machine learning, social network analysis and modeling, computer vision, and LLM-powered computational techniques. She also triangulates these approaches with quantitative (e.g., surveys, experiments) and qualitative (e.g., textual analysis, interviews). Her research has been published in Human Communication Research , Journal of Communication, Social Science Computer Review , Computational Communication Research , Journal of...",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Profile lists affiliation: Department of Communication and the Women's, Gender, and Sexuality Studies Institute"
+  }
+ ]
+}

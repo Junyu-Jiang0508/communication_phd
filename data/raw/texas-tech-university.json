@@ -1,0 +1,1110 @@
+{
+ "university": "Texas Tech University",
+ "slug": "texas-tech-university",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "College of Media & Communication",
+   "school": null,
+   "directory_url": "https://www.depts.ttu.edu/comc/faculty/comcdirectory.php",
+   "phd_program_url": "https://www.depts.ttu.edu/comc/graduate/phd/",
+   "phd_program_name": "Ph.D. in Media & Communication",
+   "notes": "Single JS-rendered college-wide directory (183 entries incl. staff, students, lecturers, professors of practice, adjuncts, emeriti); filtered on the rank line. Dean Bey-Ling Sha is listed only as \"Dean\" with no professor rank stated on the site, so she is excluded."
+  },
+  {
+   "name": "Department of English (Technical Communication & Rhetoric program)",
+   "school": "College of Arts & Sciences",
+   "directory_url": "https://www.depts.ttu.edu/english/tcr/index.php",
+   "phd_program_url": "https://www.depts.ttu.edu/english/grad/tcr-phd/index.php",
+   "phd_program_name": "PhD in Technical Communication and Rhetoric",
+   "notes": "Roster taken from the TCR program faculty list (13 names, all tenure-line); profile pages in the English department directory were fetched for every person."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Robyn B. Adams",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/radams.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/radams.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Profile page has no biography or research text."
+  },
+  {
+   "name": "Maggie Bennett-Brown",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/mbennett-brown.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/BennettM_WEB.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Health",
+    "Interpersonal"
+   ],
+   "bio": "Dr. Maggie Bennett-Brown is an assistant professor in Communication Studies in the College of Media & Communication at Texas Tech University. In addition to her position with TTU, she is an affiliated research fellow at the Kinsey Institute. She is also an active member of the International Communication Association, the National Communication Association, the Society for the Scientific Study of Sexuality, and the International Association for Relationship Research.\nDr. Bennett-Brown's primary areas of specialization are interpersonal and health communication, focusing on affection and its effects on mental and physical health within the context of intimate romantic relationships. In particular, she is interested in the effects of various forms of affectionate communication on sexual satisfaction, desire, and arousal, as well as the biological correlates underlying such communication processes and their link to health and well-being. my research finds that affectionate communication during intimate moments has a significant impact on the relational health of a couple. This work has helped her develop a unique expertise in studying moments of intimacy and heightened vulnerability in close relationships, with an aim to understand the effects of both positive and negative communication processes in these moments on individual and relational outcomes.\nSelected publications: Bennett-Brown, M. & Denes, A. (in press).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Shannon Bichard",
+   "title": "Professor & Chairperson",
+   "rank": "Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/sbichard.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/ShannonBichard-8940.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Social media",
+    "Visual",
+    "Entertainment",
+    "Children"
+   ],
+   "bio": "I was born and raised in sunny Orlando, Florida. I'm a beach bum at heart, but I also love my \"day job.\" I get to work daily with the most amazing students and faculty at a University that I passionately believe in. Texas Tech has been my academic home since 2001 and I have served as Chair for the Advertising & Brand Strategy Department since 2012. I absolutely love my job!\nMy research has always centered on new media (currently social media). I am intrigued by the impact new forms of media have on society- specifically underrepresented groups such as older adults and children. I enjoy using content analysis and survey methodology to pursue studies related to framing, persuasion, and motivations for media use. I also enjoy analyzing Super Bowl ads each year from a variety of perspectives.\nMethodologies\nContent Analysis In-Depth Interviews Focus Group Interviews Survey\nResearch Areas\nSocial media Visual communication Entertainment Children\nSelected publications: Densley, R.L., Sauermilch, W., Cardenas, J.F., Bichard, S., & Neufeld-Wall, M. (2024). Media parenting in a pandemic: Understanding U.S. parents’ motivations for parental mediation during the COVID-19 lockdown. Journal of Children & Media, 19(2), 267-286. | Bankhead, B., Bichard, S., Seltzer, T. K., Thompson, L. A., Chambers, B., Davis, B., Knowlton, L., Tatebe, L., Vella, M., & Dumas, R. (2023). Bias in the trauma bay: A multicenter qualitative study on team communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Erik P. Bucy",
+   "title": "Marshall and Sharleen Formby Regents Professor of Strategic Communication",
+   "rank": "Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/ebucy.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/ebucy.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Political communication",
+    "Science communication",
+    "Social media",
+    "Visual communication",
+    "Emerging Media Studies"
+   ],
+   "bio": "Erik P. Bucy is the Marshall and Sharleen Formby Regents Professor of Strategic Communication in the College of Media and Communication at Texas Tech University. For the second half of 2018 he will be a visiting senior fellow in the Department of Government at the London School of Economics and Political Science. His research interests include visual and nonverbal analysis of news and politics, user engagement with media technologies, and normative theories of media and democracy. Bucy’s scholarly work has been published in numerous leading journals in communication, information technology, and media politics. He is the author, with Maria Elizabeth Grabe, of Image Bite Politics: News and the Visual Framing of Elections (Oxford, 2009), winner of two outstanding book awards, and editor, with R. Lance Holbert, of the Sourcebook for Political Communication Research: Methods, Measures, and Analytical Techniques (Routledge, 2013). From 2009 to 2016, Bucy was the editor of Politics and the Life Sciences , the interdisciplinary flagship journal of the Association for Politics and the Life Sciences.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Coy Callison",
+   "title": "Professor & Associate Dean for Research and Graduate Affairs",
+   "rank": "Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/ccallison.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/CoyCallison-2173.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Science communication",
+    "Environmental communication",
+    "Crisis or risk communication"
+   ],
+   "bio": "I am a native West Texan with a professional background in strategic communication and print journalism. I spend a lot of time outdoors fishing, hunting, hiking and gardening with my wife and daughters. I also do quite a bit of traveling when I have the time and reading because I can't sleep.\nMy research typically focuses on source and message factors and their interaction with cognitive tendencies and saliency factors underlying the attentiveness of individual audience members. I am interested in how people select, recall and then act on information they receive from a variety of mediated sources.\nMost recently, my funded work investigates strategic communication related to science communication, extreme weather and water scarcity. In particular, I am looking at how dwindling water resources impact agricultural producers and how they may make sense of communication related to weather and water.\nI also enjoy branching out a bit as well and have gained some traction lately in looking into strategic communication surrounding the craft beer industry. Some of this work relates back to my interest in water scarcity as beer brewing is a water intensive activity;",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Seung Woo Chae",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/swchae.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/swoo.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital journalism",
+    "Communication on video-based platforms (YouTube, Twitch)"
+   ],
+   "bio": "Seung Woo Chae\nwas born and raised in South Korea and holds a Ph.D. in Media Arts & Sciences from Indiana University Bloomington. Before entering academia, he worked for seven years as a TV producer and four years as a PR and advertising manager in South Korea. His last industry role was as a TV producer in the Entertainment Program Division of KBS (Korean Broadcasting System), South Korea's largest broadcaster known for its diverse K-culture content. Drawing on his industry experiences, his research focuses on digital journalism and communication on video-based platforms such as YouTube and Twitch. His work has been published in\nInformation, Communication & Society\n,\nHuman Communication Research\n,\nComputers in Human Behavior\n,\nPLOS ONE\n, and more.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Todd Chambers",
+   "title": "Associate Professor & Area Coordinator",
+   "rank": "Associate Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/tchambers.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/ToddChambers-9868.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Sport communication",
+    "Media Management & Economics"
+   ],
+   "bio": "I am from Brownfield, Texas and have spent most of my adult life here at Texas Tech University. After earning my B.A. in Journalism in 1988, I spent six years working as an on-air dj, promotions director and account representative at a radio station. I earned the M.A. in Mass Communication here at Texas Tech in 1994 and followed my mentor to the University of Tennessee. My wife and I returned to Lubbock in 1999 and we have been able to watch our college and university grow in some amazing ways. I'm married to Dr. Barbie Chambers and a proud dad to Emily and Macy. I also have fun playing drums for a local band!\nMy research interests include media management and economics, ownership, sports, sales, and programming. I've published articles about media ownership, radio programming, Spanish-language radio, sports and media sales in the Journal of Media Economics, Journalism & Mass Communications Quarterly, Journal of Broadcasting & Electronic Media, the International Journal on Media Management and Journal of Radio Studies. In addition, I've has co-authored book chapters about the economics of the cable industry and media consolidation. In addition, I've worked on multiple grant projects from the National Association of Broadcasters dealing with joint news operations in television, advertising clutter in radio and the perception of media sales representatives.\nSelected publications: Chambers, T. (2011). Local ownership and radio market structure.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Minhee Choi",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/mchoi.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/mchoi.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Advocacy communication",
+    "Public health messaging",
+    "Public relations"
+   ],
+   "bio": "Minhee Choi, Ph.D. is an advocacy communicator. Originally from South Korea, she earned her Bachelor’s and Master’s degrees from Sogang University. After working internationally in nonprofit public relations with People for the Ethical Treatment of Animals (PETA) and the Korea University Business School, she moved to the United States and earned her Ph.D. from the University of South Carolina. Her research focuses on probing the effects of advocacy messages and communication strategies related to important public health issues. She has won multiple research and teaching awards from national and international conferences, such as the International Communications Association (ICA) conference and the Association for Education in Journalism and Mass Communication (AEJMC). Before joining CoMC, she was an assistant professor at Virginia Commonwealth University. As a first-generation student herself, she is devoted to advising first-generation students.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ioana Coman",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/icoman.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/icoman.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Risk/Crisis Communication",
+    "International Communication",
+    "Social/New Media",
+    "Scholarship of Teaching and Learning (SoTL)"
+   ],
+   "bio": "Dr. Ioana A. Coman (Ph.D., University of Tennessee, 2014) is originally from Romania and is currently an Assistant Professor at Texas Tech University. Her research focuses on how different actors (individuals, organizations, media, officials, stakeholders/publics, etc.) engage and interact in risk and crisis communication situations via different platforms, within different contexts, such as health (health outbreaks, mis/disinformation, vaccines, prevention), terrorist attacks, disasters, climate change, and at different levels (local, national, international). She is also interested in the Scholarship of Teaching and Learning (SoTL), focusing on the idea of a reciprocal relationship between teaching and learning and looking for ways to improve students' learning and experiences. Her research has already received different national and international awards, such as, Best Faculty Paper award at the World Journalism Education Congress (2019) and grants (as a PI and Co-PI) such as the Page/Johnson Legacy Scholar Grants (2020-20201; 2019-2020). She publishes in peer-reviewed journals, including Journal of Primary Care and Community Health, Mass Communication and Society, The International Journal on Press and Politics, Newspaper Research Journal, ESSACHESS – Journal for Communication Studies. She has taught courses on different aspects of public relations, journalism, entrepreneurship and innovation.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Megan Condis",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/mcondis.php",
+   "personal_url": "https://megancondis.wordpress.com/",
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/mcondis.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Game Studies",
+    "New Media",
+    "Gender and Sexuality",
+    "Popular Culture"
+   ],
+   "bio": "Megan Condis is an assistant professor of game studies at Texas Tech University. Her book, Gaming Masculinity: Trolls, Fake Geeks, and the Gendered Battle for Online Culture, was published in 2018 by the University of Iowa Press.\nMy research, broadly speaking, investigates the ways that technologies come to be read as signifiers of specific racialized, gendered, and sexualized identities. I intend both to help scholars think through the ways that technologies are used to discipline our identities and to help engineers and developers imagine how they might create technologies that are read and deployed in new and liberating ways. For example, my book, Gaming Masculinity: Trolls, Fake Geeks, and the Gendered Battle for Online Culture (University of Iowa Press, 2018), argues that the proliferation of gendered narratives in and around video game culture has produced a meta-game of masculine performance that one must play to be considered a hardcore gamer. And yet, in spite of all this, women and queer gamers, who have recently begun entering into the subculture in huge numbers, find ways to bend the rules of this game of masculinity, creating ruptures that allow for alternative modes of play. My current research project also investigates how technologies become gendered and how gender is technologized. Designing Women: Sex Bots, Virtual Secretaries and Other Gendered Constructions will be partly a historical study and partly a work of cultural critique.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Glenn Cummins",
+   "title": "Professor and Associate Dean for Faculty and Academic Affairs",
+   "rank": "Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/gcummins.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/GlennCummins-9820.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=Hh3MFNoAAAAJ",
+   "research_areas": [
+    "Sport communication",
+    "Entertainment & Pop Culture",
+    "Media Psycho-physiology"
+   ],
+   "bio": "Glenn Cummins is Associate Dean for Faculty and Academic Affairs in the College of Media & Communication at Texas Tech University, and Professor in the Department of Journalism & Creative Media Industries. He previously served in leadership roles as Associate Dean for Research and Grants (2013-2021) and Director of the College's Center for Communication Research (2012-2021). He has also served as Interim Chair for the Department of Journalism & Creative Media Industries (2023-2025) and Interim Area Coordinator for the College's Media & Communication courses and faculty (2022-2023). Prior to his academic career, he worked as a television news producer, videographer, and editor.\nHis research is in the area of media psychology and employs a variety of methods and measurement approaches, including psychophysiology/biometrics, eye tracking, continuous response measurement, and more. He has authored more than 60 scholarly articles and book chapters, including top journals such as the Journal of Communication, Journalism & Mass Communication Quarterly, the Journal of Broadcasting & Electronic Media, Media Psychology, and more. He has been an investigator on projects sponsored by federal and state agencies in excess of $1M.\nSelected publications: Cummins, R.G. (in press). Sports reporting, reporter sex, and perceived credibility: After 30 years, what do we know? Communication & Sport. https://journals.sagepub.com/doi/10.1177/21674795261428470 | Cummins, R.G., & Hahn, D. (2024).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lyombe Eko",
+   "title": "William S. Morris Professor in Innovation, Journalism, and Information",
+   "rank": "Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/leko.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/leko.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Comparative and international communication law and ethics",
+    "New Media law and policy"
+   ],
+   "bio": "Associate Professor & Director of Graduate Studies, University of Iowa School of Journalism and Mass Communication Director of African Studies, University of Iowa Assistant Professor & Student Media Adviser, Department of Communication and Journalism, University of Maine, Orono Documentary producer, translator and editor (English/French), African Union of Broadcasting, Nairobi, Kenya Journalist, Cameroon Radio and Television Corporation\nComparative and international communication law and ethics, New Media law and policy, Collective Memory and Visual Communication\nBooks\nNew Media, Old Regimes Case Studies in Comparative Communication Law and Policy American Exceptionalism, the French Exception, and Digital Media Law The Regulation of Sex-Themed Visual Imagery From Clay Tablets to Tablet Computers\nThe Charlie Hebdo Affair and Comparative Journalistic Cultures The Predatory Paradox: Ethics, Politics, and Practices in Contemporary Scholarly Publishing The Anglophone Question & Postcolonial Hegemony in Cameroon: The Past that Did Not Pass\nSelected publications: Books | Eko, L. (forthcoming). The Anglophone Question and Post-Colonial Hegemony in Cameroon: The Past That Did Not Pass (Spears Media). Eko, L. (2019). The Charlie Hebdo Affair and Comparative Journalistic Cultures: Human Rights Versus Religious Rites. New York: Palgrave Macmillan. -Winner, International Book Awards, Los Angeles, CA (2020), Multicultural Non-Fiction Category.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Sherice Gearhart",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/sgearhart.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/sgearhart.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Social media",
+    "Health communication",
+    "Political communication",
+    "Science communication"
+   ],
+   "bio": "Dr. Gearhart's research interests aim to understand how people use media to form and express opinions. She uses a theory-driven, quantitative approach to examine the social/political uses, effects, and implications of digital technologies. Other areas of interest include the role of traditional and social media in civic and political engagement, strategic campaigns, and message framing. Given these interests, her scholarship sits at the intersection of mass media effects and public opinion.\nDr. Gearhart's research deals with understanding how audiences respond to and perceive media messages. In particular, public relations efforts, news media coverage, and social media. She examines this at both societal and individual levels to understand motivations, perceptions, and outcomes of exposure in a diverse media environment.\nAlthough she has an underlying interest in the news, Dr. Gearhart is primarily driven by a fascination for understanding how people use the wide array of media that they have access to in order to form opinions, and how they go about expressing those opinions in both online and offline contexts. As such, her work often examines aspects of public opinion and media use, especially through application of the spiral of silence theory to online environments. This work has the purpose of assessing the tenability of the theory in new contexts while adapting measurement and pushing boundaries.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Melissa Gotlieb",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/mgotlieb.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/mgotlieb.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=2P0AfkUAAAAJ&hl=en&oi=ao",
+   "research_areas": [
+    "Advertising",
+    "Political & Civic communication"
+   ],
+   "bio": "I was born on the east coast and have been slowly moving west. I grew up in Massachusetts, spent my high school days in Florida, went to college and graduate school in Wisconsin, and now live in Lubbock with my husband and our energetic son and clumsy cat. When I'm not working (or chasing my toddler around), I enjoy designing spaces, planning events, and basically anything that allows me to be creative and analytical.\nMy research lies at the intersection of media, politics, and consumer behavior. In particular, I am interested in emergent citizenship practices (e.g., political and ethical forms of consumption, digital forms of political expression), the motivations that underlie these, and how they shape young citizens' broader political participation repertoires.\nSelected publications: Gotlieb, M. R., & Cheema, S. E. (2017). From consumer to producer: Motivations, Internet use, and political consumerism. Information, Communication & Society, 20, 570-586. | Gotlieb, M. R., & Thorson, K. (2017). Connected political consumers: Transforming personalized politics into broader repertoires of action. Journal of Youth Studies, 8, 1044-1061. | Gotlieb, M. R. (2015). Civic, cooperative, or contrived? A functional approach to political consumerism motivations. International Journal of Consumer Studies, 39, 552-563.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Mark A. Gring",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/mgring.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/MarkGring-8922.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Political communication",
+    "Rhetoric",
+    "Religion and Classical Pedagogy"
+   ],
+   "bio": "Mark Gring was born into a typical Midwestern home in the Ohio-Indiana region of the US. This quickly changed when his parents decided to become missionaries. As a result, he spent his formative years on the Texas-Mexican border (Eagle Pass, TX), the jungles of the Petén region of Guatemala, and the densely populated country of El Salvador (just outside the capital city). The international wanderings ended abruptly about the time of the 1969 “Soccer War” between El Salvador and Honduras and his family came back to the US and settled in Kansas. Life was not settled for long, though, and his family returned to Guatemala to help rebuild after a significant 1976 earthquake killed thousands. On returning to the US, Mark’s family settle in Texas. Although his family moved quite frequently, most of life has been spent in Texas and it feels more like home than any other place on the globe.\nMark has feebly attempted to not remain ignorant about life, the universe, and everything in it. To that end he attended high school in Lakin, Kansas, and several colleges and universities. He finally settled, and graduated from, the University of Texas at Austin, after marrying his college sweetheart, Dana Hammock (from Midland). Mark and Dana co-authored four offspring who have contributed to the joys and craziness of life in their own unique ways.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Amy N. Heuman",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/aheuman.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/aheuman.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Intercultural Communication",
+    "Gender Studies",
+    "Cultural Identity Negotiations"
+   ],
+   "bio": "Dr. Heuman's research centers on the role communication plays in cultural identity negotiations and performances of identity, intercultural relationships, co-cultural group, and dominant group interactions, as well as how communication is utilized by community members to mobilize for social justice. She is keenly interested in the intersecting negotiations of race/ethnicity/class/gender/sexuality through critical and feminist lenses. Dr. Heuman has spent extended time examining these dynamics within Latinx communities the Rio Grande Valley, TX colonias where many residents do not have the resources needed to meet basic human needs (i.e., water/septic systems, paved roads, street lighting, garbage removal) yet are exploring the tools needed to speak truth to power (i.e., access to local/state/national political leaders, organizing collective efforts, persuasive communication strategies). She is currently working on several projects focused on the empowerment of women and girls of color. Her research can be found in publications such as the Journal of International and Intercultural Communication , Journal of Intercultural Communication Research, Health Communication , Qualitative Research Reports in Communication, Journal of Latinos in Higher Education, Communication Teacher, Working in the Margins, The Discourse of Special Populations, Public Memory, Race, and Ethnicity , and Whiteness, Pedagogy, and Performance: Displacing Race. Dr.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "William T. Howe",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/whowe.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/whowe.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Military & Veterans",
+    "Corporate & Organizational",
+    "Crisis",
+    "Science"
+   ],
+   "bio": "William T. Howe is an Associate Professor and Graduate Director at Texas Tech University specializing in organizational communication. His research focuses on high-reliability organizations, military and veteran communication, and identity in complex systems. His work has been widely published, and he is active in national leadership and editorial roles within the discipline.\nWilliam T. Howe is an Associate Professor and Graduate Director in the Department of Communication Studies at Texas Tech University. His research and teaching focus on organizational communication, with particular emphasis on high-reliability organizing, military and veteran communication, and identity in complex institutional environments.\nDr. Howe's scholarship examines how individuals and organizations communicate under conditions of risk, uncertainty, and transition. Much of his work centers on military and veteran populations, exploring issues such as reintegration, identity negotiation, communication challenges across institutional contexts, and relationships between military and civilian systems. His research has also addressed digital communication, workplace technologies, organizational culture, and communication in high-stakes environments such as forecasting teams and crisis contexts.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Patrick Hughes",
+   "title": "Professor and Department Chair",
+   "rank": "Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/phughes.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/Patrick_Hughes.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Relational Communication and Communication Competence",
+    "Instructional Communication and Student Success",
+    "Family Businesses, Legacy, and Succession Communication"
+   ],
+   "bio": "Patrick Hughes is Professor and Chair of the Department of Communication Studies at Texas Tech University. He has held several academic leadership positions at Texas Tech, including Dean of University Studies, Vice Provost for University Programs and Student Success, Associate Dean for Academic Affairs, and an earlier term as Department Chair. Hughes is a member of the Texas Tech University Teaching Academy and received the President’s Excellence in Teaching Award in 2007. Across his academic and administrative career, he has contributed to more than $3.5 million in external and institutional funding. His scholarship and professional work span communication, instructional communication, interdisciplinary education, and the development and improvement of undergraduate and graduate programs. His work has focused particularly on strengthening teaching and learning, developing interdisciplinary academic initiatives, and creating strategies that support student success and academic achievement.\nMy research examines how communication shapes learning, relationships, and adaptation across interpersonal, educational, and organizational contexts. My early scholarship focused primarily on interpersonal and family communication, including communication in interfaith and intercultural relationships, relational conflict, later-life relationships, and the role of culture and identity in communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kulsawasd \"Bo\" Jitkajornwanich",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/kjitkajornwanich.php",
+   "personal_url": "https://www.jitkajornwanich.com/",
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/bo-kjitkajornwanich.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Crisis",
+    "Health",
+    "Science",
+    "Social Media"
+   ],
+   "bio": "Kulsawasd \"Bo\" Jitkajornwanich [pronounced as \"kun-swat bo jit-kjorn-wa-nid\"] (Ph.D. in Computer Science, 2014, The University of Texas at Arlington) is an assistant professor in the Department of Professional Communication at the College of Media and Communication, Texas Tech University. Building on his work on big spatial data analysis, spatio-temporal data modeling and mining concepts, geographic information systems (GIS), NOSQL databases, he is moving his computational and data science research to social media and communication. His research to date applies computational and data science techniques to environment monitoring, precision agriculture, and disaster management. He has more than 40 publications (journal articles, conference proceedings, book chapters, etc.) to date, and has received more than 470 citation counts, with an h-index of 12, an i10-index of 14, according to Google Scholar.\nCrisis Health Science Social Media\nSelected publications: K. Thananukhun, S. Jaiyen, K. Jitkajornwanich and A. Hanskunatai, \"Question Classification for Thai Conversational Chatbots Using Artificial Neural Networks and Multilingual BERT Models,\" 2023 15th International Conference on Knowledge and Smart Technology (KST), Phuket, Thailand, 2023, pp. 1-4, doi: 10.1109/KST57286.2023.10086784. | M. Chansuparp and K.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kerk F. Kee",
+   "title": "Virginia and Choc Hutcheson Professor in Mass Communication",
+   "rank": "Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/kkee.php",
+   "personal_url": "http://www.ekerk.com",
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/kkee.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Corporate & organizational",
+    "health",
+    "science",
+    "social media"
+   ],
+   "bio": "Kerk F. Kee (Ph.D., 2010, University of Texas at Austin; www.ekerk.com ) is a communication researcher and an interdisciplinary social scientist of innovation diffusion. His research primarily investigates the development, adoption, implementation, and the ultimate diffusion of big data technologies and collaborative cyberinfrastructure in scientific organizations. He also studies the dissemination of health information in cultural communities and the spread of pro-environmental attitudes in modern societies. His research has been funded by the US National Science Foundation (NSF), the National Academy of Sciences, the Bill & Melinda Gates Foundation, and the Robert Wood Johnson Foundation in multiple solo and collaborative grants, totaling over US$13M to date. He received a prestigious 5-year NSF CAREER grant in 2015, awarded by the Office of Advanced Cyberinfrastructure under NSF's Computer & Information Science & Engineering Directorate. According to Google Scholar Citations in March 2025, his research has been cited more than 8,280 times.\nKerk's diffusion research to date primarily focuses on technological innovations (e.g., artificial intelligence, collaborative cyberinfrastructure, social media), and secondarily in behavioral innovations (e.g., health prevention, workplace safety, water conservation). New diffusion projects explore innovations such as AI chatbots/ conversation agents and collaborative robots/ co-bots.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jenna LaFreniere",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/jlafreniere.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/jshimkowski.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Interpersonal communication",
+    "Family communication"
+   ],
+   "bio": "Originally from Dallas, Texas, I attended the University of North Texas, Texas Christian University, and the University of Denver for my degrees in Communication Studies.\nMy research is in interpersonal and family communication, with a focus on conflict and its many impacts.\nSelected publications: Griffin, E., Ledbetter, A. M., & LaFreniere, J. R. (2026). A first look at communication theory. New York: McGraw-Hill. | LaFreniere, J. R. (2026). “‘Ideal divorce’ is kind of an oxymoron, isn’t it?”: Exploring the bright sides of divorced families and advice for doing divorce well. Family Transitions. | LaFreniere, J. R., & Cui, W. (2025). College students’ emotion work in families: Investigating emotion regulation and emotion labor. Communication Studies, 76(4), 393-409. | LaFreniere, J. R., & Bedor Hiland, E. (2024). “I felt like it was the right thing to do”: How college students’ decisions to disclose COVID-19 diagnoses reflect privacy preferences, perceptions of stigma, and cultural norms. Qualitative Health Communication, 3(2), 44-71.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Catherine \"Katie\" Langford",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/clangford.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/klangford.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Political communication",
+    "Rhetoric",
+    "Legal rhetoric"
+   ],
+   "bio": "Dr. Langford is a native Houstonian whose ancestors moved to Texas when it was still a Republic. Dr. Langford was a special education student throughout her primary and secondary education. Her elementary school told her mother that she needed to put Dr. Langford in extracurriculars so that Dr. Langford would be able to develop a sense of self-esteem, since they did not anticipate her performing very well in school. Three degrees later, she tells her Tech students that if she can do it, so can they, that people learn in different ways and there is no “right” way to learn.\nShe received a B.S. in Political Science from Texas A&M University. As an undergraduate, Dr. Langford was a member of Delta Delta Delta, a Supplemental Instruction tutor for Local & State Government, and an Aggie Hostess recruiter for the Texas A&M football team. She finished her major her junior year of college and took electives in Speech Communication. That’s when she learned that she could study the topics of interest to her from a different perspective. She then decided to remain in Aggieland to pursue a Masters in Speech Communication at Texas A&M. She then went to The Pennsylvania State University to complete her doctorate, after which she hurried back to Texas when she accepted a faculty position at Texas Tech University.\nIn her free time, Dr. Langford likes to travel. Her favorite place she’s visited domestically is Alaska; her favorite place she’s visited internationally is Budapest.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "S. Austin Lee",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/alee.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/AustinLeeHeadshot.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Human-AI communication",
+    "Human-robot interaction",
+    "Public perceptions of AI and automation",
+    "Misinformation",
+    "AI and robotics in health and high-stakes contexts"
+   ],
+   "bio": "Austin Lee, Ph.D. (Michigan State University), is an Assistant Professor in the College of Media & Communication at Texas Tech University. His research examines how people communicate with, make sense of, trust, and respond to artificial intelligence, robots, and other emerging technologies. He is particularly interested in human-AI communication, human-robot interaction, public perceptions of AI and automation, misinformation, and the use of AI and robotics in health and other high-stakes contexts.\nHis research is interdisciplinary, connecting communication, human-computer interaction, psychology, healthcare, and computational methods. Austin uses experimental, survey, and computational approaches to study how emerging technologies shape communication, decision-making, social perception, and well-being.\nAustin collaborates with researchers in engineering, computer science, and healthcare. His current work examines public responses to AI and automation, AI and robotics in healthcare and emergency settings, health misinformation, and broader questions of trust, bias, and governance in intelligent systems.\nBefore entering academia, Austin worked in the tech industry as a chatbot and natural language processing engine developer, where he contributed to the development of a commercially deployed conversational AI system.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Bryan McLaughlin",
+   "title": "Professor & Director of Ph.D. Program",
+   "rank": "Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/bmclaughlin.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/bmclaughlin.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=rXv_A0QAAAAJ&hl=en",
+   "research_areas": [
+    "Political communication"
+   ],
+   "bio": "Bryan McLaughlin (Ph.D., University of Wisconsin-Madison) is an associate professor in the department of Advertising and Brand Strategies. Most broadly, his research interests include political communication, media effects, and social identity. More specifically, he examines how political narratives are processed and experienced by citizens, and the consequences of these experiences on attitudes and political conflict. His current research examines problematic news consumption and its implications for individual and societal health.\nSelected publications: McLaughlin, B., Gotlieb, M.R., Mills, D.J., Serra, M., & Cloudy, J. (2024). Living in a (mediated) political world: Mindfulness, problematic news consumption, and political hostility. Communication Research, online first. | McLaughlin, B., Gotlieb, M.R., Mills, D.J. (2023). Caught in a dangerous world: Problematic news consumption and its relationship to mental and physical ill-being. Health Communication, 38(12), 2687-2697. | McLaughlin, B., Wilkinson, K., Rendon, H., & Martinez, T.J. (2022). Deliberating alone: Deliberative bias and giving up on political talk. Human Communication Research, 48(4), 579-590. | McLaughlin, B. (2020). Tales of conflict: Narrative immersion and support for political aggression in the United States. Media Psychology, 23, 579-602.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Charles \"Chas\" Monge",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/cmonge.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/ChasMonge2025.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=EGXY1wwAAAAJ&hl=en",
+   "research_areas": [
+    "Media Psychology",
+    "Science",
+    "Social Media",
+    "Computer-Mediated Communication",
+    "Games Studies",
+    "Methods",
+    "Lab experiments",
+    "Survey experiments",
+    "Field experiments"
+   ],
+   "bio": "I have always been interested in the ways that people interact with one another. Sometimes, we're awesome toward one another, and sometimes, we're downright awful (dare I say, \"toxic\") toward one another. As a kid growing up in rural Illinois, I didn't have much to do other than play a lot of video games, where I ran into the latter a lot more than the former. That experience led me to be super interested in the social and psychological aspects of human interaction, especially in online spaces (like gaming). What do we think about one another? Why do we think that way? How does what we think about one another change how we decide to interact? How might online media change the way people are thinking about and interacting with one another? For the longest time, I chased these questions through the perspectives of sociology and social/moral psychology. After getting my masters in psychological science from UIUC, some really cool folks at Ohio State convinced me that Communication as a discipline had the structure to really chase down these questions. Fast forward four years, and here I am, coming in as an assistant professor in the Journalism & Creative Media Industries department of the College of Media & Communication at Texas Tech University. When I'm not doing research or teaching, I still play a good deal of video games.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Robert Peaslee",
+   "title": "Associate Professor & Associate Dean of the Honors College",
+   "rank": "Associate Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/rpeaslee.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/rpeaslee.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Power",
+    "Fan Cultures",
+    "Film",
+    "Media and Place/Space",
+    "Media Anthropology",
+    "Global/International Media",
+    "Superheroes and Culture"
+   ],
+   "bio": "Former Programming Chair for Flatland Film Festival (Lubbock, TX); Coordinator, TTU International Film Series; several years' experience in sports and higher education marketing and communications; many years' experience in food and beverage industry; extensive experience with international travel and study abroad leadership.\nMedia Power Fan Cultures Film Media and Place/Space Media Anthropology Global/International Media Superheroes and Culture\nSelected publications: Current Research | The Supervillains Reader. Forthcoming, January 2020. Edited with Robert G. Weiner, University Press of Mississippi. | Game of Thrones, Tourism, and the Ethics of Adaptation , with Rosalynn Vasquez (under review). Adaptation . Special issue on “Adaptation and the Public Humanities.” | Hobbiton 2.0, 20 years later: Authenticity, Legacy, and the New Theme Park with Bobby Schweizer & Stephanie Williams-Turkowski(preparing for submission). Longitudinal study of two iterations of the Hobbiton (New Zealand) screen tourism space.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "David D. Perlmutter",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/dperlmutter.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/dperlmutter.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media, Public Policy, and Public Affairs",
+    "Social media",
+    "Health communication",
+    "Political communication",
+    "Visual communication"
+   ],
+   "bio": "From July 2013 to July 2023, David D. Perlmutter, Ph.D. served dean of the College of Media & Communication (CoMC) at Texas Tech University. He received his B.A. (’85) and M.A. (’91) from the University of Pennsylvania and his Ph.D. (’96) from the University of Minnesota. He is the son of two professors and so likes to think of academia as his “family business.” Perlmutter has been described by a Chronicle of Higher Education editor as a “household name among American professors” because of the widespread readership of some two decades of his writings on academic careers and higher education processes for the Chronicle and other publications. His previous leadership positions include director, School of Journalism and Mass Communication, University of Iowa (2009 to 2013) and associate dean for graduate studies (LSU, Kansas).\nHis administrative achievements and metrics include co-designing several Ph.D. programs and supervising both professional- and thesis-track M.A. programs, on campus, online, and at distance locations, and an innovative Fundraising & Philanthropy Communication undergraduate certificate program (at Iowa). At Texas Tech, his college has seen unprecedented growth in all metrics, including rank of admitted students, graduate and undergraduate enrollment, offsite and online offerings, retention and graduation rates, grant applications, and multidisciplinary research partnerships.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Narissra M. Punyanunt-Carter",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/npunyanunt.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/NCA-2024-Narissra-Punyanunt-Carter_WEB.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Interpersonal Communication",
+    "Family Communication",
+    "Global",
+    "International",
+    "Social"
+   ],
+   "bio": "Dr. Narissra Maria Punyanunt Carter is Professor of Communication Studies at Texas Tech University and an internationally recognized scholar whose work has significantly advanced research in interpersonal, family, and mediated communication. Her scholarship examines how relational processes evolve within technologically saturated environments, integrating interpersonal theory with media effects and relational trust frameworks to illuminate romantic dynamics, digital intimacy, deception, and identity across contemporary contexts. She has authored more than 100 peer-reviewed journal articles, over 20 book chapters, multiple scholarly books, and two edited volumes, with publications appearing in leading journals such as Communication Education, Human Communication Research, Southern Communication Journal, and Computers in Human Behavior. Dr. Punyanunt Carter currently serves as Editor of Communication Education and as President of the Southern States Communication Association, and she has held numerous elected leadership positions within the National Communication Association. Recognized as a Texas Tech University Integrated Scholar and recipient of the TTU Libraries Open Data Award and the National Communication Association Presidential Citation for Service, she is known for rigorous scholarship, sustained research productivity, and mentorship that continues to shape the intellectual direction of the discipline.\nDr.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Melissa Santillana",
+   "title": "Assistant Professor of Journalism",
+   "rank": "Assistant Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/msantillana.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/msantillana.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "International media flows",
+    "Activist movements and protests",
+    "Feminist activism",
+    "Digital media",
+    "Digital inequality"
+   ],
+   "bio": "Dr. Santillana was born and raised in Mexico and moved to Lubbock from South Texas. She has a Ph.D. in Media Studies from the University of Texas at Austin. She was a Fulbright scholar in Mexico City. Before her academic journey, Melissa was the Spanish Editor for the border newspaper Laredo Morning Times . Melissa's work has been published in First Monday, International Journal of Communication, New Media and Society, Westminster Papers in Communication and Culture, and the Journal of Public Opinion Research . She is a co-author of From Telenovelas to Netflix: Transnational, Transverse Television in Latin America (Palgrave, 2021). Her research focuses on international media flows, activist movements and protests, feminist activism, digital media, and digital inequality.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Trent Seltzer",
+   "title": "Professor & Chair",
+   "rank": "Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/tseltzer.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/tseltzer.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Political communication",
+    "Health communication",
+    "Strategic communication campaigns"
+   ],
+   "bio": "I grew up in Panama City, Florida. I have a great wife and two amazing kids. I caught the teaching bug while completing my master’s degree at University of Central Florida. This led to my pursuit of a doctorate at the University of Florida, where I fell in love with public relations research. I've been at TTU since 2007 and have served in a variety of administrative roles including six years as the chair of the Department of Public Relations and four years as the assistant dean for graduate studies in the College of Media & Communication.\nOriginally, my research interests were constrained to the study of organization-public relationship (OPR) management within political contexts; for example, I’ve examined how political parties use communication to manage their relationship with party members as well as determining what outcomes result from successfully or unsuccessfully managing these relationships. Over the years, I have extended my study of OPRs and organizational relationship management from politics to health, consumer, social media, and other areas.\nRecently, I have launched a second line of research investigating the role of strategic communication in promoting adolescent mental health with an emphasis on supporting programs that cultivate resiliency among adolescents.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Prerna Shah",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/pshah.php",
+   "personal_url": "https://www.prernashah.com",
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/Prerna_Shah8.25.26.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=IkSqtFAAAAAJ&hl=en",
+   "research_areas": [
+    "Health/Environmental Communication",
+    "Risk Communication",
+    "Virtual Reality and Emerging Technology"
+   ],
+   "bio": "Selected publications: Shah, P., Yi, Y., Dong, X., Yang, J. Z. (2026). Sweet relief or risky substitute? Applying secondary risk theory to sugar consumption. Health Communication. https://doi.org/10.1080/10410236.2026.2682543 | Shah, P., Yang, J.Z. (2026). Green Earth or healthy plate: Does an environmental message work better to limit beef consumption? Communication Quarterly. https://doi.org/10.1080/01463373.2026.2628810 | Shah, P., Dong, X., Yi, Y., Yang, J. Z. (2025). Exploring the boundary conditions of the secondary risk theory: The role of personal relevance. Journal of Health Communication. https://doi.org/10.1080/10810730.2025.2578621 | Buck, H., Shah, P., Yang, J. Z. (2025). Social media use is associated with climate anxiety, climate doom, and support for radical action. Climatic Change. https://doi.org/10.1007/s10584-025-04048-6",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Maria Shpeer",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/mshpeer.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/mshpeer.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "International communication",
+    "Political communication",
+    "Identity, culture, and politics in media"
+   ],
+   "bio": "Maria Shpeer, Ph.D, is an Assistant Professor in Communication Studies. Dr. Shpeer uses social scientific qualitative and quantitative research methods, her primary areas of specialization are international and political communication, focusing on the intersection of identity, culture, and politics in the context of media.\nDr. Shpeer's publications can be found in the Journal of International and Intercultural Communication, Journal of Intercultural Communication Research, Russian Journal of Communication, International Journal of Communication, and more.\nDr. Shpeer was born and raised in Eastern Europe. She speaks three languages, enjoys reading, hiking, and her dogs.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Miglena Sternadori",
+   "title": "Professor and Department Chair",
+   "rank": "Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/msternadori.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/msternadori.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Gender and media",
+    "Magazine studies",
+    "Media effects",
+    "Political communication",
+    "Entertainment",
+    "Intercultural & international communication",
+    "Feminist Media Studies"
+   ],
+   "bio": "Miglena Sternadori (Ph.D., University of Missouri, 2008) is a professor and chair of the Department of Journalism and Creative Media Industries. Before entering academia, she worked as a print journalist in Bulgaria and the U.S.\nSternadori’s research employs a variety of theoretical frameworks and methodologies. She is the lead editor of the Handbook of Magazine Studies (Wiley Blackwell, 2020) and the author of Mediated Eros (Peter Lang, 2015).\nSternadori has also authored or co-authored more than 30 journal articles and chapters and over 50 conference papers. Her work has appeared in Mass Communication & Society, Feminist Media Studies, Journal of Consumer Marketing, Women's Studies in Communication, Journal of Communication Inquiry, Journal of Social Marketing, International Journal of Strategic Communication, Newspaper Research Journal, and Journal of Media Psychology , among others.\nMy research interests are eclectic. I was trained in experimental methods (including statistical analysis and experimental software, such as MediaLab and DirectRT), and continue to be interested in the processing of media content.\nHowever, I have also developed new research lines in media, gender, and sexuality, which were at the center of my first book, Mediated Eros: Sexual Scripts Between and Across Cultures (Peter Lang, 2015). My research focuses primarily on frames and stereotypes in media content and the interaction between implicit biases and the processing of mediated content.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Robert Stewart",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/rstewart.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/rstewart.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Interpersonal communication",
+    "Instructional communication",
+    "Communication and religion",
+    "Public speaking and professional presentations"
+   ],
+   "bio": "Rob Stewart is a professor of communication studies and most recently served as interim dean of the college and senior vice provost of the university. He previously served as an associate dean in the College of Arts & Sciences, chair of the Department of Communication Studies, and is a member of the Texas Tech Teaching Academy. His teaching and research interests span interpersonal communication, instructional communication, communication and religion, and public speaking and professional presentations.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Anastasia A Vishnevskaya",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/avishnevskaya.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/AnastasiaVishnevskaya-9830.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Global & International",
+    "Public Relations",
+    "Social Media",
+    "Political Communication",
+    "Intercultural Communication",
+    "Media Effects"
+   ],
+   "bio": "Dr. Vishnevskaya uses qualitative, quantitative, and mixed-method techniques to foster interdisciplinary research through her studies on the effects of narratives and messages about marginalized groups on public opinion and attitudes toward the members of such groups. She has authored and co-authored articles that were published in New Media & Society, Journal of Immigrant & Refugee Studies, International Communication Gazette, and Current Psychology. She is also a co-author of the academic book, Stereotypes of Muslim Women in the United States: Media Primes and Consequences (Rowman & Littlefield, 2022). In her spare time, Dr. Vishnevskaya enjoys traveling, doing outdoor activities, learning history, languages and cultures, and watching documentaries.\nSelected publications: Tan, A. S., & Vishnevskaya, A. (2022). Stereotypes of Muslim women in the United States: Media primes and consequences. Lexington Books. | Borah, P., X. Xiao, A. Vishnevskaya, Y. Su. (2023). Narrative vs. Statistical Messages: The Interplay of Perceived Susceptibility and Misperceptions on Vaccine Intention.Current Psychology., 1-16. | Vishnevskaya, A., K. Hilton, R. Price, G. Thatcher, Z. Zhang. (2023). The 2022 Beijing Winter Olympic Games: The Effect of Media Visual Primes on American Public Opinion about the Olympics and China. International Communication Gazette. 17480485231165590 | Himelboim, I., Borah, P., Ka Lai Lee, D., *Lee, J., Su, Y., Vishnevskaya, A., and Xiao, X. (2023).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Buduo Wang",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/bwang.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/Wang-Buduo.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Health communication",
+    "Computer-mediated communication",
+    "Persuasion resistance"
+   ],
+   "bio": "Buduo joined the College of Media & Communication in summer 2023, after earning his Ph.D. from the University of Texas at Austin. He is passionate about the analytical aspects of advertising and focuses his research on health communication, persuasion resistance, and digital media. Outside of the office, Buduo enjoys road tripping as a way to recharge and brainstorm.\nBuduo's research interests lie at the intersection of health communication, computer-mediated communication, and persuasion resistance. He primarily uses experimental and survey methodologies to explore the psychological mechanisms underlying how individuals process and evaluate health messages, especially in online environments. His recent work examines how online users perceive and assess health information received from social media influencers and artificial intelligence.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kent Wilkinson",
+   "title": "Professor & Director, Harris Institute for Hispanic and International Communication",
+   "rank": "Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/kwilkinson.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/kwilkinson.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Health communication",
+    "Intercultural & international communication",
+    "Ethnic-oriented media",
+    "Creative media industries"
+   ],
+   "bio": "I am a third-generation teacher who feels very fortunate to work in a profession, and at a university, that keeps me challenged and engaged. My principal areas of interest are U.S. Hispanic/Latinx media and international communication. I have lived and worked in Latin American countries for three years (Mexico, Peru and Chile). I am a founding member of Civil Counterpoints , a campus conversation series aiming to stimulate thoughtful and respectful dialogue on volatile contemporary issues among members of the Texas Tech community.\nMy research focuses on international communication, Hispanic/Latinx-oriented media in the U.S., and Hispanic health communication. I study how language, culture and economics interact in national, regional and global media markets; a current book project examines how language difference is managed in electronic media, past and present. I am a member of the Lubbock Scapes Collective , a cross-disciplinary research and creativity group that endeavors to understand and conceptualize Lubbock, the South Plains and the Permian Basin regions in new ways. I have been collaborating with colleagues in Mexico and Chile to understand the uses and gratifications young adults derive from their smartphones. In 2016 I published a book that examines the historical development of Spanish-language television in the U.S. from the early 1960s to 2013.\nSelected publications: Wilkinson, K.T. & Benavides Almarza, C. (2020). Magazines in Spanish and Portuguese America.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Luna Wu",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/lwu.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/LunaWu_F2025.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=I6wP9kcAAAAJ&view_op=list_works&sortby=pubdate",
+   "research_areas": [
+    "Health Communication",
+    "Patient-Provider Communication",
+    "Telehealth",
+    "Health Family Communication",
+    "Health Decision-Making",
+    "Digital Health Interventions",
+    "Methodologies",
+    "Primarily quantitative methods (survey, experiments, secondary data analysis)"
+   ],
+   "bio": "Dr. Qiwei \"Luna\" Wu is an Assistant Professor of Health Communication in the Department of Communication Studies specializing in health and clinical communication. Her interdisciplinary research focuses on how communication processes shape health behaviors, patient-provider relationships, and health outcomes across diverse populations. She is particularly interested in using digital media and communication interventions to improve health decision-making. Dr. Wu employs quantitative methods, primarily statistical modeling, to analyze these dynamics. She serves as an Associate Editor for Patient Education and Counseling and has published her work in respected journals including Social Science & Medicine , Health Communication , Patient Education & Counseling , Journal of Health Communication , PEC Innovation , and the Journal of Broadcasting & Electronic Media . Outside of academia, Dr. Wu enjoys dancing, pilates, hiking, and there's a good chance she's watched the TV shows you love.\nHealth Communication Patient-Provider Communication Telehealth Health Family Communication Health Decision-Making Digital Health Interventions\nSelected publications: Wu, Q. L. & Brannon, G. E. (2026) Internalizing patient-centered communication: Pathways to telehealth efficacy in cancer care. Health Communication. https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2633562 Wu, Q. L.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Shan Xu",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "College of Media & Communication",
+   "profile_url": "https://www.depts.ttu.edu/comc/faculty/faculty/sxu.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/comc/faculty/images/Xu-Shan-headshot-WEB.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Corporate & Organizational",
+    "Health",
+    "Media Psycho-physiology",
+    "Science",
+    "Artificial Intelligence"
+   ],
+   "bio": "Shan Xu is a researcher and teacher focused on understanding how people interact with technology. She is an Associate Professor at Texas Tech University 's College of Media and Communication .\nHer research primarily explores how individuals engage with artificial intelligence (AI), social media, and media multitasking. Her aim is to enhance human health, well-being, and productivity through a deeper understanding of these interactions. Her research adopts a dynamic perspective to examine the reciprocal causality between media use and media effects, and how media effects unfold over time. To test these dynamic relationships, her research utilizes longitudinal studies, ecological momentary assessment, and emphasizes time series analysis, dynamic panel analysis, and machine learning algorithms. She is the director of the Human-Tech Dynamics Lab .\nShe has first-authored publications in established communication and psychology journals, including Communication Research , Journal of Computer-Mediated Communication , Human Communication Research , Health Communication , New Media and Society , and Current Opinion in Psychology . Her work has been supported by the National Science Foundation , Waterhouse Foundation Institute , and research grants from Texas Tech University and Stony Brook University . Before her current role at Texas Tech, Shan earned her Ph.D. from The Ohio State University 's School of Communication in 2019.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Michael J. Faris",
+   "title": "Department Chair; Professor",
+   "rank": "Professor",
+   "department": "Department of English (Technical Communication & Rhetoric program)",
+   "profile_url": "https://www.depts.ttu.edu/english/directory/faculty/faris-michael.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/english/directory/faculty/images/faris-michael.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital rhetoric and literacy practices",
+    "Feminist and queer rhetorics",
+    "Composition and technical communication pedagogy",
+    "Writing program administration"
+   ],
+   "bio": "Dr. Michael J. Faris's research interests include digital rhetoric and literacy practices, feminist and queer rhetorics, composition and technical communication pedagogy, and writing program administration.\nSelected publications: Faris, Michael J., Courtney S. Danforth, & Kyle D. Stedman (Eds.). (2022). Amplifying soundwriting pedagogies: Integrating sound into rhetoric and writing . WAC Clearinghouse. DOI: 10.37514/PRA-B.2022.1688 | Faris, Michael J., & Holmes, Steve (Eds.). (2022). Re-programmable rhetoric: Critical making theories and methods in rhetoric and composition . Utah State University Press. | Stedman, Kyle D., Courtney S. Danforth, & Michael J. Faris (Eds.). (2021). Tuning in to Soundwriting . Intermezzo/enculturation. | Danforth, Courtney S., Kyle D. Stedman, & Michael J. Faris (Eds.). (2018). Soundwriting pedagogies. Computers and Composition Digital Press/Utah State University Press.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Priyanka (Priya) Ganguly",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of English (Technical Communication & Rhetoric program)",
+   "profile_url": "https://www.depts.ttu.edu/english/directory/faculty/ganguly-priyanka.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/english/directory/faculty/images/ganguly-priyanka.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetorics of communication design",
+    "Transnational technical communication",
+    "Health communication (menstruation, maternal nutrition, abortion)"
+   ],
+   "bio": "Dr. Priyanka (Priya) Ganguly (she/her) is an assistant professor in Technical Communication & Rhetoric who earned her PhD in Rhetoric and Writing from Virginia Tech. Her research lies at the intersection of rhetorics of health and medicine (RHM), institutional communication, and global and transnational communication. She is particularly interested in the backstage rhetorics of communication design (broadly defined) in transnational institutional and extra-institutional contexts. Drawing on assemblage theory, articulation, and agency, and using qualitative methods such as interviews and focus groups, she analyzes how multiple human and non-human components shape technical documentation in global public health. She investigates pressing and often stigmatized issues—such as menstruation, maternal nutrition, and abortion—that remain underexplored in both technical communication and health communication scholarship, with a focus on how political, cultural, and institutional forces influence their design and circulation.\nSelected publications: Ganguly, P. (2026). Maternal Nutrition Indicator Ambiguity: The Impact of Power Assemblages in Transnational Spaces of Communication Design . Technical Communication Quarterly , 35 (1), 1–20. | Ganguly, P. (2026). Constructing Transnational Security Logics: The Representation of Mothers and Communities in Global Maternal Health Narratives . Journal of Technical Writing and Communication, 56 (1), 61–78. | Ganguly, P. (2025).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "T J Geiger II",
+   "title": "Director of Undergraduate Studies for the BA in WDTC; Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of English (Technical Communication & Rhetoric program)",
+   "profile_url": "https://www.depts.ttu.edu/english/directory/faculty/geiger-tj.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/english/directory/faculty/images/geiger-tj.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Religious rhetorics",
+    "Feminist rhetorics",
+    "Rhetorical history",
+    "Rhetorics of science",
+    "Deliberation"
+   ],
+   "bio": "Dr. Geiger conducts research in the areas of religious rhetorics, feminist rhetorics, rhetorical history, rhetorics of science, and deliberation. He is the author of Faithful Deliberation: Rhetorical Invention, Evangelicalism, and #MeToo Reckonings (University of Alabama Press, 2022). His work has appeared in peer-reviewed journals, such as Rhetoric Society Quarterly , College English , Rhetoric Review , Composition Studies , and Peitho . Throughout his career, he has taught courses in rhetoric, professional and technical communication, spiritual writing, persuasive writing, science writing, creative nonfiction, civic writing, style, and literary theory.\nBefore receiving the Ph.D., Dr. Geiger received a BA in history and English from Lamar University. He then received an MA in English and a graduate certificate in women's studies from Texas Woman's University.\nSelected publications: Faithful Deliberation: Rhetorical Invention, Evangelicalism, and #MeToo Reckonings (University of Alabama Press, 2022) | \"Discerning a 'Counterfeit Love' in Hell Houses: Inoculation, the Politics of Ressentiment , and Jonathan Edwards.\" Journal of Communication and Religion . December 2020 issue. | \"Coming to Faith, Coming to Science: Lula Pace, Ethos Strategies, and Demarcation in a Pre-Scopes Evolution Controversy.\" Rhetoric Review . December 2020 issue.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kellie M. Gray",
+   "title": "ENGL 2311 Coordinator; Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of English (Technical Communication & Rhetoric program)",
+   "profile_url": "https://www.depts.ttu.edu/english/directory/faculty/gray-kellie.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/english/directory/faculty/images/gray-kellie.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Visual rhetoric",
+    "Digital rhetoric",
+    "Technical communication pedagogy and practice"
+   ],
+   "bio": "Dr. Gray's research interests include visual rhetoric, digital rhetoric, and technical communication pedagogy and practice. She currently serves as the coordinator for ENGL 2311: Introduction to Technical Writing and recently co-authored the ENGL 2311 textbook, Guide to Technical Communication (2021).\nSelected publications: Gray, K., & Holmes, S. (forthcoming). Critical text mining: Ethical paradigms for determining emoji frequency in #blacklivesmatter. In M. Faris & S. Holmes (Eds.), Re- Programmable rhetoric: Critical making theories and methods in rhetoric and composition . Utah State University Press. | Gray, K., & Holmes, S. (2021). Guide to Technical Communication . McGraw-Hill. | Gray, K., & Holmes, S. (2020). Tracing ecologies of code literacy and constraint in emojis as multimodal public pedagogy . Computers and Composition , 55.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Steve Holmes",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of English (Technical Communication & Rhetoric program)",
+   "profile_url": "https://www.depts.ttu.edu/english/directory/faculty/holmes-steve.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/english/directory/faculty/images/holmes-steve.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Material rhetorics and embodiment",
+    "Digital rhetoric",
+    "Ethics in technical communication",
+    "Social media content moderation"
+   ],
+   "bio": "Steve started teaching at Texas Tech in 2019 after working for six years at George Mason University. He earned his PhD in Rhetorics, Communication and Information Design from Clemson University in 2013. He currently teaches courses on ethics, social justice, technical writing, rhetorical history and theory, and digital rhetoric. Steve's general theoretical areas involve material rhetorics and embodiment. His previous publications have applied these theoretical paradigms to a variety of digital texts, including videogames, critical making, social media, and big data. Steve is currently working on projects related to non-Western virtue ethics as well as qualitative research on the ethics of inclusion and exclusion in social media content moderation. With collaborators, he is also combing through 20 years' worth of rhetoric, writing studies, and technical communication journals to code for patterns in how the terms \"ethics\" and \"morality\" are applied.\nSteve also served as the director of undergraduate studies (2020-2024) for the BA in Writing, Design & Technical Communication. In that role, he co-published the adopted Engl 2311: Introduction to Technical Writing textbook ( Guide to Technical Communication , Top Hat) with Kellie M.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lisa L. Phillips",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of English (Technical Communication & Rhetoric program)",
+   "profile_url": "https://www.depts.ttu.edu/english/directory/faculty/phillips-lisa.php",
+   "personal_url": "https://lisalouphillips.wordpress.com/",
+   "photo_url": "https://www.depts.ttu.edu/english/directory/faculty/images/phillips-lisa.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Environmental rhetorics",
+    "Indigenous rhetorics",
+    "Intersectional feminist rhetorics",
+    "Sensation and embodiment",
+    "Socio-environmental issues in the public sphere"
+   ],
+   "bio": "Dr. Lisa L. Phillips's research interests include environmental, Indigenous, and intersectional feminist rhetorics at intersection with sensation and embodiment. She is a faculty affiliate in the Climate Center and Women's & Gender Studies programs. She has taught undergraduate and graduate courses in rhetorical theory, history, and analysis, technical communication, sensory rhetorics, multimodal composition, human-centered artificial intelligence, and professional writing. Her interdisciplinary research focuses primarily on socio-environmental issues as these emerge in the public sphere through protests regarding deteriorating environmental conditions, with particular attention to the disproportionate effects of environmental change on historically marginalized communities.\nFor more information about Lisa's research, teaching, and service visit her personal website!\nSelected publications: Phillips, L. L., Warren-Riley, S., & Bates, J. (Eds.). (2024). Grassroots activisms: Public rhetorics in localized contexts . The Ohio State University Press. | Phillips, L. L. (Forthcoming 2025). Olfactory rhetoric: Sniffing Out Environmental Problems . The Ohio State University Press. | Phillips, L. L. (Forthcoming 2026). Reeking revelations: How olfaction informs rhetorical processes in environmental injustice. In S. Ceraso & J. Stone (Eds.), Sensory rhetorics . Penn State Press. | Phillips, Lisa L. (2025). Deploying design justice in environmental injustice settings. In J. Jiang & J.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Beau S. Pihlaja",
+   "title": "Director of Graduate Studies for Technical Communication & Rhetoric; Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of English (Technical Communication & Rhetoric program)",
+   "profile_url": "https://www.depts.ttu.edu/english/directory/faculty/pihlaja-beau.php",
+   "personal_url": "http://www.beaupihlaja.com/",
+   "photo_url": "https://www.depts.ttu.edu/english/directory/faculty/images/pihlaja-beau.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Global technical communication",
+    "Intercultural communication and technology",
+    "Activity theory and actor-network theory"
+   ],
+   "bio": "Dr. Pihlaja studies global technical communication and is interested in the ways communication technologies impact intercultural encounters, e.g., in day-to-day interactions via WhatsApp at a multinational company or a digitally connected classroom. Dr. Pihlaja analyzes the impact of digital tools on intercultural collaborations using a variety of research methodologies, including activity theory and actor-network theory, as well as qualitative research methods, e.g., on-site observations and interviews. Dr. Pihlaja received his PhD in Rhetoric and Composition from the Department of English, University of Texas at El Paso (UTEP). He has experience teaching online in hybrid, synchronous, and asynchronous environments as well as teaching and presenting in international contexts, most extensively in south Asia.\nVisit personal website!\nSelected publications: Pihlaja, B., Das, M., Davis, L., Dean, A., Fonseca, D. M., Hughes, E., Joswiak, R., Koleva, L., Yang, M., & Zhang, J. (2024). Translation and Localization in Global Technical Communication . IEEE Transactions on Professional Communication, 67 (3), 386–402. | Pihlaja, B. (2022). Everyday Ethics at the Border: Normative Ethics for the 21st Century. Journal of Business and Technical Communication , 36 (3), 296–325. | Pihlaja, B. (2022). \"A Nice Change of Pace\": Involving Students-as-Course-Users Early and Often. In K. Crane & K. Cargile Cook (Eds.), User Experience as Innovative Academic Practice (pp. 109–136).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Rich Rice",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of English (Technical Communication & Rhetoric program)",
+   "profile_url": "https://www.depts.ttu.edu/english/directory/faculty/rice-rich.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/english/directory/faculty/images/rice-rich.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Contemporary composition and rhetoric",
+    "New media",
+    "Problem-based learning",
+    "Portfolio assessment",
+    "Intercultural communication",
+    "Online writing instruction",
+    "Service-learning"
+   ],
+   "bio": "Research: Contemporary composition and rhetoric, new media, problem-based learning, portfolio assessment, intercultural communication, online writing instruction, and service-learning.\nResearching: Contemporary composition and rhetoric, new media, problem-based learning, portfolio assessment, intercultural communication, online writing instruction, and service-learning.\nTeaching: ENGL 5391: Grant Writing for Nonprofits (Fall 2026) ENGL 4380: Professional Issues in Technical Communication (Fall 2026) RRP-1100: Red Raider Program (Fall 2026)\nEditing: Perspectives on Writing Series (WAC) Clearinghouse grantwriting.solutions\nServing: Director/Judge of UIL Ready Writing Board Member, Community Assistance Volunteers\nSponsoring: International scholars (call me 米富)\nSelected publications: Rice, R. , & Thacker, C. (Eds.). (In Preparation). Conversations with machines: Rhetoric, writing, and meaning-making in the age of generative AI . TBD. Print. (50%) | Aquino-Sterling, C., Lesley, M., Saldaña, R., Rice, R. (Eds.). (In Preparation). Portraits of multilingual Lubbock: Language, culture, and society in the hub city of the plains . Texas Tech University Press. Print. (25%) | Ornelas, D., Rice, R. , Maher, L., & Cole, R. (In Preparation). Writing Grants, Building Care: A Community-Centered Approach . Open-Source. Print/Online. (25%) | Rice, R. , Maher, L., & Cole, R. (Forthcoming). Grant writing using rhetoric and technology. ATTW/Routledge. (34%)",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Geoffrey Sauer",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of English (Technical Communication & Rhetoric program)",
+   "profile_url": "https://www.depts.ttu.edu/english/directory/faculty/sauer-geoff.php",
+   "personal_url": "https://geoff.sauer.studio/",
+   "photo_url": "https://www.depts.ttu.edu/english/directory/faculty/images/sauer-geoff.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Technical communication",
+    "Accessibility",
+    "User-centered design",
+    "User experience and interaction design",
+    "Digital humanities"
+   ],
+   "bio": "My scholarly research focuses on the history of publishing, both from theoretical perspectives (using both cultural and rhetorical theory) and pragmatics (typography, offset printing, online document management, databases, new media, and generative A.I./machine learning).\nI am currently writing a book tentatively titled Usable Genres (you can read the proposal here) . I am also researching learning management systems as a form of material rhetoric, and investigating problems with contemporary theories of dialectical negotiation when applied to cloud and virtualized hosting platforms.\nSelected publications: Sauer, David K., and Geoffrey Sauer. \" Chapter 19: Drama .\" In American Literary Scholarship: 2020 . David J. Nordloh, ed. Duke University Press, 2022. p. 359-379. | Sauer, David K., and Geoffrey Sauer. \" Chapter 20: Drama .\" In American Literary Scholarship: 2019 . Gary Scharnhorst, ed. Duke University Press, 2021. p. 387-410. | Sauer, Geoffrey. ' Applying Usability and User Experience within Academic Contexts: Why Progress Remains Slow .' Technical Communication Quarterly . Volume 27, 2018 – Issue 4 | Sauer, Geoffrey. \"Multimedia Labs as Content Incubators.\" Intercom . September/October 2011.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Brian Still",
+   "title": "Vice Provost, TTU Online",
+   "rank": "Professor",
+   "department": "Department of English (Technical Communication & Rhetoric program)",
+   "profile_url": "https://www.depts.ttu.edu/english/directory/faculty/still-brian.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/english/directory/faculty/images/still-brian.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Usability and user experience",
+    "Eye tracking",
+    "Technical communication"
+   ],
+   "bio": "Brian Still is Vice Provost for Texas Tech Online and Professor in the Department of English (Technical Communication & Rhetoric); he previously served as Chair of the Department of English (2017-2021) and Interim Dean of the College of Arts and Sciences. His professional work centers on usability and eye-tracking research: he is founder and Chief Science Officer of EyeGuide Inc., which developed affordable eye-tracking hardware and software and assistive eye-tracking technologies, and he holds several patents in that area. (Professor, Department of English, Texas Tech University (2017 – present.)",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Directory/profile title is \"Vice Provost, TTU Online\"; profile CV lists \"Professor, Department of English, Texas Tech University (2017 - present)\". Listed on the TCR program faculty page."
+  },
+  {
+   "name": "Imari Cheyne Tetu",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of English (Technical Communication & Rhetoric program)",
+   "profile_url": "https://www.depts.ttu.edu/english/directory/faculty/tetu-imari.php",
+   "personal_url": null,
+   "photo_url": "https://www.depts.ttu.edu/english/directory/faculty/images/tetu-imari.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Disability and accessibility",
+    "UX research",
+    "Learning experience design"
+   ],
+   "bio": "Dr. Imari Cheyne Tetu is an assistant professor of Technical Communication and Rhetoric. She earned her PhD in Rhetoric and Writing from Michigan State University. Her research interests include disability and accessibility, UX research, and learning experience design, with a focus on access and belonging for disabled and nontraditional students. Her recent work has examined student experiences of identity and belonging in courses that blend online and in-person learning.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jason Tham",
+   "title": "Assistant Chair; Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of English (Technical Communication & Rhetoric program)",
+   "profile_url": "https://www.depts.ttu.edu/english/directory/faculty/tham-jason.php",
+   "personal_url": "https://www.jasontham.com/",
+   "photo_url": "https://www.depts.ttu.edu/english/directory/faculty/images/tham-jason.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Design thinking",
+    "User experience (UX) and usability studies",
+    "Collaboration",
+    "Emerging technologies",
+    "Technical communication pedagogy"
+   ],
+   "bio": "Dr. Jason Tham's research interests include design thinking, user experience (UX) & usability studies, collaboration, emerging technologies, and technical communication pedagogy. He is an inaugural Outreach & Engagement Faculty Fellow in Engaged Scholarship (2023–2024), sponsored by the TTU Provost’s office, and a McNair Scholars + TrUE faculty mentor, supported by TTU Campus Access & Engagement. He serves as Assistant Chair of the English department and works on projects contributing to student recruitment, technology development, and alumni relations. Dr. Tham is most energized by people and ideas that promote equity and inquisivity.\nHis current projects include a collaborative writing guide for workplace professionals, a study of collaborative writing in virtual reality environments, a survey of UX of artificial intelligence applications, and a constructive critique of design thinking methodology. He is the incoming editor of Computers and Composition (starting January 2025).\nVisit personal website!\nSelected publications: Tham, J., Howard, T., & Verhulsdonck, G. (2023). UX writing: Designing user-centered content . Routledge. | Moses, J., & Tham, J. (2023). Writing to learn in teams: A collaborative writing playbook for students across the curriculum . Parlor Press. | Tham, J. (Ed.) (2022). Keywords in design thinking: A lexical primer for technical communicators and designers . WAC Clearinghouse; University Press of Colorado. | Andrews, D., & Tham, J. (2021).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Scott Weedon",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of English (Technical Communication & Rhetoric program)",
+   "profile_url": "https://www.depts.ttu.edu/english/directory/faculty/weedon-scott.php",
+   "personal_url": null,
+   "photo_url": null,
+   "google_scholar_url": null,
+   "research_areas": [
+    "Writing in the Disciplines (engineering contexts)",
+    "Rhetorical genre studies",
+    "Rhetorics of science and medicine"
+   ],
+   "bio": "Dr. Weedon earned his PhD in English with a concentration in Writing History and Theory (WHiT) from Case Western Reserve University in Cleveland, Ohio. His research areas include Writing in the Disciplines (WID), especially in engineering contexts, rhetorical genre studies, and rhetorics of science and medicine. Before joining Technical Communication and Rhetoric at Texas Tech, he was a Lecturer in the Writing Program at University of California, Santa Barbara.\nSelected publications: (2022) Rioux C, Weedon S, London-Nadeau K, et al. Gender-inclusive writing for epidemiological research on pregnancy . Journal of Epidemiology & Community Health Published Online First: 28 June 2022. | (2022) Rioux C, Paré A, London-Nadeau K, et al. Sex and gender terminology: a glossary for gender-inclusive epidemiology . Journal of Epidemiology & Community Health Published Online First: 20 June 2022. | (2022) \"Judging the unprecedented: Common sense and COVID-19.\" In S. Stinson and M. Le Rouge (eds.) Embodied Environmental Risk in Technical Communication: Problems and Solutions Toward Social Sustainability . ATTW/Routledge's Book Series in Technical and Professional Communication. | (2022) \"Seeing as Making: Mediation, Rhetoric, and the Ultrasound Informed Consent Act\" POROI , 16 (2).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  }
+ ]
+}

@@ -14,7 +14,7 @@ import Base from '../../layouts/Base.astro';
     <section class="prog-right panel" id="detail"></section>
   </div>
 </Base>
-<style>
+<style is:global>
   .prog-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(360px, 0.9fr); gap: 20px; align-items: start; }
   .prog-left { position: sticky; top: calc(var(--header-h) + 16px); height: calc(100vh - var(--header-h) - 40px); min-height: 480px; }
   .map { height: 100%; }
@@ -60,12 +60,13 @@ import Base from '../../layouts/Base.astro';
   let selected = (location.hash.slice(1) && byProg.get(decodeURIComponent(location.hash.slice(1)))?.slug) || P[0]?.slug || '';
 
   // map
-  const isDark = () => document.documentElement.dataset.theme ? document.documentElement.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
-  const map = L.map('map', { zoomSnap: 0.25, scrollWheelZoom: true }).setView([38.5, -96.5], 4);
-  let tiles: L.TileLayer;
-  const setTiles = () => { if (tiles) tiles.remove(); tiles = L.tileLayer(`https://{s}.basemaps.cartocdn.com/${isDark() ? 'dark_all' : 'light_all'}/{z}/{x}/{y}{r}.png`, { maxZoom: 18, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>' }).addTo(map); };
-  setTiles();
-  document.addEventListener('themechange', setTiles);
+  // No tile server: state outlines are drawn from bundled US Census boundaries (us-atlas), themed with CSS variables.
+  const map = L.map('map', { zoomSnap: 0.25, zoomDelta: 0.5, scrollWheelZoom: true, minZoom: 3, maxZoom: 9, attributionControl: true }).setView([38.6, -96.5], 4);
+  map.attributionControl.setPrefix(false).addAttribution('States: US Census Bureau via us-atlas');
+  fetch(withBase('geo/us-states.json')).then((r) => r.json()).then((geo) => {
+    L.geoJSON(geo, { interactive: false, style: () => ({ className: 'state', weight: 1, fillOpacity: 1 }) }).addTo(map).bringToBack();
+  }).catch(() => {});
+  map.fitBounds([[24.4, -124.8], [49.4, -66.9]], { padding: [12, 12] });
   const markers = new Map<string, L.Marker>();
   const icon = (p: Program, active: boolean) => L.divIcon({ className: '', html: `<span class="pin${active ? ' active' : ''}">${p.logo ? `<img src="${withBase(p.logo)}" alt="">` : `<b>${esc(p.short.slice(0, 2))}</b>`}</span>`, iconSize: [30, 30], iconAnchor: [15, 30], tooltipAnchor: [0, -28] });
   for (const p of P) {
@@ -83,9 +84,9 @@ import Base from '../../layouts/Base.astro';
     const p = byProg.get(selected); if (!p) { $('#detail').innerHTML = ''; return; }
     const lang = getLang();
     const roster = F.filter((f) => f.u === p.slug).sort((a, b) => RANK_ORDER[a.rank] - RANK_ORDER[b.rank] || lastName(a.name).localeCompare(lastName(b.name)));
-    const units = p.units.map((u) => `<div class="unit"><b>${esc(u.name)}</b>${u.school ? `<small class="muted">${esc(u.school)}</small>` : ''}${u.phd ? `<div class="small" style="margin-top:4px">${esc(u.phd)}</div>` : ''}<div class="links">${u.phd_url ? `<a class="btn sm" href="${esc(u.phd_url)}" target="_blank" rel="noreferrer">${t('phd_page')}</a>` : ''}${u.directory ? `<a class="btn sm" href="${esc(u.directory)}" target="_blank" rel="noreferrer">${t('directory_link')}</a>` : ''}${u.url ? `<a class="btn sm quiet" href="${esc(u.url)}" target="_blank" rel="noreferrer">${esc(u.name.length > 28 ? 'Site' : u.name)}</a>` : ''}</div></div>`).join('');
+    const units = p.units.map((u) => `<div class="unit"><b>${esc(u.name)}</b>${u.school ? `<small class="muted">${esc(u.school)}</small>` : ''}${u.phd ? `<div class="small" style="margin-top:4px">${esc(u.phd)}</div>` : ''}<div class="links">${u.phd_url ? `<a class="btn sm" href="${esc(u.phd_url)}" target="_blank" rel="noreferrer">${t('phd_page')}</a>` : ''}${u.directory ? `<a class="btn sm" href="${esc(u.directory)}" target="_blank" rel="noreferrer">${t('directory_link')}</a>` : ''}${u.url ? `<a class="btn sm quiet" href="${esc(u.url)}" target="_blank" rel="noreferrer">${t('unit_site')}</a>` : ''}</div></div>`).join('');
     $('#detail').innerHTML = `<div class="small muted">${esc(p.city)}, ${esc(p.state)}</div><h2>${esc(p.name)}</h2>
-      <dl class="kv">${p.shanghai ? `<dt>${t('shanghai')}</dt><dd>#${esc(p.shanghai)}</dd>` : ''}<dt>${t('faculty_n', { n: '' }).trim()}</dt><dd>${p.n} · ${p.ranks['Professor'] || 0} / ${p.ranks['Associate Professor'] || 0} / ${p.ranks['Assistant Professor'] || 0} (${t('rank_prof')} / ${t('rank_assoc')} / ${t('rank_asst')})</dd>${p.nca.length ? `<dt>${t('nca_areas')}</dt><dd>${esc(p.nca.join('; '))}</dd>` : ''}</dl>
+      <dl class="kv">${p.shanghai ? `<dt>${t('shanghai')}</dt><dd>#${esc(p.shanghai)}</dd>` : ''}<dt>${t('tenure_line')}</dt><dd>${t('rank_mix', { n: p.n, a: p.ranks['Professor'] || 0, b: p.ranks['Associate Professor'] || 0, c: p.ranks['Assistant Professor'] || 0 })}</dd>${p.nca.length ? `<dt>${t('nca_areas')}</dt><dd>${esc(p.nca.join('; '))}</dd>` : ''}</dl>
       <h3 style="margin-top:18px">${t('units')}</h3><div class="units">${units}</div>
       <div class="roster-head"><h3>${t('roster')}</h3><a class="btn sm" href="${withBase('programs/' + p.slug + '/')}">${t('open_page')}</a></div>
       <div class="roster">${roster.map((f) => `<div class="rrow">${avatar(f)}<span><b><button type="button" class="open-person" data-id="${esc(f.id)}">${esc(f.name)}</button></b><small>${esc(f.rank)} · ${esc(f.dept)}</small>${(f.labels.topic || []).filter((l) => l.p).length ? `<span class="chips" style="margin-top:4px">${(f.labels.topic || []).filter((l) => l.p).slice(0, 2).map((l) => chip(T, 'topic', l.c, true)).join('')}</span>` : ''}</span>${saveBtn(f.id)}</div>`).join('') || `<div class="empty">${t('no_results')}</div>`}</div>`;

@@ -1,0 +1,3653 @@
+{
+ "slug": "northwestern-university",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "Moya Bailey",
+   "summary": "Studies Black women's and queer digital resistance, misogynoir, and hashtag activism, combining critical analysis of social media networks with documentary and health-justice work.",
+   "summary_zh": "研究黑人女性与酷儿群体的数字抵抗、厌黑女症和标签行动主义，结合对社交媒体网络的批判分析与纪录片及健康正义实践。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_NETWORK",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "misogynoir",
+    "hashtag activism",
+    "black feminism",
+    "digital resistance",
+    "disability studies",
+    "queer theory",
+    "digital humanities",
+    "health justice"
+   ]
+  },
+  {
+   "name": "Claudio Benzecry",
+   "summary": "Studies culture, arts, creative work, and globalization through long-term ethnography, such as opera fandom and the global design and production of shoes.",
+   "summary_zh": "通过长期民族志研究文化、艺术、创意劳动与全球化，例如歌剧迷群体以及鞋类在全球的设计与生产。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "sociology of culture",
+    "ethnography",
+    "creative work",
+    "globalization",
+    "opera fandom",
+    "fashion industry",
+    "social theory",
+    "qualitative sociology"
+   ]
+  },
+  {
+   "name": "Thomas J. Billard",
+   "summary": "Studies how media shape transgender equality, focusing on the digital media strategies of social movements for and against trans rights in the US, plus design in political branding.",
+   "summary_zh": "研究媒介如何影响跨性别平等，聚焦美国支持与反对跨性别权利的社会运动的数字媒体策略，并关注政治品牌中的设计。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "transgender studies",
+    "social movements",
+    "political communication",
+    "digital media strategy",
+    "trans rights",
+    "political branding",
+    "typography",
+    "graphic design"
+   ]
+  },
+  {
+   "name": "Jeremy Birnholtz",
+   "summary": "Studies attention, self-presentation, and collaboration in online environments from an HCI perspective, including LGBTQ+ experiences online and deception in text messaging.",
+   "summary_zh": "从人机交互视角研究线上环境中的注意力、自我呈现与协作，包括LGBTQ+群体的网络经验和短信中的欺骗。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "human-computer interaction",
+    "self-presentation",
+    "online identity",
+    "attention",
+    "lgbtq+",
+    "deception",
+    "text messaging",
+    "social media"
+   ]
+  },
+  {
+   "name": "Pablo J. Boczkowski",
+   "summary": "Studies digital culture from a comparative perspective with a focus on Latin America and Latinx USA, currently examining mental health and selfhood in digital life.",
+   "summary_zh": "以比较视角研究数字文化，聚焦拉丁美洲与美国拉丁裔，目前探讨数字生活中的心理健康与自我。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_LATIN_AMERICA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "digital culture",
+    "comparative research",
+    "latin america",
+    "latinx",
+    "mental health",
+    "selfhood",
+    "science and technology studies",
+    "argentina"
+   ]
+  },
+  {
+   "name": "Larissa Buchholz",
+   "summary": "Studies the sociology of art and culture in a global frame, examining how artists from peripheral countries gain recognition in global cultural fields and markets.",
+   "summary_zh": "在全球框架下研究艺术与文化社会学，考察来自边缘国家的艺术家如何在全球文化场域和市场中获得认可。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "sociology of art",
+    "global cultural field",
+    "cultural markets",
+    "transnational sociology",
+    "field theory",
+    "comparative-historical sociology",
+    "intellectuals"
+   ]
+  },
+  {
+   "name": "Aymar Jean Christian",
+   "summary": "Studies the political economy of legacy and web television and power in media, using community-based creative R&D and production to build reparative media platforms.",
+   "summary_zh": "研究传统电视与网络电视的政治经济及媒介中的权力，借助社区参与式的创意研发与制作建设修复性媒介平台。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "web television",
+    "political economy",
+    "reparative media",
+    "independent media production",
+    "black studies",
+    "queer media",
+    "community-based research",
+    "media equity"
+   ]
+  },
+  {
+   "name": "Noshir Contractor",
+   "summary": "Studies how social and knowledge networks form and perform in business, science, healthcare, and space teams using network science and computational social science.",
+   "summary_zh": "运用网络科学与计算社会科学，研究社会网络与知识网络如何在商业、科学、医疗和太空团队中形成并发挥作用。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_NETWORK",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ADMIN_LARGE_SCALE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "network science",
+    "computational social science",
+    "communication networks",
+    "knowledge networks",
+    "teams",
+    "web science",
+    "space exploration"
+   ]
+  },
+  {
+   "name": "Ignacio Fernandez Cruz",
+   "summary": "Studies how AI and digital platforms reshape work, hiring, and expertise in organizations, with a commitment to designing fair and accountable communication technologies.",
+   "summary_zh": "研究人工智能与数字平台如何重塑组织中的工作、招聘与专业知识，致力于设计公平、可问责的传播技术。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "organizational communication",
+    "future of work",
+    "ai in hiring",
+    "talent acquisition",
+    "expertise",
+    "sociotechnical practices",
+    "algorithmic fairness"
+   ]
+  },
+  {
+   "name": "Leslie DeChurch",
+   "summary": "Studies leadership and teamwork, including multiteam systems and human-AI teams, using laboratory and online experiments, meta-analyses, and field studies.",
+   "summary_zh": "研究领导力与团队协作，包括多团队系统和人机团队，采用实验室与在线实验、元分析及田野研究。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_MIXED",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "leadership",
+    "teamwork",
+    "multiteam systems",
+    "human-ai teaming",
+    "meta-analysis",
+    "space exploration",
+    "virtual teams"
+   ]
+  },
+  {
+   "name": "Nicholas Diakopoulos",
+   "summary": "Studies computational journalism, including automation and algorithms in news production, algorithmic accountability and transparency, and social media in news contexts.",
+   "summary_zh": "研究计算新闻学，包括新闻生产中的自动化与算法、算法问责与透明度，以及新闻语境下的社交媒体。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "computational journalism",
+    "algorithmic accountability",
+    "automated news",
+    "news automation",
+    "algorithmic transparency",
+    "generative ai",
+    "newsrooms"
+   ]
+  },
+  {
+   "name": "Rayvon Fouché",
+   "summary": "Studies intersections of race, cultural representation, and technoscientific design, drawing on science and technology studies and history, from Black inventors to sports technology.",
+   "summary_zh": "研究种族、文化再现与技术科学设计的交叉，借助科学技术研究与历史方法，涵盖从黑人发明家到体育技术等议题。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "science and technology studies",
+    "race and technology",
+    "black inventors",
+    "technoskepticism",
+    "sports technology",
+    "vernacular technology",
+    "design"
+   ]
+  },
+  {
+   "name": "Dilip Gaonkar",
+   "summary": "Studies rhetoric as an intellectual tradition and the political impact of global modernities, working through theoretical and interpretive analysis of public culture.",
+   "summary_zh": "研究作为思想传统的修辞学及全球多元现代性对政治的影响，以理论与阐释方法分析公共文化。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "rhetorical theory",
+    "rhetoric of science",
+    "alternative modernities",
+    "public culture",
+    "cultural studies",
+    "global cultural politics"
+   ]
+  },
+  {
+   "name": "Darren Gergle",
+   "summary": "Studies how technological mediation affects communication and collaboration, building and evaluating novel collaboration technologies in HCI and CSCW.",
+   "summary_zh": "研究技术中介如何影响沟通与协作，在人机交互与计算机支持的协同工作领域设计、开发并评估新型协作技术。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "human-computer interaction",
+    "cscw",
+    "computer-supported cooperative work",
+    "collaboration technology",
+    "mediated communication",
+    "system evaluation"
+   ]
+  },
+  {
+   "name": "Robert Hariman",
+   "summary": "Studies rhetoric and modern visual public culture, such as photojournalism and civic spectatorship, through rhetorical and critical analysis of political judgment.",
+   "summary_zh": "研究修辞学与现代视觉公共文化，如新闻摄影与公民观看，通过修辞与批判分析探讨政治判断。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "rhetorical theory",
+    "visual culture",
+    "photojournalism",
+    "civic spectatorship",
+    "public culture",
+    "political judgment",
+    "anthropocene",
+    "formalism"
+   ]
+  },
+  {
+   "name": "Heather Hendershot",
+   "summary": "Studies the history of American TV news, conservative and right-wing media, and political movements, using historical analysis of broadcasting and coverage such as Chicago 1968.",
+   "summary_zh": "研究美国电视新闻、保守派与右翼媒体以及政治运动的历史，运用历史分析考察广播电视及1968年芝加哥等事件的报道。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "tv news",
+    "conservative media",
+    "right-wing broadcasting",
+    "media history",
+    "1968 democratic convention",
+    "polarization",
+    "american television",
+    "film history"
+   ]
+  },
+  {
+   "name": "Ágnes Horvát",
+   "summary": "Studies how online spaces disseminate information and attention, including LLM use in science and music creation, using network science and human-centered computing.",
+   "summary_zh": "运用网络科学与以人为本的计算方法，研究线上空间如何传播信息与注意力，包括大语言模型在科研写作和音乐创作中的使用。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_NETWORK",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ADMIN_LARGE_SCALE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "network science",
+    "human-centered computing",
+    "large language models",
+    "online attention",
+    "science of science",
+    "cultural analytics",
+    "crowdfunding"
+   ]
+  },
+  {
+   "name": "Matthew Kay",
+   "summary": "Studies how to communicate uncertainty and make statistics usable through information visualization, building and experimentally testing visualization tools and techniques.",
+   "summary_zh": "通过信息可视化研究如何传达不确定性、提升统计的可用性，构建并通过实验检验可视化工具与技术。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     },
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     },
+     {
+      "code": "A_MIXED",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "personal_site"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "information visualization",
+    "uncertainty visualization",
+    "usable statistics",
+    "visualization literacy",
+    "bayesian statistics",
+    "personal informatics",
+    "tidybayes"
+   ]
+  },
+  {
+   "name": "Marwan M. Kraidy",
+   "summary": "Studies global communication and Arab media, culture, and politics, examining geopolitics, identity, comparative media systems, media industries, and digital sovereignty.",
+   "summary_zh": "研究全球传播与阿拉伯媒体、文化和政治，考察地缘政治、身份、比较媒介体系、媒介产业与数字主权。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_MIDDLE_EAST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "arab media",
+    "global media studies",
+    "global south",
+    "geopolitics",
+    "digital sovereignty",
+    "comparative media systems",
+    "modernity"
+   ]
+  },
+  {
+   "name": "Bruce L. Lambert",
+   "summary": "Studies health communication and patient safety, especially medication safety and drug name confusion, using health information technology and predictive analytics.",
+   "summary_zh": "研究健康传播与患者安全，尤其是用药安全与药名混淆，运用健康信息技术与预测分析方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ADMIN_LARGE_SCALE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "patient safety",
+    "medication safety",
+    "drug name confusion",
+    "health information technology",
+    "prescribing behavior",
+    "pharmaceutical promotion",
+    "provider-patient communication"
+   ]
+  },
+  {
+   "name": "Calvin Liang",
+   "summary": "Designs technologies to address health inequities for marginalized communities, particularly supporting queer and trans people's holistic health needs.",
+   "summary_zh": "设计技术以应对边缘化社群的健康不平等，尤其是支持酷儿与跨性别者的整体健康需求。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "health equity",
+    "queer and trans health",
+    "design research",
+    "human-computer interaction",
+    "marginalized communities",
+    "lgbtq+"
+   ]
+  },
+  {
+   "name": "Duri Long",
+   "summary": "Studies AI literacy and human-AI interaction, using learning sciences and design research to build public AI literacy interventions and co-creative, embodied museum exhibits.",
+   "summary_zh": "研究人工智能素养与人机交互，借助学习科学与设计研究开发公众AI素养干预及共创式、具身化的博物馆展项。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "ai literacy",
+    "human-ai interaction",
+    "co-creative ai",
+    "learning sciences",
+    "museum exhibits",
+    "embodied interaction",
+    "improvisation"
+   ]
+  },
+  {
+   "name": "Yingdan Lu",
+   "summary": "Studies how authoritarian governments like China use digital media and AI for information manipulation, combining computational and qualitative methods.",
+   "summary_zh": "研究中国等威权政府如何利用数字媒体与人工智能进行信息操纵，结合计算方法与质性方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_MIXED",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_CHINA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "authoritarian politics",
+    "information manipulation",
+    "propaganda",
+    "computational social science",
+    "china",
+    "digital technology",
+    "artificial intelligence"
+   ]
+  },
+  {
+   "name": "Erik C. Nisbet",
+   "summary": "Studies media, public opinion, and policy on science, environment, elections, and international security, using cross-national surveys and field experiments.",
+   "summary_zh": "研究媒体、舆论与科学、环境、选举及国际安全政策的关系，采用跨国调查与田野实验。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_EUROPE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_MIDDLE_EAST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "public opinion",
+    "cross-national surveys",
+    "field experiments",
+    "environmental policy",
+    "international security",
+    "democracy",
+    "misinformation",
+    "russia"
+   ]
+  },
+  {
+   "name": "Angela G. Ray",
+   "summary": "Studies rhetorical history of nineteenth-century US popular education and social reform, such as the lyceum system and clandestine debating among young Black men.",
+   "summary_zh": "研究十九世纪美国大众教育与社会改革的修辞史，例如讲习会制度和年轻黑人男性的秘密辩论。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "rhetorical history",
+    "lyceum",
+    "nineteenth century",
+    "public culture",
+    "debate",
+    "social reform",
+    "popular education",
+    "memory"
+   ]
+  },
+  {
+   "name": "Courtney Lynam Scherr",
+   "summary": "Studies how risk and uncertainty are communicated to patients and publics, especially in genetics, designing and evaluating theory-guided messages for informed decision-making.",
+   "summary_zh": "研究如何向患者与公众传达风险与不确定性，尤其在遗传学领域，设计并评估理论指导的信息以促进知情决策。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "risk communication",
+    "uncertainty",
+    "genetic testing",
+    "patient decision-making",
+    "message design",
+    "vaccination",
+    "cancer genetics"
+   ]
+  },
+  {
+   "name": "James Schwoch",
+   "summary": "Studies media history alongside climate, energy, and environment and science and technology studies, through historical research on telegraphy, satellites, and global TV.",
+   "summary_zh": "结合气候、能源与环境以及科学技术研究开展媒介史研究，以历史方法考察电报、卫星与全球电视。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "media history",
+    "climate",
+    "energy",
+    "telegraph",
+    "satellites",
+    "cold war television",
+    "science and technology studies",
+    "indigenous studies"
+   ]
+  },
+  {
+   "name": "Aaron Shaw",
+   "summary": "Studies collaboration, governance, and inclusion in participatory online communities such as Wikipedia, using community data science and computational methods.",
+   "summary_zh": "研究维基百科等参与式网络社群中的协作、治理与包容，采用社群数据科学与计算方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ADMIN_LARGE_SCALE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "online communities",
+    "wikipedia",
+    "peer production",
+    "governance",
+    "participation inequality",
+    "community data science"
+   ]
+  },
+  {
+   "name": "Michelle Shumate",
+   "summary": "Studies how government and nonprofit interorganizational networks such as systems of care can be designed for social impact, using network analysis and service outcome data.",
+   "summary_zh": "研究政府与非营利组织之间的组织网络（如照护体系）如何设计以实现社会影响，采用网络分析与服务结果数据。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_NETWORK",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ADMIN_LARGE_SCALE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "interorganizational networks",
+    "nonprofits",
+    "systems of care",
+    "social impact",
+    "coordinated service delivery",
+    "network evaluation"
+   ]
+  },
+  {
+   "name": "Nathan Walter",
+   "summary": "Studies misinformation correction, strategic storytelling, and emotion in social influence across health, politics, and science, developing models of persuasion and debunking.",
+   "summary_zh": "研究健康、政治与科学领域中的虚假信息纠正、策略性叙事以及情绪在社会影响中的作用，构建说服与辟谣模型。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "misinformation correction",
+    "debunking",
+    "narrative persuasion",
+    "entertainment education",
+    "emotion and affect",
+    "social influence",
+    "meta-analysis"
+   ]
+  },
+  {
+   "name": "Sulafa Zidani",
+   "summary": "Studies internet cultures and memes in the Global South, examining how transnational youth use creative online tactics across five languages and geopolitical contexts.",
+   "summary_zh": "研究全球南方的网络文化与表情包，考察跨国青年如何在五种语言和不同地缘政治语境中运用创意网络策略。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_MIDDLE_EAST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_CHINA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "internet culture",
+    "memes",
+    "global south",
+    "transnational youth",
+    "civic engagement",
+    "culture mixing",
+    "arab media",
+    "chinese media"
+   ]
+  },
+  {
+   "name": "Thomas Bradshaw",
+   "summary": "Writes confrontational plays and television drama as a playwright and TV producer rather than conducting empirical communication research.",
+   "summary_zh": "作为剧作家与电视制片人创作具有对抗性的戏剧和电视剧，而非开展实证传播研究。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "playwriting",
+    "television writing",
+    "theatre",
+    "screenwriting",
+    "drama"
+   ]
+  },
+  {
+   "name": "Vera Brunner-Sung",
+   "summary": "Makes experimental, narrative, and documentary films exploring American identity and belonging, including collaborative work with Hmong communities in Montana.",
+   "summary_zh": "创作实验、叙事与纪录电影，探讨美国身份与归属，包括与蒙大拿州苗族社区合作的作品。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "filmmaking",
+    "documentary",
+    "experimental film",
+    "american identity",
+    "belonging",
+    "hmong community",
+    "independent cinema"
+   ]
+  },
+  {
+   "name": "Erin Courtney",
+   "summary": "Writes plays, operas, and musicals as an award-winning playwright rather than conducting empirical communication research.",
+   "summary_zh": "作为获奖剧作家创作戏剧、歌剧和音乐剧，而非开展实证传播研究。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "playwriting",
+    "theatre",
+    "opera",
+    "musical theatre",
+    "writing for stage"
+   ]
+  },
+  {
+   "name": "Scott Curtis",
+   "summary": "Studies the history of early and silent cinema and animation, especially how scientists, physicians, and educators used motion pictures, through archival film history.",
+   "summary_zh": "研究早期与默片电影及动画史，尤其是科学家、医生和教育者如何使用电影，采用档案式电影史方法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_EUROPE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "film history",
+    "early cinema",
+    "scientific film",
+    "animation",
+    "spectatorship",
+    "silent cinema",
+    "germany"
+   ]
+  },
+  {
+   "name": "Zayd Ayers Dohrn",
+   "summary": "Writes plays, screenplays, TV, and documentary podcasts, working as a dramatist and audio storyteller rather than an empirical researcher.",
+   "summary_zh": "创作戏剧、电影剧本、电视剧和纪录播客，以剧作家与音频叙事者身份工作，而非实证研究者。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "playwriting",
+    "screenwriting",
+    "tv writing",
+    "documentary podcast",
+    "audio storytelling",
+    "writing for digital media"
+   ]
+  },
+  {
+   "name": "Felicia D. Henderson",
+   "summary": "Writes and produces television and film and studies race, class, gender, and othering in the television writers' workspace.",
+   "summary_zh": "编剧并制作电视与电影，研究电视编剧工作空间中的种族、阶级、性别与他者化问题。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "television writers' room",
+    "showrunning",
+    "race and gender",
+    "media production",
+    "television drama",
+    "black television"
+   ]
+  },
+  {
+   "name": "Kyle Henry",
+   "summary": "Directs and edits independent fiction and documentary films about individuals and communities transformed by crisis.",
+   "summary_zh": "执导并剪辑独立剧情片与纪录片，关注被危机改变的个人与社群。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "documentary",
+    "independent film",
+    "film directing",
+    "film editing",
+    "lgbtq cinema"
+   ]
+  },
+  {
+   "name": "Paloma Martinez",
+   "summary": "Makes nonfiction films that humanize complex social and political structures, drawing on labor rights organizing in Mexican migrant communities in Texas.",
+   "summary_zh": "创作纪录片以人性化方式呈现复杂的社会与政治结构，借鉴其在德州墨西哥移民社区从事劳工权益组织工作的经验。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "documentary film",
+    "nonfiction filmmaking",
+    "migrant communities",
+    "labor rights",
+    "social justice",
+    "immigration"
+   ]
+  },
+  {
+   "name": "Brett Neveu",
+   "summary": "Writes genre scripts, especially horror, sci-fi, and procedurals, for film, television, theatre, audio drama, and video games.",
+   "summary_zh": "创作类型剧本，尤其是恐怖、科幻与程序类作品，涵盖电影、电视、戏剧、广播剧和电子游戏。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "screenwriting",
+    "playwriting",
+    "horror",
+    "science fiction",
+    "video game writing",
+    "audio drama"
+   ]
+  },
+  {
+   "name": "Lakshmi Padmanabhan",
+   "summary": "Studies political, nonfiction, and experimental cinema, theorizing political realism in Indian documentary through anticolonial thought, Marxist aesthetics, and psychoanalysis.",
+   "summary_zh": "研究政治电影、纪录片与实验电影，借助反殖民思想、马克思主义美学与精神分析理论化印度纪录片中的政治现实主义。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_SOUTH_SE_ASIA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "documentary",
+    "indian cinema",
+    "political cinema",
+    "marxist aesthetics",
+    "anticolonial thought",
+    "psychoanalysis",
+    "experimental film"
+   ]
+  },
+  {
+   "name": "Spencer Parsons",
+   "summary": "Directs independent feature and short films and curates film programs, working as a filmmaker rather than an empirical researcher.",
+   "summary_zh": "执导独立长片与短片并策划电影展映，以电影人身份工作，而非实证研究者。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "independent film",
+    "film directing",
+    "film programming",
+    "film festivals",
+    "media production"
+   ]
+  },
+  {
+   "name": "Eric Patrick",
+   "summary": "Creates animated films, infographics, and children's media, exploring animated ethnography and writing on information design and educational media.",
+   "summary_zh": "创作动画电影、信息图与儿童媒体，探索动画民族志，并撰写信息设计与教育媒体相关文章。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "animation",
+    "animated documentary",
+    "animated ethnography",
+    "information design",
+    "data visualization",
+    "children's media",
+    "educational media"
+   ]
+  },
+  {
+   "name": "Miriam J. Petty",
+   "summary": "Studies race, stardom, performance, and reception in film, especially the history of African American performers and audiences in classical Hollywood.",
+   "summary_zh": "研究电影中的种族、明星、表演与接受，尤其是古典好莱坞时期非裔美国演员与观众的历史。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "african american representation",
+    "hollywood",
+    "stardom",
+    "black audiences",
+    "reception studies",
+    "film history",
+    "tyler perry"
+   ]
+  },
+  {
+   "name": "Ariel Rogers",
+   "summary": "Studies the history and theory of cinema and related media, examining how emerging technologies such as widescreen, digital cinema, and VR reshape spectatorship.",
+   "summary_zh": "研究电影及相关媒介的历史与理论，考察宽银幕、数字电影和虚拟现实等新兴技术如何重塑观看体验。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "film theory",
+    "spectatorship",
+    "digital cinema",
+    "widescreen",
+    "virtual reality",
+    "screen technologies",
+    "special effects"
+   ]
+  },
+  {
+   "name": "Ozge Samanci",
+   "summary": "Creates interactive, data-driven, and VR media art and graphic novels that explore environmental politics such as ocean and space pollution through creative coding and making.",
+   "summary_zh": "创作交互式、数据驱动和虚拟现实媒体艺术及图像小说，通过创意编程与制作探讨海洋与太空污染等环境政治。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "media art",
+    "interactive installation",
+    "data-driven art",
+    "virtual reality storytelling",
+    "creative coding",
+    "graphic novels",
+    "ocean pollution",
+    "environmental art"
+   ]
+  },
+  {
+   "name": "Jeffrey Sconce",
+   "summary": "Studies the cultural history of electronic media and the occult, psychosis, and low or trash cinema, through historical and critical analysis of media and taste.",
+   "summary_zh": "研究电子媒介与神秘学、精神病以及低俗电影的文化史，以历史与批判方法分析媒介与品味。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "haunted media",
+    "media history",
+    "occult",
+    "technical delusion",
+    "trash cinema",
+    "taste",
+    "television history"
+   ]
+  },
+  {
+   "name": "Jacob Smith",
+   "summary": "Studies the cultural history of sound media and music, from phonograph cultures and performance to eco-sonic media, through historical and experimental audio scholarship.",
+   "summary_zh": "研究声音媒介与音乐的文化史，从留声机文化与表演到生态声音媒介，采用历史研究与实验性音频创作。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_SCIENCE_ENV",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "sound studies",
+    "media history",
+    "phonograph",
+    "recording industry",
+    "eco-sonic media",
+    "new age music",
+    "gregory bateson"
+   ]
+  },
+  {
+   "name": "J.P. Sniadecki",
+   "summary": "Makes ethnographic and experimental documentary films between the US and China, using anthropological fieldwork to explore discarded places and social transformation.",
+   "summary_zh": "在美国与中国之间创作民族志与实验纪录片，运用人类学田野工作探讨被遗弃的地方与社会变迁。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_CHINA",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "ethnographic film",
+    "documentary",
+    "visual anthropology",
+    "china",
+    "experimental film",
+    "sensory ethnography"
+   ]
+  },
+  {
+   "name": "Lynn Spigel",
+   "summary": "Studies the history and theory of television, film, and digital media with a feminist focus on gender, domestic technologies, design, and everyday life.",
+   "summary_zh": "以女性主义视角研究电视、电影与数字媒介的历史与理论，关注性别、家庭技术、设计与日常生活。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "television history",
+    "feminist media studies",
+    "domestic technology",
+    "postwar suburbs",
+    "streaming tv",
+    "media and everyday life",
+    "media design"
+   ]
+  },
+  {
+   "name": "Michael Anthony Turcios",
+   "summary": "Studies antiracist and anticolonial radical media histories, such as Chicana/o Los Angeles and Algerian Paris media activism in the 1970s, through archival research.",
+   "summary_zh": "通过档案研究探讨反种族主义与反殖民的激进媒介史，如1970年代洛杉矶奇卡诺社群与巴黎阿尔及利亚社群的媒介行动。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_EUROPE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "media activism",
+    "chicana/o media",
+    "anticolonial media",
+    "indigenous media",
+    "community film",
+    "decolonization",
+    "radical film history"
+   ]
+  },
+  {
+   "name": "Neil Verma",
+   "summary": "Studies the history and form of narrative podcasting, radio drama, and audio fiction within sound studies, alongside field-recording-based sound art.",
+   "summary_zh": "在声音研究框架下研究叙事播客、广播剧与音频虚构作品的历史与形式，并创作基于田野录音的声音艺术。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "podcasting",
+    "radio drama",
+    "audio fiction",
+    "sound studies",
+    "media history",
+    "sound design",
+    "field recording"
+   ]
+  },
+  {
+   "name": "Mimi White",
+   "summary": "Studies film and television culture through critical-cultural theory, gender, and history, currently analyzing the appeal of formulaic Hallmark TV for women.",
+   "summary_zh": "以批判文化理论、性别与历史视角研究电影与电视文化，目前分析Hallmark公式化电视对女性的吸引力。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "television studies",
+    "feminist theory",
+    "hallmark movies",
+    "melodrama",
+    "therapeutic discourse",
+    "reality television",
+    "cultural studies"
+   ]
+  },
+  {
+   "name": "Marco Williams",
+   "summary": "Directs documentary films on African American history, race, and US immigration policy, such as histories of HBCUs and the undocumented.",
+   "summary_zh": "执导关于非裔美国人历史、种族与美国移民政策的纪录片，如历史悠久的黑人大学和无证移民题材。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "documentary film",
+    "african american history",
+    "hbcus",
+    "race",
+    "immigration",
+    "cinema verite"
+   ]
+  },
+  {
+   "name": "Tracey Scott Wilson",
+   "summary": "Writes plays, television series, and screenplays as a dramatist and TV producer rather than conducting empirical communication research.",
+   "summary_zh": "作为剧作家与电视制片人创作戏剧、电视剧和电影剧本，而非开展实证传播研究。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "playwriting",
+    "screenwriting",
+    "television writing",
+    "biopic",
+    "theatre"
+   ]
+  }
+ ]
+}

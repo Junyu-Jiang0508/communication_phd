@@ -40,7 +40,7 @@ const issue = `https://github.com/Junyu-Jiang0508/communication_phd/issues/new?t
       <h3 class="small muted" data-i18n="labels_title">Research labels</h3>
       {DIMS.map((d) => (f.labels[d] || []).length > 0 && (
         <div style="margin-top:12px"><div class="small" style="font-weight:600;margin-bottom:6px"><span data-lang-only="en">{T.dimensions[d].label}</span><span data-lang-only="zh">{T.dimensions[d].label_zh}</span></div>
-          <div class="chips">{(f.labels[d] || []).map((l) => <span class={`chip${l.p ? ' primary' : ''}`} data-dim={d}><span data-lang-only="en">{T.dimensions[d].labels[l.c]}</span><span data-lang-only="zh">{T.dimensions[d].labels_zh[l.c]}</span>{l.p ? ' ★' : ''}</span>)}</div></div>
+          <div class="chips">{(f.labels[d] || []).map((l) => <span class={`chip${l.p ? ' primary' : ''}`} data-dim={d} title={T.dimensions[d].labels[l.c]}><span data-lang-only="en">{T.dimensions[d].labels_short[l.c]}</span><span data-lang-only="zh">{T.dimensions[d].labels_short_zh[l.c]}</span>{l.p ? ' ★' : ''}</span>)}</div></div>
       ))}
       <p class="small muted" style="margin-top:14px" data-i18n="labels_note">Labels are generated from public profiles and are interpretive aids, not a complete account of anyone’s work. ★ marks a primary emphasis.</p>
       <dl class="kv small" style="margin-top:14px">
@@ -51,7 +51,7 @@ const issue = `https://github.com/Junyu-Jiang0508/communication_phd/issues/new?t
       <p class="small" style="margin-top:12px"><a href={issue} target="_blank" rel="noreferrer" data-i18n="report">Report an error</a></p>
     </aside>
   </div>
-  <style>
+  <style is:global>
     .fgrid { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 28px; margin-top: 26px; align-items: start; }
     .bio { margin-top: 8px; color: var(--ink-2); max-width: 70ch; display: grid; gap: 10px; }
     @media (max-width: 860px) { .fgrid { grid-template-columns: 1fr; } }

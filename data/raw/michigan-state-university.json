@@ -1,0 +1,1650 @@
+{
+ "university": "Michigan State University",
+ "slug": "michigan-state-university",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "Department of Communication",
+   "school": "College of Communication Arts and Sciences",
+   "directory_url": "https://comartsci.msu.edu/departments/communication/communication-directory",
+   "phd_program_url": "https://comartsci.msu.edu/academics/academic-departments/communication/graduate/phd-communication",
+   "phd_program_name": "Ph.D. in Communication",
+   "notes": "Directory is a Vue listing rendered client-side (static HTML truncated); parsed from headless-Chromium render. Tenure-line faculty filtered by title; professors of practice, instructors, specialists, emeriti, postdocs, staff and PhD students excluded."
+  },
+  {
+   "name": "School of Journalism",
+   "school": "College of Communication Arts and Sciences",
+   "directory_url": "https://comartsci.msu.edu/departments/school-journalism/journalism-directory",
+   "phd_program_url": "https://comartsci.msu.edu/academics/academic-departments/default/graduate/phd-information-and-media",
+   "phd_program_name": "Ph.D. in Information and Media (interdepartmental)",
+   "notes": "Directory is a Vue listing rendered client-side (static HTML truncated); parsed from headless-Chromium render. Tenure-line faculty filtered by title; professors of practice, instructors, specialists, emeriti, postdocs, staff and PhD students excluded."
+  },
+  {
+   "name": "Department of Advertising + Public Relations",
+   "school": "College of Communication Arts and Sciences",
+   "directory_url": "https://comartsci.msu.edu/departments/advertising-public-relations/advertising-pr-directory",
+   "phd_program_url": "https://comartsci.msu.edu/academics/academic-departments/default/graduate/phd-information-and-media",
+   "phd_program_name": "Ph.D. in Information and Media (interdepartmental)",
+   "notes": "Directory is a Vue listing rendered client-side (static HTML truncated); parsed from headless-Chromium render. Tenure-line faculty filtered by title; professors of practice, instructors, specialists, emeriti, postdocs, staff and PhD students excluded."
+  },
+  {
+   "name": "Department of Media and Information",
+   "school": "College of Communication Arts and Sciences",
+   "directory_url": "https://comartsci.msu.edu/departments/media-and-information/media-and-information-directory",
+   "phd_program_url": "https://comartsci.msu.edu/academics/academic-departments/default/graduate/phd-information-and-media",
+   "phd_program_name": "Ph.D. in Information and Media (interdepartmental)",
+   "notes": "Directory is a Vue listing rendered client-side (static HTML truncated); parsed from headless-Chromium render. Tenure-line faculty filtered by title; professors of practice, instructors, specialists, emeriti, postdocs, staff and PhD students excluded."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Gary Bente",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/gary-bente",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2017-09/gary-bente.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Nonverbal Communication",
+    "Media Effects",
+    "Virtual Reality",
+    "Cultural Differences"
+   ],
+   "bio": "Gary Bente (Ph.D., University of Trier, Germany, 1985) is a professor in the Department of Communication at Michigan State University and the director of the Center for Avatar Research and Immersive Social Media Applications (\nCARISMA) at the School of Communication Arts and Sciences. He teaches classes in media effects research with an emphasis on continuous response measurement, psychophysiology and eye tracking as well as classes in nonverbal communication and Virtual Reality.\n\nResearch and teaching: Nonverbal Communication, Media Effects, Virtual Reality, Cultural Differences",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Daniel E. Bergan",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/daniel-e-bergan",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2018-02/Bergan_BW_Bio.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Daniel Bergan specializes in public opinion and experimental work on advocacy campaigns. He uses field experimental designs to test the impact of citizen contacts to policymakers on public policy. In recent work, he has also explored the sources of partisan polarization in public opinion. His academic publications have appeared in the Journal of Politics, Public Opinion Quarterly, the Journal of Communication, and other journals.\n\nResearch and teaching: Research Centers and Labs Health and Risk Communication Center",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Dustin Carnahan",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/dustin-carnahan",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2018-02/Carnahan_BW_Bio.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Political communication",
+    "political behavior",
+    "misinformation",
+    "corrective messages",
+    "public opinion",
+    "selective exposure"
+   ],
+   "bio": "Dustin Carnahan is an associate professor in the Department of Communication in the College of Communication Arts and Sciences. He received his Ph.D. in Political Science from Ohio State University. His research focuses on how citizens engage with the political information environment and how these practices influence their beliefs, attitudes, and behaviors.\nRecently, Professor Carnahan has focused on how communication processes contribute to the formation of misperceptions and the effectiveness of fact-checking messages in combatting misinformation. His work has been published in the Journal of Communication, Human Communication Research, Communication Monographs, Political Communication, and Political Behavior.\nSelect recent publications:\nBergan, D. E., Shulman, H. C., & Carnahan, D. (2024). Discounting constituent attitudes: Motivated reasoning, ambiguity, and policymaker perceptions of constituent characteristics.\nHuman Communication Research, 50, 53-65.\nAhn. S., Ma, S., Bergan, D. E., & Carnahan, D.\n(2023). Estimating the impact of immediate versus delayed corrections on belief accuracy.\nCommunication Monographs, 90, 372-392.\nMa, S., Bergan, D. E., Ahn, S., Carnahan, D., Gimby, N., McGraw, J., & Virtue, I. (2023). Fact-checking as a deterrent? A conceptual replication of the influence of fact-checking on the sharing of misinformation by political elites.\nHuman Communication Research, 49, 321-338.\nCarnahan, D., Ahn., S., & Turner, M. M. (2023). The madness of misperceptions: Evaluating the ways anger contributes to misinformed beliefs.\nJournal of Communication, 73, 60-72.\nCarnahan, D., Ulusoy, E., Barry, R., McGraw, J., Virtue, I. C., & Bergan, D. E. (2022).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "James W. Dearing",
+   "title": "Brandt Endowed Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/james-w-dearing",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2019-08/Jim-Dearing-bw.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Jim Dearing (Ph.D., University of Southern California) is Brandt Endowed Professor in the Department of Communication at Michigan State University. Dearing studies the diffusion of innovations, including the adoption and implementation of new evidence-based practices, programs, technologies and policies. His research and teaching spans dissemination science, implementation science, program sustainability, and the psychological and sociological basis of the diffusion process. He works with research and practice improvement teams in environmental remediation, nursing care, water conservation, injury and fatality prevention, public health, and healthcare. He has been PI for research grants from NSF, EPA, NCI, AHQR, and private foundations including the Robert Wood Johnson Foundation, The Wallace Foundation, the John D. and Catherine T. MacArthur Foundation, and the Bill & Melinda Gates Foundation. He is a fellow of the International Communication Association, and a member of the\nU.S. Environmental Protection Agency's Board of Scientific Counselors.\n\nResearch and teaching: Research Centers and Labs Health and Risk Communication Center\n\nFeatured Publications: James W. Dearing and R. Sam Larson (2025), Explaining the diffusion of Project ECHO. Implementation Science Communications 6:88.\nView Publication James W. Dearing, Kerk F. Kee, and Tai-Quan Peng (2023). Historical roots of dissemination and implementation science. In R. Brownson, G. Colditz, and E. Proctor (eds), Dissemination and implementation research in health: Translating science to practice (3rd ed). New York: Oxford University Press, pp. 69-85.\nView Publication James W. Dearing and Jeffrey G. Cox (2018). Diffusion of innovations, principles, and practice.\nHealth Affair 37(2):183-190.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "William A. Donohue",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/william-donohue",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2018-02/Donohue_BW_Bio.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Negotiation",
+    "conflict management",
+    "project evaluation"
+   ],
+   "bio": "Dr. William A. Donohue is currently a professor of Communication at Michigan State University. He received his Ph.D. from The Ohio State University in 1976. Dr. Donohue has published extensively in the areas of conflict, communication, negotiation and mediation while also conducting workshops and other intervention activities focusing on communication, leadership development, and conflict management. His co-authored book, Framing Matters: Perspectives on Negotiation Research and Practice in Communication, provides a broad understanding of the role of framing in negotiation research. Dr. Donohue is a recent past president of the International Association for Conflict Management and is on the editorial board of several major journals.\n\nResearch and teaching: Negotiation, conflict management, project evaluation\n\nProject Title & Source: Consumer Preferences of Sustainable Packaging, School of Packaging",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Elizabeth Dorrance Hall",
+   "title": "Associate Professor, Director of Communication Master's Program",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/elizabeth-dorrance-hall",
+   "personal_url": "http://www.dorrancehall.com/",
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2018-02/DorranceHall_BW_Bio.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=ZMRask0AAAAJ&hl=en",
+   "research_areas": [],
+   "bio": "Elizabeth Dorrance Hall is an Associate Professor in the Communication Department at Michigan State University and Director of the Family Communication and Relationships Lab. She received her Ph.D. in Family and Interpersonal Communication from Purdue University. Elizabeth's research focuses on communication processes in close relationships, especially in the context of family.\nElizabeth has applied and extended interpersonal and family communication theories (e.g., family communication patterns theory (FCP), confirmation theory) to explore difficult conversations, how close relationships evolve over time, and under what conditions family communication and support are associated with well-being.\nOther projects focus on experiences of family member marginalization over the life course, family-of-origin dynamics for first-generation college graduates, and women's experiences in \"traditionally male\" career fields.\nElizabeth completed a Fulbright Scholar award to study communication in multigenerational families in Slovenia in 2021. Her work is currently funded by a\nNSF CAREER Award grant to assess effective parent-daughter communication about STEM interests and careers in families from diverse backgrounds (2023-2027). Elizabeth is a MSU Teacher-Scholar awardee.\nElizabeth's recent publications can be viewed on Google Scholar or ResearchGate.\nTeaching:\nCOM 225: Introduction to Interpersonal Communication\nCOM 304: Family Communication\nCOM 425: Advanced Interpersonal Communication\nCOM 820: Communication Theory and Process\nCOM 822: Interpersonal Communication Theory http://www.dorrancehall.com/",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Allison Eden",
+   "title": "Professor, Director of Doctoral Studies in Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/allison-eden",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2018-02/Eden_BW_Bio.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Entertainment",
+    "Well-being",
+    "Morality"
+   ],
+   "bio": "Dr. Allison Eden (Ph.D. Michigan State University) is a Professor in the Department of Communication. Her work centers on understanding media enjoyment, particularly the role enjoyment plays in attention to and selection of media content, and more broadly the effects of entertainment on user behavior and well-being. Dr. Eden’s research has been published in the Journal of Communication, Journal of Media Psychology, Media Psychology, and Mass Communication and Society, among others. She is an associate editor of the Psychology of Popular Media (APA).\n\nResearch and teaching: Media Entertainment, Well-being, Morality Research Centers and Labs:\nTARMAC Carisma Media and Morality Mini-Conference:",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jacob Fisher",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/jacob-fisher",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2023-09/jtf_headshot_nologo_downsized_0.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Jacob T. Fisher (Ph.D., University of California, Santa Barbara) is an Assistant Professor in the Department of Communication. His research is positioned at the intersection of digital technology, attention, and decision-making. His current work in this area uses functional neuroimaging, behavioral and \"big data\" measures, and computational modeling to explore how effort requirements, perceptual complexity, and motivational factors in digital contexts influence attention and goal pursuit. He also conducts research in the domain of moral messaging, seeking to understand how morally-charged messages uniquely motivate attention and action at the individual and societal level.\nDr. Fisher's work has been published in Nature Human Behavior, Journal of Communication, Network Neuroscience, Media Psychology, and a number of other outlets. He is the current research chair for the Communication and Social Cognition division of the National Communication Association, and is an active member of the Communication Science and Biology Interest Group and the Computational Methods Division of the International Communication Association.\nSelected Recent Publications Hopp, F.R., Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (2023). Moral foundations elicit shared and dissociable cortical activation modulated by political ideology.\nNature Human Behaviour.\nFisher, J.T., Hopp, F.R., & Weber (2023). Cognitive and perceptual load have opposing effects on brain network efficiency and behavioral variability in ADHD.\nNetwork Neuroscience.\nFisher, J.T., Hopp, F.R., Chen, Y., & Weber, R. (2023). Uncovering the structure of media multitasking and attention problems with network analytic techniques.\nComputers in Human Behavior.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Amanda Holmstrom",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/amanda-holmstrom",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2026-09/20260908.DLT_1060_resize2.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Social support",
+    "interpersonal communication",
+    "health communication"
+   ],
+   "bio": "Dr. Holmstrom is a professor in the Department of Communication in the College of Communication Arts and Sciences. Her scholarly work focuses primarily on the communication of various forms of social support in relationships and their association with indices of physical, mental, and relational well being. Other, related areas of interest include relational and family communication, health communication, gender and sex differences in supportive communication, and the development and maintenance of self-esteem.\nDr. Holmstrom's research spans multiple contexts. For example, recent work examines supportive messages provided by parole and probation agents to their clients; social support in the context of farm stress; and support exchanged in American friendships, via her collaborative work on the American Friendship Project.\n\nResearch and teaching: Social support, interpersonal communication, health communication\n\nSelected Recent Publications: Holmstrom, A. J., Hu, J. M., Shebib, S. J., Lim, J. I., Zhang, Y., Bredland, A., Mazur, A. P., Mason, A. J., Allard, A., Boumis, J. K., Schulte, H., Ha, J. H., Wolfe, B. H., Szczypka, M., Wu, P.-H., Zhang, Y., Cui, X., & Zhang, L. (2026).\nTheoretical distinctions between emotion and cognition content in supportive messages: Examining effects and mediating mechanisms.\nAdvance online publication.\nCommunication Research.\nhttps://doi.org/10.1177/00936502261426538 Hall, J., Pennington, N., & Holmstrom, A. J. (2025). Lonely and connected: The ambivalence of sociality in a time of transitions.\nPLOS ONE.\nhttps://doi.org/10.1371/journal.pone.0334787 Holmstrom, A. J., Morash, M., & Witwer, A. (2025). Trait self-efficacy as a moderator of esteem support message effects in the parole/probation agent-client relationship.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Maria Lapinski",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/maria-lapinski",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2018-02/Lapinski_BW_Bio.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Impact of persuasive messages on health and environmental risk perceptions and behaviors"
+   ],
+   "bio": "Dr. Maria Lapinski is Director of the Michigan State University (MSU) Health and Risk Communication Center: Healthy People-Healthy Planet, an interdisciplinary research, teaching, and public engagement network of over 50 faculty. She is appointed as a Professor in the Department of Communication and Michigan Ag-Bio Research at MSU. For six years, she served as the Associate Dean for Research for the College of Communication Arts and Sciences. In that role she facilitated interdisciplinary research partnerships and supported faculty research including leading the college’s grant support office. From 2012-2016 she led, along with Dr. Julie Funk in the College of Veterinary Medicine an interdisciplinary collaborative:\nOne Health: Emerging Communication Technology for Decision-Making and Behavior which was seed-funded by the U.S. National Cancer Institute, National Institutes of Health. As a result of this work, she currently serves as a Commissioner for The Lancet’s One Health Commission.\nDr. Lapinski’s research connects global health and environmental issues, cultural dynamics, and communication science. Her work examines the impact of interpersonal and mediated messages and social-psychological factors on health and environmental behaviors with a focus on cultural dynamics. To this end, Dr. Lapinski has conducted collaborative research projects with her students and colleagues in a number of countries in Asia, the Pacific Rim, Central America, and Africa and North America. Recently, she led a National Science Foundation team studying social norms and financial incentives related conservation behaviors among Tibetan populations.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "David Markowitz",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/david-markowitz",
+   "personal_url": "https://www.davidmarkowitz.org/",
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2023-08/David%20Markowitz%20Headshot_IMG_995.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Language",
+    "text analysis",
+    "deception",
+    "persuasion",
+    "computer-mediated communication",
+    "media psychology"
+   ],
+   "bio": "Dr. Markowitz is a Red Cedar Distinguished Professor in the Department of Communication at Michigan State University, whose research uses language to understand social and psychological processes. For example, his work has examined the lies people tell on dating apps, how language patterns in pet adoption profiles predict a pet getting adopted, and how verbal complexity associates with social engagements and money, plus online petition support. Some of his recent work has also evaluated how bias is revealed in physician medical notes and office discipline referrals.\nDr. Markowitz was selected as a \"Rising Star\" of the Association for Psychological Science in 2022.\nHis work has appeared in top outlets such as Science Advances, Proceedings of the National Academy of Sciences,\nPNAS Nexus, Journal of Personality and Social Psychology, Journal of Communication, Communication Research, and Human Communication Research. For an updated CV, please click here.\n\nResearch and teaching: Language, text analysis, deception, persuasion, computer-mediated communication, media psychology",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Vernon Miller",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/vernon-miller",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2018-02/Miller_BW_Bio.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Vernon Miller’s research focuses on the communicative aspects of the employment interview, organizational entry and socialization, and role negotiation as well as large-scale organizational change processes. He holds a joint appointment in the Department of Management. His work has been published in the Journal of Applied Communication Research, Management Communication Quarterly, Human Communication Research, Communication Monographs, Communication Education, Academy of Management Review, and Journal of Managerial Issues among others.\nDr. Miller served as an Associate Editor for Management Communication Quarterly from 2009-2019 and is the former chair of the Organizational Communication division of the National Communication Association.\nHe is the author of three books:\nMiller, V. D., & Poole, M. S. (Eds). (under contract).\nHandbook of organizational communication theory and research.\nDe Gruyter Miller, V. D., & Gordon, M. E. (Eds) (2014).\nMeeting the Challenges of Human Resource Management: A Communication Perspective. New York: Routledge. Print ISBN: 9780415630214 Gordon, M. E., & Miller, V.D. (2012).\nConversations about job performance: A communication perspective on the appraisal process.\nNew York: Business Expert Press. Print ISBN: 9781606490747 Current Courseload:\nCOM 240 Introduction to Organizational Communication\nCOM 440 Organizational Communication Structure\nCOM 815 Organizational Communication\nMGT 411 Organizational Staffing\n\nResearch and teaching: organizational members’ information seeking, message exchanges related to role negotiation",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Yoo Jung (Erika) Oh",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/yoo-jung-erika-oh",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2023-09/Yoo%20Jung%20Oh_profile_resize.png",
+   "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=kZAz0c8AAAAJ",
+   "research_areas": [
+    "Human-AI communication",
+    "AI chatbots",
+    "human-chatbot relationships",
+    "persuasive technologies",
+    "health behavior change"
+   ],
+   "bio": "Dr. Yoo Jung (Erika) Oh (Ph.D. University of California, Davis) specializes in artificial intelligence (AI) dialogue systems, commonly referred to as \"AI chatbots.\" With an interest in the dynamics of human-AI communication, her research investigates the impact of persuasive AI on human perceptions and behaviors. Dr. Oh's research focuses on human perceptions, communication patterns, and the resulting persuasion and relational outcomes of human-AI interaction. Her studies have been published in outlets including the Journal of Communication, the Journal of Computer-Mediated Communication, the International Journal of Communication ( Google Scholar).\n\nResearch and teaching: Human-AI communication, AI chatbots, human-chatbot relationships, persuasive technologies, health behavior change",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Tai-Quan \"Winson\" Peng",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/tai-quan-winson-peng",
+   "personal_url": "https://winsonpeng.github.io/",
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2022-03/Peng-Taiquan-bw_0.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Computational Communication"
+   ],
+   "bio": "Winson Peng holds a Ph.D. from the City University of Hong Kong and currently serves as a Professor in the Department of Communication at Michigan State University (MSU). He assumed the position of associate professor with tenure in 2016 when he joined the Communication Department. Before joining MSU, he held the role of Assistant Professor at Nanyang Technological University in Singapore from 2013 to 2016 and at Macau University of Science and Technology in Macau from 2009 to 2013.\nOver the course of his career, he has examined how different waves of communication technologies—starting with the internet and extending through social and mobile media to contemporary AI systems—change the ways people encounter information, form judgments, and engage with one another. Across these transitions, his work focuses on how evolving communication environments shape, and are shaped by, fundamental processes of attention, interpretation, and influence.\nA consistent theme in his scholarship is that emerging technologies do more than transform communication practices: they also offer new windows into human cognition and behavior. By engaging each technological shift as both an object of inquiry and a source of analytic innovation, he connects enduring and emerging theoretical questions in communication with the empirical possibilities opened by new forms of data, interaction, and representation. This approach has guided his work across areas such as computational social science, health communication, audience behavior, and political communication.\nCurrently, he serves as the Editor-in-Chief of Human Communication Research (2025 -) and previously served as Associate Editor for the Journal of Communication (2022 - 2024).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ralf Schmälzle",
+   "title": "Associate Professor of Communication Science",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/ralfschmaelzle",
+   "personal_url": "https://nomcomm.github.io/",
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2018-02/Schmaelzle_BW_Bio.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Neuroscience: Motivational Response to Media",
+    "Neuroimaging of Health and Risk Communication",
+    "Virtual Reality (AR/XR) and AI Intersection",
+    "Neurocognitive Foundations of Mass Communication Campaigns",
+    "Neurocognitive Communication - Communication Neuroscience",
+    "Media Psychology"
+   ],
+   "bio": "Ralf Schmälzle (\"SHMAL-ts-lee\", also known as 拉尔夫·舍马尔兹勒, राल्फ श्मेल्ज़ले, シュマルツレ, شمالتسلي, Шмальцле, Σμαλτσλε, שמלצלה, ช์มาเลทซเล) is an Associate Professor in the Department of Communication at Michigan State University.\nDr. Schmälzle is uniquely cross-trained in communication science, health psychology, and cognitive neuroscience. His research seeks to unravel the biological foundations of human communication by investigating how the brain — our most social but also most private organ — perceives, processes, and responds to persuasive messages in health, media, and interpersonal contexts.\nAt the core of his work is a passion for understanding how communication shapes the mind and behavior. Using cutting-edge tools such as functional Magnetic Resonance Imaging (fMRI), electroencephalography (EEG/ERP), and computational modeling, he studies how people engage with messages and how these messages can impact health, decision-making, and social behavior. He complements brain-based approaches with linguistic analyses, self-report data, and behavioral experiments.\nAs founder of the Neuroscience of Messages Lab and Co-Director of the\nCARISMA-lab (Center for Avatar Research and Immersive Social Media Applications) he creates an interdisciplinary learning environment for students and scholars interested in bridging communication research with neuroscience, psychology, and emerging technologies. His recent work explores the integration of artificial intelligence (AI), virtual reality (VR), and immersive environments to study message reception and social interaction in more naturalistic and dynamic ways.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "John L. Sherry",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/john-l-sherry",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2018-02/Sherry_BW_Bio.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Mass media effects",
+    "cognitive and behavioral aspects of video games",
+    "educational media",
+    "complex systems, computation & communication",
+    "Computational Communication"
+   ],
+   "bio": "Dr. Sherry teaches a variety of courses on the effects of mass media at the undergraduate and graduate level. In addition, he teaches graduate courses on complex systems, media theory, and educational media. He currently focuses on two areas of research: videogames for education and communication as a complex dynamic system. The educational gaming strand of his research focuses on the underlying cognitive processes that facilitate learning during game play and how those differ among gender, personality, and cognitive skill. His goal is to create barrier-free educational video games to complement formal education curricula. The remainder of his research time is spent developing a new paradigm for studying communication as a dynamic system using modelling, experimentation, and simulation methodologies. He is affiliated with the MSU Cognitive Science Program, a member of the Purdue University Graduate faculty, and is an affiliate of the MSU Games for Entertainment and Learning Lab. He is past Associate Editor of Communication Theory and is co-founder and past Chair of the Video Game Special Interest Group of the International Communication Association.\nCurrent Courseload Fall 2019\nCOM 375: Audience Responses to Media Entertainment\nCOM 921- Micro/Macro Media Spring 2020\nCOM 375: Audience Responses to Media Entertainment\nCOM 305: Children's Educational Media\n\nResearch and teaching: Mass media effects; cognitive and behavioral aspects of video games; educational media; complex systems, computation & communication Computational Communication",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Stephen Spates",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/stephen-spates",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2025-07/Stephen%20Spates_headshot_280x280px.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Cultural Communication",
+    "Organizational Communication",
+    "Human-Machine Communication",
+    "Health Communication"
+   ],
+   "bio": "Dr. Stephen A. Spates is an Assistant Professor in the Department of Communication at Michigan State University, where his research examines communication as a vehicle for organizing, constructing, and explaining identity. His scholarship spans organizational communication and cultural communication, with a particular focus on how communicative practices shape understandings of bias, discrimination, and social identity. He is also engaged in emerging work on human-machine communication, exploring how artificial intelligence platforms can be leveraged to enhance human communication skills.\nDr. Spates has published widely in peer-reviewed communication journals and is the author of two books in organizational communication. His research has been supported by external funding from the U.S. Department of Homeland Security, the Michigan Applied Public Policy Research program, and the Arthur Vining Davis Foundation. He recently co-edited the the forthcoming book, Reconciliation: The Final Step in Achieving Nonviolent Social Change.\nCommitted to bridging scholarship and community impact, Dr. Spates translates his research into practice through professional workshops and seminars designed to help individuals better understand and navigate messages of bias and discrimination. He has partnered with universities and community organizations across the country to foster healthy, informed dialogue on these issues, extending the reach of his scholarship well beyond the classroom.\nA proud Michigander, Dr. Spates was born and raised in Detroit and also spent formative years in the rural southwestern community of Berrien Springs, Michigan. He is a member of Phi Beta Sigma Fraternity, Inc.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ron Tamborini",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/ron-tamborini",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/themes/custom/msu/sparty.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Ron Tamborini (Ph.D., Indiana University) is the Director of Doctoral Studies and a Professor in the Department of Communication at Michigan State University where he teaches courses in media process and methods of communication inquiry. His research examines both traditional and new media, with a focus on how characteristics of technology alter the psychological experience and influence of media.\n\nResearch and teaching: My research examines both traditional and new media, with a focus on how characteristics of technology alter the psychological experience and influence of media. My current work examines several topics including (a) the relationship ship between media exposure and moral intuition, (b) the impact of natural mapping in video game technology, (c) the enjoyment and appreciation of media informational and entertainment content.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Monique Turner",
+   "title": "Chair of the Department of Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/monique-turner",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2026-09/Monique-Turner.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Monique Mitchell Turner is Professor and Chair of the Department of Communication at Michigan State University. Prior to this appointment, she served as Associate Dean at the Milken Institute School of Public Health at the George Washington University. Turner is trained in persuasion and employs that expertise in health, risk, and political communication; with a particular focus on message design and evaluation, judgment and decision making and cognitive processing of communication. Turner’s main focus is on the role that emotions play in the underlying psychosocial processes explaining message effects; her work has examined the effects of guilt, shame, anger, and fear (etc.) in the cognitive impacts of messaging. Turner is the author of the Anger Activism model—a behavioral theory explaining when anger is constructive versus deleterious. As the former director of the Center for Risk Communication Research at the University of Maryland, Turner’s research has been funded by organizations such as Health and Human Services, the Food and Drug Administration, the Joint Institute for Food Safety and Applied Nutrition (JIFSAN), and the Centers for Disease Control. Turner is the former Senior Editor of Health Communication and is the former associate editor of Communication Research Reports. She is the past chairperson of both the Communication and Social Cognition Division of the National Communication Association and the Health Communication Division of the International Communication Association. Turner was named a Fellow of the International Communication Association in 2023.\n\nResearch and teaching: The focus of Turner’s research is on the role of emotion in message design and message processing.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "rank inferred from profile bio text; site title is \"Chair of the Department of Communication\""
+  },
+  {
+   "name": "Brandon Van Der Heide",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/brandon-van-der-heide",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2018-02/VanDerHeide_BW_Bio.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Brandon Van Der Heide (Ph.D., Michigan State University) is a teacher and researcher working at the intersection of the domains of computer-mediated communication and interpersonal communication. Dr. Van Der Heide’s recent work has been exploring the ways that text-based communication media affect influence processes and credibility impressions. This research has implications for the ways that Internet users utilize product reviews from unknown reviewers on places like Yelp.com, Amazon.com, or Ebay.com. Dr. Van Der Heide has also conducted work in the ways that interpersonal impressions are formed in online social media environments like Facebook. Regardless of the online environment, Dr. Van Der Heide’s work seeks to identify the specific online cues that are essential to quickly and accurately form an impression of another person online. His work has been published in a wide variety of journals including: Journal of Communication, Human Communication Research, Communication Research, Computers in Human Behavior, and Journal of Computer-Mediated Communication.\nDr. Van Der Heide leads a team of several graduate students to conduct research in these areas. Additionally, Dr. Van Der Heide regularly consults for other research groups at universities around the world to aid in the successful development of computer-mediated communication theory. Dr. Van Der Heide has served as the chairperson of the National Communication Association’s Human Communication and Technology division.\nSelected Recent Publications DeAndrea, D. C., Van Der Heide, B., Vang, M. H., & Vendemia, M. (in press). Information controllability: Can third-party testimonials vary in warranting value?\nCommunication Research.\nShin, S.-Y., Van Der Heide, B., Beyea, D., Dai, Y., & Prchal, B. (2017).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Brooke Wolfe",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comartsci.msu.edu/our-people/brooke-wolfe",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2023-09/IMG_2186%202.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=cwxuGTsAAAAJ&hl=en",
+   "research_areas": [],
+   "bio": "Dr. Brooke Wolfe is an Assistant Professor in the Department of Communication at Michigan State University. She received her Ph.D. in Family and Interpersonal Communication from the University of Washington. Dr. Wolfe's research focuses on how people use communication in times of acute and chronic stressors. Dr. Wolfe' research follows people across their lifespan, and within interpersonal, family, and health contexts.\nBrooke’s recent publications can be viewed on Google Scholar or ResearchGate.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Danielle K. Brown",
+   "title": "1855 Community & Urban Journalism Professorship, Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Journalism",
+   "profile_url": "https://comartsci.msu.edu/our-people/danielle-k-brown",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2024-03/BIO.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "narrative change",
+    "media ethics",
+    "race, identity and media",
+    "visual journalism",
+    "political communication",
+    "technology and policy"
+   ],
+   "bio": "Danielle Brown, Ph.D. is the 1855 Community and Urban Journalism Professor and an associate professor in the School of Journalism. She also serves as the graduate program director for the School of Journalism. Dr. Brown is the founding director of the LIFT Project -- an engaged research effort aimed at addressing misinformation and disinformation, by enriching existing information pipelines of vulnerable communities, most notably through the identification and support of trusted messengers. You can learn more about the various research avenues and programs of this project at https://liftproj.com.\nDr. Brown's interdisciplinary and community-engaged scholarship utilizes the cross-sections of journalism, political science, and sociology. She specializes in analyses of media representations and narrative change, social movements and activism, and identity and political psychology. Dr. Brown has published dozens of articles in top-tier journals, and her work also appears in popular media outlets like the Washington Post, Nieman Lab, Columbia Journalism Review and The Conversation.\nMuch of her research and work has been supported with the more than $1.5 million in external funding she has secured from foundations and non-profit organizations like the Lumina Foundation, Knight Foundation, Global Impact, Robert Wood Johnson, and Color of Change. She has received multiple awards and recognitions for her research and service record as an early-career scholar and her pioneering public engagement work. She previously served on the faculty at the University of Minnesota and Indiana University. Prior to joining the academy, she was a photojournalist, writer, and later a non-profit public relations professional.\nHer full curriculum vitae is available here.\nDr.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Manuel (Manny) Chavez",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Journalism",
+   "profile_url": "https://comartsci.msu.edu/our-people/manuel-manny-chavez",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2018-11/chavez.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Chavez is a professor in the School of Journalism working on issues of sociology of the media, media law, crisis reporting, disinformation, and international press systems. He studies models of access to information, accountability and transparency, especially related to the news media in Ibero America.\nHe is the Co-Director of the International Collaboratory on Crisis Communication. He has published several articles and books, received multiple grants and awards from the National Science Foundation, Tinker Foundation, US Department of Education, US Department of State, and NEH. He serves as expert reviewer for the NSF, International Education USDE competitions, and also for several peer-reviewed journals.\nHe currently serves as President of the Association for Latino Media Markets and Communication Research and served as President of the Association for Borderlands Studies. He teaches courses on the media law and ethics, crisis reporting, international affairs, environment/science/health reporting and sociology of journalism. He also teaches qualitative research methods in the J-School graduate program.\nDr. Chavez s Affiliated Faculty in the MSU Julian Samora Research Institute and the Chicano/Latino Studies Program. He served as MSU Associate Director of the Center for Latin American and Caribbean Studies for over a decade and currently is a Core Faculty. He is a regular commentator for national and international news organizations, including: NPR, ABCradio, Michigan Public Radio, Financial Times, BBC, UNIVISION, Radio Mil, Radio Formula and Reforma newspapers.\n\nResearch and teaching: For few years, his research focuses on crisis reporting and communication models in major disaster events and crisis derived from political events/actors.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Eric Freedman",
+   "title": "Knight Chair in Environmental Journalism and Professor",
+   "rank": "Professor",
+   "department": "School of Journalism",
+   "profile_url": "https://comartsci.msu.edu/our-people/eric-freedman",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2017-05/freedman-eric.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Global and Multicultural Communication",
+    "Health & Risk, Environment & Science Communication"
+   ],
+   "bio": "Eric Freedman is a Professor of Journalism and former Associate Dean of International Studies and Programs. During his 20-year newspaper career, he covered public affairs, environmental issues and legal affairs for newspapers in New York and Michigan, winning a Pulitzer Prize for coverage of a legislative corruption scandal. He teaches environmental journalism and serves as director of the Knight Center for Environmental Journalism. He also serves as director of the school's Capital News Service, a professional-level practicum in which students cover state government for about 35 newspapers, broadcast stations and online news outlets across Michigan. Freedman earned his bachelor's degree in government from Cornell University, his law degree from New York University and his master's degree in resource development from MSU. Internationally, he has taught journalism as a Fulbright scholar in Lithuania, Georgia and Uzbekistan, and given lectures and led workshops and seminars for professional journalists, students and the public in Singapore, Russia, Chile, Kazakhstan, Uzbekistan, Japan, Estonia, Bolivia, Estonia and Kyrgyzstan.\nHe served for three years as an International Scholar in the Open Society Foundation's Academic Fellowship Program, where he worked with faculty members in the Department of Journalism and Mass Communication at American University of Central Asia in Kyrgyzstan.\nAs a professional journalist and freelancer, Freedman has written for newspapers and magazines on such environmental issues as habitat protection, parks and public lands, toxic substances, extinction, ecotourism and government regulation.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Muhammad Ittefaq",
+   "title": "Assistant Professor of Environmental Communication",
+   "rank": "Assistant Professor",
+   "department": "School of Journalism",
+   "profile_url": "https://comartsci.msu.edu/our-people/muhammad-ittefaq",
+   "personal_url": "https://muhammadittefaq.com/",
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2026-09/Exact%20Size%20Photo%20for%20ComArtSci.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Climate change",
+    "Environmental journalism",
+    "Science communication",
+    "Misinformation",
+    "Emerging technologies"
+   ],
+   "bio": "Muhammad Ittefaq is an Assistant Professor of Environmental Communication at Michigan State University. He earned his bachelor’s degree in Communication Studies from the University of the Punjab, Pakistan; an M.A. in Media and Communication Science from Technische Universität Ilmenau, Germany; and a Ph.D. in Journalism and Mass Communication from the University of Kansas, USA. He is also affiliated with the Knight Center for Environmental Journalism, Muslim Studies Program, and the George Mason University Center for Climate Change Communication (Mason 4C). Previously, he served as an Assistant Professor in the School of Communication Studies at James Madison University. He also worked as senior research scientist and collaborator with Center for Climate, Health, and the Global Environment at Harvard University His research focuses on global news coverage of health and environmental issues, science misinformation, AI's impact on health and environment, and how different populations interpret scientific messages, make decisions related to health and climate, and support policies related to science.\nPublic Outreach and Engagement Dr. Ittefaq’s goal is to share the latest research and knowledge while fostering genuine, open conversations with experts, authors, policymakers, communicators, and journalists. Through these conversations, he aims to inform the public and enrich the information ecosystem around critical issues such as climate change, science, and health.\nTo advance this goal, he launched his own podcast, Science Talk, on YouTube and Instagram. The podcast explores issues related to climate change, health, science, and technology, offering thought-provoking analysis of our changing climate and its impacts on human health and beyond.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Serena Miller",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Journalism",
+   "profile_url": "https://comartsci.msu.edu/our-people/serena-miller",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/themes/custom/msu/sparty.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=LJtBOcgAAAAJ&view_op=list_works&sortby=pubdate",
+   "research_areas": [
+    "Constructivist Knowledge-Making Approaches",
+    "Alternative",
+    "Journalistic Practices",
+    "Data and Visualization",
+    "Journalism and Graduate Education",
+    "Methods and Measurement",
+    "Qualitative and Quantitative Research Methods",
+    "Sociology of Knowledge",
+    "Social Science Theory Building",
+    "Computational Communication",
+    "Health & Risk, Environment & Science Communication",
+    "Political Communication and Civic Engagement"
+   ],
+   "bio": "Serena Miller (Ph.D., Michigan State University) is an Associate Professor at Michigan State University, Women in Measurement ResearHER lead, former Methodology Associate Editor for Review of Communication Research, and a former Associate Editor for Journalism Studies.\nShe previously worked as faculty member at Arizona State University and Bloomsburg University.\nDr. Miller's present research interest lie in understanding non-scientific (i.e., non-materialist less physical, logic-based) ways of knowing and how to support researchers studying the unobservable. In her past research, her general research interests included social science theory building; concept explication; philosophy of knowledge; scale development and validation; metascience; and alternative forms of journalism. She enjoyed building frameworks, process models, and concepts in need of conceptual and empirical specification.\nMiller teaches ways of knowing; scale development and validation; mixed methods; graduate studies; survey research; content analysis; social science theory building; storytelling; and digital, multimedia, data, and digital journalism.\nBefore becoming a teacher-scholar, Miller is a veteran who served in the mechanic's platoon in the U.S. Army, raised crops and cattle on a 1,000-acre farm in South Dakota, and worked as a television news reporter and videographer. Miller, as a first-generation and diverse scholar, who approaches knowledge-making by writing narratives that seek to clearly explain concepts, logic, methodological steps, and solutions to help readers learn about the practice of science due to her struggles navigating academia.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Christina L. Myers",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Journalism",
+   "profile_url": "https://comartsci.msu.edu/our-people/christina-l-myers",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2026-03/Screenshot%202026-03-13%20at%208.22.36%E2%80%AFPM.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Black representation in news, music and sports",
+    "Implicit Bias",
+    "Critical Race Theory",
+    "Ideology",
+    "Racial and cultural stereotypes"
+   ],
+   "bio": "Dr. Christina L. Myers, originally from Columbia, South Carolina, is a three-time graduate of the University of South Carolina, where she earned a Bachelor of Science in Biological Sciences with a Minor in Chemistry, a Master of Mass Communication and a Doctor of Philosophy in Mass Communication. In August 2022, Dr. Myers joined Michigan State University as a tenure-track assistant professor in the School of Journalism.\nEmploying qualitative methods, Dr. Myers' research bridges concepts of Critical Race Theory and Mass Communication theory to offer fresh perspectives on the intersection of race and media – specifically examining depictions of Black experiences and the presence of implicit racial bias and racist ideologies in narrative creation in the areas of music, sports and news. Her dissertation, \"Power, Poison, Pain & Joy\": Implicit Racial Bias & Defining Blackness in Black Sports Commentary, Black Music and Black Storytelling, offers a Critical Race Conceptual Model of Implicit Racial Bias to representations of African Americans in mass media to illustrate how stereotypical depictions and racist ideologies arise in media content, including by Black content creators. Myers seeks to empower her community through scholarship by:\nConfronting the historical implications of systemic racism by exposing & dismantling societal mechanisms and practices that seek to oppress and silence African Americans and other marginalized groups;\nAmplifying the voices of those who have been systemically silenced in society by highlighting their authentic experiences;\nOffering an avenue for critical discourse on race to foster equitable practices and solutions as well as an equitable academic environment.\nDr.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Perry Parks",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Journalism",
+   "profile_url": "https://comartsci.msu.edu/our-people/perry-parks",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2018-08/Bio_OK_Mona_Lisa_Smile20171204_DLT3551_0.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=e-kfdiwAAAAJ&hl=en",
+   "research_areas": [
+    "News norms",
+    "News values",
+    "Public affairs journalism",
+    "Science journalism",
+    "Science communication",
+    "Interdisciplinary journalism",
+    "Health & Risk, Environment & Science Communication",
+    "Political Communication and Civic Engagement"
+   ],
+   "bio": "Perry Parks has argued that joy is a news value. He has theorized the role of poetry in journalism. He has advocated for re-centering the humanities in journalism research and practice. In general, Parks' research focuses on how taken-for-granted news norms and values unnecessarily limit how we think of news and what it can do for us. Parks applies historical, cultural, critical, and non-representational approaches to exploring these limits and generative alternatives, often through textual or discourse analysis. He is also interested in similar approaches to science journalism and science communication.\nParks is a long-time reporter, writer, editor, teacher and researcher of news and news values. He was an editor for both his high school and college newspapers before graduating from Northwestern University's Medill School of Journalism with bachelor's and master's degrees in journalism. He spent eight years reporting and editing for The Virginian-Pilot in Norfolk, Virginia. His first stint at Michigan State University was as professional editorial adviser to The State News, the independent student newspaper for MSU, and as an adjunct instructor of journalism. He then spent several years teaching reporting and editing classes at the University of Georgia and managing a dozen hyperlocal community news websites for Patch.com before returning to Michigan State to complete a doctoral degree in Media and Information Studies.\nParks' research has been published in such journals as Journalism & Mass Communication Quarterly; Journalism & Mass Communication Educator; Journalism; Journalism Studies; Journalism Practice; Media, Culture & Society;\nand Science Communication.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Swarnavel Eswaran Pillai",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Journalism",
+   "profile_url": "https://comartsci.msu.edu/our-people/swarnavel-eswaran-pillai",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2020-08/Swarnavel-Pillai.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Swarnavel Eswaran is a professor in the Department of English and the School of Journalism at Michigan State University. He is a graduate of the Film and Television Institute of India, the premier film school in Asia, and the prestigious film studies program at the University of Iowa. He is an accomplished filmmaker, and his recent documentaries include Tsunami: Waves from the Deep (2018), Hmong Memories at the Crossroad (2016), Migrations of Islam (2014), and Unfinished Journey: A City in Transition (2012). His research focuses on the history, theory, and production of documentaries, and the specificity of Tamil cinema, and its intricate relationship with Hollywood as well as popular Hindi films. His books include Manudamaum Mandiyiduthalum (Parisal, 2019), an anthology of essays on cinema in Tamil and Madras Studios: Narrative, Genre, and Ideology in Tamil Cinema (Sage Publications, 2015). His fiction feature Kattumaram (Catamaran, 2019), a collaboration with Tamil’s cinema’s leading director Mysskin, is currently on the film festival circuit.\n\nResearch and teaching: Recent Journal Articles “Dalit Life, Tamil Cinema and Masculinity: Interventions of Pa. Ranjith and Mari Selvaraj. Intersections: Gender and Sexuality in Asia and the Pacific, 50 (Dec. 2023).\n“Leena Manimekalai’s Is It Too Much to Ask? — Tenancy, Transphobia, and Tamil Society.” Jump Cut: A Review of Contemporary Media, 61 (Fall 2022), Ejumpcut.org. Accessed 23 Feb. 2023.\n“Maadathy - An Unfairy Tale: Caste, Space, and Gaze.” CASTE: A Global Journal on Social Exclusion, 3 (1) April 2022, pp. 163–180.\n\"Masaki Kobayashi's Kwaidan: History, Horror, and Culture.” Mise-en-scène: The Journal of Film & Visual Narration. 6 (2), 2021.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Bruno Takahashi",
+   "title": "Brandt Endowed Professor of Environmental Communication",
+   "rank": "Professor",
+   "department": "School of Journalism",
+   "profile_url": "https://comartsci.msu.edu/our-people/bruno-takahashi",
+   "personal_url": "https://www.drbrunotakahashi.com/",
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2026-09/headhsot%202026.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Environmental journalism",
+    "Environmental Communication",
+    "Environmental behaviors",
+    "Latin America"
+   ],
+   "bio": "Bruno Takahashi is the Brandt Endowed Professor of Environmental Communication at Michigan State University. He holds a joint appointment in the School of Journalism and AgBioResearch and serves as the Research Director of the Knight Center for Environmental Journalism. He earned his bachelor’s degree in communication from Universidad de Lima, Peru, and his M.S. and Ph.D. in Environmental Science from SUNY ESF, USA. His current research focuses on news coverage of environmental issues, environmental journalism practices in Latin America and U.S. Latino media, and identity in science communication. He is also affiliated with the Health and Risk Communication Center, the Environmental Science and Policy Program, and the Center for Latin American and Caribbean Studies at MSU.\nFor more information on Dr. Takahashi's work, visit his personal page.\nCurrent research projects:\n\" Intercultural Science Communication Research and Training to Broaden Participation Among Historically Minoritized Science Practitioners.\" Project funded by the National Science Foundation (2021-2025) and the MSU Jenison Fund (2026-2027).\nA case study of communication practices about PIACI in Peru Funded by the Climate and Land Use Alliance (2026-2027).\nEnvironmental communication and disinformation in Peru. Funded by the Climate and Land Use Alliance (2025-2026).\nSee a clip from CLACS describing this work.\nPast projects:\n\" Infrastructure collapse and its effects on news practices during Hurricane Maria in Puerto Rico.\" Project funded by the National Science Foundation (2018-2022).\nSee the documentary by Prof.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Tim P. Vos",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Journalism",
+   "profile_url": "https://comartsci.msu.edu/our-people/tim-p-vos",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2019-06/Vos-Tim-WEB-sm.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Political Communication and Civic Engagement",
+    "Policy and Governance"
+   ],
+   "bio": "Tim P. Vos is a Professor in the Michigan State University School of Journalism. Vos is an International Communication Association (ICA) Fellow and a past president of the Association for Education in Journalism and Mass Communication (AEJMC), the field’s leading research, teaching, and service organization. He is the former vice-chair of the AEJMC Standing Committee on Research and the former head of AEJMC’s History Division.\nVos earned his Doctorate in Mass Communication from the S.I. Newhouse School of Public Communication at Syracuse University (2005). He previously served on the Communication faculty at Seton Hall University and was an associate professor and chair of Journalism Studies at the University of Missouri School of Journalism. A native Iowan, Vos was a first-generation college student. He worked as a broadcast journalist for 12 years, during which time he wrote for local and national publications and interviewed most of the major party candidates for U.S. president.\n\nResearch and teaching: Vos's research examines the roles of journalism, media sociology and gatekeeping, media history, and media policy. His work also explores how change has happened in print, broadcast, and digital news, public relations, and advertising.\nVos is co-author, co-editor, or editor of four books and the International Communication Association's (ICA) International Encyclopedia of Journalism Studies. He is the book series editor of Journalism in Perspective from the University of Missouri Press. Vos has won the Best American Journalism Article award, the Laurence R. Campbell Faculty Research Award, the James E. Murphy Top Faculty Paper Award, the Leslie J. Moeller Award, the Kappa Tau Alpha research award; and several top-three faculty paper awards from AEJMC and ICA.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Geri Alumit Zeldes",
+   "title": "Professor + Associate Dean of Faculty & Academic Staff",
+   "rank": "Professor",
+   "department": "School of Journalism",
+   "profile_url": "https://comartsci.msu.edu/our-people/geri-alumit-zeldes",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2017-05/zeldes-geri.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Documentary filmmaking and news coverage of race, ethnicity and religion",
+    "Global and Multicultural Communication",
+    "Political Communication and Civic Engagement"
+   ],
+   "bio": "Geri Alumit Zeldes, Ph.D. is a tenured Professor in\nMSU’s School of Journalism and Associate Dean of Faculty and Academic Staff Affairs (FASA).\n\"Tenured\" is bolded as it was a rigorous, longggg process, y'all!\n'Oft is the case that after receiving tenure, faculty take on heavier service and leadership roles. That, too, was the journey. From 2014-2017, Zeldes served as the\nJ-School's Graduate Studies Director, 2017-2022 the College of ComArtSci’s Faculty Excellence Advocate, and Jan. 2024-Dec. 2025 Interim Associate Dean of FASA and Graduate Studies.\nIn 2022, Zeldes received an\nMSU William J. Beal Outstanding Faculty Award, only given to 10 or fewer faculty each year for awesome-ness demonstrated in teaching, advising, research, publications, art exhibitions, committee work, public service, continuing education... The work grows out of service to Communities and Students.\nIndebted to MSU, Zeldes feels like she grew up at the university, spending more than half her life on campus as a doctoral student, fixed-term and then tenure-stream faculty. She is grateful that her gig allows her to perpetually and doggedly tell stories at the margins, made possible by a team of students who are super in every way. Together, they create something new and therefore, newsworthy.\nZeldes doubles as an academic and practitioner. She has a dozen best paper awards from international communication associations and 100+ honors and screenings for her documentary films and other creative scholarship. Check out the list to your right!:) She was also invited to speak at two Tedx events and featured for her social justice scholarship on\nMSU’s “Spartans Will” campaign.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Fashina Aladé",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/fashina-alade",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2024-08/Spring%202021%20for%20web_0.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Children and Media",
+    "Educational Technology",
+    "Cognitive Development",
+    "Comprehension Models"
+   ],
+   "bio": "Fashina (Shina) Aladé is an Associate Professor of Advertising & Public Relations, and also holds a courtesy appointment in the Department of Human Development and Family Studies. Her work lies at the intersection of media effects, developmental psychology, and early childhood education, with a focus on young children’s comprehension of and learning from educational media. Her research has won top paper awards from the International Communication Association and the Association for Education in Journalism and Mass Communication and has been published in journals such as Media Psychology, Computers & Education, and the Journal of Children and Media. Dr. Aladé earned her PhD at Northwestern University in Media, Technology, & Society, where she conducted research with the Center on Media and Human Development. She also holds an MA from Ohio State University and a BA from the University of Pennsylvania, both in Communication.\nDr. Aladé is passionate about elucidating the ways that media and technology can be used to positively impact the lives of children and families. As a community-engaged scholar, much of her research is conducted in partnership with community organizations like GBH Kids and Detroit Public Television on projects such as evaluating children’s television programs and online games as well as family outreach programs. She often engages in outreach activities, such as professional development workshops for educators and creating tip sheets for children's television producers, to make sure that her research reaches the people who need it most: parents, educators, and children's media creators.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Saleem E. Alhabash",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/saleem-e-alhabash",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2023-10/Alhabash_headshotComArtSci%20copy_0.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media psychology",
+    "Digital marketing",
+    "Social media",
+    "Persuasion",
+    "Alcohol Marketing and Advertising",
+    "Digital Aggression (Cyberbullying)",
+    "Stereotypes & Attitude Change",
+    "Global and Multicultural Communication",
+    "Health & Risk, Environment & Science Communication",
+    "Media Psychology"
+   ],
+   "bio": "Saleem Alhabash is Professor of Advertising and Public Relations at Michigan State University's Department of Advertising and Public Relations, where he also co-directs the Media and Advertising Psychology (MAP) Lab. His research focuses on the processes and effects of new and social media within the context of persuasion. More specifically, his research investigates the cognitive and emotional responses, and psychological effects associated with using new and social media. His research is geared toward understanding how new communication technologies can be used as persuasive tools, most recently in relation to marketing of alcohol, digital aggression across the lifespan, and consumer behavior of buying counterfeits online. He also studies how new and social media can facilitate cross-cultural and international communication, with emphasis on changing attitudes and stereotypes of foreign nations. In 2023, he joined the Center for Anti-Counterfeiting and Product Protection (A-CAPP) as Associate Director of Research. In 2014, he was named the inaugural recipient of the American Academy of Advertising's Mary Alice Shaver Promising Professor Award, and he was named an Institute for Diverse Leadership Fellow at the Association for Education in Journalism and Mass Communication (AEJMC). His research won best article, top paper, and top poster awards at national and international conferences. He's an associate editor for the Journal of Interactive Advertising and Frontiers in Psychology (Media Psychology) and Frontiers in Psychology - Media Psychology. Saleem received his Ph.D. from the University of Missouri School of Journalism. Pre-academia, he worked in a youth nonprofit organization focusing on media and well-being.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "John C. Besley",
+   "title": "Ellis N. Brandt Professor of Public Relations",
+   "rank": "Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/john-c-besley",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2021-08/2021%20Head%20-%20Small%20and%20Square.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Health & Risk, Environment & Science Communication",
+    "Political Communication and Civic Engagement"
+   ],
+   "bio": "Dr. Besley is a science communication and risk communication scholar who studies public views about science and scientists' views about communication. He also regularly consults with scientists and scientific organizations on communication strategy. His goal is to help science communicators make evidence-based, ethical, and strategic communication choices.\nPart of this work is aimed at understanding how peoples' views about decision-makers and decision processes (i.e., trustworthiness and fairness beliefs) affect their overall trust in the products of science and technology (S&T). He is especially interested in topics with potential health or environmental impacts. Another element of his research focuses on understanding how scientists and science communicators think about communication and the infrastructure available to support communication by the scientific community.\nAmong other topic's, Dr. Besley's research has touched on public perceptions of agricultural biotechnology (i.e., genetic engineering), energy technologies (i.e., nuclear energy, hydrogen fuel cells), and nanotechnology. He has also conducted research into journalistic norms related to coverage of public engagement and research to better understand the impact of science communication training and other forms of support. This work has seen him and his colleagues survey more than 10,000 scientists and interview more than 250 scientists and other communicators across a range of scientific fields.\nDr. Besley is a co-author for the books Strategic Science Communication (JHU, 2022) and Science Communication for Scientists (Routledge, 2025). He has also published more than 125 peer-reviewed journal articles and book chapters.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Matea Čaluk",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/matea-caluk",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2026-09/headshot_280x280_0.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Matea Čaluk (she/her) is a faculty member in the Department of Advertising and Public Relations in the College of Communication Arts & Sciences at Michigan State University. Dr. Čaluk brings more than 16 years of scholar-practitioner experience across higher education and student affairs. Her professional background spans strategic communications, brand management, social media strategy, graphic design, storytelling, event planning, and organizational communication.\nHer teaching and professional practice explore how communication can shape experiences, build connection, and drive meaningful change. Her research interests focus on executive leadership decision-making, particularly how leaders navigate complex decisions during times of crisis and uncertainty, and the impacts of identity on decision-making.\nDr. Čaluk has received numerous professional and community recognitions, including the Inclusive Excellence Award from Michigan State University's Office for Inclusive Excellence and Impact, and the Pinnacle Award for Crisis Communication from the Public Relations Society of America, Central Michigan as part of a collaborative team effort. She was featured in Lansing City Pulse Magazine's People Issue 2024, and is a recipient of the Lansing Regional Chamber of Commerce's 10 Over the Next Ten Award.\nIn 2018, Dr. Čaluk was recognized as a Community Champion by Choose Lansing!\nDr. Čaluk earned a Bachelor of Arts in Public Relations and Advertising with a minor in International Business from Grand Valley State University, as well as a Master of Education in College Student Affairs Leadership from Grand Valley State University. She earned her Doctor of Educational Leadership degree from Michigan State University.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Luke Capizzo",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/luke-capizzo",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2024-09/Capizzo-Headshot-Square-280_0.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Luke Capizzo (Ph.D., APR) is an associate professor of public relations in the Department of Advertising + PR (College of Communication Arts & Sciences) at Michigan State University. Having earned his M.A. and Ph.D. at the University of Maryland, he joined MSU in fall 2024 after five years on the tenure track—two years at the University of Missouri and three at James Madison University. A PR researcher, educator, and practitioner, his scholarly interests include (1) public relations and social issues management; (2) applied social impact—activism, DEI, dialogue, organizational listening, and sustainability/environmental justice; and (3) public relations pedagogy, profession, and research review scholarship. Broadly, his research examines the potential societal contributions of organizations through the public relations function. His peer-reviewed research has been published in multiple journals including the Journal of Public Relations Research, Public Relations Review, Public Relations Inquiry, International Journal of Strategic Communication, Corporate Communications: An International Journal, Journal of Marketing Communications, and Journal of Public Relations Education. He serves on multiple editorial boards including JPRR, PR Review, and IJSC. His research has been funded as an Arthur W. Page Legacy Scholar (2020, 2022, 2023). He also has a book under contract with Routledge examining public relations and social impact.\nPrior to earning his Ph.D., Capizzo practiced public relations at agencies and for statewide organizations in Michigan, with a focus on media relations, branding, and internal communication in the commercial real estate, financial services, manufacturing, retail, and technology industries. Dr.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Chuqing Dong",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/chuqing-dong",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2022-12/721671460142_.pic_hd%20copy_0.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=p4DRdNAAAAAJ&hl=en&oi=ao",
+   "research_areas": [
+    "CSR",
+    "ESG",
+    "Cross-sectoral collaboration",
+    "PR ethics",
+    "Nonprofit communication",
+    "Government communication",
+    "AI in public relations"
+   ],
+   "bio": "Chuqing Dong is an Associate Professor of Advertising + Public Relations. Her research focuses on corporate social responsibility (CSR), ESG (Environment, Social, Governance), government communication, and public relations practices in the AI era. Drawing on interdisciplinary theories and using a multimethod approach, her research agenda is shaped by inquiries such as 1) the effects and effectiveness of CSR/ESG communications in the digital media environment, enabled by AI, and within a global context; 2) strategic CSR alliances between NPOs and corporations and their impacts on the allies, publics, and the society; and 3) ethical and caring PR for organizations in both private and public sectors.\nDr. Dong's has produced more than 40 articles published in peer-reviewed journals and books, including Public Relations Review (PRR), Journal of Public Relations Research (JPRR), Journal of Business Ethics, International Journal of Business Communication, and Corporate Social Responsibility and Environmental Management. Dr. Dong's work has been recognized by multiple top paper awards at national and international conferences, such as the International Communication Association (ICA), Association for Education in Journalism and Mass Communication (AEJMC), National Communication Association (NCA), and the International Public Relations Research Conference (IPRRC). Additionally, Dr. Dong is a member of the editorial boards for leading journals in the fields of public relations and organizational communication, including\nPRR,\nJPRR, and Management Communication Quarterly.\nDr. Dong's research projects have been funded by multiple internal and external grants, such as the C.R.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kelly Gaggin",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/kelly-gaggin",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2024-10/HeadshotKellyGaggin%20MSU.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Kelly C. Gaggin, Ph.D., APR, Fellow PRSA is Interim Director of the M.A. in Strategic Communications program and an Assistant Professor in the Department of Advertising + Public Relations Gaggin has more than two decades of experience in corporate and agency environments encompassing a multitude of industries including: education, health care, technology, defense, nonprofit, tourism/hospitality and financial services/banking.\nHer professional background and personal interest in world cultures motivate a research agenda rooted in exploring public relations and strategic communications as drivers of cross-cultural understanding and relationship-building with special attention to nonprofit organizations and the populations they serve.\nShe is a member of the Public Relations Society of America’s prestigious College of Fellows and has earned her Accreditation in Public Relations (APR) credential. She is a member of PRSA’s national Diversity & Inclusion committee and a past-chair of the PRSA Northeast District.\nGaggin was recognized with 40 Under Forty distinction for her career accomplishments and commitment to her community. She continues to serve her community through support of outreach initiatives and board memberships as well as lectures and programs sharing her expertise with community organizations.\nShe earned a Ph.D. in mass communications and an M.S. in communications management from Syracuse University, and completed her undergraduate study in business administration, marketing and economics at Le Moyne College in Syracuse, NY.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Dan Hiaeshutter-Rice",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/dan-hiaeshutter-rice",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2026-08/dhr.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dan Hiaeshutter-Rice is an Associate Professor in the Department of Advertising + Public Relations, where he studies how communication technologies shape the political, health, and environmental information people encounter. He directs the ASPECT Lab and the Advertising Analytics program.\nHe received his PhD from the University of Michigan's Department of Communication and Media, where he was affiliated with the Center for Political Studies at the Institute for Social Research. He also holds a Master of Public Policy from the Gerald R. Ford School of Public Policy, and he is a Michigan State University alum.\nPersonal website:\nhttps://www.dhrice.org/\n\nResearch and teaching: Dr. Hiaeshutter-Rice directs the ASPECT Lab (Affordances, Social Identity, Political Communication, E-Health, Communication Technologies), where his research examines how communication technologies shape the production, distribution, and reception of information. Much of this work develops the Identity Driven Information Ecosystem (IDIE) framework, which describes how political, cultural, and group identities shape both the information environments people occupy and how they interpret what they find there.\nWorking primarily in the United States political context, he uses large-scale data collection and computational methods, alongside surveys and experiments, to build typologies of communication platforms and to trace how algorithms and user behavior produce systematic biases in what people see. Related projects extend these questions beyond conventional politics.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Bree E. Holtz",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/bree-e-holtz",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2022-04/Bree-Holtz.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Health & Risk, Environment & Science Communication",
+    "Human Centered Technology Design"
+   ],
+   "bio": "Dr. Holtz is a professor in the Department of Advertising & Public Relations and the Director of the Ethics Institute at Michigan State University. She is also an American Telemedicine Association College Fellow and a 2022 Brandt Fellow.\nDr. Holtz's research explores the adoption, perceptions, and outcomes of telemedicine, mobile health applications (mHealth), consumer-grade health sensors (e.g., Fitbit, Apple Watch), electronic medical records, artificial intelligence (AI), and social media in health communication. Her work sits at the intersection of health communication, information communication technologies (ICT), and strategic communication for health behavior change. She has a particular interest in the adoption and integration of consumer health technology, telehealth services, and AI in healthcare settings, with the ultimate goal of improving health outcomes and individuals' quality of life.\nShe has built a successful record of mixed methods research around this mission. This record includes 40 peer-reviewed articles, five book chapters, and numerous presentations (both conference and invited). I have also submitted proposals for internal, foundation, and federal funding and demonstrated success with more than $2 million in research awards, as either the PI or a Co-I.\nAs part of this work, Dr. Holtz founded and led a statewide Telemedicine Think Tank, bringing together experts from across Michigan to explore barriers, opportunities, and future directions for telehealth. This initiative led to a special issue of the Journal of Telemedicine and eHealth, featuring white papers co-authored by stakeholders across academia, healthcare, and policy.\nDr.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Patricia T. Huddleston",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/patricia-t-huddleston",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2017-05/huddleston-pat.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Patricia Huddleston is a Professor of Retailing in the Department of Advertising + Public Relations and is Director of the Information and Media Studies PhD program. She teaches an undergraduate course in Retail Strategy and a graduate course in Strategic Brand Communication. Her early research focused on the evolution of retail systems and consumer behavior in transition economies such as Russia and Poland. She has co-authored a book, Consumer Behavior: Women and Shopping with Dr. Stella Minahan, Professor Emeritus, Deakin University and a book chapter on Retailing in Australia in International Retailing.\nHer current research focuses on the use of eye-tracking technology to evaluate consumer information processing of point of purchase retail display elements (e.g. signage, price) and how these elements motivate purchase intention. This research has been funded by\nU.S. Department of Agriculture (USDA) Federal-State Marketing Improvement Program (FSMIP) and Horticulture Research Institute. This work has been published in publications such as the International Review of Retail, Distribution and Consumer Research, Journal of Product and Brand Management, PLOS One and HortScience.\nShe is an Affiliated Faculty member with the Center for Anti-Counterfeiting and Product Protection (A-CAPP) at Michigan State University. In July 2020, she was a panelist for the ACAPP Center’s “Brand New World” virtual summit, speaking on the topic of “E-Commerce and Counterfeits: Evolving Consumer Behavior”. In December 2020, collaborated with Dr. Saleem Alhabash and Dr. Anastasia Kononova on “A Social-Media Toolkit for Brand Protection at the ACAPP Center’s Executive Education Seminar.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Anastasia Kononova",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/anastasia-kononova",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2017-05/kononova-anastasia.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Anastasia Kononova is an associate professor of advertising at MSU.\nMedia multitasking is an overarching focus of Kononova's interdisciplinary and international research that lies in the intersection of three areas: media and technology use across different cultures and social groups; psychological responses to media devices and persuasive messages; and advertising and digital literacy. Kononova's primary research interest is related to exploring media multitasking behavior, i.e. using/being exposed to multiple media at the same time. Studying media multitasking patterns reflects idiosyncrasies and commonalities of media use across markets. Such knowledge helps enhance international communication, especially with regard to using multiple platforms to convey messages effectively. Kononova has studied media multitasking not only in a cross-cultural setting but also across the lifespan, focusing on media use behaviors of older adults.\nA large body of Kononova's media multitasking research is devoted to exploring the effects of this behavior on cognition, emotion, rationalization, and resistance to persuasion. Kononova has found that switching between online tasks and using multiple screen devices at the same time negatively affect memory for mediated content, elicit less skeptical responses to persuasive messages (e.g., health and advertising messages), and hinder rational choices (e.g., choice of healthful snacks). In a related area of research, Kononova has explored how individuals cognitively and affectively respond to advertising messages placed in congruent and incongruent online contexts.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Hairong Li",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/hairong-li",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2019-12/li-profile.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Computational Communication",
+    "Global and Multicultural Communication",
+    "Media Innovation, Design and Entrepreneurship"
+   ],
+   "bio": "Hairong Li is a professor of advertising, a faculty associate at the Center for Business and Social Analytics, and an affiliated faculty member of the Asian Studies Center at Michigan State University.\nHis research covers the uses, effects, and implications of digital technology in advertising, communication, and marketing. He has published extensively; seven citation studies rank him among the most-published and most-cited scholars. In 2022, he received the Ivan Preston Award for Outstanding Contribution to Research, the highest honor from the American Academy of Advertising (AAA). His articles have appeared in leading journals, including the Journal of Advertising, Journal of Advertising Research, International Journal of Advertising, Journalism and Mass Communication Quarterly, New Media and Society, Journal of Computer-Mediated Communication, Journal of Consumer Psychology, Psychology and Marketing, Journal of Interactive Marketing, Journal of International Business Studies, and Journal of the Academy of Marketing Science. His articles and citations are available on Google Scholar (https://bit.ly/hairong).\nDr. Li is a founding editor of the Journal of Interactive Advertising and serves on the editorial boards of three major academic journals in the US and Europe. He served as guest editor for special issues of the Journal of Advertising on AI and advertising in 2019, big data in 2017, and advertising media audiences in 2006.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Mengyan Ma",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/mengyan-ma",
+   "personal_url": "http://www.mengyanma.com/",
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2025-06/ma021s.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Health Communication",
+    "Family Communication",
+    "Social Media and Influencer Marketing",
+    "Artificial Intelligence",
+    "Cannabis Products",
+    "Eating Behaviors",
+    "Psychological Well-being",
+    "Community-engaged Research"
+   ],
+   "bio": "TEACHING EXPERIENCE Dr. Mengyan Ma is an Assistant Professor in the Department of Advertising and Public Relations, with a 4:3 teaching load. Before rejoining Michigan State University (MSU), she served as a tenure-track Assistant Professor in the Department of Communication and Journalism at the University of Wisconsin-Eau Claire (UWEC). Since 2015, Mengyan has taught undergraduate courses across various formats, including in-person, synchronous, and asynchronous modalities. Her previous courses include Social Media and Communication, Advertising Message Strategy, Research Methods, Writing for Integrated Strategic Communication, Media Law and Ethics, Media Planning, Digital Analytics, and Account Planning and Research.\nRESEARCH EXPERIENCE Her research explores the intersection of health communication, influencer marketing, family communication, and emerging media. Across these contexts, she investigates how individual beliefs (attitudes, social norms, and self-efficacy) as well as perceived social support, source perceptions, and motivations for media use shape health behaviors and well-being. She also examines how emerging technologies, such as artificial intelligence (AI), influence health attitudes, behaviors, and well-being, and how these technologies can be leveraged to enhance health communication and promote positive health outcomes. Using mixed-methods approaches, her work examines these processes at both the individual and community levels, with particular attention to youth, families, college students, and other vulnerable populations navigating rapidly evolving media and technology environments.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Anna R McAlister",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/anna-r-mcalister",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2025-10/Untitled%20design_0.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Anna McAlister is an Assistant Professor in the Department of Advertising + Public Relations. She joined MSU in 2012.\nAnna’s research area is consumer behavior. Having earned a Ph.D. in developmental psychology, her special interest is the application of theories of developmental psychology to the study of children’s consumer behavior. Her work is largely policy-oriented, with an interest in children’s knowledge of food brands, their responses to food advertising, and their resulting formation of food preferences.\nShe is Deputy Editor for Journal of Marketing Communications and serves on the Editorial Review Boards of Journal of Advertising, Journal of Interactive Advertising, and Journal of Advertising Education.\nAnna has 20 years’ experience teaching undergraduate and graduate students. She has won various teaching and research awards, including the 2015 MSU Teacher-Scholar Award.\nTeaching\nADV330: Advertising Management Strategy\nADV342: Account Planning & Research\nADV350: Advertising Media Planning & Strategy\nADV375: Consumer Behavior\nADV475: Advertising & Society\nCAS828: Persuasion Techniques for Working Professionals\nCAS829: Evaluation Techniques for Working Professionals Recent Publications Richards, J.I., Huddleston, P., Kononova, A., Mundel, J., McAlister, A.R., & Alhabash, S. (2025). \"Made in USA\" deception, what's your perception?\nJournal of Law, Business, and Ethics, 31 (1), 29-52.\nHuddleston, P., McAlister, A.R., & Aladé, F. (2025). Through a child’s eyes: Eye tracking to study children’s consumer behavior.\nJournal of Consumer Marketing.\nhttps://doi.org/10.1108/JCM-11-2023-6396 McAlister, A.R., Richards, J.I., & Torrance, A.T. (2024). Certified Ethical Advertising Executive: An online tool for teaching advertising ethics.\nJournal of Advertising Education.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Susan McFarlane-Alvarez",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/susan-mcfarlane-alvarez",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2025-12/Suzy-280x280.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Advertising and identity",
+    "Moving image representations",
+    "Advertising",
+    "public relations, and sustainability",
+    "Strategic communication",
+    "access, and inclusion"
+   ],
+   "bio": "Susan McFarlane-Alvarez, Ph.D. is a Professor in the Department of Advertising and Public Relations at Michigan State University. Her research examines the intersections of identity, images, and corporate expression, exploring how historical, cultural, and ideological forces shape representations in advertising and strategic communication. Her scholarship has appeared in journals including the Journal of Advertising Education, Advertising & Society Review, Howard Journal of Communication, and the Journal of Community Engagement and Scholarship. Her recent work focuses on the interrelatedness of inclusion and sustainability during times of (poly)crisis. With more than three decades of higher education experience, her pedagogical approach connects academic inquiry, professional practice, and community engagement. She also serves as Director of the faculty consortium, Communication Solutions for a Diverse Society, and directs Michigan State University's Public Relations in the United Kingdom study abroad program, where students spend five weeks in London and Edinburgh exploring sustainability and purpose-focused strategic communication in a global context.\nAlongside her academic career, McFarlane-Alvarez has worked as a writer, creative director, and strategic communication consultant across North and South America. Her professional experience spans industries including finance, healthcare, manufacturing, tourism, and leadership development. She has partnered with globally recognized organizations that help businesses and executives cultivate more holistic, purpose-driven approaches to leadership and organizational effectiveness.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Dar Meshi",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/dar-meshi",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2017-08/DarMeshi2e.png",
+   "google_scholar_url": "https://scholar.google.com/citations?user=ZDiftAQAAAAJ&hl=en",
+   "research_areas": [
+    "Psychology of Technology Use",
+    "Social Media Use",
+    "Web3 and Blockchain Use",
+    "Behavioral Addictive Disorders",
+    "Decision-Making",
+    "Social & Cognitive Neuroscience",
+    "Computational Communication",
+    "Media Psychology",
+    "Neurocognitive Communication"
+   ],
+   "bio": "Dar Meshi investigates the psychology of technology use. His research program is organized into two lines of inquiry, one focusing on social media use, the other focusing on the use of the new internet created by blockchains (web3).\nIn the first line, Dar investigates both general social media use, and the maladaptive, problematic use of social media. Social media platforms are a relatively new phenomenon, but they tap into social cognitive processes that have been hardwired into our brains over years of evolution. For example, humans are drawn to positive, rewarding social information, such as “likes” on social media. These social rewards act as reinforcers, bringing people back to social media sites repeatedly and for significant durations of time. Importantly, some individuals use social media so much that they experience an impairment in daily functioning and psychological distress, similar to substance use and other behavioral addictive disorders. Dar's research program focuses on the brain and behavior of both adults and adolescents to better understand this problematic social media use.\nIn Dar's second line of research, he investigates the use of onchain internet applications made possible with blockchains (web3). Public blockchains are shared, append-only digital ledgers maintained by decentralized, geographically dispersed networks of computers. These blockchains can be considered public goods, and they provide two important, emergent services: 1. They allow individuals to own, trade, and transfer digital assets (cryptoassets) on the internet, and 2. They allow individuals, companies, and governments to create applications that run on these blockchain platforms.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Maria D. Molina",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/maria-d-molina",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2020-11/Molina%2C%20Maria%203.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Sharing Online",
+    "Human-Computer Interaction",
+    "Human-AI Interaction",
+    "Digital Health",
+    "Fake News",
+    "Health & Risk, Environment & Science Communication",
+    "Human Centered Technology Design",
+    "Media Psychology"
+   ],
+   "bio": "Maria D. Molina is an Associate Professor in the Department of Advertising & Public Relations. She received her PhD in Mass Communications from The Pennsylvania State University.\nHer research examines online persuasion in the contexts of digital health, misinformation, and online privacy. Broadly, her work focuses on the role of technological affordances in shaping user attitudes and behaviors. Specifically, her research centers on: (1) how technological affordances motivate socially beneficial behaviors such as learning and engaging in physical activity; (2) how platform and design features facilitate the sharing of negative or harmful content; and (3) how users respond to AI-driven tools that act as sources of communication, such as systems that filter user-generated content or generate content on users’ behalf.\nDr. Molina’s current research is supported by a National Science Foundation CAREER grant examining how the affordances of Generative AI (GenAI) chatbots shape users’ privacy decision-making and how AI systems can be designed using privacy-by-design principles.\nHer research has been published in leading human–computer interaction venues, including\nCHI (CHI conference on Human Factors in Computing Systems), as well as top mass communication journals such as New Media & Society and Journal of Computer-Mediated Communication.\n\nResearch and teaching: Sharing Online Human-Computer Interaction Human-AI Interaction Digital Health Fake News Health & Risk, Environment & Science Communication Human Centered Technology Design Media Psychology Research Centers and Labs Health and Risk Communication Center Maria's Lab Group",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Juan Mundel",
+   "title": "Associate Dean and Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/juan-mundel",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2025-09/Screenshot%202025-09-23%20at%206.40.14%E2%80%AFPM.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Juan Mundel, Ph.D., Associate Dean for Graduate Studies and Associate Professor of Advertising at Michigan State University, focuses on reactions to and influences of marketing and social media advertising, particularly for underserved or at-risk populations.\nHis work has been published in peer-reviewed journals, including the Journal of Advertising, Journal of Retailing and Consumer Services, and the Journal of Product and Brand Management.\nMarketing Influence and Social Media Research Mundel's research has documented several adverse outcomes related to marketing exposure, including anxiety, social media addiction, impulsive consumption, and intentions to purchase risky products such as alcohol, e-cigarettes, and unhealthy foods.\nAcademic Background and Career:\nEducation:\nDr. Mundel earned his Ph.D. in Media and Information Studies from Michigan State University, a Master's in Journalism and World Languages from West Virginia University, and a Bachelor's degree from Blas Pascal University in Argentina.\nPrevious Positions:\nBefore joining Michigan State University, he was an Associate Professor and Director of Global Initiatives at Arizona State University's Walter Cronkite School of Journalism and Mass Communication. He also served as an Assistant Professor of Public Relations and Advertising at DePaul University in Chicago, where he directed the Latino Media and Communication Program.\nGlobal Initiatives and Leadership:\nWith over 13 years of experience in global engagement and internationalization, Dr. Mundel has developed and led numerous study-abroad programs across Europe and Latin America. At Arizona State University, he directed the Hubert H.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Hannah Overbye-Thompson",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/hannah-overbye-thompson",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2026-09/Overbye_headshot.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=3iPR9JUAAAAJ&hl=en",
+   "research_areas": [],
+   "bio": "Hannah Overbye-Thompson (Ph.D., University of California, Santa Barbara) is an Assistant Professor in the Department of Advertising and Public Relations in the College of Communication Arts and Sciences at Michigan State University.\nHannah studies how people detect the limitations of, and bias in, AI and algorithmic systems, how people adapt their technology use in response to these biases, and what these adaptation patterns mean for building more effective sociotechnical systems.\nMore broadly, Hannah is interested in decision-making and technology.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Nancy Rhodes",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/nancy-rhodes",
+   "personal_url": "https://www.scamp-lab.com",
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2017-05/rhodes-nancy.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Nancy Rhodes is a media psychologist and health communication scholar whose research interests are broadly focused on persuasion and social influence. Her work has focused on how people process persuasive messages and on how the real and imagined presence of others affects message processing. She is currently researching social norms, specifically the influence of social norms on health and risk behaviors such as cigarette smoking, drinking, and risky driving. Her ongoing work is examining the cognitive processes through which norms affect message processing. This work is focused on how normative influences contribute to substance use, and on how norms might contribute to resistance toward health-related messages. Dr. Rhodes was trained as a Social Psychologist at Texas A&M, earning her Ph.D. in 1991. She worked in pharmaceutical marketing research and other applied contexts for a number of years before returning to academia full time. She held faculty positions at IUPUI and Ohio State University prior to joining the College of Communication Arts and Sciences in 2016. Her work has appeared in journals such as Communication Research, Communication Monographs and Media Psychology, as well as in specialty health and safety journals. She is currently an associate editor of the journal Psychology of Popular Media.\n\nResearch and teaching: Research Centers and Labs Social Cognition and Media Psychology (SCAMP) Lab Health and Risk Communication Center",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Edward Timke",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/edward-timke",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2025-05/Ed_Muppet_280x280.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Disability and accessibility in advertising representations and the advertising workplace",
+    "Disability innovation and entrepreneurship in communication",
+    "advertising, and design",
+    "International and intercultural dimensions of advertising",
+    "Cultural history of advertising and its role in shaping social change",
+    "Material culture of advertising",
+    "Public and applied scholarship in advertising",
+    "communication, and entrepreneurship",
+    "Industry- and community-engaged research",
+    "Qualitative research methods: ethnography",
+    "oral history",
+    "focus groups",
+    "textual and visual analysis"
+   ],
+   "bio": "Edward (Ed) Timke is a public cultural historian of advertising and its place in society and culture. His scholarship focuses on preserving and sharing histories of advertising within and beyond the United States, with a significant focus on disability and accessibility. He also studies disability innovation and entrepreneurship, specializing in how communication and design practices in advertising, marketing, and media advance accessibility and inclusion for people of all abilities.\nHis research takes a comparative, intercultural perspective to examine how entrepreneurs, designers, and organizations in North America and Europe develop inclusive solutions that shape public understanding and drive social change. Pulling from his experience as a public cultural historian, he uses qualitative methods such as oral histories, interviews, ethnographic observations, and archival research to document and share work at the intersection of disability, technology, and the creative industries. His work is engaged with communities and industry and aims to bridge academic research with practical impact.\nBefore coming to Michigan State University, Dr. Timke held positions at the Michigan Virtual Learning Research Institute, Duke University (Cultural Anthropology and Innovation & Entrepreneurship), American University (School of International Service), and the University of California, Berkeley (Media Studies). Since 2016, he has been an editor (currently Co-Editor) of Advertising & Society Quarterly, an academic journal focused on advertising’s relationship to society, culture, history, and the economy.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Aileen Torrance",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/aileen-torrance",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2025-10/Untitled%20design%20%281%29.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "department profile has no bio, research text, or links; no bio section on department profile"
+  },
+  {
+   "name": "Mariah Wellman",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/mariah-l-wellman",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2024-09/Screenshot%202024-09-05%20at%2010.22.23%E2%80%AFAM_0.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Mariah L Wellman is an Assistant Professor in the Department of Advertising and Public Relations. She is an expert on social media influencers, wellness rhetoric, and the growth of the wellness industry. Dr. Wellman is particularly interested in how popular users within digital wellness communities build authority with audiences. She has ongoing projects exploring the intersections of wellness and politics, explicating the increased popularity of LDS women influencers, and defining novel ways the wellness industry is repackaging diet culture trends to attract new consumers.\nDr. Wellman is also interested in health communication, specifically the role of social media in the relationship between patients and their healthcare providers. Dr. Wellman’s work studying the online activity of women with the BRCA genetic mutation has been funded by the National Institutes of Health through the Utah Center for Excellence in ELSI (Ethical, Legal, & Social Implications) research.\nHer work has been published in New Media & Society, Social Media & Society, Health Communication, Feminist Media Studies, Journal of Media Ethics, and Rhetoric of Health & Medicine.\nBefore joining Michigan State University, Dr. Wellman received her Ph.D. in Communication from the University of Utah and her M.A. in Journalism from the University of Iowa.\n\nRecent Publications: Wellman, M.L. & Germic, E. (2024). The Ranch Malibu: Operationalizing wellness tourism on TikTok.\nSocial Media & Society.\nWellman, M.L., Holton, A.E., & Kaphingst, K.A. (2023). \"Where do I go, who do I go to?\": BRCA previvors, genetic counselors, and family planning.\nPEC Innovation.\nWellman, M.L. (2023).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Maral Zakharia",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Advertising + Public Relations",
+   "profile_url": "https://comartsci.msu.edu/our-people/maral-zakharia",
+   "personal_url": "https://maralminassian.com/",
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2024-08/Maral.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "department profile has no bio or research text; personal site (maralminassian.com) is a creative portfolio without a bio; no bio section on department profile"
+  },
+  {
+   "name": "Young Anna Argyris",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/young-anna-argyris",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2019-02/annayoung.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=MXFCGM0AAAAJ&hl=en",
+   "research_areas": [
+    "Media Innovation, Design and Entrepreneurship",
+    "Health & Risk, Environment & Science Communication",
+    "Human Centered Technology Design"
+   ],
+   "bio": "Young Anna Argyris is an Associate Professor in the Department of Media and Information at Michigan State University. She has received a Ph.D. in Management Information Systems from the Sauder School of Business, University of British Columbia, Canada.\nPrevious Experience Before joining MSU, she was an assistant professor at the Gabelli School of Business, Fordham University, and a visiting scholar at Carroll School of Management, Boston College.\nResearch Areas Dr. Argyris’s research centers on the design, development, and use of Information Technology to aid users’ decision-making and create social influence. Her application areas center on health misinformation and social media influencers. With her collaborators in Computer Science, Dr. Argyris has developed deep learning models for classifying vaccine misinformation propagated on social media that hampers Human-papilloma virus vaccine uptakes among US teens. In addition, Dr. Argyris has applied deep learning models to identify how “visual congruence” (the similarity portrayed in visual elements of social media posts between message sources and recipients) can augment the sources’ influences on the receivers. From these studies, Dr. Argyris has proposed a new concept, visual congruence-induced social influence, which she uses to create influential social media campaigns to counteract health misinformation.\nAcademic Contributions Her previous work has appeared in\nMIS Quarterly, Information Systems Research, Communication of the ACM,\nACM Transactions on Computer-Human Interaction, Journal of Information Technology, and International Journal of Electronic Commerce, among others.\nSocial Contributions She is an active contributor to the Information Systems community.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Johannes M. Bauer",
+   "title": "Quello Chair in Media and Information Policy",
+   "rank": "Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/johannes-m-bauer",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2023-08/johannes-bauer-square-1_0.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Innovation, Design and Entrepreneurship",
+    "Policy and Governance"
+   ],
+   "bio": "Johannes M. Bauer is a researcher, writer, teacher, and academic entrepreneur. He is interested in the digital economy next-generation media. His position as Quello Chair for Media and Information Policy facilitates the pursuit of rigorous and actionable research. From September 2023 through December 2024, he was on leave from MSU to serve as the Chief Economist in the Office of Economics and Analytics (OEA) of the\nU.S. Federal Communications Commission in Washington, DC.\nEducated as an engineer and social scientist, he obtained advanced degrees in economics from the Vienna University of Economics and Business, Austria. Michigan State University has been his home institution since 1990. He had the privilege to spend extended times affiliated with Delft University of Technology, The Netherlands (2000-2001), the University of Constance, Germany (Summer 2010), and the University of Zurich, Switzerland (2012).\nAppropriately designed, governed, and used, advanced information and communication technologies (ICTs) create tremendous opportunities and benefits. They enable individuals to realize their capabilities, support sustainable communities, and support inclusive and livable societies. Harnessing these potential benefits will require public interest technology, good governance models, as well as competition and cooperation. Dr. Bauer's research on these topics has greatly benefited from collaboration with students and practitioners in Michigan, across the United States and abroad.\n\nResearch and teaching: My research, teaching and writing focus on the digital economy. I am concerned about harnessing the benefits of information and communication technologies (ICTs) while avoiding their downsides. Much of this work is international and comparative in scope.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "site title is 'Quello Chair in Media and Information Policy'; rank 'Professor, Department of Media and Information' taken from the CV linked on his department profile (Bauer-CV-2025.pdf)"
+  },
+  {
+   "name": "Susan Bonner",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/susan-bonner",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2023-06/Susan-Bonner-headshot.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Susan Bonner (she/her) is an Associate Professor in the Department of Media and Information at Michigan State University. Her lab, Transforming Tools Together, is focused on using entertainment and games to transform healthcare. Their projects are funded by Blue Cross Blue Shield Foundation of Michigan and many other collaborators. She teaches in the Serious Games Certificate Program. Prior to becoming a Spartan, Susan served as the Chair and Associate Professor of Digital Art and Design at Kendall College of Art and Design of Ferris State University.\nEducational games she produced through The EPIC Project have won Serious Play and Meaningful Play Awards. She is the creator of The Road Crew Social Emotional Health Game, which aims to teach young children coping skills for anger, loneliness, and anxiety through an AR experience. Accessible, universal, and inclusive design is at the heart of her teaching, art, design, and the work she produces.\nSusan actively participates on panels for the National Science Foundation, specifically focusing on Small Business Innovative Research in VR, AR, AI, and Learning Cognition. Her expertise and insights contribute to shaping the future of emerging technologies. Susan holds an MFA from the University of Cincinnati and a BFA from Columbus College of Art and Design.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Sandra Braman",
+   "title": "Professor, Media and Information and Senior Scholar, Quello Center",
+   "rank": "Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/sandra-braman",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2024-09/sandra%20thumb%20cropped.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=P073KCEAAAAJ&hl=en",
+   "research_areas": [],
+   "bio": "Sandra Braman's research on the macro-level effects of the use of digital technologies and their policy implications has been supported by the US National Science Foundation, the Rockefeller Foundation, the Ford Foundation, and the First Amendment Fund. She is a Fellow of the International Communication Association (ICA), former Chair of the ICA Communication Law & Policy Division, and former Head of the International Association of Media, Communication, and Research Law Section.\nBefore joining MSU, Sandra served most recently as the John Paul Abbott Professor of Liberal Arts at Texas A&M University. Her research has been honored internationally since a paper from her MA thesis won an AEJMC student research award. Most recently, she received the 2022 ICA Edwin C. Baker Award for research on media, markets, and democracy and her 2006 book Change of State: Information, Policy, and Power (The MIT Press) received the 2022 ICA Fellows Book Award for a book of enduring value.\nGoogle Scholar\n\nResearch: Current work looks at facts and their processing in US law in two complementary projects. Analysis of the over 1,000 federal statutes that criminalize falsity is eliciting a framework from existing law that will be of use as we continue to think about how to govern disinformation. Analysis of the ways in which US constitutional law distinguishes among types of information processing for purposes of differential legal treatment will do the same for the governance of algorithms and AI.\n\nSelected Publications: The terms: The parameters of information economics. In Daphne R. Raban & Julia Wlodarczyk (Eds.), The Elgar companion to information economics, pp. 503-530. Cheltenham, UK: Edward Elgar Publishing, 2024.\nEcstasy and entropy: Information policy in a punctuated case.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Celeste Campos-Castillo",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/celeste-campos-castillo",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2026-03/profileresize1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Celeste Campos-Castillo is an Associate Professor in the Department of Media & Information. Celeste discovers ways technologies can be designed and implemented so that they mitigate inequalities, particularly with respect to health outcomes and access to health care. This interdisciplinary and multimethod research involves documenting where inequalities exist and why, partnering with communities to identify their needs and develop solutions, and conducting social psychological research to understand the underlying mechanisms that connect individuals, contexts, and outcomes. Examples of this research include identifying the resource deficits that incline people to turn to chatbots for social support, developing chatbot designs that enhance user agency by enabling their access to resources, and designing accessible mental health screeners for autistic youth.\nCeleste’s research has been funded by agencies such as the Blue Cross Blue Shield of Michigan Foundation, the National Endowment for the Arts, the National Science Foundation, and Meta Research and has been published in journals such as\nBMC Medicine, Health Affairs, Journal of Medical Internet Research, Journal of the Medical Informatics Association, New Media & Society, Social Psychology Quarterly, Sociological Theory, Social Science Computer Review, and Trends in Cognitive Sciences. She’s been honored to receive awards recognizing her scientific contributions, including a paper award from the International Medical Informatics Association and the Midwest Sociological Society’s Early Career Award, and to accept invitations to share her work with diverse audiences, including local high schools and the National Academies.\nCeleste received her Ph.D.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Amanda Cote",
+   "title": "Associate Professor and Director of the Serious Games Certificate",
+   "rank": "Associate Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/amanda-cote",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2023-06/Amanda_Cote_for_Website.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Amanda Cote is an Associate Professor and Director of the Serious Games Certificate in the Department of Media & Information. She researches the industry and culture of games, with an emphasis on areas such as gender, identity, and representation; game development and labor; and collegiate esports. In recent publications, for instance, she has explored how crunch (extensive, often unpaid overtime) persists in the video game industry, how collegiate esports programs responded to the COVID-19 pandemic, and how race and gender stereotypes permeate game-related media and communities. She addresses these questions through methods such as in-depth interviews and discourse analysis.\nCote completed her Ph.D. in Communication Studies at the University of Michigan in 2016, then worked at the University of Oregon School of Journalism and Communication. She is the author of Gaming Sexism: Gender and Identity in the Era of Casual Video Games (New York University Press, 2020) and coeditor of The Routledge Handbook of Esports (Routledge, 2024). She has also published articles in venues including Journal of Communication, New Media & Society, Convergence, Games and Culture, and Feminist Media Studies.\n\nRecent Publications: Cote, A.\n(2020).\nGaming Sexism: Gender and Identity in the Era of Casual Video Games. New York, NY: New York University Press.\nJenny, S., Besombes, N., Brock, T., Cote, A., and Scholz, T. (eds.). (2025).\nRoutledge Handbook of Esports.\nRoutledge.\nCote, A., Wilson, A., Hansen. J., Harris, B., Rahman, M.W.U, Can, O., Fickle, T., and Foxman, M. (2023). Taking Care of Toxicity: Challenges and Strategies for Inclusion in U.S. Collegiate Esports Programs.\nJournal of Electronic Gaming and Esports 1(1).\nhttps://doi.org/10.1123/jege.2022-0031 Cote, A.\nand Harris, B. (2023).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "David Ewoldsen",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/david-ewoldsen",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2017-05/ewoldsen-david.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "David Ewoldsen, Ph.D. brings an interdisciplinary approach to the study of communication and the media, and draws from communication scholarship, social and cognitive psychology, cognitive science, and cognitive anthropology. A respected researcher and scholar, his most recent ventures have focused on racism and the media, comprehension of media messages, cooperative video game play, entertainment, and the role of attitudes in risky health behavior.\nEwoldsen completed a joint Ph.D. in psychology and speech communication at Indiana University in 1990. Following his Ph.D., he served as a postdoctoral fellow in the cognitive sciences program at Vanderbilt University from 1990-1991. Shortly afterward, he became faculty at the University of Alabama with appointments in the Department of Communication Studies, Psychology, and African American Studies. In 2009, he joined the faculty of the School of Communication at Ohio State University.\nEwoldsen lives in Bath Township with his spouse Nancy Rhodes, [AK1] an assistant professor in the MSU Department of Advertising and Public Relations. They have four grown children and a cat named Allie. When he’s not working, Ewoldsen likes to canoe, kayak, hike and do most things outdoorsy-including flower gardening. He also loves The Who, dislikes most professional teams associated with Chicago, and admits to having a horrible sense of humor.\n\nResearch and teaching: Ewoldsen’s key research interests are media psychology, health communication, attitudes and persuasion.\nResearch Centers and Labs Health and Risk Communication Center\n\nRecent Publications:: Velez, J. A., Loof, T., Smith, C. A., Jordan, J. M., Villarreal, J. A. & Ewoldsen, D. R.\n(in press).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Keith Hampton",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/keith-hampton",
+   "personal_url": "https://www.mysocialnetwork.net/",
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2026-03/image%20%281%29.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Computational Communication",
+    "Human Centered Technology Design",
+    "Political Communication and Civic Engagement",
+    "Policy and Governance"
+   ],
+   "bio": "Keith Hampton, Ph.D., studies community and the relationship between digital technologies, social networks, and well-being.\nHampton received his doctorate and Master of Arts in sociology from the University of Toronto, and his Bachelor of Arts (Hons.) in sociology from the University of Calgary. Before joining the faculty at MSU, he was the Endowed Professor in Communication and Public Policy and Co-Chair of the Social Media & Society Cluster in the Department of Communication in the School of Communication and Information at Rutgers. Other previous posts include assistant professor at the Annenberg School for Communication, University of Pennsylvania; as well as Assistant Professor of Technology, Urban and Community Sociology, and Endowed Class of ’43 Chair in the Department of Urban Studies and Planning at the Massachusetts Institute of Technology.\nView his CV\n\nResearch and teaching: Hampton's research explores how digital technologies shape and are shaped by human interaction, with a focus on the impact of social media, mobile communication, and the internet on communities and social networks. Recent research has looked at the relationship between new media and adolescent mental health and academic achievement, as well as the outcomes of persistent contact and pervasive awareness through social media, including stress, social isolation, exposure to diverse points of view, and willingness to voice opinions. Copies of his papers can be found here Computational Communication Human Centered Technology Design Political Communication and Civic Engagement Policy and Governance Research Centers and Labs Quello Center Health and Risk Communication Center\n\nRecent Publications:: Hampton, Keith & Kelley Cotter (2025).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jean Hardy",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/jean-hardy",
+   "personal_url": "http://www.jean.lgbt",
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2025-08/Jean-Hardy.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Jean Hardy is an Assistant Professor in the Department of Media & Information where he leads the Rural Computing Research Consortium and serves as a Research Fellow at the Quello Center. His research areas include: rural computing, science and technology studies (STS), computer supported cooperative work (CSCW), and rural studies. His research focus primarily revolves around the role of technology in rural economic and community development. Some current projects in this area focus on: the role of the high-tech economy in rural economic development; the downstream impacts of technological innovation in rural communities and people; the adoption and use of information technology in community-based agricultural organizations; and policy and design interventions for promoting digital resilience in face of changing broadband policy landscapes. He also does research on the use and design of collaborative technologies, particularly among rural LGBTQ people and in hybrid school settings. His work has been funded by the Spencer Foundation, the United States Department of Agriculture, and the Merit Network. He holds a Doctorate and Master of Science in Information from the University of Michigan School of Information, and a Bachelor of Arts in English Literature and Theory from the University of Washington.\n\nResearch and teaching: Research Centers and Labs Quello Center Rural Computing Research Consortium\n\nRecent Publications: Hardy, J., Gleason, M., and Battocchio, A.F. 2025. Playing with Rural Design: Design Probe Failures & Community Disconnections.\nProceedings of the 12 th International Conference on Communities & Technologies.\nJonas, A., De Jesus, A., and Hardy, J. 2025. Student Agency and Punishment Logics in Imagined Future Classroom Technologies.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Megan Knittel",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/megan-knittel",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2023-09/IMG_1876.JPG",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Human computer interaction",
+    "tech harms",
+    "tech abuse",
+    "online communities",
+    "platform governance"
+   ],
+   "bio": "Dr. Megan Knittel (she/her) is an Assistant Professor in the Department of Media & Information at Michigan State University. She teaches social science research methods with an emphasis on information technology and user-centered design. Dr. Knittel research program utilizes mixed methods approaches to understand the social and psychological factors contributing to outcomes of technological change. Her areas of expertise include social impacts of technology, factors contributing to Internet adoption, digital skills' education, information policy, and human factors in cybersecurity and online safety. Dr. Knittel’s career leading research programs spans academia and non-profit organizations. Ongoing projects include examining cybersafety in the context of domestic violence, leading the Project Compass digital ecosystem development research project across 10+ rural Michigan communities, and developing generative AI and cybersafety curricula for children and seniors.\n\nResearch and teaching: Human computer interaction, tech harms, tech abuse, online communities, platform governance\n\nRecent Publications: Pierrette Renée Dagg, Megan Knittel, Colin Rhinesmith, Joon Oh; Beyond Access and Infrastructure: Evaluating the Impact of Local Contexts on Digital Equity Strategies Through the Lens of the Digital Opportunities Compass Mack, Elizabeth and Bauer, Johannes M. and Knittel, Megan and Nam, Angie and Lee, Boram and Bhattacharya, Dhimaan, The State of Bead: Assessing Progress Toward Universal Broadband Connectivity (August 1, 2025). Available at\nSSRN or\nDOI.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Hee Rin Lee",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/hee-rin-lee",
+   "personal_url": "http://www.heerinlee.com/",
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2019-12/Heerin.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Innovation, Design and Entrepreneurship"
+   ],
+   "bio": "Dr. Hee Rin Lee is a researcher in the field of Human-Robot Interaction (HRI). Her work addresses problems beyond the efficiency and functionality that are often prioritized in the advancement of robotics. She designs and evaluates robots for social good with the aim of empowering socially marginalized groups, including people from lower socioeconomic backgrounds, and older adults. This work will strengthen the autonomy of marginalized people in society to bring about positive social change. Her research has yielded best paper nominations at the premier Human-Computer Interaction (HCI) conferences including HRI, UbiComp, CSCW, and CHI. She has served on technical program committees for ACM/IEEE HRI and the ACM Participatory Design Conference. Lee received a Ph.D. in Informatics and Computing from Indiana University and M.S. in Digital Media from Georgia Tech. She was a postdoctoral researcher of Computer Science and Engineering at UC San Diego.\nHer website can be found here:\nheerinlee.com\n\nResearch and teaching: Media Innovation, Design and Entrepreneurship Research Centers and Labs Health and Risk Communication Center",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Sian Lee",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/sian-lee",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2026-09/Sian%20Lee.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Sian Lee is an Assistant Professor in the Department of Media & Information at Michigan State University. He earned a Ph.D. in Informatics with a minor in Statistics from the College of Information Sciences and Technology at Pennsylvania State University and holds a master’s degree in Economics.\nHis research is in computational social science, focusing on how information environments, media content, and emerging technologies shape people’s beliefs and decisions. His research interests include misinformation, sport analytics, and generative AI.\nHe uses computational and statistical methods, including machine learning, text analysis, and statistical modeling. His research examines how people interpret and respond to narratives, claims, and sources in digital information environments. He also uses data-driven approaches to identify patterns and examine potential biases in sports, draws on economic theory to study the alignment of large language models with human preferences, and investigates how scholarly communities respond to generative AI through policies governing its use in academic writing.\nHis work has been published in the Journal of Experimental Psychology: Applied, Media Psychology, Communications of the ACM, Harvard Kennedy School Misinformation Review, and Journal of Physical Activity and Health, as well as in the proceedings of the ACM CHI Conference and the International AAAI Conference on Web and Social Media (ICWSM).\nHe serves as Section Editor for Big Data Analytics and AI at Measurement in Physical Education and Exercise Science and Associate Editor for the Data Science section of Frontiers in Big Data. His doctoral dissertation was selected as a finalist for the 2025 iSchools Doctoral Dissertation Award.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Megh Marathe",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/megh-marathe",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2022-08/MeghMarathe_03_resampled.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Science and technology studies",
+    "disability studies",
+    "medical anthropology and sociology",
+    "information and communication technologies and development",
+    "civic technology"
+   ],
+   "bio": "Megh Marathe is an Assistant Professor in the Department of Media & Information (ComArtSci) and the Center for Bioethics & Social Justice (College of Human Medicine). Their research seeks to foster inclusion in expert practices and technologies by centering the perspectives of marginalized people. They do this by studying the experiences and practices of multiple stakeholders -- doctors and patients, citizens and civic officials -- that is, laypeople and professionals, people who are marginalized as well as those in powerful positions, to generate critical theory and practical interventions for inclusive practice and technology design. Marathe adopts an ethnographic approach that is inflected by their computer science training and software industry experience.\nMarathe’s interests are in science and technology studies, information studies, and medical anthropology. They are currently examining the social implications of therapeutic brain implants and the inclusion of gender-diverse people in data systems (and the lack thereof), in addition to developing their research on epilepsy diagnosis and treatment.\nMarathe's work has been published in prestigious information and social science venues including Transactions of the ACM in Human-Computer Interaction (TOCHI), Medical Anthropology Quarterly,\nPACM-HCI (CSCW), CHI, Time & Society, and ICTD, winning a CHI Best Paper Award. They received a PhD in information from the University of Michigan, a master's degree in computer science from the University of Toronto, and a bachelor's degree in computer engineering from the University of Mumbai. Prior to MSU, Marathe was President's Postdoctoral Fellow in the Department of Informatics at the University of California, Irvine.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Casey O'Donnell",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/casey-odonnell",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2017-05/odonnell-casey.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Casey O’Donnell is an Associate Professor in the Department of Media and Information at Michigan State University. His research examines the creative collaborative work of videogame design and development. This research examines the cultural and collaborative dynamics that occur in both professional \"\"AAA\"\" organizations and formal and informal \"\"independent\"\" game development communities. His research has spanned game development companies from the United States to India.\nHis first book, \"\"Developer’s Dilemma\"\" is published by MIT Press.\nCasey’s research publications can be found on his personal website.\nCasey is also an active game developer, releasing \"\"Osy,\"\" in 2011, \"\"Against the Gradient,\"\" in 2012, \"\"GLITcH\"\" in 2013 and \"\"Sparks of Eternity,\"\" in 2014. Other games can be found on his website.\nCasey’s work has been funded by the National Science Foundation (NSF) and the National Institute of Health (NIH).\n\nResearch and teaching: Research Centers and Labs Games for Entertainment and Learning Lab",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jennifer Olson",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/jennifer-olson",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2021-10/head2%20Olson%2C%20Jennifer%202021-2%20small.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Information & Communications Technology and Development-- ICTD",
+    "Human Centered Design",
+    "Climate Change Impacts on Agricultural Systems"
+   ],
+   "bio": "Jennifer Olson is a geographer with extensive experience conducting research and development projects in Africa. Much of the research has examined the impact of climate and land use change on landscapes and society.\nOlson is also conducting Information and Communications Technologies for Development (ICTD) projects. The technologies include computers, videos, GIS and mobile phones. For example, they started a project to test computers in a rugged environment and this led to the education abroad program, “Designing Technology Solutions for Schools in Tanzania.” We are applying Human Centered Design principles, in which users co-design their own technologies, to make improved tools with farmers and to create fun, useful technologies for youth with Type 1 Diabetes.\nOlson has lived and worked in Africa as a Peace Corps and a U.N. volunteer in rural Burkina Faso, Central African Republic and Republic of the Congo, as a graduate student in Rwanda, and since receiving her PhD, as a researcher in Kenya, Malawi, Tanzania, Uganda and Zambia.\nNew Tools for African Farmers: Human Centered Design (video) Living at the Edge of Climate Change (video)\nMSUToday Presents: \"Bringing the world to Tanzania\" (video)\n\nResearch and teaching: Information & Communications Technology and Development-- ICTD Human Centered Design Climate Change Impacts on Agricultural Systems",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Wei Peng",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/wei-peng",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2017-05/peng-wei.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=DwUrFHUAAAAJ&hl=en",
+   "research_areas": [
+    "Media Effects/Media Psychology",
+    "Psychological impacts of interactive media (mediators and moderators)",
+    "Utilizing technologies for health communication (persuasive technology)",
+    "Behavior change enabled by conversational agent and AI",
+    "Mobile apps for disease self-management and health promotion",
+    "Credibility and misinformation",
+    "Active video games (exergames) for physical activity promotion",
+    "Game Design and Development",
+    "Health & Risk, Environment & Science Communication",
+    "Human Centered Technology Design",
+    "Media Psychology"
+   ],
+   "bio": "Dr. Wei Peng (Ph.D. in Communication, University of Southern California, 2006) is a Professor in the Department of Media and Information, Michigan State University. Her research focuses on the psychological and social mechanisms of behavior change and their application in the design of interactive media for health and wellness promotion.\nHer recent projects focus on using conversational agents or chatbots, digital games, and mobile apps for health promotion, health education, and social change. Her broader research area is the social and psychological effects of information and communication technology. She was the PI of a Robert Wood Johnson Foundation grant to develop and evaluate an exergame for physical activity promotion among young adults. As a Co-PI, she has worked on a National Science Foundation grant to study how to use sensor-enabled and gamified technology to influence family routines for child obesity prevention. She has served or is currently serving as a member of the editorial board of Journal of Communication, Health Communication, Games for Health Journal, and\nBMC Public Health. She has published over 60 articles in journals such as Journal of Communication, Information, Communication, & Society, New Media & Society, Media Psychology, Health Communication, Journal of Medical Internet Research, BMC Public Health, Health Psychology, Journal of Health Communication, Computers in Human Behavior, CyberPsychology, Behavior, and Social Networking, Health Education & Behavior, Telemedicine and e-Health, Games for Health Journal, Computers & Education, Social Science Computer Review, Mobile & Media Communication, and Journal of Physical Activity and Health.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Daniel Putman",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/daniel-putman",
+   "personal_url": "https://www.dsputman.com/",
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2025-11/msu-headshot.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Economic Development",
+    "Social Networks",
+    "Information Communication Technology",
+    "Risk and Uncertainty",
+    "Computational Social Science"
+   ],
+   "bio": "Daniel Putman is an Assistant Professor with a joint tenure system appointment in the Departments of Media & Information and Agricultural, Food, & Resource Economics. He is an applied microeconomist and computational social scientist focused on understanding the role of social networks and digital technology in vulnerability, resilience, and behavioral responses to risk among the poor. Putman was previously employed as a Postdoctoral Researcher at the University of Pennsylvania and a Postdoctoral Fellow at Innovation for Poverty Action. He earned his Ph.D. in Agricultural & Resource Economics from the University of California, Davis in 2020.\n\nResearch and teaching: Economic Development Social Networks Information Communication Technology Risk and Uncertainty Computational Social Science Teaching Information Communication Technology for Development",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Rabindra Ratan",
+   "title": "Professor and AT&T Endowed Chair",
+   "rank": "Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/rabindra-ratan",
+   "personal_url": "https://www.spartie.org/",
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2025-08/%2B%20Robby%20VR%20MP%20280.png",
+   "google_scholar_url": "https://scholar.google.com/citations?user=jE9vLG0AAAAJ&hl=en",
+   "research_areas": [
+    "Game Design and Development",
+    "Media Psychology",
+    "Neurocognitive Communication"
+   ],
+   "bio": "Rabindra (Robby) Ratan (\nCV) is Professor and AT&T Endowed Chair at Michigan State University’s Department of Media and Information as well as Director of the Social and Psychological Approaches to Research on Technology-Interaction Effects (SPARTIE) Lab. He is also an affiliated faculty member of the MSU Department of Psychology, the MSU College of Education’s program in Educational Psychology and Educational Technology, and the MSU Center for Gender in a Global Context. He received his Ph.D. from USC’s Annenberg School for Communication and Journalism, his M.A. in Communication from Stanford University, and his B.A. in Science, Technology and Society, also from Stanford University.\nDr. Ratan conducts social and psychological research on the effects of human-technology interaction, focusing on how media technologies (e.g., XR/VR/AR/MR, avatars, video games, agents/AI) influence meaningful outcomes (e.g., equity, well-being, motivation) across societal contexts (e.g., education, health, industry). He is particularly interested in the Proteus effect (i.e., avatar characteristics influencing user behaviors), human-AI interaction, gender stereotypes in gaming, and virtual meetings. In addition to conducting research on these phenomena, he has also been teaching all of his MSU classes in virtual reality since 2022.\nDr. Ratan has authored over 80 peer-reviewed articles in publication venues such as Media Psychology, the Journal of Computer-Mediated Communication, Communication Research, Computers in Human Behavior, Games and Culture, New Media & Society, Computers & Education, the International Journal of Communication, and\nSIGCHI.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ruth Shillair",
+   "title": "Assistant Professor, Director of Media + Information Master's Program,",
+   "rank": "Assistant Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/ruth-shillair",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2021-01/Shillair%2C%20Ruth%20CAS_bio_0.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Innovation, Design and Entrepreneurship",
+    "Policy and Governance"
+   ],
+   "bio": "Dr. Shillair is an educator, researcher, writer, and entrepreneur. Her research covers a range of work looking to maximize the benefits of technology while minimizing harm. This includes communication strategies to improve cybersecurity practices, ways to increase digital literacy, and policies to reduce the digital divide. In order to work towards this goal, she work collaboratively with scholars across disciplines. This has led to joint research projects with the Quello Center and the Oxford University’s Global Cybersecurity Capacity Centre. Her undergraduate studies included computer information systems management, management, and website design.\nShe currently teaches classes that focus on the impacts of technology on society as a whole and business as a focus. She often works with the entrepreneurship and innovation students as she teaches MI 472 and MI 452, two of the required classes for the minor. She also teaches one of the required courses for the information science major: MI 304 Information & Society. She enjoys working closely with her students, and mentors many graduate students. She has given seminars and spoken internationally. She works with colleagues in China, Taiwan, and the United Kingdom in collaborative interdisciplinary research. As Director of the Master's program in Media & Information, Dr. Shillair mentors students and helps them tap into some of the amazing resources that the Media & Information Department offers. Her teams work at the cutting edge of societal and technological changes. If you have questions about the master's program in the Media & Information department, please contact her. There also are more details in our department's website.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Michael Stern",
+   "title": "Department Chairperson",
+   "rank": "Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/michael-stern",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2019-07/Stern-Michael_0.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Michael J. Stern (Mike) is a Professor and Chair for the Department of Media & Information at Michigan State University. Before joining MSU, Stern held research and academic appointments NORC at the University of Chicago, the College of Charleston, and Oklahoma State University.\nSubstantively, his research focuses on theories of information seeking and digital inequality in the context of health. That is, his work focuses on the exclusion of marginalized and traditionally underrepresented groups in the areas of internet usage, social media, and mobile emerging technologies as they relate to health information seeking and other pursuits. Most of his work in this area centers on how diverse segments of society effectively use information and communication technologies and what this means to the future in terms of broadening inequality through access to information and proficiency in using these technologies regarding health information seeking, the “rural” penalty, health information seeking and communication with heath providers, educational opportunities, and economics.\nMethodically, he has done considerable work in mobile technology use, data science and analytics, on web survey design and administration, effective use of limited dependent variables, customizing growth curve models to time series data, employing administrative and big data to augment survey responses, and using qualitative data from cognitive interviews to design more effective questionnaires for paper, web, and mobile surveys.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "rank inferred from profile bio text; site title is \"Department Chairperson\""
+  },
+  {
+   "name": "Morgan Vigil-Hayes",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/vigil-hayes",
+   "personal_url": "https://loom-lab.github.io",
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2025-08/Vigil-Hayes_headshot.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Human-centered networks",
+    "network sovereignty",
+    "Indigenous computational futures",
+    "digital inclusion",
+    "computer supported cooperative work",
+    "social computing",
+    "introduction to programming"
+   ],
+   "bio": "Dr. Morgan Vigil-Hayes is an Associate Professor in the Department of Media & Information at Michigan State University. She grew up in the Central Valley of California before pursuing her BS in computer science at Westmont College. She earned her PhD in computer science at UC Santa Barbara, whereafter she served as a faculty member in the School of Informatics, Computing & Cyber Systems at Northern Arizona University for eight years.\nVigil-Hayes’ directs the Locally-Owned and Managed Systems Lab (LOOM), where her research focuses on (1) characterizing how communities build, use, and care for networked information systems; and (2) designing and deploying networked systems and artifacts that support local self-governance and affirm community knowledge values and systems. In particular, she centers rurality and Indigeneity in her work and has partnered with tribal networks and organizations in California and the Southwest.\nHer scholarship has been funded by National Science Foundation, Google Research, Rockefeller Foundation, and National Institutes of Health.\nVigil-Hayes is a research fellow with the Quello Center at MSU. She is also an affiliated faculty with the MSU American Indian and Indigenous Studies Program.\n\nResearch and teaching: Human-centered networks; network sovereignty; Indigenous computational futures; digital inclusion; computer supported cooperative work; social computing; introduction to programming",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Brian Winn",
+   "title": "Professor, Director of the Games for Entertainment and Learning Lab",
+   "rank": "Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/brian-winn",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2017-05/winn-brian.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Brian M. Winn is a Professor in the Department of Media and Information and Director of the Games for Entertainment and Learning (GEL) Lab at Michigan State University. Winn designs, creates, and researches interactive media design, including game design, digital game-based learning and interactive health communication.\n\nResearch and teaching: Research Centers and Labs Games for Entertainment and Learning Lab",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Susan Wyche",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Media and Information",
+   "profile_url": "https://comartsci.msu.edu/our-people/susan-wyche",
+   "personal_url": null,
+   "photo_url": "https://comartsci.msu.edu/sites/default/files/2024-03/SusanWyche.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Human Computer Interaction",
+    "Computer Supported Cooperative Work",
+    "Information Communication Technology and Development",
+    "Design"
+   ],
+   "bio": "Dr. Susan Wyche is an Associate Professor in the Department of Media and Information at Michigan State University (MSU) and has a courtesy appointment in MSU’s African Studies Center. Her research primarily contributes to the Human Computer Interaction (HCI) and Information and Communication Technology for Development (ICTD) fields. She is interested in developing an understanding of technology use in Sub-Saharan Africa, that is grounded in people’s experiences. To achieve this goal, she conducts fieldwork in—primarily Kenyan sites—that she has been visiting since 2008. This research is funded by awards from Google, Facebook, Mozilla, the United States Agency for International Development (USAID), and the National Institutes of Health (NIH).\nI n 2022, MSU awarded her the John K. Hudzik Emerging Leader in Advancing International Studies Award, in recognition of her service to advancing the university’s global mission.\nShe earned her PhD in Human-Centered Computing from Georgia Tech, an MS from Cornell University, and an undergraduate degree in Industrial Design from Carnegie Mellon University. Susan also worked as a professional designer in the housewares' industry, prior to pursuing her PhD.\nCourses Human Computer Interaction and Experience Design. Information and Communication Technology For Development\n\nResearch and teaching: Human Computer Interaction, Computer Supported Cooperative Work, Information Communication Technology and Development, Design Research Centers and Labs Health and Risk Communication Center\n\nRecent Publications: Wyche, S., and Diawara, O.* (2025). “New Strategies for Integrating African Perspectives into Human-Computer Interaction and Information and Communication Technology and Development Curricula.” In Proc.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  }
+ ]
+}

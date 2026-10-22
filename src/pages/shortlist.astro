@@ -7,7 +7,7 @@ import Base from '../layouts/Base.astro';
     <div class="toolbar"><button type="button" class="btn" id="csv" data-i18n="sl_export_csv">Export CSV</button><button type="button" class="btn" id="md" data-i18n="sl_export_md">Copy as Markdown</button><button type="button" class="btn quiet" id="clear" data-i18n="sl_clear">Remove all</button></div>
   </div>
   <div id="list" class="rows"></div>
-  <style>
+  <style is:global>
     .note { width: 100%; margin-top: 8px; min-height: 56px; font-size: 0.9rem; }
   </style>
   <script>

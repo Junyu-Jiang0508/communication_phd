@@ -1,0 +1,490 @@
+{
+ "university": "Cornell University",
+ "slug": "cornell-university",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "Department of Communication",
+   "school": "College of Agriculture and Life Sciences",
+   "directory_url": "https://cals.cornell.edu/communication/about-us/people",
+   "phd_program_url": "https://cals.cornell.edu/communication/graduate",
+   "phd_program_name": "PhD in Communication (Graduate Field of Communication)",
+   "notes": "Directory is a single static page mixing tenure-line faculty, senior lecturers, research associates, postdocs and staff; rank read from the title under each name and confirmed on the profile page. Research areas taken from the Core Field Faculty list at /communication/graduate/graduate-field-faculty. Emeriti sub-page and affiliate field faculty (home in other units) excluded."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Dominic Balog-Way",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/dominic-balog-way",
+   "personal_url": null,
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2026-05/copy-of-profile-picture.png?h=46da8a52&itok=159JNUhU",
+   "google_scholar_url": "https://scholar.google.com/citations?user=QHMrRdIAAAAJ&hl=en",
+   "research_areas": [
+    "risk communication",
+    "public engagement",
+    "trust & transparency",
+    "risk interpretations",
+    "environmental & technological change",
+    "risk regulation"
+   ],
+   "bio": "Dr. Dominic H. P. Balog-Way is Assistant Professor of Risk Communication in the Department of Communication, a Faculty Fellow at the Cornell Atkinson Center for Sustainability , and Chair of the Strategic Endowment Fund Board at the Society for Risk Analysis .\nHis research examines how societies communicate, interpret, and govern risk amid rapid technological innovation, social and political controversy, and environmental change. Working at the intersection of communication science, geography, and risk analysis, he studies how people negotiate complex and contested societal issues, particularly when different values and priorities come into conflict. His work has advanced policy-engaged scholarship on topics including risk perception, trust, transparency, misinformation, uncertainty communication, and strategic public engagement.\nAcross environmental, technological, and public health contexts, Dominic addresses three interconnected questions:\nWhy do we disagree about risk? This line of research investigates how people’s interpretations of risk are shaped by the cultural meanings, histories, values, and places through which those risks are experienced. His work examines how people interpret and respond to contested issues and emerging technologies in context. This includes how risk perceptions, uncertainty, trustworthiness, place, and social change shape public responses across a wide range of environmental, technological, health, and societal risk issues.\nHow can we...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Natalie Bazarova",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/natalie-bazarova",
+   "personal_url": "https://socialmedialab.cornell.edu/",
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2021-05/natalie-in-front-of-mann-windows-looking-serious.jpeg?h=cc793cc5&itok=qrHbelgJ",
+   "google_scholar_url": null,
+   "research_areas": [
+    "interpersonal",
+    "small group and computer-mediated research"
+   ],
+   "bio": "Professor Bazarova leads the Cornell Social Media Lab (SML), which investigates the dynamic relationship between communication technology and social behavior across various socio-technical contexts. The SML’s work involves designing, implementing, and evaluating interventions to enhance online privacy and safety, promote digital and AI literacy, and encourage prosocial behaviors in social media. By integrating multidisciplinary perspectives, her research examines how people interact with new affordances and modalities of communication technologies and the resulting changes and effects on people’s well-being and social behaviors. These insights have informed her work on building and evaluating tools and interventions to promote safe and productive engagement with technologies for youth and other vulnerable populations, including asylum seekers and refugees, older adults susceptible to information manipulation and cybersecurity risks, teenagers who have experienced digital harms and abuse, and people with psychological distress and history of self-injury. She directs Social Media TestDrive , an experiential digital literacy program dedicated to teaching youth digital literacy skills, and co-directs the Digital and AI Literacy Initiative , whose goal is to design, evaluate, and disseminate community-driven and evidence-based solutions that promote the public’s critical and informed engagement with technologies.\nSelected publications: Shea, A. L., Omapang, A. K. B., Cho,...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": "Also listed as: Associate Vice Provost, Office of the Vice President for Research and Innovation (Office of the Provost)"
+  },
+  {
+   "name": "danah boyd",
+   "title": "Geri Gay Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/danah-boyd",
+   "personal_url": "https://www.danah.org/",
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2025-06/screenshot-2025-06-29-at-8.49.55-pm.png?h=35ff7971&itok=viur36yM",
+   "google_scholar_url": null,
+   "research_areas": [
+    "sociotechnical systems",
+    "data/AI/machine learning",
+    "technology studies",
+    "social networks/fabrics/graphs",
+    "equity",
+    "ethnography"
+   ],
+   "bio": "danah boyd is the Geri Gay Professor of Communication at Cornell University . Dr. boyd's research focuses on the intersection of technology and society, with an eye towards how structural inequities shape and are shaped by technologies. Her upcoming book \" Data Are Made, Not Found: A Story of Politics, Power, and the Civil Servants Who Saved the US Census \" (University of Chicago Press) is an ethnographic account of the Census Bureau's struggle to make legitimate data in 2020.\nDr. boyd has published multiple books, dozens of papers, hundreds of essays, and given countless talks. Her first monograph \"It's Complicated: The Social Lives of Networked Teens\" has received widespread praise from scholars, parents, and journalists and has been translated into 7 languages. She has also done extensive research on tech policy, media manipulation, algorithmic accountability, privacy practices, ethics in computing, responsible AI, future of work, social media/platform studies, and teen culture.\nDr. boyd founded the independent research institute Data & Society, where she currently serves as an advisor. She is a non-residential fellow at the Center for Democracy & Technology . She is also a fellow of AAAS , a trustee of the Computer History Museum , a member of the Council on Foreign Relations , and on the advisory board of Electronic Privacy Information Center . She was also a founding director of Crisis Text Line , a mental health organization that serves people in crisis. She is...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Monica Cornejo",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/monica-cornejo",
+   "personal_url": null,
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2026-01/cornejo_2026_headshot_r6_7165_1.jpg?h=0648d2d5&itok=7CQCzKL_",
+   "google_scholar_url": null,
+   "research_areas": [
+    "interpersonal",
+    "undocumented immigrants",
+    "migration",
+    "advocacy",
+    "health and wellbeing"
+   ],
+   "bio": "Research Statement:\nM. Cornejo (PhD, 2022, UC Santa Barbara) is an Assistant Professor in the Department of Communication at Cornell University. Dr. Cornejo deploys multiple methodologies (e.g., semi-structured interviews, cross-sectional & longitudinal surveys) to pursue and cultivate three (3) research goals:\n(1) Examine dynamic interpersonal communication processes (e.g., family socialization messages) among legally objectified migrants, such as migrants impacted by the USA’s immigration incarceration systems, their family members, and their social citizen counterparts (e.g., lawyers, & immigration officials, such as ICE). Interpersonal communication processes among formerly detained migrants can facilitate or hinder their ability to navigate social environments and relationships (e.g., information acquisition) and impact their psychosocial and physical well-being. Furthermore, interpersonal exchanges might significantly impact migrants’ self-view or identity; in turn, these interpersonal communication processes can alter the belonging of objectified migrants to their U.S. social communities.\n(2) Explore how structural barriers and disapproving, anti-migrant messages relate to the health and well-being of objectified migrants. Examining this process makes important practical and theoretical contributions. Practically, studying this process can identify avenues of intervention and change that might reduce negative impacts on migrants’ health. Theoretically, this...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Brooke Duffy",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/brooke-erin-duffy",
+   "personal_url": "http://www.brookeduffy.com/",
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2021-05/brooke.jpg?h=cd395852&itok=4qFyyqVg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "new media and society",
+    "media and creative industries",
+    "gender and feminist media studies",
+    "digital labor",
+    "qualitative research methods"
+   ],
+   "bio": "Brooke Erin Duffy is a Professor in the Department of Communication at Cornell University, where she is also a member of the Feminist, Gender, and Sexuality Studies faculty. Her research interests include digital and social media industries; gender, identity, and inequality; and the impact of new technologies on creative work and labor. She's the author of two monographs on gender and cultural production, including (Not) Getting Paid to Do What You Love: Gender, Social Media, and Aspirational Work (Yale University Press, 2017), which draws upon research with fashion bloggers, YouTubers, and Instagrammers to explore the culture and politics of the digital labor. In addition, she is co-author of the newly released book Platforms & Cultural Production (Polity, 2021). Duffy’s research has been published in such journals as Journal of Communication, New Media & Society, the International Journal of Communication, Critical Studies in Media Communication, Communication, Culture & Critique, the International Journal of Cultural Studies, Feminist Media Studies, Social Media + Society, and The Communication Review . In addition to her academic publications, Duffy has disseminated her research to a broader audience through popular writing in The Atlantic , Vox , Times Higher Education , Wired , and Quartz . Her commentary has been featured in The New York Times , The Guardian , the BBC , Vox, The Washington Post , The USA Today , and Vice , among others. Duffy holds a Ph.D. from the...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Susan Fussell",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/susan-fussell",
+   "personal_url": "http://sfussell.hci.cornell.edu/",
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2021-05/sue-in-black-against-red-background-new-pic.jpg?h=04d92ac6&itok=IYEG1rfz",
+   "google_scholar_url": null,
+   "research_areas": [
+    "human-computer interaction",
+    "social psychology communication",
+    "computer-mediated communication",
+    "computer-supported collaborative work",
+    "intercultural communication",
+    "social computing"
+   ],
+   "bio": "Susan Fussell is a Professor in the Departments of Communication and Information Science. She received her Ph.D. in psychology from Columbia University. She conducts research in computer-mediated communication, intercultural communication, and human-computer interaction.\nDr. Fussell's primary research interests lie in the areas of computer-mediated communication, computer-supported cooperative work, and human-computer interaction. Her earlier work focused on how gesture, gaze and other communication channels help people coordinate their efforts on physical tasks. Her current projects examine the effects of culture and native language on computer-mediated communication, affect in virtual teams, collaboration among intelligence analysts, tools to motivate people to reduce their energy usage, human-robot interaction, and telepresence robotics.\nTheories of communication and research methods in communication, particularly as these apply to to computer-mediated communication and social computing\nInterests: Collaborative Work\nSelected publications: Nguyen, D. T., & Fussell, S. R. (2015). Effects of conversational involvement cues on understanding and emotions in Instant Messaging conversations. Journal of Language and Social Psychology. | Nguyen, D. T., & Fussell, S. R. (2015). Retrospective analysis of cognitive and affective responses in intercultural and intracultural conversations. Discourse Processes. 52:226-253. | Nguyen, D. T., & Fussell, S. R. (2014). Verbal cues of...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": "Also listed as: Professor (Department of Information Science) Joint appointment with Information Science; listed as core faculty of Department of Communication."
+  },
+  {
+   "name": "Lee Humphreys",
+   "title": "Professor and Chair",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/lee-humphreys",
+   "personal_url": "http://blogs.cornell.edu/humphreys",
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2025-08/lee-humphreys-headshot.jpg?h=4b3d52bd&itok=osbnYk_k",
+   "google_scholar_url": null,
+   "research_areas": [
+    "human-computer interaction",
+    "media communication and society",
+    "social uses and effects of communication technology",
+    "new media and society",
+    "mobile communication",
+    "urban communication"
+   ],
+   "bio": "Dr. Lee Humphreys studies the social uses and perceived effects of communication technology. Her research has explored mobile phone use in public spaces, emerging norms on mobile social networks, and the privacy and surveillance implications of location-based services. Her recent scholarship tries to historicize social media into a broader context of communication practices. Often using qualitative field methods, she focuses on how people integrate communication technology in their everyday lives in order to facilitate identity management and social interaction. She received her BS in Communication from Cornell University and received her MA and PhD from the Annenberg School for Communication at the University of Pennsylvania.\nSelected publications: Humphreys, L. (2018). The Qualified Self: Social Media & the Accounting of Everyday Life. p. 1-171 MIT Press, Cambridge, MA USA. | Humphreys, L., Özkul, D. & Belina, S. (2025). 100 years of communication: Change and continuity in inaugural communication journals 1924–2024. Communication & Change. 1 (article 7). https://doi.org/10.1007/s44382-025-000 | Humphreys, L. & Nguyen, R.* (2024). Networked privacy and its broader implications. Journal of Communication, forum. 74 (5): 424-428. https://doi.org/10.1093/joc/jqae026 | Berniker, T*. & Humphreys, L. (2024). Surveillance working groups as geomedia governance. Media & Communication, Special issue on Geomedia Futures: Imagining Tomorrow’s Mediatized Places and Place-Based...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Bruce Lewenstein",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/bruce-v-lewenstein",
+   "personal_url": "https://blogs.cornell.edu/lewenstein/",
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2025-09/0.jpg?h=794c6362&itok=EQdl3jGp",
+   "google_scholar_url": null,
+   "research_areas": [
+    "history and evaluation of public communication of science and technology",
+    "models of science communication",
+    "documentation and history of contemporary science"
+   ],
+   "bio": "Dr. Bruce V. Lewenstein is a widely-known authority on public communication of science and technology–how science and technology are reported to the public and how the public understands controversial scientific issues and \"emerging technologies\" such as biotechnology and nanotechnology. Trained as a historian of science, he often uses historical case studies in his research. He has also done extensive work evaluating \"citizen science\" outreach projects, in which citizens fully participate in the scientific process by gathering, entering, and sometimes analyzing scientific data. In recent years, he has helped connect the \"public communication\" field with the \"learning sciences\" field, especially around issues of public engagement in science. He works frequently with scientists learning more about public communication of science and technology.\nI work primarily on the history of public communication of science, with excursions into other areas of science communication (such as informal science education). In general, I try to document the ways that public communication of science is fundamental to the process of producing reliable knowledge about the natural world. Since the mid-1990s, I have spent some time as an evaluator of informal science education projects, especially in areas of “citizen science.” During the 2000s, I spent some time exploring social and ethical issues associated with emerging technologies such as genomics and nanotechnology.\nMy work has two areas of...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": "Also listed as: University Ombuds; Professor, Department of Science and Technology Studies"
+  },
+  {
+   "name": "Neil Lewis, Jr.",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/neil-lewis-jr",
+   "personal_url": "http://www.neillewisjr.com/",
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2023-01/lewis_dec-2021_0.jpg?h=a3f19d66&itok=H0aTWJQQ",
+   "google_scholar_url": null,
+   "research_areas": [
+    "motivation and goal pursuit processes, particularly as they relate to disparities in education, health, and the environment",
+    "behavioral science and policy"
+   ],
+   "bio": "Neil Lewis, Jr. is a behavioral scientist who studies the motivational, behavioral, and equity implications of social interventions and policies.\nLewis is a Nancy and Peter Meinig Family Investigator in the Life Sciences at Cornell University and Weill Cornell Medicine. He is also an associate professor in the department of communication, division of general internal medicine, and graduate field of psychology. In addition, Lewis co-founded and co-directs Cornell’s Action Research Collaborative , an institutional hub that brings together researchers, practitioners, community members, and policymakers to collaborate on projects and initiatives to address pressing issues in society. Prior to joining the Cornell faculty, Lewis received his B.A. in economics and psychology from Cornell University and his M.S. and Ph.D. in social psychology from the University of Michigan.\nLewis’s research examines how people’s social contexts and identities influence how they make sense of the world around them, and the implications of those meaning-making processes for their motivation to pursue a variety of goals in life. He is interested in the consequences of these processes not only for individuals, but also for the communities, organizations, and societies in which those individuals are embedded; he is particularly interested in using insights from research findings to improve educational, health, and environmental outcomes for individuals and societies.\nOutside of academia, Lewis is a...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Drew Margolin",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/drew-margolin",
+   "personal_url": "http://blogs.cornell.edu/margolin/",
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2025-10/unnamed.jpg?h=c7b5ca4c&itok=pS8eGDGG",
+   "google_scholar_url": null,
+   "research_areas": [
+    "communication",
+    "language and communication",
+    "media communication and society",
+    "organizational communication"
+   ],
+   "bio": "The internet, and social media in particular, have made individual and institutional discourse visible like never before. Yet the mechanisms that shape the production of discourse — what leads individuals or institutions to speak up, whom do they address, what do they say — is not yet well understood. My research focuses on understanding these dynamics through the quantitative aggregation of collective communication behavior. In particular, my approach emphasizes the role that accountability, credibility, and legitimacy within social networks and communities play in shaping observable discourse.\nThe social structural conditions that encourage reason-based responses to facts and criticism\nThe semantic signatures of coordinated efforts to manipulate audiences or obscure facts\nThe evolution of conversations in response to unpredictable events or shocks\nBecause my research focuses on the role of social pressure from potentially large communities, my methods emphasize natural experiments and other treatments where behavior can be observed in its natural social context and where its consequences are real.\nSelected publications: Margolin, D. The Theory of Informative Fictions: A Character-Based Approach to False News and other Misinformation. Communication Theory. | Margolin, D. (2019). Computational Contributions: A Symbiotic Approach to Integrating Big, Observational Data Studies into the Communication Field. Communication Methods and Measures. 13:229-247. | Margolin, D.,...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "J. Nathan Matias",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/j-nathan-matias",
+   "personal_url": "https://natematias.com/",
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2021-05/nathan-looking-out-window-in-hub.png?h=0a5251ee&itok=dA6YRinS",
+   "google_scholar_url": null,
+   "research_areas": [
+    "digital governance",
+    "behavior changes in groups and networks shaped by algorithms",
+    "pervasive experimentation in society with a special focus on citizen behavioral science and behavioral consume protection"
+   ],
+   "bio": "Nathan is an Associate Professor in the Cornell University Department of Communication, where he leads CAT Lab. He works with social media companies, news organizations, and online communities to test ideas for a flourishing internet and evaluate the social impact of online platforms. Nathan developed CAT Lab as part of his PhD at the MIT Media Lab and MIT Center for Civic Media. Nathan, who is Guatemalan-American, has a background in tech startups and nonprofits. His research regularly appears in the news, and his writing has appeared in The Atlantic, PBS, the Guardian, and many others. [Image credit: Allison Usavage/Cornell CALS.]\nSelected publications: Matias, J.N., Wright, L. (2022) Impact Assessment of Human-Algorithm Feedback Loops Just Tech. Social Science Research Council. | Matias, J.N., Lewis, N. JR, Hope, E. (2021) Universities Say They Want More Diverse Faculties. So Why Is Academia Still So White? FiveThirtyEight. | Levine, A.S., Matias, J.N. (2021) How to Generate Research Ideas That Impact Society . Inside Higher Ed | Matias, J. N. (2019). Preventing harassment and increasing group participation through social norms in 2,190 online science discussions . Proceedings of the National Academy of Sciences, 116(20) | Zuckerman, E., Matias, J., Bhargava, T., Bermejo, F., & Ko, A. (2019). Whose Death Matters? A Quantitative Analysis of Media Attention to Deaths of Black Americans in Police Confrontations, 2013–2016. International Journ",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Katherine McComas",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/katherine-mccomas",
+   "personal_url": "https://risk.comm.cornell.edu/",
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2024-04/0_0.jpg?h=d79a050f&itok=jBtRgPFK",
+   "google_scholar_url": "https://scholar.google.com/citations?user=tBY1IoUAAAAJ&hl=en",
+   "research_areas": [
+    "risk communication",
+    "community involvement",
+    "public participation"
+   ],
+   "bio": "Katherine is a risk communication scholar whose research and teaching focus on understanding motivations and barriers surrounding communication about scientific, technological, and environmental risk issues. Such communication takes place in many venues -- from the front page of the New York Times to the website of the CDC, to the local public meeting, to the doctor's office, to the visitors' center in our national parks. Her current research examines ways to develop risk messages that encourage greater awareness of the linkages between human, animal, and environmental health and well-being (\"One Health\"). Current research also focuses on public acceptability of risk in the context of new and renewable energy technologies. Her long-standing commitment to working closely with community partners in both her research and teaching programs paved a pathway to her current role as Cornell University’s Vice Provost for Engagement and Land-Grant Affairs . In this position, she helps steward the university’s public engagement mission.\nSelected publications: Balog-Way, D. H. P., McComas, K. A., Lambert, C. E., Cousse, J., & Trutnevyte, E. (2025). Public perceptions of enhanced geothermal systems: A cross-national study on affective imagery, familiarity, and support. Energy P | Lambert, C. E., Balog-Way, D. H. P., McComas, K. A., Cousse, J., & Trutnevyte, E. (2025). The ‘uncanny underground:’ How psychological and cultural associations shape public perceptions of subterranean energy...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": "Also listed as: Vice Provost for Engagement and Land-Grant Affairs (Office of the Provost)"
+  },
+  {
+   "name": "Poppy McLeod",
+   "title": "Kenneth J. Bissett ’89 Senior Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/poppy-l-mcleod",
+   "personal_url": "http://group-and-interpersonal-communication-research-lab-at-cornell.weebly.com/",
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2019-07/1102_weiss_mcleod-212x293.jpg?h=244abc2f&itok=Bc5u7koJ",
+   "google_scholar_url": null,
+   "research_areas": [
+    "communication in small groups",
+    "interagency coordination in social services"
+   ],
+   "bio": "Professor McLeod is the Kenneth J. Bissett ’89 Senior Professor in the Department of Communication at Cornell University. She earned her Master's and Ph.D. degrees in Social Psychology from Harvard University, and her B.S. in Psychology from Syracuse University. Prior to joining the Communication faculty at Cornell, Professor McLeod taught in the Business Schools of Case Western Reserve University, University of Iowa and University of Michigan.\nCommunication and decision making in task-oriented groups; teamwork in virtual environments; the role of social influence in group communication; intergroup dynamics.\nGroup communication and decision-making; social influence; intergroup communication; research methods\nInterests: Communication Theories\nRecent Research: Communication and decision making in task-oriented groups; teamwork in virtual environments; the role of social influence in group communication; intergroup dynamics.\nSelected publications: McLeod, P. L. (2013). An Experiential Learning Approach to an Undergraduate Course in Group Communication and Decision-Making. Small Group Research. 44:360-380. | McLeod, P. L. (2013). Distributed People and Distributed Information: Vigilant Decision-Making in Virtual Teams. Small Group Research. 44:627-657. | Bazarova, N., Walther, J. B., & McLeod, P. L. (2012). Minority Influence in Virtual Groups: A Comparison of Four Theories of Minority Influence. Communication Research. 39:295-316. | Lu, L., Yuan, Y., & McLeod, P. L. (2012)....",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Wunpini Mohammed",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/wunpini-mohammed",
+   "personal_url": "https://www.wunpini.com/",
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2024-04/0_3.jpg?h=fb48550a&itok=S2bpR0hD",
+   "google_scholar_url": "https://scholar.google.com/citations?user=wyPZbRIAAAAJ&amp;hl=en&amp;oi=ao",
+   "research_areas": [
+    "decolonization",
+    "indigenous language media",
+    "social movements",
+    "global media",
+    "feminisms"
+   ],
+   "bio": "Wunpini Fatimata Mohammed (pronouns: she/her) is an assistant professor in the Department of Communication at Cornell University. She is the author of Media, Culture, and Decolonization: Re-righting the Subaltern Histories of Ghana (Rutgers University Press, 2025). She is also co-editor of the book, African Women in Digital Spaces: Redefining Social Movements on the Continent and in the Diaspora (2023). Prior to joining the Department of Communication in July 2024, she served on the faculty at the University of Georgia. She is an activist-scholar whose research focuses on feminisms, decolonization, and social movements. Her research is published in peer reviewed journals such as Communication Theory, the Howard Journal of Communications, The International Journal of Communication, Feminist Media Studies among others. She has won top paper awards at the International Communication Association, the Association for Education in Journalism and Mass Communication, the International Association for Media and Communication Research and other academic conferences. She has worked as a radio journalist in Ghana for several years and her writing has appeared on Al Jazeera, The Washington Post, Global Voices, Okay Africa, and several Ghanaian media platforms.\nHer research focuses on interrogating power in media and communications while working together with disenfranchised communities to use media to bring about transformative change in communities. At the core of her research agenda...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jeff Niederdeppe",
+   "title": "Liberty Hyde Bailey Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/jeff-niederdeppe",
+   "personal_url": "https://commhsp.org",
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2024-01/unnamed_2.jpg?h=57243e72&itok=Dm9lAh1K",
+   "google_scholar_url": "https://scholar.google.com/citations?user=ZB14DAwAAAAJ&hl=en&oi=ao",
+   "research_areas": [
+    "science, environment and health communication",
+    "media communication and society",
+    "mass communication",
+    "media campaigns",
+    "persuasive message design"
+   ],
+   "bio": "Jeff Niederdeppe is the Liberty Hyde Bailey Professor of Communication in the College of Agriculture and Life Sciences and Senior Associate Dean of Faculty Development in the Jeb E. Brooks School of Public Policy . He is a Founding Co-Director of the Collaborative on Media and Messaging (COMM) for Health and Social Policy and an Associate Director of the Cornell Health Policy Center (CHPC) . His research examines the content and effects of mass media campaigns, strategic messages, and news coverage in shaping health behavior and social policy. He is committed to producing, supporting, and disseminating innovative and rigorous research to support efforts to achieve health equity. He has published more than 220 peer-reviewed articles in communication, public health, health policy, and medicine journals, and his work has been funded in recent years by the National Institutes of Health, National Science Foundation, U.S. Department of Agriculture, U.S. Environmental Protection Agency, and Robert Wood Johnson Foundation.\nHe was elected as a Fellow of the International Communication Association in 2022, received the CALS Research and Extension Award for Outstanding Accomplishments in Science and Public Policy in 2019, the Early Career Award in 2016 from the Public Health Education and Health Promotion Section of the American Public Health Association , and the Lewis Donohew Outstanding Scholar in Health Communication Award in 2014 from the Kentucky Conference on Health...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": "Also listed as: Senior Associate Dean of Faculty and Research, Jeb E. Brooks School of Public Policy"
+  },
+  {
+   "name": "Danny Parker",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/danny-parker",
+   "personal_url": null,
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2024-09/0_0.jpg?h=46fba616&itok=R6Sked4W",
+   "google_scholar_url": null,
+   "research_areas": [
+    "ethnography",
+    "urban and rural poverty",
+    "structural inequality",
+    "political identity and behavior",
+    "collective narratives and group formation",
+    "news production"
+   ],
+   "bio": "Danny Parker is an Assistant Professor in the Department of Communication at Cornell University. Her research examines the role communication ecologies play in the reproduction of poverty and the development of political identity. Her work has won awards from the International Communication Association and the Association for Education in Journalism and Mass Communication and is published in Mass Communication and Society. Danny is also the Director of the Communication Addressing Poverty (CAP) Lab . The Communication Addressing Poverty (CAP) Lab is committed to enhancing research on poverty in the field of communication.\nResearch Focus\nAs an ethnographer, I study rural and urban communities facing extreme poverty, using immersive fieldwork and participant observation to document and interpret how they experience everyday life. A major facet of my research grapples with how structural conditions, from carceral state economics to news coverage of poverty-related issues, threaten equal access to democratic institutions and belief in democracy for poor communities. Another major facet of my research explores how personal stories of struggle within those structural conditions travel through interpersonal networks and become collective narratives that influence individual and collective identity and decision-making. My work has implications for government policy, non-profit organizational structure, news production, and journalism education.\nOutreach\nThe primary goal of my...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jonathon Schuldt",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/jonathon-schuldt",
+   "personal_url": null,
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2025-12/schuldt-headshot-2024-1_1.jpeg?h=7cf2c139&itok=t1Orpkw0",
+   "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=3oTrALUAAAAJ",
+   "research_areas": [
+    "science, environment and health communication",
+    "message framing",
+    "food labeling",
+    "social cognition"
+   ],
+   "bio": "Jonathon P. Schuldt is a professor in the Department of Communication, a professor in the Brooks School of Public Policy, and Executive Director of the Roper Center for Public Opinion Research at Cornell University. His research explores the social psychology of public opinion, with a special focus on the domains of the environment, health, and U.S. politics. His research has appeared in peer-reviewed journals including Proceedings of the National Academy of Sciences, Nature Climate Change, and Journal of Environmental Psychology, and his writing has appeared in national publications including the New York Times, Los Angeles Times, and Washington Post. He holds a bachelor's degree from Cornell and a Ph.D. in Social Psychology from the University of Michigan.\nMy research focuses on the factors that influence judgments, decisions, and public opinion in the health and environment domains. Recent work examines the intersection of social identity and communication processes in public engagement on environmental and sustainability issues.\nA primary goal of our work is to apply and extend theory in ways that inform real problems facing New York State and the world. Research findings are routinely shared with local and national media outlets in order to maximize the potential public benefit of the work.\nMy overarching goal in teaching (whether the class is large or small) is to create an environment in which students can engage with the course material in ways that are relevant...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Katherine Sender",
+   "title": "Professor and Director of Graduate Studies",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/katherine-sender",
+   "personal_url": null,
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2021-10/sender-headshot-2021.jpeg?h=1116cd87&itok=oowZ2Lf5",
+   "google_scholar_url": null,
+   "research_areas": [
+    "media and gender",
+    "sexuality",
+    "LGBTQ studies",
+    "critical race studies",
+    "media and globalization",
+    "audiences",
+    "media production",
+    "documentary production"
+   ],
+   "bio": "Katherine Sender is a professor in the Department of Communication and the Feminist, Gender, and Sexuality Studies Program at Cornell University. Her research and teaching focus on gender, sexuality, and gay, lesbian, bisexual, transgender, and queer media. Her research areas span television, audiences, cultural production, consumer culture, and globalization. Katherine is the author of Business not Politics: The Making of the Gay Market (2004) and The Makeover: Reality Television and Reflexive Audiences (2012). She has also produced documentaries about media representation, including Off the Straight and Narrow: Gays, Lesbians, Bisexuals, and Transgender People on US Television (1998, 2006, and in post-production), and Brand New You: Makeover Television and the American Dream (2012). She is currently editing a documentary on Indian traditional textile techniques in the context of a globalizing fashion industry.\nHer current research project focuses on sexual mobilities across a range of media and locations.\nSelected peer-reviewed journal articles\nSelected book chapters\nSender, K. (2019). Creative Practice as Queer Media Pedagogy. In A. Atay and S. Pensoneau-Conway (Eds.). Queer Communication Pedagogy . New York: Routledge.\nSender, K. (2014). Transgender, Transmedia, Transnationality: Chaz Bono in Documentary and “Dancing with the Stars.” In C. Carter, L. Steiner, and L. McLaughlin (Eds.) Routledge Companion to Media and Gender . New York: Routledge.\nSender, K. (2012). No...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Claire Wardle",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/claire-wardle",
+   "personal_url": null,
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2024-09/0.jpg?h=59dafd6b&itok=_Qh7lHE7",
+   "google_scholar_url": null,
+   "research_areas": [
+    "journalism",
+    "misinformation",
+    "user-generated needs",
+    "technology",
+    "impact of AI on communities"
+   ],
+   "bio": "Claire Wardle is an associate professor in the Department of Communication at Cornell University. Her research focuses on user-generated content, verification and misinformation. She has spent the past two decades working across sectors, including as an academic at different universities in the U.K. and the U.S., working with different international news organizations as well as the United Nations, and advising different policy-makers. She also co-founded the non-profit First Draft and the Information Futures Lab at Brown University. She holds an M.A. in Political Science and a Ph.D. in Communication from the University of Pennsylvania.\nHer research focuses on the contemporary information ecosystem, and the vulnerabilities and opportunities offered through participatory community spaces, both on and offline. Her current work is attempting to understand how more effective responses to community information needs by and with communities might create resilience against misinformation.\nEveryday people struggle to find information they can use to make decisions that will hopefully keep themselves and their families safe and healthy. Her work centers the voices in communities who can help others find relevant information they can trust. This research can only happen by partnering with communities to co-design and co-create research questions and interventions that make sense to different communities in Ithaca, across New York state and the wider world.\nAll of her classes are...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Andrea Stevenson Won",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/andrea-stevenson-won",
+   "personal_url": null,
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2019-09/won.jpg?h=e4057d33&itok=vyMQBs94",
+   "google_scholar_url": null,
+   "research_areas": [
+    "virtual reality",
+    "augmented reality",
+    "avatars",
+    "visual feedback",
+    "nonverbal behavior",
+    "synchrony"
+   ],
+   "bio": "Andrea Stevenson Won directs the Virtual Embodiment Lab. The lab's research focuses on how mediated experiences change people’s perceptions, especially in immersive media. Research areas include the clinical applications of virtual reality, and how nonverbal behavior as rendered in virtual environments affects collaboration and teamwork. Andrea Stevenson Won completed her PhD in the Virtual Human Interaction Lab in the Department of Communication at Stanford University. She also holds an MS in Biomedical Visualization from the University of Illinois at Chicago.",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Y. Connie Yuan",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://cals.cornell.edu/people/y-connie-yuan",
+   "personal_url": null,
+   "photo_url": "https://cals.cornell.edu/sites/default/files/styles/faculty/public/2022-10/gdev_faculty_157.jpg?h=24d700f5&itok=9YDkWf7x",
+   "google_scholar_url": null,
+   "research_areas": [
+    "social network",
+    "knowledge management",
+    "communications technologies"
+   ],
+   "bio": "About\nConnie teaches and conducts research in the area of organizational communication and intercultural communication. Specially, she is interested in studying knowledge management through the development of social capital, and the adoption and usage of information and communication technology. Her recent research has focused on examining cultural differences in cognition and decision making, for instance, how American and Chinese people react differently to climate change initiatives and how they obtain health information differently. She has also explored how differences in communication styles between the East and the West influence the effectiveness of intercultural collaboration and expertise sharing.\nSelected Honors & Awards\nBest Paper Award, IAMCR Urban Communication Award , International Association for Media and Communication Research 52nd Conference, 2025: Singapore\nBest Paper Award, IAMCR Climate Change Communication Award , International Association for Media and Communication Research 51st Conference, 2024: Christchurch, New Zealand,\nMost Momentous Faculty for a Merrill Presidential Scholar, Cornell University, 2021\nDennis Gouran Research Award, Group Communication Division of the National Communication Association 2016 Annual Conference, November 2016: Philadelphia, PA [ Given to the best-published article in 2014 and 2015 on group communication research]\nInclusion in AoM Best Papers Proceedings, Gender and Diversity in Organizations Division, Academy of...",
+   "sources": [
+    "department_profile",
+    "graduate_field_faculty_page"
+   ],
+   "notes": null
+  }
+ ]
+}

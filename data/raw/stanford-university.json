@@ -1,0 +1,262 @@
+{
+ "university": "Stanford University",
+ "slug": "stanford-university",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "Department of Communication",
+   "school": "School of Humanities and Sciences",
+   "directory_url": "https://comm.stanford.edu/people/faculty",
+   "phd_program_url": "https://comm.stanford.edu/phd",
+   "phd_program_name": "Ph.D. in Communication (Theory and Research)",
+   "notes": "Directory is a single static page listing 23 people (tenure-line faculty, journalism lecturers/professors of practice, emeriti). Area sub-pages (Journalism/Media/Culture, Media Psychology, Political Communication) used for research-area labels; courtesy and emeriti sub-pages used for exclusions. Titles taken from each comm.stanford.edu profile page; bios supplemented from profiles.stanford.edu where the department bio was short."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Jeremy Bailenson",
+   "title": "Thomas More Storke Professor, Senior Fellow at the Woods Institute for the Environment and Professor, by courtesy, of Education",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comm.stanford.edu/people/jeremy-bailenson",
+   "personal_url": null,
+   "photo_url": "https://comm.stanford.edu/sites/g/files/sbiybj22231/files/styles/medium_square/public/media/person/jeremy-bailenson1772214773379.jpg?h=1641edec&itok=Pxnw8D_s",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Psychology",
+    "Learning Sciences",
+    "Learning Technologies"
+   ],
+   "bio": "Jeremy Bailenson is founding director of Stanford University’s Virtual Human Interaction Lab, Thomas More Storke Professor in the Department of Communication, Professor (by courtesy) of Education, Professor (by courtesy) Program in Symbolic Systems, and a Senior Fellow at the Woods Institute for the Environment. He has served as Director of Graduate Studies in the Department of Communication for fifteen years. He earned a B.A. from the University of Michigan in 1994 and a Ph.D. in cognitive psychology from Northwestern University in 1999. He spent four years at the University of California, Santa Barbara as a Post-Doctoral Fellow and then an Assistant Research Professor. Bailenson studies the psychology of Virtual and Augmented Reality, in particular how virtual experiences lead to changes in perceptions of self and others. His lab builds and studies systems that allow people to meet in virtual space, and explores the changes in the nature of social interaction. His most recent research focuses on how virtual experiences can transform education, environmental conservation, empathy, and health. He is the recipient of the Dean’s Award for Distinguished Teaching at Stanford. In 2020, IEEE recognized his work with “The Virtual/Augmented Reality Technical Achievement Award”. He has published more than 250 academic papers, spanning the fields of communication, computer science, education, environmental science, law, linguistics, marketing, medicine, political science, and psychology. His work has been continuously funded by the National Science Foundation for over 25 years. His first book Infinite Reality, co-authored with Jim Blascovich, emerged as an Amazon Best-seller eight years after its initial publication, and was quoted by the U.S. Supreme Court. His most recent book, Experience on Demand, was reviewed by The New York Times, The Wall Street Journal, The Washington Post, Nature, and The Times of London, and was an Amazon Best-seller. He has written opinion pieces for The Washington Post, The Wall Street Journal, Harvard Business Review, CNN, PBS NewsHour, Wired, National Geographic, Slate, The San Francisco Chronicle, TechCrunch, and The Chronicle of Higher Education, and has produced and directed six Virtual Reality documentary experiences which were official selections at the Tribeca Film Festival. His lab has exhibited VR in hundreds of venues ranging from The Smithsonian to The Superbowl.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Angèle Christin",
+   "title": "Associate Professor of Communication, by courtesy, of Sociology and Senior Fellow at the Stanford Institute for Human-Centered AI",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comm.stanford.edu/people/angele-christin",
+   "personal_url": "http://www.angelechristin.com/",
+   "photo_url": "https://comm.stanford.edu/sites/g/files/sbiybj22231/files/styles/medium_square/public/media/person/angele-christin1773697673592.jpg?h=1641edec&itok=gqUDmjS-",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Journalism, Media and Culture"
+   ],
+   "bio": "Angèle Christin is an Associate Professor in the Department of Communication (and, by curtesy, of Sociology), a Richard E. Guggenhime Faculty Scholar, and Senior HAI Fellow at Stanford University. She studies the social impact of algorithms and AI.\nCurrent research and scholarly interests: Angèle Christin studies the social and cultural impact of algorithms and artificial intelligence. \nHer award-winning book, Metrics at Work: Journalism and the Contested Meaning of Algorithms (Princeton University Press, 2020) examined the dramatic transformations of journalism with the rise of social media platforms, metrics, and algorithms. Drawing on ethnographic methods, Angèle compared how American and French journalists made sense of traffic numbers, which in turn came with distinct effects on the production of news in the two countries. \nHer most recent project examines the paradoxes of algorithmic labor through a study of influencers and influencer marketing on YouTube, Instagram, and TikTok.\nI’m an associate professor of Communication (and, by courtesy, Sociology) and HAI Senior Fellow at Stanford University. I study the social life of algorithms, platforms, and AI. My forthcoming book, Gurus, Hucksters, Entertainers: How Influencers Reshaped Social Media (November 2026, University of Chicago Press) focuses on content creators on social media platforms. I show how platforms, brands, and audiences together nudge influencers toward the problematic mix of commercial, inflammatory, and extreme content that populates our social media feeds. I began chronicling the transformations of the public sphere with social media in my award-winning book, Metrics at Work: Journalism and the Contested Meaning of Algorithms (Princeton University Press, 2020). In it, I show how web journalists first entered the chase for clicks in the early 2010s, comparing how American and French journalists made sense of traffic numbers and how this shaped online news in the two countries. I have a longstanding interest in technology and criminal justice. I analyzed the reception of predictive algorithms in U.S. criminal courts, building on previous work I conducted on criminal sentencing in French courts. I also study AI ethics, examining how the discourse of ethical, accountable, and safe AI emerged in Silicon Valley and beyond. These days I’m spending a lot of time with astrophysicists and other scientists, asking questions about how they use AI for scientific discovery. I’m also studying the contemporary romantic and sexual cultures of Silicon Valley.",
+   "sources": [
+    "department_profile",
+    "personal_site",
+    "stanford_profiles"
+   ],
+   "notes": null
+  },
+  {
+   "name": "James S. Fishkin",
+   "title": "Janet M. Peck Professor of International Communication, Senior Fellow at the Freeman Spogli Institute for International Studies and Professor, by courtesy, of Political Science",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comm.stanford.edu/people/james-fishkin",
+   "personal_url": "https://cdd.stanford.edu/",
+   "photo_url": "https://comm.stanford.edu/sites/g/files/sbiybj22231/files/styles/medium_square/public/media/person/james-fishkin1402902000000.jpg?h=1641edec&itok=Eoq9X2U6",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Political Communication"
+   ],
+   "bio": "James S. Fishkin holds the Janet M. Peck Chair in International Communication at Stanford University where he is Professor of Communication, Professor of Political Science (by courtesy) and Director of the Deliberative Democracy Lab. He received his B.A. from Yale in 1970 and holds a Ph.D. in Political Science from Yale as well as a second Ph.D. in Philosophy from Cambridge. He is the author of Democracy When the People Are Thinking (Oxford 2018), When the People Speak (Oxford 2009), Deliberation Day (Yale 2004 with Bruce Ackerman) and Democracy and Deliberation (Yale 1991). He is best known for developing Deliberative Polling® – a practice of public consultation that employs random samples of the citizenry to explore how opinions would change if they were more informed. His work on deliberative democracy has stimulated more than 100 Deliberative Polls in 28 countries around the world. It has been used to help governments and policy makers make important decisions in Texas, China, Mongolia, Japan, Macau, South Korea, Bulgaria, Brazil, Uganda and other countries around the world. He is a Fellow of the American Academy of Arts and Sciences, a Guggenheim Fellow, a Fellow of the Center for Advanced Study in the Behavioral Sciences at Stanford, and a Visiting Fellow Commoner at Trinity College, Cambridge.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "personal_url is the Center for Deliberative Democracy site named (as plain text 'cdd.stanford.edu') under his directory entry."
+  },
+  {
+   "name": "James T. Hamilton",
+   "title": "Freeman-Thornton Chair for the Vice Provost for Undergraduate Education, Hearst Professor and Senior Fellow at the Stanford Institute for Economic Policy Research",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comm.stanford.edu/people/james-hamilton",
+   "personal_url": null,
+   "photo_url": "https://comm.stanford.edu/sites/g/files/sbiybj22231/files/styles/large_square/public/media/person/james-hamilton1402902000000.jpg?h=1df2a1cc&itok=AF5N7AAe",
+   "google_scholar_url": "https://scholar.google.com/citations?user=pyp_VwYAAAAJ&hl=en&oi=ao",
+   "research_areas": [
+    "Journalism, Media and Culture",
+    "Political Communication"
+   ],
+   "bio": "James T. Hamilton is Vice Provost for Undergraduate Education, Hearst Professor of Communication, and Director of the Stanford Journalism Program. His most recent book is You Got In! Now What? 100 Insights into Finding Your Best Life in College (Radius Book Group, 2025). His books on media markets and information provision include All the News That’s Fit to Sell: How the Market Transforms Information into News (Princeton, 2004), Regulation Through Revelation: The Origin, Politics, and Impacts of the Toxics Release Inventory Program (Cambridge, 2005), and Channeling Violence: The Economic Market for Violent Television Programming (Princeton, 1998). His book Democracy's Detectives: The Economics of Investigative Journalism (Harvard, 2016) focuses on the market for investigative reporting. Through research in the field of computational journalism, he is exploring how the costs of story discovery can be lowered through better use of data and algorithms. He is co-founder of the Stanford Computational Journalism Lab, Senior Fellow at the Stanford Institute for Economic Policy Research, affiliated faculty at the Brown Institute for Media Innovation, and member of the JSK Fellowships Board of Visitors. For his accomplishments in research, he has won awards such as the David N Kershaw Award of the Association for Public Policy Analysis and Management, the Goldsmith Book Prize from the Kennedy School’s Shorenstein Center (twice), the Frank Luther Mott Research Award (twice), the Tankard Book Award, and a Center for Advanced Study in the Behavioral Sciences Fellowship. Teaching awards from Harvard, Duke, and Stanford include the Allyn Young Prize for Excellence in Teaching the Principles of Economics, Trinity College Distinguished Teaching Award, Bass Society of Fellows, Susan Tifft Undergraduate Teaching and Mentoring Award, and School of Humanities and Sciences Dean's Award for Distinguished Teaching. Prior to joining the Stanford faculty, Hamilton taught at Duke University’s Sanford School of Public Policy, where he directed the De Witt Wallace Center for Media and Democracy. He earned a BA in Economics and Government (summa cum laude) and PhD in Economics from Harvard University.\nCurrent research and scholarly interests: Media economics, journalism, economics of regulation",
+   "sources": [
+    "department_profile",
+    "stanford_profiles"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jeff Hancock",
+   "title": "Harry and Norman Chandler Professor of Communication and Senior Fellow at the Freeman Spogli Institute for International Studies",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comm.stanford.edu/people/jeffrey-hancock",
+   "personal_url": "https://sml.stanford.edu/",
+   "photo_url": "https://comm.stanford.edu/sites/g/files/sbiybj22231/files/styles/medium_square/public/media/person/jeffrey-hancock1665969656305.jpg?h=4831a1ae&itok=RoX_vTLs",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Psychology"
+   ],
+   "bio": "Hancock works on understanding psychological and interpersonal processes in social media.\nStanford Social Media Lab research areas: Social Technology and Wellbeing; AI Mediated Communication; Misinformation and Trust; Adolescents and Well-being.\nSelected publications: Collaboration, crowdsourcing, and misinformation. (2024); Building resilience to misinformation in communities of color: Results from two studies of tailored digital media literacy interventions (2024); Generative AI Are More Truth-Biased Than Humans: A Replication and Extension of Core Truth-Default Theory Principles (2023); From 65 to 103, Older Adults Experience Virtual Reality Differently Depending on Their Age: Evidence from a Large-Scale Field Study in Nursing Homes and Assisted Living Facilities. (2023); Social media mindsets: a new approach to understanding social media use and psychological well-being (2023); Exposure to untrustworthy websites in the 2020 US election. (2023)",
+   "sources": [
+    "department_profile",
+    "personal_site",
+    "stanford_profiles"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Gabriella Harari",
+   "title": "Assistant Professor of Communication",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comm.stanford.edu/people/gabriella-harari",
+   "personal_url": "https://maplab.stanford.edu",
+   "photo_url": "https://comm.stanford.edu/sites/g/files/sbiybj22231/files/styles/medium_square/public/media/person/gabriella-harari1642478323911.jpg?h=2cdec7fe&itok=y6b3AfOb",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Psychology"
+   ],
+   "bio": "Gabriella Harari is an Assistant Professor in the Department of Communication at Stanford University, where she directs the Media and Personality Lab. She studies how personality is expressed in the physical and digital contexts of everyday life. Much of her research is focused on understanding what digital technologies reveal about who we are, and how use of digital technologies shapes who we are. Her current projects analyze people’s everyday behavioral patterns (e.g., social interactions, mobility) and environmental contexts (e.g., places visited, social media platforms) to show how they are associated with individual differences in personality and well-being. Harari takes an ecological approach to conducting her research, emphasizing the importance of studying people and their behavior in natural contexts. To that end, she conducts intensive longitudinal field studies and is interested in mobile sensing methods and analytic techniques that combine approaches from the social and computer sciences. For example, methodologies she uses in her work in include surveys, experience sampling, longitudinal modeling, mobile sensing, data mining, and machine learning. Harari completed a Postdoctoral Fellowship and earned her PhD at the Department of Psychology at The University of Texas at Austin. She completed her BA in Psychology & Humanities from Florida International University, where she was also a Ronald E. McNair Scholar. Her work has been published in academic outlets such as Perspectives in Psychological Science, Journal of Personality and Social Psychology, and the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT). Her work has also been supported by the National Science Foundation and Stanford HAI Seed Grant Awards.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Shanto Iyengar",
+   "title": "William Robertson Coe Professor and Professor of Political Science and of Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comm.stanford.edu/people/shanto-iyengar",
+   "personal_url": "http://pcl.stanford.edu/",
+   "photo_url": "https://comm.stanford.edu/sites/g/files/sbiybj22231/files/styles/medium_square/public/media/person/shanto-iyengar1729302894051.jpg?h=1641edec&itok=LU0iKpGA",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Political Communication"
+   ],
+   "bio": "Shanto Iyengar is a Professor of Political Science and Director of the Political Communication Laboratory. Iyengar’s areas of expertise include the role of mass media in democratic societies, public opinion, and political psychology. Iyengar’s research has been supported by grants from the National Science Foundation, the National Institutes of Health, the Ford Foundation, the Pew Charitable Trusts, and the Hewlett Foundation. He is the recipient of several professional awards including the Philip Converse Award of the American Political Science Association for the best book in the field of public opinion, the Murray Edelman Lifetime Achievement Award, and the Goldsmith Book Prize from Harvard University. Iyengar is author or co-author of several books, including News That Matters (University of Chicago Press, 1987), Is Anyone Responsible? (University of Chicago Press, 1991), Explorations in Political Psychology (Duke University Press, 1995), Going Negative (Free Press, 1995), and Media Politics: A Citizen’s Guide (Norton, 2011).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Joint appointment: Professor of Political Science and of Communication; listed as core Political Communication faculty on the Communication directory."
+  },
+  {
+   "name": "Jon A. Krosnick",
+   "title": "Frederic O. Glover Professor of Humanities and Social Sciences, Professor of Communication and of Political Science, of Environmental Social Sciences and, by courtesy, of Psychology",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comm.stanford.edu/people/jon-krosnick",
+   "personal_url": "https://jonkrosnick.com/",
+   "photo_url": "https://comm.stanford.edu/sites/g/files/sbiybj22231/files/styles/medium_square/public/media/person/jon-krosnick1609864743547.jpg?h=1641edec&itok=dfPYsc1p",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Political Communication"
+   ],
+   "bio": "Jon Krosnick is a social psychologist who does research on attitude formation, change, and effects, on the psychology of political behavior, and on survey research methods. He is the Frederic O. Glover Professor in Humanities and Social Sciences, Professor of Communication, Political Science, Environmental Social Sciences, and (by courtesy) Psychology. He directs Stanford's Political Psychology Research Group and has directed the Summer Institute in Political Psychology. To read reports on Professor Krosnick’s research program exploring public opinion on the environment, visit the American Public Opinion on Climate Change web site ( https://climatepublicopinion.stanford.edu/ ). Research Interests Author of seven published books and two forthcoming books and more than 190 articles and chapters, Dr. Krosnick conducts research in three primary areas: (1) attitude formation, change, and effects, (2) the psychology of political behavior, and (3) the optimal design of questionnaires used for laboratory experiments and surveys, and survey research methodology more generally. His attitude research has focused primarily on the notion of attitude strength, seeking to differentiate attitudes that are firmly crystallized and powerfully influential of thinking and action from attitudes that are flexible and inconsequential. Many of his studies in this area have focused on the amount of personal importance that an individual chooses to attach to an attitude. Dr. Krosnick’s studies have illuminated the origins of attitude importance (e.g., material self-interest and values) and the cognitive and behavioral consequences of importance in regulating attitude impact and attitude change processes. Honors Winner of the American Association for Public Opinion Research’s Lifetime Achievement Award for outstanding research, and the Nevitt Sanford Award from the International Society of Political Psychology, Dr. Krosnick’s scholarship has been recognized by election as a fellow by the American Academy of Arts and Sciences and by the American Association for the Advancement of Science, the Erik Erikson Award for Excellence and Creativity in the Field of Political Psychology from the International Society of Political Psychology, two fellowships at the Center for Advanced Study in the Behavioral Sciences, the Phillip Brickman Memorial Prize for Research in Social Psychology, and the American Political Science Association’s Best Paper Award.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Joint appointment: Professor of Communication and of Political Science (and Environmental Social Sciences); listed as core faculty on the Communication directory."
+  },
+  {
+   "name": "Xiaochang Li",
+   "title": "Assistant Professor of Communication",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comm.stanford.edu/people/xiaochang-li",
+   "personal_url": null,
+   "photo_url": "https://comm.stanford.edu/sites/g/files/sbiybj22231/files/styles/medium_square/public/media/person/xiaochang-li1786085261542.jpg?h=1641edec&itok=KP1uYcXc",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Journalism, Media and Culture"
+   ],
+   "bio": "Li’s research examines questions surrounding the relationship between information technology and knowledge production and its role in the organization of social life.\nSelected publications: Divination Engines: Natural Language Processing, Artificial Intelligence, and the Making of Algorithmic Culture (2026); History Can Help Us Chart AI's Future (2024); \"There's No Data Like More Data\": Automatic Speech Recognition and the Making of Algorithmic Culture (2023); The Measure of Meaning Automatic Speech Recognition and the Human-Computer Imagination (2022); Vocal Features: From Voice Identification to Speech Recognition by Machine. (2019)",
+   "sources": [
+    "department_profile",
+    "stanford_profiles"
+   ],
+   "notes": "Department bio is a short blurb; profiles.stanford.edu has no bio section, so bio is supplemented with featured publication titles."
+  },
+  {
+   "name": "Jennifer Pan",
+   "title": "Sir Robert Ho Tung Professor of Chinese Studies, Professor of Communication, Senior Fellow at the Freeman Spogli Institute for International Studies and Professor, by courtesy, of Political Science and of Sociology",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comm.stanford.edu/people/jennifer-pan",
+   "personal_url": "http://jenpan.com/",
+   "photo_url": "https://comm.stanford.edu/sites/g/files/sbiybj22231/files/styles/large_square/public/media/person/jenpan1665374708411.jpg?h=1641edec&itok=t9juNGNx",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Political Communication"
+   ],
+   "bio": "Jennifer Pan studies political communication, digital media, and authoritarian politics, with a focus on China. She is the Sir Robert Ho Tung Professor of Chinese Studies, Professor of Communication, and, by courtesy, Professor of Political Science and Sociology at Stanford University, where she is also a Senior Fellow at the Freeman Spogli Institute. Using experimental and computational methods with large-scale data on political activity, she examines how technology structures censorship, propaganda, and information manipulation, and how preferences and behaviors are shaped as a result. She is the author of Welfare for Autocrats (Oxford University Press, 2020), and her work has appeared in journals including American Political Science Review, American Journal of Political Science, Journal of Politics, Science, and Nature. She graduated from Princeton University, summa cum laude, and received her Ph.D. from Harvard University’s Department of Government.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Nilam Ram",
+   "title": "Professor of Communication and of Psychology",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comm.stanford.edu/people/nilam-ram",
+   "personal_url": "https://thechangelab.stanford.edu/",
+   "photo_url": "https://comm.stanford.edu/sites/g/files/sbiybj22231/files/styles/medium_square/public/media/person/nilam-ram1739464897173.jpg?h=1641edec&itok=Aq4iIN85",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Psychology"
+   ],
+   "bio": "Nilam Ram studies the dynamic interplay of psychological and media processes and how they change from moment-to-moment and across the life span. Nilam’s research grows out of a history of studying change. After completing his undergraduate study of economics, he worked as a currency trader, frantically tracking and trying to predict the movement of world markets as they jerked up, down and sideways. Later, he moved on to the study of human movement, kinesiology, and eventually psychological processes - with a specialization in longitudinal research methodology. Generally, Nilam studies how short-term changes (e.g., processes such as learning, information processing, emotion regulation, etc.) develop across the life span, and how longitudinal study designs contribute to generation of new knowledge. Current projects include examinations of age-related change in children’s self- and emotion-regulation; patterns in minute-to-minute and day-to-day progression of adolescents’ and adults’ emotions; and change in contextual influences on well-being during old age. He is developing a variety of study paradigms that use recent developments in data science and the intensive data streams arriving from social media, mobile sensors, and smartphones to study change at multiple time scales.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Joint appointment: Professor of Communication and of Psychology; listed as core Media Psychology faculty on the Communication directory."
+  },
+  {
+   "name": "Byron Reeves",
+   "title": "Paul C. Edwards Professor of Communication and Professor, by courtesy, of Education",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comm.stanford.edu/people/byron-reeves",
+   "personal_url": null,
+   "photo_url": "https://comm.stanford.edu/sites/g/files/sbiybj22231/files/styles/medium_square/public/media/person/byron-reeves1559167431016.jpg?h=1641edec&itok=8FZ-SQgD",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Psychology",
+    "Learning Technologies",
+    "Social-Emotional Learning"
+   ],
+   "bio": "Byron Reeves, PhD, is the Paul C. Edwards Professor of Communication at Stanford and Professor (by courtesy) in the Stanford School of Education. Byron has a long history of experimental research on the psychological processing of media, and resulting responses and effects. He has studied how media influence attention, memory and emotional responses and has applied the research in the areas of speech dialogue systems, interactive games, advanced displays, social robots, and autonomous cars. Byron has recently launched (with Stanford colleagues Nilam Ram and Thomas Robinson) the Human Screenome Project (Nature, 2020), designed to collect moment-by-moment changes in technology use across applications, platforms and screens. At Stanford, Byron has been Director of the Center for the Study of Language and Information, and Co-Director of the H-STAR Institute (Human Sciences and Technologies Advanced Research), and he was the founding Director of mediaX at Stanford, a university-industry program launched in 2001 to facilitate discussion and research at the intersection of academic and applied interests. Byron has worked at Microsoft Research and with several technology startups, and has been involved with media policy at the FTC, FCC, US Congress and White House. He is an elected Fellow of the International Communication Association, and recipient of ICA Fellows book award for The Media Equation (with Prof. Clifford Nass), and the Novim Foundation Epiphany Science and Society Award. Byron’s PhD in Communication is from Michigan State University.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Fred Turner",
+   "title": "Chair, Department of Communication Harry and Norman Chandler Professor of Communication Director, Undergraduate Studies in Communication Akiko Yamazaki and Jerry Yang University Fellow in Undergraduate Education Professor, by courtesy, of Art and Art History and of History",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comm.stanford.edu/people/fred-turner",
+   "personal_url": null,
+   "photo_url": "https://comm.stanford.edu/sites/g/files/sbiybj22231/files/styles/medium_square/public/media/image/fred-turner-headshot-credit-mareike-foecking.jpeg?h=7aad3cc0&itok=i86BjaCR",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Journalism, Media and Culture"
+   ],
+   "bio": "Fred Turner’s research and teaching focus on media technology and cultural change. He is especially interested in the ways that emerging media have helped shape American life since World War II. Turner is the author of five books: The Democratic Surround: Multimedia and American Liberalism from World War II to the Psychedelic Sixties; From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network and the Rise of Digital Utopianism; Echoes of Combat: The Vietnam War in American Memory; Seeing Silicon Valley: Life Inside a Fraying America (with Mary Beth Meehan); and L'Usage de l'Art: de Burning Man à Facebook, art, technologie et management dans la Silicon Valley. His essays have tackled topics ranging from the rise of reality crime television to the role of the Burning Man festival in contemporary new media industries. They are available here: fredturner.stanford.edu/essays/. Turner’s research has received a number of academic awards and has been featured in publications ranging from Science and the New York Times to Ten Zen Monkeys. It has also been widely translated. Turner is also the Akiko Yamazaki and Jerry Yang University Fellow in Undergraduate Education. Before joining the faculty at Stanford, Turner taught Communication at Harvard University’s John F. Kennedy School of Government and the Massachusetts Institute of Technology. He also worked as a freelance journalist for ten years and he continues to write for newspapers and magazines in America and Europe, including Harper's, The New York Times Magazine, and the Frankfurter Allgemeine Zeitung. Turner earned his Ph.D. in Communication from the University of California, San Diego. He has also earned a B.A. in English and American Literature from Brown University and an M.A. in English from Columbia University.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  }
+ ]
+}

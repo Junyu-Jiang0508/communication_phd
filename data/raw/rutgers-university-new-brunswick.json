@@ -1,0 +1,829 @@
+{
+ "university": "Rutgers University–New Brunswick",
+ "slug": "rutgers-university-new-brunswick",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "Department of Communication",
+   "school": "School of Communication and Information (SC&I)",
+   "directory_url": "https://comminfo.rutgers.edu/staff-directory?field_position_type=21&field_departments=25",
+   "phd_program_url": "https://comminfo.rutgers.edu/academics/graduate-programs/phd-program",
+   "phd_program_name": "Ph.D. Program in Communication, Information, and Media (Communication concentration)",
+   "notes": "SC&I Drupal directory filtered to Role=Faculty, Department=Communication; pages &page=0..2 (28 entries). Excluded 1 emerita, 3 teaching professors, 1 associate teaching professor, 1 associate professor of professional practice."
+  },
+  {
+   "name": "Department of Journalism and Media Studies",
+   "school": "School of Communication and Information (SC&I)",
+   "directory_url": "https://comminfo.rutgers.edu/staff-directory?field_position_type=21&field_departments=31",
+   "phd_program_url": "https://comminfo.rutgers.edu/academics/graduate-programs/phd-program",
+   "phd_program_name": "Ph.D. Program in Communication, Information, and Media (Journalism and Media Studies concentration)",
+   "notes": "Same directory filtered to Department=Journalism and Media Studies; pages &page=0..1 (21 entries). Excluded 2 professors of professional practice and 4 teaching-track faculty."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Mark Aakhus",
+   "title": "Professor of Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/aakhus-mark",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2026-01/mark-aakhus-500x500.jpg?h=2a479378&itok=9FuMjQqQ",
+   "google_scholar_url": "https://scholar.google.com/citations?user=88FihmQAAAAJ&hl=en",
+   "research_areas": [
+    "AI, Data Science, and Social Computing",
+    "Communication and Technology",
+    "Human-Computer Interaction (HCI) and Design",
+    "Language and Social Interaction",
+    "Organizational Communication"
+   ],
+   "bio": "Mark Aakhus’s research is distinguished by his novel approach to investigating the relationship among communication, argumentation, and design in digital society. He uses discourse analysis methods, incorporating computational social science and digital ethnography, to investigate technological and organizational interventions aimed at improving interaction and reasoning in decision-making and conflict management. His scholarship explains the consequences ideas about the design of communication and argumentation have for professional conduct, organizational processes, and information infrastructures. Aakhus co-authored the award-winning book \"Argumentation in Complex Communication,\" which received the Distinguished Book Award from the Philosophy of Communication Division of the National Communication Association. He co-edited the pioneering \"Perpetual Contact: Mobile Communication, Private Talk, Public Performance.\" His research has been funded by prestigious organizations, including the Kellogg and Hewlett foundations, Sun Microsystems, and the National Science Foundation. He chaired the Language and Social Interaction Division of the International Communication Association, served on the National Communication Association’s Research Board and co-chaired its Human Communication and Technology commission. He co-directed the Rutgers Community Design for Health and Wellness Interdisciplinary Research Group and is an affiliate of the RAD Collaboratory, Rutgers Climate and Energy Institute, and the Cancer Institute of New Jersey. Aakhus’s current research focuses on artificial intelligence as a puzzle of communication, communication’s designability – making the case for what can and should be designable, and contestability by design for accountable algorithmic systems, platforms, and organization. These address fundamental questions about how ideas about communication matter in the intentional and emergent design of infrastructures and institutions for communication.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Galina Bolden",
+   "title": "Professor of Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/bolden-galina",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-11/galina-bolden-500x500.jpg?h=2a479378&itok=-Dt5v3lk",
+   "google_scholar_url": "https://scholar.google.com/citations?user=vm_u84EAAAAJ&hl=en",
+   "research_areas": [
+    "Language and Social Interaction"
+   ],
+   "bio": "Galina Bolden is interested in examining how members of different cultural and language communities negotiate and pursue mutual understanding and construct interpersonal relationships in and through social interaction. Working within the theoretical and methodological framework of Conversation Analysis (CA), she conducts research on talk-in-interaction in Russian and English languages, both in ordinary conversation and in organizational settings. Bolden is an author of over fifty articles and book chapters, a co-author (with Alexa Hepburn) of \"Transcribing for Social Research\" (2017) as well as co-editor (with John Heritage and Marja-Leena Sorjonen) of \"Responding to Polar Questions Across Languages and Contexts\" (2023). Bolden is currently co-authoring (with Chase W. Raymond and Jeffrey D. Robinson) two volumes, \"Turn-taking in Social Interaction\" and \"Repair in Interaction\". She also serves as the president of the International Society of Conversation Analysis.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Marya L. Doerfel",
+   "title": "Professor of Communication and Chair of Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/doerfel-marya-l",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-11/marya-doerfel-500x500.jpg?h=2a479378&itok=DtX-QssP",
+   "google_scholar_url": "https://scholar.google.com/citations?user=ZpRImjsAAAAJ&hl=en",
+   "research_areas": [
+    "Communication and Technology",
+    "Leadership",
+    "Organizational Communication",
+    "Public Relations and Strategic Communication"
+   ],
+   "bio": "Marya Doerfel's research focuses on community resilience with a particular interest in disruptions that impact inter-organizational relationships and their broader community networks. She considers the way social network relationships among organizations in their local communities impact and are impacted by changes in their environment, other organizations, their constituents, and their relational contexts. She has conducted research funded by the National Science Foundation and has been recognized with numerous awards from the International Communication Association and the National Communication Association. Publications include the book “Organizing Inclusion: Moving Diversity from Demographics to Communication Processes” along with journal articles published in outlets such as Journal of Communication, Public Relations Review, and Nonprofit and Voluntary Sector Quarterly. Her most recent book, \"The Routledge Handbook of Communication and Resilience\" (with co-editors Jennifer Theiss, Maria Venetis, and Kristina Scharp) draws on expertise from communication scholars who examine resilience within and across individual, relational, group/team, organizational, inter-organizational, and community levels. This handbook provides a wide-ranging resource for theory building, empirical investigations, and practical applications.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "J. Sophia Fu",
+   "title": "Associate Professor of Communication",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/fu-j-sophia",
+   "personal_url": "http://jiaweisophiafu.com",
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-11/sophia-fu-1400x1400.jpg?h=9e16a70f&itok=MKGXPX7n",
+   "google_scholar_url": "https://scholar.google.com/citations?user=rIRnp1QAAAAJ&hl=en",
+   "research_areas": [
+    "AI, Data Science, and Social Computing",
+    "Communication and Technology",
+    "Computational Social Science",
+    "Organizational Communication",
+    "Public Relations and Strategic Communication"
+   ],
+   "bio": "Sophia Fu's research advances theoretical understandings of hybrid organizing—specifically, how organizational and social actors navigate and integrate multiple, often competing elements such as goals, identities, media platforms, stakeholders, and institutional logics in their communication practices. Her current work centers around three interrelated themes: social networks, digital technologies, and macro-level institutional structures. Through this lens, Fu’s research contributes to knowledge on how to effectively organize for social good across a range of pressing social issues in diverse sociocultural and sociopolitical contexts. Fu's work has appeared in Communication Research, International Journal of Communication, and the Journal of Computer-Mediated Communication, Nonprofit and Voluntary Sector Quarterly. She has been granted awards from the International Communication Association, the National Science Foundation, and the Academicy of Management.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kathryn Greene",
+   "title": "Distinguished Professor of Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/greene-kathryn",
+   "personal_url": "https://sites.comminfo.rutgers.edu/kgreene/",
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-08/Kathryn-Greene-rccl.jpg?h=9e16a70f&itok=TQad8_io",
+   "google_scholar_url": "https://scholar.google.com/scholar?hl=en&q=kathryn+greene",
+   "research_areas": [
+    "Health Communication",
+    "Interpersonal Communication",
+    "Media Effects",
+    "Relationships and Families"
+   ],
+   "bio": "Kathryn Greene's research focuses on how communication can be used to enhance health, especially for at-risk populations. While getting information to people is relatively easy, she makes contributions about how to influence people’s decisions to act on and manage information. She models how to engage audiences sufficiently so they care about the content of messages and, in turn, take action. She studies how to facilitate change in two interrelated behaviors: communication behavior (disclosure) and health prevention behaviors. She blends theory with issues of social significance, addresses meaningful health questions, and provides foundations for health and policy decision making. Greene’s scholarship builds and tests theory. She studies when and how people choose to share health information with others. Understanding how people make decisions about what to share and how people produce these messages can increase support as well as reduce stigma and negative outcomes that lead to avoiding prevention behaviors (e.g., HIV testing or cancer screening). In the arena of message processing, maximizing youth audience engagement can reduce avoidance and best utilize limited resources. Her substance prevention programs have been designated as “evidence-based ‘effective’” by SAMHSA. Greene has received funding from NIH, including NIDA and NCI. She is an ICA fellow, winning prestigious awards including from the interpersonal communication and health communication divisions of ICA and NCA. She continues her research in disclosure in interpersonal health communication contexts as well as developing interventions targeting adolescent risk behaviors. This research is focused on health inequities, often leveraging community-engaged and mixed research methods.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Shawnika Hull",
+   "title": "Associate Professor of Communication",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/hull-shawnika",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-09/shawnika-hull-1400x1400.jpg?h=9e16a70f&itok=oE_lLaqH",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Health Communication",
+    "Media Effects",
+    "Public Relations and Strategic Communication"
+   ],
+   "bio": "Shawnika Hull's scholarship, teaching, and service are situated at the intersection of communication, public health, and health psychology with the goal of reducing health inequities through communication science. She applies communication as a tool to reduce health inequities through engaged scholarship that is focused on impacting the individual, social, and structural causes of health inequities in HIV. Hull collaborates with community and clinical partners to understand the factors that impede HIV prevention and develop programs, interventions, and campaigns to address them. Hull has received funding for her research from institutional, foundation, and federal sources, including the Iris and Ineva Reilly Baldwin Wisconsin Idea Endowment, MAC AIDS and CDC, as well as the National Institutes of Health (NIH) Loan Repayment Program. Hull was awarded a highly competitive NIH Mentored Research Scientist Development (K01) fellowship. Taken together, she has contributed expertise to grant awards totaling more than $3 million USD. She is an alumna of the Visiting Professors Program at the Center for AIDS Prevention Studies at the University of California, San Francisco. In 2020, Hull received the Board of Trustees Research and the Chancellor-Provost Award for Excellence in Community Engaged Scholarship at Rutgers University. She is currently adapting an evidence-based HIV prevention intervention to include modern prevention tools (i.e., PrEP) and to bolster Black women's efficacy and skills for navigating partner and health system barriers to PrEP use. The adapted program, Sistas Informing Sistas About Topics on AIDS and PrEP (SISTA-P), has demonstrated acceptability and feasibility in pilot studies.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "William Klein",
+   "title": "Dean and Distinguished Professor of Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/klein-william",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2026-07/william-klein-750x750.jpg?h=6b9bf2e9&itok=Sj5Rx4VX",
+   "google_scholar_url": "https://scholar.google.com/citations?user=giRmIM4AAAAJ&hl=en",
+   "research_areas": [
+    "Health Communication",
+    "Health Information",
+    "Human Information Behavior",
+    "Leadership",
+    "Misinformation"
+   ],
+   "bio": "William Klein joined Rutgers from the National Institutes of Health, where he served for 17 years directing the Behavioral Research Program at the National Cancer Institute (NCI) - providing strategic leadership in several research areas including health communication, psychological science, and health behavior. He also held an adjunct investigator appointment at the National Human Genome Research Institute, serving on the faculty of a joint NIH/Johns Hopkins graduate program in genetic counseling. A social psychologist, Klein studies how people process and respond to health information and health communication, especially information about risk—why individuals misperceive and avoid it and how messages about undesirable health outcomes can be communicated effectively. Most of his work focuses on risk perception and risk communication, information avoidance, and health-related judgment and decision-making. A prolific scholar, he has published more than 275 articles, chapters, and books and has received multiple honors including the American Psychological Association’s Meritorious Research Service Commendation. His earlier academic career spanned 18 years at Colby College and the University of Pittsburgh, where he held leadership roles including department chair and director of undergraduate studies, and earned several honors including the Chancellor's Distinguished Teaching Award at the University of Pittsburgh.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Directory department field: 'Dean's Office, Communication' (holds a dean's-office role in addition to the faculty appointment)."
+  },
+  {
+   "name": "Jeffrey Lane",
+   "title": "Associate Professor of Communication",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/lane-jeffrey",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-10/jeffrey-lane1400x1400.jpg?h=9e16a70f&itok=G8HlXAH0",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Communication and Technology",
+    "Youth Information, Technology, and Learning"
+   ],
+   "bio": "Jeffrey Lane studies communication and technology use as it relates to urban life, work, criminal justice, and youth culture. He develops and employs urban and digital ethnographic methods to examine up-close how people find community and meaning in their lives. Lane is the author of \"The Digital Street\" (Oxford University Press, 2019), which received the Nancy Baym Book Award from the Association of Internet Researchers and the Best Book Award from the Communication, Information Technologies, and Media Section of the American Sociological Association. Lane’s current ethnographic fieldwork examines micromobility in the South Bronx. Lane’s research also encompasses a variety of collaborative, team-based projects using surveys and mixed methods to examine issues including youth exposure to gun violence in online and offline settings and the impacts of social media on teenagers and parents in N.J. He serves on the editorial boards of Journal of Children and Media and Mobile Media & Communication. His research has been published in Journal of Communication, American Behavioral Scientist, Journal of Computer-Mediated Communication, and New Media & Society, and written about in The Atlantic, New York Times, and New York Magazine. Lane’s research has been funded by the New Jersey Department of Education, the National Science Foundation, and the Harry Frank Guggenheim Foundation.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Eu Gene Lee",
+   "title": "Assistant Professor of Communication",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/lee-eu-gene",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-08/eugene-lee-1400x1400.jpg?h=9e16a70f&itok=3u2Q-ViI",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Communication and Technology",
+    "Computational Social Science",
+    "Media and Technology",
+    "Organizational Communication",
+    "Public Relations and Strategic Communication"
+   ],
+   "bio": "Eugene Lee’s research draws on organizational communication, media technology, and leadership communication to examine how emerging technologies and AI-driven management systems (algorithmic management) shape employees’ and workers’ perceptions of their organizations and overall well-being. Her work explores the conflicts and friction that arise when AI technologies take on managerial roles, particularly when strategic communication is delivered by AI agents rather than humans, and how these dynamics influence relationships among organizational stakeholders. Her recent projects also examine group well-being, human–machine teamwork, and the ways people build community online. Lee’s research has been published in leading journals, including Communication Research, Journal of Medical Internet Research, Journal of Marketing Communication, Public Relations Review, Journal of Interpersonal Violence, Journal of Computational Social Science, Social Science Computer Review, Mass Communication and Society, Journal of Communication Management, International Journal of Strategic Communication, among others. She has received multiple Top Paper and Top Student Paper awards from the International Communication Association, the National Communication Association, and the Association for Education in Journalism and Mass Communication, as well as an Endowed Fellowship from the University of Southern California. Lee’s current projects focus on employees’ and gig workers’ experiences of autonomy, competence, and relatedness; how non-human agents impact knowledge sharing and Transactive Memory Systems; and multi-method studies on conceptualizing and measuring group well-being.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jianing Li",
+   "title": "Assistant Professor of Communication",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/li-jianing",
+   "personal_url": "https://jianingli.org/",
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-11/jianing-li-500x500.jpg?h=2a479378&itok=RYu7GeS5",
+   "google_scholar_url": "https://scholar.google.com/citations?user=fLEX53cAAAAJ&hl=en",
+   "research_areas": [
+    "Communication and Technology",
+    "Computational Social Science",
+    "Human Information Behavior",
+    "Media and Technology",
+    "Misinformation"
+   ],
+   "bio": "Jianing Li’s work explores how people make informed decisions in today’s digital communication environment. Her work investigates the roles of technology, identity, and community in shaping human communication processes. Using computational social science methods, quantitative methods, and mixed methods, her research examines how individuals use digital media to seek information, make sense of it, and engage in discussions, particularly in relation to issues of credibility, accuracy, and literacy. Her research has been published in peer-reviewed journals including Journal of Communication, Human Communication Research, New Media & Society, Information, Communication & Society, Social Media + Society, Political Communication, Social Science & Medicine, among others. She has received funding from the Social Science Research Council and the International Fact-Checking Network. Li has received the Thomas E. Patterson Best Dissertation Award from the American Political Science Association, Paper of the Year award from Mass Communication and Society, and several Top Paper awards from the International Communication Association and the Association for Education in Journalism and Mass Communication. Recently, her research has focused on user skepticism toward digital technologies and examining efforts aimed at improving media and information literacy across various communities and contexts.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Matthew Matsaganis",
+   "title": "Associate Professor of Communication",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/matsaganis-matthew",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-11/matthew-matsaganis-500x500.jpg?h=2a479378&itok=MO6eNuQo",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Communication and Technology",
+    "Health Communication",
+    "Media Production",
+    "Organizational Communication",
+    "Public Relations and Strategic Communication"
+   ],
+   "bio": "Matthew Matsaganis studies how communities, organizations, and institutions build the communication infrastructure that supports health, equity, and resilience—and what happens when they fail to. His work spans U.S. and European settings and asks how the systems people depend on to share information, coordinate care, and respond to crises get built (or break down) in the lived experience of patients, residents, and grassroots organizations. Across primary care clinics in New Jersey, immigrant micro-businesses in U.S. cities, solidarity outpatient clinics in Greece, and municipal governments responding to overlapping economic and pandemic crises, his research traces a common thread: communication is not the surface of health and civic life but its constitutive process. Matsaganis is co-director of Rutgers’ IAPP-Greece initiative, advancing health communication research and education in Greece and the U.S. through partnerships and study abroad. He co-led a Rutgers Global Health Institute study on the competencies and training needs of global health communication professionals. That work anchors a 2026 special issue of the Journal of Health Communication (“From Competencies to Capacity”), which he is co-editing. He serves on the editorial boards of the Journal of Health Communication and the European Journal of Health Communication. He co-authored and co-edited four books, including \"Understanding Ethnic Media\" (2011) and \"Ethnic Media in the Digital Age\" (2019). His work has appeared in Health Communication (recipient of a 2025 National Communication Association Top Paper Award), the Journal of Applied Communication Research, the Journal of Health Communication, and the International Journal of Communication, among others. Matsaganis was a Fulbright Scholar in Athens (2018).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lisa Mikesell",
+   "title": "Associate Professor of Communication",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/mikesell-lisa",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-11/lisa-mikesell-500x500.jpg?h=2a479378&itok=_iSwGXOp",
+   "google_scholar_url": "https://scholar.google.com/citations?user=IrZAAUMAAAAJ&hl=en",
+   "research_areas": [
+    "Health Communication",
+    "Language and Social Interaction"
+   ],
+   "bio": "Lisa Mikesell’s research consists of three intertwining threads guided by her interest in patient engagement and patient-clinician relationships, particularly as they relate to well-being and mental health communication. The first is situated in community contexts and examines interactional practices of patients, most notably of individuals diagnosed with neuropsychiatric disorders and children to provide a grounded perspective on competence, everyday functioning, and patient engagement. The second is situated in clinic contexts and provides an ecologically sensitive lens on applications of patient- and relationship-centeredness, shared decision-making, and the use of decision support strategies in the clinic. The third highlights patient engagement in the collective sense by exploring the practices, perceptions, and ethics of community-engagement in health communication research. She was the recipient of the AAUW’s American Dissertation Fellowship and the Child Intervention, Prevention and Services Institute fellowship awarded by the National Institute of Mental Health. Her projects center collaborations with the Department of Family Medicine, Pediatrics, and the Rutgers Cancer Institute that have been funded by the National Cancer Institute, the New Jersey Health Foundation, the New Jersey Alliance for Clinical and Translational Science, and the Rutgers Center for COVID-19 Response and Pandemic Preparation. Mikesell serves as a co-editor of the book series \"Language, Discourse and Mental Health\" (University of Exeter Press), showcasing language and discourse-based approaches to examining mental health/illness. Her current projects critically examine the landscape of mental health communication research within the discipline and also expand community-engaged approaches to incorporate youth as partners in mental health communication research.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Nitzan Navick",
+   "title": "Assistant Professor of Communication",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/navick-nitzan",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-11/nitzan-navick-1400x1400.jpg?h=9e16a70f&itok=eWz8qHWm",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Communication and Technology",
+    "Leadership",
+    "Organizational Communication"
+   ],
+   "bio": "Nitzan Navick is an organizational communication scholar whose research examines how communication technologies and evolving workplace norms influence employee well-being, especially among digital workers. Her work explores how organizations can foster belonging and well-being through strategic communication practices. She teaches courses in leadership, corporate social responsibility, and organizational communication from a global perspective, emphasizing cultural curiosity, international communication, and ethical practices as essential to building healthy, inclusive workplaces. Navick’s research has appeared in New Media & Society, Information, Communication & Society, and Management Communication Quarterly. She has also contributed to academic handbooks on negotiation, virtual work, qualitative research methods, and corporate social responsibility. Her accomplishments include the Open Education Global Open Research Award and presentations at major academic conferences such as the International Communication Association and the Academy of Management. Beyond academia, Navick consults with healthcare systems, municipalities, nonprofits, and private organizations to enhance workplace interaction, safety, and health. Her applied research identifies structural barriers to belonging and helps organizations implement communication-based strategies for sustainable change. At Rutgers, she continues to advance scholarship and teaching that support organizational thriving and individual well-being in today’s digital work environment.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Katherine (Katya) Ognyanova",
+   "title": "Professor of Communication and Director of the Rutgers Computational Social Science Lab",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/ognyanova-katherine-katya",
+   "personal_url": "https://kateto.net/",
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-08/katherine-ognyanova.jpg?h=09edcfa9&itok=4Md79cPz",
+   "google_scholar_url": "https://scholar.google.com/citations?user=5BaRpDQAAAAJ&hl=en",
+   "research_areas": [
+    "Communication and Technology",
+    "Computational Social Science",
+    "Media and Politics",
+    "Media and Technology",
+    "Misinformation"
+   ],
+   "bio": "Katherine (Katya) Ognyanova studies the structure of social and political processes in a changing information environment. Her work examines the effects of social influence and technology on civic and political behavior, confidence in institutions, information evaluation, and public opinion formation. Her methodological expertise spans computational social science, network science, and survey research. In recent publications, she explores the association of misinformation exposure with trust in science, media, and politics. She also investigates public attitudes towards artificial intelligence (AI). Ognyanova is the director of the Rutgers Computational Social Science Lab. She is a co-founder and principal investigator of the COVID States Project and the Civic Health and Institutions Project, two large multi-university initiatives exploring public attitudes to politics and health. Ognyanova also leads the National AI Opinion Monitor, an initiative tracking public perceptions, knowledge, and trust in artificial intelligence technologies. Ognyanova’s research has been supported by the National Science Foundation and the Russell Sage Foundation. Her work has been covered in news outlets including New York Times, NPR, Politico, Washington Post, and WIRED, among others. Her papers have appeared in leading communication journals such as Communication Research and Journal of Communication, as well as high-profile interdisciplinary journals such as Nature and PNAS. She is also a member of the Standing Committee on Advancing Science Communication at the National Academies of Sciences, Engineering, and Medicine.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Yonaira Rivera",
+   "title": "Associate Professor of Communication",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/rivera-yonaira",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2026-02/yonaira-rivera-500x500.jpg?h=6b9bf2e9&itok=IYg-qsPz",
+   "google_scholar_url": "https://scholar.google.com/citations?user=UcbgepkAAAAJ&hl=en",
+   "research_areas": [
+    "Communication and Technology",
+    "Health Communication",
+    "Health Information",
+    "Media and Technology",
+    "Misinformation"
+   ],
+   "bio": "Yonaira “Yoni” M. Rivera’s scholarship focuses on reducing health inequities and improving the well-being of Latino/a/x and underserved communities through health communication initiatives. She specifically focuses on understanding how engagement with health information on social media may impact health decisions, ensures access to multilingual and culturally-relevant health information, and facilitates community engagement through digital spaces. Rivera has received funding from the National Cancer Institute, including an F31 Ruth L. Kirschstein National Research Service Award and a Loan Repayment Program Award in health disparities research. She was a 2024 Douglass College Faculty Equity Fellow and received the 2025 Department of Communication Excellence in Teaching Award. She has published her work in leading communication and public health journals, including the Journal of Communication, Health Communication, and JMIR. Rivera’s current projects include developing community-led, culturally relevant, multilingual health communication interventions for Latino/a/x audiences, and exploring the role social media platforms play in facilitating health communication efforts among community leaders in Puerto Rico. She also studies how LLMs can communicate health information in accessible, reliable, and culturally sensitive ways. Rivera is an associate member of the Cancer Prevention & Control Program and member of the Center for Cancer Health Equity at the Rutgers Cancer Institute. She is also a core faculty member of the Rutgers Global Health Institute and affiliated faculty for the Rutgers Center for Latin American Studies.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kristina Scharp",
+   "title": "Professor of Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/scharp-kristina",
+   "personal_url": "https://edh476.wixsite.com/family-comm-lab",
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/kristina_scharp%2520.jpg?itok=S6SRtfrX",
+   "google_scholar_url": "https://scholar.google.com/citations?user=TFUGv-YAAAAJ&hl=en",
+   "research_areas": [
+    "Health Communication",
+    "Interpersonal Communication",
+    "Relationships and Families"
+   ],
+   "bio": "Kristina M. Scharp researches the experience of marginalization through three interrelated processes (the three “Rs”). Remaking disrupts taken-for-granted assumptions that foster inequity. Resistance challenges hegemonic structures and ideologies. Resilience illustrates the ways people cope with and respond to the major disruptions in their lives. She most often examines these three “Rs” in the contexts of relational distancing, complicated health diagnoses, and disenfranchised student populations. Scharp has over 100 publications, for which she has received Distinguished Article Awards, Early Career Awards, and Teaching/Mentoring Awards. She chairs the Award Committee for the International Association for Relationship Research, the Early Career Award Committee for the International Communication Association, and currently serves in the leadership rotation for the Central States Communication Association. Finally, she has served as associate editor for the Journal of Social and Personal Relationship and Communication Monographs as well as editor for a special issue of the Journal of Communication. Most recently, Scharp has co-authored two theories: the Theory of Communicative Disenfranchisement (TCD) and Communicative Relational Distancing Theory (CRDT), as well as developed a new qualitative method: Thematic Co-Occurrence Analysis (TCA). She also has two co-edited books forthcoming in 2026: the \"Handbook of Communication\" and \"Reconciliation: The Final Step in Achieving Nonviolent Social Change.\" These projects collectively contribute to better understanding the process of marginalization and those groups most disenfranchised by it.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Sarah Shugars",
+   "title": "Assistant Professor of Communication",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/shugars-sarah",
+   "personal_url": "https://sarahshugars.com",
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-11/sarah-shugars-500x500.jpg?h=2a479378&itok=PeOAsF-R",
+   "google_scholar_url": "https://scholar.google.com/citations?user=-x89JeEAAAAJ&hl",
+   "research_areas": [
+    "AI, Data Science, and Social Computing",
+    "Communication and Technology",
+    "Computational Social Science",
+    "Media and Politics",
+    "Social Movement Activism"
+   ],
+   "bio": "Sarah Shugars' work focuses on how everyday people talk about, engage with, and collectively shape the modern world around them. Bringing together computational social science and the principles of deliberative democracy, they develop new text and network methods for examining the relational nature of public life, the linguistic modes through which people express themselves, and the technological affordances that shape digital discourse. Their work has been published in numerous top journals including Social Media + Society, the Journal of Computer-Mediated Communication, EPJ Data Science, and the American Political Science Review. Additionally, their work has been recognized by the Organizational Communication division of the National Communication Association, as well as by the Political Communication and Political Networks division of the American Political Science Association. In 2025, they received the award for Distinguished Achievement in Research from SCI's Department of Communication as well as the Outstanding Faculty Member Award from SCI's Doctoral Students Association. As a first-generation-to-college student, they are deeply committed to increasing access and equity in higher education. To this end, they have conducted numerous introductory workshops on computational methods and published training guides aimed at demystifying computational social science. They have also published resources on thriving in academia, including contributing to three chapters in the guidebook \"Strategies for Navigating Graduate School and Beyond.\"",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jennifer Theiss",
+   "title": "Director of the Ph.D. Program and Professor of Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/theiss-jennifer",
+   "personal_url": "https://www.jentheiss.com/",
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-11/jen-theiss-1400x1400.jpg?h=9e16a70f&itok=lIZtzQcR",
+   "google_scholar_url": "https://scholar.google.com/citations?user=lC8B2VYAAAAJ&hl=en",
+   "research_areas": [
+    "Health Communication",
+    "Interpersonal Communication",
+    "Relationships and Families"
+   ],
+   "bio": "Jennifer Theiss' research examines the ways that interpersonal communication shapes and reflects relationship characteristics during times of transition in romantic relationships and families. Her work advances relational turbulence theory, which positions relational uncertainty and interdependence processes as relationship qualities that are heightened during transitions and intensify emotions, cognitions, and communication behaviors during high-stakes interpersonal episodes. She applies longitudinal and dyadic methodologies to study how repeated volatile episodes between partners can contribute to an overarching climate of turbulence in the relationship over time, which further undermines dyadic functioning and routine communication behavior. Theiss has been recognized with multiple awards for her scholarship. She is a fellow of the International Association for Relationship Research and the recipient of the Bernard J. Brommel Award for Outstanding Research or Distinguished Service in Family Communication from the National Communication Association. Her book, \"The Experience and Expression of Uncertainty in Close Relationships,\" was recognized with the Gerald R. Miller Book Award from the Interpersonal Communication Division of the National Communication Association. Five of her publications have received Distinguished Article Awards and her work has been featured on Top Paper Panels at the National Communication Association and International Communication Association 16 times. Theiss recently co-edited the \"Routledge Handbook of Communication and Resilience.\" She also co-authored the third edition of the textbook, \"Interpersonal Communication: Putting Theory into Practice.\" She is currently the lead editor working on the \"Handbook of Relational Turbulence\" with Cambridge University Press.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Maria Venetis",
+   "title": "Professor of Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/venetis-maria",
+   "personal_url": "http://MariaVenetis.com",
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-11/maria-venetis-500x500.jpg?h=2a479378&itok=FDIEG1nG",
+   "google_scholar_url": "http://scholar.google.com/citations?user=C7RVoPEAAAAJ&hl=en",
+   "research_areas": [
+    "Health Communication",
+    "Interpersonal Communication",
+    "Relationships and Families"
+   ],
+   "bio": "Maria Venetis is an interpersonal communication scholar who examines how dyads manage health-related issues. Her scholarship addresses how clinicians, patients, and companions navigate medical interactions, and how particular communication behaviors promote patient well-being. She also studies how patients and close others such as partners and family communicate about or avoid discussing health issues and the impact of these behaviors on psychosocial and relational outcomes. Venetis is particularly interested in dyadic communication processes that enact resilience within couples managing a stressor as well as how individuals share private information with others. Venetis has been praised for both her research and teaching. Recent research accolades include the 2024 Excellence in Research Award from the Department of Communication and the 2024 Distinguished Article Award from the National Communication Association Health Division. Her teaching and mentorship has been acknowledged and honored with the Warren I. Susan Award for Excellence in Teaching from Rutgers University. Venetis and Hull edited a special section of Patient Education and Counseling (2025) on diversity, equity, and inclusion in patient engagement in healthcare interactions. Venetis and colleagues (Doerfel, Theise, & Scharp) have co-edited \"The Routledge Handbook of Communication and Resilience\" (2026). Current research includes examining how adolescent and young adult cancer survivors and their parents communicate to promote survivor cancer management independence and resilience processes among dyads managing health stressors. Venetis is the co-director of the CommUnity Health Action Lab (CUHALab).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Matthew Weber",
+   "title": "Professor of Communication",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/weber-matthew",
+   "personal_url": "http://matthewsweber.com/",
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-11/matt-webber-500x500.jpg?h=2a479378&itok=qRfr2cfS",
+   "google_scholar_url": "https://scholar.google.com/citations?user=a1YrDqsAAAAJ&hl=en",
+   "research_areas": [
+    "Communication and Technology",
+    "Computational Social Science",
+    "Journalism",
+    "Media and Technology",
+    "Organizational Communication"
+   ],
+   "bio": "Matthew Weber’s research examines organizational change and the evolution of media ecosystems in relation to the use of new information communication technologies. He examines organizational change from both an internal and external perspective, focusing on the interaction between macro-and micro-level changes. He has studied organizations in a variety of contexts, focusing extensively on the transformation of the news media industry in the U.S., an analysis of local newspaper ecosystems, research on technology use in large multinational organizations, and work on social movements. Weber utilizes mixed methods in his work, including social network analysis, archival research, and interviews. He is developing new methodology for using large-scale big data for tracing organizational processes. In addition, he leads a major initiative to map local news media systems, leveraging artificial intelligence and advanced analytics to categorize local news and geolocate stories. He has received extensive funding from the National Science Foundation, Department of Energy, William T. Grant Foundation, Democracy Fund, Social Sciences and Humanities Research Council, Rutgers University and the Knight Foundation. Weber is currently focused on research examining communities and trust in information, as well as research on local news ecosystems. In addition, Weber is chair of the Computational Methods Division of the International Communication Association, and the chair of the WSTNet Network of Web Science Labs. He has received awards for his research from the International Communication Association, the National Communication Association and the Association for Education in Journalism and Mass Communication.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "DaJung (DJ) Woo",
+   "title": "Associate Professor of Communication",
+   "rank": "Associate Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/woo-dajung-dj",
+   "personal_url": "https://sites.comminfo.rutgers.edu/djwoo/",
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-11/dajung-woo-500x500.jpg?h=2a479378&itok=XQrhKfBf",
+   "google_scholar_url": "https://scholar.google.com/citations?user=iH2TCQ8AAAAJ&hl=en&oi=ao",
+   "research_areas": [
+    "Communication and Technology",
+    "Information and Knowledge Organization",
+    "Leadership",
+    "Organizational Communication",
+    "Public Relations and Strategic Communication"
+   ],
+   "bio": "DaJung (DJ) Woo’s research explores the complex communication processes that shape organizational and vocational life. Her work focuses on employee socialization, interprofessional and interorganizational collaboration, and stakeholder engagement—core processes critical to organizational effectiveness and individual development. Using primarily qualitative methods, she investigates how individuals socialized in various professional and organizational settings collaborate across differences. She also examines the growing influence of technology use, particularly generative AI, as a source of vocational and organizational socialization and the ways it both enables and constrains collaborative communication, with particular attention to the implications of AI knowledge gaps. Her empirical work spans urban planning, hospital emergency rooms, and statewide homelessness initiatives, highlighting communication’s role in addressing complex problems by fostering connection within and across organizations. She also frequently studies early-career professionals, whose organizational communication is often marked by heightened uncertainty and liminality as they make sense of their workplace experiences and navigate increasingly extended working lives. Woo has published her research in top-tier communication journals, including Journal of Communication, Human Communication Research, Communication Monographs, and Management Communication Quarterly. Woo has received competitive research awards, including top conference paper awards, article of the year awards, and dissertation awards, from the National Communication Association (NCA), the International Communication Association (ICA), the Academy of Management, and ARNOVA (the Association for Research on Nonprofit Organizations and Voluntary Action).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Itzhak Yanovitzky",
+   "title": "Professor of Communication and Chair of the SC&I Health and Wellness Faculty Cluster",
+   "rank": "Professor",
+   "department": "Department of Communication",
+   "profile_url": "https://comminfo.rutgers.edu/yanovitzky-itzhak",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2026-10/itzhak-yanovitzky-1000x1000.jpg?h=1e66e246&itok=zwbyKHUt",
+   "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=S62X8D0AAAAJ",
+   "research_areas": [
+    "Health Communication",
+    "Health Information",
+    "Human Information Behavior",
+    "Information and Knowledge Organization",
+    "Media Effects"
+   ],
+   "bio": "Itzhak Yanovitzky is an expert in the areas of behavior change communication, public policymaking, translational research, and program evaluation. His mixed-methods program of research explores effective mechanisms for facilitating the use of evidence in policy and practice and building the capacity of systems and communities to apply communication strategies and tools to promote population health. Yanovitzky has extensive experience partnering with collaborators across academic disciplines and sectors to address a range of public health problems, including most recent efforts to address the opioid epidemic and the rising toll of youth depression and suicide. Yanovitzky’s groundbreaking work on knowledge-brokering by intermediaries (journalists, advocates, community leaders, etc.) and via information technologies (e.g., dashboards) as a means for facilitating evidence-informed policies and practices at all levels (individual, community, and system) has been continuously supported by grants from the National Institutes of Health, William T. Grant Foundation, Robert Wood Johnson Foundation, and others. He is past member of the National Academies of Science, Engineering, and Medicine’s standing committee on Advancing Science Communication, past chair of the international Communication Association's Health Communication Division, and a recipient of the 2022 Rutgers University’s Faculty Scholar-Teacher Award. His current projects center on the notion of actionable knowledge (timely, relevant, and credible information that enables individuals or organizations to take specific, effective actions to achieve desired outcomes) and developing a framework for guiding the co-design and implementation of actionable data dashboards and similar tools (including AI) that are equally responsive and adaptable to the needs and abilities of different users.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Melissa Aronczyk",
+   "title": "Professor of Journalism and Media Studies",
+   "rank": "Professor",
+   "department": "Department of Journalism and Media Studies",
+   "profile_url": "https://comminfo.rutgers.edu/aronczyk-melissa",
+   "personal_url": "http://melissaaronczyk.com/",
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2026-01/melissa-aronczyk-500x500.jpg?h=2a479378&itok=HT3Bo7_8",
+   "google_scholar_url": "https://scholar.google.com/citations?user=3XkitFUAAAAJ&hl=en",
+   "research_areas": [
+    "Cultural Studies",
+    "Information and Knowledge Organization",
+    "Media and Politics",
+    "Misinformation",
+    "Public Relations and Strategic Communication"
+   ],
+   "bio": "Melissa Aronczyk’s research, writing, and teaching aim to reorient debate over the role of organized persuasion in the conditions of public life. She investigates the tension between civic modes of discourse and technical ones, through critical evaluations of organized systems of influence, political rhetoric and logic, and media platforms. Aronczyk is the co-author, with Maria Espinoza, of A Strategic Nature: Public Relations and the Politics of Environmentalism (Oxford University Press), which received the 2023 Roderick P. Hart Outstanding Book Award in Political Communication and the 2022 Outstanding Book Award in Public Relations, Innovation, Development and Educational Achievement, both from the National Communication Association. Other books include Branding the Nation: The Global Business of National Identity (Oxford, 2013) and Blowing Up the Brand: Critical Perspectives on Promotional Culture (2010), edited with Devon Powers. Aronczyk’s research has been featured in T he Nation, the Financial Times, the BBC, Rolling Stone, CNBC, The Intercept, Grist, AdWeek, and Yes Magazine. She has also written stories about sustainability for The Washington Post and Foreign Policy magazine. Her research has been funded by the National Science Foundation, the Climate Social Science Network, and the Social Sciences and Humanities Research Council of Canada. She chaired the Popular Media and Culture division of the International Communication Association and serves on advisory boards for research programs in the U.S., Denmark, England, Finland, and Ireland. At Rutgers, Aronczyk is a Faculty Associate with the Eagleton Institute of Politics, Affiliated Graduate Faculty with the Department of Sociology, and a research affiliate with the Climate and Energy Institute. With Jeff Lane, she founded and hosts the Digital Ethnography Working Group at Rutgers.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jack Bratich",
+   "title": "Professor of Journalism and Media Studies",
+   "rank": "Professor",
+   "department": "Department of Journalism and Media Studies",
+   "profile_url": "https://comminfo.rutgers.edu/bratich-jack",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-12/jack-bratich-500x500.jpg?h=2a479378&itok=m2UlvbKf",
+   "google_scholar_url": "https://scholar.google.com/citations?user=FiFsYsMAAAAJ&hl=en",
+   "research_areas": [
+    "Cultural Studies",
+    "Gender, Race, and Class in Media",
+    "Media and Politics",
+    "Media and Technology",
+    "Social Movement Activism"
+   ],
+   "bio": "Jack Z. Bratich is professor of journalism and media studies at Rutgers University. He has written dozens of articles, book chapters, and essays about the intersection of popular culture and political culture. His work applies social and political theory to such topics as social movements, craft culture, social media, and the cultures of secrecy. He is author of On Microfascism: Gender, War, Death (Common Notions, 2022); Conspiracy Panics: Political Rationality and Popular Culture (2008) and coeditor of Foucault, Cultural Studies, and Governmentality (2003). He is currently working on a book tentatively titled “ Deathstyle Media: Digital Cultures of the Far Right.\"",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lauren Feldman",
+   "title": "Chair and Professor of Journalism and Media Studies",
+   "rank": "Professor",
+   "department": "Department of Journalism and Media Studies",
+   "profile_url": "https://comminfo.rutgers.edu/feldman-lauren",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-09/lauren-feldman-1400x1400.jpg?h=9e16a70f&itok=QsKvThTu",
+   "google_scholar_url": "https://scholar.google.com/citations?user=lcitPWIAAAAJ&hl=en",
+   "research_areas": [
+    "Media and Politics",
+    "Media Effects",
+    "Misinformation"
+   ],
+   "bio": "Lauren Feldman studies the effects of media on public knowledge, opinion, and behavior, particularly in the contexts of political, science, and environmental issues. Her recent research emphasizes three primary areas of interest: climate change communication, partisan media and misinformation, and comedy and social change. She teaches courses on entertainment and politics, media effects, media and climate change, and quantitative research methods. Feldman has published over 40 peer-reviewed journal articles and book chapters. She is co-author (with Caty Borum) of A Comedian and an Activist Walk into a Bar: The Serious Role of Comedy in Social Justice (University of California Press, 2020). Her research has been supported by grants from the National Science Foundation, the Spanish Ministry of Science, and the Carnegie-Knight Task Force on Journalism, among other funders, and has been recognized with various academic awards. Feldman serves on the editorial boards of Journal of Communication, Communication Research, Science Communication, and Environmental Communication, and she is an affiliate of the Rutgers Climate & Energy Institute and the George Mason University Center for Climate Change Communication. She also served on the National Academies of Science, Engineering, and Medicine's committee on \" Understanding and Addressing Misinformation about Science.\" Feldman’s current research focuses on how climate change is communicated in the media and how individuals respond to this information. She is studying the effects of solutions-focused messages on climate policy support and political behavior, the role of hope in climate change communication, and strategies for communicating about climate justice.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Brooklyne Gipson",
+   "title": "Assistant Professor of Journalism and Media Studies",
+   "rank": "Assistant Professor",
+   "department": "Department of Journalism and Media Studies",
+   "profile_url": "https://comminfo.rutgers.edu/gipson-brooklyne",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2026-10/brooklyne-gipson-1000x1000.jpg?h=1e66e246&itok=Aadyj_eQ",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Communication and Technology",
+    "Cultural Studies",
+    "Media and Politics",
+    "Media and Technology",
+    "Misinformation"
+   ],
+   "bio": "Brooklyne Gipson is an internet studies scholar whose research examines digital and social media environments through the lenses of Black feminist technology studies and the intersection of race, gender, and power. Her current work utilizes an intersectional framework and mixed methodologies (including digital ethnography and discourse analysis) to analyze how anti-Black discourses circulate in everyday exchanges within Black social media spaces. In 2021, Gipson received a fellowship from the Harvard Kennedy School of Government’s Shorenstein Center for Media, Politics and Public Policy to support research on her forthcoming first book, The Black Mirror World: Racialized Disinformation and Misogynoir Online, which explores the iterative relationship between contempt for Black women, disinformation, cognitive bias, and algorithmic recommendation systems. Gipson is an editor of the forthcoming edited volume \"Intersectional Internet II: Power, Politics and Labor.\" She is also an affiliate of the NYU Center for Critical Race and Digital Studies.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "David Greenberg",
+   "title": "Distinguished Professor of Journalism and Media Studies and of History",
+   "rank": "Professor",
+   "department": "Department of Journalism and Media Studies",
+   "profile_url": "https://comminfo.rutgers.edu/greenberg-david",
+   "personal_url": "http://greenberg.rutgers.edu/",
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/David%2520Greenberg%2520copy%25202_1.JPG?itok=UVipKJfB",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "David Greenberg is a historian of American politics and culture, with a focus on America since 1900. His award-winning books include Nixon's Shadow: The History of an Image (Norton, 2003), Republic of Spin: An Inside History of the American Presidency (Norton, 2016), and, most recently, John Lewis: A Life (Simon & Schuster, 2016). His work explores politics, the presidency, Congress, the Supreme Court, political parties, political culture, political ideas and ideology, civil rights, public opinion, and public policy. He also writes about a range of cultural topics, including literature and film; about journalism, news, and the news media; and about biography, historiography, and historical writing. His most recent book is John Lewis: A Life, which, among other honors, was a finalist for the Pulitzer Prize in biography.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Joint appointment with History; listed as core JMS faculty in the JMS directory filter."
+  },
+  {
+   "name": "Amy Jordan",
+   "title": "Distinguished Professor of Journalism and Media Studies",
+   "rank": "Professor",
+   "department": "Department of Journalism and Media Studies",
+   "profile_url": "https://comminfo.rutgers.edu/jordan-amy",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/jordan_amy_headshot_2024.jpg?itok=OG4yxHm5",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Amy Jordan’s research and teaching examine the role of media in the lives of children and adolescents, with particular attention to how media shape development, family life, and health across the life span. She also collaborates with interdisciplinary teams to design and test culturally sensitive, health-related media campaigns for diverse communities. She is the author and editor of books including “Media and the Well-Being of Children and Adolescents” and “Children, Adolescents, and Media: The Future of Research and Action.” Her scholarship appears in journals such as Journal of Communication, Pediatrics, Communication Research, Journal of Family Communication, and Media Psychology, and has been supported by agencies and foundations including the Centers for Disease Control and Prevention, the National Institute of Child Health and Human Development, the Robert Wood Johnson Foundation, and the National Captioning Institute. In 2018, she was elected to the Board of Trustees of Sesame Workshop, where she currently chairs the Education Committee, helping to bridge research on children and media with the design of educational content for children and families around the world. She served as president of the International Communication Association from 2015 to 2016, and as co-editor of the Journal of Children and Media from 2012 to 2020.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Susan Keith",
+   "title": "Associate Dean for Programs and Professor of Journalism and Media Studies",
+   "rank": "Professor",
+   "department": "Department of Journalism and Media Studies",
+   "profile_url": "https://comminfo.rutgers.edu/keith-susan",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2026-10/susan-keith-1000x1000.jpg?h=1e66e246&itok=1BLHWYtg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=wntoWn0AAAAJ&hl=en",
+   "research_areas": [
+    "Journalism",
+    "Media and Technology",
+    "Media Production",
+    "Social, Critical Informatics, and Information Policy"
+   ],
+   "bio": "A former journalist, Susan Keith studies the evolving nature of journalism in periods of transition and conflict. She uses qualitative and quantitative methods to examine journalistic content, especially visual coverage of war and conflict; journalistic practice, including ethical, legal, and professional norms; and journalism education. She is particularly interested in visual journalism, digital media law, and the work lives of journalists. She is the co-editor of “Teaching Journalism Online: A Handbook for Journalism Educators” and editor of the forthcoming “Teaching Communication, Volume III: Media and Journalism.” Her research has appeared in journals such as Journalism & Mass Communication Quarterly, Journalism Studies, Journalism, Journal of Broadcasting & Electronic Media, and Visual Communication Quarterly, among others. Keith served as past president of the Association for Education in Journalism and Mass Communication from 2022 to 2023, after serving as president from 2021 to 2022, president-elect, and vice president. Within SC&I, her leadership includes service as associate dean for programs, chair of the Department of Journalism and Media Studies, and coordinator of the Digital Media track in the master’s program. She teaches media law at the undergraduate, master’s, and Ph.D. levels, and courses in editing and design and digital media law and policy. Her honors include being named an Emerging Scholar by AEJMC and a Page Legacy Scholar by the Arthur W. Page Center at Penn State University. Before pursuing her Ph.D., she spent 16 years as a reporter, copy editor, and page designer at daily newspapers in Alabama and Florida.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Directory department field: 'Dean's Office, Journalism and Media Studies' (holds a dean's-office role in addition to the faculty appointment)."
+  },
+  {
+   "name": "Youngrim Kim",
+   "title": "Assistant Professor of Journalism and Media Studies",
+   "rank": "Assistant Professor",
+   "department": "Department of Journalism and Media Studies",
+   "profile_url": "https://comminfo.rutgers.edu/kim-youngrim",
+   "personal_url": "https://youngrim-kim.com/",
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/Youngrim%2520Kim.JPG?itok=JJjjfGlf",
+   "google_scholar_url": "https://scholar.google.com/citations?user=BL7lUioAAAAJ&hl=en&oi=ao",
+   "research_areas": [
+    "Cultural Studies",
+    "Global Media Studies",
+    "Media and Technology",
+    "Social, Critical Informatics, and Information Policy"
+   ],
+   "bio": "Drawing on digital media studies, critical data studies, and science and technology studies, Youngrim Kim examines the politics of datafication and platform governance from global and transnational perspectives. Using qualitative and interpretive methods, she examines how digital platforms and data-driven systems shape state practices and civic life. Her research highlights how large-scale data infrastructures—such as pandemic surveillance technologies and environmental monitoring systems—function as instruments of governance that reconfigure ideas of public interest, citizenship, and belonging. She also analyzes the reverse dynamic: how grassroots actors engage with, contest, or reimagine these systems. Broadly, her research program centers on three interconnected areas: (1) data politics and governance, (2) the geopolitics of digital infrastructures, and (3) global media cultures. Kim’s research has appeared in leading journals in communication and information studies, including Big Data & Society, New Media & Society, Information, Communication & Society, International Journal of Communication, Communication, Culture & Critique, and Journalism. Her scholarship has been recognized with awards from the International Communication Association, ProQuest, and the Rutgers Research Council, as well as an international fellowship from the American Association of University Women. Her current book project, tentatively titled Infrastructures of Vilification: Pandemic Surveillance, Co-opted Publics, and Coded Injustice in South Korea, offers a critical analysis of South Korea’s data-driven governance during public health emergencies, focusing on the 2015 MERS outbreak and the COVID-19 pandemic. Her next project turns to transnational e-commerce platforms—such as Amazon Storefront, TikTok shop, Temu, and Naver Smartstore—to examine the politics of cross-border digital logistics infrastructures.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Deepa Kumar",
+   "title": "Professor of Journalism and Media Studies",
+   "rank": "Professor",
+   "department": "Department of Journalism and Media Studies",
+   "profile_url": "https://comminfo.rutgers.edu/kumar-deepa",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2026-01/deepa-kumar-500x500.jpg?h=2a479378&itok=RVJCecdq",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Cultural Studies",
+    "Gender, Race, and Class in Media",
+    "Media and Politics",
+    "Social Movement Activism"
+   ],
+   "bio": "Deepa Kumar is an internationally renowned scholar of anti-Muslim racism. Her acclaimed book Islamophobia and the Politics of Empire has been translated into five languages, with a fully revised and expanded second edition published in 2021. She has authored over 90 publications, including books, peer-reviewed journal articles, book chapters, and essays in both independent and mainstream media. Kumar has given dozens of lectures at universities around the world and participated in over 200 media interviews, sharing her insights through outlets such as the BBC and The New York Times. As a public intellectual, her work has had a significant impact beyond academia. At Rutgers University, she served as vice-president and president of the Rutgers AAUP-AFT academic union. Over the course of a decade, she brought a sustained and transformative focus on race and gender equity to the union, advancing an intersectional approach to labor organizing and institutional change. She founded and co-chaired the University Committee on Diversity, Race, and Gender, where she led the development and implementation of several university-wide initiatives. She was also the inaugural chair of the STRIDE committee at New Brunswick. Her contributions have been recognized with numerous honors, including the AAUP’s Marilyn Sternberg Award and the Georgina Smith Award. Notably, she was the first associate professor to receive the Dallas Smythe Award for her engaged scholarship. Kumar is currently working on a book under contract with the University of California Press titled Terrorcraft: Empire and the Weaponization of Security.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Dafna Lemish",
+   "title": "Distinguished Professor of Journalism and Media Studies Former Interim Dean",
+   "rank": "Professor",
+   "department": "Department of Journalism and Media Studies",
+   "profile_url": "https://comminfo.rutgers.edu/lemish-dafna",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-05/dafna-lemish.jpg?h=f99d5775&itok=FsZL5W_4",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Cultural Studies",
+    "Gender, Race, and Class in Media",
+    "Media and Technology",
+    "Media Effects",
+    "Relationships and Families"
+   ],
+   "bio": "Dafna Lemish studies the role of media in children’s lives from global, interdisciplinary, and multi-method perspectives. She is particularly interested in gender representations and the role of media in the formation of gender identities. In recent years, she has leveraged her experience as an academic immigrant and explored the challenges experienced and benefits offered by this unique group of academics. She is an award-winning prolific author and editor of numerous books, journal articles, and book chapters, the founding editor of the Journal of Children and Media, and a fellow of the International Communication Association (ICA). She participated in various cross-cultural projects and traveled the world to share knowledge. She serves on multiple editorial and advisory boards. She is also proud of her various administrative roles and her ability to help facilitate the development of programs, the careers of other scholars, and the growth of her students. After over 20 years of serving in academic administrative roles in three different institutions in two countries (chair, dean, associate dean, and interim dean), Lemish is looking forward to wrapping up research collaborations, including in the study of primary and secondary forms of mediation of children’s media.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Regina Marchi",
+   "title": "Professor of Journalism and Media Studies",
+   "rank": "Professor",
+   "department": "Department of Journalism and Media Studies",
+   "profile_url": "https://comminfo.rutgers.edu/marchi-regina",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2026-01/regina-marchi-500x500_0.jpg?h=2a479378&itok=Cq5Ya2lv",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Cultural Studies",
+    "Media and Politics",
+    "Social Movement Activism",
+    "Youth Information, Technology, and Learning"
+   ],
+   "bio": "Regina Marchi's research examines alternative media and civic engagement, focusing on populations historically marginalized from official politics and news media. She has studied youth and news, youth political engagement via social media and community radio; Latinx public art as political communication, religious yard statues as vernacular media; activist media in under-resourced communities, and the relationship between media and civil rights activism. Ultimately, she is interested in the agency of communities to creatively appropriate and hybridize media formats to build community and foster participatory cultures in order to bring about a more just society. Marchi has received national and international recognition for her research, including the James W. Carey Media Award from the Carl Couch Center for Internet and Media Research; the Nancy Baym Top Book Award from the Association of Internet Researchers; the International Latino Book Award from the American Library Association/Latino Literacy Now; and the George Washington Public Communication Award from the National Freedoms Foundation. Marchi recently published an expanded edition of her award-winning book, Day of the Dead in the USA: The Migration and Transformation of a Cultural Phenomenon (Rutgers University Press) and is currently studying transnational activist influences on Gaeltacht civil rights media activism in Ireland. She is founding director of the Dept. of Journalism and Media Studies' short-term study abroad courses in Guatemala and in Ireland, and co-director of JMS's Global Journalism Program in Bologna, Italy. Marchi also received Rutger's highest teaching honor, The Warren I. Susman Award for Excellence in Teaching.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "John V. Pavlik",
+   "title": "Distinguished Professor of Journalism and Media Studies",
+   "rank": "Professor",
+   "department": "Department of Journalism and Media Studies",
+   "profile_url": "https://comminfo.rutgers.edu/pavlik-john-v",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-07/john-pavlik.jpg?h=6a8e133e&itok=Sf24EzC_",
+   "google_scholar_url": null,
+   "research_areas": [
+    "AI, Data Science, and Social Computing",
+    "Communication and Technology",
+    "Journalism",
+    "Media and Technology"
+   ],
+   "bio": "John Pavlik’s research is distinguished by a unique approach to investigating the role of changing technology in the transformation of journalism, media, and society. His research is grounded in multiple methods of qualitative and quantitative investigation. Pavlik’s work focuses on the role of emerging technologies on the content of journalism and media, the work practices of journalists and media professionals, the organization, structure, management, and regulation of media, and the relationship between media and the public. Pavlik has received funding for his research from the National Oceanic and Atmospheric Administration, the New Jersey Press Association Foundation, the Qatar National Research Fund, and other sources. In 2008, he was named Distinguished Fulbright Chair in Media Studies at the Academy of Fine Arts in Vienna. In 2023, Pavlik was named a fellow of the International Communication Association. In 2025, he received the Textbook and Academic Authors Association award for Converging Media (8th edition), which was published by Oxford University Press and co-authored with his former doctoral advisee and Rutgers alumnus Shawn McIntosh. Pavlik’s research focus is currently on the implications of artificial intelligence for journalism, media, and society. He is under contract for The DeGruyter Handbook of Artificial Intelligence and Journalism, co-edited with his former doctoral advisee and Rutgers alumnus Shravan Regret Iyer. Pavlik is also under contract to write Artificial Intelligence and the Media: Considering the Risks and Rewards (Routledge). His teaching includes courses he designed on artificial intelligence and the media, digital media innovation, and experiential media.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Celeste Wagner",
+   "title": "Assistant Professor of Journalism and Media Studies",
+   "rank": "Assistant Professor",
+   "department": "Department of Journalism and Media Studies",
+   "profile_url": "https://comminfo.rutgers.edu/wagner-celeste",
+   "personal_url": "https://celestewagner.com/",
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/assistant_professor_maria_celeste_wagner.jpeg?itok=zKYdfT-X",
+   "google_scholar_url": "https://scholar.google.com.ar/citations?user=fUa24iAAAAAJ&hl=en&oi=ao",
+   "research_areas": [
+    "Gender, Race, and Class in Media",
+    "Global Media Studies",
+    "Journalism",
+    "Media and Politics",
+    "Misinformation"
+   ],
+   "bio": "Celeste Wagner’s research examines how and why everyday people embrace or resist social change, with a focus on gender issues and feminism. She also studies media reception more broadly, including how audiences engage with news and entertainment. She has conducted panel studies, interviews, virtual focus groups, nationally representative surveys, survey experiments, and other cross-national mixed-method research. Her recent publications analyze feminist advocacy in Argentina and the U.S., the reception of Turkish TV dramas in Argentina (both in the Journal of Communication), global communication as epistemology (Media, Culture & Society), and emotional experiences with news and misinformation in the U.S. (Journalism and Digital Journalism). Her coauthored book, The Patina of Distrust (MIT Press, 2025), has won the AEJMC-Knudson Latin America Prize Book Award, the NCA Political Communication Division’s Roderick P. Hart Outstanding Book Award, and (jointly) ASIS&T’s Best Information Science Book Award, and received honorable mentions from ICA and APSA (all in 2026). Her current book project, Under the Wave: Why Feminist Ideas Land Differently Among Everyday People (under review), is based on her multiple-award-winning dissertation, which received four awards in 2023: the Gerald R. Miller Outstanding Dissertation Award from NCA; the Best Dissertation Award from ICA’s Global Communication and Social Change Division; the Lynda Lee Kaid Outstanding Dissertation Award from NCA’s Political Communication Division; and the Best Dissertation Award from NCA’s International and Intercultural Communication Division. She also received the 2025 Distinguished Achievement in Research Award from Rutgers University’s Department of Journalism and Media Studies and was named the 2023 Junior International Educator of the Year by the University of Florida’s College of Journalism and Communications. Wagner’s other current projects examine how liberals and conservatives in the U.S.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Khadijah Costley White",
+   "title": "Associate Professor of Journalism and Media Studies",
+   "rank": "Associate Professor",
+   "department": "Department of Journalism and Media Studies",
+   "profile_url": "https://comminfo.rutgers.edu/white-khadijah-costley",
+   "personal_url": "http://www.khadijahwhite.com",
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/2025-11/khadijah-white-500x500.jpg?h=2a479378&itok=ZMUoR57b",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Gender, Race, and Class in Media",
+    "Journalism",
+    "Media and Politics",
+    "Media Production",
+    "Social Movement Activism"
+   ],
+   "bio": "Khadijah Costley White is a media and politics scholar whose work examines race, gender, and social change in news and popular media. She studies how journalism, popular culture, and political communication shape understandings of activism, democracy, and belonging. White brings a cultural studies approach to questions of power, representation, and equity in media industries, texts, and audiences. White is the author of “The Branding of Right-Wing Activism: The News Media and the Tea Party” (Oxford, 2018) and co-editor of “Media and January 6th,” which brings together media and communication scholars to analyze the politics and news coverage of the January 6th coup attempt. Her scholarship appears in outlets such as Communication, Culture, and Critique, Urban Geography, and other journals. She also consults on documentary films and has served as an external advisor to the MacArthur Foundation on journalism and media. White is the founder and executive director of SOMA Justice, a community nonprofit organizing for racial, social, and economic justice in South Orange and Maplewood, New Jersey. Her public writing and commentary on race, social movements, news, and politics have appeared in outlets such as The Atlantic, The New York Times, The Root, Huffington Post, BBC, The Washington Post, and The Los Angeles Times. In 2020–2021, she was a Whiting Public Engagement Fellow. She worked on an Emmy-nominated team at NOW on PBS, was awarded a National Association of Black Journalists/United Nations reporting fellowship to Senegal, and interned on the Obama administration’s Broadcast Media team at the White House.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Todd Wolfson",
+   "title": "Associate Professor of Journalism and Media Studies – On leave from 2025 to 2027",
+   "rank": "Associate Professor",
+   "department": "Department of Journalism and Media Studies",
+   "profile_url": "https://comminfo.rutgers.edu/wolfson-todd",
+   "personal_url": null,
+   "photo_url": "https://comminfo.rutgers.edu/sites/default/files/styles/1x1_half_default_1x/public/Todd-Wolfson.jpg?itok=vl0zgRPq",
+   "google_scholar_url": "https://scholar.google.com/citations?user=gO0y7lIAAAAJ&hl=en&oi=ao",
+   "research_areas": [],
+   "bio": "Todd Wolfson is an anthropologist by training. His research is a mixture of traditional and cyber-based ethnography and he has been supported by the Social Science Research Council and the National Telecommunications and Information Administration.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Directory title says 'On leave from 2025 to 2027'. Listed 'Personal Website' (toddwolfson.org) is now an unrelated spam domain and was dropped. Profile biography is very short."
+  }
+ ]
+}

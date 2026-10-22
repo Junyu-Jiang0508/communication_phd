@@ -1,0 +1,390 @@
+{
+ "university": "University of Michigan",
+ "slug": "university-of-michigan",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "Department of Communication and Media",
+   "school": "College of Literature, Science, and the Arts (LSA)",
+   "directory_url": "https://lsa.umich.edu/comm/people/regular-faculty.directory.html",
+   "phd_program_url": "https://lsa.umich.edu/comm/graduates/prospective-students.html",
+   "phd_program_name": "Ph.D. in Communication and Media",
+   "notes": "Directory (regular-faculty.directory.html, rendered headless) lists 29 people: 20 tenure-line included; excluded 7 lecturers (Braun, Collings, Draper, Gavilan, Glenn, Moerkerke, Seeger) and 2 Howard R. Marsh postdoctoral fellows (Hardiman, Ploger). Faculty Emeritus and Faculty Affiliates pages not included."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Megan Ankerson",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/ankerson.html",
+   "personal_url": "http://www.meganankerson.com",
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/ankerson/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "New and Emerging Media",
+    "Web History",
+    "Visual Culture",
+    "Memory and time",
+    "Feminist technoscience studies"
+   ],
+   "bio": "Megan Sapnar Ankerson's research and teaching interests involve new media and visual culture, web history, software studies, memory, time, and media aesthetics. She is the author of Dot-com Design: The Rise of a Usable, Social, Commercial Web (New York University Press, 2018). Her current research project is called Big Data Time Machines: AI, Sci-Fi, and the Future of History, which historicizes large-scale massively distribributed computational systems and neural networks alongside shifting narrative conventions and political concerns of popular time travel media over the course of sixty years (1964-2024). How do we make sense of these massively distributed computational systems as time machines? How are these systems transforming the daily experience of being digital? And how can we better understand what Big Data Time Machines—and the high-res histories they promise—mean for new user experiences of the past, present and future? This project investigates the world of Big Data Time Machines as material-semiotic systems that reconfigure the temporal infrastructures of everyday life. The broader aim of the book involves exploring how the critical entanglement of science and humanities can help us gain new critical purchase on complex and seemingly intractable problems of our times.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kyla Brathwaite",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/kyla-brathwaite.html",
+   "personal_url": null,
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/kyla-brathwaite/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Psychology",
+    "Computer Mediated Communication"
+   ],
+   "bio": "Dr. Kyla Noni Brathwaite is an Assistant Professor and LSA Collegiate Fellow in the Department of Communication & Media at the University of Michigan. Dr. Brathwaite’s research broadly explores the social and psychological implications of communication technology use. Primarily a quantitative and experimental researcher, Dr. Brathwaite’s work takes inspiration from various domains of social scientific research including, objectification, media effects, and social influence literatures. Her work focuses particularly on the intersections of race and gender and how these identities shape users’ interactions with both technology and other users. Dr. Brathwaite’s research has been published in leading communication and interdisciplinary journals, including Communication Monographs, Journal of Computer-Mediated Communication, New Media & Society, and Social Media + Society. Current Research Areas: race + representation objectification body image authenticity and self-presentation affordances of communication technology",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory Fields-of-Study tags (profile has no field list)"
+  },
+  {
+   "name": "Sonya Dal Cin",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/sdalcin.html",
+   "personal_url": "https://sites.google.com/umich.edu/mapiel",
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/sdalcin/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=Hr5W2JAAAAAJ",
+   "research_areas": [
+    "Media Psychology"
+   ],
+   "bio": "Professor of Communication and Media, Professor of Psychology (By Courtesy); Research Professor, Research Center for Group Dynamics, Institute for Social Research; Associate Dean for Academic Programs and Initiatives, Rackham Graduate School. Professor Dal Cin obtained her undergraduate degree from Queen's University (Canada) and her Ph.D. in Psychology from the University of Waterloo (Canada), where she held a Canada Graduate Scholarship from the Canadian Institutes of Health Research. She came to the University of Michigan following a Postdoctoral Fellowship at the Norris Cotton Cancer Center (now Dartmouth Cancer Center). Professor Dal Cin's major research interest is how everyday experiences with media affect thought, emotion, and behavior, and how these in turn shape media effects and the media-related choices people make. Her work examines the processes of story-based belief change, the role of identification with characters, the impact that stories have on behavior, and how these effects might occur outside viewers' conscious awareness. She studies the experience of media use, the effects it has on important outcomes, and the processes that underlie these effects, paying particular attention to the impacts of individual differences and the influence of context, including developmental stage. Her work integrates social-cognitive research on media influence and learning with communication science and social psychological research on media effects. Current research includes the role of communication media in health behavior, stereotyping, adolescent development, and older adulthood.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory Fields-of-Study tags (profile has no field list)"
+  },
+  {
+   "name": "Susan Douglas",
+   "title": "Catharine Neafie Kellogg Professorship, Arthur F. Thurnau Professor",
+   "rank": "Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/sdoug.html",
+   "personal_url": null,
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/sdoug/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Critical Media Studies"
+   ],
+   "bio": "Susan Douglas is the Catherine Neafie Kellogg Professor and Arthur F. Thurnau Professor of Communication and Media at the University of Michigan. She is author of In Our Prime:  How Older Women are Reinventing the Road Ahead (Norton, 2020); Celebrity:  A History of Fame (with Andrea McDonnell, NYU Press, 2019); Enlightened Sexism: The Seductive Message That Feminism’s Work Is Done (Times Books/Henry Holt, 2010); The Mommy Myth: The Idealization of Motherhood and How it Undermines Women (with Meredith Michaels, The Free Press, 2004); Listening In:  Radio and the American Imagination (Times Books, 1999), which won the Hacker Prize in 2000 for the best popular book about technology and culture, Where The Girls Are:  Growing Up Female with the Mass Media (Times Books, 1994; Penguin, 1995) and Inventing American Broadcasting, 1899-1922 (Johns Hopkins, 1987). She received her B.A. from Elmira College (Phi Beta Kappa) and her M.A. and Ph.D. from Brown University. She has lectured at colleges and universities around the country, and has written for The Nation, In These Times, The Village Voice, Ms., The Washington Post and TV Guide, and was media critic for The Progressive from 1992-1998. Her column “Back Talk” appeared regularly In These Times from 2002-2017. She has appeared on The Today Show, The CBS Early Show, The Oprah Winfrey Show, Working Woman, CNBC's Equal Time, NPR's Fresh Air, Weekend Edition, The Diane Rehm Show, Talk of the Nation, Michael Feldman’s Whad’ya Know and various radio talk shows around the country. Where the Girls Are was widely praised, and chosen one of the top ten books of 1994 by National Public Radio, Entertainment Weekly and The McLaughlin Group.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory Fields-of-Study tags (profile has no field list)"
+  },
+  {
+   "name": "Hollis Griffin",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/hollis-grffin-f20.html",
+   "personal_url": null,
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/hollis-grffin-f20/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Critical Media Studies"
+   ],
+   "bio": "Hollis Griffin teaches and researches the cultural politics of television, the internet, and social media, particularly as they intersect with affect, sexuality, and questions of space/place. His book, Feeling Normal: Sexuality and Media Criticism in the Digital Age (Indiana, 2017), was named an Outstanding Academic Title for 2017 by Choice, the publication of the American Library Association. In it, he demonstrates how LGBTQ+ bars and clubs in U.S. urban centers provide a historical precedent for the courtship of LGBTQ+ consumers by the cultural industries in the context of digital media production, distribution, and reception. Hollis's next single-author book project, Media and the Metropolis: New York City and the Technologies of Urban Living, frames the urban center as an ensemble of cultural technologies that administer populations by coordinating movement, managing density, and marking boundaries. The case studies include the street grid, the subway, skyscrapers, apartments, and bridges and tunnels. By examining mediated encounters with New York City in cinema, television, and online media, he considers the hopes and fears that U.S. national culture maps onto the urban center, as well as the fantasies of autonomy, collectivity, and transcendence it is used to conjure. Drawing on archival research, field observations, and the close reading of texts from popular culture, his o bjects of analysis include musicals, selfies, sitcoms, public relations campaigns, TikTok dance challenges, and crime programs.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory Fields-of-Study tags (profile has no field list)"
+  },
+  {
+   "name": "Germaine Halegoua",
+   "title": "John D. Evans Development Professor & Associate Professor of Communication and Media",
+   "rank": "Associate Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/Halegoua.html",
+   "personal_url": null,
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/Halegoua/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Computer Mediated Communication",
+    "Critical Media Studies"
+   ],
+   "bio": "Germaine Halegoua’s research interests focus on the relationships between people, place, and digital media. In particular, she’s interested in how visions of digital media by public officials and urban planners often conflict with popular imaginations and everyday experiences of digital technologies and infrastructures. Her more recent projects investigate digital placemaking; smart cities; cultural geographies and inequities of digital infrastructure and access; social media in neighborhood contexts; and social productions of place and identity online. Her research and writing have been published in several anthologies, online venues, and journals including New Media & Society, Social Media + Society, International Journal of Cultural Studies, Journal of Urban Technology, Planning Practice and Research, and Urban Affairs Review. She is the author of The Digital City (NYU Press, 2020) and Smart Cities (MIT Press Essential Knowledge Series, 2020), co-editor of Locating Emerging Media (Routledge, 2016) and Routledge Companion to Media & the City (2022), and special issues of Convergence on “Digital Placemaking” (2021) and JCMC on \" Sensor-mediated Communication \" (2023).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory Fields-of-Study tags (profile has no field list)"
+  },
+  {
+   "name": "Sol Hart",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/solhart.html",
+   "personal_url": "https://sites.google.com/umich.edu/environmentalcommunicationlab/home",
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/solhart/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=xkP8duEAAAAJ",
+   "research_areas": [
+    "Media Psychology",
+    "Political Communication"
+   ],
+   "bio": "Sol Hart is a Professor in both Communication and Media and the Program in the Environment at the University of Michigan. He specializes in strategic communication related to environmental, science, and risk issues. Professor Hart’s research includes understanding the role of the media in motivating and engaging the public and how to create effective messages that can cross ideological divides. Professor Hart’s research is supported by the National Science Foundation, the Environmental Protection Agency, and the U.S. Department of Agriculture. His research has been published in a number of peer reviewed journals, including Nature: Climate Change, Journal of Communication, Communication Research, Communication Yearbook, Science Communication, Public Understanding of Science, Medical Decision Making, Society and Natural Resources, and Environmental Communication. Awards Arthur F. Thurnau Professor, U of M, 2026 John Dewey Award, U of M, 2023 Marsh Distinguished Research Fellow, U of M, 2022",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory Fields-of-Study tags (profile has no field list)"
+  },
+  {
+   "name": "Ariel Hasell",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/ariel-hasell.html",
+   "personal_url": null,
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/ariel-hasell/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Political Communication"
+   ],
+   "bio": "Ariel Hasell is an Associate Professor of Communication and Media at the University of Michigan. Broadly, her research examines how the contemporary media environment influences exposure to information about science and politics, the effects of that exposure on knowledge and beliefs, as well as public engagement with science and politics in society. She uses quantitative methodologies to examine how an individual’s choice of  media content influences various attitudes and behaviors, including information evaluation, motivations to process and share information, and trust in institutions. Her current research is focused on two areas of inquiry. The first is related to how social media influencers are changing the nature of expertise and who is perceived to be an expert on topics related to science (e.g. sustainability and wellness) and politics (e.g. journalism and institutions). The second is related to how patterns of social media use can lead to negative views of journalism and politics, including feelings of news distrust, news fatigue, and political disengagement.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory Fields-of-Study tags (profile has no field list)"
+  },
+  {
+   "name": "Yanna Krupnikov",
+   "title": "Professor of Communication and Media",
+   "rank": "Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/yanna.html",
+   "personal_url": null,
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/yanna/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Political Communication"
+   ],
+   "bio": "Yanna Krupnikov is Professor of Communication and Media. Her most recent research considers differences in attention to the news and differences in political expression (both on and off social media platforms), with a focus on the relationship between political polarization and attention to political news. She is also interested in journalist decision-making, and, in particular, coverage of polarization and democracy. She is the co-author of books Partisan Hostility and American Democracy: Explaining Political Divisions and When They Matter (2024, University of Chicago Press), The Other Divide: Polarization and Disengagement in American Politics (2022, Cambridge University Press) and Independent Politics: How American Disdain for Partisanship Leads to Political Inaction (2016, Cambridge University Press). Her research has also been published in a variety of journals.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory Fields-of-Study tags (profile has no field list)"
+  },
+  {
+   "name": "Hang Lu",
+   "title": "Associate Professor; Associate Chair for Graduate Studies",
+   "rank": "Associate Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/hang-lu.html",
+   "personal_url": "https://lsa.umich.edu/comm/research/research-groups-and-labs/Media-and-Risk-Lab.html",
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/hang-lu/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=ynWk_yMAAAAJ&hl=en",
+   "research_areas": [
+    "Media Psychology"
+   ],
+   "bio": "Hang Lu is a scholar of media psychology whose research lies at the intersection of science, health, environmental, and risk communication (ComSHER), emerging media technologies, and media effects. His research examines how people interpret and respond to media representations of socially consequential issues, with particular attention to the psychological processes that shape persuasion, engagement, information behavior, and policy attitudes. A growing focus of his research concerns AI-generated, manipulated, and otherwise reality-distorting media. He studies how audiences make sense of synthetic and misleading visual content, how features such as humor, entertainment, realism, and emotional appeal shape responses to such content, and how interventions can influence interpretation and downstream effects. This work seeks to understand both the opportunities created by emerging media technologies and the challenges they pose for judgments about authenticity, credibility, and reality. Across this broader research program, Lu investigates several recurring psychological processes, including emotion, psychological distance, counterarguing, and the stigmatization and destigmatization of social groups. His work increasingly combines experimental research with the analysis of large-scale digital and social media content, including textual and visual features of social media messages. Lu has examined these questions across a range of science, health, environmental, and social contexts, including climate change, emerging infectious diseases, vaccination, genetically modified food, addiction and recovery, mental well-being, emerging technologies, and human-wildlife conflict.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory Fields-of-Study tags (profile has no field list)"
+  },
+  {
+   "name": "Pranav Malhotra",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/pranav-malhotra.html",
+   "personal_url": null,
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/pranav-malhotra/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Global and Comparative Media"
+   ],
+   "bio": "Pranav Malhotra is an Assistant Professor at the University of Michigan Department of Communication and Media. His research focuses on how the affordances of social and mobile media intersect with cultural and relational norms to influence how people engage with information and each other in mediated spaces, especially in understudied social and political contexts. In particular, he has examined the use of more private spaces on social media, including how people evaluate the credibility of information within these spaces. Professor Malhotra's work has been published in leading journals like Social Media+Society, Journal of Computer-mediated Communication, Digital Journalism, Communication Monographs and International Journal of Communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory Fields-of-Study tags (profile has no field list)"
+  },
+  {
+   "name": "Colten Meisner",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/colten-meisner.html",
+   "personal_url": "http://coltenmeisner.com",
+   "photo_url": null,
+   "google_scholar_url": "https://scholar.google.com/citations?user=R-oZ1bUAAAAJ&hl=en",
+   "research_areas": [],
+   "bio": "Colten Meisner is an Assistant Professor in the Department of Communication and Media at the University of Michigan. His research examines the changing nature of work in emerging media and technology industries with a focus on the cultures and economies of social media platforms. Trained as a qualitative social scientist, Meisner has studied a wide range of media and technology workers, including traditional print journalists; founders of digital news startups; influencers and live streamers; and workers tasked with refining search engines for global cultural sensitivities. An expert on the social media creator economy, Meisner’s research has been published in such journals as New Media & Society, Social Media + Society, Media, Culture & Society, Policy & Internet, and Computers in Human Behavior. In addition to academic work, he has disseminated his research to broader audiences through commentary at South by Southwest (SXSW) and analysis in TechCrunch, Business Insider, Fast Company, and the MIT Technology Review. He also serves as a founding member of the academic advisory circle of the American Influencer Council, the leading not-for-profit trade association for U.S.-based content creators. Prior to joining the University of Michigan in 2026, Meisner previously served on the faculty of North Carolina State University and completed two doctoral internships with the Social Media Collective at Microsoft Research New England. Meisner is currently working on his first book project focused on the transformations in media industry labor brought on by subscription platforms like Substack.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "profile shows placeholder image, no portrait"
+  },
+  {
+   "name": "Josh Pasek",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/jpasek.html",
+   "personal_url": "http://www.joshpasek.com/",
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/jpasek/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Political Communication",
+    "Public Opinion",
+    "Survey Research and Design",
+    "New and Emerging Media"
+   ],
+   "bio": "Josh Pasek is Professor of Communication & Media and Political Science, Research Professor at the Center for Political Studies, Institute for Social Research, and is on the management committee for the Michigan Institute for Data and AI in Society at the University of Michigan. His research explores how new media and psychological processes each shape political attitudes, public opinion, and political behaviors. Josh also examines issues in the measurement of public opinion including techniques for reducing measurement error and improving survey design. Current research explores how political information might influence public opinion and voter decision-making, evaluates whether the use of online social networking sites such as Facebook and Twitter might be changing the political information environment, and assesses the differences between survey results obtained from Internet volunteers as opposed to traditional samples. His work has been published in Public Opinion Quarterly, Political Communication, Communication Research, and the Journal of Information Technology and Politics among other outlets. He is the author of two books about American elections, Words that Matter and Democracy Amid Crises. He also maintains two R packages for producing survey weights (anesrake) and analyzing weighted survey data (weights).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Devon Powers",
+   "title": "Pris Rogers Professor of Strategic Communications; Professor of Communication and Media",
+   "rank": "Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/powersdj.html",
+   "personal_url": "http://www.devonpowers.com",
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/powersdj/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Critical Media Studies"
+   ],
+   "bio": "Devon Powers researches consumer culture: how it moves through the world, gains meaning, and achieves and/or loses popularity. She is especially interested in trends, the future, branding/promotion, and popular music. She is the author of On Trend: The Business of Forecasting the Future (University of Illinois Press, 2019), Writing the Record: The Village Voice and the Birth of Rock Criticism (University of Massachusetts Press, 2013), and co-editor of Blowing Up the Brand: Critical Perspectives on Promotional Culture (Peter Lang, 2010). Her academic work has appeared in Journal of Communication, Communication Theory, New Media & Society, Journal of Consumer Culture, and Creative Industries Journal, among others; she has also written for Wired, Atlantic Monthly, the Washington Post, and other popular venues. She is currently writing a book about how trends circulate through culture.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory Fields-of-Study tags (profile has no field list)"
+  },
+  {
+   "name": "John Barry Ryan",
+   "title": "Associate Professor Communication and Media; Political Science",
+   "rank": "Associate Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/john-ryan.html",
+   "personal_url": null,
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/john-ryan/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=_79p9oIAAAAJ&hl=en&oi=ao",
+   "research_areas": [
+    "Political Communication"
+   ],
+   "bio": "John Barry Ryan's research agenda is centered on political communication with a focus on campaign communication, social influence, and the news media. His latest co-authored books and monographs are Partisan Hostility and American Democracy: Explaining Political Divisions and When They Matter (University of Chicago Press), Constructing Political Expertise in the News (Cambridge University Press), Examining Motivations in Interpersonal Communication Experiments (Cambridge University Press), and The Other Divide: Polarization and Disengagement in American Politics (Cambridge University Press). His research has appeared in journals such as American Journal of Political Science, American Political Science Review, The Journal of Politics, Nature Human Behavior, and Public Opinion Quarterly.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory Fields-of-Study tags (profile has no field list); joint with Political Science; listed as regular faculty of Communication and Media"
+  },
+  {
+   "name": "Derek W. Vaillant",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/dvail.html",
+   "personal_url": "http://sites.lsa.umich.edu/derekvaillant/",
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/dvail/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Historical Approaches to Media and Technology",
+    "International and Comparative Media",
+    "Sound Studies",
+    "Popular Music and Media"
+   ],
+   "bio": "Derek W. Vaillant is a historian specializing on the history of radio broadcasting in the U.S. and in France, sound studies, and the social and cultural history of American popular music. His current book project examines the gendered and racialized formation of U.S. broadcasting. He is the author of Across the Waves: How the United States and France Shaped the International Age of Radio (Urbana, 2017) and Sounds of Reform: Progressivism and Music in Chicago, 1873-1935 (Chapel Hill, 2003). He previously worked in public/educational broadcasting, including research and production for \"Heat,\" a Peabody award-winning national public radio series, and A World of Ideas and Listening to America with Bill Moyers at PBS.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jan Van den Bulck",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/jan-van-den-bulck.html",
+   "personal_url": "https://lsa.umich.edu/comm/research/research-groups-and-labs/m2e2--mindless-media-exposure-and-effects.html",
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/jan-van-den-bulck/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=Ki-J84IAAAAJ&hl=en",
+   "research_areas": [
+    "Media Psychology"
+   ],
+   "bio": "As a social scientist with a PhD from the University of Leuven in Belgium (1996), Jan Van den Bulck is interested in involuntary and incidental media effects. He has studied how the entertainment media, in general, and fiction, in particular, affect our perception of the real world. Much of his work in this area has been tied to cultivation theory. He is particularly interested in how TV viewing affects our knowledge of violence, the world of law enforcement, health, and emergency medicine. As an epidemiologist with a DSc from the Netherlands Institute for Health Sciences (2006), he is also interested in the health effects of media use. His research in this field has focused on the effects of media use on various eating and exercise behaviors, but in recent years, he has mainly studied the relationship between media use and sleep. Jan Van den Bulck has studied the effects of media on adult and young populations. The rapid changes in media hardware and content mean that studying the effects of the media is in constant flux. The methodological problems of studying new and established uses of new and old media are, therefore, inextricably tied to any research on their effects. M2E2 Lab Bibliography",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory Fields-of-Study tags (profile has no field list)"
+  },
+  {
+   "name": "Cara Wallis",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/cara-wallis.html",
+   "personal_url": null,
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/cara-wallis/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Global and Comparative Media",
+    "Critical Media Studies"
+   ],
+   "bio": "Cara Wallis is an interdisciplinary scholar whose work spans the fields of mobile/social media, China studies, intersectional and transnational feminism, critical studies of technology, and global media. Her overarching research question concerns how uses and understandings of technology, as these are informed by multiple axes of identity, both reproduce inequitable power relations and open up spaces for individual and collective agency and thus social change. She focuses on how such processes emerge among groups that are socially and economically marginalized, in particular China's rural and internal migrant populations. She is the author of Social Media and Ordinary Life: Affect, Ethics, and Aspiration in Contemporary China (NYU Press 2025) and Technomobility in China: Young Migrant Women and Mobile Phones (NYU Press 2013) as well as multipe articles and book chapters.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory Fields-of-Study tags (profile has no field list)"
+  },
+  {
+   "name": "Brian Weeks",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/beweeks.html",
+   "personal_url": null,
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/beweeks/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=XPgq0EQAAAAJ&hl=en&oi=ao",
+   "research_areas": [
+    "Political Communication"
+   ],
+   "bio": "Research Interests: Political communication Digital media and sports betting Brian Weeks is a Professor in the Department of Communication and Media and a Faculty Associate in the Center for Political Studies at the University of Michigan. He studies political information, news, and digital media, as well as online sports betting Weeks is the author of the book (2024), Angry and Wrong: The Emotional Dynamics of Partisan Media and Political Misperceptions (Cambridge University Press). He has published 50 articles in leading journals in the field of communication including the Journal of Communication, the Journal of Computer-Mediated Communication, Human Communication Research, Communication Research, New Media & Society, and elsewhere. He previously served as an Associate Editor for the journal Public Opinion Quarterly. Weeks earned a B.A. in journalism and mass communication and political science from the University of Wisconsin-Madison, a M.A. in mass communication from the University of Minnesota, and a Ph.D. in communication from the Ohio State University. Prior to joining the University of Michigan he was a faculty member at the University of Vienna. **Notes for prospective Ph.D Students** 1. I am seeking applications from prospective Ph.D. students in the 2026-27 admissions cycle who are interested in studying digital technologies, media, and sports betting. 2. For students who are interested in working with me, please note that due to the number of requests and out of fairness to all applicants, I am not able to read or comment on application materials, or have online meetings prior to the application deadline. Thank you for your understanding.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory Fields-of-Study tags (profile has no field list)"
+  },
+  {
+   "name": "Apryl Williams",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication and Media",
+   "profile_url": "https://lsa.umich.edu/comm/people/regular-faculty/aprylw.html",
+   "personal_url": "https://apryl-williams.com/",
+   "photo_url": "https://lsa.umich.edu/content/michigan-lsa/comm/en/people/regular-faculty/aprylw/jcr:content/profileImage.transform/profile_portrait/image.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Computer Mediated Communication",
+    "Critical Media Studies"
+   ],
+   "bio": "Apryl Williams is a jointly appointed Associate Professor in the Department of Communication & Media and the Digital Studies Institute at the University of Michigan. She is also a Faculty Associate at the Berkman Klein Center for Internet & Society at Harvard University, a former Senior Fellow in Trustworthy AI at Mozilla, as well as an affiliated researcher at NYU's Center for Critical Race & Digital Studies. She is the author of Not My Type: Automating Sexual Racism in Online Dating, published with Stanford University Press. As a multidisciplinary scholar, Williams studies experiences of gender and race at the intersection of digital spaces and algorithmic technocultures. Williams' previous work has been published in leading interdisciplinary journals including Social Media + Society, Information, Communication & Society, the International Journal of Communication, and the Sociology of Race and Ethnicity. She also serves as Series Associate Editor of Emerald Studies in Media and Communications where she has co-edited five books on aspects of digital culture such as international media flows, digital inequalities, and digital publics. Her research has also been covered in popular press outlets including Time Magazine, Mic.com, Newsweek, Slate, BuzzfeedNews, NPR’s On the Media, and The Guardian. Current Research Areas: race & representation race, gender + technology technology + the body race + racism in online dating reparative technology AI + relationships Human and AI intimacy Dr. Williams is not accepting doctoral students for this application cycle (fall 2027 cohort).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "research_areas taken from directory Fields-of-Study tags (profile has no field list); jointly appointed with Digital Studies Institute; listed as regular faculty of Communication and Media"
+  }
+ ]
+}

@@ -47,6 +47,48 @@
         "T_HCI_CMC": "人机交互、计算机中介传播、社交机器人、VR/AR",
         "T_LANGUAGE_INTERACTION": "语言与社会互动、会话分析、非语言传播",
         "T_CHILDREN_FAMILY_MEDIA": "儿童、青少年、家庭与媒介；媒介素养；教育"
+      },
+      "labels_short": {
+        "T_POLITICAL": "Political communication",
+        "T_JOURNALISM": "Journalism",
+        "T_MISINFO_TRUST": "Misinformation & trust",
+        "T_PLATFORMS_AI": "Platforms, algorithms & AI",
+        "T_MEDIA_EFFECTS_PSYCH": "Media effects & psychology",
+        "T_HEALTH": "Health & risk communication",
+        "T_SCIENCE_ENV": "Science & environment",
+        "T_INTERPERSONAL": "Interpersonal & family",
+        "T_ORGANIZATIONAL": "Organizational communication",
+        "T_STRATEGIC_PR_AD": "Strategic comm, PR & advertising",
+        "T_CRITICAL_CULTURAL": "Critical & cultural studies",
+        "T_RHETORIC": "Rhetoric & public address",
+        "T_MEDIA_INDUSTRIES_POLICY": "Media industries & policy",
+        "T_GLOBAL_INTERCULTURAL": "Global & intercultural",
+        "T_ENTERTAINMENT_GAMES": "Entertainment, games & fandom",
+        "T_HISTORY_THEORY": "History & theory",
+        "T_HCI_CMC": "HCI & mediated communication",
+        "T_LANGUAGE_INTERACTION": "Language & social interaction",
+        "T_CHILDREN_FAMILY_MEDIA": "Children, youth & media"
+      },
+      "labels_short_zh": {
+        "T_POLITICAL": "政治传播",
+        "T_JOURNALISM": "新闻学",
+        "T_MISINFO_TRUST": "虚假信息与信任",
+        "T_PLATFORMS_AI": "平台、算法与AI",
+        "T_MEDIA_EFFECTS_PSYCH": "媒介效果与心理",
+        "T_HEALTH": "健康与风险传播",
+        "T_SCIENCE_ENV": "科学与环境传播",
+        "T_INTERPERSONAL": "人际与家庭传播",
+        "T_ORGANIZATIONAL": "组织传播",
+        "T_STRATEGIC_PR_AD": "战略传播、公关与广告",
+        "T_CRITICAL_CULTURAL": "批判与文化研究",
+        "T_RHETORIC": "修辞与公共演说",
+        "T_MEDIA_INDUSTRIES_POLICY": "媒介产业与政策",
+        "T_GLOBAL_INTERCULTURAL": "全球与跨文化传播",
+        "T_ENTERTAINMENT_GAMES": "娱乐、游戏与粉丝",
+        "T_HISTORY_THEORY": "传播史与理论",
+        "T_HCI_CMC": "人机交互与中介传播",
+        "T_LANGUAGE_INTERACTION": "语言与社会互动",
+        "T_CHILDREN_FAMILY_MEDIA": "儿童青少年与媒介"
       }
     },
     "approach": {
@@ -81,6 +123,34 @@
         "A_MIXED": "混合方法与多方法设计",
         "A_DESIGN_BUILD": "设计研究、系统构建与工具开发",
         "A_THEORY": "理论建构与概念性研究"
+      },
+      "labels_short": {
+        "A_EXPERIMENT": "Experiments",
+        "A_SURVEY": "Surveys & measurement",
+        "A_COMPUTATIONAL": "Computational methods",
+        "A_NETWORK": "Network analysis",
+        "A_CONTENT_ANALYSIS": "Content analysis",
+        "A_QUALITATIVE": "Qualitative methods",
+        "A_CRITICAL_INTERPRETIVE": "Critical & interpretive",
+        "A_HISTORICAL_ARCHIVAL": "Historical & archival",
+        "A_PHYSIO_NEURO": "Psychophysiology & neuro",
+        "A_MIXED": "Mixed methods",
+        "A_DESIGN_BUILD": "Design & building tools",
+        "A_THEORY": "Theory building"
+      },
+      "labels_short_zh": {
+        "A_EXPERIMENT": "实验",
+        "A_SURVEY": "调查与测量",
+        "A_COMPUTATIONAL": "计算方法",
+        "A_NETWORK": "网络分析",
+        "A_CONTENT_ANALYSIS": "内容分析",
+        "A_QUALITATIVE": "质性方法",
+        "A_CRITICAL_INTERPRETIVE": "批判与阐释",
+        "A_HISTORICAL_ARCHIVAL": "历史与档案",
+        "A_PHYSIO_NEURO": "生理与神经测量",
+        "A_MIXED": "混合方法",
+        "A_DESIGN_BUILD": "设计与工具开发",
+        "A_THEORY": "理论建构"
       }
     },
     "data": {
@@ -105,6 +175,24 @@
         "D_ARCHIVES_TEXTS": "档案、历史文献、演讲与文本",
         "D_ADMIN_LARGE_SCALE": "行政、受众测量与大规模行为数据",
         "D_PHYSIO_LOG": "生理、眼动与设备日志数据"
+      },
+      "labels_short": {
+        "D_SOCIAL_MEDIA": "Social media data",
+        "D_NEWS_CONTENT": "Media content",
+        "D_SURVEY_EXPERIMENT": "Survey & experimental data",
+        "D_INTERVIEWS_FIELD": "Interviews & fieldwork",
+        "D_ARCHIVES_TEXTS": "Archives & texts",
+        "D_ADMIN_LARGE_SCALE": "Large-scale behavioral data",
+        "D_PHYSIO_LOG": "Physiological & log data"
+      },
+      "labels_short_zh": {
+        "D_SOCIAL_MEDIA": "社交媒体数据",
+        "D_NEWS_CONTENT": "媒介内容",
+        "D_SURVEY_EXPERIMENT": "调查与实验数据",
+        "D_INTERVIEWS_FIELD": "访谈与田野",
+        "D_ARCHIVES_TEXTS": "档案与文本",
+        "D_ADMIN_LARGE_SCALE": "大规模行为数据",
+        "D_PHYSIO_LOG": "生理与日志数据"
       }
     },
     "setting": {
@@ -135,6 +223,30 @@
         "SET_YOUTH_EDUCATION": "儿童、学生与教育场景",
         "SET_SOCIAL_MOVEMENTS": "行动者、社会运动与公民社会",
         "SET_MARGINALIZED_COMMUNITIES": "边缘化、少数族裔与离散社群"
+      },
+      "labels_short": {
+        "SET_PLATFORMS": "Platforms & online communities",
+        "SET_NEWSROOMS_MEDIA_ORGS": "Newsrooms & media orgs",
+        "SET_ELECTIONS_GOVERNMENT": "Elections & government",
+        "SET_HEALTH_SYSTEMS": "Health systems & patients",
+        "SET_ORGANIZATIONS_WORKPLACES": "Organizations & workplaces",
+        "SET_FAMILIES_RELATIONSHIPS": "Families & relationships",
+        "SET_AUDIENCES_PUBLICS": "Audiences & publics",
+        "SET_YOUTH_EDUCATION": "Youth & education",
+        "SET_SOCIAL_MOVEMENTS": "Social movements & civil society",
+        "SET_MARGINALIZED_COMMUNITIES": "Marginalized communities"
+      },
+      "labels_short_zh": {
+        "SET_PLATFORMS": "平台与网络社群",
+        "SET_NEWSROOMS_MEDIA_ORGS": "新闻机构与媒体组织",
+        "SET_ELECTIONS_GOVERNMENT": "选举与政府",
+        "SET_HEALTH_SYSTEMS": "医疗体系与患者",
+        "SET_ORGANIZATIONS_WORKPLACES": "组织与职场",
+        "SET_FAMILIES_RELATIONSHIPS": "家庭与亲密关系",
+        "SET_AUDIENCES_PUBLICS": "受众与公众",
+        "SET_YOUTH_EDUCATION": "青少年与教育",
+        "SET_SOCIAL_MOVEMENTS": "社会运动与公民社会",
+        "SET_MARGINALIZED_COMMUNITIES": "边缘化社群"
       }
     },
     "region": {
@@ -163,6 +275,28 @@
         "R_LATIN_AMERICA": "拉丁美洲与加勒比",
         "R_EUROPE": "欧洲（含俄罗斯与后苏联地区）",
         "R_GLOBAL_CROSS_NATIONAL": "跨国、比较或全球"
+      },
+      "labels_short": {
+        "R_US": "United States",
+        "R_CHINA": "China",
+        "R_EAST_ASIA": "East Asia",
+        "R_SOUTH_SE_ASIA": "South & Southeast Asia",
+        "R_MIDDLE_EAST": "Middle East & N. Africa",
+        "R_AFRICA": "Sub-Saharan Africa",
+        "R_LATIN_AMERICA": "Latin America",
+        "R_EUROPE": "Europe",
+        "R_GLOBAL_CROSS_NATIONAL": "Cross-national & global"
+      },
+      "labels_short_zh": {
+        "R_US": "美国",
+        "R_CHINA": "中国",
+        "R_EAST_ASIA": "东亚",
+        "R_SOUTH_SE_ASIA": "南亚与东南亚",
+        "R_MIDDLE_EAST": "中东与北非",
+        "R_AFRICA": "撒哈拉以南非洲",
+        "R_LATIN_AMERICA": "拉丁美洲",
+        "R_EUROPE": "欧洲",
+        "R_GLOBAL_CROSS_NATIONAL": "跨国与全球"
       }
     }
   },

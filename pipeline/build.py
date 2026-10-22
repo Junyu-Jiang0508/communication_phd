@@ -71,10 +71,14 @@ def main():
     ap.add_argument("--skip-photos", action="store_true")
     ap.add_argument("--skip-logos", action="store_true")
     ap.add_argument("--skip-embed", action="store_true")
+    ap.add_argument("--only", help="comma-separated slugs (pilot builds)")
     a = ap.parse_args()
 
     tax = load_json(ROOT / "pipeline" / "taxonomy.json")
     programs = load_json(ROOT / "data" / "programs.json")
+    if a.only:
+        keep = set(a.only.split(","))
+        programs = [p for p in programs if p["slug"] in keep]
     out_dir = ROOT / "src" / "data"; out_dir.mkdir(parents=True, exist_ok=True)
     (ROOT / "public" / "search").mkdir(parents=True, exist_ok=True)
     (ROOT / "public" / "faculty").mkdir(parents=True, exist_ok=True)
@@ -174,25 +178,35 @@ def main():
         from sentence_transformers import SentenceTransformer
         import numpy as np
         model = SentenceTransformer(MODEL)
-        texts = []
+        # Two views per person, averaged: (A) concise LLM summary + keywords, (B) profile text.
+        # Chosen over a single concatenated text after comparing top-vs-median gaps on probe queries (docs/PLAN.md).
+        view_a, view_b = [], []
         for r in faculty:
-            parts = [r["summary"]]
-            if r["areas"]: parts.append("Research areas: " + "; ".join(r["areas"]) + ".")
-            lt = []
-            for dim in ("topic", "approach", "data", "setting", "region"):
-                lt += [label_text[dim][x["c"]] for x in r["labels"][dim]]
-            if lt: parts.append("Topics and methods: " + "; ".join(lt) + ".")
-            if r["kw"]: parts.append("Keywords: " + ", ".join(r["kw"]) + ".")
-            b = bios.get(r["id"], "")
-            if b: parts.append(b[:1200])
-            texts.append(" ".join(x for x in parts if x).strip())
-        emb = model.encode(texts, batch_size=64, normalize_embeddings=True, show_progress_bar=True)
+            a_txt = " ".join(x for x in [r["summary"], ("Keywords: " + ", ".join(r["kw"]) + ".") if r["kw"] else ""] if x).strip()
+            b_txt = (bios.get(r["id"], "") or "").strip()
+            if len(b_txt) < 200:
+                b_txt = " ".join(x for x in [r["title"], r["dept"], ("Research areas: " + "; ".join(r["areas"]) + ".") if r["areas"] else "", b_txt] if x)
+            view_a.append(a_txt or b_txt); view_b.append(b_txt[:1500] or a_txt)
+        ea = model.encode(view_a, batch_size=64, normalize_embeddings=True, show_progress_bar=True)
+        eb = model.encode(view_b, batch_size=64, normalize_embeddings=True, show_progress_bar=True)
+        emb = ea + eb
+        emb = emb / np.linalg.norm(emb, axis=1, keepdims=True)
+        # calibration from realistic probe queries
+        probes = load_json(ROOT / "pipeline" / "probes.json")["probes"]
+        qv = model.encode([QUERY_PREFIX + q for q in probes], normalize_embeddings=True)
+        deq = np.clip(np.round(emb * 127), -127, 127) / 127.0
+        cos = qv @ deq.T
+        hi_pct = 99.5 if len(faculty) >= 400 else 97.5
+        lo = float(np.median(np.percentile(cos, 75, axis=1)))
+        hi = float(np.median(np.percentile(cos, hi_pct, axis=1)))
+        print(f"calibration: lo(p75)={lo:.4f} hi(p{hi_pct})={hi:.4f} over {len(probes)} probes")
         q = np.clip(np.round(emb * 127), -127, 127).astype(np.int8)
         (ROOT / "public" / "search" / "vectors.i8.bin").write_bytes(q.tobytes())
         for i, r in enumerate(faculty):
             r["v"] = i
         json.dump({"model": BROWSER_MODEL, "dimensions": int(emb.shape[1]), "vectorCount": len(faculty),
                    "quantizationScale": 127, "queryPrefix": QUERY_PREFIX, "pooling": "cls", "normalize": True,
+                   "calibration": {"lo": round(lo, 4), "hi": round(hi, 4), "hiPercentile": hi_pct, "probes": len(probes), "scaleAtHi": 0.85},
                    "built": date.today().isoformat()},
                   open(ROOT / "public" / "search" / "manifest.json", "w"), indent=1)
         json.dump([r["id"] for r in faculty], open(ROOT / "public" / "search" / "index.json", "w"))

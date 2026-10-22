@@ -26,7 +26,7 @@ import Base from '../../layouts/Base.astro';
     </section>
   </div>
 </Base>
-<style>
+<style is:global>
   .dir { display: grid; grid-template-columns: 280px minmax(0, 1fr); gap: 28px; align-items: start; }
   .dir-side { position: sticky; top: calc(var(--header-h) + 16px); max-height: calc(100vh - var(--header-h) - 32px); overflow: auto; padding-right: 4px; }
   .dir-toggle { display: none; width: 100%; }
@@ -82,7 +82,7 @@ import Base from '../../layouts/Base.astro';
       const counts = new Map<string, number>();
       for (const f of F) if (matches(f, d)) for (const l of f.labels[d] ?? []) if (!state.primary || l.p) counts.set(l.c, (counts.get(l.c) || 0) + 1);
       const codes = Object.keys(dim.labels).sort((a, b) => (counts.get(b) || 0) - (counts.get(a) || 0));
-      return `<div class="facet" data-dim="${d}"><h3>${esc(lang === 'zh' ? dim.label_zh : dim.label)}</h3><ul>${codes.map((c) => `<li><label data-zero="${!(counts.get(c) || 0)}"><input type="checkbox" data-dim="${d}" value="${c}"${state.sel[d].has(c) ? ' checked' : ''}><span class="t" title="${esc(dim.labels[c])}">${esc(lang === 'zh' ? dim.labels_zh[c] : dim.labels[c])}</span><span class="n">${counts.get(c) || 0}</span></label></li>`).join('')}</ul></div>`;
+      return `<div class="facet" data-dim="${d}"><h3>${esc(lang === 'zh' ? dim.label_zh : dim.label)}</h3><ul>${codes.map((c) => `<li><label data-zero="${!(counts.get(c) || 0)}"><input type="checkbox" data-dim="${d}" value="${c}"${state.sel[d].has(c) ? ' checked' : ''}><span class="t" title="${esc(lang === 'zh' ? dim.labels_zh[c] : dim.labels[c])}">${esc(lang === 'zh' ? dim.labels_short_zh[c] : dim.labels_short[c])}</span><span class="n">${counts.get(c) || 0}</span></label></li>`).join('')}</ul></div>`;
     }).join('');
     $('#facets').querySelectorAll<HTMLInputElement>('input').forEach((i) => i.addEventListener('change', () => { const d = i.dataset.dim as Dim; if (i.checked) state.sel[d].add(i.value); else state.sel[d].delete(i.value); state.shown = 60; update(); }));
   }

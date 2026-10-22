@@ -1,0 +1,2657 @@
+{
+ "slug": "university-of-minnesota-twin-cities",
+ "labeled_at": "2026-10-21",
+ "faculty": [
+  {
+   "name": "Ronald Walter Greene",
+   "summary": "Studies how institutions regulate debate, discussion, and persuasion to shape democratic decision making, using rhetorical, argumentation, and cultural theory.",
+   "summary_zh": "从修辞、论辩与文化理论出发，研究机构如何规制辩论、讨论与说服以影响民主决策。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "rhetorical theory",
+    "argumentation",
+    "debate",
+    "civic education",
+    "philosophy of communication",
+    "democratic decision making",
+    "persuasion",
+    "cultural studies"
+   ]
+  },
+  {
+   "name": "Atilla Hallsby",
+   "summary": "Examines how rhetoric shapes public perceptions of secrecy, transparency, surveillance, and AI in U.S. political culture through rhetorical criticism and critical theory.",
+   "summary_zh": "运用修辞批评与批判理论，研究修辞如何塑造美国政治文化中公众对秘密、透明、监控与人工智能的认知。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "secrecy",
+    "surveillance",
+    "transparency",
+    "critical algorithm studies",
+    "critical ai studies",
+    "rhetorical theory",
+    "presidential scandals",
+    "national security leaks",
+    "psychoanalysis",
+    "settler colonialism"
+   ]
+  },
+  {
+   "name": "Elaine Hsieh",
+   "summary": "Studies interpersonal and intercultural communication in health care, including interpreter-mediated medical interactions, cultural frameworks of health, and bioethics.",
+   "summary_zh": "研究医疗情境中的人际与跨文化传播，包括口译员介入的医患互动、健康的文化框架以及生命伦理。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_LANGUAGE_INTERACTION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "health communication",
+    "medical interpreting",
+    "interpreter-mediated interaction",
+    "culture and health",
+    "bioethics",
+    "cross-cultural health care",
+    "health policy"
+   ]
+  },
+  {
+   "name": "Susanne M. Jones",
+   "summary": "Studies supportive communication, nonverbal behavior, and mindfulness in emotion regulation using lab experiments with recorded and coded conversations.",
+   "summary_zh": "通过实验室实验并对录制的对话进行编码分析，研究支持性传播、非语言行为以及正念在情绪调节中的作用。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_LANGUAGE_INTERACTION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_SURVEY",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "supportive communication",
+    "social support",
+    "comforting messages",
+    "nonverbal communication",
+    "mindfulness",
+    "emotion regulation",
+    "active listening",
+    "empathy",
+    "coping"
+   ]
+  },
+  {
+   "name": "Zornitsa Keremidchieva",
+   "summary": "Studies feminist, institutional, and congressional rhetoric, immigration and citizenship, and democratic governance through rhetorical and historical analysis of policy discourse.",
+   "summary_zh": "通过对政策话语的修辞与历史分析，研究女性主义修辞、制度与国会修辞、移民与公民身份以及民主治理。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": true,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "R_EUROPE",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "feminist rhetoric",
+    "congressional discourse",
+    "congressional record",
+    "institutional argumentation",
+    "immigration and citizenship",
+    "democratic governance",
+    "19th amendment",
+    "transnational rhetoric",
+    "post-communist bulgaria"
+   ]
+  },
+  {
+   "name": "Ascan F. Koerner",
+   "summary": "Studies family and marital communication and the cognitive bases of relationships, including relational schemas, message production, and persuasion.",
+   "summary_zh": "研究家庭与婚姻传播以及人际关系的认知基础，包括关系图式、讯息生产与说服。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "family communication patterns",
+    "conversation orientation",
+    "conformity orientation",
+    "relational schemas",
+    "message production",
+    "interpersonal influence",
+    "persuasion",
+    "inoculation",
+    "marital communication"
+   ]
+  },
+  {
+   "name": "Kate Lockwood Harris",
+   "summary": "Studies how violence and communication relate, especially organizational responses to sexual assault and Title IX, using feminist, intersectional, and qualitative methods.",
+   "summary_zh": "运用女性主义、交叉性与质性方法，研究暴力与传播的关系，尤其是组织对性侵害的回应与美国《第九条》。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "sexual violence",
+    "title ix",
+    "organizational responses to sexual assault",
+    "feminist theory",
+    "intersectionality",
+    "new materialism",
+    "violence prevention",
+    "organizational trauma"
+   ]
+  },
+  {
+   "name": "Laurie Ouellette",
+   "summary": "Studies how popular media such as reality TV, lifestyle media, and influencers govern bodies, subjectivities, and citizenship, using critical cultural and historical analysis.",
+   "summary_zh": "运用批判文化与历史分析，研究真人秀、生活方式媒体和网红等流行媒介如何治理身体、主体性与公民身份。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "reality television",
+    "lifestyle tv",
+    "biopolitics",
+    "governmentality",
+    "feminist media studies",
+    "influencers",
+    "true crime",
+    "precarity",
+    "public television",
+    "post-welfare citizenship"
+   ]
+  },
+  {
+   "name": "Gilbert B. Rodman",
+   "summary": "Studies critical media and cultural studies, popular culture, communication technologies, and the politics of race, including the history of race and copyright in the US.",
+   "summary_zh": "研究批判媒介与文化研究、流行文化、传播技术与种族政治，包括美国种族与版权的历史。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "cultural studies",
+    "critical media studies",
+    "race and media",
+    "copyright",
+    "intellectual property",
+    "popular culture",
+    "elvis",
+    "race in cyberspace",
+    "communication technologies"
+   ]
+  },
+  {
+   "name": "Mary Douglas Vavrus",
+   "summary": "Studies news representations of gender, postfeminism, political women, and the links between media and militarism through feminist and political-economic critique.",
+   "summary_zh": "从女性主义与政治经济学批判视角，研究新闻中的性别再现、后女性主义、女性政治人物以及媒介与军事主义的关联。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_QUALITATIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "postfeminism",
+    "feminist media studies",
+    "mediated masculinity",
+    "media and militarism",
+    "political women",
+    "political economy of media",
+    "gender and media",
+    "media activism"
+   ]
+  },
+  {
+   "name": "Emily Winderman",
+   "summary": "Studies the rhetoric of health and medicine, especially reproductive health, abortion, and infectious disease, using archival rhetorical history, feminist and affect theory.",
+   "summary_zh": "运用档案修辞史、女性主义与情感理论，研究健康与医学修辞，尤其是生殖健康、堕胎与传染病话语。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_RHETORIC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "reproductive justice",
+    "abortion",
+    "rhetoric of health and medicine",
+    "affect theory",
+    "rhetorical history",
+    "infectious disease",
+    "covid-19 rhetoric",
+    "birth control",
+    "public address"
+   ]
+  },
+  {
+   "name": "Deborah Yoon",
+   "summary": "Studies identity uncertainty and information management in nontraditional families, such as adoptees seeking genetic family health history, and intercultural identity.",
+   "summary_zh": "研究非传统家庭中的身份不确定性与信息管理，例如寻求遗传家族健康史的被收养者，以及跨文化身份经验。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_INTERPERSONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_FAMILIES_RELATIONSHIPS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "adoption",
+    "korean adoptees",
+    "identity uncertainty",
+    "uncertainty management",
+    "information management",
+    "genetic family health history",
+    "infertility",
+    "family communication",
+    "intercultural communication"
+   ]
+  },
+  {
+   "name": "Colin Agur",
+   "summary": "Studies mobile communication, infrastructures, platforms, and digital economies as systems that organize social and political life, drawing on media history and political economy.",
+   "summary_zh": "借助媒介史与政治经济学，研究移动传播、基础设施、平台与数字经济如何组织社会与政治生活。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HCI_CMC",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "mobile communication",
+    "infrastructure studies",
+    "platform studies",
+    "mobile money",
+    "political economy",
+    "digital economies",
+    "digital games",
+    "digital education",
+    "platform governance"
+   ]
+  },
+  {
+   "name": "Sid Bedingfield",
+   "summary": "Studies journalism's role in democracy during political change, especially the press, civil rights, and white supremacy in the US South, using historical archival research.",
+   "summary_zh": "运用历史档案研究，考察政治变革时期新闻业在民主中的作用，尤其是美国南方的报业、民权运动与白人至上主义。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "journalism history",
+    "civil rights",
+    "jim crow",
+    "white supremacy",
+    "newspapers",
+    "race and democracy",
+    "south carolina",
+    "white resistance"
+   ]
+  },
+  {
+   "name": "Valérie Bélair-Gagnon",
+   "summary": "Studies how media management and journalism shape innovation, labor, and well-being in newsrooms, using qualitative and hybrid methods.",
+   "summary_zh": "运用质性与混合方法，研究媒介管理与新闻业如何影响新闻编辑室中的创新、劳动与从业者福祉。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_MIXED",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "journalism innovation",
+    "media management",
+    "well-being",
+    "emotional labor",
+    "attacks on journalists",
+    "happiness in journalism",
+    "digital news innovation",
+    "journalistic labor"
+   ]
+  },
+  {
+   "name": "Matt Carlson",
+   "summary": "Studies how actors compete to define journalism, its boundaries and norms, developing concepts like journalistic authority, metajournalistic discourse, and boundary work.",
+   "summary_zh": "研究不同行动者如何争夺对新闻业及其边界与规范的定义，发展了新闻权威、元新闻话语与边界工作等概念。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CRITICAL_INTERPRETIVE",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "journalistic authority",
+    "metajournalistic discourse",
+    "boundary work",
+    "journalism norms",
+    "news avoidance",
+    "journalism ethics",
+    "news after trump"
+   ]
+  },
+  {
+   "name": "Elisia Cohen",
+   "summary": "Studies health communication and multilevel community interventions to reduce health and cancer disparities through community-engaged research.",
+   "summary_zh": "通过社区参与式研究，探讨健康传播及多层次社区干预如何减少健康与癌症差异。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "health communication",
+    "cancer disparities",
+    "community-engaged research",
+    "multilevel interventions",
+    "health equity",
+    "community communication interventions"
+   ]
+  },
+  {
+   "name": "Nick Hagar",
+   "summary": "Studies how AI is changing journalism and public information, including AI design, governance, and newsroom adoption, using computational methods and tool building.",
+   "summary_zh": "运用计算方法与工具开发，研究人工智能如何改变新闻业与公共信息，包括AI系统设计、治理及新闻机构的采纳。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_DESIGN_BUILD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "ai in journalism",
+    "ai governance",
+    "computational journalism",
+    "technology adoption",
+    "news organizations",
+    "tools for journalists",
+    "audience outcomes"
+   ]
+  },
+  {
+   "name": "Jisu Huh",
+   "summary": "Studies advertising effects and its role in society, including computational and AI advertising, influencer marketing, consumer trust, and DTC pharmaceutical advertising.",
+   "summary_zh": "研究广告的效果及其社会角色，包括计算广告与AI广告、网红营销、消费者信任以及直接面向消费者的药品广告。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "computational advertising",
+    "ai advertising",
+    "influencer marketing",
+    "dtc pharmaceutical advertising",
+    "advertising effects",
+    "consumer trust",
+    "advertising skepticism",
+    "information diffusion",
+    "computational public relations"
+   ]
+  },
+  {
+   "name": "Sherri Jean Katz",
+   "summary": "Tests health messages and packaging features to prevent youth uptake of tobacco, nicotine, and THC products, drawing on construal level and reactance theory.",
+   "summary_zh": "借助解释水平理论与心理抗拒理论，检验健康讯息与产品包装特征对预防青少年使用烟草、尼古丁与THC产品的作用。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_YOUTH_EDUCATION",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "tobacco prevention",
+    "vaping",
+    "nicotine",
+    "thc",
+    "youth",
+    "product packaging",
+    "regulatory science",
+    "construal level theory",
+    "psychological reactance",
+    "harm reduction messages"
+   ]
+  },
+  {
+   "name": "Jeff Kosseff",
+   "summary": "Studies First Amendment law, free speech online, Section 230, anonymous and false speech, and cybersecurity law through legal and historical analysis.",
+   "summary_zh": "通过法律与历史分析，研究美国第一修正案、网络言论自由、第230条款、匿名与虚假言论以及网络安全法。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_ARCHIVES_TEXTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "first amendment",
+    "free speech",
+    "section 230",
+    "anonymous speech",
+    "cybersecurity law",
+    "media law",
+    "false speech",
+    "censorship"
+   ]
+  },
+  {
+   "name": "María Elizabeth Len-Ríos",
+   "summary": "Studies public relations, health communication, and diversity, equity, and inclusion, including culture as a social determinant of health and journalistic norms around race.",
+   "summary_zh": "研究公共关系、健康传播与多元、公平和包容，包括文化作为健康的社会决定因素以及新闻规范与种族不平等。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_JOURNALISM",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_MARGINALIZED_COMMUNITIES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "public relations",
+    "health communication",
+    "diversity equity and inclusion",
+    "cross-cultural journalism",
+    "social determinants of health",
+    "racial inequities",
+    "strategic communication"
+   ]
+  },
+  {
+   "name": "Rebekah Nagler",
+   "summary": "Studies effects of routine exposure to conflicting and controversial health information in the media, and health equity, using population-based surveys and experiments.",
+   "summary_zh": "运用基于人口样本的调查与实验，研究日常接触媒体中相互矛盾、具争议的健康信息所产生的效果以及健康公平。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_SURVEY",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     },
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "conflicting health information",
+    "health information exposure",
+    "cancer communication",
+    "health equity",
+    "media effects",
+    "health policy messaging",
+    "population-based survey"
+   ]
+  },
+  {
+   "name": "Amy O'Connor",
+   "summary": "Studies corporate social responsibility communication and stakeholder expectations of corporations, including a multi-year ethnography of Minnesota mining companies.",
+   "summary_zh": "研究企业社会责任传播与利益相关者对企业的期待，包括对明尼苏达北部矿业公司的多年民族志研究。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_QUALITATIVE",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_INTERVIEWS_FIELD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "corporate social responsibility",
+    "csr communication",
+    "stakeholders",
+    "mining industry",
+    "ethnography",
+    "corporate-community relations",
+    "locked-out union workers",
+    "institutionalization of csr"
+   ]
+  },
+  {
+   "name": "Haseon Park",
+   "summary": "Studies trust and consumer-brand relationships in emergent media and computational advertising, including influencer marketing and social listening data.",
+   "summary_zh": "研究新兴媒体中的信任与消费者-品牌关系以及计算广告，包括网红营销与社交聆听数据。",
+   "confidence": "medium",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile",
+       "publications"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "computational advertising",
+    "consumer-brand relationships",
+    "brand trust",
+    "influencer marketing",
+    "sentiment analysis",
+    "brandwatch",
+    "addressable tv advertising",
+    "multimodal emotion"
+   ]
+  },
+  {
+   "name": "Adam Saffer",
+   "summary": "Studies how individuals, groups, and organizations such as NGOs and agencies form and use communication networks, using network analysis of primary relational data.",
+   "summary_zh": "运用基于一手关系数据的网络分析，研究个人、群体以及非政府组织和政府机构等组织如何建立并运用传播网络。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_NETWORK",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_SOUTH_SE_ASIA",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "communication networks",
+    "ngo networks",
+    "civil society",
+    "tie formation",
+    "employee engagement",
+    "information-sharing networks",
+    "emergent publics",
+    "public relations",
+    "malaysia"
+   ]
+  },
+  {
+   "name": "Claire M. Segijn",
+   "summary": "Studies intended and unintended effects of digital advertising, including media multitasking, synced and personalized ads, and privacy concerns, using eye tracking and experiments.",
+   "summary_zh": "运用眼动追踪与实验，研究数字广告的预期与非预期效果，包括媒体多任务、同步与个性化广告以及隐私担忧。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_PHYSIO_NEURO",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_PHYSIO_LOG",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "media multitasking",
+    "synced advertising",
+    "personalized advertising",
+    "privacy concerns",
+    "online surveillance",
+    "eye tracking",
+    "data-driven advertising",
+    "conversation-related advertising"
+   ]
+  },
+  {
+   "name": "Erich Sommerfeldt",
+   "summary": "Studies how public relations and public diplomacy contribute to social change and relationship building in developing, crisis-prone, and post-conflict societies, including network approaches.",
+   "summary_zh": "研究公共关系与公共外交如何在发展中国家及危机频发、冲突后社会中促进社会变革与关系重建，并采用网络分析视角。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_GLOBAL_INTERCULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_NETWORK",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_SOCIAL_MOVEMENTS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "public relations",
+    "public diplomacy",
+    "social change",
+    "post-conflict societies",
+    "developing nations",
+    "relationship building",
+    "communication networks",
+    "civil society"
+   ]
+  },
+  {
+   "name": "Christopher Terry",
+   "summary": "Studies media law and regulation, including media ownership, political advertising rules, copyright and fair use, internet and broadband policy, through legal and regulatory analysis.",
+   "summary_zh": "通过法律与规制分析，研究媒介法与规制，包括媒体所有权、政治广告规则、版权与合理使用以及互联网与宽带政策。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MEDIA_INDUSTRIES_POLICY",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ELECTIONS_GOVERNMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "media ownership",
+    "fcc",
+    "broadband policy",
+    "political advertising",
+    "copyright",
+    "fair use",
+    "internet policy",
+    "media law",
+    "rural broadband",
+    "tribal lands"
+   ]
+  },
+  {
+   "name": "Benjamin Toff",
+   "summary": "Studies news audiences, news avoidance, trust in news, political engagement, and the role of opinion polls in coverage of American politics, including multi-country research.",
+   "summary_zh": "研究新闻受众、新闻回避、新闻信任、政治参与以及民调在美国政治报道中的作用，包括多国比较研究。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_US",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "news avoidance",
+    "news audiences",
+    "trust in news",
+    "public opinion polls",
+    "political engagement",
+    "journalistic practices",
+    "polling coverage"
+   ]
+  },
+  {
+   "name": "Carolina Velloso",
+   "summary": "Studies journalism and identity, ethics, and practice from historical and contemporary lenses, with attention to gender, race, and sports journalism.",
+   "summary_zh": "从历史与当代视角研究新闻业与身份、伦理及实践，关注性别、种族与体育新闻。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_JOURNALISM",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CRITICAL_CULTURAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ENTERTAINMENT_GAMES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HISTORY_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_HISTORICAL_ARCHIVAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_NEWS_CONTENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_NEWSROOMS_MEDIA_ORGS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "sports journalism",
+    "journalism history",
+    "gender and media",
+    "race and media",
+    "athlete mental health",
+    "journalism ethics",
+    "media sociology",
+    "journalism and identity"
+   ]
+  },
+  {
+   "name": "Emily Vraga",
+   "summary": "Studies how people respond to health, science, and political information online, especially correcting misinformation on social media, using experiments, surveys, and content analysis.",
+   "summary_zh": "运用实验、调查与内容分析，研究人们如何回应网络上的健康、科学与政治信息，尤其是社交媒体上的虚假信息纠正。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_MISINFO_TRUST",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_POLITICAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_CHILDREN_FAMILY_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_SURVEY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_CONTENT_ANALYSIS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_MIXED",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [
+     {
+      "code": "D_SURVEY_EXPERIMENT",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "D_SOCIAL_MEDIA",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "setting": [
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_AUDIENCES_PUBLICS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": [
+     {
+      "code": "R_GLOBAL_CROSS_NATIONAL",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ]
+   },
+   "keywords": [
+    "misinformation correction",
+    "observed correction",
+    "health misinformation",
+    "news media literacy",
+    "social media",
+    "biased processing",
+    "science communication"
+   ]
+  },
+  {
+   "name": "Michelle Wood",
+   "summary": "Studies strategic communication with an emphasis on persuasion theory, inoculation and resistance to influence, and consumer processing of media messages.",
+   "summary_zh": "研究战略传播，重点关注说服理论、免疫理论与抗拒影响，以及消费者对媒介讯息的加工。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "publications"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [],
+    "region": []
+   },
+   "keywords": [
+    "inoculation theory",
+    "resistance to persuasion",
+    "public relations",
+    "persuasion theory",
+    "video news releases",
+    "strategic communication",
+    "message processing"
+   ]
+  },
+  {
+   "name": "Marco Yzer",
+   "summary": "Studies how people use health information in behavioral decisions, focusing on mental health communication and message design grounded in reasoned action theory.",
+   "summary_zh": "研究人们如何在健康行为决策中使用健康信息，聚焦心理健康传播及基于理性行为理论的讯息设计。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_HEALTH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_MEDIA_EFFECTS_PSYCH",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_THEORY",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_HEALTH_SYSTEMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "mental health communication",
+    "reasoned action theory",
+    "health behavior",
+    "persuasion",
+    "message design",
+    "self-protective motivation",
+    "health promotion messages"
+   ]
+  },
+  {
+   "name": "Alvin Zhou",
+   "summary": "Studies how generative AI reshapes advantages among messages, organizations, and publics in strategic communication, using computational methods and causal inference.",
+   "summary_zh": "运用计算方法与因果推断，研究生成式AI如何在战略传播中重塑讯息、组织与公众之间的优势分配。",
+   "confidence": "high",
+   "labels": {
+    "topic": [
+     {
+      "code": "T_PLATFORMS_AI",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_STRATEGIC_PR_AD",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "T_ORGANIZATIONAL",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "approach": [
+     {
+      "code": "A_COMPUTATIONAL",
+      "primary": true,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_EXPERIMENT",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "A_NETWORK",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "data": [],
+    "setting": [
+     {
+      "code": "SET_ORGANIZATIONS_WORKPLACES",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     },
+     {
+      "code": "SET_PLATFORMS",
+      "primary": false,
+      "sources": [
+       "department_profile"
+      ]
+     }
+    ],
+    "region": []
+   },
+   "keywords": [
+    "generative ai",
+    "computational social science",
+    "causal inference",
+    "strategic communication",
+    "stakeholder engagement",
+    "organizational networks",
+    "advocacy groups",
+    "prosocial outcomes"
+   ]
+  }
+ ]
+}

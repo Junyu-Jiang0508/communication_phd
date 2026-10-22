@@ -1,6 +1,6 @@
 // Browser-side matching: bge-small embeddings (transformers.js) + keyword score + label boosts.
 import type { Faculty, Program, Taxonomy, Dim } from './data';
-import { DIMS } from './data';
+import { DIMS, labelText } from './data';
 
 export type Hint = { dim: Dim; code: string; label: string; mode: 'off' | 'boost' | 'require' };
 export type Scored = { f: Faculty; sem: number; lex: number; boost: number; score: number; terms: string[]; labels: { dim: Dim; code: string }[] };
@@ -92,8 +92,7 @@ const DETECT: { dim: Dim; code: string; re: RegExp }[] = [
 export function detectHints(text: string, tax: Taxonomy, lang: string): Hint[] {
   const out: Hint[] = [];
   for (const d of DETECT) if (d.re.test(text) && !out.some((h) => h.code === d.code)) {
-    const lab = (lang === 'zh' ? tax.dimensions[d.dim].labels_zh : tax.dimensions[d.dim].labels)[d.code] || d.code;
-    out.push({ dim: d.dim, code: d.code, label: lab, mode: 'boost' });
+    out.push({ dim: d.dim, code: d.code, label: labelText(tax, d.dim, d.code, lang), mode: 'boost' });
   }
   return out.slice(0, 8);
 }
@@ -146,26 +145,34 @@ export function semanticScores(q: Float32Array, vec: Int8Array, dims: number, sc
   for (let i = 0; i < n; i++) { let s = 0; const off = i * dims; for (let j = 0; j < dims; j++) s += vec[off + j] * q[j]; out[i] = s / scale; }
   return out;
 }
-export const rescale = (cos: number) => Math.max(0, Math.min(1, (cos - 0.3) / 0.5));
+export type Calibration = { lo: number; hi: number; scaleAtHi?: number };
+// Map raw cosine to 0..1 using build-time calibration: the median person for a typical query -> 0, the top ~0.5% -> 0.85.
+export function rescale(cos: number, c: Calibration) {
+  const z = (cos - c.lo) / Math.max(1e-6, c.hi - c.lo);
+  const k = c.scaleAtHi ?? 0.85;
+  if (z <= 0) return 0;
+  if (z <= 1) return k * z;
+  return k + (1 - k) * (1 - Math.exp(-2 * (z - 1))); // flattens above the anchor instead of clipping at 100
+}
 
-export function score(list: Faculty[], ids: string[], cos: Float32Array, query: string, hints: Hint[], opts: { lexWeight: number; threshold: number; ranks: Set<string> }): Scored[] {
+export function score(list: Faculty[], ids: string[], cos: Float32Array, query: string, hints: Hint[], opts: { lexWeight: number; threshold: number; ranks: Set<string>; calib: Calibration }): Scored[] {
   const byId = new Map(list.map((f, i) => [f.id, i]));
   const out: Scored[] = [];
   for (let r = 0; r < ids.length; r++) {
     const i = byId.get(ids[r]); if (i == null) continue;
     const f = list[i];
     if (opts.ranks.size && !opts.ranks.has(f.rank)) continue;
-    const sem = rescale(cos[r]);
+    const sem = rescale(cos[r], opts.calib);
     const { score: lex, terms } = lexical(query, i, f);
     let boost = 0, ok = true; const labels: { dim: Dim; code: string }[] = [];
     for (const h of hints) {
       if (h.mode === 'off') continue;
       const hasIt = (f.labels[h.dim] ?? []).some((l) => l.c === h.code);
-      if (hasIt) { boost += 0.05; labels.push({ dim: h.dim, code: h.code }); }
+      if (hasIt) { boost += 0.03; labels.push({ dim: h.dim, code: h.code }); }
       else if (h.mode === 'require') ok = false;
     }
     if (!ok) continue;
-    const s = (1 - opts.lexWeight) * sem + opts.lexWeight * lex + Math.min(0.15, boost);
+    const s = (1 - opts.lexWeight) * sem + opts.lexWeight * lex + Math.min(0.09, boost);
     if (s < opts.threshold) continue;
     out.push({ f, sem, lex, boost, score: Math.min(1, s), terms, labels });
   }

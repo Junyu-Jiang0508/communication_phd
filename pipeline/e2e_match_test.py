@@ -27,7 +27,8 @@ with sync_playwright() as p:
     rows = pg.query_selector_all("#results .row")
     for r in rows[:8]:
         name = r.query_selector(".name").inner_text(); meta = r.query_selector(".meta").inner_text(); sc = r.query_selector(".score b").inner_text()
-        print(f"  {sc:>3}  {name} — {meta}")
+        why = r.query_selector(".why").inner_text() if r.query_selector(".why") else ""
+        print(f"  {sc:>3}  {name} — {why}")
     pg.click('[data-view="programs"]'); pg.wait_for_timeout(200)
     print("programs view:", pg.inner_text(".results-head").replace("\n", " | "))
     for r in pg.query_selector_all("#results .prog")[:5]:

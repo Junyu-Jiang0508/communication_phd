@@ -1,0 +1,3152 @@
+{
+  "slug": "indiana-university-bloomington",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Akinwumi Adesokan",
+      "summary": "Studies African cinema, Nollywood, and postcolonial writing to trace how globalization and digital culture reshape the production and circulation of African artistic forms.",
+      "summary_zh": "研究非洲电影、瑙莱坞与后殖民写作，探讨全球化与数字文化如何重塑非洲艺术形式的生产与流通。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_AFRICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "african cinema",
+        "nollywood",
+        "postcolonial aesthetics",
+        "globalization and film",
+        "digital culture",
+        "cultural theory",
+        "print and electronic media"
+      ]
+    },
+    {
+      "name": "Katina Bitsicas",
+      "summary": "Creates video installation, BioArt, and EcoArt works that combine archival, microscopic, and digital imagery to explore grief, memory, and ecological decay.",
+      "summary_zh": "以影像装置、生物艺术与生态艺术创作，结合档案、显微与数字影像，探讨哀伤、记忆与生态衰变。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "bioart",
+        "ecoart",
+        "video installation",
+        "new media art",
+        "death studies",
+        "memory",
+        "art and science",
+        "projection mapping"
+      ]
+    },
+    {
+      "name": "Nicholas Browning",
+      "summary": "Studies public relations ethics, corporate social responsibility and sociopolitical advocacy, and reputation and relationship management through theory-driven strategic communication research.",
+      "summary_zh": "研究公共关系伦理、企业社会责任与社会政治倡导，以及声誉与关系管理，开展理论导向的战略传播研究。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public relations",
+        "corporate social responsibility",
+        "corporate social advocacy",
+        "communication ethics",
+        "reputation management",
+        "organizational advocacy",
+        "activism",
+        "strategic communication"
+      ]
+    },
+    {
+      "name": "Ivica Ico Bukvic",
+      "summary": "Builds immersive audio and extended-reality technologies, from networked musical co-creation and data sonification to technology-mediated K-12 experiential learning.",
+      "summary_zh": "开发沉浸式音频与扩展现实技术，涵盖远程同步音乐共创、数据可听化以及技术支持的中小学体验式学习。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "extended reality",
+        "immersive audio",
+        "sonification",
+        "networked music performance",
+        "spatial audio",
+        "embodied interaction",
+        "k-12 education",
+        "data visualization"
+      ]
+    },
+    {
+      "name": "Cara Caddoo",
+      "summary": "Uses archival research to study the history of film and moviegoing in Native American and African American life in the nineteenth and twentieth-century United States.",
+      "summary_zh": "通过档案研究，考察十九至二十世纪美国原住民与非裔美国人生活中的电影与观影史。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "film history",
+        "native american moviegoing",
+        "african american cinema",
+        "silent era",
+        "indigenous media",
+        "boarding schools",
+        "race and media",
+        "film exhibition"
+      ]
+    },
+    {
+      "name": "Edward Castronova",
+      "summary": "Studies the economies and markets of video games and social media from an economics perspective, including damages questions in legal cases.",
+      "summary_zh": "从经济学视角研究电子游戏与社交媒体的经济与市场，包括法律案件中的损害赔偿问题。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "virtual economies",
+        "video game markets",
+        "social media economics",
+        "economic damages",
+        "expert witness",
+        "game economics"
+      ]
+    },
+    {
+      "name": "Galen Clavio",
+      "summary": "Studies how new and social media reshape interactions among sports consumers, media, and sports organizations, including fan content creation and sports journalism.",
+      "summary_zh": "研究新媒体与社交媒体如何重塑体育消费者、媒体与体育组织之间的互动，包括粉丝内容创作与体育新闻。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "sports media",
+        "sports journalism",
+        "social media",
+        "fan content creation",
+        "sports broadcasting",
+        "esports",
+        "sports marketing"
+      ]
+    },
+    {
+      "name": "Ryan Comfort",
+      "summary": "Studies science and environmental communication involving Indigenous peoples, using ethnography and interviews in newsrooms and agencies plus surveys and experiments on audiences.",
+      "summary_zh": "研究涉及原住民的科学与环境传播，在新闻机构与政府部门开展民族志与访谈，并以调查和实验研究受众。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "environmental communication",
+        "science communication",
+        "indigenous peoples",
+        "environmental journalism",
+        "scientists as news sources",
+        "environmental policy attitudes",
+        "ethnography",
+        "visual communication"
+      ]
+    },
+    {
+      "name": "Stephanie DeBoer",
+      "summary": "Examines media screens as infrastructure and environment across transnational and urban geographies, with a focus on inter-Asian, Japanese, and Chinese screen media and video art.",
+      "summary_zh": "研究作为基础设施与环境的媒介屏幕在跨国与城市地理中的形态，聚焦亚洲间、日本与中国的屏幕媒介及影像艺术。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_EAST_ASIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_CHINA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "screen media",
+        "media infrastructure",
+        "media geographies",
+        "inter-asian cultural studies",
+        "japanese screen media",
+        "chinese screen media",
+        "video art",
+        "co-production"
+      ]
+    },
+    {
+      "name": "Suzannah Evans Comfort",
+      "summary": "Studies how professional norms and economic pressures shape news production, especially the century-long history of environmental journalism and local news ecosystems in the U.S.",
+      "summary_zh": "研究职业规范与经济压力如何塑造新闻生产，尤其是美国环境新闻的百年历史与地方新闻生态。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "environmental journalism",
+        "news production",
+        "journalistic professionalism",
+        "climate change",
+        "science communication",
+        "local news ecosystem",
+        "indiana",
+        "nonprofit communication"
+      ]
+    },
+    {
+      "name": "Anthony Fargo",
+      "summary": "Analyzes media law and policy, especially legal protection of journalists' sources, the right to anonymous speech, and rationales for free expression online and internationally.",
+      "summary_zh": "分析媒介法律与政策，尤其是记者消息来源的法律保护、匿名言论权，以及网络与国际语境下言论自由的正当性依据。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "media law",
+        "first amendment",
+        "reporter's privilege",
+        "confidential sources",
+        "anonymous speech",
+        "criminal defamation",
+        "press freedom",
+        "freedom of information"
+      ]
+    },
+    {
+      "name": "Julia Fox",
+      "summary": "Applies motivated cognition theories to how audiences process and remember mediated messages, analyzing television news and comedic news as sources of political information.",
+      "summary_zh": "运用动机认知理论研究受众如何加工与记忆媒介信息，分析电视新闻与喜剧新闻作为政治信息来源的作用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "motivated cognition",
+        "information processing",
+        "message memory",
+        "television news",
+        "comedic news",
+        "political humor",
+        "audience analysis"
+      ]
+    },
+    {
+      "name": "Mike Gruszczynski",
+      "summary": "Studies agenda-setting, framing effects, and journalistic decision-making in political communication, drawing on political psychology and research methodology.",
+      "summary_zh": "研究政治传播中的议程设置、框架效果与新闻决策，借鉴政治心理学与研究方法论。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "agenda setting",
+        "framing effects",
+        "political psychology",
+        "public opinion",
+        "journalistic decision-making",
+        "research methods",
+        "two-step flow",
+        "science news"
+      ]
+    },
+    {
+      "name": "Raiford Guins",
+      "summary": "Studies the material lives of technological artifacts, from design history to video game history and preservation, through archival, museum, and object-centered research.",
+      "summary_zh": "以档案、博物馆与物件为中心的研究，考察技术制品的物质生命，涵盖设计史以及电子游戏史与保存。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "personal_site"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "personal_site"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "design history",
+        "game preservation",
+        "video game history",
+        "material culture",
+        "history of technology",
+        "atari",
+        "museums",
+        "industrial design"
+      ]
+    },
+    {
+      "name": "Minjeong Kang",
+      "summary": "Studies employee and stakeholder engagement, organizational listening, employee voice and dissent, and public trust in organizations, developing conceptual models of strategic communication.",
+      "summary_zh": "研究员工与利益相关者参与、组织倾听、员工发声与异议以及公众对组织的信任，构建战略传播的概念模型。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "employee engagement",
+        "organizational listening",
+        "employee voice",
+        "employee dissent",
+        "public trust",
+        "distrust of organizations",
+        "change communication",
+        "public relations"
+      ]
+    },
+    {
+      "name": "Talalah Khan",
+      "summary": "Studies luxury marketing and fashion consumer behavior on social media, examining how sustainability, artificial intelligence, and body image shape consumer culture.",
+      "summary_zh": "研究社交媒体上的奢侈品营销与时尚消费行为，考察可持续性、人工智能与身体意象如何塑造消费文化。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "luxury marketing",
+        "fashion consumer behavior",
+        "digital advertising",
+        "consumer culture",
+        "sustainability",
+        "artificial intelligence",
+        "body image",
+        "social media influence"
+      ]
+    },
+    {
+      "name": "Gerry Lanosga",
+      "summary": "Studies journalism practice past and present, including the professionalization of journalism, prize culture, investigative reporting, and freedom of information, using historical and survey research.",
+      "summary_zh": "研究新闻实践的历史与现状，包括新闻职业化、新闻奖文化、调查报道与信息自由，采用历史与调查研究方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "investigative journalism",
+        "journalism history",
+        "journalism prizes",
+        "freedom of information",
+        "professionalization",
+        "data journalism",
+        "media law",
+        "public policy"
+      ]
+    },
+    {
+      "name": "Novotny Lawrence",
+      "summary": "Analyzes Black cinema and popular culture, from Blaxploitation to Black horror, in relation to racial discrimination and resistance in American film history.",
+      "summary_zh": "分析从黑人剥削电影到黑人恐怖片的黑人电影与流行文化，探讨美国电影史中的种族歧视与抗争。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "black cinema",
+        "blaxploitation",
+        "black horror films",
+        "race and media",
+        "popular culture",
+        "american film history",
+        "genre"
+      ]
+    },
+    {
+      "name": "Taeyoung Lee",
+      "summary": "Studies how platform-centric media and technology-driven information ecosystems reshape news engagement, trust in the press, and misinformation's threat to democratic values.",
+      "summary_zh": "研究以平台为中心的媒介环境与技术驱动的信息生态如何重塑新闻参与、对新闻界的信任，以及虚假信息对民主价值的威胁。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "news trust",
+        "misinformation",
+        "disinformation",
+        "social media news",
+        "media perceptions",
+        "political behavior",
+        "ai and news",
+        "democracy"
+      ]
+    },
+    {
+      "name": "Lisa Lenoir",
+      "summary": "Uses critical-cultural and sociological approaches to examine race, gender, and class in lifestyle and fashion media discourses, activism, and political polarization.",
+      "summary_zh": "以批判文化与社会学路径考察生活方式与时尚媒体话语、社会行动与政治极化中的种族、性别与阶级问题。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "lifestyle journalism",
+        "fashion media",
+        "race gender and class",
+        "consumer culture",
+        "identity",
+        "activism",
+        "political polarization",
+        "media sociology"
+      ]
+    },
+    {
+      "name": "Nicky Lewis",
+      "summary": "Studies how media choice and exposure shape cognitive and emotional responses in sports and entertainment contexts, and evaluates large-scale opioid and tobacco health campaigns.",
+      "summary_zh": "研究体育与娱乐情境中媒介选择与接触如何影响认知与情绪反应，并评估阿片类药物与控烟的大型健康运动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "media psychology",
+        "media choice",
+        "emotional responses",
+        "sports media",
+        "entertainment media",
+        "health campaigns",
+        "opioid use disorder",
+        "tobacco cessation"
+      ]
+    },
+    {
+      "name": "Julien Mailland",
+      "summary": "Studies the history, law, economics, and policy of technology platforms, including a geopolitical and legal history of how Soviet-born Tetris entered Western markets.",
+      "summary_zh": "研究技术平台的历史、法律、经济与政策，包括苏联诞生的俄罗斯方块如何进入西方市场的地缘政治与法律史。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_EUROPE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "tetris",
+        "soviet union",
+        "video game history",
+        "copyright law",
+        "technology platforms",
+        "media law",
+        "platform economics",
+        "geopolitics"
+      ]
+    },
+    {
+      "name": "Lesa Major",
+      "summary": "Uses framing analysis of health news to study responsibility and blame, public support for health policy, and AIDS messaging for African Americans.",
+      "summary_zh": "通过对健康新闻的框架分析，研究责任与归咎、公众对健康政策的支持以及面向非裔美国人的艾滋病信息。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "framing analysis",
+        "health news",
+        "responsibility frames",
+        "blame attribution",
+        "hiv/aids",
+        "african americans",
+        "health policy support",
+        "visual communication"
+      ]
+    },
+    {
+      "name": "Joshua Malitsky",
+      "summary": "Studies the history and theory of documentary and nonfiction film, especially films of revolutionary nation-building in the USSR, Yugoslavia, and Cuba.",
+      "summary_zh": "研究纪录片与非虚构电影的历史与理论，尤其是苏联、南斯拉夫与古巴革命时期服务于国家建设的影片。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_EUROPE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "documentary film",
+        "nonfiction film",
+        "soviet cinema",
+        "cuban cinema",
+        "yugoslav film",
+        "nation-building",
+        "propaganda",
+        "sports documentary"
+      ]
+    },
+    {
+      "name": "Laura Marciano",
+      "summary": "Studies how smartphone and social media use affect adolescent well-being and mental health, combining surveys, smartphone data, wearables, and digital biomarkers.",
+      "summary_zh": "研究智能手机与社交媒体使用如何影响青少年幸福感与心理健康，结合问卷、手机数据、可穿戴设备与数字生物标志物。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "adolescent well-being",
+        "smartphone use",
+        "social media use",
+        "mental health",
+        "digital biomarkers",
+        "wearables",
+        "digital wellness",
+        "social neuroscience"
+      ]
+    },
+    {
+      "name": "Michael T. Martin",
+      "summary": "Studies African, Caribbean, Latin American, and Black diasporic cinemas as practices of decolonization, migration, and redress through critical and historical analysis.",
+      "summary_zh": "以批判与历史分析研究非洲、加勒比、拉美及黑人离散电影，视其为去殖民化、迁移与补偿正义的实践。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_AFRICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_US",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "african cinema",
+        "black diaspora cinema",
+        "fespaco",
+        "decolonization",
+        "postcolonial cinema",
+        "caribbean cinema",
+        "redress movements",
+        "documentary"
+      ]
+    },
+    {
+      "name": "Nicole Martins",
+      "summary": "Studies the social and psychological effects of media on youth, including relationally aggressive portrayals, media violence, and children's self-esteem and body image.",
+      "summary_zh": "研究媒介对青少年的社会与心理影响，包括关系攻击描绘、媒介暴力以及儿童自尊与身体意象。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "children and media",
+        "media violence",
+        "relational aggression",
+        "body image",
+        "self-esteem",
+        "gender portrayals",
+        "youth"
+      ]
+    },
+    {
+      "name": "Eric McEver",
+      "summary": "Writes and directs narrative feature films in English and Japanese that blend live action, tokusatsu effects, and animation.",
+      "summary_zh": "以英语和日语编导叙事长片，融合真人表演、特摄效果与动画。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": [
+          {
+            "code": "R_EAST_ASIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "narrative filmmaking",
+        "animation",
+        "japanese cinema",
+        "anime",
+        "tokusatsu",
+        "screenwriting",
+        "australian cinema",
+        "independent film"
+      ]
+    },
+    {
+      "name": "Radhika Parameswaran",
+      "summary": "Studies gender, globalization, and postcolonial media in South Asia from a feminist cultural studies perspective, using qualitative and audience research methods.",
+      "summary_zh": "从女性主义文化研究视角研究南亚的性别、全球化与后殖民媒介，采用质性与受众研究方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_SOUTH_SE_ASIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "feminist cultural studies",
+        "gender and media",
+        "postcolonial media studies",
+        "globalization",
+        "south asia",
+        "india",
+        "audience studies",
+        "qualitative methods"
+      ]
+    },
+    {
+      "name": "Jason Peifer",
+      "summary": "Studies citizens' trust in and uncertainty about journalism and public institutions, including journalistic transparency, satirical news, and cross-national perceptions of news value.",
+      "summary_zh": "研究公民对新闻业与公共机构的信任与不确定感，包括新闻透明度、讽刺新闻以及跨国的新闻价值认知。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "news trust",
+        "journalistic transparency",
+        "media perceptions",
+        "satirical news",
+        "political entertainment",
+        "news literacy",
+        "public institutions"
+      ]
+    },
+    {
+      "name": "Rachel Plotnick",
+      "summary": "Studies the history and culture of media technologies in everyday life, especially interfaces like buttons and screens, wearables, and body-technology relationships.",
+      "summary_zh": "研究媒介技术在日常生活中的历史与文化，尤其是按钮、屏幕等界面、可穿戴设备以及身体与技术的关系。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "history of technology",
+        "interfaces",
+        "buttons",
+        "wearables",
+        "haptics",
+        "media materiality",
+        "human-machine relationships",
+        "embodiment"
+      ]
+    },
+    {
+      "name": "Ryan Powell",
+      "summary": "Studies film historiography of queer and gay male life, independent and underground cinema, film exhibition and counterpublics, and cinematic sound.",
+      "summary_zh": "研究酷儿与男同性恋生活的电影史学、独立与地下电影、电影放映与反公众以及电影声音。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "queer cinema",
+        "film historiography",
+        "gay male life",
+        "film exhibition",
+        "counterpublics",
+        "cinematic sound",
+        "underground film",
+        "microcinema"
+      ]
+    },
+    {
+      "name": "Melanie Sarge",
+      "summary": "Works in advertising and strategic communication; the profile describes professional background rather than specific research topics.",
+      "summary_zh": "从事广告与战略传播领域工作；简介主要介绍职业背景，未说明具体研究主题。",
+      "confidence": "low",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "advertising",
+        "strategic communication",
+        "public relations",
+        "retail marketing",
+        "mass communication"
+      ]
+    },
+    {
+      "name": "Harmeet Sawhney",
+      "summary": "Theorizes information and communication technologies, especially universal access, network development, and how metaphors and values shape our imagination of the Internet.",
+      "summary_zh": "对信息与传播技术进行理论化研究，尤其关注普遍接入、网络发展，以及隐喻与价值观如何塑造人们对互联网的想象。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "universal access",
+        "information and communication technologies",
+        "telecommunications policy",
+        "internet metaphors",
+        "network development",
+        "coordination and control",
+        "infrastructure"
+      ]
+    },
+    {
+      "name": "James Shanahan",
+      "summary": "Studies cultivation, cultural indicators, and media effects on public opinion, focusing on science and environmental communication, including LLM-assisted content analysis of climate news.",
+      "summary_zh": "研究涵化理论、文化指标及媒介对舆论的影响，聚焦科学与环境传播，包括以大语言模型辅助分析气候新闻内容。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "cultivation theory",
+        "cultural indicators",
+        "media effects",
+        "environmental communication",
+        "climate change",
+        "sitcoms",
+        "television",
+        "self-censorship"
+      ]
+    },
+    {
+      "name": "Esi Thompson Tani-Eshon",
+      "summary": "Studies health risk and crisis communication around Ebola, COVID-19, and malaria vaccines in Ghana and Liberia, using qualitative methods and cross-national survey comparisons.",
+      "summary_zh": "研究加纳与利比里亚围绕埃博拉、新冠与疟疾疫苗的健康风险与危机传播，采用质性方法与跨国调查比较。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_AFRICA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "risk communication",
+        "crisis communication",
+        "ebola",
+        "covid-19",
+        "malaria vaccine",
+        "ghana",
+        "development communication",
+        "misinformation"
+      ]
+    },
+    {
+      "name": "David Tolchinsky",
+      "summary": "Creates films, plays, and sound works exploring mental illness, memory, trauma, and adolescence, spanning screenwriting, scoring, and media production.",
+      "summary_zh": "创作电影、戏剧与声音作品，探讨精神疾病、记忆、创伤与青少年，涵盖编剧、配乐与媒介制作。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "screenwriting",
+        "film production",
+        "sound design",
+        "playwriting",
+        "mental illness",
+        "trauma",
+        "film scoring"
+      ]
+    },
+    {
+      "name": "Debra Tolchinsky",
+      "summary": "Makes documentary and multimedia work examining false memory and contaminated beliefs in the criminal justice system and documentary's own role in shaping memory.",
+      "summary_zh": "创作纪录片与多媒体作品，探讨刑事司法系统中的虚假记忆与被污染的信念，以及纪录片本身如何影响记忆。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "documentary film",
+        "documentary practice",
+        "false memory",
+        "criminal justice",
+        "multimedia art",
+        "memory",
+        "op-docs"
+      ]
+    },
+    {
+      "name": "John Velez",
+      "summary": "Studies the interpersonal, mental well-being, and learning benefits of video games and interactive media from a media psychology perspective.",
+      "summary_zh": "从媒介心理学视角研究电子游戏与互动媒介在人际关系、心理健康与学习方面的益处。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "video games",
+        "interactive media",
+        "media psychology",
+        "mental well-being",
+        "game-based learning",
+        "prosocial effects"
+      ]
+    },
+    {
+      "name": "Brandon Wallace",
+      "summary": "Critically examines how power and ideology operate through sport and sports media, studying social movements such as Know Your Rights Camp through collaborative case research.",
+      "summary_zh": "批判性考察权力与意识形态如何通过体育与体育媒体运作，通过合作式个案研究考察“了解你的权利营”等社会运动。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_QUALITATIVE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CRITICAL_INTERPRETIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_SOCIAL_MOVEMENTS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "sport and social movements",
+        "sports media",
+        "colin kaepernick",
+        "know your rights camp",
+        "black liberation",
+        "race",
+        "ideology",
+        "grassroots activism"
+      ]
+    },
+    {
+      "name": "Andrew Weaver",
+      "summary": "Studies why people consume violent and morally charged media and how it affects them, using meta-analysis, psychophysiology, self-report, and content analysis.",
+      "summary_zh": "研究人们为何消费暴力与道德相关的媒介内容及其影响，采用元分析、心理生理测量、自我报告与内容分析。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_MIXED",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "media violence",
+        "moral psychology",
+        "video games",
+        "morality",
+        "media selection",
+        "psychophysiology",
+        "meta-analysis",
+        "race and media"
+      ]
+    },
+    {
+      "name": "Paul Wright",
+      "summary": "Studies health communication and media effects from a media psychology and audience-analysis perspective, with federally and privately funded research programs.",
+      "summary_zh": "从媒介心理学与受众分析视角研究健康传播与媒介效果，研究项目获联邦与私人资助。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "health communication",
+        "media effects",
+        "media psychology",
+        "audience analysis",
+        "mass communication theory"
+      ]
+    },
+    {
+      "name": "Nan Zhang",
+      "summary": "Studies human-AI interaction and AI-mediated communication in advertising, examining responses to generative AI and LLMs with experimental and computational methods.",
+      "summary_zh": "研究广告中的人机交互与人工智能中介传播，以实验与计算方法考察人们对生成式AI与大语言模型的反应。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "human-ai interaction",
+        "ai-mediated communication",
+        "generative ai",
+        "large language models",
+        "advertising",
+        "computational communication",
+        "consumer behavior",
+        "creativity"
+      ]
+    }
+  ]
+}

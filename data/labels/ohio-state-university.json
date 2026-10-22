@@ -1,0 +1,2294 @@
+{
+  "slug": "ohio-state-university",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Kelly Garrett",
+      "summary": "Studies how online news use, selective exposure, and exposure to falsehoods and corrections shape political beliefs in U.S. elections using panel surveys, online experiments, and behavioral data.",
+      "summary_zh": "利用面板调查、在线实验和行为数据，研究在线新闻使用、选择性接触以及虚假信息与更正信息如何影响美国选举中的政治信念。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "D_ADMIN_LARGE_SCALE",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_US",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "misinformation",
+        "selective exposure",
+        "echo chambers",
+        "corrections",
+        "political beliefs",
+        "presidential elections",
+        "panel surveys",
+        "online news"
+      ]
+    },
+    {
+      "name": "Osei Appiah",
+      "summary": "Studies how ethnic-specific strategic messages and stereotypes in media affect minority audiences, and how race and partisanship shape fears about interracial conversations on political issues.",
+      "summary_zh": "研究媒体中针对特定族裔的战略传播信息与刻板印象如何影响少数族裔受众，以及种族与党派立场如何影响人们对跨种族政治议题对话的担忧。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "race and media",
+        "ethnic minorities",
+        "strategic communication",
+        "stereotypes",
+        "cultural identity",
+        "interracial conversations",
+        "intergroup communication",
+        "partisanship"
+      ]
+    },
+    {
+      "name": "Joseph Bayer",
+      "summary": "Studies how smartphone and social media habits change the mental processes underlying social connection and digital well-being, using mobile methods that collect device and survey data.",
+      "summary_zh": "利用通过移动设备收集数字痕迹与调查数据的移动研究方法，研究智能手机与社交媒体习惯如何改变社会联结背后的心理过程及数字福祉。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "smartphone habits",
+        "social media habits",
+        "mobile methods",
+        "digital well-being",
+        "technology addiction",
+        "social cognition",
+        "social connection"
+      ]
+    },
+    {
+      "name": "Robert Bond",
+      "summary": "Studies social interactions, social networks, and political behavior, including misinformation beliefs across election cycles, frequently using computational and network methods.",
+      "summary_zh": "研究社会互动、社会网络与政治行为（包括选举周期中的虚假信息信念），常采用计算与网络分析方法。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_NETWORK",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "social networks",
+        "social influence",
+        "computational social science",
+        "political behavior",
+        "misinformation",
+        "motivated reasoning",
+        "presidential elections"
+      ]
+    },
+    {
+      "name": "James \"Alex\" Bonus",
+      "summary": "Studies cognitive obstacles that limit young children's learning from socioemotional and science media, and how nostalgic media prompts self-comparisons affecting adults' well-being.",
+      "summary_zh": "研究阻碍幼儿从社会情感类与科学类媒介中学习的认知障碍，以及怀旧媒介如何引发自我时间比较并影响成年人的心理福祉。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "children's educational media",
+        "story schema",
+        "reality judgments",
+        "nostalgia",
+        "nostalgic media",
+        "temporal comparison",
+        "well-being",
+        "science learning"
+      ]
+    },
+    {
+      "name": "Miriam (Mimi) Brinberg",
+      "summary": "Studies the dynamics of everyday face-to-face and mediated interpersonal interactions using dyadic methods, intensive longitudinal data, ecological momentary assessment, and screenshot sequences.",
+      "summary_zh": "运用二元分析方法、密集纵向数据、生态瞬时评估和屏幕截图序列，研究日常面对面与中介化人际互动的动态过程。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "dyadic methods",
+        "intensive longitudinal data",
+        "ecological momentary assessment",
+        "screenomics",
+        "text messages",
+        "conversation dynamics",
+        "interpersonal interaction",
+        "daily life"
+      ]
+    },
+    {
+      "name": "Brad J. Bushman",
+      "summary": "Studies the causes, consequences, and remedies of human aggression and violence, testing popular myths about guns, venting anger, self-esteem, and whether violence and sex sell products.",
+      "summary_zh": "研究人类攻击与暴力行为的成因、后果与对策，检验关于枪支、宣泄愤怒、自尊以及“暴力与性能促销”等流行迷思。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "aggression",
+        "violence",
+        "gun violence",
+        "anger",
+        "venting",
+        "self-esteem",
+        "youth violence",
+        "violent and sexual advertising"
+      ]
+    },
+    {
+      "name": "Scott Campbell",
+      "summary": "Studies the social uses and consequences of mobile media, including habit and automaticity, civic life, teens' phone use, and solitude and well-being in an always-connected era.",
+      "summary_zh": "研究移动媒体的社会使用与后果，包括使用习惯与自动性、公民生活、青少年手机使用，以及永远在线时代的独处与福祉。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "mobile communication",
+        "mobile media",
+        "solitude",
+        "habit",
+        "automaticity",
+        "civic engagement",
+        "teens and mobile phones",
+        "sexting",
+        "well-being"
+      ]
+    },
+    {
+      "name": "HyunYi Cho",
+      "summary": "Studies intersections between media, health, and identities, with attention to how media messages shape health-related outcomes.",
+      "summary_zh": "研究媒介、健康与身份认同之间的交叉关系，关注媒介信息如何影响与健康相关的结果。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "health communication",
+        "media and health",
+        "identity",
+        "media effects",
+        "health messages"
+      ]
+    },
+    {
+      "name": "Jason Coronel",
+      "summary": "Studies what eye movements reveal about memory, knowledge, and decisions about civic and scientific information, and how technologies that infer from eye tracking can be trusted and governed.",
+      "summary_zh": "研究眼动如何揭示人们对公民与科学信息的记忆、知识和决策，以及基于眼动推断的技术如何获得信任与治理。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "eye tracking",
+        "eye movements",
+        "memory",
+        "decision making",
+        "machine inference",
+        "technology governance",
+        "extended reality",
+        "civic information",
+        "attention"
+      ]
+    },
+    {
+      "name": "David DeAndrea",
+      "summary": "Studies online self-presentation, impression management, and person perception, including how people judge the credibility and authenticity of online information in health and political contexts.",
+      "summary_zh": "研究网络自我呈现、印象管理与人际知觉，考察人们如何在人际、健康和政治等情境中判断网络信息的可信度与真实性。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "self-presentation",
+        "impression management",
+        "online credibility",
+        "authenticity",
+        "person perception",
+        "attributions",
+        "body image"
+      ]
+    },
+    {
+      "name": "Graham Dixon",
+      "summary": "Studies how misinformation, bigoted discourse, and violent rhetoric on social media distort public engagement with politicized science topics such as climate change and emerging technologies.",
+      "summary_zh": "研究社交媒体上的虚假信息、偏执言论与暴力修辞如何扭曲公众对气候变化和新兴技术等政治化科学议题的参与。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_POLITICAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "risk communication",
+        "science communication",
+        "misinformation",
+        "climate change",
+        "emerging technologies",
+        "violent rhetoric",
+        "social media",
+        "democratic participation"
+      ]
+    },
+    {
+      "name": "William \"Chip\" Eveland",
+      "summary": "Studies political talk and interpersonal communication networks, examining exposure to partisan and racial disagreement and its effects on knowledge, participation, and polarization.",
+      "summary_zh": "研究政治讨论与人际传播网络，考察跨党派与跨种族的意见分歧接触及其对政治知识、政治参与和极化的影响。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_NETWORK",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "political discussion",
+        "interpersonal communication networks",
+        "cross-cutting disagreement",
+        "political knowledge",
+        "polarization",
+        "political participation",
+        "perspective-taking",
+        "democratic norms"
+      ]
+    },
+    {
+      "name": "Jesse Fox",
+      "summary": "Studies how social media, virtual reality, video games, robots, and conversational agents shape identities, attitudes, and behaviors, using experiments, surveys, content analysis, and interviews.",
+      "summary_zh": "运用实验、调查、内容分析和访谈，研究社交媒体、虚拟现实、电子游戏、机器人与对话代理如何塑造身份认同、态度与行为。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "virtual reality",
+        "social media",
+        "video games",
+        "social robots",
+        "conversational agents",
+        "identity",
+        "user experience",
+        "mixed methods"
+      ]
+    },
+    {
+      "name": "Sara Grady",
+      "summary": "Studies why people engage with narrative entertainment, how media serves as a coping tool, and how media use and relationships shape each other, mainly through experiments.",
+      "summary_zh": "主要通过实验研究人们为何投入叙事娱乐、媒介如何成为应对压力的工具，以及媒介使用与人际关系和身份认同之间的相互影响。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "media psychology",
+        "narrative entertainment",
+        "coping",
+        "fictional characters",
+        "identity",
+        "social relationships",
+        "narrative engagement",
+        "stress"
+      ]
+    },
+    {
+      "name": "Matthew Grizzard",
+      "summary": "Studies how audiences make moral judgments of characters in popular media narratives and how these context-dependent judgments help explain polarization and schadenfreude.",
+      "summary_zh": "研究受众如何对流行媒介叙事中的角色作出道德判断，以及这些受情境影响的判断如何解释极化与幸灾乐祸等现象。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "moral judgment",
+        "media psychology",
+        "narratives",
+        "character evaluation",
+        "schadenfreude",
+        "polarization",
+        "popular media"
+      ]
+    },
+    {
+      "name": "Lanier Holt",
+      "summary": "Studies the social and psychological effects of media messages on audiences' perceptions of African Americans, women, and other marginalized groups, bridging journalism and media effects.",
+      "summary_zh": "研究媒介信息如何影响受众对非裔美国人、女性及其他边缘群体的认知，融合新闻学、媒介效果与社会心理学视角。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "media representation",
+        "african americans",
+        "stereotypes",
+        "marginalized groups",
+        "media effects",
+        "social psychology",
+        "audience perceptions"
+      ]
+    },
+    {
+      "name": "Shelly Hovick",
+      "summary": "Studies cancer and chronic disease risk perceptions, health information seeking, and disparities, and develops tools for communicating family health history and genetic risk.",
+      "summary_zh": "研究癌症与慢性病风险认知、健康信息寻求与健康差距，并开发用于传达家族病史和遗传风险信息的工具。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "cancer risk perception",
+        "health information seeking",
+        "health disparities",
+        "family health history",
+        "genetic risk communication",
+        "prevention behavior",
+        "early detection",
+        "chronic disease"
+      ]
+    },
+    {
+      "name": "Susan Kline",
+      "summary": "Studies interpersonal message design, persuasion, and argumentation from a constructivist view, including how children develop communication abilities and how deliberation shapes civic discourse.",
+      "summary_zh": "从建构主义视角研究人际信息设计、说服与论辩，包括儿童沟通能力的发展以及协商如何影响公民话语。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_RHETORIC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_LANGUAGE_INTERACTION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "constructivism",
+        "message design",
+        "persuasion",
+        "argumentation",
+        "social competence",
+        "children's communication development",
+        "civic discourse",
+        "deliberation"
+      ]
+    },
+    {
+      "name": "Roselyn Lee-Won",
+      "summary": "Studies cognitive and affective processes in social media use, computer-mediated communication, and human-computer interaction.",
+      "summary_zh": "研究社交媒体使用、计算机中介传播与人机交互中的认知和情感过程。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "social media",
+        "computer-mediated communication",
+        "human-computer interaction",
+        "emotion",
+        "user experience",
+        "identity"
+      ]
+    },
+    {
+      "name": "Bingjie Liu",
+      "summary": "Studies human interaction with AI for self-expression and interpersonal communication, such as identity management and supportive communication, using mixed methods and building human-centered AI.",
+      "summary_zh": "运用混合方法研究人们借助人工智能进行自我表达与人际沟通（如身份管理和支持性沟通），并构建以人为本的人工智能系统。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_MIXED",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "ai-mediated communication",
+        "human-machine communication",
+        "ai for social good",
+        "supportive communication",
+        "relational maintenance",
+        "identity management",
+        "human-centered ai"
+      ]
+    },
+    {
+      "name": "Teresa Lynch",
+      "summary": "Studies sex and gender messages in video games and how interactivity shapes players' emotional processing, using content analysis, surveys, experiments, and interviews.",
+      "summary_zh": "运用内容分析、调查、实验和深度访谈，研究电子游戏中的性与性别信息，以及操控性如何影响玩家的情绪加工。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_QUALITATIVE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_NEWS_CONTENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_INTERVIEWS_FIELD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "video games",
+        "gender",
+        "sex differences",
+        "emotion",
+        "evolutionary psychology",
+        "players",
+        "interactivity",
+        "content analysis"
+      ]
+    },
+    {
+      "name": "Nic Matthews",
+      "summary": "Studies the mechanisms and contexts that bias moral judgments, combining entertainment media and interpersonal communication theories with moral psychology.",
+      "summary_zh": "结合娱乐媒介与人际传播理论和道德心理学，研究使道德判断产生偏差的机制与情境。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "moral judgment",
+        "moral psychology",
+        "judgment bias",
+        "entertainment media",
+        "interpersonal communication theory",
+        "morality"
+      ]
+    },
+    {
+      "name": "Jingbo Meng",
+      "summary": "Studies and designs online social networks that promote social support, credible health information, and health behavior change, including AI tools to counter health misinformation.",
+      "summary_zh": "研究并设计促进社会支持、可信健康信息传播和健康行为改变的在线社会网络，包括用人工智能应对健康虚假信息。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_NETWORK",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "social support",
+        "online health communities",
+        "social networks",
+        "health misinformation",
+        "mental health",
+        "health behavior change",
+        "well-being",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "name": "Emily Moyer-Gusé",
+      "summary": "Studies how entertainment narratives such as television storylines influence attitudes and behaviors on health and social issues, and children's emotional reactions to news and entertainment.",
+      "summary_zh": "研究电视剧情等娱乐叙事如何影响人们对健康与社会议题的态度和行为，以及儿童对新闻和娱乐节目的情绪反应。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "narrative persuasion",
+        "entertainment-education",
+        "television storylines",
+        "sexual health",
+        "teen pregnancy",
+        "children's fear responses",
+        "parental coping",
+        "media effects"
+      ]
+    },
+    {
+      "name": "Amy Nathanson",
+      "summary": "Studies media effects on young children, including links between television exposure and executive function and theory of mind, and how parental mediation shapes children's responses.",
+      "summary_zh": "研究媒介对幼儿的影响，包括电视接触与执行功能、心理理论之间的关系，以及父母介入如何影响儿童对电视的反应。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "children and television",
+        "executive function",
+        "theory of mind",
+        "parental mediation",
+        "toddlers",
+        "preschoolers",
+        "parent-child communication"
+      ]
+    },
+    {
+      "name": "Laura Partain",
+      "summary": "Studies intergroup communication, stereotype interventions, and prejudice reduction, including media representations of race, religion, refugees, and immigrants, and health communication.",
+      "summary_zh": "研究群际传播、刻板印象干预与偏见消减，包括媒介对种族、宗教、难民和移民的再现，以及健康传播。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "intergroup communication",
+        "stereotype interventions",
+        "prejudice reduction",
+        "media representation",
+        "refugees",
+        "immigrants",
+        "religion",
+        "health and wellness"
+      ]
+    },
+    {
+      "name": "Rob Potter",
+      "summary": "Studies how audio elements of media messages affect audience attention and emotion through experiments combining self-reports with heart rate, skin conductance, facial EMG, eye tracking, and EEG.",
+      "summary_zh": "通过将自我报告与心率、皮肤电、面部肌电、眼动和脑电测量相结合的实验，研究媒介信息中的音频元素如何影响受众注意与情绪。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "audio",
+        "radio",
+        "attention",
+        "emotion",
+        "psychophysiology",
+        "heart rate",
+        "skin conductance",
+        "arousal"
+      ]
+    },
+    {
+      "name": "Felecia Ross",
+      "summary": "Studies the history of the Black press and the relationship between mass media and traditionally discriminated groups through journalism history research.",
+      "summary_zh": "通过新闻史研究，探讨黑人报刊的历史以及大众媒介与传统上受歧视群体之间的关系。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_JOURNALISM",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HISTORY_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_CRITICAL_CULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_HISTORICAL_ARCHIVAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ARCHIVES_TEXTS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_NEWSROOMS_MEDIA_ORGS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "black press",
+        "journalism history",
+        "civil rights movement",
+        "marginalized groups",
+        "race and media",
+        "media stereotypes",
+        "crime news"
+      ]
+    },
+    {
+      "name": "Jane Shawcroft",
+      "summary": "Studies how family processes, context, and individual differences shape children's technology use and well-being, using experience sampling and long-lag longitudinal panel data.",
+      "summary_zh": "运用经验取样与长间隔纵向面板数据，研究家庭过程、外部环境与个体差异如何影响儿童的技术使用及其福祉。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "children's technology use",
+        "family processes",
+        "well-being",
+        "executive function",
+        "experience sampling",
+        "longitudinal panel",
+        "human development"
+      ]
+    },
+    {
+      "name": "Hillary Shulman",
+      "summary": "Studies how message design can increase engagement with politics, science, and health, especially among underrepresented groups, drawing on social cognition and social influence.",
+      "summary_zh": "借助社会认知与社会影响理论，研究信息设计如何提升人们（尤其是代表性不足群体）对政治、科学与健康议题的参与。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_MARGINALIZED_COMMUNITIES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "message design",
+        "political engagement",
+        "science communication",
+        "social cognition",
+        "social influence",
+        "underrepresented groups",
+        "public engagement"
+      ]
+    },
+    {
+      "name": "Michael Slater",
+      "summary": "Develops theories of selective exposure and narrative influence, such as the Reinforcing Spirals Model, and studies media and health prevention, especially alcohol and tobacco use.",
+      "summary_zh": "构建选择性接触与叙事影响的理论（如强化螺旋模型），并研究媒介与健康预防，尤其是酒精与烟草使用。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "reinforcing spirals model",
+        "narrative persuasion",
+        "extended elaboration likelihood model",
+        "selective exposure",
+        "social identity",
+        "alcohol",
+        "tobacco",
+        "prevention"
+      ]
+    },
+    {
+      "name": "Dominik Stecuła",
+      "summary": "Studies the supply and demand sides of the information environment and how they and misinformation shape public opinion on issues like climate change and vaccination.",
+      "summary_zh": "研究信息环境的供给与需求两端，以及它们和虚假信息如何影响公众在气候变化、疫苗接种等议题上的舆论形成。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "public opinion",
+        "climate change",
+        "vaccines",
+        "misinformation",
+        "information environment",
+        "science communication",
+        "political communication"
+      ]
+    },
+    {
+      "name": "Zheng Joyce Wang",
+      "summary": "Studies motivation, emotion, and cognition in media processing and choice using psychophysiological measures and dynamic and quantum probabilistic computational models, including mHealth design.",
+      "summary_zh": "运用心理生理测量以及动态与量子概率计算模型，研究媒介加工与选择中的动机、情绪和认知，并涉及移动健康应用设计。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "personal_site"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          },
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "personal_site"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "personal_site"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "media choice",
+        "motivation and emotion",
+        "dynamic computational modeling",
+        "quantum cognition",
+        "psychophysiology",
+        "mhealth",
+        "decision making",
+        "cognitive science"
+      ]
+    }
+  ]
+}

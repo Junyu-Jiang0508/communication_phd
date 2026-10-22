@@ -1,4 +1,4 @@
-import { DIMS, esc, initials, labelText, withBase, type Faculty, type Program, type Taxonomy, type Dim } from './data';
+import { DIMS, esc, initials, labelText, labelFull, withBase, type Faculty, type Program, type Taxonomy, type Dim } from './data';
 import { t, getLang } from './i18n';
 import * as shortlist from './shortlist';
 
@@ -16,7 +16,7 @@ export function avatar(f: Faculty, lg = false) {
 }
 export function chip(tax: Taxonomy, dim: Dim, c: string, primary = false, extra = '') {
   const lang = getLang();
-  return `<span class="chip${primary ? ' primary' : ''}" data-dim="${dim}" title="${esc(dim)}" ${extra}>${esc(labelText(tax, dim, c, lang))}${primary ? ' ★' : ''}</span>`;
+  return `<span class="chip${primary ? ' primary' : ''}" data-dim="${dim}" title="${esc(labelFull(tax, dim, c, lang))}" ${extra}>${esc(labelText(tax, dim, c, lang))}${primary ? ' ★' : ''}</span>`;
 }
 export function saveBtn(id: string, small = true) {
   const on = shortlist.has(id);
@@ -32,11 +32,12 @@ export function bindSaveButtons(root: ParentNode) {
     });
   });
 }
-export function personRow(f: Faculty, p: Program | undefined, tax: Taxonomy, opts: { score?: number; why?: string; chips?: Dim[]; summaryHtml?: string } = {}) {
+export function personRow(f: Faculty, p: Program | undefined, tax: Taxonomy, opts: { score?: number; why?: string; chips?: Dim[]; summaryHtml?: string; maxChips?: number } = {}) {
   const lang = getLang();
   const dims = opts.chips ?? ['topic', 'approach'];
-  const chips: string[] = [];
-  for (const d of dims) for (const l of f.labels[d] ?? []) if (l.p || chips.length < 3) chips.push(chip(tax, d, l.c, l.p));
+  const prim: string[] = [], rest: string[] = [];
+  for (const d of dims) for (const l of f.labels[d] ?? []) (l.p ? prim : rest).push(chip(tax, d, l.c, l.p));
+  const chips = [...prim, ...rest].slice(0, opts.maxChips ?? 3);
   const summary = opts.summaryHtml ?? esc(lang === 'zh' && f.summary_zh ? f.summary_zh : f.summary);
   return `<article class="row" data-id="${esc(f.id)}">
     ${avatar(f)}
@@ -44,7 +45,7 @@ export function personRow(f: Faculty, p: Program | undefined, tax: Taxonomy, opt
       <div class="name"><button type="button" class="open-person" data-id="${esc(f.id)}">${esc(f.name)}</button></div>
       <div class="meta">${p ? `<a href="${withBase('programs/' + p.slug + '/')}">${esc(p.name)}</a> · ` : ''}${esc(f.dept)} · ${esc(f.rank)}</div>
       ${summary ? `<p class="sum">${summary}</p>` : ''}
-      ${chips.length ? `<div class="chips">${chips.slice(0, 5).join('')}</div>` : ''}
+      ${chips.length ? `<div class="chips">${chips.join('')}</div>` : ''}
       ${opts.why ? `<div class="why">${opts.why}</div>` : ''}
     </div>
     <div class="side">

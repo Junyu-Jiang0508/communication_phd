@@ -1,0 +1,1132 @@
+{
+  "slug": "university-of-california-davis",
+  "labeled_at": "2026-10-21",
+  "faculty": [
+    {
+      "name": "Bo Feng",
+      "summary": "Studies supportive communication, how people seek, give, and respond to comfort and advice across cultures, genders, close relationships, online communities, and doctor-patient visits.",
+      "summary_zh": "研究支持性传播，考察人们如何在不同文化、性别、亲密关系、网络社群及医患互动中寻求、提供和回应安慰与建议。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_GLOBAL_INTERCULTURAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_THEORY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "supportive communication",
+        "social support",
+        "advice",
+        "comforting",
+        "intercultural communication",
+        "physician-patient interaction",
+        "online support communities",
+        "gender differences"
+      ]
+    },
+    {
+      "name": "Jaeho Cho",
+      "summary": "Studies how campaign media, news use, and everyday political discussion shape citizens' political understanding and decisions, drawing on information-processing concepts such as priming.",
+      "summary_zh": "研究竞选媒体、新闻使用和日常政治讨论如何影响公民的政治理解与决策，借鉴启动效应等信息加工概念。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "political campaigns",
+        "campaign effects",
+        "political discussion",
+        "news use",
+        "priming",
+        "information processing",
+        "online political expression",
+        "selective exposure"
+      ]
+    },
+    {
+      "name": "Drew Cingel",
+      "summary": "Studies how child and adolescent development shapes media use and effects, including social media and teen mental health, learning from media, and moral reasoning, using experiments and surveys.",
+      "summary_zh": "研究儿童与青少年发展如何影响媒介使用及效果，包括社交媒体与青少年心理健康、从媒介中学习和道德推理，主要采用实验和调查方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_CHILDREN_FAMILY_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_YOUTH_EDUCATION",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "adolescent mental health",
+        "social media effects",
+        "children's learning from media",
+        "moral reasoning",
+        "child development",
+        "television",
+        "tablet computers",
+        "scale development"
+      ]
+    },
+    {
+      "name": "Seth Frey",
+      "summary": "Studies self-governance and common-pool resource institutions, treating online communities and games as models, using computational modeling, large datasets, and web-based experiments.",
+      "summary_zh": "研究自治与公共池塘资源治理制度，将网络社群和游戏作为治理模型，采用计算建模、大规模数据和网络实验方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_ORGANIZATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ADMIN_LARGE_SCALE",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_ORGANIZATIONS_WORKPLACES",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "common-pool resource governance",
+        "online communities",
+        "self-governance",
+        "institutional evolution",
+        "strategic behavior",
+        "cooperatives",
+        "online games",
+        "computational modeling",
+        "ostrom"
+      ]
+    },
+    {
+      "name": "Martin Hilbert",
+      "summary": "Studies the role of digital information and algorithms in complex social systems, from measuring the world's information capacity to digital development policy, using computational social science.",
+      "summary_zh": "研究数字信息与算法在复杂社会系统中的作用，涵盖测量全球信息容量到数字发展政策，运用计算社会科学方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_INDUSTRIES_POLICY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_ADMIN_LARGE_SCALE",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_ELECTIONS_GOVERNMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": [
+          {
+            "code": "R_LATIN_AMERICA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "R_GLOBAL_CROSS_NATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "algorithms",
+        "complex social systems",
+        "world's information capacity",
+        "digital development",
+        "information society",
+        "computational social science",
+        "latin america",
+        "cambridge analytica"
+      ]
+    },
+    {
+      "name": "Junwen Hu",
+      "summary": "Studies how communication and media design shape the pursuit of compatible relationships, such as online dating, using online experiments, large-scale content analysis, and multilevel surveys.",
+      "summary_zh": "研究传播与媒介设计如何影响人们追求“相配”关系（如网络约会），采用线上实验、大规模内容分析和多层次调查数据。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_SURVEY",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_FAMILIES_RELATIONSHIPS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "online dating",
+        "mate selection",
+        "relationship compatibility",
+        "algorithmic beliefs",
+        "online experiments",
+        "multilevel survey",
+        "social integration",
+        "message design"
+      ]
+    },
+    {
+      "name": "Richard Huskey",
+      "summary": "Studies how the brain processes motivationally relevant information in persuasion, media selection, and decision-making, combining fMRI, EEG, computational modeling, and behavioral experiments.",
+      "summary_zh": "研究大脑如何在说服、媒介选择和决策中加工具有动机意义的信息，结合fMRI、EEG、计算建模和行为实验。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "fmri",
+        "eeg",
+        "reinforcement learning",
+        "motivation",
+        "cognitive control",
+        "persuasion",
+        "media selection",
+        "decision-making",
+        "computational modeling"
+      ]
+    },
+    {
+      "name": "Soojong Kim",
+      "summary": "Studies inequality, disparity, and risk in health, environment, and governance, and how people perceive and share information online, using computational and quantitative methods.",
+      "summary_zh": "研究健康、环境与治理中的不平等、差距与风险，以及人们如何在线感知和分享信息，采用计算与定量方法。",
+      "confidence": "medium",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_SCIENCE_ENV",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_STRATEGIC_PR_AD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "computational social science",
+        "inequality",
+        "health disparities",
+        "risk",
+        "environment",
+        "information sharing",
+        "social media",
+        "governance"
+      ]
+    },
+    {
+      "name": "Jorge Peña",
+      "summary": "Studies cognition, affect, and behavior in video games, virtual environments, and online groups, including priming and impression formation, using experiments, content analysis, and text analysis.",
+      "summary_zh": "研究电子游戏、虚拟环境和网络群体中的认知、情感与行为，包括启动效应和印象形成，采用实验、内容分析和自动化语言分析。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HCI_CMC",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_CONTENT_ANALYSIS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": false,
+            "sources": [
+              "publications"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "video games",
+        "virtual environments",
+        "computer-mediated communication",
+        "priming effects",
+        "impression formation",
+        "automated linguistic analysis",
+        "augmented reality",
+        "eeg hyperscanning"
+      ]
+    },
+    {
+      "name": "Cuihua (Cindy) Shen",
+      "summary": "Studies multimodal misinformation in AI-mediated environments and the structure and impact of social networks on online platforms, using computational social science and network analysis.",
+      "summary_zh": "研究人工智能中介环境下的多模态（虚假）信息，以及在线平台社会网络的结构与影响，采用计算社会科学与网络分析方法。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_NETWORK",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "computational social science",
+        "multimodal misinformation",
+        "ai-mediated communication",
+        "online social networks",
+        "network analysis",
+        "computer-mediated communication",
+        "online platforms"
+      ]
+    },
+    {
+      "name": "Laramie Taylor",
+      "summary": "Studies uses and effects of entertainment media on relationship beliefs, gender stereotypes, body perceptions, and health, and the motives of fans of fiction, celebrities, and sports teams.",
+      "summary_zh": "研究娱乐媒介对恋爱关系观念、性别刻板印象、身体认知和健康的使用与效果，以及虚构作品、名人和体育队伍粉丝的动机。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_ENTERTAINMENT_GAMES",
+            "primary": true,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_INTERPERSONAL",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [],
+        "data": [],
+        "setting": [
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile",
+              "publications"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "entertainment media",
+        "fandom",
+        "sports fans",
+        "gender stereotypes",
+        "body image",
+        "romantic relationship beliefs",
+        "narrative persuasion",
+        "transportation"
+      ]
+    },
+    {
+      "name": "Magdalena Wojcieszak",
+      "summary": "Studies how people select political information online, media effects on polarization and misperceptions, and interventions targeting users and platform algorithms, including YouTube algorithm audits.",
+      "summary_zh": "研究人们如何在线选择政治信息、媒体对极化与错误认知的影响，以及针对用户和平台算法的干预，包括YouTube算法审计。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_POLITICAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MISINFO_TRUST",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_JOURNALISM",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_COMPUTATIONAL",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SOCIAL_MEDIA",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_PLATFORMS",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_AUDIENCES_PUBLICS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "selective exposure",
+        "polarization",
+        "misperceptions",
+        "algorithmic audits",
+        "youtube",
+        "news exposure",
+        "exposure to dissimilar views",
+        "platform interventions",
+        "harmful content"
+      ]
+    },
+    {
+      "name": "Narine Yegiyan",
+      "summary": "Studies how emotion and memory interact in information processing under cognitive and emotional overload, using self-report, behavioral, and physiological measures to inform message design.",
+      "summary_zh": "研究在认知与情绪超载情境下情绪与记忆如何在信息加工中相互作用，采用自我报告、行为和生理测量以指导讯息设计。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HEALTH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_PHYSIO_NEURO",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_PHYSIO_LOG",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [],
+        "region": []
+      },
+      "keywords": [
+        "emotion",
+        "memory",
+        "information processing",
+        "motivated cognition",
+        "cognitive overload",
+        "message design",
+        "psychophysiology",
+        "emotion spillover effect"
+      ]
+    },
+    {
+      "name": "Jingwen Zhang",
+      "summary": "Studies how persuasive technologies such as social media, mobile apps, and conversational AI chatbots change health attitudes and behaviors, designing and testing them in clinical trials.",
+      "summary_zh": "研究社交媒体、移动应用和对话式AI聊天机器人等说服性技术如何改变健康态度与行为，并通过临床试验设计和检验这些技术。",
+      "confidence": "high",
+      "labels": {
+        "topic": [
+          {
+            "code": "T_HEALTH",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_PLATFORMS_AI",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_HCI_CMC",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "T_MEDIA_EFFECTS_PSYCH",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "approach": [
+          {
+            "code": "A_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "A_DESIGN_BUILD",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "data": [
+          {
+            "code": "D_SURVEY_EXPERIMENT",
+            "primary": true,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "setting": [
+          {
+            "code": "SET_HEALTH_SYSTEMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          },
+          {
+            "code": "SET_PLATFORMS",
+            "primary": false,
+            "sources": [
+              "department_profile"
+            ]
+          }
+        ],
+        "region": []
+      },
+      "keywords": [
+        "persuasive technology",
+        "conversational ai",
+        "chatbots",
+        "clinical trials",
+        "health promotion",
+        "mobile health apps",
+        "behavior change",
+        "online social networks"
+      ]
+    }
+  ]
+}

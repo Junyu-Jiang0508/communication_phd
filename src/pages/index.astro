@@ -9,21 +9,28 @@ import meta from '../data/meta.json';
       <h1 data-i18n="match_h1">Find the Communication faculty and programs that fit your research</h1>
       <p class="lede" data-i18n="match_lede">Paste a paragraph from your statement of purpose, or describe your questions, methods and cases in English. Matching runs in your browser; nothing is uploaded.</p>
       <label class="sr-only" for="q" data-i18n="match_h1">Describe your research</label>
-      <textarea id="q" class="textarea" rows="8" data-i18n="match_placeholder" data-i18n-attr="placeholder" placeholder="Example: I study how misinformation about vaccines spreads in Chinese-language WeChat groups, combining computational text analysis of posts with survey experiments on corrections. I am also interested in trust in journalism and platform governance."></textarea>
-      <div id="cjk" class="notice" hidden data-i18n="cjk_notice"></div>
-      <div id="hints" class="hints" hidden>
-        <div class="small muted"><b data-i18n="match_hint_title">Detected priorities</b> · <span data-i18n="match_hint_help">Click a chip to boost it; click again to require it.</span></div>
-        <div class="chips" id="hint-chips"></div>
-      </div>
+      <textarea id="q" class="textarea" rows="7" data-i18n="match_placeholder" data-i18n-attr="placeholder" placeholder="Example: I study how misinformation about vaccines spreads in Chinese-language WeChat groups, combining computational text analysis of posts with survey experiments on corrections. I am also interested in trust in journalism and platform governance."></textarea>
       <div class="toolbar">
         <button type="button" class="btn primary" id="go" data-i18n="match_button">Find matches</button>
         <span class="status" id="status"><span class="loadbar" id="loadbar" data-n="0" hidden><i></i><i></i><i></i><i></i><i></i><i></i></span><span id="status-text"></span></span>
       </div>
       <div id="err" class="notice error" hidden></div>
+      <div class="examples"><span class="small muted" data-i18n="try_example">Try an example:</span>
+          <button type="button" class="chip ex" data-ex="0">Misinformation on WeChat</button>
+          <button type="button" class="chip ex" data-ex="1">Teens, social media & wellbeing</button>
+          <button type="button" class="chip ex" data-ex="2">Rhetoric & public memory</button>
+          <button type="button" class="chip ex" data-ex="3">AI in newsrooms</button>
+          <button type="button" class="chip ex" data-ex="4">HIV testing campaigns</button>
+      </div>
+      <div id="cjk" class="notice" hidden data-i18n="cjk_notice"></div>
+      <div id="hints" class="hints" hidden>
+        <div class="small muted"><b data-i18n="match_hint_title">Detected priorities</b> · <span data-i18n="match_hint_help">Click a chip to boost it; click again to require it.</span></div>
+        <div class="chips" id="hint-chips"></div>
+      </div>
       <details class="opts">
         <summary data-i18n="match_opts">Options</summary>
         <div class="opts-grid">
-          <label class="field"><span><span data-i18n="opt_threshold">Minimum fit</span> <output id="thr-out">30</output></span><input type="range" id="thr" min="10" max="70" value="30"></label>
+          <label class="field"><span><span data-i18n="opt_threshold">Minimum fit</span> <output id="thr-out">35</output></span><input type="range" id="thr" min="10" max="80" value="35"></label>
           <label class="field"><span><span data-i18n="opt_lex">Keyword weight</span> <output id="lex-out">25%</output></span><input type="range" id="lex" min="0" max="60" value="25"></label>
           <div class="field"><span data-i18n="opt_rank">Rank</span><div class="toolbar"><label class="check"><input type="checkbox" class="rank" value="Professor" checked><span data-i18n="rank_prof">Professor</span></label><label class="check"><input type="checkbox" class="rank" value="Associate Professor" checked><span data-i18n="rank_assoc">Associate Professor</span></label><label class="check"><input type="checkbox" class="rank" value="Assistant Professor" checked><span data-i18n="rank_asst">Assistant Professor</span></label></div></div>
         </div>
@@ -42,11 +49,11 @@ import meta from '../data/meta.json';
     </div>
   </section>
 </Base>
-<style>
+<style is:global>
   .match { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 32px; align-items: start; }
-  .match-input { position: sticky; top: calc(var(--header-h) + 20px); display: grid; gap: 14px; }
+  .match-input { position: sticky; top: calc(var(--header-h) + 20px); display: grid; gap: 14px; max-height: calc(100vh - var(--header-h) - 36px); overflow-y: auto; padding: 2px 6px 2px 2px; margin: -2px -6px -2px -2px; }
   .match-input .hero-bars { margin-bottom: 0; }
-  .match-input h1 { max-width: 16ch; }
+  .match-input h1 { max-width: 19ch; font-size: clamp(1.9rem, 1.2rem + 1.7vw, 2.6rem); }
   .hints { display: grid; gap: 8px; padding: 10px 12px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg-2); }
   .opts summary { cursor: pointer; color: var(--ink-3); font-size: 0.875rem; font-weight: 600; }
   .opts-grid { display: grid; gap: 12px; padding-top: 12px; }
@@ -59,17 +66,24 @@ import meta from '../data/meta.json';
   .prog h3 { font-size: 1.05rem; }
   .prog .top { margin-top: 8px; display: grid; gap: 4px; font-size: 0.875rem; color: var(--ink-2); }
   .prog .top span b { font-weight: 600; color: var(--ink); }
-  .prog .side { display: grid; justify-items: end; gap: 6px; }
+  .prog .side { display: grid; justify-items: end; gap: 6px; align-content: start; }
+  .prog .top span { display: block; }
+  .prog .top button { color: var(--ink); }
+  .examples { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .examples .chip.ex { cursor: pointer; border: 1px solid var(--line-2); background: var(--bg-2); }
+  .examples .chip.ex::before { display: none; }
+  .examples .chip.ex:hover { border-color: var(--action); color: var(--action); }
   @media (max-width: 900px) { .match { grid-template-columns: 1fr; } .match-input { position: static; } }
 </style>
 <script>
   import faculty from '../data/faculty.json';
   import programs from '../data/programs.json';
   import tax from '../data/taxonomy.json';
-  import { BASE, esc, withBase, type Faculty, type Program, type Taxonomy } from '../lib/data';
+  import { BASE, esc, withBase, labelText, type Faculty, type Program, type Taxonomy } from '../lib/data';
   import { t, getLang } from '../lib/i18n';
   import { indexFaculty, detectHints, loadIndex, loadModel, embed, semanticScores, score, programFit, type Hint, type Scored } from '../lib/match';
   import { personRow, bindSaveButtons, setupDrawer, scoreHtml, mark, chip } from '../lib/ui';
+  const EXAMPLES = ["I study how misinformation about vaccines spreads in Chinese-language WeChat groups, combining computational text analysis of posts with survey experiments on corrections.", "My research examines how adolescents use social media and how it affects their mental health and friendships, using longitudinal surveys and experience sampling.", "I am interested in the rhetoric of social movements and public memory, analyzing speeches, protest signs and commemorations through critical and historical methods.", "I want to study how newsrooms adopt generative AI tools and what it means for journalistic norms, through interviews and newsroom ethnography.", "I research health communication campaigns that encourage HIV testing among young Black and Latino men, using message design experiments and community partnerships."];
 
   const F = faculty as unknown as Faculty[];
   const P = programs as unknown as Program[];
@@ -84,6 +98,7 @@ import meta from '../data/meta.json';
   const thr = $<HTMLInputElement>('#thr'), lex = $<HTMLInputElement>('#lex');
   let hints: Hint[] = [], last: Scored[] | null = null, view: 'faculty' | 'programs' = 'faculty', shown = 30, lastQuery = '';
 
+  document.querySelectorAll<HTMLButtonElement>('.chip.ex').forEach((b) => b.addEventListener('click', () => { q.value = EXAMPLES[Number(b.dataset.ex)]; q.dispatchEvent(new Event('input')); run(true); }));
   thr.addEventListener('input', () => { $('#thr-out').textContent = thr.value; if (last) run(false); });
   lex.addEventListener('input', () => { $('#lex-out').textContent = lex.value + '%'; if (last) run(false); });
   document.querySelectorAll<HTMLInputElement>('.rank').forEach((c) => c.addEventListener('change', () => last && run(false)));
@@ -107,7 +122,7 @@ import meta from '../data/meta.json';
   });
   document.addEventListener('langchange', () => { hints = detectHints(q.value, T, getLang()).map((h) => ({ ...h, mode: hints.find((x) => x.code === h.code)?.mode ?? 'boost' })); renderHints(); if (last) render(); });
 
-  let cached: { query: string; cos: Float32Array; ids: string[] } | null = null;
+  let cached: { query: string; cos: Float32Array; ids: string[]; calib: { lo: number; hi: number; scaleAtHi?: number } } | null = null;
   async function run(fresh = true) {
     const text = q.value.trim(); if (!text) return;
     err.hidden = true;
@@ -120,13 +135,14 @@ import meta from '../data/meta.json';
         ]);
         statusText.textContent = t('match_running'); loadbar.dataset.n = '6';
         const qv = await embed(pipe, manifest, text);
-        cached = { query: text, cos: semanticScores(qv, vec, manifest.dimensions, manifest.quantizationScale), ids };
+        cached = { query: text, cos: semanticScores(qv, vec, manifest.dimensions, manifest.quantizationScale), ids, calib: manifest.calibration || { lo: 0.6, hi: 0.75 } };
         statusText.textContent = t('match_ready');
       }
       const ranks = new Set(Array.from(document.querySelectorAll<HTMLInputElement>('.rank:checked')).map((c) => c.value));
-      last = score(F, cached.ids, cached.cos, text, hints, { lexWeight: Number(lex.value) / 100, threshold: Number(thr.value) / 100, ranks });
+      last = score(F, cached.ids, cached.cos, text, hints, { lexWeight: Number(lex.value) / 100, threshold: Number(thr.value) / 100, ranks, calib: cached.calib });
       lastQuery = text; shown = 30;
       render();
+      if (fresh && window.innerWidth < 900) results.scrollIntoView({ behavior: 'smooth', block: 'start' });
     } catch (e: any) {
       err.hidden = false; err.textContent = t('model_error') + (e?.message ? ` (${e.message})` : '');
       statusText.textContent = '';
@@ -136,9 +152,10 @@ import meta from '../data/meta.json';
   q.addEventListener('keydown', (e) => { if ((e.metaKey || e.ctrlKey) && e.key === 'Enter') run(true); });
 
   function why(s: Scored) {
-    const parts = [`${t('why_sem')} ${Math.round(s.sem * 100)}`, `${t('why_kw')} ${Math.round(s.lex * 100)}`];
-    if (s.labels.length) parts.push(`${t('why_labels')}: ${s.labels.map((l) => chip(T, l.dim, l.code)).join(' ')}`);
-    return `${t('why')}: ${parts.join(' · ')}`;
+    const lang = getLang();
+    const parts = [`${t('why_sem')} <b>${Math.round(s.sem * 100)}</b>`, `${t('why_kw')} <b>${Math.round(s.lex * 100)}</b>`];
+    if (s.labels.length) parts.push(`${t('why_labels')}: ${s.labels.map((l) => esc(labelText(T, l.dim, l.code, lang))).join(', ')}`);
+    return `${t('why')} · ${parts.join(' · ')}`;
   }
   function render() {
     if (!last) return;

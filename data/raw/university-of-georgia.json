@@ -1,0 +1,1050 @@
+{
+ "university": "University of Georgia",
+ "slug": "university-of-georgia",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "Department of Communication Studies",
+   "school": "Franklin College of Arts and Sciences",
+   "directory_url": "https://comm.uga.edu/directory/core-faculty",
+   "phd_program_url": "https://comm.uga.edu/graduate-degree-programs",
+   "phd_program_name": "PhD in Communication Studies (areas: Interpersonal, Intergroup, and Health Communication; Rhetorical Studies)",
+   "notes": "Roster from the 'Core Faculty' directory view (26 entries). Included 16 tenure-line (Professor/Associate/Assistant, plus the Franklin College Dean whose profile states a full professorship in the department). Excluded 5 lecturers, 3 senior lecturers, 1 academic professional (debate coach). The /directory/faculty view adds only emeriti, limited-term instructors and 2 affiliated faculty (home units elsewhere), all excluded. Research areas taken from profile lists where present, otherwise from the department's 'Faculty Research and Teaching Interests' page."
+  },
+  {
+   "name": "Grady College of Journalism and Mass Communication",
+   "school": null,
+   "directory_url": "https://grady.uga.edu/faculty-staff/",
+   "phd_program_url": "https://grady.uga.edu/academics/phd-program/",
+   "phd_program_name": "Ph.D. in Mass Communication",
+   "notes": "Single-page directory of 170 entries mixing faculty, staff and PhD students. Included everyone whose title carries Professor/Associate Professor/Assistant Professor (incl. endowed professors with a PhD and the Dean). Excluded clinical faculty, professors of practice, lecturers/instructors, part-time faculty, postdocs, staff, PhD students, a writer in residence, and five endowed professional-track chair holders whose titles state no rank (Knight Chair, Carmical Chair, Alston Professor of Sports Media, Oglethorpe Echo Professor, Tieger Professor of Public Affairs Communications) plus the Brumby Professorship holder whose home unit is the School of Law. Grady profiles state no short research-area tags, so research_areas is empty; sub-department recorded in notes."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Doris Acheme",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://comm.uga.edu/directory/people/doris-acheme-cheem-ay",
+   "personal_url": null,
+   "photo_url": "https://comm.uga.edu/sites/default/files/styles/square_400x400/public/IMG_6432_0.jpg?h=17ca4b80&itok=yC3-Ukvk",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Intergroup",
+    "Intercultural communication",
+    "Language attitudes",
+    "Racial identity processes",
+    "Quantitative",
+    "Qualitative methods"
+   ],
+   "bio": "Doris E. Acheme, (Ph.D., University of Oklahoma) is an Assistant Professor in the Department of Communication Studies at the University of Georgia. Her research interest is in intergroup and intercultural communication. Specifically, she focuses on the role identity plays in psycho-social responses of individuals during interactions, with two main areas of focus. The first area of research is in language attitudes, with emphasis on (a) documenting the stigma attached to speaking with non-U.S. American accents, (b) explaining the mechanisms underlying language attitudes and their effects on intergroup communicative outcomes, with the goal of (c) changing negative language attitudes and improving intergroup relations. Dr. Acheme’s second area of research is in racial identity processes, with a focus on how African immigrants to the U.S. (re)categorize themselves as minority group members and negotiate their identities as Blacks, upon arrival to the U.S. The goal of this second line of research is to challenge the boundaries of what constitutes group membership. Dr. Acheme’s research has been published in major communication journals including, Communication Research , Journal of International and Intercultural Communication, Journal of Language and Social Psychology , Communication Reports , and Journal of Communication and Media Research . YOU CAN LEARN MORE ABOUT DR. ACHEME'S SIC LAB HERE. Education: Ph.D., University of Oklahoma M.A., Cleveland State University B.A., University of Abuja",
+   "sources": [
+    "department_profile",
+    "department_research_interests_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Maryam Ahmadi",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://comm.uga.edu/directory/people/maryam-ahmadi",
+   "personal_url": null,
+   "photo_url": "https://comm.uga.edu/sites/default/files/styles/square_400x400/public/DSC_01166_0.jpg?h=43519027&itok=yI1XVeoT",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetorical theory",
+    "Rhetorical historiography",
+    "Global history",
+    "Political rhetoric",
+    "Social movements",
+    "Empire and decolonization"
+   ],
+   "bio": "Prof. Maryam Ahmadi holds a Ph.D. and M.A. in Communication Arts (Rhetoric, Politics, and Culture) from the University of Wisconsin-Madison and an M.A. in Political Science (Political Sociology) from the University of Tehran. Her research interests lie at the intersection of rhetorical theory and history, political rhetoric and social movements, and critical studies of empire and colonialism. RESEARCH INTERESTS Rhetorical theory Rhetorical historiography Global history Political rhetoric Social movements Empire and decolonization COURSES Doctoral-Level COMM 8200 - Seminar in Rhetorical Theory COMM 8310 - Empire: Historiographical Traditions and Historical Articulations COMM 8310 - Imperialism in the Nineteenth and Early Twentieth Centuries Undergraduate-Level COMM 3300 - Intro to Rhetorical Criticism COMM 3310 - Political Rhetoric, Empire, and Colonialism COMM 3310 - Rhetoric and Global Politics RECENT PUBLICATIONS Ahmadi, Maryam (2024). Semicolonial Viscerality: Gharbzadegi and the Geopolitics of Sensing. In R. García, E. Cushman, & D. Baca (Eds.), Pluriversal Literacies: Tools for Perseverance and Livable Futures (pp. 196–208). University of Pittsburgh Press. https://doi.org/10.2307/jj.13359162.15 Ahmadi, Maryam (2023). Semicolonial Rhetoric; or, a Rhetorical Sphere of Influence. Journal for the History of Rhetoric , 26 (2), 140–151. https://doi.org/10.5325/jhistrhetoric.26.2.0140",
+   "sources": [
+    "department_profile",
+    "department_research_interests_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Analisa Arroyo",
+   "title": "Professor, Director of Graduate Studies",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://comm.uga.edu/directory/people/analisa-arroyo",
+   "personal_url": "https://www.ugacarelab.org/",
+   "photo_url": "https://comm.uga.edu/sites/default/files/styles/square_400x400/public/ec488c93619efb22e55bb97e6916f483.jpg?itok=eGzXhC4Y",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Interpersonal Communication",
+    "Health Communication",
+    "Intergroup Communication",
+    "Family Communication",
+    "Relational Communication",
+    "Social Skills/Competence",
+    "Mental Health",
+    "Body Image/Disordered Eating"
+   ],
+   "bio": "Dr. Arroyo's research interests are in health, interpersonal, and relational communication. Her research falls into three lines of inquiry: Interpersonal Communication and Body Image (e.g., negative body talk, disordered eating) The Intergenerational Transmission of Mental Health (e.g., parent-child depression, loneliness, anxiety) Intergroup Attitudes within Interpersonal Relationships (e.g., sexism, weightism, racism) Together, her research emphasizes some of the ways that communication in close relationships is associated with individuals’ physical, mental, and social well-being, and it also highlights that the messages reinforced within these relationships have the ability to uphold or challenge dominant social discourses, ideals, and expectations. Specific Areas of Expertise: Interpersonal Communication Health Communication Intergroup Communication Family Communication Relational Communication Social Skills/Competence Mental Health Body Image/Disordered Eating Labs SITCH Lab ( S ocial and I nterpersonal T heories of C ommunication in H ealth Lab) CARE Lab ( C ouples a nd R elationship E nrichment Lab) Selected Publications Basinger, E. D., Arroyo., A., Asbury, M. B., Fox, R., Otis, H. N., Pickett Miller, N., Giles, H., & Turner, M. (2025). Dialogue on difference: Fat liberation in communication. Communication Monographs . Curran, T., Arroyo, A., Fabbricatore, J., & Jiao, J. (2023). The associations between White privilege critical consciousness, racial attitudes, and intergroup anxiety among parents and adult children in White families. Communication Monographs. Arroyo, A., Stillion Southard, B. A., & Martz, D. (2022). Feminist embodiment, body talk, and body image among mothers and daughters. Body Image. Arroyo, A., Woszidlo, A., & Janovec, A. (2020). Voice as a mediator of mothers' and daughters' feminist attitudes and psychological outcomes: An application of silencing the self theory and social cognitive theory of gender development and differentiation. Communication Monographs. Arroyo, A., Stillion Southard, B. A., Cohen, H., & Caban, S. (2020). Maternal communication strategies that promote daughters' body image. Communication Research. Arroyo, A., Segrin, C., Harwood, J., & Bonito, J. A. (2017). Co-rumination of fat talk and weight control practices: An application of confirmation theory. Health Communication. Arroyo, A., Segrin, C., & Harwood, J. (2014). Appearance-related communication mediates the link between self-objectification and health",
+   "sources": [
+    "department_profile",
+    "department_research_interests_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Barbara Biesecker",
+   "title": "Professor, Affiliate Faculty, Institute for Women's Studies",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://comm.uga.edu/directory/people/barbara-biesecker",
+   "personal_url": null,
+   "photo_url": "https://comm.uga.edu/sites/default/files/styles/square_400x400/public/600_barb2.jpg?h=17ec826d&itok=t_EXwnH2",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Modern",
+    "Contemporary rhetorical theory",
+    "Criticism",
+    "Cultural studies",
+    "Visual studies",
+    "And feminist studies"
+   ],
+   "bio": "After spending a good number of years studying literature and literary theory, Professor Barbara Biesecker changed her course of study and went to the University of Pittsburgh to earn a doctoral degree in rhetorical studies. She completed the Ph.D. in 1989, was a Fellow of the School of Criticism and Theory, accepted a position at the University of Iowa in 1990, and taught undergraduate and graduate courses there until she joined the University of Georgia faculty in the fall of 2008. She served as Department Head of Communication Studies 2009-2015. Biesecker regularly teaches Public Speaking and Visual and Material Rhetorics at the undergraduate level. Graduate course offerings include: Methodologies of Rhetorical Criticism: Derridean Deconstruction and Foucaultian Analysis; Methodologies of Rhetorical Criticism: Visual Rhetorics; Critical Theories of Discourse: Jacques Derrida; Topics in Rhetorical Theory: Rhetoric and the Return of the Political; Topics in Rhetorical Theory: Rhetoric and Poststructuralism; Topics in Rhetorical Theory: Rhetoric and the Question of Context; Rhetoric, Neoliberalism, and Biopolitics; Rhetoric, Race, and Psychoanalysis; and Reading (with) Spivak for Rhetoric. Throughout her career, Biesecker has explored the role of rhetoric in social change by working at the intersections of rhetorical theory and criticism and continental philosophy, psychoanalysis, feminist theory and criticism, political theory and cultural studies. She is singularly preoccupied with the question of rhetorical agency. What exactly is it? Where is it/might it be located? What are its conditions of (im)possibility? Provisional theoretical answers to these questions come in the form of a book wherein she reads in Kenneth Burke’s theory of rhetoric a theory of social change, an essay on Derridean deconstruction as a theory of rhetorical invention, another essay that reads Foucault’s work on style as a theory of resistance, another that reads Cixous’s manifesto for a feminist theory of rhetorical agency, and an edited volume (with John Lucaites) on rhetoric, materiality and politics. Most recent work that tackles the complexities of rhetorical agency by engaging contemporary public and political culture at crucial moments in which it appears to be at work is Reinventing World War II: Popular Memory in the Rise of the Ethnonationalist State (PSUP, 2024). Professor Biesecker is the recipient of numerous teaching and scholarship awards, including: the National Com",
+   "sources": [
+    "department_profile",
+    "department_research_interests_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jessica Chaplain",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://comm.uga.edu/directory/people/jessica-chaplain",
+   "personal_url": null,
+   "photo_url": "https://comm.uga.edu/sites/default/files/styles/square_400x400/public/Chaplain%20Headshot.jpeg?h=a6aa1fcb&itok=lwro6LxI",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Environmental justice",
+    "Feminist",
+    "Critical/cultural",
+    "And anti-colonial theory",
+    "Critical/rhetorical methodologies",
+    "And social change"
+   ],
+   "bio": "Dr. Jessica Chaplain (she/her) is an Assistant Professor in the Department of Communication at the University of Georgia. She holds a PhD in Communication from the University of Utah and MA in Communication from the University of Georgia. Her research spans across the areas of rhetoric, critical/cultural studies, and environmental communication, with particular focus on feminist and anti-colonial approaches that attune to the depth and complexity of transnational rhetorics. She is broadly interested in how diverse rhetorics are leveraged to disrupt hierarchical systems of domination and build coalitions for resistance. Her current research focuses on utilizing critical rhetorical field methods to better understand climate justice advocacy within the United Nations Framework Convention of Climate Change (UNFCCC) Conferences, specifically around the leveraging of “people-power” for just transition.",
+   "sources": [
+    "department_profile",
+    "department_research_interests_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Hoda Fakhari",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://comm.uga.edu/directory/people/hoda-fakhari",
+   "personal_url": null,
+   "photo_url": "https://comm.uga.edu/sites/default/files/styles/square_400x400/public/photo%20copy.jpg?itok=evyOyUcP",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Hoda Fakhari is an Assistant Professor in the Department of Communication Studies at the University of Georgia. Broadly, her research examines the influence of health, risk, and science communication on people’s thoughts, feelings, and behaviors. Using mixed-methods, she studies the processes by which complex and uncertain information is communicated to and experienced by different audiences. In tandem, she studies how people engage with such information in complex communication environments. Education: Ph.D. Media, Technology, and Society, Northwestern University M.S. Applied Statistics, Northwestern University M.S. Health Communication, Northwestern University B.S. Biochemistry, University of Illinois at Chicago B.A. English (Media, Rhetoric, and Cultural Studies), University of Illinois at Chicago",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kelly Happe",
+   "title": "Professor, Core Faculty, Institute for Women's and Gender Studies",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://comm.uga.edu/directory/people/kelly-happe",
+   "personal_url": null,
+   "photo_url": "https://comm.uga.edu/sites/default/files/styles/square_400x400/public/Kelly%20Happe%20%282%29.jpg?h=f3428847&itok=e8YZHMdz",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetorical theory",
+    "Criticism",
+    "Rhetorics of science",
+    "Medicine",
+    "Biopolitics",
+    "Marxist",
+    "Critical race",
+    "Feminist theories",
+    "Methods"
+   ],
+   "bio": "Dr. Happe, Professor of Communication Studies and Women's and Gender Studies, is a rhetorical theorist and critic working at the intersection of feminism, science studies, biopolitics, and Marxist theory. Her scholarship has appeared in Theory and Event, The Quarterly Journal of Speech , New Genetics and Society , Philosophy and Rhetoric , and other venues. Her book, The Material Gene: Gender, Race, and Heredity After the Human Genome Project was published by NYU Press and is winner of the 2014 Diamond Anniversary Book Award from the National Communication Association, the highest book award honor in the organization. Dr. Happe is also the recipient of the 2014 Golden Anniversary Monograph Award for her essay \"The Body of Race: Toward a Rhetorical Theory of Racial Ideology,” also from the National Communication Association. She is co-editor of the 2018 book Biocitizenship: On Bodies, Belonging, and the Politics of Life . Most recently, she was awarded the 2019 Creative Research Medal for the Humanities and Arts by the University of Georgia. In 2017-2018, she completed a Study in a Second Discipline Fellowship in the Department of Genetics with one of the nation's leading epigenetics researchers. The fellowship is part of her ongoing work on the social history and philosophy of biological concepts. She continues work on a series of essays on rhetoric, utopia, and radical economic thought, and is co-editing a book on the rhetorics of care. Her next book, titled The Body Plastic: Abstraction, Speculation, and Difference in Late Capitalism is under contract with NYU Press. The book shows how speculation in the life sciences—in regenerative medicine, epigenetics, and resilience research—produces new meanings of racial difference through novel engagements not just with the body's future potential but with the abiding influences of its past. By focusing on logics of finance and changing meanings of difference, the book thus provides a much-needed update to studies of the commodification of science as well as theories of finance and neoliberalism that tend to ignore the role of racial difference in speculative practices. In addition to their scholarship, Prof. Happe teaches courses in rhetorical theory, feminist theory, social movements, queer theory, capitalism studies, and science and society. In 2019 she was selected to teach in UGA’s Study Abroad program in Oxford, UK. She serves on the editorial boards of Quarterly Journal of Speech and Rhetoric and Public Af",
+   "sources": [
+    "department_profile",
+    "department_research_interests_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Soroya Mcfarlane",
+   "title": "Associate Professor, Associate Head of Department",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://comm.uga.edu/directory/people/soroya-julian-mcfarlane",
+   "personal_url": "https://www.theconchuslab.org/",
+   "photo_url": "https://comm.uga.edu/sites/default/files/styles/square_400x400/public/Screenshot%202026-08-07%20at%205.19.20%E2%80%AFAM.png?itok=lGl3NcCw",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Health communication",
+    "Health disparities",
+    "Culture",
+    "Community-engaged research",
+    "Mixed methods"
+   ],
+   "bio": "Soroya Julian McFarlane (Ph.D., University of Miami) is an Associate Professor in the Department of Communication Studies at the University of Georgia. Her research focuses on designing and evaluating communication interventions that address health disparities at the community level. Dr. McFarlane’s research agenda is driven by understanding how culture influences health, and how communication interventions that translate science for diverse populations might be effective in reducing health disparities. Her recent research has been on women’s sexual and reproductive health, with the aim of (1) expanding theoretical understanding of culturally-targeted messaging and interventions, and (2) understanding the impact of media, innovation and participatory approaches. She also leads and collaborates with US-based researchers in the area of clinical trial communication, with a special focus on vulnerable and minority populations. Dr. McFarlane is the PI of the CO mmunicatio N for C ommunity H ealth and (shared) U nderstanding of S cience ( CONCHUS ) lab, which facilitates dialogue with underserved communities to design and evaluate interventions that promote health. Her research has been published in major communication and public health journals including: Health Communication, Journal of Health Communication , Journal of Intercultural Communication Research; Culture, Sexuality and Health; and Journal of Medical Internet Research: Public Health and Surveillance . You can learn more about Dr. McFarlane's CONCHUS Lab here . Before joining as faculty at UGA, Dr. McFarlane was a practitioner in health communication and worked for government, NGOs and international organizations such as the Pan American Health Organization/World Health Organization (PAHO/WHO). She speaks Spanish as a second language.",
+   "sources": [
+    "department_profile",
+    "department_research_interests_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Mackensie Minniear",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://comm.uga.edu/directory/people/mackensie-minniear",
+   "personal_url": null,
+   "photo_url": "https://comm.uga.edu/sites/default/files/styles/square_400x400/public/PHOTO-2025-01-03-15-44-57.jpg?itok=pd7-Syde",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Family communication",
+    "Intergroup communication",
+    "Race",
+    "Ethnicity",
+    "Critical views of family",
+    "Interpersonal communication"
+   ],
+   "bio": "Dr. Mackensie Minniear (Ph.D. University of Nebraska) is an assistant professor at the University of Georgia. She uses critical and intergroup theories to study how family communication shapes, dismantles, and reifies marginalized people, inspiring radical hope and creating a healthier, more tolerant world for traditionally disenfranchised families and people. Recently, her work has focused on addressing health disparities for women of color, exploring arts-based research, and ethnic-racial socialization in Black, Indigenous, and families of color. Her work can be read in the Journal of Family Communication, Communication Monographs, Race and Social Problems, Journal of Applied Communication Research, and Cultural Diversity and Ethnic Minority Psychology. You can learn more about Dr. Minniear's Lab here . Education: Ph.D. University of Nebraska-Lincoln, 2020 M.A., University of Montana, 2016",
+   "sources": [
+    "department_profile",
+    "department_research_interests_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Chelsea Ratcliff",
+   "title": "Associate Professor, Undergraduate Coordinator",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://comm.uga.edu/directory/people/chelsea-ratcliff",
+   "personal_url": null,
+   "photo_url": "https://comm.uga.edu/sites/default/files/styles/square_400x400/public/Headshot%20Ratcliff%202023.jpg?h=f16acff4&itok=6cqu6kMR",
+   "google_scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fhJd3oUAAAAJ&sortby=pubdate&citation_for_view=fhJd3oUAAAAJ:pqnbT2bcN3wC",
+   "research_areas": [
+    "Risk",
+    "Evidence communication in health contexts",
+    "Persuasion",
+    "Social influence",
+    "Message effects",
+    "Communicating uncertain science to the public",
+    "ELSI",
+    "Quantitative research methods"
+   ],
+   "bio": "Chelsea Ratcliff is an Associate Professor in the Department of Communication Studies at UGA. She uses empirical research methods to address pressing questions in ComSHER (Communicating Science, Health, Environment, and Risk), especially questions about how to effectively convey complex and uncertain scientific evidence to diverse audiences. Current projects of the Communicating Uncertain Science to the Public (CUSP) Lab include examining the social, ethical, and psychological consequences of approaches to communicating uncertainty in contexts related to health (e.g., vaccines, genetics, COVID-19, climate change). Dr. Ratcliff draws on a decade of professional experience in health journalism and marketing to inform her research. Her work has been published in Communication Research , Human Communication Research , Science Communication, Health Communication, Public Understanding of Science, Risk Analysis , Annals of Behavioral Medicine , and American Journal of Public Health , among others. You can learn more about Dr. Ratcliff's CUSP Lab here . Dr. Ratcliff's areas of expertise include: Evidence communication Public understanding of science News coverage of health science Strategic communication and message effects Health promotion campaign design Psychological reactance & resistance to persuasion Education: PhD (Communication, University of Utah) MA (Communication, University of Utah)",
+   "sources": [
+    "department_profile",
+    "department_research_interests_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Roger Stahl",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://comm.uga.edu/directory/people/roger-stahl",
+   "personal_url": null,
+   "photo_url": "https://comm.uga.edu/sites/default/files/styles/square_400x400/public/Stahl%20blue%20background-4.jpg?itok=j8gnJgM5",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Critical theory",
+    "Media theory",
+    "Popular culture",
+    "And discourse of war",
+    "Security",
+    "And propaganda"
+   ],
+   "bio": "Roger Stahl (PhD, Penn State University) is Professor of Communication Studies and director of the Luminous Room Documentary Production Program at UGA. His research broadly engages the areas of rhetoric, media, and culture, but his primary focus has been understanding propaganda as it relates to state violence, conflict, and security. He is author of two books: Through the Crosshairs: War, Visual Culture, and the Weaponized Gaze (Rutgers UP, 2018) traces the history of the gun-camera and examines the ways that the public has been increasingly invited to picture war through the weapon’s eye; Militainment, Inc. (Routledge, 2010) maps the military-entertainment complex. In a more public capacity, his work has been featured in such venues as NPR’s All Things Considered , The Guardian , and Al Jazeera . He has produced a number of documentary films, including Theaters of War (2022), Through the Crosshairs (2018), Returning Fire (2011), and Militainment, Inc. (2007), all of which are currently distributed by the Media Education Foundation.",
+   "sources": [
+    "department_profile",
+    "department_research_interests_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Anna Stenport",
+   "title": "Dean of the Franklin College of Arts and Sciences",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://comm.uga.edu/directory/people/anna-stenport",
+   "personal_url": null,
+   "photo_url": "https://comm.uga.edu/sites/default/files/styles/square_400x400/public/anna-new_0.png?h=60297308&itok=qp79SfWQ",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Anna Stenport is Dean of the Franklin College, a University of Georgia Foundation Professor of Arts and Sciences, and full professor in the Department of Communication Studies with a courtesy appointment in the Louise McBee Institute of Higher Education. Before joining the University of Georgia , one of her alma maters, she served as Professor of Communication and Dean of the College of Liberal Arts at Rochester Institute of Technology in New York (2021-23). In her previous roles as Professor of Global Studies at Georgia Institute of Technology (2016-21), she served as Chair of the School of Modern Languages and Founding co-Director of the Atlanta Global Studies Center, a partnership with Georgia State University. She earned her doctorate from the University of California, Berkeley, and holds her bachelor’s and master’s degrees from Uppsala University, Sweden. The author/co-author and editor/co-editor of eleven books and volumes, Dr. Stenport is an expert in Arctic and Nordic cinema, media, and cultural studies. Her most recent book is New Arctic Cinemas: Media Sovereignty and the Climate Crisis published in 2023 by the University of California Press. She has also published widely on Scandinavian drama and literature; transnational modernism; global popular music, and higher education innovation. Her research has been supported by the Rotary International Ambassadorial Scholarship Program, the American Scandinavian Foundation, the Swedish American Foundation, the European Union Jean Monnet Program, and the Social Sciences and Humanities Research Council. Her teaching includes courses in Global and Environmental Cinema, Global Media and Cultures, and Career Education for the Global 21st Century. Dr. Stenport has also held positions at the University of Illinois, where she served as Professor of Scandinavian Studies, with appointments in Comparative Literature, Gender and Women’s Studies, Global Studies, and Media and Cinema Studies. There she also served as Director of the Campus Office of Undergraduate Research and Director of the European Union Center, a Title VI National Resource Center and a Jean Monnet Center of Excellence. She has been a Visiting Professor at Stanford University's Freeman Spogli Institute of International Studies and a Visiting Scholar at the University of California, Berkeley; Queen’s University, Canada; and at several institutions in Scandinavia, including the Universities of Gothenburg and Stockholm; the Danish Film Institute;",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Dean of Franklin College; profile states she is a full professor in the Department of Communication Studies. Listed under Core Faculty."
+  },
+  {
+   "name": "Belinda Stillion Southard",
+   "title": "Professor, Department Head",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://comm.uga.edu/directory/people/belinda-stillion-southard",
+   "personal_url": null,
+   "photo_url": "https://comm.uga.edu/sites/default/files/styles/square_400x400/public/file-5.jpeg?itok=e6iB5J2_",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetorical criticism",
+    "Public address",
+    "Transnationalism",
+    "Gender studies",
+    "And social change"
+   ],
+   "bio": "Belinda joined the department in fall 2011 to teach and research in the general areas of feminist rhetorical criticism and public address. She holds a Ph.D. in Communication and a Women's Studies Certificate from the University of Maryland. Her research and teaching interests are grounded in the public address tradition and are guided by questions regarding gender, transnationalism, and social movements. These interests are reflected in her most recent book, How to Belong: Women's Agency in a Transnational World (2018, Pennsylvania State University Press) which centers on how women conceptualize belonging in the contexts of regional movements, the nation-state, and supranational organizations. The book is a winner of the 2019 Marie Hochmuth Nichols Award, presented by the Public Address Division of the National Communication Association. You can listen to a podcast interview on the book here: https://newbooksnetwork.com/belinda-stillion-southard-how-to-belong-womens-agency-in-a-transnational-world-penn-state-up-2018/ She has recently completed a draft of her most recent book project, Belonging, Otherwise: Lessons from the Greenham Common Women's Peace Camp . The book draws lessons on how to inhabit an otherwise existence from a women's protest camp that endured from 1981-2000. From witch and web discourses, campers teach us how to exist in otherwise temporalities, amidst shifting coalitional belongings, and in radical entanglements. She is also the author of Militant Citizenship: Rhetorical Strategies of the National Woman's Party, 1913-1920 . The book also won the 2012 Marie Hochmuth Nichols Award. It also received an Honorable Mention designation for the 2012 Winifred Bryan Horner Book Award given by the Coalition of Women Scholars in the History of Rhetoric and Composition. Belinda's research has also appeared in Quarterly Journal of Speech , Communication and Critical/Cultural Studies , Communication Quarterly, Rhetoric & Public Affairs, Rhetoric Society Quarterly, Advances in the History of Rhetoric , and elsewhere. In 2013, she delivered a TEDx talk, \"Change the Language, Change the Beliefs,\" at UGA's first TEDxUGA event. Last, her strategies for teaching militant rhetoric of the Civil Rights Movement have been featured in Chalk Talk , sponsored by UGA's Teaching Academy Fellows program. Belinda's Leadership and Service Includes: Interim Department Head, 2025-2026. Graduate Coordinator, 2017-2020, 2022-2023. Associate Department Head, 2021-2022. Basi",
+   "sources": [
+    "department_profile",
+    "department_research_interests_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Bjørn Stillion Southard",
+   "title": "Associate Professor, Director of Debate",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://comm.uga.edu/directory/people/bjorn-stillion-southard",
+   "personal_url": null,
+   "photo_url": "https://comm.uga.edu/sites/default/files/styles/square_400x400/public/image001%281%29_0.jpg?h=f9186d3e&itok=xwXWltwk",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Public address",
+    "Discourses concerning race",
+    "Law",
+    "The history of American speech",
+    "Debate practices"
+   ],
+   "bio": "Dr. Bjørn Stillion Southard is an Associate Professor and Director of Debate in Communication Studies. He holds a PhD and MA from the University of Maryland. Bjørn is interested in early U.S. Public Address, particularly in discourses concerning race and law. His first book, Peculiar Rhetoric: Slavery, Freedom, and the African Colonization Movement (University Press of Mississippi, 2019), explored the tenuous middle ground constructed and contested by white and Black people in the United States. His research has appeared in Quarterly Journal of Speech, Rhetoric & Public Affairs , Argumentation and Advocacy , and elsewhere. Bjørn has also published or edited numerous works on public speaking. He edited the open educational resource textbook for the UGA public speaking course, titled The Art and Craft of Public Speaking . He has also written three books on presentations in professional settings (with Christine Clapp). The most recent work is Presenting Now: A Guide to Public Speaking and Leadership Communication Online, in Person, and Beyond (2022). Bjørn's previous collaborations with Christine were Presenting Virtually: A Guide to Public Speaking in Online Contexts and Presenting at Work: A Guide to Public Speaking in Professional Contexts . Bjørn is currently working on two projects: one about Frederick Douglass's third autobiography-- Life and Times of Frederick Douglass -- and another about oratory in Harlem from 1900 to 1945.",
+   "sources": [
+    "department_profile",
+    "department_research_interests_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ye Sun",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://comm.uga.edu/directory/people/ye-sun",
+   "personal_url": null,
+   "photo_url": null,
+   "google_scholar_url": null,
+   "research_areas": [
+    "Public health communication",
+    "Environmental risk communication",
+    "Science communication"
+   ],
+   "bio": "Ye Sun is Professor of Communication Studies at the University of Georgia. Her research examines the social-psychological processes that shape how people engage with scientific evidence, with a particular focus on public health, environmental risk, and science communication. (Department profile page contains only title and contact information; research description taken from the University of Zurich IKMZ announcement of her 2026 Verena Meyer visiting professorship, https://ikmz.uzh.ch/de/news/2026/ye-sun.html.)",
+   "sources": [
+    "department_profile",
+    "external_profile"
+   ],
+   "notes": "Department profile is a stub (no bio, default photo). Bio and research areas taken from a University of Zurich news page; verify."
+  },
+  {
+   "name": "Sachiko Terui",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://comm.uga.edu/directory/people/sachiko-terui",
+   "personal_url": null,
+   "photo_url": "https://comm.uga.edu/sites/default/files/styles/square_400x400/public/DSC_9540.JPG?h=b4ff5dcf&itok=aeA1830Z",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Global health communication",
+    "Health literacy",
+    "Health disparities",
+    "Cross-cultural comparisons",
+    "Health interventions",
+    "Mixed research methods"
+   ],
+   "bio": "Sachiko Terui is an Assistant Professor of Global Health Communication. Her research revolves around the intersection of health communication, cross-cultural communication, and interpersonal communication, with two main focus areas. The first focuses on the ways in which language and culture (a) influence the process and meanings of messages in a health context, and (b) shape individuals' experiences of illness and disease. Her second line of research focuses on the ways in which individuals manage health and illness in interpersonal exchanges (e.g., between patients and medical providers, and between patients and their family members). Along with these lines of research, her scholarship addresses communicative challenges pertaining to linguistic and cultural aspects of health and health management, communication interventions, health literacy, and health disparities experienced among marginalized and underserved populations. Her recent projects center on interdisciplinary collaborations, including communities and healthcare organizations to address unmet health needs. You can learn more about Dr. Terui's lab here . Education: Ph.D., University of Oklahoma",
+   "sources": [
+    "department_profile",
+    "department_research_interests_page"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Carolina Acosta-Alzuru",
+   "title": "Professor, Advertising & Public Relations",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/carolina-acosta-alzuru/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2024/03/faculty_CarolinaAcostaAlzuru.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Carolina Acosta-Alzuru teaches public relations, cultural studies and qualitative methods. Scholarship foci: melodramas (telenovelas and Turkish dramas), culture and society. Education Ph.D., Mass Communication, University of Georgia M.A., Mass Communication, University of Georgia B.S., Computer Science, Georgia Institute of Technology Research Interests and Activities Dr. Acosta-Alzuru specializes in critical and cultural studies, international communication and women’s studies. She is the author of the books Venezuela es una Telenovela (Alfa, 2007), La incandescencia de las cosas: Conversaciones con Leonardo Padrón (Alfa, 2013) and Telenovela Adentro (Alfa, 2015), and has authored or co-authored articles in Journalism and Mass Communication Monographs, The Journal of Communication, Critical Studies in Media Communication, Journal of Public Relations Research, Popular Communication, International Journal of Cultural Studies, Journal of Communication Inquiry, Mass Communication and Society, Learning to Teach: What you need to know to develop a successful career as a public relations educator, The Global Dynamic of News and The Women’s International Studies Encyclopedia. In addition, she has presented her work at numerous academic conferences and industry events. Teaching Specialties Dr. Acosta-Alzuru teaches public relations and cultural studies. She teaches an undergraduate course about telenovelas, culture and society. Experience A native of Caracas, Venezuela, Dr. Acosta-Alzuru taught previously at the Universidad Católica Andrés Bello in Caracas. Recent research: Thinking Out Loud about Telenovelas/ Pensando en voz alta sobre las telenovelas; Can They love Each Other? It Depends: Gendered Representation of Age Difference in Telenovelas; El fenómeno de la telenovela turca / The Phenomenon of Turkish Dramas; Engaging Multicultural Audiences through Inclusive STEM Content on YouTube.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "Sun Joo (Grace) Ahn",
+   "title": "Director of the CACHE Lab; Professor, Advertising & Public Relations",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/sun-joo-grace-ahn/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/webp-express/webp-images/uploads/2023/09/Faculty_AhnGrace_2016.jpg.webp",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Ahn teaches undergraduate-level research methods, graduate-level user experience research, communication theory, and advertising and society. Her research examines how social media, video/internet games, and immersive virtual environments influence user attitudes and behaviors. She also directs the Center for Advanced Computer-Human Ecosystems (CACHE) lab. Education Ph.D., Communication, Stanford University M.A., Communication, Stanford University B.A., Communication/Business Administration, Seoul National University Research Interests and Activities Dr. Ahn is the director of the Center for Advanced Computer-Human Ecosystems (CACHE) lab. Her main program of research investigates how interactive digital media transform traditional rules of communication and social interactions, looking at how virtual experiences shape the way the way that people think, feel, and behave in the physical world. Her work has helped establish foundations for the theoretical advancement of virtual experiences in mediated environments and how their effects transfer into the physical world in four different contexts: health, consumer psychology, conservation, and education. Her ongoing work includes a NSF funded project exploring the application of virtual agents to promote STEM learning for children in informal learning environments, such as children’s museums. Her work has been published in a number of flagship outlets, including Journal of Advertising, Journal of Computer-Mediated Communication, Communication Research, Journal of Health Communication, Human-Computer Interaction , and Media Psychology . Teaching Specialties Dr. Ahn’s teaching specialties include advertising research, user experience research, advertising society, communication theory, media processes and effects, digital media technology, and communication and children. Experience Prior to obtaining her Ph.D. degree, Dr. Ahn worked as the Assistant Manager of the Survey & Research Division for the Korea Foundation for Asian Culture Exchange under the Korean Ministry of Culture & Tourism. She also worked as an interpreter and translator at the Korean Ministry of Finance & Economy and holds over a decade’s experience in interpretation and translation as a freelancer.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "Karin Assmann",
+   "title": "Associate Professor, Journalism",
+   "rank": "Associate Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/assmann/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2023/07/Karin-Assmann-copy.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Karin Assmann teaches video journalism, multimedia production, reporting and storytelling, as well as graduate courses on journalism and mass communication theory. She studies the sociology and business of news production as well as rural and local news consumption and production in the U.S. and in Germany. Education Ph.D., Journalism Studies, University of Maryland, Philip Merrill College of Journalism M.Sc., History of Political Thought, London School of Economics and Political Science B.S., School of Foreign Service, Georgetown University Research Interests and Activities Dr. Assmann studies news production with a focus on how journalists and news organizations respond to change. Her areas of interest include newsroom unionization, gender quotas and representation, as well as individual and institutional responses to physical and discursive attacks on reporters, their outlets and the news media in general. She also studies how rural communities define their information needs and the strategies they use to meet these needs. Assmann’s interest in local news deserts reaches across the Atlantic to her native Germany where she conducts research about local and regional media, as well as public broadcasting. She has presented her work at various regional, national and international conferences including the Association for Education in Journalism and Mass Communication’s (AEJMC) national conference, the Southeast Colloquium and Midwinter conference, the Association of Internet Researchers (AoIR), the Broadcast Educators Association (BEA), the International Communication Association (ICA), the International Association for Media and Communication Research (IAMCR) and the Future of Journalism Conference. She has authored and co-authored peer-reviewed articles published in Feminist Media Studies, ISOJ, Journalism, Journalism Practice , Media and Communication and the DGPuK Jahrbuch, as well as the SAGE Encyclopedia of Journalism. Assmann has served as research chair for the AEJMC Broadcast and Mobile Journalism and Newspaper and Online News Division’s Southeast Colloquium, as vice head and head of AEJMC’s Cultural and Critical Studies Division and as teaching chair, vice chair and head of AEJMC’s Community Journalism Interest Group. Graduate and undergraduate students are welcome in Assmann’s Qualitative Research Lab where they can collaborate with her and with each other on their research projects and theses. Dr. Assmann has mentored several undergr",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Journalism"
+  },
+  {
+   "name": "Laurena Bernabo",
+   "title": "Associate Professor, Entertainment and Media Studies",
+   "rank": "Associate Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/bernabo/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2023/09/Faculty_BernaboLaurena_2020.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Bernabo teaches undergraduate courses in media industries, and undergraduate and graduate courses in representation and identity. Education Ph.D., Communication Studies, University of Iowa M.A., Communication Studies, University of Iowa B.A., Gender & Women's Studies and Economics, University of Illinois Research Interests and Activities Dr. Bernabo researches contemporary issues in media industries including the influence of AI on global media flows and the impact of the Black Lives Matter movement on broadcast entertainment television. Her approach to this research considers media production practices-- professional activities governed by industrial norms and constraints-- and the texts produced by these processes. Her work blends theory and interviews with media professionals including showrunners, writers, producers, actors, translators, executives, and more. Dr. Bernabo's forthcoming book from Rutgers University Press, Black & Blue TV: Industry Responses to the Black Lives Matter Movement utilizes more than thirty interviews with industry professionals to make sense of changes in television norms and narratives in the decade following Trayvon Martin's 2012 murder. Dr. Bernabo has presented her work at conferences including International Communication Association, National Communication Association, International Association for Media & Communication Research, and Console-ing Passions. Teaching Specialties Dr. Bernabo's teaching specialties include global media flows, productions and industries; U.S. media industries; and mediated representations of gender, sexuality, race, ethnicity and other forms of identity.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Entertainment and Media Studies"
+  },
+  {
+   "name": "Michael Cacciatore",
+   "title": "Co-Director, Center for Health & Risk Communication; Professor; Assistant Department Head, Advertising & Public Relations",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/michael-cacciatore/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/webp-express/webp-images/uploads/2024/03/faculty_MichaelCacciatore.jpg.webp",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Cacciatore teaches research methodology and introduction to public relations in the Department of Advertising & Public Relations. His research focuses on science and risk communication with an emphasis on media coverage of and opinion formation for such topics. Education Ph.D., Mass Communication, University of Wisconsin-Madison M.S., Life Sciences Communication, University of Wisconsin-Madison B.A., English, University of Manitoba Research Interests and Activities Dr. Cacciatore’s research has examined the communication of science and risk topics ranging from nanotechnology to food safety to global climate change. A significant portion of this research has tracked media depictions of science and risk issues, paying particular attention to the role of social media in the communication process. His other research has focused most directly on the interplay between media, values and risk in public opinion formation. Dr. Cacciatore’s work has been published in Public Understanding of Science, Science Communication, Risk Analysis, New Media & Society, and Health Affairs among others. Teaching Specialties Dr. Cacciatore has taught courses in research methodology, data analysis, risk communication, and social marketing, at both the graduate and undergraduate levels. Experience Dr. Cacciatore has extensive research experience, including work on several large-scale, National Science Foundation-funded research grants. He has presented research findings at major communication conferences, and has published reports for groups like the American Academy of Arts and Sciences and the National Academies of Sciences, Engineering, and Medicine. Most recently, Dr. Cacciatore co-wrote a funded grant that will investigate humor effects in the context of science communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "Zifei “Fay” Chen",
+   "title": "Associate Professor, Advertising & Public Relations",
+   "rank": "Associate Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/chen/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2025/08/Faculty_ZifeiFayChen.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Zifei \"Fay\" Chen (MA '13) teaches public relations and advertising theory and corporate communication. Her research foci include corporate social responsibility and advocacy, startup and entrepreneurial communication, digital communication, and prosocial communication. Education Ph.D. in Communication, University of Miami M.A. in Journalism and Mass Communication, University of Georgia, 2013 B.A. in English Language & Literature with minor in Innovation and Entrepreneurship, Zhejiang University, China Research Interests and Activities Dr. Chen’s research agenda focuses on corporate communications, including corporate social responsibility and advocacy, startup and entrepreneurial PR, the evolving role of digital technologies such as AI in PR, and prosocial communication. Her work has been published in Journal of Public Relations Research, Public Relations Review, New Media and Society, and Journal of Product and Brand Management, among others. She is co-author of the book Strategic Communication for Startups and Entrepreneurs in China (Routledge Taylor & Francis). Teaching Specialties Dr. Chen’s teaching areas include public relations and advertising theory, corporate communication, campaigns, and digital strategies. Experience Prior to joining UGA, Dr. Chen was a professor at the University of San Francisco for eight years, where she served as director of the public relations minor program, founding faculty advisor of PRSSA, and co-director of the Center for Research, Artistic, and Scholarly Excellence. Dr. Chen is also a communication consultant and coach, providing workshops, coaching sessions, and strategic guidance for corporate and nonprofit clients on public speaking, executive presence, internal communication, and cross-cultural communication. She is a Page Up member of the Arthur W. Page Society and an ELEVATE member of Institute for Public Relations.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "Shira Chess",
+   "title": "Associate Professor, Entertainment and Media Studies",
+   "rank": "Associate Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/shira-chess/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/webp-express/webp-images/uploads/2019/08/ShiraChess_0002-copy.png.webp",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Shira Chess teaches courses in media studies and writing. Her research focuses broadly on historical and contemporary digital media studies. Education Ph.D., Communication and Rhetoric, Rensselaer Polytechnic Institute M.A. Media Arts, Emerson College B.A. English, The University of South Florida Research Interests and Activities Dr. Chess’ research interrogates contemporary and historical digital culture. Her book The Unseen Internet (MIT Press, 2026) considers the intersection between magical thinking and technological innovation. She is currently co-authoring Freaks in the Machine: Mondo 2000 in Late 20th Century Tech Culture about the famed 1990s cyberculture magazine. Her previous research considered video games as a framework for understanding women’s leisure, and the internet mythology of the Slender Man. Teaching Specialties Dr. Chess’ teaches courses that focus on both understanding and creating digital and traditional media. Prior to teaching in Grady College, she taught at Miami University of Ohio and worked as a game developer and web designer.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Entertainment and Media Studies"
+  },
+  {
+   "name": "David Clementson",
+   "title": "Associate Professor, Advertising & Public Relations",
+   "rank": "Associate Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/clementson/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2024/03/faculty_DavidClementson.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Clementson teaches undergraduate and graduate-level public relations and mass communication courses. His research examines the effects of public figures and politicians dodging questions. He also serves the Department and College in various leadership roles. He has also been elected and reelected to the executive leadership of the Public Relations Division of the National Communication Association (NCA). When he isn’t on campus teaching, running experiments, and cheering for the Bulldawgs, he loves watching the Atlanta Braves and the Oakland Athletics, and he plays the drums. He and his wife Laura have two sons and one daughter, who are bilingual in English and Brazilian Portuguese. Education Ph.D., Communication, The Ohio State University M.A., Communication Studies, University of Miami B.A., Political Science, James Madison University Research Interests and Activities Based on the latest rankings of peer-reviewed research , Dr. Clementson is in the Top 25 most prolific scholars published in communication journals. He won two Top Paper awards from the International Communication Association (both in the mass comm division). He won the top research award from the International Association of Language and Social Psychology. Dr. Clementson runs experiments testing how politicians and business spokespersons dodge reporters’ questions and whether audiences notice. He builds theoretical models that explore how the public will cognitively process deception in media interviews. His latest studies assess whether the public can detect when a company spokesperson is dodging questions amidst a company crisis, and the different ways a public figure might deceive audiences. His work has been published in Journal of Communication , Human Communication Research , and Communication Monographs . His research has also appeared in Politico, NPR, NBC News, the Boston Globe, the Daily Mail, Scientific American, the San Francisco Chronicle, the Houston Chronicle, the Huffington Post, the New York Post, the Washington Examiner, New York magazine, Psychology Today and Newsweek. Teaching Specialties Dr. Clementson wrote the textbook Advanced Public Relations (Kendall Hunt publishing company). Dr. Clementson’s teaching specialties include: introduction to public relations (graduate-level), public relations (honors undergraduate-level), public relations campaigns (undergraduate- and graduate-level) and quantitative research methods. Experience Dr. Clementson’s public rel",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "Joshua Cloudy",
+   "title": "Assistant Professor, Advertising & Public Relations",
+   "rank": "Assistant Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/cloudy/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2024/08/Faculty_CloudyJoshua2024.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Cloudy teaches courses at both the undergraduate and graduate level in advertising and brand strategy. His goal is to prepare the next generation of advertising professionals in theory-informed and data-informed strategic thinking. Dr. Cloudy's research investigates how communication dynamics and interactive/emerging technologies shape human behavior and societal cohesion in order to develop strategies that help us navigate an increasingly polarized and mediated world. His research has been supported by organizations such as the Broadcast Education Association and the American Academy of Advertising. Outside of his role at UGA, he serves as a board member, and the chair of the marketing committee, for an Athens-based nonprofit. Education Ph.D., Media and Communication, Texas Tech University M.S., Human Resources & Organizational Development, University of Louisville B.A., Psychology, University of Louisville Research Interests and Activities Dr. Cloudy's research seeks to understand the role of digital media and communication in fueling hate and distrust between groups, and what can be done to attenuate this. To better understand the role of digital media and communication in the formation and change of intergroup beliefs, attitudes, and behaviors, his research focuses on three main areas: (1) group communication in online networks, (2) mediated intergroup contact, and (3) communication initiatives and interventions. His work has been published in Digital Journalism , Communication Research , Journal of Information Technology & Politics , Technology, Mind, and Behavior , among others. Teaching Specialties Dr. Cloudy has taught classes related to advertising principles, sports advertising, advertising and communication management, among others. Experience Before pursuing his doctorate, Dr. Cloudy was an eighth-grade science teacher and basketball coach in Southern Indiana. A lot of his time outside of teaching and research is spent following college sports and political news. A proud Indiana native, he enjoys watching college sports, especially basketball and football, and has a deep love for live music, with R&B as his favorite genre.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "Charles N. Davis",
+   "title": "Grady College Dean, Professor, Journalism",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/charles-n-davis/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2019/01/CharlesDavis06-copy.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Charles N. Davis is the Dean of the Henry W. Grady College of Journalism and Mass Communication at the University of Georgia. He was appointed in 2013, after a long career in journalism. Education B.S., Criminology, North Georgia College M.A., Journalism, University of Georgia Ph.D., Mass Communication, University of Florida Experience Davis worked for ten years as a journalist after his graduation from North Georgia College, working for newspapers, magazines and a news service in Georgia and Florida before leaving full-time journalism to complete a masters degree from the University of Georgia's Henry W. Grady College of Journalism and Mass Communication and to earn a doctorate in mass communication from the University of Florida. He spent 14 years as a faculty member, including four as department chair at the Missouri School of Journalism. Davis also spent five years at Mizzou as Executive Director of the National Freedom of Information Coalition.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Dean of Grady College; title 'Grady College Dean, Professor, Journalism'. Grady sub-department: Journalism"
+  },
+  {
+   "name": "Nathaniel J. Evans",
+   "title": "Associate Professor, Advertising & Public Relations",
+   "rank": "Associate Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/nathaniel-j-evans/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2025/08/faculty_NateEvans002.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Nathaniel Evans is an Associate Professor of Advertising in the Department of Advertising and Public Relations at University of Georgia. His research framework can be applied to regulatory and policy related topics in advertising, marketing, communication and health. Education Ph.D., Communication and Information, University of Tennessee M.S., Communication and Information/ Advertising, University of Tennessee B.A., Psychology, Eckerd College Research Interests and Activities Dr. Evans’ primary area of research extends traditional persuasion and information processing theories, applying them to consumer processing, understanding, and evaluation of non-traditional, interactive, and covert advertising. Dr. Evans is particularly interested in the theoretical, managerial, and regulatory implications relating to consumers’ exposure to and use of non-traditional advertising such as native advertising, influencer advertising, advergames, and other covert or blurred advertising content. His work has been published in Journal of Advertising, International Journal of Advertising, Journal of Advertising Research, Journal of Interactive Marketing, Journal of Current Issues and Research in Advertising, Journal of Interactive Advertising, Journal of Consumer Affairs, and more. He serves on the editorial boards of multiple leading journals and has been an Associate Editor at the Journal of Advertising since 2021. Teaching Specialties Dr. Evans ‘teaching interests include, at graduate and undergraduate levels, principles of advertising, advertising management, advertising and society, and quantitative research methods. Experience Prior to working in academia, Dr. Evans worked in the psychological and mental health fields. In addition to teaching and researching at UGA, he also has experience as a consultant conducting research for law firms. Selected Research Going Native: Effects of Disclosure Position and Language on the Recognition and Evaluation of Online Native Advertising Coddling Our Kids: Can Parenting Style Affect Attitudes Toward Advergames? Parents' Presumed Persuasion Knowledge of Children's Advergames: The Influence of Advertising Disclosure Modality and Cognitive Load Measuring Sponsorship Transparency in the Age of Native Advertising Exploring The Impact Of The US Measles Outbreak On Parental Awareness Of And Support For Vaccination Recent research: Leveraging Influencers to Increase HPV Vaccination Intention: The Impact of Message Framing and Healt",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "Matthew Nolte Evans",
+   "title": "Associate Professor, Entertainment and Media Studies",
+   "rank": "Associate Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/evans-matthew/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2023/05/Matthew-Evans.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Matthew Nolte Evans is an award-winning writer and associate professor of screenwriting in the Department of Entertainment and Media Studies at the Grady College of Journalism and Mass Communication. Originally from Denver, he moved to Los Angeles in 2011, where he sold a screenplay to HBO and joined the Writers Guild of America West (WGAW). He has since written and developed film and television projects for directors and producers including Thomas Carter, Michelle Manning, Mathieu Bonzon, and Eric Christian Olsen (CBS Television Studios). In 2026, he received the Richard B. Russell Award for Excellence in Undergraduate Teaching, the University of Georgia’s highest early-career honor. Education MFA, Film Production-Screenwriting, Columbia University, New York City BFA, Film Production, University of Colorado, Boulder BA, Film Studies, University of Colorado, Boulder BA, English-Creative Writing, University of Colorado, Boulder Experience Before joining Grady College in 2019, Evans taught undergraduate and graduate screenwriting at California State University, Fullerton (CSUF); Columbus College of Art and Design (CCAD); and the New York Film Academy, Los Angeles (NYFA). He also worked as a reader and story analyst for Pressman Films, the Tribeca Film Institute, Alcon Entertainment, and Amazon Studios. Teaching Specialties Evans specializes in genre writing, adaptation, and workshop-based screenwriting instruction across feature, short film, and television. His students have won major competitions, including the top prize at the Atlanta Film Festival (2023) and the BEA Festival of Media Arts (2021). He previously supervised MFA thesis screenplays at CSUF and NYFA. In 2020, he launched Grady College’s first TV writing course.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Entertainment and Media Studies"
+  },
+  {
+   "name": "Jay Hamilton",
+   "title": "Department Head; Professor; Jim Kennedy New Media Professor, Entertainment and Media Studies",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/jay-hamilton/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2023/07/JamesHamilton_0002-copy.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Hamilton teaches cultural, critical, and historical approaches to media studies. His research addresses alternative media and democratic communication. Education Ph.D., Mass Communication, University of Iowa M.A., Communication, University of Washington B.A., English/Communication, University of Washington Research Interests and Activities Dr. Hamilton studies the history, theory and practice of alternative media and democratic communication. A central goal is to develop a historicizing critique not only of specific practices of democratic communications but also of their conceptualizations and forms. His work also seeks to recontextualize, retheorize, and thus reconstitute the possibilities of democratic communications in the current era of digital media, globalization, and perpetual political, economic, and climate crises. Books include Democratic Communications: Formations, Projects, Possibilities (Lexington Books, 2008; paperback edition 2009); Alternative Journalism (Sage, 2009), which is co-written with Chris Atton (Napier University, Edinburgh, Scotland); and Explorations in Critical Studies of Advertising (Routledge, 2017), co-edited with Robert Bodle, and Ezequiel Korin. Teaching Specialties Dr. Hamilton teaches cultural, critical and historical approaches to media studies. He holds an appointment to the Graduate Faculty. Dr. Hamilton has taught First-Year Seminars and in the Grady@Oxford study abroad program. Doctoral advisees have won major external and internal scholarly awards and distinctions. In 2014 he was appointed a Josiah Meigs Distinguished Professor, the University’s most prestigious teaching honor to recognize superior teaching at the graduate and undergraduate levels. Hamilton is also the recipient in 2003, 2009 and 2013 of the Grady College Roland Page Outstanding Faculty Award, which honors excellence in teaching at the graduate level. Experience Prior to joining the Grady College, Dr. Hamilton taught at the State University of New York College at Geneseo, the College of Notre Dame of Maryland and at the University of Iowa. In addition, he has worked as a copywriter for Corporate Communications at Microsoft Corp., and as a training coordinator at the law firm of Piper & Marbury L.L.P.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Entertainment and Media Studies"
+  },
+  {
+   "name": "Jeong-Yeob Han",
+   "title": "Professor; Director of Strategic Health & Risk Communication Program; Director of Analytics, Insights, & Measurement (AIM) Club, Advertising & Public Relations",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/jeong-yeob-han/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2024/03/faculty_JeongYeobHan.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Han teaches undergraduate Health Communication and Health & Risk Communication Campaigns courses and graduate Mass Communication Research Method and Technology and Health courses. Research foci include health communication and technology, health advertising, and health communication campaigns. Education Ph.D., Mass Communication, University of Wisconsin – Madison (Minor: Statistics in Social Science) M.A., Communication, Seoul National University, South Korea B.A., Communication, Seoul National University, South Korea (Summa Cum Laude) Research Interests and Activities Dr. Han's research program is multidisciplinary, situated at the intersection of theory and practice. Focused on strategic health communication campaigns and the social psychology of communication influence, his work investigates the impact of information and communication technologies on audience engagement and health outcomes. Dr. Han is internationally recognized for his contributions to the effectiveness and evaluation of health communication campaigns, as well as strategic health message development and testing. His research places particular emphasis on addressing information and health disparities among underserved or at-risk populations. Articles presenting this work appear in leading communication, advertising, psychology, and public health journals: Journal of Communication, Journal of Computer-Mediated Communication, Journal of Health Communication, Health Communication, International Journal of Advertising, Computers in Human Behavior, Health Education Research, Journal of Broadcasting & Electronic Media, Journal of Health Psychology, and Mass Communication and Society . Teaching Specialties Dr. Han has taught ADPR health, Advertising and Communication Management, Insights & Analytics, and Quantitative Research in Mass Communication. He has developed and teaches Health & Risk Communication Campaigns and the graduate Technology and Health course. His Health & Risk Communication Campaigns class has collaborated with external clients such as ICF International and Brunet-Garcia Advertising. Experiences Dr. Han serves as a Senior Editor of Health Communication and as an Associate Editor of the International Journal of Advertising . He also sits on the editorial review boards of four journals: Journal of Advertising , International Journal of Advertising , Health Communication , and Asian Communication Research . In addition, he actively reviews for more than 35 leading jou",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "Itai Himelboim",
+   "title": "Thomas C. Dowden Professor of Media Analytics; Director of the SEE Suite: Social media Engagement & Evaluation; Professor, Advertising & Public Relations",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/itai-himelboim/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2024/03/faculty_ItaiHimelboim.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Himelboim, the Thomas C. Dowden Professor of Media Analytics and director of the SEE Suite, studies the role social media plays in news, politics and international communication. Through applying network analysis, he examines political talk and information flow. Education Ph.D. (2008) - School of Journalism and Mass Communication, University of Minnesota M.A. (2003) - Department of Political Science (emphasis on Political communication), Tel-Aviv University B.A. (1999) - Department of Communication and Department of Psychology, Tel Aviv University Research Interests and Activities Dr. Himelboim's research involves computer-mediated social networks and their implications for political communication, international communication and the news. He examines political discussions on online forums and the micro-blogging social media Twitter, as well as international networks, based on foreign news reporting and the flow of information technologies. The role of news media, traditional and online, in political communication is examined via their websites and their presence in social media spaces. Taking a network-related theoretical approach to research is natural to communication as a discipline, as it focuses on the relationships and communication patterns among Internet users, individuals and organizations. This is valid particularly in online spaces that merge interpersonal and mass communication. Across online technologies, Dr. Himelboim identifies the naturally occurring patterns of communications among social actors in online spaces; how these patterns indicate how we choose our information sources; who the most connected users – hubs – in these networks are; and what role news media plays in these primarily interpersonal-communication spaces. His research has been published in top journals in the field, including Journalism and Mass Communication Quarterly, Journal of Broadcasting and Electronic Media, Communication Research, Journal of Computer-Mediated Communication (JCMC) and Journal of Public Relations Research. These and other studies have been presented in major national and international conferences in the field. Research Gate: https://www.researchgate.net/profile/Itai_Himelboim/publications Teaching Specialties Dr. Himelboim teaches in the area of new communication technologies and social networks. He developed and teaches Network Analysis of Social Media (JRMC 8240) for graduate students and Social Media Analytics (TELE 4450/NMIX 4200) a",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "Yan Jin",
+   "title": "C. Richard Yarbrough Professor in Crisis Communication Leadership; Professor of Public Relations; Director of Crisis Communication Think Tank; Associate Director of Center for Health & Risk Communication, Advertising & Public Relations",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/yan-jin/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2023/09/Faculty_JinYan_2016.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Yan Jin currently teaches undergraduate Crisis Communication course and graduate Crisis Communication and Strategic Conflict Management, ADPR Theory, and Mass Communication Theory courses. Her primary research programs are in the areas of crisis communication, strategic conflict management, and health risk communication, focusing on the role of emotions and social media in crisis and risk communication theory and application. Education Ph.D., University of Missouri, Columbia, MO M.A., University of Missouri, Columbia, MO B.A., Peking University, Beijing, China Research Interests and Activities Dr. Jin’s work serves as a framework for crisis and risk communication in a rapidly evolving media landscape and amidst emotionally charged conflict situations, ranging from organizational crises to disasters and public health emergencies. Strategic communicators facing high-stake threats have an increasing need for evidence-based guidelines for crisis and risk information dissemination to address affected communities’ informational and emotional needs, to ensure safety and welfare of publics and organizations, and ultimately to build community resilience and aid crisis recovery. Dr. Jin’s research programs in crisis communication, conflict management, and health risk communication contribute to the advancement of strategic communication theory and provide insights for public relations practice. Dr. Jin has authored more than 140 peer-reviewed journal articles and over 45 book chapters. She is the lead-editor of the Routledge books Advancing Crisis Communication Effectiveness: Integrating Public Relations Scholarship with Practice (2021) and Social Media and Crisis Communication (2nd edition) (2022), as well as co-editor of Social Media and Crisis Communication (1st edition) (2017). Dr. Jin was named the Top 1 \"Most Prolific Author in Crisis Communication Articles Published in Public Relations Review (2000-2023)\" according to a 2026 refereed article in Public Relations Review, and a Top 2 “Most Productive Scholar” in crisis communication research according to a 2014 refereed article in International Journal of Strategic Communication.\" She was also named a Top 27 “Most Cited Public Relations Author” according to a 2019 refereed article in Journal of Public Relations Research, as well as a Top 6 “Most Published Author” and Top 16 “Most Cited Author” in Public Relations Review articles according to a 2021 refereed article in Public Relations Review. Recently",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "Jeffrey P. Jones",
+   "title": "Executive Director Peabody Awards, Lambdin Kay Professor, Entertainment and Media Studies",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/jeffrey-p-jones/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2017/02/faculty_JonesJeff_2025Alt.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Jones directs the George Foster Peabody Awards, and is Lambdin Kay Professor in the Entertainment and Media Studies Department. His research specialty is television studies, with a focus on popular politics, satire and parody. He is the author and editor of five books, including Entertaining Politics: Satiric Television and Civic Engagement (2nd ed.), Satire TV: Politics and Comedy in the Post-Network Era , and The Essential HBO Reader . Education PhD: Radio-TV-Film, University of Texas at Austin (1999) MA: Political Science, Auburn University (1993) BA: Political Science, Auburn University (1985) Research Interests and Activities Dr. Jones helped establish the field of Political Entertainment Television and Popular Politics. He is the author and editor of five books, including Entertaining Politics: Satirical Television and Political Engagement, 2nd ed. (Rowman & Littlefield, 2010); Satire TV: Politics and Comedy in the Post-Network Era (NYU Press, 2009); News Parody and Political Satire Across the Globe (Routledge, 2012); The Essential HBO Reader (University Press of Kentucky, 2008). He is also the author of almost 30 articles and book chapters on the intersections of popular culture and politics. Teaching Specialties Dr. Jones teaches classes in Television Studies, Media and Politics, Popular Culture, Documentary Tradition, Media Studies, Theory and Methods in Critical/Cultural Studies, and Critical Analysis of Journalism.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Entertainment and Media Studies"
+  },
+  {
+   "name": "Anandam Kavoori",
+   "title": "Professor, Entertainment and Media Studies",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/anandam-kavoori/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/webp-express/webp-images/uploads/2021/10/AnandamKavoori0004-copy.png.webp",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Kavoori is currently engaged in a program of autoethnographic and narrative writing. Education MFA. Narrative Non-Fiction writing, University of Georgia. Study in A Second Discipline (Ecology), University of Georgia. Ph.D. Journalism and Mass Communication, University of Maryland, College Park. M.A. Cultural Anthropology, Brandeis University, Waltham, Massachusetts. B.A. Sociology, Hindu College, University of Delhi, India. Research Interests and Activities Dr. Kavoori works in the field of Transnational Cultural Studies. He has written or edited ten books and over fifty single (or co-authored) journal articles and book chapters on the subject of media and culture in a global context. His work has appeared in Media, Culture and Society, Critical Studies in Media Communication, Journal of Communication, Journal of Broadcasting and Electronic Media, Cultural Studies / Critical Methodologies, Global Media and Communication, American Journalism, International Journal of Cultural Studies amongst many others. His books include The Logics of Globalization; Thinking Television and Global Bollywood . He is also the author of two books of fiction, including a novel, The Children of Shahida . Teaching Specialties Dr. Kavoori teaches a range of EMST undergraduate courses, including EMST 4430: International Media Entertainment; EMST 3320: Entertainment Media Analysis; EMST 3110: Writing for Entertainment Media; EMST 4410: Global Media Entertainment Industries and EMST 4320: Media Audiences. He is the Program Director of the EMST@MADRID, Spain summer study abroad program. Experience Dr. Kavoori has been a consultant to News Corporation, CNN International, Discovery Channel, amongst others. He was a faculty judge for The George Foster Peabody Awards for over twenty years. Before joining academia, he was a journalist with media organizations in India and the United States. Dr. Kavoori has taught in study abroad programs developed by Grady/ UGA (Oxford University, Costa Rica, Cuba and Cambodia), the UNO/ University of Innsbruck program in Austria and has held a visiting position at Korea University (Seoul, Korea) and Ludwig Maximillian University (Munich, Germany). He directed Grady’s Costa Rica program from 2014 to 2019. He has twenty plus years of experience in grant writing with a focus on environmental and science communication (details in CV).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Entertainment and Media Studies"
+  },
+  {
+   "name": "Jooyoung Kim",
+   "title": "Executive Director, James M. Cox Jr. Center for International Mass Communication Training and Research; Dan Magill Georgia Athletic Association Professor in Sports Communications; Professor, Advertising & Public Relations",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/jooyoung-kim/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/webp-express/webp-images/uploads/2022/11/JooyoungKim_2026_Grady-2-scaled.jpg.webp",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About Dr. Kim is Professor of Advertising and Executive Director of the Cox International Center and the executive director of the Cox Center CAM Fellows Program . His research examines advertising and branding in digitally networked environments, with particular attention to how human and technological connections shape consumer attitudes, behavior, and brand experience. As the originator of Connectism, his work advances understanding of digital advertising user experience from the micro level of individual consumers to the macro level of collective brand experience. He teaches graduate courses in advertising research and theory and holds the endowed position of Dan Magill Georgia Athletic Association Professor in Sports Communications. Education Ph.D., Mass Communication, University of Florida Research Interests and Activities Dr. Kim is a globally recognized expert in advertising and strategic communication, with a sustained record of scholarly contribution, leadership, and international engagement. He has published extensively in top tier academic journals across advertising, marketing, communication, and psychology, contributing to ongoing scholarly conversations in the field. He has served as Editor-in-Chief of the Journal of Interactive Advertising since 2019 and has held senior editorial positions on leading journals in advertising and communication. His work has influenced academic and professional discourse on emerging technologies and communication, including foundational contributions on blockchain and the advertising ecosystem, advertising and branding in the metaverse, and the strategic transformation of interactive media. He is the originator of Connectism , a theoretical paradigm that advances understanding of how human and technological connections shape attitudes and behavior in digitally networked environments increasingly driven by artificial intelligence, while linking digital advertising user experience from the micro level of individual consumers to the macro level of collective brand experience. Teaching Specialties Dr. Kim’s primary teaching areas are advertising research and theory. Experience Dr. Kim brings extensive experience in advertising, communication, and business across both industry and academic settings. He has also served as a frequent speaker and advisor for global firms, particularly in South Korea.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "Nathaniel H. Kohn",
+   "title": "Professor; Director, Cannes Lions Program, Entertainment and Media StudiesMaster of Fine Arts in Film, Television and Digital Media",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/nathaniel-h-kohn/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2022/09/NateKohn_0006-copy.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Kohn teaches advanced screenwriting, producing for film/television, documentary film, and qualitative methods; directs the Cannes Film Festival and Cannes Lions Study Abroad Programs; directs Roger Ebert’s Film Festival; and produces feature films and television programs. Education Ph.D., Communication, University of Illinois, May 1995 M.S., Radio/TV, University of Illinois A.B., English Composition/Literature, University of Illinois Research Interests and Activities His scholarly interest include qualitative methodology, celebrity, writing for the screen, autobiography, new technologies and critical tourism as viewed through the interpretive prisms of cultural studies, critical theory, post-colonial theory, and the new ethnography. Teaching Specialties Dr. Kohn teaches courses in writing for the electronic screen, producing for film and television, and cultural studies. Experience Dr. Kohn produced Zulu Dawn starring Burt Lancaster and Peter O’Toole; the independent feature Somebodies , which premiered at Sundance (2006); Rain , the Bahamas’ first indigenous feature which premiered at Toronto (2007) and on Showtime (2010); the feature film Bottleworld (2010); he was Executive Producer on the BET television series Somebodies (2008); he was Producer on the feature length documentary Bayou Maharajah that premiered at the SXSW Festival (2013); he produced the Emmy Award-winning short documentary Ebertfest 2012 ; and he was Executive Producer on The 73 rd , 74 th and 75 th Annual Peabody Awards Specials for PivotTV/Participant Media (2014, 2015 and 2016). He has served on juries and mentored screenwriters at the Atlanta, Hawaii, Kerala, and Bahamas International Film Festivals. He is a board member of the Arkansas Cinema Society. And he is the author of numerous scholarly articles and of the book Pursuing Hollywood: Seduction, Obsession, Dread (AltaMira Press, 2006).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Neil Landau",
+   "title": "Professor; MFA in Film, Television and Digital Media, Entertainment and Media Studies",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/landau/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2023/07/faculty_LandauNeil2025-copy.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Neil Landau is an award-winning screenwriter, producer, author and screenwriting professor. Education Master of Fine Arts, Screenwriting, University of Georgia Bachelor of Arts, Film/Television, University of California, Los Angeles Teaching Specialties Landau served as an assistant dean at UCLA School of Theater, Film & Television and co-director of UCLA’s MFA Screenwriting Program for many years. This Fall, he’ll be the founding Director of Screenwriting in the new MFA Film & Television Program at the University of Georgia. Experience Landau's screen credits include the cult teen comedy Don't Tell Mom the Babysitter's Dead ; Melrose Place, The Magnificent Seven, Doogie Howser, M.D., The Secret World of Alex Mack, Twice in a Lifetime, MTV's Undressed . His animated movie projects include Tad: The Lost Explorer (aka Las Adventuras de Tadeo Jones ) for which he earned a Spanish Academy “Goya” Award and Cinema Writers’ Circle Award for Best Adapted Screenplay (2014); Tad2 ( Tadeo Jones and the Secret of King Midas ), from Paramount, premiered in August, 2017 (once again to record box office). Neil is working on the Tad #3 for a 2022 release by Paramount. He also co-wrote the animated feature Capture the Flag (also for Paramount); and the animated movie, Sheep & Wolves , for Wizart Animation ( The Snow Queen ), 2017 release. He’s currently Head Writer and Co-Executive Producer on the new animated feature film Finnick for Riki Animation Studios, and serving as Co-EP and Executive Script Consultant on Mummies for 4 Cats Pictures and Warner Bros. Both are currently in production for 2022 release. Neil’s new projects include Strings (for Warner Bros.), the live action miniseries for Amediateka/HBO Europe entitled Patient Zero and a remake of Don’t Tell Mom the Babysitter’s Dead slated for remake in 2021 . Neil is author of five books, including the bestselling 101 Things I Learned in Film School (Grand Central Publishing, 2010, reissue by Random House/Crown in early 2021; and The TV Showrunner’s Roadmap (Focal Press, 2014; second edition to be published in 2021). Neil served for several years as executive script consultant in the international divisions of Sony Pictures Television and Columbia Pictures. He gives lectures, keynotes, and hosts workshops around the world on the art and craft of screenwriting, including keynotes in Milan, Rome, Seoul, and Sochi. He’s lectured at USC School of Cinematic Arts, NYU Tisch School of the Arts, La Femis in Paris, Me",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Entertainment and Media Studies"
+  },
+  {
+   "name": "Mengqi Liao",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/liao-2/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2024/08/Faculty_MaggieLiao2024.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Liao teaches advertising communication and media strategy and activation. Her research aims to gain a deep understanding of the effects of different technological affordances (especially that of emerging artificial intelligence AI systems) on persuasion, users’ cognitive information processing, privacy concerns, misinformation susceptibility, psychological well-being, and trust. EDUCATION Ph.D. in Mass Communication, Penn State University M.A. in Media Studies, Penn State University B.A. in Public Relations & Advertising, Hong Kong Baptist University Teaching SpecialtieS Liao’s teaching areas include online digital analytics, persuasion, quantitative research methods, media effects theory, effects of social media, and psychological effects of communication technology. RESEARCH INTERESTS AND ACTIVITIES Dr. Liao’s research investigates the processes and psychological effects of human interactions with different communication technologies, including emerging artificial intelligence (AI) applications (such as recommender systems, AI writers, and AI fact-checkers), social media, mobile devices, and virtual reality. Using a combination of experimental and computational approaches, her research aims to gain a deep understanding of the effects of different technological affordances on persuasion, users’ cognitive information processing, privacy concerns, misinformation susceptibility, psychological well-being, and trust. She has published her research in Journal of Advertising, Public Relations Review, Science Communication, Communication Research, Computers in Human Behavior, Journal of Broadcasting & Electronic Media, and Proceedings of Human Factors in Computing Systems (CHI).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kyser Lough",
+   "title": "Associate Professor; Director, News Literacy Certificate, Journalism",
+   "rank": "Associate Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/lough/",
+   "personal_url": "https://www.kyserlough.com/",
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2022/08/Kyser-Lough-copy.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Lough studies visual communication and solutions journalism, with an emphasis on photojournalism. He teaches graduate-level visual communication method & theory, as well as undergraduate photography and journalism ethics & diversity courses. He is the director of the News Literacy Certificate and co-director & research lead of the Solutions Journalism Hub at UGA . Kyser Lough personal website Education Ph.D., Journalism, The University of Texas at Austin M.A., Mass Communication, Murray State University B.A., Public Relations, Murray State University Research Interests and Activities Dr. Lough researches visual communication and solutions journalism, both with an emphasis on photojournalism. He aims to advance the field of visual journalism further by incorporating his work into professional, research and classroom spaces. His research explores questions of power, access and boundaries. Within visual communication, he studies how news images are made, selected and interpreted, as well as the photographers themselves in how they define and operate within their field as they fight for legitimacy and job security. His solutions journalism work investigates how it is conceptualized/created, audience effects and the interplay of words and images. Solutions journalism, a growing field of interest within journalism studies, compels journalists to go beyond just reporting about problems in a community by also covering what people are doing about it. Dr. Lough has presented his research at both national and regional AEJMC conferences, as well as at ICA and specialty conferences. His research is published in peer-reviewed journals such as Journalism , Journalism and Mass Communication Quarterly , Journalism Practice , Visual Communication Quarterly , Digital Journalism and The Agenda Setting Journal . Teaching Specialties Dr. Lough’s teaching specialties include visual communication, specifically photojournalism, graphic design and visual method/theory, as well as general newswriting, ethics and related journalism courses. Experience Prior to pursuing his Ph.D., Dr. Lough spent 10 years as a photojournalist, reporter and public relations practitioner. His work has appeared for the Associated Press and NCAA and in the Austin American-Statesman , Lexington Herald-Leader , Louisville Courier-Journal, Murray Ledger & Times and American Hunter Magazine among others. He continues to freelance as a photographer in Athens and specializes in concert and sports ph",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Journalism"
+  },
+  {
+   "name": "Jessica Maddox",
+   "title": "Associate Professor, Entertainment and Media Studies",
+   "rank": "Associate Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/maddox/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2025/08/faculty_MaddoxJessica.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Jessica Maddox (BA '12, MA '15, PhD '18) teaches courses in media studies, cultural studies, and social media. Her research examines content creators, influencers, and social media platforms. Education Ph.D., Mass Communication, University of Georgia, 2018 M.A., Mass Media Arts, University of Georgia, 2015 B.A., English & Sociology, University of Georgia, 2012 Research Interests and Activities Dr. Maddox specializes in pop culture and labor on social media. She is the author of The Internet is for Cats: How Animal Images Shape our Digital Lives (Rutgers University Press, 2023) and the of Anatomy of an Internet Scandal: Content Creators and the Politics of Going Viral (University of California Press, forthcoming). She has authored or co-authored over two dozen articles in New Media & Society, Social Media + Society , Information, Communication, and Society , Television & New Media, the International Journal of Communication, the International Journal of Cultural Studies, and Feminist Media Studies . In addition to her academic work, she has been quoted over two hundred times on social media in global media, including The New York Times, The Boston Globe, CNN, Good Morning America, NBC Nightly News, the BBC, Denmark’s Politiken, Germany’s Science Notes, France’s La Croix, and Pakistan World Television English. She has also published original social media op-eds in Wired, Slate, Nieman Lab, and The Conversation. Since 2023, Dr. Maddox has been a member of a national coalition working to advance child social media labor protections, also known as “family vlogging” or “child influencer” bills. She consulted on California’s Child Content Creator Rights Act, which was passed into law in 2024, and has provided testimony, letters of support, and educational memoranda in Utah, New York, and Missouri. She has also consulted for top tech companies, as well as numerous organizations seeking to adapt to a rapidly changing social media world. Teaching Specialties Dr. Maddox teaches courses in media studies, cultural studies, and social media. She created one of the world’s first courses in professionalizing online content creation and influencing. Experience Prior to returning to Grady, Dr. Maddox spent seven years as a professor of digital media at the University of Alabama.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Entertainment and Media Studies"
+  },
+  {
+   "name": "Booker T. Mattison",
+   "title": "Associate Professor, Entertainment and Media Studies",
+   "rank": "Associate Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/mattison/",
+   "personal_url": "https://bookertmattison.com/",
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2023/08/BookerTMattisonFall202220220907_0027-copy.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About Booker T. Mattison teaches Screenwriting and Directing for the Screen courses, in addition to creative jobs as an author and filmmaker. Education Master of Fine Arts, Film and Television, New York University B.A., Mass Communication, Norfolk State University Experience Booker T. Mattison is a screenwriter, director, and novelist. He wrote and directed the BET+ original film The Sound of Christmas , starring Grammy-winning recording artist Ne-Yo. The New York Times called it “a charming, new holiday film.” It was the #1 movie on BET+ in December 2022 and was submitted for Emmy consideration for Outstanding TV Movie in 2023. He also wrote and directed the psychological thriller Twisted Marriage Therapist , a Tubi original film that posted one of the platform’s highest completion rates in September 2023. His legal thriller, the Tubi original film An Unusual Suspect, premiered on the streamer in April 2025. Mattison produced and directed the short documentary Beyond the Movement for WABE, Atlanta’s PBS station, which aired in September 2025. He previously wrote and directed the film adaptation of Zora Neale Hurston’s short story The Gilded Six Bits , which aired on Showtime and stars Chad L. Coleman, T’Keyah Crystal Keymah, and Wendell Pierce. The Hollywood Reporter wrote, “Mattison’s direction and feel for her characters match up to Hurston’s sterling piece of fiction... full of atmosphere and strongly developed characters.” As a novelist, Mattison debuted with Unsigned Hype (2009), published by Revell Books and was nominated for a South Carolina Book Award in the Young Adult category. His second novel, Snitch (2011), received a starred review in Publishers Weekly . Mattison holds an MFA in Film and Television Production from New York University and a BS in Mass Communication from Norfolk State University.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Entertainment and Media Studies"
+  },
+  {
+   "name": "Juan Meng",
+   "title": "UGA Athletic Association Endowed Professor; Department Head; Professor; Director, Cannes Lions Program, Advertising & Public Relations",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/juan-meng/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2024/03/faculty_JuanMeng.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Juan (pronounced as “Dren”) Meng is the Head of the Department of Advertising and Public Relations in the College of Journalism and Mass Communication at the University of Georgia. Dr. Meng is UGA Athletic Association Endowed Professor and professor of public relations. She was the founder and director of UGA's Go Global Choose China study abroad program. She also founded the College’s Cooperative Education 3+1+1 programs with Shanghai Normal University and Shanghai International Studies University and serves as the programs’ academic advisor. She currently directs Grady’s Cannes Lions International Festival of Creativity Study Abroad Program. Education Ph.D., University of Alabama, Tuscaloosa, AL M.S., University of Alabama, Tuscaloosa, AL M.A., Bowling Green State University, Bowling Green, OH B.S., Fudan University, Shanghai, China Research Interests and Activities Dr. Meng’s research specialization includes public relations leadership, leadership development, diversity and leadership in PR, measurement in PR, reputation management and global communication. Meng has published more than 90 refereed journal articles, scholarly book chapters, research reports and special issues on public relations leadership-related topics. She has published four scholarly books, including Strategic Communication and the Global Pandemic (Routledge, 2025), Strategic Communication in a Global Crisis (Routledge, 2023), PR Women with Influence: Breaking through the Ethical and Leadership Challenges (Peter Lange International, 2021), and Public Relations Leaders as Sensemakers: A Global Study of Leadership in Public Relations and Communication Management (Routledge, 2014). Meng serves on the national and international editorial advisory board for leading scholarly journals in public relations, including Journal of Public Relations Research , Public Relations Review , International Journal of Strategic Communication , Corporate Communications: An International Journal , and Corporate Communication Review . She has received numerous research awards and recognitions nationally and internationally. Most recently, she was the recipient of the 2023 Institute of Public Relations Pathfinder Award for her significant and sustainable contributions to the body of knowledge and practice of public relations. Meng serves on the Board of Trust at the Institute for Public Relations and the national advisory board at The Plank Center for Leadership in Public Relations. She was the r",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "Lauren Musgrove",
+   "title": "Assistant Professor, Entertainment and Media Studies",
+   "rank": "Assistant Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/musgrove/",
+   "personal_url": "https://www.laurenmusgrove.com/",
+   "photo_url": "https://grady.uga.edu/wp-content/webp-express/webp-images/uploads/2023/09/faculty_MusgroveLauren_2023Alt.jpg.webp",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "ABOUT Professor Musgrove is an 8-time Southeast Emmy winning filmmaker. Her work explores places of vulnerability and inspiration in the human condition, often involving scientific research and fantastical imagery. She is passionate about engaging with film and television production from a variety of angles, promoting sustainable, ethical approaches to the art form, and content that encourage inner and outer peace. More information can be found at LaurenMusgrove.com and Purple Magnet Productions . Education M.F.A., Film & Media Art, Emerson College B.A., Telecommunication & Film, The University of Alabama Experience Lauren is a very prolific creator. She was a co-producer/director for the “People of Alabama” documentary video series that garnered millions of views online and received an INMA Global Media Award in 2020. She directed two narrative short films for the upcoming educational Super Science Showcase series. Jared Leto’s nationwide A Day in the Life of America documentary, which premiered at Tribeca in 2019 and is now on PBS, hired her to capture a prominently featured emotional Alabama story. After a successful festival run, The Third Saturday in October , a feature film throwback Southern 70s slasher film that Lauren produced and Jay Burleson directed, got a distribution deal through Dark Sky Films and is now on a theatrical run and is available for rent and purchase online. Lauren’s most recent narrative short film, “Blossoming”, that she wrote and directed, traveled to Sydfest in Australia in 2022. Her directorial debut feature narrative film, Ugly Sweater, was shot in Boston, MA in February of 2023, and is now in post-production. In 2020, Lauren co-founded Purple Magnet Productions , a women-owned production company that is continuously committed to supporting a more inclusive and geographically expansive industry by collaborating with a variety of emerging storytellers and talented artists all over the world. PMP has created over a dozen projects so far, including music videos, commercials, and feature films.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Entertainment and Media Studies"
+  },
+  {
+   "name": "Susan Noh",
+   "title": "Assistant Professor, Entertainment and Media Studies",
+   "rank": "Assistant Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/noh/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2025/09/Faculty_NohSusan-scaled.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Susan Noh teaches entertainment media coureses in the Department of Entertainment and Media Studies. Her research foci including global media, digital platforms and the ways in which marginalized communities use digital media to create spaces of belonging. Education Ph.D., Media and Cultural Studies, University of Wisconsin-Madison M.A., Communication, Culture, and Technology, Georgetown University B.A., English Literature, University of California Berkeley Teaching Entertainment Media Analysis, International Entertainment Media, Television Histories Research Interests and Activities Susan Noh is an assistant professor of Entertainment and Media Studies at the University of Georgia. Her research interests broadly revolve around global media, digital platforms, and the ways in which marginalized communities use the affordances of the digital in order to foster activist-oriented communities and spaces of belonging. Her current research project is focused on how global streaming services, such as Netflix, Crunchyroll, and Amazon Prime, are influencing the production practices of the Japanese anime industry, as well as how their intermediation is affecting consumption practices of global media more generally within the United States. Her work has been published in Television and New Media , the International Journal of Cultural Studies , Digital Humanities Quarterly , and more. Experience Previously, Noh was an Assistant Professor of Communications and Film and Media Studies at Oglethorpe University. Her experience has informed an inclusive pedagogical approach.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Entertainment and Media Studies"
+  },
+  {
+   "name": "Glen Nowak",
+   "title": "Jim Kennedy New Media Professor; Associate Dean for Research and Graduate Studies; Co-Director of Center for Health & Risk Communication; Professor, Advertising & Public Relations",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/glen-nowak/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2024/03/faculty_GlenNowak.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Nowak is responsible for developing and managing the College’s new Center for Health and Risk Communication, which seeks to foster an interdisciplinary approach to health and risk-related Communication projects, including interventions, campaigns, messaging and messages, news media and provider-patient communication. Education Dr. Nowak received his B.S. in 1982 from the University of Wisconsin-Milwaukee, with majors in both economics and communications. He continued his studies at the University of Wisconsin-Madison, where he subsequently earned an M.A. degree in journalism (1987) and a Ph.D. in the field of mass communications (1990). Experience Glen Nowak has been the associate dean of research and graduate studies since August 2021. He is a professor of advertising and public relations and director of the Grady College's Center for Health and Risk Communication. Prior to joining the Grady faculty in January 2013, he worked 14 years at the Centers for Disease Control and Prevention. He spent six years as director of media relations at CDC and six years as communications director for CDC's National Immunization Program. He has experience in managing and implementing health and risk communications programs, media relations, health information campaigns and social marketing. Prior to joining CDC in January 1999, Dr. Nowak was an associate professor of advertising and communication at the Grady College of Journalism and Mass Communication at the University of Georgia. At Georgia, Dr. Nowak taught undergraduate and graduate courses in principles of advertising, communication and advertising research, communication and advertising management, social marketing, and health communications. In the course of his career, Dr. Nowak has authored or co-authored a number of peer-reviewed journal articles on communications practices, social marketing, and health communications, and conducted numerous workshops and trainings on health communication, social marketing, risk communication and media relations.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "Jonathan Peters",
+   "title": "Associate Dean for Academic Affairs, Carolyn McKenzie and Don E. Carter Chair for Excellence in Journalism, Professor, Journalism",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/peters/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2023/08/JonathanPeters_0001-copy.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "ABOUT Dr. Jonathan Peters is the associate dean for academic affairs and the Carolyn McKenzie and Don E. Carter Chair for Excellence in Journalism. He holds the rank of professor and also has a faculty appointment in the School of Law. He teaches and researches media law and policy, and he is an affiliate scholar of the Center for Information, Technology, and Public Life at the University of North Carolina at Chapel Hill. He is currently serving a four-year term as a member of the Panel of Experts on Freedom of Assembly and Association within the Organization for Security and Co-operation in Europe and its Office for Democratic Institutions and Human Rights, based in Vienna and Warsaw, respectively. EDUCATION Ph.D., Journalism, University of Missouri J.D., Ohio State University B.S., Journalism, Ohio University RESEARCH INTERESTS AND ACTIVITIES Dr. Peters researches media law and policy, and most of his work explores how technological and political forces affect media law frameworks and how media law principles evolve in response to changes in news and social media. To those ends, Dr. Peters has published articles in a variety of leading journals, including the Berkeley Technology Law Journal, the Harvard Law and Policy Review, the Vanderbilt Journal of Entertainment and Technology Law, the First Amendment Law Review, and the Federal Communications Law Journal. He is a coauthor of The Law of Public Communication, a textbook used at more than 100 colleges and universities in the United States and abroad. In addition, Dr. Peters does international and comparative research in media law and policy. He is the author of encyclopedia articles about global free expression and European press regulation, and he has completed projects on media freedom for the Organization for Security and Co-operation in Europe, the Office for Democratic Institutions and Human Rights, the European Center for Not-for-Profit Law, and the International News Safety Institute. He has collaborated with civil society organizations worldwide to support the work of the U.N. Human Rights Committee, and he has been a consultant on media freedom for the U.N. Development Programme and the U.S. Agency for International Development. TEACHING SPECIALTIES Dr. Peters is a recipient of UGA's Russell Award for Excellence in Undergraduate Teaching, given each year to three faculty members across the university, and he has been recognized as the Department of Journalism's Teacher of the Year and as a UGA",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Journalism"
+  },
+  {
+   "name": "Ivanka Pjesivac",
+   "title": "Head, Department of Journalism; Director, James M. Cox Jr. Center for International Mass Communication Training and Research; Professor, Journalism",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/ivanka-pjesivac/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2021/02/IvankaPjesivac_Best-copy-2.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Pjesivac teaches undergraduate and graduate courses in digital storytelling, public opinion, and international communication. She studies international and cross-cultural communication, media trust and credibility, and effects of digital news content. She is director of the James M. Cox Center for International Mass Communication Training and Research. Education Ph.D., Communication and Information, University of Tennessee, Knoxville M.S., Communication and Information: Journalism and Electronic Media, University of Tennessee, Knoxville Bachelor’s Degree, French Language and Literature, University of Belgrade, Serbia Research Interests and Activities Dr. Pjesivac’s research focuses on international and cross-cultural communication, media trust and credibility, and effects of digital news content. Within the realm of international and cross-cultural studies, Dr. Pjesivac has mainly studied the roles of cultural contexts in journalism processes, as well as the relationship between political regimes and media systems. Her second research area has examined the factors and processes that affect news credibility and trust across media platforms and national borders. In the area of digital news processing, she has combined design and cognitive variables and tested their impact on information recall, comprehension, and visual attention to information graphics used in news. Recent research efforts include emotional and cognitive effects of immersive journalism, as well as the effects of media messages used in health and science communication. Dr. Pjesivac has presented her research at national and international conferences, winning the awards for top papers from ICA, AEJMC, and BEA. In 2017, with her co-author Grace Ahn, she was named AEJMC Emerging Scholar for their study on immersive journalism. In 2018, Dr. Pjesivac received a fellowship from the Willson Center for Humanities and Arts at the University of Georgia for participation in Berlin Seminar in Transnational European Studies. Her research was published or accepted for publication in journals such as Journalism: Theory, practice, and criticism , Journalism and Mass Communication Quarterly , Mass Communication and Society , Journalism Studies , Journal of Broadcasting and Electronic Media , Health Communication , Journalism and Mass Communication Educator , Journalism Practice , Newspaper Research Journal , International Communication Gazette , The Journal of International Communication , Visual",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Journalism"
+  },
+  {
+   "name": "Lance Porter",
+   "title": "Karen W. and Daniel J. King Distinguished Professor in Advertising, Advertising & Public Relations",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/porter/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2024/10/faculty_LancePorter2024.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Lance Porter’s teaching specialties focus on creative brand strategies in a rapidly evolving digital and social media landscape. Education Ph.D., Mass Communication/New Media, University of Georgia M.A., Mass Communication/Public Relations, University of Georgia BBA, Business, Mississippi State University Research Interests and Activities Dr. Porter is the Karen W. and Daniel J. King Distinguished Professor in Advertising. Prior to joining the faculty at Grady, Porter spent twenty years at Louisiana State University, where he founded the Social Media Analysis and Creation (SMAC) Lab. He is the author and editor of several books and numerous journal articles. His research focuses on emerging media, brand activism and power. Teaching Specialties Dr. Porter teaches Digital and Social Communication Strategies, Advertising and Communication Management. Experience Porter has focused on digital media since 1995, when he built his first commercial website. As executive director of digital marketing for Disney’s film studio and later on retainer as a creative consultant, he has worked on hundreds of successful film-marketing campaigns. He continues to consult with international clients to evaluate digital creative strategies. Past clients include Disney, Visa, Warner Bros., DreamWorks and the Louisiana Department of Health.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "Glenna Read",
+   "title": "Associate Professor of Advertising, Advertising & Public Relations",
+   "rank": "Associate Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/read/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2025/09/faculty_ReadGlenna2025Alt-scaled.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Read teaches Media Strategy and Insights and Analytics. Research interests are media psychology/effects, identity and representation, and psychophysiology. Education: Ph.D., Mass Communication, Indiana University M.A., Experimental Psychology, Appalachian State University B.A., Psychology, Georgia State University Research interests and activities: Dr. Read is the director of the Brain, Body, and Media (BBAM) Lab. Her research blends perspectives in communication, social psychology, psychophysiology, and neuroscience to investigate information processing in media as it applies to social contexts. Her main avenue of research examines aspects of information processing and cognition/emotion associated with the perception that underlies and effects that result from exposure to mediated representation of identity (e.g., models, spokespeople). Her other projects build upon this research focus by using what we know about information processing in mediated environments to contribute to prosocial outcomes, including technological and messaging interventions to improve health and well-being. Teaching specialties: Her teaching specialties include media strategy, research methods, media psychology/psychophysiology, advertising and society, and consumer neuroscience.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "Welch Suggs",
+   "title": "Associate Professor, Journalism",
+   "rank": "Associate Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/welch-suggs/",
+   "personal_url": "https://welchsuggs.substack.com/",
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2017/03/WelchSuggs_Best-copy.png",
+   "google_scholar_url": "https://scholar.google.com/citations?user=EamflfIAAAAJ&hl=en",
+   "research_areas": [],
+   "bio": "About: David Welch Suggs, Jr. is associate director of the Carmical Sports Media Institute and an associate professor of journalism. He has had previous careers as a journalist, as a policy advocate and as a university administrator. Suggs reported for Street & Smith’s Sports Business Journal and The Chronicle of Higher Education, among other publications before coming to UGA, where he earned his Ph.D. in higher education policy from the Institute of Higher Education . Suggs served as associate director for the Knight Commission on Intercollegiate Athletics and assistant to UGA President Michael F. Adams. Suggs moved to the Grady College faculty in 2011, and has worked with Vicki Michaelis, the John H. Carmical Chair of Sports Journalism and Society , to develop the sports media undergraduate certificate . In 2016, Suggs was co-PI on an interdisciplinary UGA team that was awarded a $400,000 grant in the Mind Matters Challenge , sponsored by the U.S. Department of Defense and the NCAA. He is the author of “ A Place on the Team: The Triumph and Tragedy of Title IX ” (Princeton University Press, 2005). His other research interests include college athletics policy, how members of the sports media work with sources, and how students acquire “soft skills” for the workplace. Education Ph.D., Higher Education Policy, University of Georgia Graduate coursework, University of Missouri School of Journalism B.A., Philosophy, Rhodes College Research Interests and Activities The intersection of education, media, policy, and sport, with a particular focus on college sports and women's sports. Teaching Specialties Editing and writing. Also helping organize student activities to provide experiential learning in sports reporting. Experience Welch Suggs joined the Grady College faculty in July 2011 after careers as a journalist, as a policy advocate, and as a university administrator. After internships at The Atlanta Journal-Constitution, the Atlanta Business Chronicle, and the Memphis Business Journal, Suggs began his journalism career at The Kansas City Star, covering the headquarters of the National Collegiate Athletic Association and its decision to relocate from Overland Park, Kan., to Indianapolis. He covered sports and energy for the Dallas Business Journal and was part of the original reporting staff at the launch of Street & Smith's SportsBusiness Journal, where he covered stadium and arena issues, college sports, and women's sports. The Chronicle of Higher Education",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Journalism"
+  },
+  {
+   "name": "Ruoyu Sun",
+   "title": "Assistant Professor, Advertising & Public Relations",
+   "rank": "Assistant Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/sun-2/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/webp-express/webp-images/uploads/2024/03/faculty_RuoyuSun.png.webp",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Sun teaches Public Relations Management and Crisis Communication. Her research specialization focuses on corporate communication, stakeholder engagement, and relationship management. Education Ph.D. in Communication, University of Miami M.A. in Journalism and Mass Communication, University of Georgia B.A. in International Journalism, BNU-HKBU United International College (UIC), Zhuhai, China Research Interests and Activities Dr. Sun’s research examines the role of public relations and corporate communication in establishing corporate identity, cultivating profound relationships with various stakeholders, and promoting positive social change. Specifically, she has investigated topics such as corporate social responsibility and advocacy, organizational communication during crisis-induced change, the sharing of information/misinformation on social media, and most recently, the use of artificial intelligence in marketing communication. Her work has been published in Public Relations Review , Science Communication , Telematics and Informatics , International Journal of Business Communication , Journal of Marketing Communications , among others. Teaching Specialties Dr. Sun’s teaching areas include public relations management, campaigns, research, and crisis communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "LaTonya Taylor",
+   "title": "Assistant Professor, Advertising & Public Relations",
+   "rank": "Assistant Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/taylor-latonya/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2026/08/Faculty_TaylorLaTonya.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. LaTonya Taylor’s research interests lie at the intersection of topics including public relations, rhetoric, PR history, the Civil Rights Movement, public memory, higher education, crisis communication, and the practitioner experience. Education Ph.D., Communication & Information Sciences, The University of Alabama M.A., Writing, Rhetoric & Discourse, DePaul University B.A., Mass Communication/English Writing, Taylor University Research Interests and Activities Dr. Taylor is a qualitative researcher and critical rhetorical scholar. Her research is published in Public Relations Review, Journal of Contingencies and Crisis Management, Communication and Critical/Cultural Studies, Howard Journal of Communications, Public Relations Journal, and Journal of Public Relations Education. Experience Dr. Taylor’s professional background inspires much of her public relations research. Her industry experience includes more than a decade in higher education public relations, during which she won an award from the Council for Advancement and Support of Education (CASE) and was recognized as a 2019 Top Woman in Public Relations by PR News . Prior to that, she wrote and edited for several publications, writing news articles, feature stories, and reviews that have been cited in scholarly treatments of various topics.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "Denetra Walker",
+   "title": "Assistant Professor, Journalism",
+   "rank": "Assistant Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/walker-2/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2022/09/DenetraWalker20220823_0013-copy.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About Dr. Walker's teaching specialties focus on how social justice and race issues are covered in journalism. Education Ph.D., Mass Communication, University of South Carolina M.A., Mass Communication/Journalism, University of South Carolina B.S., Radio/Television, Sam Houston State University Teaching Race and Media, Qualitative Methods, Social Justice Journalism, Multiplatform Journalism, Theory, Writing for Broadcast, Digital Research Interests and Activities Dr. Walker is an award-winning television news journalist and journalism scholar who focuses on race and media. Mainly through qualitative methods, her work captures the experiences of marginalized and underrepresented journalists in the digital age, social justice, activism, police shootings, maternal health, and has a growing interest in racialized mis/disinformation. Her dissertation focuses on the experiences of Black journalists and their connections with the Black community. She is passionate about addressing issues of Diversity, Equity, and Inclusion (DEI) in college classrooms and newsrooms. She has presented research at regional and national AEJMC conferences which include 8 top paper awards. Her research is published in Journalism Practice , Social Media + Society , Journalism, Cultural Studies<-->Critical Methodologies, and Journal of Sports Media. Experience Previously, Walker worked in several behind-the-scenes roles in television news markets including Augusta, GA; New York, NY; Houston, TX; Las Vegas, NV; Columbia, SC—covering some of the nation's biggest stories. Walker’s experience working in and managing a T.V. newsroom inform her teaching and academic research. Awards & Fellowships Southern Regional Education Board (SREB) Doctoral Fellow, 2018-2022 Grace Jordan McFadden Professors Program, 2018-2022 Breakthrough Graduate Scholar, University of South Carolina, 2021 PhDigital Doctoral Bootcamp, 2020 Dr. Paula Poindexter Student Research Grant, 2020",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Journalism"
+  },
+  {
+   "name": "Carla White",
+   "title": "Assistant Professor, Advertising & Public Relations",
+   "rank": "Assistant Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/white-carla/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2026/08/faculty_CarlaWhite.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Carla White specializes in research focused on internal and leadership communication, employee engagement, and organization–stakeholder relationships. She is particularly interested in how communication shapes employee experiences in contemporary work environments. Education Ph.D., Communication and Information; University of Tennessee, Knoxville M.A., Communication, Technology and Society; Clemson University B.S., Communication, William Woods University Teaching Specialties Dr. Carla White teaches courses in public relations management and public relations ethics and culture.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  },
+  {
+   "name": "Keith Wilson",
+   "title": "Associate Professor, Entertainment and Media Studies",
+   "rank": "Associate Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/wilson/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2021/09/KeithWilson20210902_0005-copy-1.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "ABOUT Keith Wilson is a producer, director and artist whose films have screened internationally including Sundance, the Berlinale, the U.S. National Gallery of Art, documenta14 and the Museum of Modern Art. He is the producer of Joonam ( Sundance 2023) and I Didn’t See You There (2022), which won the Directing Award for U.S. Documentary at Sundance, the Grand Jury Prize at Full Frame, and a Film Independent Spirit Award. His live documentary performance Moore for Sale (2023) has appeared at film festivals, museums, and conferences internationally including the Museum of the Moving Image, the International Documentary Festival, Amsterdam (IDFA) and the International Documentary Association's Getting Real conference. Keith's projects have been supported by the Ford Foundation, the Sundance Institute, NBC News Studios and California Humanities. He is a member of the Academy of Motion Pictures Arts & Sciences and he has received fellowships from the Sundance Institute, the Bay Area Video Coalition, Points North Institute and Yaddo. EDUCATION MFA, Film Production, University of Texas-Austin BA, History and Sociology, Texas Christian University TEACHING SPECIALTIES Wilson teaches introduction to production and cinematography courses. AWARDS & FELLOWSHIPS 2021 Sundance Institute Documentary Film Program Production Grant 2021 Sundance Institute Creative Producing Fellowship 2021 CNN & Points North Institute American Stories Grant 2021 Points North Institute Fellowship 2020 California Humanities Documentary Project Grant 2020 NBCUniversal Original Storytellers Fellowship 2020 Doc Society New Perspectives Fund Development Grant, Doc Society 2019 Points North Institute Fellowship 2018 Monroe Research Fellowship, New Orleans Center for the Gulf South, Tulane University 2018 National Mediamaker Fellowship, Bay Area Video Coalition 2015 Canon Filmmaker Award, Film Independent 2014 SFFILM Kennith Ranin Filmmaking Grant",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Entertainment and Media Studies"
+  },
+  {
+   "name": "Bartosz Wojdynski",
+   "title": "Jim Kennedy New Media Professor; Director of the Digital Media Attention and Cognition (DMAC) Lab; Professor, Journalism",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/bartosz-wojdynski/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2019/09/BartWojdynski201605-copy-2.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Dr. Wojdynski teaches courses in multimedia journalism, interactive media, and psychological effects of communication technology. He researches the effects of design and presentation characteristics in digital media on attention, selection, cognition, and attitudes. He directs the Digital Media Attention and Cognition Lab. Education Ph.D., Mass Communication, University of North Carolina at Chapel Hill M.A., Mass Communication, University of North Carolina at Chapel Hill B.A., American Studies and English, University of North Carolina at Chapel Hill Research Interests and Activities Dr. Wojdynski’s research focuses on the role technological and design variables play in how users choose and process information in digital media. He is particularly interested in the role that interactivity and navigability play in influencing attention to, elaboration upon, and retention of content. His research consists primarily of experimental studies involving websites and web-based news delivered on computers and mobile devices. To better understand what happens in the course of media use, Wojdynski’s research uses eye-tracking and response-time measures in addition to questionnaire-based responses. Recently, he has examined effects of web navigability on content selection and recall, and the influence of exemplars in non-linear interactive news stories on risk perceptions. Wojdynski has presented his research at a number of national and international conferences, and his research has been published or accepted in journals including the International Journal of Advertising, Journal of Media Psychology, Cyberpsychology, Behavior & Social Networking, Journal of the Association for Information Science and Technology, and Newspaper Research Journal, among others. Teaching Specialties Dr. Wojdynski’s teaching specialties include multimedia journalism, interactive design and programming, data visualization, psychological effects of mass media, and quantitative research methods. Experience Prior to receiving his Ph.D., Dr. Wojdynski worked in print and online news media, and developing interactive health and education web content, including projects funded by NASA and the National Institute on Drug Abuse. He has also served as a usability consultant for interactive online media.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Journalism"
+  },
+  {
+   "name": "Hye Jin Yoon",
+   "title": "Jim Kennedy New Media Professor; Professor, Advertising, Advertising & Public Relations",
+   "rank": "Professor",
+   "department": "Grady College of Journalism and Mass Communication",
+   "profile_url": "https://grady.uga.edu/faculty/yoon/",
+   "personal_url": null,
+   "photo_url": "https://grady.uga.edu/wp-content/uploads/2024/03/faculty_HyeJinYoon.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "About: Hye Jin Yoon is an Associate Professor in the Department of Advertising and Public Relations at the University of Georgia. Her research expertise is in humor advertising and humor psychology, with growing interest in sustainable marketing and advertising. Education Ph.D., Mass Communication, University of Georgia M.A., Mass Communication, University of Georgia B.A., Mass Communication, Korea University Research Interests and Activities Yoon's primary research interests are humor effects and schema incongruity processing in advertising. Other research interests include health and environmental issues in advertising and their impact on consumers and society, digital and social media advertising, and network and sentiment analysis. Her work has been published in the Journal of Advertising , Journal of Business Research, International Journal of Advertising , Journal of Health Communication , Health Communication , and Journal of Current Issues & Research in Advertising , among others. Teaching Specialties Dr. Yoon's teaching interests including media planning, digital media, international advertising, consumer psychology, and quantitative research methods. Experience Prior to coming to UGA, Dr. Yoon has worked at SMU as a professor for nine years.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Grady sub-department: Advertising & Public Relations"
+  }
+ ]
+}

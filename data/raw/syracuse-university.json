@@ -1,0 +1,1472 @@
+{
+ "university": "Syracuse University",
+ "slug": "syracuse-university",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "S.I. Newhouse School of Public Communications",
+   "school": null,
+   "directory_url": "https://newhouse.syracuse.edu/directory/",
+   "phd_program_url": "https://newhouse.syracuse.edu/academics/media-studies-phd/",
+   "phd_program_name": "Media Studies Ph.D. (formerly Mass Communications Ph.D.)",
+   "notes": "Directory is JS-rendered with infinite scroll; roster built from the site's WordPress REST API (wp-json/wp/v2/people, 354 records) which backs the directory and profile pages, then each profile page was fetched to cross-check. Rank taken from the position titles shown on the directory/profile. Excluded: professors of practice, teaching professors, research professors, advising faculty, visiting, adjuncts, emeriti, and 'Associated' faculty whose home is the Maxwell School (public diplomacy program)."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Anthony Adornato",
+   "title": "Chair, Broadcast and Digital Journalism; Associate Professor, Broadcast and Digital Journalism",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/adornato-anthony/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2022/08/Anthony-Adornato.jpeg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=hMDSJuEAAAAJ&hl=en",
+   "research_areas": [],
+   "bio": "Anthony C. Adornato joined the broadcast and digital journalism department in 2022 as an associate professor and department chair. His teaching and research focus on the role of mobile and social media in journalism. A dual citizen of the U.S. and Italy, he also teaches as a visiting scholar at IULM University in Milan. Prior to joining Syracuse University, Adornato was an associate professor of journalism at Ithaca College. He also previously taught as an adjunct professor at the Newhouse School and Utica College. Before transitioning to academia, Adornato was a television anchor, reporter, and producer. Adornato’s scholarship focuses on journalists’ use of social media and mobile devices. Specifically, he investigates the impact of social media on the responsibilities of journalists; news organizations’ use of social media; social media policies in newsrooms; and how user-generated content influences editorial decisions. In 2020, Adornato was named a Fulbright Scholar in recognition of his international expertise on the topic. The third edition of his book “ Mobile and Social Media Journalism: A Practical Guide for Multimedia Journalism ” (Routledge) was published in 2025. Adornato’s research has been published in academic journals including Electronic News and The Journal of Intellectual Property and Entertainment Law. He regularly presents at international and national journalism conferences.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Claire Bai",
+   "title": "Assistant Professor, Advertising",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/bai-claire/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2025/01/headshot-scaled.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Na Bai (Claire Bai) (she/her/hers) joined the Newhouse School in January 2025 as a tenure-track assistant professor in the advertising department. She will be teaching courses in advertising research and planning. Prior to joining Syracuse University, Bai was a campaign manager at TikTok, where she led high-impact campaigns for TikTok Shop, achieving record-breaking results for local businesses and global brands. Before TikTok, she served as associate director of data and media science at Known, overseeing innovative marketing solutions and optimizing multimillion-dollar media spends. Earlier in her career, she held key roles at Initiative and ViacomCBS, driving consumer intelligence and digital marketing strategies. Bai’s work has been recognized with awards for her innovative contributions to advertising and marketing science. She has also been invited to speak at institutions like New York University and global events such as the APEC Women Connect competition. Additionally, she founded Bonjour Girls, a nonprofit organization focused on empowering women and promoting professional development. She holds a Ph.D. in data science from Harrisburg University, where her research focused on the integration of AI into business marketing. She also earned a master’s degree in integrated marketing from New York University.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "G Douglas Barrett",
+   "title": "Assistant Professor, Television, Radio and Film",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/barrett-g/",
+   "personal_url": null,
+   "photo_url": "https://newhouse.syracuse.edu/wp-content/uploads/2023/08/g-doug-barrett.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "G Douglas Barrett is an assistant professor in the television, radio and film department. He teaches sound/media production and graduate courses in media studies. Barrett works across music, art and media as a scholar and artist. His research examines how contemporary art and postwar experimentalism address social and philosophical problems. It considers the critique of political economy, societal impacts of science and technology, and structures of race, gender, and sexuality through critical and interpretive methods from the humanities. Barrett's work is situated in media theory, musicology, and sound studies, and engages with critical theory and art history. Barrett is the author of two books: “ Experimenting the Human: Art, Music, and the Contemporary Posthuman ” (University of Chicago Press, 2023) and “ After Sound: Toward a Critical Music ” (Bloomsbury, 2016). His research has appeared in international peer-reviewed journals such as Cultural Critique, Discourse, Postmodern Culture, Mosaic, Twentieth-Century Music, Contemporary Music Review, and Technoetic Arts. He has presented his work at conferences hosted by the American Musicological Society (AMS), the College Art Association (CAA), the Association for the Study of the Arts of the Present (ASAP), and AI Music Studies (AIMS). Barrett co-leads Posthumanities: Arts and Sciences, a focus group in SU’s BioInspired Institute that supports collaborations across the arts, humanities, and sciences.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jennifer Billinson",
+   "title": "Assistant Professor, Bandier Program for Recording and Entertainment Industries",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/billinson-jennifer/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2025/08/J-Billinson-web.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Jennifer Billinson (she/her/hers) joined the Newhouse School in fall 2025 as a assistant professor, teaching courses in the Bandier Program for Recording and Entertainment Industries. Prior to joining Syracuse University, Billinson was an assistant professor at Nazareth University and the director of the communications and media program. She taught the Introduction to Media Industries and Oral Communication. Billinson’s research looks at digital culture and the connection between popular music and emotion, as well as the use of popular music in response to disaster and tragedy. Her other areas of expertise include media representation and the history of popular music in the 20th century. Billinson has demonstrated a sustained and impactful research trajectory through a series of competitive fellowships and scholarly projects. Her doctoral dissertation and master’s thesis both explored the intersection of popular music and collective trauma, indicating early and consistent engagement with culturally resonant research themes. Her scholarly output includes peer-reviewed publications in journals such as Feminist Media Studies and Journal of Popular Music Studies. Billinson has received multiple honors recognizing her excellence in teaching, scholarship and public engagement. She was a finalist for the AEJMC Great Ideas for Teaching (GIFT) Award in 2017 for her innovative use of Snapchat in storytelling pedagogy.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Nick Bowman",
+   "title": "Director, Doctoral Program; Director, Media Studies; Professor, Communications",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/bowman-nick/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2022/08/newhouse-school-directory-nick-bowman-2022.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Nick Bowman teaches courses on the user experience of immersive and interactive media and advises student research projects. Prior to joining the Newhouse School, Bowman was a tenured associate professor at two other research institutions: Texas Tech University from 2019-22 and West Virginia University form 2011-19. At both institutions, he was chiefly responsible for developing coursework focused on media psychology and the uses and effects of emerging media, such as social media, video games and extended reality technologies. He also holds ongoing faculty appointments at Universidad Panamericana Guadalajara in Mexico, The Games Institute at the University of Waterloo in Canada and National Chengchi University (國立政治大學) in Taiwan. Bowman’s research is broadly focused on understanding cognitive, emotional, physical and social demands of interactive media content. This work considers the functional role of media content, especially entertainment media, and investigates how and why we integrate media into our daily lives—from serving as spaces for informal learning to providing short-term psychological well-being and mood management. He has published more than 160 peer-reviewed manuscripts and authored or contributed to more than 250 conference presentations, along with several dozen book chapters and other writings.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Harriet Brown",
+   "title": "Professor, Magazine, News and Digital Journalism; Graduate Program Director, Magazine, News and Digital Journalism; Co-director, Fashion and Beauty Communications Milestone",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/brown-harriet/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/harriet-brown-saved-for-web1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital Journalism",
+    "Editing in Journalism",
+    "Health Communications",
+    "Health Journalism",
+    "Immersive Journalism",
+    "Magazine Journalism",
+    "Media and Diversity",
+    "Personal Essay Writing"
+   ],
+   "bio": "Harriet Brown has nearly 30 years of experience as both a writer and editor in magazines. She's worked on two startup staffs—Wigwag and American Girl—as well as at magazines like Redbook and New York Woman, and writes for many nationals, including The New York Times Magazine, O Magazine, Vogue, Psychology Today, Prevention and Parenting. Find her recent work in The New York Times science section, where she covers issues like food, eating and body image. She's written op-eds for The New York Times and Chicago Tribune, and has read several of her essays on NPR. Brown’s new book, Shadow Daughter: A Memoir of Estrangement , was published in November of 2018. Her best-known book is Brave Girl Eating: A Family's Struggle with Anorexia , a work of both memoir and science journalism based on a feature that ran in The New York Times Magazine; the book won a \"Books for a Better Life\" award in 2011. Brown has edited two anthologies, Feed Me!: Writers Dish About Food, Eating, Weight, and Body Image and Mr. Wrong: Real-Life Stories About the Men We Used to Love . Her other books include The Good-bye Window: A Year in the Life of a Day-Care Center and Madison Walks . Brown helped organize Syracuse University's first-ever symposium on body image in 2010. In 2011, she was awarded the John F. Murray Award for Strategic Communication for the Public Good by the University of Iowa Journalism School. She speaks on campuses and at conferences around the country.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Nina Iacono Brown",
+   "title": "Associate Professor, Communications",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/brown-nina/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/Nina-Brown-2021.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Communications Law",
+    "Constitutional Law",
+    "Entertainment Law",
+    "First Amendment Law",
+    "Intellectual Property",
+    "Internet Law",
+    "Media Law",
+    "Social Media"
+   ],
+   "bio": "Nina Brown began her career as a copywriter at a small advertising agency, and eventually held roles as the director of communications for a start-up technology company and the associate vice president of brand development at a Fortune 500 company. Brown then attended Cornell Law School, where she focused her coursework and scholarship on First Amendment and intellectual property law. After several years practicing law, Brown joined the Newhouse faculty to teach courses in communications law. Brown focuses her research on the intersection of media law and technology. She is a graduate of the Newhouse School.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Makana Chock",
+   "title": "Professor, Communications; Director, Extended Reality Lab",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/chock-makana/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/chock-m1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "360 Video",
+    "Augmented and Mixed Reality",
+    "Communications Research",
+    "Communications Theory",
+    "Digital Engagement",
+    "Emerging Media",
+    "Experimental Method (Research)",
+    "Health Communications",
+    "Health Journalism",
+    "Media and Diversity",
+    "Media and Education",
+    "Media and Human Rights",
+    "Media and Identity Construction",
+    "Media and Sex",
+    "Media Psychology",
+    "Persuasive Communications",
+    "Risk Communications",
+    "Social and Interactive Video",
+    "Social Media Effects",
+    "Statistics and Data Mining",
+    "Virtual Reality"
+   ],
+   "bio": "Makana Chock is the David J. Levidow Endowed Professor and has conducted internationally recognized research in the area of media psychology. She studies the ways in which people process and respond to persuasive messages in mass media, social media and extended reality (virtual, augmented, and mixed reality) contexts. Much of her research is in the areas of risk communication and health information and has used to help design and implement educational campaigns concerning HIV-awareness, drug-use, binge-drinking and environmental risk campaigns. She has also examined the ways that media content and social and psychological factors apply to news media use. She has published in such journals as Communication Research, Media Psychology, Computers in Human Behavior , Health Communication, the Journal of Broadcasting and Electronic Media, Telematics and Informatics, Computers in Human Behavior, Cyberpsychology, Behavior and Social Networking, Journal of Health Communication,the Newspaper Research Journal and the Journal of Computer Mediated Communication. She also presents papers regularly and has won top paper awards at the annual conferences of the International Communication Association, the National Communication Association and the Association for Education in Journalism and Mass Communication (AEJMC). She teaches courses in research methods, communication theory, extended reality research, media and diversity and media and society.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Keonte Coleman",
+   "title": "Director, Assessment and Program Review; Assistant Professor, Broadcast and Digital Journalism",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/coleman-keonte/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2022/08/newhouse-school-directory-keonte-coleman-2022-2.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Keonte Coleman teaches courses in broadcast journalism, media and society, and sports media at the Newhouse School. Before joining Syracuse University, Coleman served as an assistant professor in the School of Journalism and Strategic Media at Middle Tennessee State University (MTSU), where he taught a range of journalism and media studies courses. He previously held leadership roles at Bennett College, including dean of the Professional Studies Division, chair of the Journalism and Media Studies Department and assistant professor. His professional background includes producing local television news for Hearst Television at WXII-TV in Winston-Salem, North Carolina, and WAPT-TV in Jackson, Mississippi. Coleman's scholarly interests explore the intersections of journalism, leadership, representation in media, sports communication and higher education. He is co-author of “Complete Guide to Television, Field, and Digital Producing,” a comprehensive textbook on news production. He is the creator and host of the YouTube podcast “Breaking News with Media Leaders,” which provides insights for students and early-career professionals through conversations with leaders in journalism and academia. His “Student Media Analysis Journalism Bootcamp” offers training in evaluating newsroom coverage and developing stronger reporting practices across student-led media. Coleman has received faculty of the year honors at both MTSU and Bennett College.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Joshua P. Darr",
+   "title": "Associate Professor, Communications",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/darr-joshua/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2023/08/joshua-darr-web.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Joshua P. Darr (he/his) joined the Newhouse School in Fall 2023 as an associate professor, teaching classes in political communication. Prior to joining Syracuse University, Darr was the associate dean of research and strategic initiatives and associate professor at the Manship School of Mass Communication at Louisiana State University from 2015-23, where he taught classes in political communication research, media and policy and campaigns and elections. Professor Darr’s research focuses on campaign strategy, political knowledge, partisan polarization and local news. In their 2021 book, \"Home Style Opinion: How Local Newspapers Can Slow Polarization\" (Cambridge University Press, 2021), Darr and co-authors Matthew Hitt and Johanna Dunaway studied what happened when a local newspaper dropped national opinion coverage, finding less polarization and more discussion of state and local issues in the resulting space. In 2022, Darr received the prestigious Andrew Carnegie Fellowship for his project, “Partnering with Local News to Reduce Polarization,” which investigates the ways that newsrooms can earn back trust and reduce political polarization through their coverage of local and national politics.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Beth Egan",
+   "title": "Associate Professor, Advertising; Co-director, Weiss Center",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/egan-beth/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/Beth-Egan.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Advertising Education",
+    "Big Data",
+    "Corporate Branding/Marketing",
+    "Digital Advertising",
+    "Digital Engagement",
+    "Economics of Advertising",
+    "Emerging Media",
+    "Interactive Advertising",
+    "Interactive Branding/Marketing",
+    "Internet Advertising",
+    "Media History",
+    "Media Planning and Sales",
+    "Persuasive Communications",
+    "Q Methodology (Research)",
+    "Social Media",
+    "Women in Media",
+    "YouTube"
+   ],
+   "bio": "Beth Donnelly Egan is an associate professor of advertising at Syracuse University’s S.I. Newhouse School of Public Communications. As a 25-year veteran of the advertising media industry, she leads the media planning and data and analytics curricula. By forming partnerships with leading companies in the industry, such as The Trade Desk, Amazon and Google, the students earn valuable industry certifications to help launch their careers. Egan’s research interests include applying machine learning techniques to develop predictive models of television audience retention. These models can be used to optimize ad curation and provide television networks with tools to maximize their revenue models. She is also working on employing psychophysiological research techniques to understand how people perceive branded content implicitly. This research can help inform both the creation and placement of branded content. She is also the author of Media Planning Essentials, the first online, digital-first media planning courseware. Having led the strategic media planning for Coca Cola, AT&T Mobility, Kraft/Nabisco, Campbell's and L’Oreal Paris, Egan is skilled at providing strategic communications solutions built off of sound business analytics. Her solid understanding of the holistic business situation delivers creative, unique approaches to the marketplace. Egan is the co-director of the Weiss Center and co-chair of the IAB’s Inclusion Institute Community and Engagement committee.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Imraan Farukhi",
+   "title": "Director, Bandier Music Business Master’s Program; Director, Bandier Music Business Master’s Program; Associate Professor, Bandier Program for Recording and Entertainment Industries; Associate Professor, Television, Radio and Film",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/farukhi-imraan/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/farukhi_imraan1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Imraan Farukhi is an entertainment attorney for transactional matters in the motion picture, music, and new media industries. He has drafted and negotiated agreements for independent film productions, as well music production and distribution for major artists and music entities. He routinely advises on intellectual property and clearance matters. Before joining the Newhouse School faculty, Farukhi was an associate attorney in the entertainment practice of a national law firm, and also held positions at prominent boutique entertainment law firms in the New York City area. He also previously taught communications and media law at William Paterson University in Wayne, New Jersey. Farukhi has been featured as a panel speaker at industry events, including the 2015 and 2017 Garden State Film Festival, and 2017 New York City Drone Film Festival.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Joshua Foust",
+   "title": "Assistant Professor, Public Relations",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/foust-joshua/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2024/08/Screenshot-2024-08-19-at-10.15.54 AM.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Joshua Foust is a tenure-track assistant professor teaching classes in public relations practice and theory. Foust arrived at Syracuse from the University of Colorado Boulder, where he has taught social media strategy and public relations practice since 2020. His professional experience includes executive positions in nonprofit communications, a research fellowship at a national security think tank, speechwriting and management consulting. His research focuses on how governments use video games for strategic communication, in addition to projects about discourses of artificial intelligence and executive communication practices. He specializes in qualitative and critical approaches, from in-depth interviews to grounded theory and thematic analysis aimed at understanding the use of language, its influence on normative expectations, and the challenges of establishing shared meaning in contested spaces. He has published articles about gender and military Esports, gender-based work practices in the games industry, public sphere theory and executive communication practices. He also writes widely for popular audiences, discussing policy in publications focused on national security. He welcomes inquiries from PhD students interested in researching any of these areas. Foust is the co-editor of \"Public Relations in Times of Dissensus: Narratives, Artifacts, and the Challenges of Meaning \", published in 2026 by Bloomsbury.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ben Frahm",
+   "title": "Assistant Professor, Television, Radio and Film",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/frahm-ben/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/frahm_ben1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Ben Frahm joined the Newhouse School in fall 2023 as a tenure-track assistant professor in the television, radio and film program. He teaches classes in screenwriting and has been an assistant teaching professor at Syracuse since 2017. Prior to joining Syracuse University, Frahm was a visiting lecturer at Ithaca College from 2013-16. Prior to Ithaca College, he served as lecturer at New York Film Academy in 2012 and UCLA from 2010-2012. Ben Frahm began his professional career selling the script “Dr. Sensitive” to Universal Studios (with director Tom Shadyac attached) and serving as a story consultant on the critically acclaimed film “How to Train Your Dragon” for Dreamworks Animation, for which he was given a studio credit. Most recently he optioned a script, “48 Hours in Vegas,” to producer Bobby Cohen at Imagine Entertainment (Brian Grazer and Ron Howard’s company). The script later went on to garner the attention and formal attachment of Michael Jordan and his production company Heir Jordan Entertainment, led by Jeron Smith and son Jeffrey Jordan; as well as Kevin Hart and his producing partner Bryan Smiley at HartBeat Productions. Frahm has been commissioned to co-author his first book with Save the Cat! Press, the publishing company behind the #1 selling screenwriting book of all time—\"Save the Cat! The Last Book on Screenwriting You’ll Ever Need” by Blake Snyder .",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Aileen Gallagher",
+   "title": "Professor, Magazine, News and Digital Journalism; Associate Dean, Academic Affairs",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/gallagher-aileen/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/Aileen-Gallagher-web.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital Journalism",
+    "Editing in Journalism",
+    "Journalism Ethics",
+    "Magazine Journalism"
+   ],
+   "bio": "Gallagher joined the Newhouse faculty in 2010. Her research interests are digital magazines and journalism education, and she publishes and speaks regularly on these topics. A nationally recognized expert on the journalism industry, she has been interviewed by the New York Times, CNN, Marketplace, WWD, Bloomberg and the Associated Press, among others. At Newhouse, Gallagher is the associate dean for academic affairs. Previously, she chaired the magazine, news and digital journalism department for three years and collaborated with colleagues to create a new journalism B.S. degree. She continues to work as a freelance editor and writer for national publications, including The Washington Post, Slate, New York Magazine, Vulture, Cosmo and Bust. She is a former senior editor for New York Magazine , where she shared several National Magazine Awards with her colleagues, including General Excellence Online.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Keith Giglio",
+   "title": "Professor, Television, Radio and Film",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/giglio-keith/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/giglio-k_01.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Comedy Writing",
+    "Writing for Television",
+    "Writing for Video Game Narratives"
+   ],
+   "bio": "Keith Giglio, WGA, is a professional working screenwriter/producer who also is a professor. His produced credits include most recently \"Christmas Reservations\" and \"A Very Nutty Christmas\" for Hartbreak Films, written with his writing partner/wife, Juliet Aires Giglio. Previous credits include: \"A Cinderella Story\" (producer) and all the sequels; \"Pizza My Heart,\" \"Joshua,\" \"Tarzan.\" In 2011, after 20 years of living by the beach in L.A., Giglio came to Syracuse for the weather and to teach screenwriting and producing in the TRF Department. As an academic, Giglio has tried to replicate the Hollywood system in the classroom and curriculum, preparing students with real life experience. Giglio created the Script to Screen program, sponsored by Final Draft. He mentored students for a Subway Branded Entertainment film where students screened their award-winning film at SXSW Festival. He helped Syracuse University became an Institute Associative with the Sundance Film Festival. He worked with VPA to set up the Sundance Ignite program which takes students to the film festival. He has brought Sundance filmmakers and programmers to campus. In addition, Giglio has written three academic books, \" Writing the Comedy Blockbuster ,\" \" Slay the Dragon: Writing Great Video Games \" (with Robert Denton Bryant) and \" Proof of Concept, Writing the Short Script .\" Giglio currently teaches Master Screenwriting (fall and spring), Creative Producing and the new Genre Screenwriting class.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Seth Gitner",
+   "title": "Interim Chair, Visual Communications; Associate Professor, Magazine, News and Digital Journalism; Associate Professor, Visual Communications",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/gitner-seth/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/gitner_seth_-_sized1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "360 Video",
+    "Content Management Systems",
+    "Designing and Developing New Media",
+    "Development for Film",
+    "Digital Engagement",
+    "Digital Journalism",
+    "General Photography",
+    "Immersive Journalism",
+    "Innovation in Journalism",
+    "Interactive Design",
+    "Internet Design",
+    "Internet Design and Usability",
+    "Multimedia Journalism",
+    "Multimedia Photojournalism",
+    "Multimedia Storytelling",
+    "Multiplatform Journalism",
+    "Photojournalism",
+    "Short Form Digital Production",
+    "Social and Interactive Video",
+    "Solo Journalism",
+    "UI/UX",
+    "Virtual Reality",
+    "Visual Design",
+    "Web Design",
+    "Web Programming"
+   ],
+   "bio": "What he teaches ... Seth Gitner teaches graduate and undergraduate students to think both visually and digitally so they can tell stories in new and innovative ways. Specifically, he teaches web journalism, visual news reporting, and multimedia storytelling, including such topics as interactive storytelling, web design and web development. Gitner, who advises the student journalists at the award-winning school publication The NewsHouse , also extends his reach beyond Newhouse via online courses and his text book, Multimedia Storytelling for Digital Communicators in a Multiplatform World. Bio Seth Gitner is an associate professor at Syracuse University’s S.I. Newhouse School of Public Communications and serves as Interim Chair of the Visual Communications department. His teaching and research focus on visual journalism, photography, video, multimedia and interactive storytelling, digital journalism, emerging technology and the development of new tools for visual education and professional media workflows. At Newhouse, Gitner teaches undergraduate and graduate students across journalism and visual communications. His teaching includes visual storytelling, sports photography, multimedia journalism, digital publishing, editing and sequencing, captioning and metadata, and professional photography workflows. He emphasizes experiential learning that places students in real-world reporting environments where they work under professional expectations and deadlines.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Tula Goenka",
+   "title": "Chair, Television, Radio and Film; Professor, Television, Radio and Film",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/goenka-tula/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/Tula-Goenka-2025-new-headshot.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Bollywood and Indian Cinema",
+    "Cultural Storytelling",
+    "Directing for Film and Television",
+    "Documentary Production",
+    "Film Industry",
+    "Media and Diversity",
+    "Media and Human Rights",
+    "Multimedia Storytelling",
+    "Women in Media"
+   ],
+   "bio": "Tula Goenka is a filmmaker, author, human rights activist and professor. She teaches courses in multimedia storytelling, film production and Indian cinema, and started her filmmaking career as an editor for Mira Nair, Spike Lee and James Ivory, among others. She now produces and edits her own documentaries, including the award-winning PBS film “ Dancing On Mother Earth ,” about singer/songwriter Joanne Shenandoah; “ El Charango ,” about the musical instrument from Bolivia; and “ Likhiya: Writing Stories With Mithila Art ” a series of short films on artists from Madhubani, Bihar in India. Goenka is the author of “ Not Just Bollywood: Indian Directors Speak .” In 2008, Goenka created the SUBollywood program offered through Syracuse University Abroad, and has taken more than 50 Newhouse students to Mumbai for the month-long immersion. She co-created the annual SU Rising event, a candlelight vigil to stop sexual assault on the Syracuse University campus, and has served on the Chancellor’s Task Force on Sexual and Relationship Violence. She is the founder and co-director of the annual Syracuse University Human Rights Film Festival and Digital Witness Symposium. Goenka was born and raised in India and continues to be very involved in the South Asian community in America. She served as co-director of the federally funded South Asia Center , part of the Moynihan Institute of Global Affairs at Syracuse University's Maxwell School of Citizenship and Public Affairs from 2012-14.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Brad Gorham",
+   "title": "Associate Professor, Communications; Global Partnerships Liaison",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/gorham-brad/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/newhouse-school-directory-brad-gorham-2022.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Brad Gorham (PhD, University of Wisconsin-Madison) has been interested in the role that media play in shaping our perceptions of others since his experience as an exchange student in Australia. His research focuses on the way in which media shape our implicit biases and stereotypes of people from various groups, and especially how language subtly reveals cognition around differences. He approaches the study of media stereotypes from both a psychological and a cultural perspective, incorporating quantitative and qualitative methods to examine the way mediated communication contributes to stereotyping, prejudice and discrimination. Gorham serves as Newhouse's liaison with SU Abroad, and he is working to extend opportunities for students and faculty abroad by forging partnerships with institutions across the globe. Gorham served as chair of the communications department from 2010 until 2025, and as director of the media studies program from 2011 until 2022. While on sabbatical in 2016, Gorham was a guest professor at Hochschule der Medien in Stuttgart, Germany, and taught a course at the Danish School of Media and Journalism in Copenhagen, Denmark.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Eric Grode",
+   "title": "Associate Professor, Magazine, News and Digital Journalism; Associate Professor, Goldring Arts Journalism and Communications",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/grode-eric/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/eric-grode-web.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Arts and Cultural Journalism",
+    "Communications Ethics",
+    "Cultural Storytelling",
+    "Editing in Journalism",
+    "Journalism Ethics",
+    "Media Coverage of Arts and Culture",
+    "Music Journalism",
+    "Popular Culture",
+    "Television History"
+   ],
+   "bio": "Eric Grode is a regular freelance theater critic and reporter for The New York Times. He previously served as the head theater critic for The New York Sun and Broadway.com, and his articles and reviews have also appeared in The Village Voice, New York magazine, The Wall Street Journal, Time Out New York, The Boston Phoenix and more than a dozen other publications. He has received fellowships from American Theatre magazine and the American Theater Critics Association. Grode has held full-time editorial jobs at TV Guide, Good Housekeeping and XXL (where he served as managing editor). He is the former vice president of the New York Drama Critics Circle and the author of two books: “ Hair: The Story of the Show That Defined a Generation ,” the authorized history of the Broadway musical, and \"The Book of Broadway: The 150 Definitive Plays and Musicals.\" In addition to his work with the Goldring arts, style and culture journalism program, with which he has been affiliated since 2007, Grode has taught at Lehman College and the University of Rochester Medical School.​",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jennifer Grygiel",
+   "title": "Associate Professor, Communications",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/grygiel-jennifer/",
+   "personal_url": "http://jennifergrygiel.com/",
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/grygiel_jennifer_-_sized1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Jennifer Grygiel* is a social media professional who most recently served as social business and emerging media manager and assistant vice president at State Street Corporation in Boston. There, they developed a social listening and marketing data and analytics program and was the lead project manager for the Social Intranet Project, which received an IABC Gold Quill Merit Award. Grygiel’s social listening work has also been recognized and received a Gold Wommy for Social Media Monitoring Implementation from Womma (Word of Mouth Marketing Association). Over the course of their career they served as the executive director for public affairs and communications and chief of staff at the Committee on Capital Markets Regulation, a Cambridge, Massachusetts-based nonpartisan research organization dedicated to improving the regulation of financial markets. Grygiel has also worked at the Program on International Financial Systems at Harvard Law School and is the founder of No Gay Left Behind, which advocates for the development of virtual gay-straight alliances (VGSAs) via social media. Grygiel’s research has been presented at top national and international conferences including the International Communication Association (ICA), the National Communication Association (NCA), and the Association for Education in Journalism and Mass Communication (AEJMC), ETHICOMP, and others.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Roy Gutterman",
+   "title": "Director, Tully Center for Free Speech; Professor, Magazine, News and Digital Journalism; Professor, Communications",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/gutterman-roy/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/gutterman-r1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Communications Law",
+    "Constitutional Law",
+    "Crime and Courts Reporting",
+    "Entertainment Law",
+    "First Amendment and Free Speech",
+    "First Amendment Law",
+    "Freedom of Information Act (FOIA)",
+    "Government Reporting",
+    "Intellectual Property",
+    "Legal Affairs Journalism",
+    "Media Law",
+    "School/Student Speech"
+   ],
+   "bio": "An expert on communications law and the First Amendment, Roy Gutterman is director of the Newhouse School's Tully Center for Free Speech . He is a graduate of the Newhouse School and the Syracuse University College of Law. Gutterman worked as a reporter for the Cleveland Plain Dealer covering local and state government, crime, legal issues and general news. He later clerked for a New Jersey Superior Court judge and practiced business and general litigation. He also holds a courtesy appointment at the College of Law. He writes and speaks on media law, free speech, the intersection between courts and journalists and legal education issues. He has delivered lectures at the Communication University of China in Beijing, Fudan University in Shanghai, National Chengchi University in Taipei and Lomonosov Moscow State University in Russia. Gutterman was head of the AEJMC Law and Policy division from 2019-20, and is program director for the Burton Foundation for Legal Achievement. He sits on the Freedom of Information Committee and the Legal Defense Fund Committee for the Society of Professional Journalists, and the faculty committee for the Government Accountability Project in Washington, D.C. At Newhouse, Gutterman was the 2009-10 director of the Carnegie Legal Reporting Program. He also works with the Society of Professional Journalists student chapter and serves on academic integrity committees.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "J. Christopher Hamilton",
+   "title": "Associate Professor, Television, Radio and Film",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/j-hamilton/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/Hamilton-web.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Entertainment Law",
+    "Film Industry",
+    "Intellectual Property",
+    "Television Industry",
+    "Television Programming &amp; Streaming"
+   ],
+   "bio": "As an attorney, author and professor, J. Christopher Hamilton’s work is focused on the monetization of content and leveraging distribution outlets in the television, film and digital streaming industries. In addition to brokering content deals and teaching about their dynamic revenue and financing models, Hamilton is also a passionate executive producer. Prior to joining Newhouse, Hamilton worked for a number of media conglomerates such as Paramount Global, Disney, Warner Bros. Discovery and Lionsgate as a business executive and lawyer. In his varied roles within the entertainment industry, Hamilton helped build the “ Laugh Out Loud ” streaming service for Kevin Hart while advising on other celebrity business ventures; brokered deals to remake major theatrical motion pictures like “Red,” “Step Up” and “Nerve” as international co-productions in Asia; helped launch an independently-finaced streaming service; and packaged/sold a number of self-funded original tv shows/movies to various television networks (Tubi TV, BET, Comcast Xfinity, and HBO). Currently, Hamilton is committed to disrupting the entertainment industry by providing a balanced business perspective as a legal analyst, business strategist and advocate for marginalized voices at film festivals (such as SXSW and PAFF) and by advising small media ventures and Fortune 500 companies like Yahoo and Reebok on how to navigate the new marketplace.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ken Harper",
+   "title": "Graduate Program Director, Multimedia, Photography and Design; Associate Professor, Visual Communications",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/harper-ken/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/harper_ken_-_sized1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Civic Engagement",
+    "Extended Reality",
+    "Global Communications",
+    "Graphic &amp; Visual Design",
+    "Media and Human Rights",
+    "Publication and News Design",
+    "UI/UX",
+    "Visual Design"
+   ],
+   "bio": "What he teaches ... Ken Harper teaches graphic design, photography and development communications to undergraduate and graduate students. This includes user experience, user interface and immersive design as well issues at the intersection of media and atrocities . As the director of the Newhouse Center for Global Engagement he also works with students to create interactive experiences such as onelandonelove.org , togetherliberia.org and ebolainliberia.org . He integrates his extensive abroad experiences into the classroom to provide students with an international perspective on the power of visual communications and to better communicate complex socioeconomic issues. Bio Ken Harper is an award-winning designer, professor, photojournalist and communications educator. Harper joined the S.I. Newhouse School of Public Communications at Syracuse University in 2008 and founded the Newhouse Center for Global Engagement in 2014. The Center is dedicated to creating collaborative, ethical, globally-engaged students through experiential learning, cross-disciplinary storytelling, fellowships, industry partnerships, innovation and symposia. Harper’s role as director stems from his long history in collaborating internationally and he is now sharing that passion through long-term geographically-based collaborations and symposia. Over the past 14 years, Harper has led faculty and students to collaborate in Liberia, South Africa, Israel and Palestine through several initiatives.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Gregory Heisler",
+   "title": "Distinguished Professor of Photography, Visual Communications",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/heisler-gregory/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/heisler_gregory_-_sized1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "What he teaches ... Gregory Heisler works with undergraduate and graduate students in class and individually to identify and develop their unique visual signature as he teaches them the language of image-making. This signature transcends genres like documentary, commercial or fine art, and reveals itself in both still and moving imagery. It’s a unique point of view informed by the history of the medium, shaped by mastery of its tools and expressed with clarity of intention. Bio It has been said that photographer and educator Gregory Heisler possesses “the eye of an artist, the mind of a scientist and the heart of a journalist.” Renowned for his technical mastery and thoughtful responsiveness during a career of more than 40 years, his enthusiasm, curiosity and drive are manifested in his hands-on approach to all aspects of the image-making process. Heisler is perhaps best known for his more than 70 cover portraits for Time magazine, but his iconic portraits and innovative visual essays have graced the covers and pages of many other magazines, including Life, Esquire, Fortune, GQ, Geo, Sports Illustrated, ESPN and The New York Times Magazine. He also has photographed major advertising campaigns for such clients as American Express, Dewar's, Ford, Guinness, Merrill Lynch, Nike, Pfizer, Reebok and United Technologies.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Keren Henderson",
+   "title": "Associate Professor, Broadcast and Digital Journalism",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/henderson-keren/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/newhouse-school-directory-keren-henderson-2022.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Broadcast News Producing and Management",
+    "Communications Research",
+    "Cultural Storytelling",
+    "Digital Journalism",
+    "Digital Media",
+    "Innovation in Journalism",
+    "Media Sociology",
+    "Multimedia Journalism",
+    "Multiplatform Journalism",
+    "News Coverage",
+    "Reporters' Use of Internet",
+    "Social Media and Journalism",
+    "Women in Media",
+    "Writing for Media",
+    "Writing for New Media"
+   ],
+   "bio": "Keren Henderson (Ph.D., Louisiana State University) first learned to tell audio-visual stories as a production assistant for Zoo Diaries in Toronto and as a celebrity wedding videographer and editor in Santa Barbara (two remarkably similar jobs). She translated her research and storytelling skills into a journalism career in local TV news producing and video editing before returning to academia to earn a Ph.D. in mass communication. Henderson’s scholarly interests include the sociology of American newsrooms and the relationship between the business and the craft of making news. She is director of the annual RTDNA/Newhouse School at Syracuse University newsroom survey and associate editor of the Electronic News Journal . Henderson teaches undergraduate courses in broadcast and digital journalism and graduate courses in communications. Recent publications: McKinnon-Crowley, J., Loong Lua, K., Crowston, K. G., & Henderson, K. (2026). “Is This News?”: How Audiences Recognize, Expect, and Evaluate Emerging News Genres in Short-Form Video Social Media. Proceedings of the 59th Hawaii International Conference on System Sciences , 2026 , 2726–2735. https://hdl.handle.net/10125/111722 Lysak, S., & Henderson, K. (2025). Conglomeration, Digital Disruption, and COVID-19: Upheaval-Driven Changes to the Roles of U.S. Local Television News Directors. Electronic News , 19 (1), 41–63.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Shaina Holmes",
+   "title": "Graduate Program Director, Television, Radio and Film; Associate Professor, Television, Radio and Film",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/holmes-shaina/",
+   "personal_url": "http://www.shainaholmes.com/index.html",
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/holmes_shaina1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Shaina Holmes teaches various courses in visual effects and post-production to undergraduate and graduate students, including Visual Effects for Live Action, Post Production Practices, Animation for Film and TV, and Visual Effects Analysis. Prior to joining the Newhouse School, Holmes was an instructor at Ithaca College, where she taught courses on topics including visual effects, motion graphics, animation and field production. In addition to teaching, Holmes is a visual effects artist, producer and supervisor with over 200 film and television credits . While in Los Angeles, she was a VFX artist on \"Chicago,\" \"The Notebook,\" \"Sideways,\" \"Tropic Thunder\" and \"Eternal Sunshine of the Spotless Mind,\" among many others. In New York City, Holmes worked at the post production giant Deluxe , where she created and ran the episodic TV visual effects division, Encore VFX , and eventually merged with sister company Method Studios . She oversaw such projects as \"True Detective\" and \"Vinyl\" for HBO, \"The Get Down\" for Netflix, \"Blindspot\" for NBC, feature films \"Men in Black 3\" and \"Swiss Army Man,\" as well as various Ken Burns documentaries including \"Vietnam,\" \"The Dustbowl\" and \"Central Park Five.\" Holmes continues to focus as a professional in the VFX industry through her company Flying Turtle Post , which offers mentorship and on-the-job training for artists and filmmakers.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Nausheen Husain",
+   "title": "Assistant Professor, Magazine, News and Digital Journalism",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/husain-nausheen/",
+   "personal_url": "https://nausheenhusain.github.io",
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2021/08/Nausheen-Husain.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Nausheen Husain is an investigative reporter covering civil liberties issues, incarceration and security, and inequities, with a focus on Muslim communities and the past and present 'War on Terror.' She uses data analysis and documents-focused reporting to bolster her stories. She is a tenure-track assistant professor, teaching journalism with an emphasis on data analysis, underreported communities and civil liberties. She was named a 2023-2025 Lender Center for Social Justice faculty fellow ; her academic research focuses on the news coverage of War on Terror infrastructures after 9/11, and its effects on young Muslims in particular. Her work has been published in The Huffington Post, Chicago Tribune and Oakland North, among other outlets. At the Chicago Tribune, where she worked before joining the Newhouse community, she covered civil liberties issues in Chicago’s Muslim communities, like surveillance and incarceration. She also spent time building back-end elections data infrastructure and working with other reporters on visual projects. Husain earned a master's of journalism in multimedia journalism in 2014 from University of California, Berkeley. Her master's project, Islam For Reporters , built in affiliation with the Islamophobia Research and Documentation Project, collected anti-Muslim hate crime data and explained commonly-misused, Islam-related vocabulary. She earned a bachelor of arts in both journalism and Middle Eastern studies in 2011 from New York University.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Site lists website as nausheenhusain@github.io (malformed); normalized to nausheenhusain.github.io."
+  },
+  {
+   "name": "Alexis Shore Ingber",
+   "title": "Assistant Professor, Communications",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/ingber-alexis/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2025/08/Alexis-ingber-web.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Alexis Shore Ingber (she/her/hers) is an assistant professor of communications and teaches classes in communications law. Prior to joining Syracuse University, Ingber was a postdoctoral research fellow at the University of Michigan School of Information where she conducted research on the privacy and legal implications of emotion artificial intelligence. Ingber’s interdisciplinary research bridges privacy law and media psychology by experimentally testing and validating regulatory and design solutions for protecting privacy across emerging media technologies. Her work has been featured in peer-reviewed journals such as New Media & Society, Journal of Computer-Mediated Communications, Policy & Internet, and Communication, Law & Policy. Ingber earned her Ph.D. and M.A. in emerging media studies from Boston University. She received a B.S. in communication from Cornell University.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Hua Jiang",
+   "title": "Associate Dean, Community, Culture and Engagement; Professor, Public Relations",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/jiang-hua/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/Hua-Jiang-2.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Artificial Intelligence and Public Relations",
+    "Corporate Social Advocacy Campaigns",
+    "Corporate Social Responsibility Campaigns",
+    "Internal Communications",
+    "Public Relations Campaigns",
+    "Public Relations Management",
+    "Public Relations Research Methods",
+    "Social Media and Public Relations"
+   ],
+   "bio": "A dedicated educator and scholar, Jiang is deeply committed to fostering academic excellence through her leadership in community, culture and engagement, as well as through her teaching, publishing and service. She spearheads academic and professional initiatives that foster an inclusive and connected environment by expanding student success through recruitment and mentoring, supporting innovative and inclusive teaching, and strengthening community-building across the school. She also champions faculty and staff success by promoting recruitment and retention, cultivating a supportive workplace culture and advancing professional development opportunities. From 2022 to 2024, Jiang served as associate dean for academic affairs, where she championed curricular innovation and instructional excellence across Newhouse’s main campus; NYC, LA and D.C. satellite campuses; and online programs. She collaborated with department chairs and program directors to develop and implement critical initiatives, such as the combined journalism degree, the online undergraduate degree in strategic communications and the Bandier graduate program in music business. Jiang also played a crucial role in recognizing and promoting faculty teaching excellence at both the University and School levels. As a professor in the public relations department, Jiang teaches courses in research, campaigns, management and leadership at both undergraduate and graduate levels.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Rawiya Kameir",
+   "title": "Assistant Professor, Magazine, News and Digital Journalism",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/kameir-rawiya/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/08/kameir-rawiya.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "A writer, editor and critic, Rawiya Kameir was a finalist for a 2020 National Magazine Award in the Essays and Criticism category for three reviews published in Pitchfork. Kameir has served as deputy editor at The Fader and culture editor at The Outline. She has covered Tiffany Haddish, profiled Cardi B, interviewed Erykah Badu, reviewed Nicki Minaj and written about her own peripatetic upbringing in Sudan, Côte d’Ivoire, Tunisia, Cairo and Canada. She earned a B.A. in professional writing from York University in Ontario and an M.S. in journalism from Columbia University, where her thesis focused on members of New York’s queer Muslim community.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Joel Kaplan",
+   "title": "Director, Goldring Arts, Style and Culture Journalism; Professor, Magazine, News and Digital Journalism",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/kaplan-joel/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/kaplan-j_11.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Communications Law",
+    "First Amendment Law",
+    "Investigative Reporting",
+    "Political Journalism"
+   ],
+   "bio": "A former investigative journalist, Joel Kaplan covered city hall for The Chicago Tribune and was a member of the newspaper's investigative team. From 1979 to 1986, he was a reporter for The Tennessean in Nashville, where he covered the state legislature. In 1986, he was a finalist for the Pulitzer Prize in investigative reporting for a series on then-U.S. Rep. Bill Boner. He is co-author of \" Murder of Innocence: The Tragic Life and Final Rampage of Laurie Dann \" (Warner Books, 1991), the movie version of which was originally broadcast on CBS. Kaplan was a Nieman Fellow (1985) at Harvard University and a Journalism Fellow at Yale Law School (1991), where he received a master's in the study of law. He also earned a master's in journalism from the University of Illinois. He served as ombudsman for the Corporation for Public Broadcasting, and was responsible for reinforcing objectivity, balance, fairness and transparency within public media. He is a former treasurer and board member of Investigative Reporters and Editors.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Faren Karimkhan",
+   "title": "Assistant Professor, Advertising",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/karimkhan-faren/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2022/08/Faren_Karimkhan-web.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Faren Karimkhan joined the advertising department in 2022. She teaches advertising research and planning. Prior to joining the Newhouse School, Karimkhan was a doctoral candidate and instructor of record from 2018 to 2022 at Florida State University, where she taught various courses in marketing and advertising. She also taught at Cornell University as visiting faculty in the Dyson School of Applied Economics and Management from 2020 to 2021. Karimkhan’s research involves social media marketing and, more specifically, social media influencer marketing. Her doctoral dissertation examines source factors among social media influencers and the impacts on consumers’ attitudes and behavioral intentions in the fashion industry. Karimkhan was a member of the Center for Hispanic Marketing Communication at Florida State University, where she conducted research on multi-cultural marketing. Her recent work focused on ethnic consumers’ experience of Fear of Missing Out (FOMO) in regard to cultural values, which was published in the Journal of Cultural Marketing Strategy. Karimkhan was awarded Outstanding First-Year Graduate Student from Florida State University in 2018. She also received the Special Award for Excellence in Academic Work from New Mexico State University in 2018. She earned a Ph.D. in integrated marketing communication in 2022 from Florida State University. She earned an M.A. (with honors) in communication studies in 2018 from New Mexico State University and a B.A.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jordan Kligerman",
+   "title": "Assistant Professor, Television, Radio and Film",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/kligerman-jordan/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2024/08/Jordan-Kligerman-1.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Jordan Kligerman is part of the television, radio and film department as a tenure-track assistant professor in the Newhouse Sports Media Center. He teaches the courses Sports Documentary and Sports Content for Social Platforms. Kligerman has been a faculty member at the Newhouse School since 2021 as a visiting assistant teaching professor, teaching courses he developed called Sports Documentary and Sports Social Content while leading the award-winning student production group, 44 Films. Before joining the Newhouse faculty, Kligerman spent five years as part of the athletics department at Syracuse University. Starting in the department as a creative media specialist, Kligerman was promoted to assistant athletics director for creative services in 2017. In his role as creative director, Kligerman led all video and graphic design for social media, commercials, development, in arena productions, special events and contributed to broadcasts for the ACC Network. Kligerman produced events, commercials and other content for Syracuse University Athletics as the principal owner and operator of fireKmedia. Kligerman managed his own firm for 10 years with a client base that included NFL Films, the National Basketball Players Association and Aspen Dental. Prior to running his own firm, Kligerman spent eight years with NFL Films as a production manager, coordinator and assistant. During that time, Kligerman helped produce content for ABC, FOX, NBC, ESPN and NFL Network.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Charisse L'Pree",
+   "title": "Associate Professor, Communications",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/lpree-charisse/",
+   "personal_url": "https://charisselpree.me/",
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/lpreenewheadshot1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Communications Research",
+    "Communications Theory",
+    "Comparative Media Studies",
+    "Cultural Storytelling",
+    "Emerging Media",
+    "Experimental Method (Research)",
+    "Media and Diversity",
+    "Media and Identity Construction",
+    "Media Criticism",
+    "Media Diversity",
+    "Media Effects",
+    "Media History",
+    "Media Literacy",
+    "Media Psychology",
+    "Popular Culture",
+    "Qualitative Research Methods",
+    "Social Media",
+    "Television History"
+   ],
+   "bio": "Charisse L'Pree Corsbie-Massay, Ph.D., examines how media affects identity, attitudes and behaviors, and how we use different media to express ourselves and connect with others. Trained in social psychology and critical media studies, L’Pree’s work includes articles in Psychological Inquiry, AIDS and Behavior and Journal of Applied Communication Research, as well as book chapters addressing serious games, race and gender methodology and media use among marginalized populations. Prof. L’Pree has authored two books: \" 20th Century Media and the American Psyche: A Strange Love \" (Routledge, 2021) bridges media theory, psychology and interpersonal communication to describe how our relationships with media emulate the relationships we develop with friends and romantic partners through their ability to replicate intimacy, regularity and reciprocity. \" Diversity and Satire: Laughing at Processes of Marginalization \" (Wiley, 2023) is the first textbook to explore diversity by demonstrating how satirical content can advance the discussion and change attitudes. She also hosts two podcasts. \"Critical and Curious,\" a pop trash podcast with Trustee Professor Robert Thompson (TRF), which layers academic research and theory over popular culture and industry and is affiliated with the Amplify Sustain Network at Simon Fraser University and Wilfred Laurier University Press. \"SNL101\" with Professor Luvell Anderson (Philosophy) is a resource to use Saturday Night Live sketches in the classroom.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Taylor Vaughn Lasley",
+   "title": "Assistant Professor, Television, Radio and Film",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/lasley-taylor/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2023/08/Taylor-Vaughn-Lasley-web.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Taylor Vaughn Lasley joined the Newhouse School in Fall 2023 as a tenure-track assistant professor in the television, radio and film program. She teaches screenwriting classes. Prior to joining Syracuse University, Lasley was a writer and creator for various development partners including Netflix’s \"Family Reunion,\" Marvel’s \"Moon Girl and Devil Dinosaur.\" She is developing or has developed projects with Disney+, HBOMax, CBS, NBC and Funny or Die. Lasley earned a B.A. from Yale University in 2012.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kelly Leahy",
+   "title": "Assistant Professor, Television, Radio and Film",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/leahy-kelly/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/08/whitney-kelly.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Designing and Developing New Media",
+    "Media and Child Development",
+    "Media and Education",
+    "Media Literacy"
+   ],
+   "bio": "Kelly Leahy is a unique professional bridging research, development and production in educational media and educational technology. Her expertise is applying educational research to the most highly engaging forms of media. Leahy has developed and produced broadcast and digital media for a variety of highly-lauded organizations, including PBS, iCivics, Nickelodeon and Discovery. Many projects included in her professional portfolio have massive distribution (3M+) and balance educational design and curricular goals with high engagement, cultural implications and media literacy. Leahy's research applies a cultural and developmental lens to media, with special interests in educational technology, digital games and toys, mobile technologies, television and web content. She researched participatory media and cultural shifts related to emerging technologies at Harvard University and MIT, and has spoken on digital and game-based learning at conferences such as SXSW and the National Book Festival, as well as at universities ranging from American University to the London School of Economics. She has served on advisory boards and panels for the White House, the Library of Congress and the American Association of Pediatrics, among others.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Moon Lee",
+   "title": "Professor, Public Relations",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/lee-moon/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2021/08/Lee-Moon.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Moon Lee is a teacher and scholar whose research focuses primarily on communication technology development and evaluation, health communication, media processes and effects, public relations and human cognition and the decision-making process. Lee holds a Ph.D. in mass communication/public relations from the University of Florida (UF). Her teaching areas include public relations, digital communication, health communication, communication theories and applications and media processes and effects. She joined Newhouse from UF, and also held faculty positions at Washington State University.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Joon Soo Lim",
+   "title": "Professor, Public Relations; Chair, Communications",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/joon-lim/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/lim_joon_soo_01.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Artificial Intelligence and Public Relations",
+    "Corporate Social Advocacy Campaigns",
+    "Corporate Social Responsibility Campaigns",
+    "Crisis Communications",
+    "Social Media and Public Relations"
+   ],
+   "bio": "Joon Soo Lim teaches public relations theory, diversity in public relations, public relations campaigns, and public relations research. He has expertise in corporate social advocacy for diversity, equity and inclusion (DEI), authenticity in public relations and CSR communication, eHealth communication and behavior change and user engagement with disruptive technologies. He has been named a Knight News Innovation Fellow by the Tow Center at Columbia University. He was also named Page and Johnson Legacy Scholar from Arthur Page Center three times in 2012, 2017 and 2023 for his research on CSR communication and responsible use of digital analytics. Lim has conducted extensive research on the managerial and ethical issues in public communication campaigns that use and abuse the characteristics of social media and artificial intelligence, such as user-generated content, word-of-mouth tactics, anonymity, and algorithmic personalization. With research published in more than three dozen publications, Lim has addressed several real-world problems, including corporate social advocacy for diversity, inclusion and equity (DEI), the authenticity of CSR and CSA communication, deceptive online advertising, fake news and hateful content on social media, brand safety, social TV, health risks of PM2.5, emerging infectious diseases and sensational news, parasocial relationships with live streamers, political parody videos on YouTube, sweatshop factories overseas and ISIS recruitment propaganda.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Regina Luttrell",
+   "title": "Senior Associate Dean; Professor, Public Relations; Co-Director, Newhouse Synthetic Media Lab",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/luttrell-regina/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/gina-luttrell-web.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Recognized as an innovative educator, distinguished scholar and experienced academic leader with a history of championing research, Regina Luttrell was named senior associate dean of the Newhouse School in August 2023. She works with the Newhouse community on a variety of schoolwide initiatives, serves as deputy to Dean Mark J. Lodato and represents the school externally in the dean’s absence. Luttrell moved up to the No. 2 leadership position at Newhouse following more than 2 1/2 years as the associate dean for research and creative activity . She continues to lead efforts to promote research and creative activity as part of her portfolio, which now includes oversight of the Newhouse School’s centers and institutes. Luttrell also coordinates Newhouse initiatives to study the impact and responsible use of artificial intelligence, along with other emerging technologies that have proliferated the media industry and daily life. An experienced leader of complex research projects, Luttrell has a track record of supporting cross-departmental and interdisciplinary collaboration, and advocating for faculty in multiple capacities. In addition to her successes in securing external funding for research initiatives, Luttrell has also contributed broadly within her area of scholarship, authoring more than a dozen books, publishing in academic and professional journals, and presenting at domestic and international conferences.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Colleen McEdwards",
+   "title": "Assistant Professor, Broadcast and Digital Journalism",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/mcedwards-colleen/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2024/08/Screenshot-2024-08-19-at-9.53.34 AM.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "A veteran journalist, Colleen McEdwards is a tenure-track assistant professor in the broadcast and digital journalism program and teaches courses on broadcast and digital storytelling. Prior to joining Syracuse, McEdwards was a visiting lecturer of digital journalism at the University of North Alabama. She has also taught courses for the University of Florida College of Journalism and Communications and Georgia State University. Before entering academia, McEdwards was an anchor and correspondent for CNN International for 16 years. She joined CNN International during the 1997 Asian financial crisis and covered major global events. McEdwards reported from Moscow during Vladimir Putin’s first term, covered the withdrawal of Soviet troops from Czechoslovakia and developed expertise in Eastern European affairs. Her international assignments also include the Pan Am Flight 103 bombing trial and the global SARS outbreak. A Canadian American, McEdwards also reported for CBC News for a decade. McEdwards is a Fulbright Specialist, having completed digital media training projects in Trinidad and Tobago. She is a published author of poetry, short stories and academic papers. McEdwards earned a Ph.D. in education and technology management from Northcentral University, an M.A. in instructional design and learning technology from Western Governors University and a B.A. in English literature from the University of Waterloo (Canada).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Tim Mirabito",
+   "title": "Assistant Professor, Broadcast and Digital Journalism",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/mirabito-tim/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2024/08/Tim-Mirabito.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Tim Mirabito is an assistant professor in the broadcast and digital journalism department where he teaches multimedia journalism courses. Before joining Syracuse University, Mirabito was the chair of the Department of Journalism and an associate professor of journalism and sports media at Ithaca College’s Roy H. Park School of Communications. He also taught as an assistant professor at Marist College and an adjunct professor at the University of Miami (Fla). Before entering academia, Mirabito worked in television, radio, print and online media, as well as minor league baseball and college athletics. Mirabito’s research focuses on contemporary television newsroom dynamics, including newsgathering routines, burnout, mentorship and leadership. His dissertation examined the The New York Times sports section’s response to the terrorist attacks of Sept. 11, 2001. His scholarship has been published in noteworthy journals like the International Journal of Sport Communication, Communication & Sport, Journal of Sport Media and Sport in Society. Mirabito is a member of the National Communication Association and the International Association for Communication and Sport. He also serves on the editorial board for the Sport Management Education Journal. In 2013, he was awarded the ESPN Doctoral Fellowship Award, the American Kinesiology Association Writing Award and a Chancellor Citation for Extraordinary Professional Promise at the University of Tennessee-Knoxville.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Daniela Molta",
+   "title": "Assistant Professor, Advertising",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/molta-daniela/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/08/molta-daniela-2020.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital Advertising",
+    "Interactive Advertising",
+    "Internet Advertising",
+    "Media Planning and Sales",
+    "Social Media"
+   ],
+   "bio": "Daniela (Savinelli) Molta brings over a decade of experience in advertising strategy, digital media, media planning and buying and social media. She most recently worked in the marketing departments at Facebook, GoPro and Netflix, where she was responsible for communications and advertising strategy. Prior to her time in Silicon Valley, she worked in digital media planning and buying at OMD and MEC (now Wavemaker) in New York City. She earned an M.S. in integrated marketing from New York University and B.A. in communication from Le Moyne College. Molta is committed to researching, and advocating for, community-wide digital literacy and a more accountable approach to digital advertising.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Greg Munno",
+   "title": "Associate Professor, Magazine, News and Digital Journalism; Chair, Magazine, News and Digital Journalism",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/munno-greg/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/munnogregsized1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Civic Engagement",
+    "Data Journalism",
+    "Digital Engagement",
+    "Freedom of Information Act (FOIA)",
+    "Government Reporting",
+    "Journalism Ethics",
+    "Multiplatform Journalism",
+    "News Coverage",
+    "Participatory &amp; Social Journalism",
+    "Q Methodology (Research)"
+   ],
+   "bio": "Greg Munno spent 13 years as a reporter and editor at the Syracuse Post-Standard and Syracuse.com before coming to Syracuse University. He earned an executive master of public administration from the Maxwell School and recently earned a Ph.D. from the Newhouse School. He served as a research assistant professor for the Transactional Records Access Clearinghouse (TRAC), an editorial assistant to the co-editor for the journal Communications Research and a tenure track associate professor.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "David Oh",
+   "title": "Associate Professor, Communications; Director of Assessment and Program Review",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/oh-david/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2024/01/Screenshot-2023-11-16-at-4.17.29-PM.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "David Oh (he/him/his) joined the communications department of the Newhouse School in Spring 2024 as an associate professor. He will teach classes in media and diversity and cultural theory. Prior to joining Syracuse University, Oh was a professor of communication arts at Ramapo College of New Jersey from 2013-23, where he taught course on media, audiences and identity as well as research methods. Before Ramapo, he taught as special assistant professor at Colorado State University and as a visiting professor at Villanova University. Oh’s research focuses on Asian American representations in popular and digital culture; Asian American identities and media; othering in Korean media culture; and transnational and diasporic reception of Korea popular culture. He is the author of \"Navigating White news: Asian American Journalists at Work\" (2023); \"Whitewashing the movies: White subjectivity and Asian erasure in US film culture\" (2022); and \"Second- generation Korean Americans and transnational media: Diasporic identifications\" (2015). He's also the author of nearly 40 refereed journal articles, an edited book and 10 book chapters. During the 2018-2018 academic year, Oh was a Fulbright Senior Scholar at HankukUniversity of Foreign Studies in South Korea.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Rebecca Ortiz",
+   "title": "Associate Professor, Advertising; Endowed Chair of Public Communications",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/ortiz-rebecca/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/Rebecca-ortiz-web-1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Advertising Criticism",
+    "Advertising Education",
+    "Communications Research",
+    "Communications Theory",
+    "Consumer Insight in Advertising",
+    "Experimental Method (Research)",
+    "Health Communications",
+    "Media and Diversity",
+    "Media and Education",
+    "Media and Identity Construction",
+    "Media and Sex",
+    "Media Effects",
+    "Media Literacy",
+    "Media Psychology",
+    "Persuasive Communications",
+    "Survey Design"
+   ],
+   "bio": "Rebecca Ortiz’s research explores how media and communication can improve public health and well-being, specifically among teens and young adults. Her work is published in such peer-reviewed journals as Journal of Health Communication, Violence Against Women, Journal of Adolescent Health, Journal of School Violence, Social Media + Society and Journal of Children and Media, among others. She co-edited the book \"Teens, Sex, and Media Effects: Understanding Media's Influence on Adolescent Sexuality, Sexual Health, and Advocacy \" and has worked with several non-profit and public health organizations to develop and evaluate health communication campaigns and media interventions to address such topics as HPV vaccination and sexual violence. She is currently the 2025-2028 Newhouse Endowed Chair of Public Communications working on her research project, titled \"Youth Well-Being in the Creator Economy.\" She was also the 2024 recipient of the Judy Seinfeld Scholar Award, which honors Syracuse University faculty and students who display excellence, creativity and innovation in academic or artistic fields and encourages future contributions to society. She joined the Newhouse School faculty in 2016 from the College of Media and Communication at Texas Tech, where she was the recipient of the Billy I. Ross Faculty Achievement Award and the President’s Excellence in Teaching Award. At Newhouse, she teaches research and communication strategy to advertising and communications students.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Anne Osborne",
+   "title": "Professor, Communications",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/osborne-anne/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/Anne-Osborne-web-2025.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Communications Ethics",
+    "Cultural Storytelling",
+    "Media and Diversity",
+    "Media and Identity Construction",
+    "Media Sociology",
+    "Popular Culture",
+    "Qualitative Research Methods",
+    "Sport Media and Fandom",
+    "Sports Communications"
+   ],
+   "bio": "Anne Osborne’s teaching and research examines how media reinforce and challenge systems of power within society. She is particularly interested in how entertainment media—film and television—reflect and shape societal understandings of identity, difference, and power. Over the past 10 years, her research has centered on sport fandom and sports media, but really her focus is gender, with sport providing a particularly useful site to examine the social construction of gender norms. She has published peer-reviewed articles in journals such as International Journal of Sport Communication, Journal of Public Relations Research and Sport in Society. She is co-author of “Gender Defenders of the Sport Binary: Mediating Discourses of Difference against Intersex and Transgender Female Athletes” (Peter Lang, 2025) and “Female Fans of the NFL: Taking their place in the stands” (Routledge, 2016) as well as co-editor of the “Routledge Handbook of Sport Fans and Fandom” ( Routledge, 2022 ). Osborne spent 14 years teaching advertising at Louisiana State University and maintains her love for good advertising. She has held numerous administrative positions including advertising head and associate dean at LSU, acting communications department chair, and director of the media studies master’s and Ph.D. programs at the Newhouse School. Recent scholarship Bell, T., & Osborne, A. (2025).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Adam Peruta",
+   "title": "Director, Advanced Media Management; Interim Chair, Advertising; Associate Professor, Magazine, News and Digital Journalism",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/peruta-adam/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/Screenshot-2024-05-21-at-1.03.51-PM.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Designing and Developing New Media",
+    "Digital Engagement",
+    "Digital Journalism",
+    "Emerging Media",
+    "Graphic &amp; Visual Design",
+    "Interactive Design",
+    "UI/UX",
+    "Web Programming"
+   ],
+   "bio": "Adam Peruta is an associate professor at the S.I. Newhouse School of Public Communications at Syracuse University and the director for the advanced media management master’s program — a program that puts students at the intersection of media, technology and business, all with a focus on emerging technologies. He teaches courses in emerging media such as AI, UI/UX design, media entrepreneurship and product development. For his efforts in the classroom, Syracuse University awarded him with the Meredith Teaching Award — the university’s highest honor for outstanding teaching. Due to his mentoring and advising, his students have won 100+ awards in national competitions. Through his teaching and research, he examines issues such as how generative AI will impact the future of the media business and how media and communications professionals must adapt emerging technologies. Adam is co-author of \" PROMPT ,\" a series of practical guides to the foundational skills required for using language models like ChatGPT. His other research area focuses on branding for higher education on social media platforms, looking at how colleges and universities use social media to recruit students, build alumni community and communicate with their constituents. He has presented internationally on the topic and has been published in the Journal of Marketing for Higher Education and the Journal of Social Media in Society, among others.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Steven Pike",
+   "title": "Associate Professor, Public Relations and Public Diplomacy; Director, Public Diplomacy and Global Communications",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/pike-steven/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/pikesized1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Editing in Journalism",
+    "Media and Politics",
+    "Media Relations",
+    "Political Communications",
+    "Public Diplomacy",
+    "Public Relations Campaigns",
+    "Q Methodology (Research)",
+    "Writing for Public Administration and Government"
+   ],
+   "bio": "Steven Pike joined the Newhouse faculty in 2016 and teaches public relations and public diplomacy. He has taught Advanced Public Diplomacy, Public Diplomacy Practicum, Public Relations Management and Leadership, Public Relations Campaign Development, Media Relations and Spokesmanship, and Communications and Society. He is the author of several chapters and papers on public diplomacy, including: \"Ethical issues in place branding\" and \"Sister Cities initiatives\" in Elgar Encyclopedia of City and Place Branding(Sevin, ed.); \"This American century is over, what comes next?\" in Public Diplomacy in Times of Uncertainty (Surowiec, Manor, eds.); \"Management of public diplomacy\" in A Research Agenda for Public Diplomacy (Gilboa, ed.). He has published several key papers in peer-reviewed journal Place Branding and Public Diplomacy, including: \"What diplomats do: A Q Methodology study of images of diplomacy\" (in review); \"Diplomatic identity and communication: the impact of self-identity on public diplomacy communication;\" \"Using Q Methodology to augment evaluation of public diplomacy programs;\" and \"What diplomats do: U.S. citizen perspectives on the work of public diplomacy.\" Current projects include a Q-methodology based co-orientation study of the perceptions that public diplomacy practitioners from different nations and cultures hold of the profession, and a textbook for public relations campaign development.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Srividya Ramasubramanian",
+   "title": "Newhouse Professor, Communications",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/ramasubramanian-srividya/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2021/08/Ramasubramanian-Srividya.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Srivi Ramasubramanian (Ph.D., Penn State University) is the Newhouse Professor and Endowed Chair at Syracuse University's S.I. Newhouse School of Public Communications. She is the founding director of CODE^SHIFT (Collaboratory for Data Equity, Social Healing, Inclusive Futures, and Transformation), a multidisciplinary research collaboratory uniting data scientists, community members and storytellers that has convened three flagship symposia and 145-plus workshops and events. A leading scholar of media, diversity and social justice, she is widely recognized for her pioneering work on race and media, media literacy, implicit bias reduction and scholar-activism, with expertise spanning critical media effects, data justice, digital cultures, intersectionality and applied communication research. Ramasubramanian is an Elected Fellow of the International Comm Association, an NCA Distinguished Scholar, and Second Vice President of the National Communication Association, the world's oldest and largest professional communication association. She served as Editor-in-Chief of Communication Monographs, a flagship journal within the discipline, and was the first person of color to hold the position. She also founded The Difficult Dialogues Project , a facilitated-dialogue initiative that reached over 1,000 campus leaders nationally, and co-founded Media Rise , a global nonprofit for meaningful media that convened 3,000-plus media professionals across four countries.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Alex Richards",
+   "title": "Associate Professor, Magazine, News and Digital Journalism",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/richards-alex/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/richards_alexander1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Crime and Courts Reporting",
+    "Data Journalism",
+    "Digital Engagement",
+    "Digital Journalism",
+    "Freedom of Information Act (FOIA)",
+    "Government Reporting",
+    "Innovation in Journalism",
+    "Investigative Reporting",
+    "Reporters' Use of Internet",
+    "Web Programming"
+   ],
+   "bio": "Alex Richards joined the Newhouse School from the San Francisco-based consumer finance startup NerdWallet, where he was the deputy editor of their investigative reporting team. He previously worked as a data reporter and editor for the Chicago Tribune, The Chronicle of Higher Education and the Las Vegas Sun. Richards is also a former training director for Investigative Reporters and Editors, where he taught in-depth reporting and data journalism techniques in newsrooms across the country. Richards was a Pulitzer Prize finalist in 2011, and his reporting has been honored with the Goldsmith Prize for Investigative Reporting and the Taylor Family Award for Fairness in Journalism, among others. He has been a part of teams that have uncovered political patronage schemes, fraudulent student loan businesses and hidden accidents and injuries in hospitals.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Milton Santiago",
+   "title": "Assistant Professor, Visual Communications; Director, Military Visual Journalism",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/santiago-milton/",
+   "personal_url": "https://miltonasantiago.com",
+   "photo_url": "https://newhouse.syracuse.edu/wp-content/uploads/2021/08/Milton-Santigo-web.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Milton Santiago is an assistant professor of visual communications at Syracuse University’s S.I. Newhouse School of Public Communications, director of the Advanced Military Visual Journalism program and an active working cinematographer. His work brings together professional production, cinematography education and a curiosity about how emerging technologies are changing the ways visual stories are conceived, created and taught. At Newhouse, Santiago teaches undergraduate and graduate courses in cinematography, nonfiction video storytelling and creative applications of artificial intelligence. Since joining the faculty in 2021, he has helped build the school’s cinematography curriculum across the Visual Communications and Television, Radio and Film programs, developing new courses and learning experiences in cinematic lighting, advanced cinematography, virtual production and generative AI. His teaching is grounded in learning by doing, creative experimentation and a belief that students should develop their own visual voices while building the craft and confidence to express them. Student work produced under his instruction and mentorship has earned sustained national recognition across leading collegiate journalism, film and media competitions. His teaching has been recognized with the Laura J. and L.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Erika Schneider",
+   "title": "Assistant Professor, Public Relations",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/schneider-erika/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2021/08/Schneider-Erika.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Erika Schneider is a public relations scholar who specializes in strategic communication with an emphasis on crisis communication. She teaches courses in PR writing and theory, crisis communication, social media and digital innovation. Schneider’s research investigates the purpose and effects of crisis communication. She often uses experimental design studies to assess how message strategies influence organizational outcomes and stakeholder perceptions, such as trust and discrete emotions. Schneider’s research in PR Review evaluates the effects of proactive strategies for organizations to utilize during disinformation crises. Other work published in academic journals recognizes how crises amplify in the context of social media. In 2021, Schneider started the Crisis Communication Club at Syracuse University. The group includes undergraduate and graduate students contributing research on how organizations can utilize PR strategies to address emerging topics. She has received top paper awards at AEJMC and IPRRC, and has association or committee memberships with ICA, AEJMC and NCA. Prior to this appointment, Schneider attended the University of Missouri and earned a Ph.D. in journalism with an emphasis in public relations. She earned a master’s degree in communication at Marquette University and a bachelor’s degree in strategic communication from North Dakota State University.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Michael Schoonmaker",
+   "title": "Professor, Television, Radio and Film",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/schoonmaker-michael/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2025/03/Michael-Schoonmaker-web.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Michael Schoonmaker began his production career at MTV, then moved to NBC’s Olympic Unit to work on coverage of the 1988 Games. He is author of \" Camera in the Classroom: Educating the Post-TV Generation ,\" a product of 15 years of making movies with K-12 teachers and students. He is the recipient of two Chancellor's Leadership Grants from Syracuse University: One for \"Smart Kids Visual Stories\" (2009-2011), a joint venture between the Newhouse School and the School of Education; and one for the LA Semester program. He won a national Cable in the Classroom Award for a television series he developed with the Erie City School District in Erie, Pa., in 2000. The series also garnered him a Books for Kids award for promoting reading through creative television programming. Research and Special Projects Co-principal investigator in the \"Smart Kids, Visual Stories\" project, a co-venture between the Newhouse School and School of Education to spearhead educational reform in urban schools.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Youngji Seo",
+   "title": "Assistant Professor, Public Relations",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/seo-youngji/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2023/08/Youngji-Seo-web.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Youngji Seo (she/her/hers) joined the Newhouse School in Fall 2023 as a tenure-track assistant professor in the public relations program. She teaches classes in social media and society, public relations research and public relations campaigns. Prior to joining Syracuse University, Seo was an assistant professor of instruction in the Klein College of Media and Communication at Temple University. She was previously instructor of record and teaching/research assistant at the University of Georgia’s Grady College of Journalism and Mass Communication. Soe’s industry experience includes three years as a public relations officer at a non-profit organization under the Korean Ministry of Gender Equality and Family. Seo’s research interests involve psychological perspective on strategic communication with a specific focus on building resilience, crisis recovery and information processing as applied to public relations and promotional health risk communication. She has published numerous refereed journal articles, served as a research fellow for several grant projects, and was awarded the top student paper award at the 2021 National Communication Association convention. Seo holds a Ph.D. in mass communication and journalism from the University of Georgia, an M.A. from Sogang University in South Korea, and a B.F.A. from Konkuk University in South Korea.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Michael O. Snyder",
+   "title": "Assistant Professor, Visual Communications",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/snyder-michael/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/Michael-Snyder-web.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Michael O. Snyder (he/him/his) is a tenure-track assistant professor teaching classes in Photojournalism, Documentary Photography, Filmmaking and Visual Storytelling. Snyder is a multimedia visual storyteller whose work explores the intersection of cultural heritage, environmental change and human resilience. Working across more than 50 countries, often in remote locations such as the high Arctic or the Amazon, his long-form photo stories have appeared in National Geographic, The Guardian, The Washington Post and other major international outlets. He has contributed work to numerous books and is the author of a hardback photobook about changing Appalachian traditions. His films and cinematography have been screened in more than 60 film festivals and have been distributed by outlets such as National Geographic and New Day Films. He holds an MSc in Environmental Sustainability from the University of Edinburgh and brings 20 years of experience and a rigorous scientific lens to his work. Snyder's photographic work has been recognized with the Portrait of Humanity Award, the BJP Decade of Change Award, the Smithsonian Magazine Photography Awards, the Sony World Photography Awards and NPPA's Best of Photojournalism, among others. He is a Pulitzer Grantee, a member of the Society of Environmental Journalists and is currently working under a long-term grant from the National Geographic Society exploring how cultural heritage sites are adapting to climate change.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Renée Stevens",
+   "title": "Associate Professor, Visual Communications",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/stevens-renee/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/stevens_renee_-_sized1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Augmented and Mixed Reality",
+    "Corporate Branding/Marketing",
+    "Designing and Developing New Media",
+    "Graphic &amp; Visual Design",
+    "Interactive Branding/Marketing",
+    "Interactive Design",
+    "Interactive Storytelling",
+    "Internet Design",
+    "Internet Design and Usability",
+    "Internet Technology",
+    "Motion Graphics",
+    "Multimedia Storytelling",
+    "Publication and News Design",
+    "Social and Interactive Video",
+    "Typography",
+    "UI/UX",
+    "Virtual Reality",
+    "Visual Design",
+    "Web Design",
+    "Women in Media"
+   ],
+   "bio": "What she teaches ... Renée Stevens teaches various design courses to undergraduate, graduate and military students, including introduction to graphic design theory and practice, motion design and immersive design for augmented reality. She also teaches the undergraduate design capstone course, which operates as a fully-functioning design studio that helps students transition into the industry by teaching them to combine their problem-solving skills, visual storytelling skills and expertise in cutting-edge design technologies to create client work and to market themselves. Bio Renée Stevens is an award-winning motion and augmented-reality (AR) designer, educator and public speaker whose creative research explores how AR can help overcome learning disabilities. She splits her time between running an interactive design studio she owns and serving as an assistant professor and associate chair of the Visual Communications department at Newhouse, where she oversees the design program. Stevens also is the creative and managing director for the school’s annual design workshop, Pixels and Print , which provides a real-world collaborative experience for students through projects that spotlight the power of design by designing for social good.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Bruce Strong",
+   "title": "The Alexia Endowed Chair; Associate Professor, Visual Communications",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/strong-bruce/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/Bruce-Strong-web.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Advertising Photography",
+    "Commercial Photography",
+    "Digital Imaging",
+    "Documentary History",
+    "Documentary Production",
+    "Documentary Writing",
+    "General Photography",
+    "Multimedia Journalism",
+    "Multimedia Photojournalism",
+    "Multimedia Storytelling",
+    "Photojournalism",
+    "Portrait Photography",
+    "Social and Interactive Video",
+    "Social Media and Journalism"
+   ],
+   "bio": "What he teaches ... Through still photography, video, audio and multimedia storytelling, Bruce Strong teaches undergraduate, graduate and military students how to combine visual strategies and storytelling principles with a variety of technical tools to create compelling stories that powerfully engage the viewer’s heart and mind. In the process of teaching them how to tell a good story, Bruce also challenges students to evaluate their own goals and dreams, pushing them to live a story worth telling. BRUCE STRONG is an award-winning photo/video storyteller, an associate professor at Syracuse University's S.I. Newhouse School of Public Communications in New York, and the Alexia Endowed Chair, presiding over its annual international grant competition and other projects. Strong has traveled to nearly 80 countries and has worked as both a staff and an independent photojournalist/videographer around the world. His most recent travels have taken him to Bosnia and Herzegovina, Montenegro, Albania, North Macedonia, Bulgaria, Serbia, Slovenia, Croatia, China, Chile, Oman, Mauritius, Mongolia, Lithuania, and South Sudan. Before expanding into academia, Strong worked at one of the largest newspapers in California for 11 years and has freelanced for a variety of international publications and nonprofit organizations. His images have been published in magazines including TIME and National Geographic and have earned numerous awards.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Emily Sydnor",
+   "title": "Associate Professor, Syracuse University Institute for Democracy Journalism and Citizenship; Associate Professor, Newhouse DC",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/sydnor-emily/",
+   "personal_url": null,
+   "photo_url": "https://newhouse.syracuse.edu/wp-content/uploads/2024/08/Emily-Sydnor_1080x1080.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Emily Sydnor is a senior researcher at the Syracuse University Institute for Democracy, Journalism and Citizenship and an associate professor of communication at the Newhouse School, based in Washington, D.C. Her research focuses on the political implications of incivility in mediated and interpersonal discourse, as well as the ways in which people’s attachments to the U.S. states shape their political behavior. An award-winning teacher, she offers classes on political communication and psychology at Newhouse’s DC campus.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Listed under Newhouse DC / IDJC rather than a campus department; bio states she is an associate professor of communication at the Newhouse School."
+  },
+  {
+   "name": "Corey Takahashi",
+   "title": "Associate Professor, Magazine, News and Digital Journalism; Associate Professor, Communications; Associate Professor, M.S. in Communications",
+   "rank": "Associate Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/takahashi-corey/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/takahashi-2019-sized1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Arts and Cultural Journalism",
+    "Audio Production",
+    "Audio Storytelling",
+    "Blogs",
+    "Content Strategy",
+    "Corporate Branding/Marketing",
+    "Cultural Storytelling",
+    "Digital Engagement",
+    "Documentary History",
+    "Documentary Production",
+    "Documentary Writing",
+    "Editing in Journalism",
+    "Emerging Media",
+    "Food Writing",
+    "Global Communications",
+    "Immersive Journalism",
+    "Inclusive Reporting and Storytelling",
+    "Innovation in Journalism",
+    "Internet Technology",
+    "Magazine Journalism",
+    "Media and Diversity",
+    "Media Coverage of Arts and Culture",
+    "Media Entrepreneurship",
+    "Media Startups",
+    "Multi-Platform PSA Campaigns",
+    "Multimedia Journalism",
+    "Music Journalism",
+    "Music Recording",
+    "Online Audience Development",
+    "Online Education",
+    "Participatory &amp; Social Journalism",
+    "Podcasts",
+    "Popular Culture",
+    "Short Form Digital Production",
+    "Social and Interactive Video",
+    "Solo Journalism",
+    "Sound Recording",
+    "Travel Writing",
+    "Writing for Media",
+    "Writing for New Media",
+    "YouTube"
+   ],
+   "bio": "Corey Takahashi is a professor, online course designer, journalist and multimedia producer. At the Newhouse School, Takahashi focuses on multimedia and multiplatform storytelling, teaching undergraduate, graduate students and mid-career professionals from multidisciplinary backgrounds. He researches generational change in media and culture. Takahashi started his career in New York City as a founding editor at the music magazine, Blaze, and later worked on staff as an editor for Vibe, where he was an international contributor at the time of the publication's National Magazine Award (NMA) for General Excellence. Takahashi’s work also was nominated for an individual NMA, selected for the Best Music Writing anthology, and received special recognition from the Center for Documentary Studies. Takahashi worked on staff at Entertainment Weekly, Newsday and Public Radio International/New York Public Radio. He is a longtime cultural contributor to NPR. Takahashi has filed feature stories for Monocle, Quartz/Atlantic Media, CBC, BBC/PRI, The New York Times and The Wall Street Journal. A narrative storyteller in text, audio and video, Takahashi concentrates on how technology changes the modern story for creators and audiences. He was in the first group of professors selected for YouTube’s experimental Educator Lab in Los Angeles, and he’s one of the few YouTube-certified professors in higher education.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Robert Thompson",
+   "title": "Trustee Professor, Television, Radio and Film; Director, Bleier Center for Television and Popular Culture",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/thompson-robert/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/Bob-Thompson-web.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dubbed a \" pop culture ambassador \" by the Associated Press, Robert Thompson has contributed to hundreds of radio and TV programs and publications. He is the founding director of the Bleier Center for Television and Popular Culture and a Trustee Professor of Television and Popular Culture. He was a visiting professor for six summers at Cornell University and served for nine years as professor and director of the N.H.S.I. Television and Film Institute at Northwestern University. Thompson is the general editor of an ongoing series of books about television published by Syracuse University Press. He is the former president of the National Popular Culture Association and lectures across the country on the subject of television and popular culture. In 1991 and 1992, he was awarded the Stephen H. Coltrin Award for Excellence in Communication Theory by the International Radio and Television Society. Thompson is the author or editor of five books: \" Television's Second Golden Age \" (Continuum, 1996); \" Prime Time, Prime Movers \" (Little, Brown, 1992); \" Adventures on Prime Time \" (Praeger, 1990); and \" Television Studies \" (Praeger 1989).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jodi Upton",
+   "title": "Knight Chair in Data and Explanatory Journalism; Professor, Magazine, News and Digital Journalism",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/upton-jodi/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/upton_resized1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Accountability Reporting",
+    "Big Data",
+    "Data Journalism",
+    "Editing in Journalism",
+    "Freedom of Information Act (FOIA)",
+    "Investigative Reporting",
+    "Journalism Ethics",
+    "Qualitative Research Methods"
+   ],
+   "bio": "Jodi Upton, a 20-year data journalist, came to the Newhouse School from USA Today, where she was a senior database editor. She supervised a team of six database editors, data journalists, researchers and contractors. She and her team worked on data-driven coverage of topics including Veterans Administration hospitals, new economy jobs, mass killings and college football coaches’ salaries. Upton and her team won numerous awards, including Investigative Reporters and Editors (IRE) Phillip Meyer Awards; Associated Press Sports Editors Awards; a World Media Summit Innovation Award; Best of USA Today Awards; and the Iris Molotsky Award for Excellence in Coverage of Higher Education, among others. Upton was previously an investigative/data reporter for The Detroit News, and worked as a freelancer for Agence France-Presse and other publications. She is a past trainer and regular speaker with IRE.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jason Webb",
+   "title": "Assistant Professor, Visual Communications",
+   "rank": "Assistant Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/webb-jason/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2023/08/Jason-Webb-web.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Jason Webb (he/him/his) joined the visual communications department in the Newhouse School in Fall 2023 as a tenure-track assistant professor. He teaches classes in Motion Design, Character Animation, 2D and 3D Animation, Augmented and Virtual Reality. Prior to joining the faculty at Syracuse University, Webb has been an online learning analyst at Syracuse University. He also has taught multiple courses as an adjunct professor at the Newhouse School and the College of Visual and Performing Arts. Prior to that he was an itinerant computer education specialist. Webb’s research focuses on XR in Education with a goal creating educational content that is challenging and exciting for students to learn from. His work looks to push the boundaries of technology in storytelling . Subsequent research has been as the lead facilitator for EDUCAUSE Learning Lab – XR in Research. His recent publications focus on remote-instruction and fostering student creativity using technology. Professor Webb is a certified educator with professional affiliations from Adobe, Apple, Google, Microsoft and EDUCAUSE XR. Webb earned his Ph.D. in teaching and curriculum from the School of Education at Syracuse University in 2024. He received an M.A. from Newhouse in television, radio and film in 2017, an M.S. in technology education from Oswego State in 2005 and a B.S. in 2001 in technology education from Oswego State.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lars Willnat",
+   "title": "Professor, Communications; John Ben Snow Endowed Research Chair",
+   "rank": "Professor",
+   "department": "S.I. Newhouse School of Public Communications",
+   "profile_url": "https://newhouse.syracuse.edu/people/willnat-lars/",
+   "personal_url": null,
+   "photo_url": "https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/willnat_lars1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Comparative Media Studies",
+    "Global Communications",
+    "Media and Politics",
+    "Media in Asia",
+    "Political Communications"
+   ],
+   "bio": "Lars Willnat is the John Ben Snow Endowed Research professor in the Newhouse School. His research focuses on global journalism studies, media effects on political attitudes and behaviors and comparative survey research. He is currently working on various cross-national survey studies that explore public perceptions of the role of the news media in democracy, the effects of political polarization on perceptions of journalists and the media and the work of foreign correspondents around the world. Willnat is also analyzing the latest wave of The American Journalist project, which is a representative survey of United States journalists conducted every 10 years. The 2022 study, based on interviews with 1,600 full-time journalists working for almost 600 media organizations throughout the country, represents the most comprehensive analysis of the demographic backgrounds, working conditions and professional values of U.S. journalists. The 2022 survey updates our existing knowledge of American journalists with new findings about the impact of social media in the newsroom, the growing diversity in the field with more women and minority journalists and threats directed against journalists. The findings will be published in an upcoming book titled “ The American Journalist Under Attack: Media, Trust and Democracy .” His teaching includes courses on political and global communication, media theory, quantitative research methods and survey methods.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  }
+ ]
+}

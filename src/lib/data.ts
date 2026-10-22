@@ -13,13 +13,17 @@ export type Program = {
   domain: string | null; logo: string | null; shanghai: string | null; nca: string[]; units: Unit[];
   n: number; ranks: Record<string, number>; notes: string;
 };
-export type Taxonomy = { dimensions: Record<Dim, { label: string; label_zh: string; description: string; description_zh: string; labels: Record<string, string>; labels_zh: Record<string, string> }> };
+export type Taxonomy = { dimensions: Record<Dim, { label: string; label_zh: string; description: string; description_zh: string; labels: Record<string, string>; labels_zh: Record<string, string>; labels_short: Record<string, string>; labels_short_zh: Record<string, string> }> };
 
 export const BASE = (import.meta.env.BASE_URL as string).replace(/\/+$/, '') + '/';
 export const withBase = (p: string) => BASE + p.replace(/^\/+/, '');
 export const initials = (name: string) => name.split(/\s+/).filter(Boolean).filter((w) => !/^\(.*\)$/.test(w)).slice(0, 2).map((w) => w[0]).join('').toUpperCase();
 export const lastName = (name: string) => { const parts = name.replace(/,.*$/, '').trim().split(/\s+/); return parts[parts.length - 1] || name; };
 export function labelText(tax: Taxonomy, dim: Dim, code: string, lang: string) {
+  const d = tax.dimensions[dim];
+  return (lang === 'zh' ? d.labels_short_zh?.[code] : d.labels_short?.[code]) || d.labels[code] || code;
+}
+export function labelFull(tax: Taxonomy, dim: Dim, code: string, lang: string) {
   const d = tax.dimensions[dim];
   return (lang === 'zh' ? d.labels_zh[code] : d.labels[code]) || code;
 }

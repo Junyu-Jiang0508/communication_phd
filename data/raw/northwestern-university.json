@@ -1,0 +1,1142 @@
+{
+ "university": "Northwestern University",
+ "slug": "northwestern-university",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "Department of Communication Studies",
+   "school": "School of Communication",
+   "directory_url": "https://communication.northwestern.edu/academics/communication-studies/faculty.html",
+   "phd_program_url": "https://mts.northwestern.edu/",
+   "phd_program_name": "PhD in Media, Technology, and Society (MTS); PhD in Rhetoric, Media, and Publics (formerly PhD in Communication Studies)",
+   "notes": "Static directory page; tenure-line roster built by excluding titles containing Emerit*/Instruction/Fellow. Second PhD program page: https://phdcommunication.northwestern.edu/. Dept also co-hosts the PhD in Technology and Social Behavior (https://tsb.northwestern.edu/)."
+  },
+  {
+   "name": "Department of Radio/Television/Film",
+   "school": "School of Communication",
+   "directory_url": "https://communication.northwestern.edu/academics/radio-television-film/faculty.html",
+   "phd_program_url": "https://screencultures.northwestern.edu/",
+   "phd_program_name": "PhD in Screen Cultures",
+   "notes": "Static directory page; includes tenure-line screenwriting/production faculty (MFA programs) alongside Screen Cultures scholars; professors of instruction and emeriti excluded."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Moya Bailey",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/moya-bailey.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/moyabailey-530.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Feminist theory",
+    "Queer theory",
+    "Social Activism and Impact",
+    "Social Media"
+   ],
+   "bio": "Activism, Black Studies, Communications, Digital Humanities, Disability Studies, Gender Studies, History of Medicine, Media Studies, Queer Theory/Sexuality Studies Moya Bailey is a Professor at Northwestern University and is the founder of the Digital Apothecary , co-founder of the Black Feminist Health Science Studies Collective , and the digital alchemist for the Octavia E. Butler Legacy Network . She is a co-author of #HashtagActivism: Networks of Race and Gender Justice (MIT Press, 2020) and is the author of Misogynoir Transformed: Black Women’s Digital Resistance (New York University Press, 2021). She is an award winning documentarian after completing the short documentary You Just Watch & See (2025) featuring her late Cousin Dollie, and is completing a docuseries, Misogynoir in Medicine .",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Claudio Benzecry",
+   "title": "Professor; Director of Graduate Studies for the PhD in Media, Technology, and Society",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/claudio-benzecry.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/benzecry.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Claudio E. Benzecry is Professor of Communication Studies and Sociology (courtesy) at Northwestern University, and Director of Graduate Studies for the MTS PhD. He holds secondary appointments at LACS and the IPTD Programs. He is a sociologist interested in culture, arts, knowledge and globalization. His book The Opera Fanatic. Ethnography of an Obsession (University of Chicago Press, 2011) received the Mary Douglas Award for best book in the Sociology of Culture (2012), and Honorable mention for the ASA Distinguished Book award (2014). He is the editor of three volumes on theory, culture, and knowledge, including Social Theory Now (with Monika Krause and Isaac Reed, University of Chicago Press, 2017) and has published articles on sociological theory, sociology of culture, and the arts in venues such as Sociological Theory, Theory, Culture & Society, British Journal of Sociology and Theory & Society , among many others. In 2019, he started his tenure as co-Editor in Chief of Qualitative Sociology . His new book, The Perfect Fit. Creative Work in the Global Shoe Industry (University of Chicago Press), is based on five-year ethnographic research on fashion, creativity, and globalization, following how a shoe is imagined, sketched, designed, developed, and produced in between the US, Europe, Brazil and China.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Thomas J. Billard",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/thomas-billard.html",
+   "personal_url": "https://www.thomasjbillard.com/",
+   "photo_url": "https://communication.northwestern.edu/images/faculty/billard_highres.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital Media",
+    "Gender Diversity and Equality",
+    "Political Communication",
+    "Social Activism and Impact"
+   ],
+   "bio": "TJ Billard studies the important role media plays in the social and political equality of transgender people in the United States and globally. In particular, they focus on the digital media strategies social movements use to fight both for and against transgender equality. TJ Billard is an associate professor in the School of Communication and, by courtesy, the Department of Sociology at Northwestern University, where they are affiliated with the Center for Communication & Public Policy and the Institute for Sexual and Gender Minority Health and Wellbeing. Outside of Northwestern, they are the founding executive director of the Center for Applied Transgender Studies in Chicago—the leading academic organization dedicated to scholarship on the social, cultural, and political conditions of transgender life—and editor of the Center’s flagship journal, the Bulletin of Applied Transgender Studies. Dr Billard’s research spans political communication, the sociology of social movements, and transgender studies, with a primary focus on the relationship between media and the US transgender rights movement. They also conduct research on typography and graphic design, with an emphasis on the role of design in political branding. Prior to joining Northwestern, Dr Billard served as Consortium on Media Policy Studies Fellow and, later, as Archival Fellow at the National Center for Transgender Equality.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jeremy Birnholtz",
+   "title": "Department Chair; Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/jeremy-birnholtz.html",
+   "personal_url": "https://socialmedia.northwestern.edu/",
+   "photo_url": null,
+   "google_scholar_url": null,
+   "research_areas": [
+    "Design",
+    "Human-Machine Interaction",
+    "Social Media"
+   ],
+   "bio": "My research focuses on the mechanisms and dynamics of attention and self-presentation as these play out in online environments. Jeremy Birnholtz’s research focuses on human-computer interaction issues, such as attention, online identity, and collaboration through the use of technology. He has lectured and published widely on subjects that include LGBTQ+ experiences online, young people’s attention to instant messaging, and deception in text messaging. Jeremy has served several stints as a Visiting Professor at Facebook, working closely with several product teams.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Pablo J. Boczkowski",
+   "title": "Professor; Hamad Bin Khalifa Al-Thani Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/pablo-boczkowski.html",
+   "personal_url": "https://boczkowski.org/",
+   "photo_url": "https://communication.northwestern.edu/images/faculty/boczkowski-pablo.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital Media",
+    "Latinx Culture and Politics",
+    "Social Media"
+   ],
+   "bio": "My research program examines the dynamics of digital culture from a comparative perspective. My next current book manuscript is tentatively entitled “Digital Freud: Mental Health, Selfhood and Society in Contemporary Life.” Pablo J. Boczkowski has doctorates in Clinical Psychology (Universidad de Belgrano, 1994) and Science and Technology Studies (Cornell University, 2001). He completed a four-year interdisciplinary residency in mental health at the Alvear Hospital Buenos Aires, Argentina, before moving to the United States to retrain in S&TS. He was an assistant professor at MIT from 2001 until 2005, and since then has been at Northwestern University, with a primary appointment in the Department of Communication Studies. His research program examines digital culture from a comparative perspective, with a special focus on Latin America and Latinx USA. Boczkowski is the author of eight books that which received a combined twelve awards, two honorable mentions and two finalist selections from six different international scholarly associations and the Argentine government.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Listed on both the Communication Studies and RTVF directories; profile lists both departments. Recorded once under Communication Studies."
+  },
+  {
+   "name": "Larissa Buchholz",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/larissa-buchholz.html",
+   "personal_url": "https://larissabuchholz.soc.northwestern.edu/",
+   "photo_url": "https://communication.northwestern.edu/images/faculty/buchholzz_larissa.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Art and Cultural Production",
+    "Cultural Markets",
+    "Globalization",
+    "Intellectuals and Knowledge",
+    "Sociology Theory"
+   ],
+   "bio": "Larissa Buchholz is an award-winning sociologist who works at the intersections of the sociology of art and culture, global and transnational sociology, and theory. She also has interests in comparative-historical sociology, the sociology of markets, and the sociology of intellectuals and knowledge. Having earned four graduate degrees (three master’s degrees and a PhD in sociology from Columbia University), Buchholz is an Associate Professor of Communication Studies and Sociology (by courtesy) at Northwestern University and a faculty fellow at the Critical Realism Network at Yale University. She was the first woman sociologist elected to the Harvard Society of Fellows in its nearly 100-year history. Buchholz’s book, The Global Rules of Art (Princeton University Press, 2022), examines the emergence of a global cultural field and how artists from formerly “peripheral” countries achieve global visibility and recognition. Among reviews, the book has been described as “a stunning scholarly achievement that sets a new standard for sociological analysis,” “theoretically and empirically exceptional,” and “a reference book for now and future generations.” The study also won the International Book Award for Art. Buchholz has additionally published more than thirty academic pieces (including peer-reviewed articles, book chapters, and encyclopedia entries), which have been cited by scholars across six continents in the social sciences and humanities.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Aymar Jean Christian",
+   "title": "Professor; Director, Master of Science in Leadership for Creative Enterprises; Margaret Walker Chair",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/aymar-jean-christian.html",
+   "personal_url": "https://ajchristian.org/",
+   "photo_url": "https://communication.northwestern.edu/images/faculty/christian,-aj.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Black studies",
+    "Cinema-Film",
+    "Digital Media",
+    "Diversity",
+    "Equity and Inclusion",
+    "Media production",
+    "Queer theory",
+    "Social Media",
+    "Television"
+   ],
+   "bio": "AJ Christian is scholar and producer exploring power in media and technology through creative R&D. He uses media/art research and development as a tool for community-building, cultural critique and experimentation. For 10 years he has explored how the new technologies have transformed the art of storytelling, production and distribution. Aymar Jèan \"AJ\" Christian is a professor of communication studies at Northwestern University and director of the Media and Data Equity (MADE) Lab. His research focuses on the political economy of legacy and new media, cultural studies and community-based research. He published his first book, Open TV: Innovation Beyond Hollywood and the Rise of Web Television, on New York University Press, and is writing his second book, Reparative Media: Cultivating Stories and Platforms to Heal our Culture, which explores how to repair systemic harm and discrimination in media, technology and research. His scholarship has been published in numerous academic journals, including the International Journal of Communication, Television & New Media, Social Media & Society, Journal of Cinema and Media Studies, among other journals and edited collections. Dr. Christian engages industry and community-based organizations as part of his research. He has given lectures for and collaborated with the Sundance Institute, Vimeo, the SAG-AFTRA Foundation, Black Public Media, and more.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Noshir Contractor",
+   "title": "Jane S. & William J. White Professor of Behavioral Sciences",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/noshir-contractor.html",
+   "personal_url": "https://nosh.northwestern.edu/cv-2/",
+   "photo_url": "https://communication.northwestern.edu/images/faculty/n-contractor.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences in the McCormick School of Engineering & Applied Science, the School of Communication and the Kellogg School of Management and Director of the Science of Networks in Communities (SONIC) Research Group at Northwestern University. He is also the President-Elect-Select of the International Communication Association (ICA). Professor Contractor has been at the forefront of three emerging interdisciplines: network science, computational social science and web science. He is investigating how social and knowledge networks form – and perform – in contexts including business, scientific communities, healthcare and space travel. His research has been funded continuously for 25 years by the U.S. National Science Foundation with additional funding from the U.S. National Institutes of Health, NASA, DARPA, Army Research Laboratory and the Bill & Melinda Gates Foundation. His book Theories of Communication Networks (co-authored with Peter Monge) received the 2003 Book of the Year award from the Organizational Communication Division of the National Communication Association. He is a Fellow of the American Association for the Advancement of Science (AAAS) and the Association for Computing Machinery (ACM).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Named chair held jointly across McCormick Engineering, School of Communication and Kellogg; listed as active Communication Studies faculty."
+  },
+  {
+   "name": "Ignacio Fernandez Cruz",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/ignacio-f-cruz.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/cruz-2023-headshot33-cropped.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Communication Design for Social Justice",
+    "Digital Transformation of Work",
+    "Emerging Technologies",
+    "Organizational Communication"
+   ],
+   "bio": "Ignacio Fernandez Cruz is an expert in organizational communication and emerging technologies, emphasizing how knowledge and expertise flow through people, organizations, and technologies with a commitment to communication design for social justice. Ignacio Fernandez Cruz is an Assistant Professor of Communication in the School of Communication at Northwestern University. Dr. Cruz's expertise sits at the intersection of new ways of organizing, sociotechnical practices that intertwine AI technologies with employees, and the dynamic shifts in knowledge and expertise within today's workforce. He is currently working on various projects that delve into the hiring and selection practices of personnel utilizing AI for talent acquisition and the design of communication technologies that highlight fairness, accountability, and equity. Furthermore, Dr. Cruz is invested in understanding how rapid advancements in digital technologies and platforms transform work arrangements and reshape personnel practices. His scholarship has been featured in various outlets within the areas of communication studies, management, and information studies research. He has won several research awards from the National Communication Association and International Communication Association. Prior to joining Northwestern, Dr. Cruz was a former National Science Foundation Graduate Research Fellow and Ronald E. McNair Scholar.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Leslie DeChurch",
+   "title": "Professor; Sheikh Hamad Bin Khalifa Al Thani Chair in Communication",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/leslie-dechurch.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/l-dechurch530.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Leslie A. DeChurch is an academic and expert in organizational leadership and teamwork. She is Professor of Communication Studies (School of Communication) and holds courtesy appointments in Management & Organizations (Kellogg School of Management) and the Department of Psychology (Weinberg College of Arts & Sciences) at Northwestern University. Her research examines the leadership and teamwork that make extraordinary success possible, from the Italian Renaissance to space exploration to human-AI partnerships. DeChurch leads the ATLAS lab: Advancing Teams, Leaders, and Systems . ATLAS conducts laboratory and online experiments, meta-analytic integrations, and field studies of teams and leaders to understand their core organizing processes. DeChurch is Director of the immersive undergraduate program Leading a Renaissance, Then and Now, convened in Florence, Italy each summer. Professor DeChurch was awarded an NSF CAREER to explore Leadership for Virtual Organizational Effectiveness and her research program on teamwork and leadership has been continuously funded by agencies including the National Science Foundation (NSF), National Institutes for Health (NIH), National Aeronautical and Space Agency (NASA), and Army Research Office (ARO). She is co-editor of Multiteam Systems: An Organization Form for Dynamic and Complex Environments and recently served on the National Research Council Committee on The Context of Military Environments.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Nicholas Diakopoulos",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/nicholas-diakopoulos.html",
+   "personal_url": "https://cj-lab.org/",
+   "photo_url": "https://communication.northwestern.edu/images/faculty/diakopoulos_nick.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Data Science",
+    "Design",
+    "Human-Machine Interaction",
+    "Journalism Industry"
+   ],
+   "bio": "My research is in computational journalism with active research projects on algorithmic accountability and transparency, automation and algorithms in news production, and social media in news contexts. Nicholas Diakopoulos is a professor in Communication Studies and Computer Science (by courtesy) at Northwestern University where he directs the Computational Journalism Lab and is director of Graduate Studies for the Technology and Social Behavior PhD program. His research focuses on computational journalism, including aspects of automation and algorithms in news production, algorithmic accountability and transparency, and social media in news contexts. He is the author of the award-winning book, Automating the News: How Algorithms are Rewriting the Media , published by Harvard University Press. He received his Ph.D. and M.S. degrees in Computer Science from the School of Interactive Computing at the Georgia Institute of Technology, and his Sc.B. degree in Computer Engineering from Brown University.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Rayvon Fouché",
+   "title": "Professor; Associate Dean for Graduate Education",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/rayvon-fouche.html",
+   "personal_url": "https://www.rayvonfouche.com",
+   "photo_url": "https://communication.northwestern.edu/images/faculty/rayvonfouche.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Black studies",
+    "Design",
+    "Diversity",
+    "Equity and Inclusion",
+    "Visual cultures"
+   ],
+   "bio": "Rayvon Fouché's scholarship explores the multiple intersections and relationships between cultural representation, racial identification, and technoscientific design. Rayvon Fouché holds a joint appointment as Professor of Communication Studies, School of Communication, and Professor of Journalism, Medill School of Journalism, Media, and Integrative Marketing Communications, and is currently Associate Dean for Graduate Education in the School of Communication. His major publications include Black Inventors in the Age of Segregation (Johns Hopkins University Press, 2003), Appropriating Technology: Vernacular Science and Social Power (University of Minnesota Press, 2004), Technology Studies (Sage Publications, 2008), the 4th Edition of the Handbook of Science & Technology Studies (MIT Press, 2016), Game Changer: The Technoscientific Revolution in Sports (Johns Hopkins University Press, 2017), and Technoskepticism: Between Possibility and Refusal (Stanford University Press, 2025). He is currently the Editor-in-Chief for the Oxford Research Encyclopedia of Science, Technology, and Society . He was the inaugural Arthur Mollela Distinguished Fellow at the Smithsonian Institution's Lemelson Center for the Study of Invention and Innovation. Grants and awards from the Andrew W.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Dilip Gaonkar",
+   "title": "Professor, Culture and Communication; Director of the Center for Global Culture and Communication",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/dilip-gaonkar.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/gaonkar_dilip-copy.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dilip Gaonkar is Professor in Rhetoric and Public Culture and the Director of Center for Global Culture and Communication at Northwestern University. He is also the Director of Center for Transcultural Studies, an independent scholarly research network concerned with global issues. He was closely associated with the journal, Public Culture, serving as the Executive Editor (2000-2009) and as Editor (2009-2011). Gaonkar has two sets of scholarly interests: rhetoric as an intellectual tradition, both its ancient roots and its contemporary mutations; and, global modernities and their impact on the political. He has published numerous essays on rhetoric, including “The Idea of Rhetoric in the Rhetoric of Science” that was published along with ten critical responses to the essay in a book, Rhetorical Hermeneutics: Invention and Interpretation in the Age of Science , edited by Alan G. Gross and William Keith (1996). Gaonkar has edited a series books on global cultural politics: Globalizing American Studies (with Brian Edwards, 2010), Alternative Modernities (2001), and Disciplinarity and Dissent in Cultural Studies (1995).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Darren Gergle",
+   "title": "Bao Family Professor in Human-Computer Interaction",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/darren-gergle.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/gergle_darren.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Darren Gergle’s teaching and research interests are broadly defined by the fields of Human-Computer Interaction (HCI) and Computer Supported Cooperative Work (CSCW). In particular, he is interested in furthering our theoretical understanding of the impact technological mediation has on communication, and applying this to the design, development, and evaluation of novel collaboration technologies.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Robert Hariman",
+   "title": "Owen L. Coon Professor of Argumentation and Debate; Director, Master of Science of Communication",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/robert-hariman.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/hariman-bob.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Public Discourse",
+    "Rhetoric",
+    "Visual Culture"
+   ],
+   "bio": "Current work includes continuing although spotty involvement in the history of rhetoric and the study of modern visual public culture, and a new, long-term project that attempts to reboot formalism as a post-critical method for engagement with the existential problems of the Anthropocene. Robert Hariman joined the Northwestern faculty in 2004. His scholarship focuses on the role of public art and artistry in human affairs, particularly with regard to political judgment and the discursive constitution of modern society. Hariman teaches courses in rhetorical theory and the critical study of public culture. In addition to his book publications, Hariman has numerous book chapters and journal articles in several disciplines, and his work has been translated into Arabic, Chinese and French. Selected publications: The Public Image: Photography and Civic Spectatorship , co-authored with John Louis Lucaites (Chicago: University of Chicago Press, 2016); Culture, Catastrophe, and Rhetoric: The Texture of Political Action , co-edited with Ralph Cintron, Studies in Rhetoric Culture, vol.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Heather Hendershot",
+   "title": "Professor; Cardiss Collins Professor of Communication Studies and Journalism",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/heather-hendershot.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/hendershot-headshot-for-nu-website_heather-hendershot.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Cinema-Film",
+    "Journalism Industry",
+    "Media analysis",
+    "Television"
+   ],
+   "bio": "Professor Hendershot researches American film, television, and political culture, focusing on the 1960s-70s. She has published books on both mainstream network news and on conservative and right-wing media. Her latest work centers on journalistic coverage of the Chicago 1968 Democratic National Convention. Her essays have appeared in the Nation, the Washington Post, The Conversation, and Politico. Heather Hendershot studies TV news, conservative media, political movements, and American film and television history. Her courses emphasize the interplay between creative, political, technical, and regulatory concerns, and how those concerns affect what we see on the screen (big or little). Her recent book, When the News Broke: Chicago 1968 and the Polarizing of America , received an award from the Pattis Family Foundation/Newberry Library, was praised in the New York Review of Books , and in February 2023 was chosen as a “Best Book” by the New Yorker . Earlier books include Open to Debate: How William F. Buckley Put Liberal America on the Firing Line (2016) and What’s Fair on the Air? Cold War Right-Wing Broadcasting and the Public Interest (2011). She began her career with a research focus on children’s television and conservative evangelical media.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Cardiss Collins Professor of Communication Studies and Journalism (joint with Medill); directory entry lacks the Core-Faculty tag used for most others."
+  },
+  {
+   "name": "Ágnes Horvát",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/%C3%A1gnes-horv%C3%A1t.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/agnes-horvat.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Ágnes Horvát is an Associate Professor of Communication Studies and Computer Science (by courtesy) at Northwestern University, where she directs the Lab on Innovation, Networks, and Knowledge ( LINK ). Her research lies in human-centered computing and network science and investigates how online spaces operate and disseminate information. Her goal is to make digital tools more efficient for scientists, entrepreneurs, and creative artists. Her recent projects investigate the use of LLMs in scientific writing and music creation, study biases in online attention to science, and identify opportunities for AI-facilitated decision-making. Professor Horvát developed and teaches the 'Cultural Analytics' course that trains students for careers at the intersection of creative occupations, AI, and data science. Her work has been awarded an NSF CAREER, CRII, and collaborative awards as PI. Her doctoral advisees have received highly competitive prizes, including a Northwestern Presidential Fellowship and best student paper awards at international conferences. Her research has been featured recently in Nature , The New York Times , The Washington Post , Le Monde , The Economist, and Frankfurter Allgemeine Zeitung .",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Matthew Kay",
+   "title": "Associate Professor; Director of Graduate Studies for the PhD in Technology and Social Behavior",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/matthew-kay.html",
+   "personal_url": "https://www.mjskay.com/",
+   "photo_url": "https://communication.northwestern.edu/images/faculty/kay_matthew.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Matthew Kay works in human–computer interaction and information visualization, specifically communicating uncertainty, usable statistics, and personal informatics. He tackles problems using a multi-faceted approach, including qualitative and quantitative analysis of behavior, building and evaluating interactive systems, and designing and testing visualization techniques. He co-directs the Midwest Uncertainty Collective ( MU collective ). He holds appointments in Communication Studies and Computer Science. Previously, he was faculty at the University of Michigan School of Information. From personal site: I am an Associate Professor in CS and Communication at Northwestern. I work in human–computer interaction and information visualization. My research includes work on visualizing uncertainty , usable statistics , and visualization literacy . I tackle problems using a multi-faceted approach, including qualitative and quantitative analysis of behavior, building and evaluating interactive systems, and designing and testing visualization techniques. I co-direct the Midwest Uncertainty Collective ( MU collective ), and I am the author of the tidybayes and ggdist R packages for uncertainty visualization. Previously, I was an Assistant Professor at UMSI . For an up-to-date picture of my work, see the MU collective website. Some areas of my work (not necessarily current) include: Communicating uncertainty: We are increasingly exposed to sensing and prediction in our daily lives (“how m",
+   "sources": [
+    "department_directory",
+    "department_profile",
+    "personal_site"
+   ],
+   "notes": "Department profile is brief; bio supplemented from personal site. Appointments in Communication Studies and Computer Science. Directory website link was malformed; corrected to https://www.mjskay.com/."
+  },
+  {
+   "name": "Marwan M. Kraidy",
+   "title": "Dean Northwestern Univ, Qatar; Professor, Communication Studies; Anthony Shadid Chair in Global Media, Politics and Culture",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/marwan-kraidy.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/kraidy-marwan.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Marwan M. Kraidy is dean and CEO of Northwestern in Qatar, where he oversees all academic, administrative, and operational units. These include academic programs in communication, journalism, and the liberal arts, a museum, a library, digital production studios, and an ultra-modern newsroom, in a state of the art 515,000 square-foot campus in Education City, Doha. Dean Kraidy is also a professor of communication and the Anthony Shadid Chair in Global Media, Politics and Culture at Northwestern. In 2021, Kraidy founded the Institute for Advanced Study in the Global South, which hosts multidisciplinary teams of faculty and students dedicated to evidence-based storytelling on the diverse histories, cultures, societies, and media of the Global South. The Institute will host fellows, mentor emerging scholars, and produce multi-lingual and multi-modal outputs. A scholar of global communication and an authority on Arab media, culture, and politics, Kraidy is a leading figure in global media studies. His interdisciplinary expertise spans culture and geopolitics, theories of identity and modernity, humanistic inquiry, comparative media systems, images and effects, media industries, and digital sovereignty. Fluent in Arabic, English, and French and conversant in Spanish, Kraidy has authored 13 award-winning books and more than 130 articles, essays, and chapters.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Dean and CEO of Northwestern University in Qatar (Doha); listed as Professor of Communication Studies on the Evanston directory."
+  },
+  {
+   "name": "Bruce L. Lambert",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/bruce-lambert.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/lambert_bruce.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Communication Skills",
+    "Crisis Communication",
+    "Data Science",
+    "Healthcare Quality and Safety",
+    "Predictive Analytics",
+    "Social Media"
+   ],
+   "bio": "I teach and do research in health communication. My research focuses on patient safety and healthcare quality, with a specific emphasis on using information technology to improve medication safety. Bruce Lambert is a professor in the Department of Communication Studies at Northwestern University. He also holds a courtesy appointment in the Department of Medical Social Sciences at Northwestern, and is an Adjunct Professor in the Department of Pharmacy Systems, Outcomes, and Policy at the University of Illinois at Chicago College of Pharmacy. His research focuses on health communication, drug name confusion, patient and medication safety, health information technology, prescribing behavior, pharmaceutical promotion, medical liability reform, and health outcomes associated with provider-patient communication. Lambert’s publications have appeared in JAMA, The Archives of Internal Medicine, Journal of General Internal Medicine, Medical Care, The American Journal of Epidemiology, Drug Safety, Health Communication, Social Science & Medicine, The American Journal of Health-System Pharmacy, and many others. He is also president of BLL Consulting, Inc. a firm that specializes in problems that involve health, communication, and technology. He blogs about communication at HowCommunicationWorks.com.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Calvin Liang",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/calvin-liang.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/calvinliang-530.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Design",
+    "Diversity",
+    "Equity and Inclusion",
+    "Human-Machine Interaction",
+    "Queer theory"
+   ],
+   "bio": "My research focuses on designing technologies to address health inequities for marginalized communities, particularly supporting queer and trans people with their holistic health needs.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Department profile contains only a one-sentence research statement; no longer bio on the site."
+  },
+  {
+   "name": "Duri Long",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/duri-long.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/duri_long.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Duri Long is a human-centered AI researcher interested in issues surrounding AI literacy and human-AI interaction. Increasing public interest in and use of AI demands improved resources for aiding in public understanding of AI as well as developments in technology that allow AI to interact comfortably with humans in complex social settings. Dr. Long's research looks to how humans interact and learn as a way of informing the design of public AI literacy interventions as well as the development of AI that can interact naturally and improvise creatively with people in complex social environments. Dr. Long employs a variety of methodologies and theoretical frameworks in her research, drawing on the learning sciences, design research, and cognitive science. She has experience working with artists and museums around the country to develop co-creative, embodied exhibits and art installations involving AI and technology. Dr. Long holds a Ph.D. in Human-Centered Computing from Georgia Tech and a BS in Computer Science with a second major in Dramatic Art from the University of North Carolina at Chapel Hill.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Yingdan Lu",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/yingdan-lu.html",
+   "personal_url": "https://www.yingdanlu.com",
+   "photo_url": "https://communication.northwestern.edu/images/faculty/yingdan-lu_cropped.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Authoritarian Politics",
+    "Computational Social Science",
+    "Digital Technology",
+    "Information Manipulation",
+    "Mixed Methods Research",
+    "Political Communication"
+   ],
+   "bio": "Yingdan Lu's research focuses on digital technology, political communication, and information manipulation in authoritarian and democratic contexts. Her research employs both computational and qualitative methods to understand how authoritarian governments use digital media and artificial intelligence to maintain their rule, and how individuals experience digital technology in different media environments. Yingdan Lu is an Assistant Professor in the Department of Communication Studies at Northwestern University. Yingdan’s research centers on digital technology, political communication, and authoritarian politics. In particular, her research explores the following questions: How do authoritarian governments like China use digital media and artificial intelligence strategically to maintain their rule and what are the resulting downstream effects? How do individuals experience digital technology in different media environments and what are the impacts? Her research has been published in flagship peer-reviewed journals across disciplines, including Political Communication , New Media & Society , International Journal of Press/Politics , and Human-Computer Interaction . Her research has received support from multiple funding sources, such as the National Science Foundation, Brown Institute for Media Innovation, and the Stanford Institute for Human-Centered Artificial Intelligence.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Erik C. Nisbet",
+   "title": "Professor; Owen L. Coon Endowed Professor in Policy Analysis and Communication",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/erik-nisbet.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/nisbet-530.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "International Politics",
+    "Political Communication",
+    "Public Persuasion and Opinion",
+    "Science and Environmental Communications"
+   ],
+   "bio": "Erik C. Nisbet is the Owen L. Coon Endowed Professor of Policy Analysis & Communication and director of the Center for Communication & Public Policy. His research lies at the intersection of communication, public opinion, and public policy in the areas of science, technology, and environmental policy, democracy and elections, and international security. Erik C. Nisbet (Ph.D., Cornell University) is the Owen L. Coon Endowed Professor of Policy Analysis & Communication and director of the Center for Communication & Public Policy in the School of Communication at Northwestern University. His research lies at the intersection of media, public opinion, and public policy in the areas of science, technology, and environmental policy, democracy and elections, and international security. An expert on cross-national survey methodology and field experiments, Erik has led research projects in the United States, Russia, Ukraine, Serbia, Turkey, Iran, France, Great Britain, Germany, Poland, and several Arab countries. His research has been supported by multiple grants from the National Science Foundation, Office of the Director of National Intelligence, and the U.S. Department of States. Selected publications: Osborne, M.A., Malloy, S., Nisbet, E.C., Bond, R.M., Tien, J.H. (2022). Sentinel node approach to monitoring online COVID-19 misinformation. Scientific Reports. 12; Dal, A. and Nisbet, E.C. (in press).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Angela G. Ray",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/angela-ray.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/angela-ray.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media analysis",
+    "Memory",
+    "Public Persuasion and Opinion",
+    "Rhetorical History"
+   ],
+   "bio": "Ray's scholarship and teaching emphasize rhetorical analysis and rhetorical history, and she has special expertise in nineteenth-century popular education and social reform. She is best known for her work on the lyceum lecture system in the mid-nineteenth-century United States. Her current research investigates clandestine debating among young Black men in antebellum South Carolina. Angela G. Ray is Associate Professor in the Communication Studies Department. Currently she is core faculty in the PhD program in Rhetoric, Media, and Publics and a member of the Executive Committee for the Interdisciplinary PhD in Theatre and Drama. Ray held a Charles Deering McCormick Professorship of Teaching Excellence from 2010 to 2013. From 2017 to 2020 she was Associate Dean for Academic Affairs in The Graduate School and chair of the Editorial Board of Northwestern University Press; from 2021 to 2024 she was Associate Dean for Graduate Education in the School of Communication. Her scholarship and teaching focus on rhetorical analysis and rhetorical history, with specialties in nineteenth-century U.S. popular education and social reform. Her book The Lyceum and Public Culture in the Nineteenth-Century United States won top awards from the American Forensic Association, the National Communication Association, and the Rhetoric Society of America.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Courtney Lynam Scherr",
+   "title": "Associate Chair; Associate Professor; Director of Undergraduate Studies",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/courtney-scherr.html",
+   "personal_url": "https://www.courtneylscherr.com/arch-lab",
+   "photo_url": "https://communication.northwestern.edu/images/faculty/scherr_courtney.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Health Communication",
+    "Risk Communication"
+   ],
+   "bio": "Courtney Scherr’s research agenda focuses on the theory guided design and evaluation of messages containing scientific information about risk to patients. The goal of her work is to increase patient understanding, engage patients in informed decision making, and increase adherence to medical recommendations. Dr. Scherr's research program focuses on the communication of risk and uncertainty in health. With training in health communication, public health, and behavioral medicine, her program is applied and interdisciplinary. She is interested in how the communication of risk and uncertainty, particularly informed by medical scientific advancements, impacts patients’ risk perceptions, informed decision-making, and adherence to medical recommendations. To pursue this agenda, I have engaged in a two-part program of research which include: (1) clinical communication of risk and uncertainty and (2) public communication of risk and uncertainty. Genetics is a specific context in which the successful communication of risk and uncertainty has the potential to significantly decrease morbidity and mortality in preventable or treatable adult-onset conditions (e.g., cancer, cardiology). Consequently, much of my work has focused on genetics and I have applied the methodologies and theories developed in genetics to other contexts where messages of risk and uncertainty exist like early identification of developmental delays and vaccination.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "James Schwoch",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/james-schwoch.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/schwoch_jim.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Climate",
+    "Energy and Environment",
+    "Indigenous studies",
+    "Media History",
+    "Science and Technology Studies"
+   ],
+   "bio": "James Schwoch conducts research and teaching in climate, energy, and environment; science and technology studies; global media; and media history. Schwoch has held visiting professorships in Finland on three occasions. He was a resident fellow at the Center for Strategic and International Studies from 1997-1998. Additional agencies and institutions supporting his previous and current research include the National Endowment for the Humanities, the National Science Foundation, the Ford Foundation, the Rachel Carson Center for Environment and Society, and the Fulbright Commission (Germany and Finland.) He is also a Northwestern faculty member or affiliate in the Program of Science in Human Culture; the Program of Environmental Sciences; the Buffett Institute for Global Affairs; and the Institute for Sustainability and Energy. Selected publications: Wired Into Nature: The Telegraph and the North American Frontier. Urbana: University of Illinois Press. 2018.; Down To Earth: Satellite Industries, Technologies and Cultures. New Brunswick: Rutgers University Press. 2012. Co-edited with Lisa Parks.; Global TV: New Media and the Cold War, 1946-1969. Urbana: University of Illinois Press. 2009.; Questions of Method in Cultural Studies. Oxford (and Malden): Blackwell. 2005 (UK-ROW) and 2006 (USA). Co-edited with Mimi White.; Writing Media Histories: Nordic Views . Jyvaskyla: University of Jyvaskyla Press. 1997.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Aaron Shaw",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/aaron-shaw.html",
+   "personal_url": "http://aaronshaw.org/",
+   "photo_url": "https://communication.northwestern.edu/images/faculty/shaw_aaron.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Data Science",
+    "Digital Media",
+    "Human-Machine Interaction",
+    "Organizational Behavior"
+   ],
+   "bio": "Aaron Shaw studies collaboration, governance, and inclusion in participatory organizations. Most of his work focuses on online communities that create public information resources like Wikipedia. Aaron Shaw is a Professor of Communication Studies and Sociology (by courtesy) at Northwestern University, where he is affiliated with the Center for Human-Computer Interaction + Design, the Institute for Policy Research, and the Buffett Institute for Global Affairs. Shaw is also a Faculty Associate of the Berkman-Klein Center for Internet & Society at Harvard University; co-founder of the Community Data Science Collective. He has held a fellowship at the Center for Advanced Study in the Behavioral Sciences (CASBS) at Stanford University; and will serve as \"Scholar in Residence\" in King County, Washington during the 2022-2023 academic year. Shaw holds degrees from Stanford and UC Berkeley and his research has received awards from scholarly associations including the American Sociological Association, the Association for Computing Machinery, and the American Political Science Association. For links to recent research, please see Shaw's semantic scholar page , the Community Data Science Collective \"publications\" page , or his personal web site .",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Michelle Shumate",
+   "title": "Professor, Delaney Family University Research Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/michelle-shumate.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/shumate_michelle.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Communication Skills",
+    "Design",
+    "Network Science",
+    "Organizational Behavior",
+    "Social Activism and Impact",
+    "Strategic Communication"
+   ],
+   "bio": "My recent research focuses on Systems of Care. Systems of care are networks designed to connect help-seekers to benefits, programs, and services offered by government and nonprofit organizations. The Army Research Office funded my work evaluating 11 Coordinated Service Delivery Systems. It examined the outcomes of more than 10,000 service episodes and evaluated the relative effectiveness of each network. In addition, she completed a statewide scan for Coordinated Service Delivery Systems in Pennsylvania for The Heinz Endowments. The analysis documented the design and analytics differences in 25 systems. My current research, also supported by the Army Research Office, focuses on helping Systems of Care determine the right referral for a help-seeker - one that will lead to greater wellbeing in the long term. Michelle is the founding director of the Network for Nonprofit and Social Impact (NNSI), the Delaney Family University Research Professor, and Associate Faculty at the Institute for Policy Research at Northwestern University. NNSI is dedicated to answering the question: How can government and nonprofit networks be rewired for maximum social impact? Her research focuses on how to design interorganizational networks to make the most social impact. She is the author of Networks for Social Impact (2022, Oxford University Press). The National Science Foundation recognized her research with a CAREER award.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Nathan Walter",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/nathan-walter.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/nathan-waltercrop.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Emotion and Affect",
+    "Entertainment Education",
+    "Media psychology",
+    "Misinformation and Fake News"
+   ],
+   "bio": "Nathan Walter research concerns the power of strategic storytelling, correction of misinformation, and the role of emotion and affect in social influence. Studying the contexts of health, politics, and science, his research interests boil down to one simple question: how to augment the influence of “good information” and attenuate the influence of “bad information?” Nathan Walter (Ph.D. University of Southern California) is an Associate Professor in the Department of Communication Studies at Northwestern University. He is Founder and Co-Director of the Center of Media Psychology and Social Influence (COM-PSI). Walter’s research concerns the power of strategic storytelling, correction of misinformation, and the role of emotion and affect in social influence. His studies have been published in a number of leading outlets, including the Journal of Communication, Communication Research, Human Communication Research, and Communication Monographs. His most recent work, which is supported by the NIH/FDA, the Peterson Foundation, the Chicago Center for Diabetes Translation Research, and the Delaney Foundation, focuses on novel methods to debunk misinformation and change behavior. Walter's overarching research agenda revolves around the development of multilevel and ecological models that provide a nuanced approach to the study of communication-related phenomena. Selected publications: Walter, N., Cohen, J., Nabi, R. L., & Saucier, C. J. (2022).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Sulafa Zidani",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://communication.northwestern.edu/faculty/sulafa-zidani.html",
+   "personal_url": "https://www.sulafazidani.com/",
+   "photo_url": "https://communication.northwestern.edu/images/faculty/zidani_headshot.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Critical Internet Studies",
+    "Digital Media",
+    "Global Communication",
+    "Media Cultures in the Global South",
+    "Social Activism and Impact"
+   ],
+   "bio": "Sulafa Zidani studies internet cultures in the Global South. Her research, conducted in five languages, across geopolitical contexts, examines the creative strategies and tactics used by transnational youth as they navigate the changing power dynamics of contemporary globalization. Sulafa Zidani is a scholar of global digital culture at Northwestern University, where she is an Assistant Professor of Communication Studies. She also holds an affiliation with Northwestern Qatar's Institute for Advanced Study in the Global South. Prior to joining the faculty at Northwestern, Dr. Zidani was an Assistant Professor of Global Civic Media in the Department of Comparative Media Studies|Writing at the Massachusetts Institute of Technology. Through her scholarship and public engagement, she takes part in building justice-informed media practices. Her first book project, All Your Meme Are Belong To Us: Internet Cultures in the Global South (in progress), explores creative practices in online civic engagement across geopolitical contexts and languages such as Mandarin, English, Arabic, Hebrew, and French. She has also published on online culture mixing, Arab and Chinese media politics, and critical transnational pedagogy in venues such as: Social Media + Society ; Asian Communication Research ; Media, Culture & Society ; International Journal of Communication , and Information, Communication and Society .",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": "Directory entry lacks the Core-Faculty tag used for most others; profile lists Communication Studies as department."
+  },
+  {
+   "name": "Thomas Bradshaw",
+   "title": "Department Chair; Professor",
+   "rank": "Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/thomas-bradshaw.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/bradshaw-thomas.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Thomas Bradshaw has been called “one of the most deliberately and effectively confrontational American Playwrights of his generation” by The New York Times . In TV, he served as a Consulting Producer on the Emmy and Peabody award winning Netflix mini-series WHEN THEY SEE US , and has had development deals with HBO/HARPO and FX/PLAN B, among others. His newest play THE SEAGULL/WOODSTOCK , NY premiered off-Broadway at The New Group in 2023 to great acclaim and sold out audiences. It was named one of the top ten plays of 2023 in The Wall Street Journal . His other plays include: INTIMACY and BURNING (The New Group), MARY and CARLYLE (Goodman), FULFILLMENT , JOB , and DAWN (Flea Theater), THE BEREAVED (Crowded Fire, Partial Comfort, and the State Theater of Bielefeld in Germany), THOMAS AND SALLY (Marin Theater Company), PROPHET , PURITY , SOUTHERN PROMISES (P.S. 122), and LECTURE ON THE BLUES (Whitney Museum). He is the recipient of a Guggenheim Fellowship, the PEN/Laura Pels Theater Award, the Prince Prize, a Foundation for Contemporary Arts award, a Doris Duke Implementation Grant, and a Special Citation of Excellence from The Laurents/Hatcher Foundation. Bradshaw is a Professor and Chair for the Department of Radio/Television/Film at Northwestern University.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Vera Brunner-Sung",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/vera-brunner-sung.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/vbsung2.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "A writer and director who often edits her own projects, Vera Brunner-Sung works across experimental, narrative, and documentary to explore American identity and belonging. Her short films have screened at Sundance, MoMA PS1, CPH:DOX, Images Festival, Torino, San Francisco International, Ann Arbor Film Festival, and Leeum, Samsung Museum of Art, among others. BELLA VISTA, her 2014 narrative feature debut, premiered at the International Film Festival Rotterdam (Bright Future) and was nominated for FilmFest Hamburg’s Friedrich Ebert Political Film Prize; it was distributed via streaming, satellite television, and a grant-funded tour of communities across the state of Montana. Her feature documentary co-directed with Valerie Stadler, FALLEN STAR: FINDING HOME (2016), screened at the Whitney Museum and MOCA Los Angeles. CHARACTER, her 2020 portrait of actor Mark Metcalf, is a Vimeo Staff Pick and is distributed online via The New Yorker . Brunner-Sung’s latest feature, BITTERROOT (Nonetheless/Spark Features/Louverture Films), was made in close partnership with members of the Hmong community in Missoula, Montana. It premiered in the 2024 U.S. Narrative Competition at Tribeca, receiving a special jury mention for its cinematography. Brunner-Sung is the recipient of two Sundance Institute fellowships and a fellowship from the Center for Asian American Media. Her work has been supported by SFFILM, the Wexner Center for the Arts, The Gotham, the National Park Service, and others.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Erin Courtney",
+   "title": "Associate Professor; Associate Director, MFA in Writing for Screen and Stage",
+   "rank": "Associate Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/erin-courtney.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/courtney_erin.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Erin Courtney is an award-winning playwright. Her play A Map of Virtue , produced by 13P and directed by Ken Rus Schmoll, was awarded an Obie and described as “one of the most terrifying plays of the past decade” by Alexis Soloski in The New York Times . A Map of Virtue was nominated for a GLAAD Award and has had numerous productions across the country. Courtney’s play I Will Be Gone , directed by Kip Fagan, premiered at Actors Theater of Louisville’s Humana Festival in 2015. She is writing a new play, Ann, Fran, Mary Ann , which is a Playwrights Horizons commission. She has written two operas with Elizabeth Swados: The Nomad and Kaspar Hauser . Both operas were commissioned and produced by The Flea Theater. The musical Courtney is writing and composing with lyricist Max Vernon, The Tattooed Lady , is being developed with support from The Rhinebeck Writer’s Retreat, the Kimmel Center, The Goodspeed Opera House, and Joe’s Pub at the Public. Her other plays, produced by Clubbed Thumb, include Alice the Magnet , directed by Pam MacKinnon, and Demon Baby , directed by Ken Rus Schmoll. She is an affiliated artist with Clubbed Thumb, a member of the Obie Award-winning playwright collective 13P, as well as the co-founder of the Brooklyn Writer’s Space. She earned her MFA in playwriting at Brooklyn College with Mac Wellman, and her BA from Brown University, where she studied with Paula Vogel.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Scott Curtis",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/scott-curtis.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/curtis-scott.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Cinema-Film"
+   ],
+   "bio": "Scott Curtis is currently exploring the history of the scientific community's use of animation in research, training, and public outreach. Scott Curtis studies the history of film, especially early and silent-era cinema. He is particularly interested in how experts in science, medicine, and education use motion picture technology as a research tool or teaching aid. His book on this topic, The Shape of Spectatorship: Art, Science, and Early Cinema in Germany (Columbia University Press, 2015), explores the collision between expert vision and moving images in science, medicine, education, and aesthetics. He has published extensively on the use of motion pictures in a variety of scientific fields, such as biology, physics, psychology, and medicine. He has also written on more traditional topics in film history, especially animation and early cinema. He has held posts as the medical photographer for Sacred Heart Medical Center in Eugene, Oregon; the research archivist for the Special Collections Department of the Academy of Motion Picture Arts & Sciences’ Margaret Herrick Library ; and a lecturer for the Cinema and Media Studies Division of the University of Southern California. He is also the founder of Block Cinema , former co-chair of Chicago Film Seminar , former President of Domitor , the international society for the study of early cinema, and former Director of the Communication Program at Northwestern University’s campus in Doha, Qatar.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Zayd Ayers Dohrn",
+   "title": "Daniel Hale Williams Professor; Director, MFA in Writing for Screen and Stage",
+   "rank": "Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/zayd-dohrn.html",
+   "personal_url": "https://www.zayddohrn.com/",
+   "photo_url": "https://communication.northwestern.edu/images/faculty/dohrn-zayd.png",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital Media",
+    "Playwriting",
+    "Screenwriting",
+    "Television"
+   ],
+   "bio": "Playwriting, Screenwriting, TV writing, Podcasting, Writing for Digital Media Zayd Dohrn is a writer, professor, and director of the MFA in Writing for Screen + Stage in the Department of Radio/Television/Film. He is creator, writer, and host of the original documentary podcast Mother Country Radicals , which recently won the Columbia-DuPont Journalism Award and the prize for Best Audio Storytelling at the Tribeca Film Festival. Dohrn’s plays include The Profane (Playwrights Horizons), Outside People (The Vineyard/Naked Angels), Want (Steppenwolf First Look) and Reborning (The Public / Summer Play Festival). See published plays. He is the recipient of a Gold Medal at the New York Festival Radio Awards, winner of the Horton Foote New American Play Prize, the Kennedy Center’s Jean Kennedy Smith Award, the Sky Cooper American Playwriting Prize, and Theatre Master’s Visionary Playwrights Award, and is currently writing films for Netflix and FilmNation and developing a television series for Peacock. Zayd attended Brown University, received his MFA from NYU and was a Lila Acheson Wallace Fellow at Juilliard.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Felicia D. Henderson",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/felicia-henderson.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/fdh_forweb_update.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Directing",
+    "Entertainment Industry",
+    "Media analysis",
+    "Media production"
+   ],
+   "bio": "Felicia has over twenty years of writing, producing, and directing experience in television, film, theatre, and comic books. She has taught screenwriting, TV pilot writing, producing, directing, and American Film History for the last decade at UCLA, Columbia University, and recently joined the faculty of SoC's Radio/TV/Film Department. She is also a scholar whose research interests include race, class, gender, and issues of othering in the television writer's workspace. Writer-director-producer-educator and artivist Felicia D. Henderson is the creator of Showtime’s Emmy Award-nominated and three-time NAACP Image Award Best Drama winner, Soul Food , television’s first successful drama to feature an African American cast. She produced Soul Food and some of television’s most successful dramas through her production company, WaterWalk Entertainment, Inc. Currently, she is developing the WWII women U.S. Army pilots drama, Avenger Field, for Peacock, as well as projects for 20 th Century Television. Most recently, Felicia completed showrunning, head writing, and executive producing duties on the Netflix vampire hunter drama, First Kill . She co-created and executive produced The Quad , a one-hour drama set on the campus of a fictional HBCU for BET Networks, and co-executive produced the Netflix adaptation of Marvel’s The Punishe r, as well as Fox’s Empire . She has written and produced high-profile shows such as Gossip Girl, Fringe, Everybody Hates Chris, and Moesha .",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kyle Henry",
+   "title": "Professor; Head of Production; Director of Graduate Studies for the MFA in Documentary Media",
+   "rank": "Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/kyle-henry.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/kylehenry-530.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Kyle Henry is an independent fiction and documentary director focusing on individuals and communities transformed by crisis. He also has a concurrent expertise in film editing. His feature fiction directing debut Room premiered at both the Sundance and Cannes film festivals and was nominated for two Film Independent Spirit Awards. His feature documentary University Inc. , about the corporatization of higher education, and American Cowboy , about a gay rodeo champ, received wide festival play after SXSW festival premieres, with the former touring colleges and universities throughout North America as part of The McCollege Tour, supported in part by filmmakers Michael Moore and Richard Linklater. His short film Fourplay: Tampa premiered at Cannes Directors' Fortnight and Sundance. His Fourplay feature anthology premiered at Frameline, then toured internationally to over thirty engagements, receiving US distribution via TLA Releasing. His partially devised fiction feature Rogers Park , premiered at the Chicago International Film Festival, then toured theatrically throughout North America, garnering a New York Times Critics' Pick as well as a 100% Fresh rating on the review aggregation site Rotten Tomatoes . His most recent non-fiction feature Time Passages premiered at the Cinequest Int'l Film Festival and will tour theatrical, academic and community screenings, followed by educational release via New Day Films in Spring 2025.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Paloma Martinez",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/paloma-martinez.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/palomamartinez-530.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Paloma Martinez is an award winning non-fiction filmmaker interested in artfully humanizing complex social and political structures while pushing the boundaries of the documentary form. Her short documentaries, Enforcement Hours , Crisanto Street and The Shift , have been distributed in The New York Times Op-Docs , The Guardian and The Atlantic , respectively. Crisanto Street was also broadcast nationally on POV Shorts on PBS. Before becoming filmmaker, she spent her formative years working in labor rights activism in her native Texas within the Mexican migrant communities in which she grew up. In her organizing work, she learned the power of the outsider narrative and the role of art within social justice movements. In addition to her individual directing credits, Paloma has co-directed the documentary feature Ready or Not , acquired by Fuse Documentaries, and edited the upcoming documentary short Change the Name which will premiere at the 2021 Tribeca Film Festival. Paloma holds an MFA in Documentary Film from Stanford University and a BA in Economics from Boston University.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Brett Neveu",
+   "title": "Assistant Professor; Director of Undergraduate Studies",
+   "rank": "Assistant Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/brett-neveu.html",
+   "personal_url": "https://studiolab.northwestern.edu/",
+   "photo_url": "https://communication.northwestern.edu/images/neveu-530.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Gaming",
+    "Playwriting",
+    "Screenwriting",
+    "Television"
+   ],
+   "bio": "My current work/research focus is genre, specifically horror, sci-fi and procedural script writing. The types of scripts I write vary, encompassing everything from writing for video games to playwriting to screenwriting to audio dramas. Film/TV productions include the feature Eric LaRue (dir. Michael Shannon) with Big Indie Pictures, Brace Cove Productions and CaliWood Pictures (Tribeca Festival Official Selection, Denver Film Festival and Chicago International Film Festival), the feature Night’s End (dir. Jennifer Reeder) with Shudder/AMC, the short Convo with Breakwall Pictures and the feature The Earl with Intermission Productions. Theatre productions include Revolution and The Malignant Ampersands with A Red Orchid Theatre, Verböten with House Theatre (Joseph Jefferson Nomination, New Work), Traitor with A Red Orchid Theatre (Joseph Jefferson Award, New Adaptation) and To Catch a Fish with Timeline Theatre. Past work includes productions with 59e59 Theatre in New York; The Royal Court Theatre and The Royal Shakespeare Company in London; The Goodman Theatre, Writers Theatre, Greenhouse Theatre, The Inconvenience, A Red Orchid Theatre and American Theatre Company in Chicago.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lakshmi Padmanabhan",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/lakshmi-padmanabhan.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/lp-portrait-530.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Lakshmi Padmanabhan is an assistant professor in the department of Radio, TV, Film, where she teaches in the Screen Cultures doctoral program and is affiliated with the MFA in Documentary Media. She is also affiliate faculty in the departments of Performance Studies and Asian Languages and Cultures. Her academic research spans the histories of political cinema, nonfiction film, experimental film, and minoritarian visual cultures. Her writing and teaching are anchored in the discourses of anticolonial thought, Marxist aesthetics, and Lacanian psychoanalysis. Her current book project, Documentary Degree Zero , develops a theory of political realism in Indian documentary through a conceptual elaboration of documentary's function as a medium of modern historiography. Documentary Degree Zero provides an alternative genealogy of political cinema and Marxist aesthetics in the postcolony by reading documentary dialectically as a medium of statecraft and as a form of counter-cinema. Padmanabhan's academic writing has appeared in journals including Cultural Critique , Camera Obscura, JCMS, Women & Performance, and Art History. Forthcoming writing include a chapter in the Cinemas of Global Solidarity (ed. Matt Croombs and Masha Salazkina, Oxford UP) and a roundtable on documentary in Indian New Waves (ed. Manishita Dass and Usha Iyer, Oxford UP).",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Spencer Parsons",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/spencer-parsons.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/parsons-spencer.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Spencer Parsons's latest feature film, Saturday Morning Massacre , premiered at the 2012 Los Angeles Film Festival, and was awarded Best Feature at the 2012 Minneapolis Underground Film Festival. His previous feature, I'll Come Running (2008) played numerous festivals, has screened on the Sundance Channel and is distributed by IFC. His award-winning short films include Chainsaw Found Jesus (2011), Once and Future Asshole (2005), Resolution (2002), and A Common Confuxion (1999). Parsons served as senior programmer for Cinematexas International Short Film Festival in Austin, Texas , from 2000-2003, and continued as a board member and curator-at-large until 2007. He has curated programs of films for the Thessaloniki Film Festival (Greece), L'Alternativa (Spain), Rooftop Films (Brooklyn, NY), Exploding Cinema (London), Fusebox Festival (Austin, Texas) and for the Block Cinema at Northwestern. He has worked on the programming committee of the South by Southwest (SXSW) Film Festival and has served on awards juries for SXSW, Sundance Film Festival, and Chicago Underground Film Festival. His writing has appeared in the Austin Chronicle, Cinespect , Film in Focus and Filmmaker Magazine . Parsons teaches Advanced Production, Directing Actors for Camera, and Media Production, among other courses.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Eric Patrick",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/eric-patrick.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/patrick_eric.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Childhood Education",
+    "Data Visualization",
+    "Documentary",
+    "Visual Arts"
+   ],
+   "bio": "My current work explores the possibility of an animated ethnography. \"Elevated Loop\" uses a rotoscope technique of animation to capture the residue of live action motion on Chicago's El train. \"Meridians\" is a 360Âº film that uses live action postcards in a 360 space with drawn animation characters occupying otherwise empty space. Both films explore ideas and structures of ethnography in the unlikely medium of animation. Eric Patrick has been creating short animated films, infographics and children's media for over 30 years, both independently and commercially. He has received a Guggenheim Fellowship and over 100 grants, fellowships, and awards at international film festivals and arts organizations. His design work in industry has won Clio Awards, a Peabody Award, several Emmy nominations, and a grant from the National Institute of Health. He has screened extensively both domestically and internationally at festivals, museums and on television, including screenings at the Rotterdam Film Festival, The Museum of Modern Art, and the Centre Georges Pompidou in Paris. He was an animator for the seminal Nickelodeon program “Blues Clues,” and writes about information design, educational media, and animated documentary.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Miriam J. Petty",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/miriam-petty.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/petty_miriam.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Miriam J. Petty earned her PhD from Emory University's Graduate Institute of the Liberal Arts and previously taught at Rutgers University in Newark, N.J., and Princeton University in Princeton, N.J. Petty writes and teaches about race, stardom, performance, reception, adaptation, and genre and is especially interested in the history of African American representation in Hollywood film. Her first book, Stealing the Show: African American Performers and Audiences in 1930s Hollywood (University of California Press) explores the complex relationships between black audiences and black performers in the classical Hollywood era. Stealing the Show has been awarded the Society for Cinema and Media Studies Best First Book Award for 2016-2017. Petty's other honors include a 2015-2016 Alice Kaplan Institute Faculty Fellowship and a 2014-2015 Junior Faculty Fellowship with the Woodrow Wilson Foundation. An academic with a longstanding commitment to public scholarship, Petty is also an avid producer of public programs: her recent projects include the 2012 symposium \"Madea's Big Scholarly Roundtable: Perspectives on the Media of Tyler Perry\" at Northwestern University; the 2014 retrospective \"Mama and Papa Lala: 30 Years of Billops-Hatch Films\" at Emory University; and the 2015-2016 film series \"Seeds of Disunion: Classics of African American Stereotypy\" at the Black Cinema House of Chicago.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ariel Rogers",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/ariel-rogers.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/arogers-530.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Cinema-Film",
+    "Digital Media",
+    "Media analysis",
+    "Television"
+   ],
+   "bio": "Ariel Rogers’s research and teaching explore the history and theory of cinema and related media, with a focus on emerging technologies, new media, and spectatorship. Her scholarship examines how an attunement to the historical embeddedness of emerging technologies and their users makes it possible to reassess key assumptions about the nature and function of cinema, television, and digital media by illuminating diverse and protean relationships between technology, form, and experience. Writing on topics such as widescreen cinema, digital cinema, special effects, screen technologies, and virtual reality, she is interested in the intersections between history and theory, between form and culture, and between cinema and media studies. Rogers’s first book, Cinematic Appeals: The Experience of New Movie Technologies (Columbia University Press, 2013), explores how the experience of cinema has been conceptualized at different moments of technological change, comparing the recent embrace of digital technologies with transformations that took place the 1950s.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ozge Samanci",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/ozge-samanci.html",
+   "personal_url": "https://www.ozgesamanci.com/",
+   "photo_url": "https://communication.northwestern.edu/images/faculty/samanci_ozge-pref.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Art Theory and Practice",
+    "Data Visualization",
+    "Digital Media",
+    "Media Arts",
+    "Visual Arts"
+   ],
+   "bio": "Art with emerging technologies, data-driven art, interactive media art, installation art, virtual reality storytelling, environmental politics, ocean pollution, space pollution, comics and graphic novels. Ozge Samanci is a media artist and graphic novelist. Her areas of interest include media arts, interactive art, installation art, emerging technologies, AI, VR, XR, fabrication, critical making, creative coding, environmental studies, comics, and graphic novels. Her recent interactive art installations have roots in the natural sciences and explore the tendency of human beings to perceive themselves above all ecosystems. Her interactive installations have been exhibited internationally at venues such as NOVA – RIO Biennial of Art and Technology at Museu do Amanhã, SIGGRAPH Art Gallery, ISEA, WRO Media Art Biennale , FILE Festival (Electronic Language International Festival), Science Gallery, The Tech Museum of Innovation, Currents New Media, Athens International Festival of Digital Arts and New Media, Ibrida Festival, Fondazione Dino Zoli Arte Contemporanea, and Piksel Electronic Arts Festival. Her graphic memoir, Dare to Disappoint (Farrar, Straus and Giroux, 2015), has been translated into six languages. Her second graphic novel, Evil Eyes Sea (Uncivilized Books, 2024), won the 2026 Max and Moritz Prize for Best International Comic, was named one of The Guardian ’s Best Graphic Novels of 2024, and received the 2025 Cartoonist Studio Prize.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jeffrey Sconce",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/jeffrey-sconce.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/sconce_jeffrey.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Jeffrey Sconce is Professor in the Screen Cultures program and a Guggenheim Fellow for 2020-2021. His first book, Haunted Media: Electronic Presence from Telegraphy to Television (2000), examines the historical relation between electronic media and the occult. His 2019 book, The Technical Delusion: Electronics, Power, Insanity (2019), considers the historical role of electronic media in the history of psychotic ideation. He is also the editor of Sleaze Artists: Cinema at the Margins of Taste, Style, and Politics (2007), an anthology of essays on various forms of “low” cinema. He has also written catalog essays for exhibitions by Joshua Bonnetta, Mike Kelley, and Tony Oursler. Selected publications: “The Golden Age of Badness,” Continuum, Volume 33, No. 6 (2020); “Epilogue: Chipnapped,” Perspective: actualité en histoire de l’art, Institut national d’histoire de l’art (Sorbonne, 2020).; “The Biopic is an Affront to the Cinema,” Unwatchable, ed. by Nicholas Baer, Maggie Hennefeld, Laura Horak, and Gunnar Iversen (Columbia University Press, 2018).; “The Ghostularity,” Communication + 1 , Volume 4 (Spring 2015); “Des médias hantés (entretien).” Hippocampe 11 (Summer 2014); “Altered Sex: Satan, Acid, and the Erotic Threshold.” Sex Scenes: Media and the Sexual Revolution . Edited by Eric Schaefer. Duke University Press, 2014.; “Explosive Boredom.” ‘B’ for Bad: Aesthetics, Politics, and Cultural Value . Edited by Claire Perkins and Constantine Verevis.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jacob Smith",
+   "title": "Associate Chair; Professor",
+   "rank": "Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/jacob-smith.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/jacobsmith-500.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Creative Industries",
+    "Media History",
+    "Music",
+    "Recording Industry",
+    "Sound Studies"
+   ],
+   "bio": "I write and teach about the cultural history of media, with a focus on sound and music. Jacob Smith is the author of Vocal Tracks: Performance and Sound Media (University of California Press 2008); Spoken Word: Postwar American Phonograph Cultures (University of California Press 2011); The Thrill Makers: Celebrity, Masculinity, and Stunt Performance (University of California Press 2012); Eco-Sonic Media (University of California Press, 2015); and two experimental audiobooks: ESC: Sonic Adventure in the Anthropocene (University of Michigan Press 2019) and Lightning Birds: An Aeroecology of the Airwaves (University of Michigan Press, 2021). His most recent publication is Bateson’s Alphabet: The ABCs of Gregory Bateson’s Ecology of Mind (University of Michigan Press, 2024). Selected publications: Bridge to an Unseen Shore: New Age Music as Visionary Art, 1973-1987 (Forthcoming: University of California Press, Fall 2026); Bateson’s Alphabet: The ABCs of Gregory Bateson’s Ecology of Mind (University of Michigan Press, 2024).; “Mackenzie Crook’s Biosemiotic Television,” Screen, Winter 2022.; Lightning Birds: An Aeroecology of the Airwaves (University of Michigan Press, 2021)",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "J.P. Sniadecki",
+   "title": "Professor; Van Zelst Research Professor",
+   "rank": "Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/j-p-sniadecki.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/faculty/jp-sniadecki_headshot_cropped.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "J.P. Sniadecki works between the US and China as a filmmaker and anthropologist. From Chengdu demolition sites to New York City junkyards to the Sonoran Desert borderlands, he collaborates with people and places to explore film's capacity for transfiguration of the discarded and transgression of the status quo. His films are in the permanent collection of New York 's Museum of Modern Art and the San Francisco Museum of Modern Art, and have been exhibited there and at the Whitney Biennale, the Shanghai Biennale, the Shenzhen Biennale, and the Guggenheim, as well as at international film festivals such as Berlin, BFI London, Locarno, New York, AFI, San Francisco, Rotterdam, Viennale, IDFA, Mar del Plata, Taiwan International Documentary Festival, and more. His films, which receive praise from publications such as The New York Times, The Guardian, ArtForum , and Filmmaker Magazine , include Chaiqian/Demolition (2010), winner of the Joris Ivens Award at Cinema du Reel; Foreign Parts (2010), winner of two Leopards at Locarno and named Best Film at the Punto de Vista Film Festival and DocsBarcelona; People 's Park (2012), winner of Best Anthropological Film at Festival dei Popoli; Yumen (2013), named Best Experimental Film and Best Chinese Film at the Taiwan International Documentary Film Festival; The Iron Ministry (2014), which garnered the top prize at L 'Alternativa Film Festival and jury prizes at the Ann Arbor Film Festival, Valdivia, and Camden; and El Mar La Mar (2017), whi",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lynn Spigel",
+   "title": "Frances Willard Professor of Screen Cultures",
+   "rank": "Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/lynn-spigel.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/l-spigel-530.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Cinema-Film",
+    "Feminist theory",
+    "Media analysis",
+    "Television"
+   ],
+   "bio": "Media history and theory with an interdisciplinary and feminist focus. Areas include: television history; feminist TV and film studies; media technologies and design; science fiction studies, theories of space and place; media and everyday life. Currently researching streaming TV and writing on digital homes and domestic technologies. Lynn Spigel is the Frances Willard Professor of Screen Cultures in the Department of Radio/TV/Film. Her books include TV Snapshots: An Archive of Everyday Life ; TV By Design: Modern Art and the Rise of Network Television ; Welcome to the Dreamhouse: Popular Media and Postwar Suburbs ; and Make Room Room for TV: Television and the Family Ideal in Postwar America . She has edited numerous books and anthologies, lectured internationally, and has published in a range of interdisciplinary journals. Her awards include a Guggenheim Fellowship and the ICA Book Fellows Award. She writes and teaches about the history of film, television, and digital media, with a focus on gender, technology, and media's relation to everyday life.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Michael Anthony Turcios",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/michael-anthony-turcios.html",
+   "personal_url": null,
+   "photo_url": null,
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Michael Anthony Turcios, Ph.D. is an Assistant Professor in the Screen Cultures Program in the Department of Radio/Television/Film. He also holds affiliations with the Center for Native American and Indigenous Research and the Latina and Latino Studies Program. He also regularly teaches and mentors incarcerated students in the Northwestern Prison Education Program. Professor Turcios is a specialist of antiracist, anticolonial, and radical film and media histories of the urban margins in the Global North and the Global South. His first book in progress, Relational Insurgent Medias , is a study of Chicana/o Los Angeles and Algerian Paris media activism during the 1970s. His archival research on the understudied nontraditional media of both communities shows that the social and racial justice projects enabled both communities to make parallel antiracist and anticolonial critiques. Chicanas/os and Algerians mobilized their causes through nontheatrical film production, community film screenings organized in nontheatrical spaces, and the production and distribution of community-based print media. Professor Turcios is at work on a second book project on the dispersed media archives that deal with themes of Indigenous identity, land rights and ownership, self-determination, and inter/national decolonization in Palestine, Chiapas, and the Chagos archipelago.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Neil Verma",
+   "title": "Associate Professor; Director, Master of Arts in Sound Arts and Industries; Director of Graduate Studies, Screen Cultures",
+   "rank": "Associate Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/neil-verma.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/verma_neil.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Cinema-Film",
+    "Podcasts",
+    "Radio",
+    "Sound Cultures",
+    "Sound Design"
+   ],
+   "bio": "My current research focuses on the history and form of narrative podcasting, and my artistic work explores forms of drama and storytelling that are rooted in extended field recording technique. Neil Verma is an associate professor in Radio/TV/Film and co-founder of the MA program in Sound Arts and Industries. Verma is an expert in the history of audio fiction, sound studies, and media history more broadly. He is best known for his landmark 2012 book, Theater of the Mind: Imagination, Aesthetics, and American Radio Drama , which won the Best First Book Award from the Society for Cinema and Media Studies. His most recent book is Narrative Podcasting in an Age of Obsession , published in 2024 by the University of Michigan Press. He has also co-edited two books, Indian Sound Cultures, Indian Sound Citizenship (2020), and Anatomy of Sound: Norman Corwin and Media Authorship (2016), the latter of which won the Kraszna-Krausz Best Moving Image Book Award. Verma has been a consultant for a variety of radio and film projects, including Martin Scorsese’s film Killers of the Flower Moon (2023). In addition to his research, Verma has also created experimental sound recordings for broadcast. His compositions have been selected for several radio art festivals around the world, winning an honorable mention from the Sound of the Year awards in the U.K . in 2020.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Mimi White",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/mimi-white.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/white_mimi.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Cinema-Film",
+    "Feminist theory",
+    "Media analysis",
+    "Television"
+   ],
+   "bio": "I am working on a book about Hallmark television, reassessing the habitual ways of dealing with formulaic media, and working with the unexpected affect that Hallmark media routinely provoke. I am interested in the pleasure the movies offer in the context of women's experiences, even those that sometimes seem banal or normative at first glance. Mimi White studies and teaches film, television, and media culture with emphases on critical-cultural theory, gender, and history. She is the author of Tele-Advising: Therapeutic Discourse in American Television (1992), co-author of Media Knowledge: Popular Culture, Pedagogy, and Critical Citizenship (1992), and co-editor of Questions of Method in Cultural Studies (2006). She has published on such topics as historical narrative in film and television, American film in 1970, 1980s woman’s films, television flow, liveness, feminist video art, and serial melodrama; she has written about a wide range of television programs including Cheaters, Barry Chappell’s Fine Art Showcase, House Hunters, The Young Indiana Jones Chronicles, Dr. Quinn Medicine Woman, I’ll Fly Away, Frank’s Place, and Mad Men. This work has appeared in edited book collections and in such journals as European Journal of Cultural Studies, Television and New Media, The Communication Review, Film and History, Cinema Journal, Screen, and Camera Obscura. She is currently working on a book, Hallmark and the Extra-Ordinary Appeal of Formulaic TV.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Marco Williams",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/marco-williams.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/williams_marco.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "An award-winning documentary film director, Marco Williams’ credits include: Tell Them We are Rising: The Story of Historically Black Colleges and Universities (2017), The Black Fives (2014), The Undocumented (2013), Inside: The New Black Panthers (2008), Banished (2007), Freedom Summer (2006), I Sit Where I Want: The Legacy of Brown v. Board of Education (2004), MLK Boulevard: The Concrete Dream (2003), Two Towns of Jasper (2002), Making Peace: Rebuilding our Communities (1995), The Spiritual Deficit and The American Dream (1994), Without a Pass (1992) In Search of Our Fathers (1991), From Harlem to Harvard (1982). Tell Them We are Rising: The Story of Historically Black Colleges and Universities, explores the pivotal role historically black colleges and universities (HBCUs) have played in American history, culture, and national identity. The Black Fives is a short video that accompanies an exhibition at The New York Historical Society about the pioneering history of the African-American basketball teams that existed in New York City and elsewhere from the early 1900s through 1950, the year the National Basketball Association became racially integrated. The Undocumented , a PBS broadcast/Independent Lens feature length cinema verite documentary, exposes a little known consequence of United States immigration policy. The film debuted at The Full Frame Film Festival. It received an Honorable Mention, The Kathleen Bryan Edwards Award for Human Rights.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Tracey Scott Wilson",
+   "title": "Barbara Berlanti Professor in Writing for the Screen and Stage",
+   "rank": "Professor",
+   "department": "Department of Radio/Television/Film",
+   "profile_url": "https://communication.northwestern.edu/faculty/tracey-scott-wilson.html",
+   "personal_url": null,
+   "photo_url": "https://communication.northwestern.edu/images/faculty/traceyscottwilson_web.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Cinema-Film",
+    "Playwriting",
+    "Screenwriting",
+    "Television"
+   ],
+   "bio": "I teach writing for the stage, tv, and film. Tracey most recently wrote the teleplay for MGM’s film Respect , starring Jennifer Hudson, based on the life of Aretha Franklin. On the TV side, she served as a Co-Executive Producer on the upcoming miniseries The Sterling Affairs at FX . Before that, she was a Co-Executive Producer on FX’s award-winning limited series Fosse/Verdon and The Americans , where she wrote for five seasons and received two WGAE awards, two Peabody awards and a Golden Globe . Tracey is also a renowned playwright, and her plays include Buzzer (Guthrie Theater, The Public Theater), The Good Negro and The Story (both at The Public Theater and the Goodman Theater). Tracey is the winner of the 2001 Helen Merrill Emerging Playwright Award, the 2003 AT&T Onstage Award, the 2004 Whiting Award, the 2004 Kesserling Prize, the 2007 Weissberger Playwriting Award as well as the 2007 Time Warner Storytelling Fellowship. In 2009, she was the writer-in-residence at the O’Neil National Playwriting Conference. She has taught and guest lectured at several schools including, Brown University, Yale University, Rutgers University and NYU. She holds a Master’s degree in English Literature from Temple University.",
+   "sources": [
+    "department_directory",
+    "department_profile"
+   ],
+   "notes": null
+  }
+ ]
+}

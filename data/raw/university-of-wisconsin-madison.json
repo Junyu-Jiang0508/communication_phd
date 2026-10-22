@@ -1,0 +1,802 @@
+{
+ "university": "University of Wisconsin–Madison",
+ "slug": "university-of-wisconsin-madison",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "Department of Communication Arts",
+   "school": "College of Letters & Science",
+   "directory_url": "https://commarts.wisc.edu/people/",
+   "phd_program_url": "https://guide.wisc.edu/graduate/communication-arts/communication-arts-phd/",
+   "phd_program_name": "Communication Arts, PhD (areas: Communication Science; Film; Media and Cultural Studies; Rhetoric, Politics, and Culture)",
+   "notes": "JS-rendered directory. Included Department Leadership (4) + Faculty section tenure-line (18). Excluded 4 Teaching Faculty, 1 Visiting Assistant Professor, 9 Faculty Affiliates (home elsewhere), staff, graduate students, and the Emeriti section (incl. Zhongdang Pan, listed there with title 'Professor')."
+  },
+  {
+   "name": "School of Journalism and Mass Communication",
+   "school": "College of Letters & Science",
+   "directory_url": "https://sjmc.wisc.edu/people/faculty-staff/",
+   "phd_program_url": "https://sjmc.wisc.edu/graduate/phd-in-mass-communications/",
+   "phd_program_name": "PhD in Mass Communications",
+   "notes": "Static directory mixing faculty and staff; kept entries whose title contains Professor/Chair (18). Excluded 5 Teaching Faculty III, administrative staff, and Nathan Kalmoe (Executive Administrative Director, CCCR; no faculty rank on profile). Emeriti/affiliates live on a separate page and were not scraped."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Derek Johnson",
+   "title": "Department Chair | Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/johnson-derek/",
+   "personal_url": null,
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2026/09/Derek-Johnson_Cropped-1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media and Cultural Studies",
+    "Film"
+   ],
+   "bio": "Examining the strategies used in the media industries to manage the mortality of labor and consumers\nExplaining why the temporal logics of media franchising make it a recurring battleground in struggles for (and just as often, against) social justice\nMy research examines the media industries, looking specifically at how production operates as a site of cultural and creative struggle, particularly as the stakes of those struggles relate to the idea of the future and the reproduction of content, markets, and authority over time. This work frequently looks across television, contemporary film, digital games, comics, and merchandising (with particular attention recently to the retail contexts in which these media circulate). I embrace “critical media industry studies” and “production culture” approaches that understand industry not just in economic terms, but also through the agency, identities, meanings, values, and communities that emerge in and around media work. My newest completed long-term project considers the “transgenerational” strategies whereby media industries encourage producers and consumers to move across the boundaries of childhood and adulthood, constructing idealized professional and amateur subjects that can help mature industries to negotiate changing markets, technologies, and consumer practices.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jason Kido Lopez",
+   "title": "Director of Undergraduate Studies | Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/lopez-jason-kido/",
+   "personal_url": null,
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2017/07/Jason-Lopez_Cropped.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media and Cultural Studies"
+   ],
+   "bio": "A project analyzing how college athletes perceive athlete compensation.\nOngoing research on the relationship between athlete expression/activism and sports leagues.\nOngoing research on sports, media, and sports-based games like sports betting.\nMy primary research and teaching focus is sports media from a Media and Cultural Studies perspective. I am interested in how the distinctive qualities of sport inform cultural practices, power hierarchies, and political ideologies. My research examines sports media industries, the cultural artifacts they produce, and the possibilities and constraints these structures create for those who operate within and around them. My recent work has focused on athlete activism and sports-based games like fantasy sports, March Madness brackets, and sports betting.\nSelected publications: Lopez, J. K., & Stamm, J. (in press). From policy to promotion: The NFL’s and NHL’s branded response to the concussion crisis. Journal of Sports Media . | Lopez, J. K. (2026). Branded inclusivity: Participant defense of CrossFit as sport and exercise. Sport in Society . | Lopez, J. K., & Prasch, A. (2025). Cashing in on the chaos: The politics of sports betting and the 2020 U.S. presidential election. Critical Studies in Media Communication, 43 (1), 88–105. | Lopez, J. K. (2021). Rewriting activism: The NFL takes a knee. Critical Studies in Media Communication, 38 (2), 183–196. | Lopez, J. K. (2027). Gaming sports: Gambling and the sports media complex .",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jeff Smith",
+   "title": "Associate Chair | Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/smith-jeff/",
+   "personal_url": null,
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2017/07/Jeff-Smith_Cropped.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Film"
+   ],
+   "bio": "Book on the way filmmakers use cognitive biases and heuristics as an aspect of cinematic storytelling, particularly as they concern characterization and viewers’ inferences.\nBook on music in Hollywood films in the 1930s. I trace the history of the classical Hollywood score, its uneven development, its sometimes complicated workflow, its concatenation of popular music and orchestral dramatic cues, and its evolution from a product or pooled labor to a more organic expression of a single composer’s vision.\nMy research focuses on questions and issues arising from the study of film music/sound, cognitive film theory, and the American film industry. My first book examines the changes in the film industry that aided the development of the film soundtrack album as a vehicle for film and music cross-promotions. Additionally, the book also examines the effects of this industrial shift on the style of music that appeared in Hollywood films after 1960. My second book is a metacritical study of film criticism in relation to the Hollywood blacklist, and attempts to trace the historical development of a particular set of interpretive strategies that have been applied to film texts of the late 1940s and early 1950s. More specifically, my research focuses on two particular critical lenses used to analyze these texts: propaganda and allegory.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lyn van Swol",
+   "title": "Director of Graduate Studies | Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/van-swol-lyn/",
+   "personal_url": null,
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2017/07/Lyn-van-Swol_Cropped.jpg",
+   "google_scholar_url": "http://scholar.google.com/scholar?hl=en&q=Lyn%20Van%20Swol&btnG=&as_sdt=1%2C50&as_sdtp=",
+   "research_areas": [
+    "Communication Science"
+   ],
+   "bio": "Director of Graduate Studies | Professor\nvanswol@wisc.edu\n608-262-1947\n6152 Vilas Hall\nEmotional contagion of positive and negative emotional language in a discussion with a chatbot partner\nHow group discussion of climate change can change attitudes towards taking action to combat climate change\nApplying research on advice communication to environmental settings, like forestry, aquatic invasive species, and PFAS.\nI research information sharing in groups, utilization of advice, persuasion, language use in groups, chatbot communication, and the role of strategic persuasive messages in environmental communication. All my research shares the theme of examining what factors are likely to increase acceptance of information during an interaction. The role of group discussion in facilitating persuasion, especially concerning environmental topics is a theme of several current research projects. I’m especially interested in how peer groups can set norms through group discussion to encourage pro-environmental behavior. I am also collaborating with several researchers to examine what factors can increase the utilization of advice. Current research examines how strategic messages can increase acceptance of advice for the mitigation of PFAS harms. Other research projects examine how language used in groups or by chatbot partners can affect emotions, conflict, and persuasion in a group discussion. Language use may be a window into group processes.\nSelected publications: L. MacGeorge & L.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Robert Asen",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/asen-robert/",
+   "personal_url": null,
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2017/07/Rob-Asen_Cropped.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric, Politics, and Culture"
+   ],
+   "bio": "Analyzing possibilities for and threats to vibrant, inclusive, and empowering democratic practices\nAnalyzing approaches to racial and economic inequalities in contemporary discourses about public education\nAnalyzing laws and policies that seek to proscribe discussions of structural racism in public education\nSelected publications: “Anti-Woke Publics.” Political Communication 41, no. 6 (2024): 1029-34. https://doi.org/10.1080/10584609.2024.2425782 | “A Market for Civil Rights: Whiteness as Property, Colorblindness, and the Rhetoric of School Choice.” Quarterly Journal of Speech 109, no. 3 (2023): 276-97. DOI: 10.1080/00335630.2023.2193239 | “Knowledge, Communication, and Anti-Critical Publicity: The Friedmans’ Market Public.” Communication Theory 31, no. 2 (2021): 169-89. DOI: 10.1093/ct/qtaa033 | “Public: A Network of Relationships.” Rhetoric Society Quarterly 48, no. 3 (2018): 297-305. DOI: 10.1080/02773945.2018.1454216 | Rhetorical Economies of Whiteness: Exploring the Intersections of Power, Privilege, and Race (Coedited and introduced with Casey Ryan Kelly). Columbus: Ohio State University Press, 2024. | School Choice and the Betrayal of Democracy: How Market-Based Education Reform Fails Our Communities . University Park: Pennsylvania State University Press, 2021.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Anirban Baishya",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/baishya-anirban/",
+   "personal_url": null,
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2021/07/Anirban-Baishya_Cropped.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric, Politics, and Culture"
+   ],
+   "bio": "Selected publications: The Selfie Machine: Selfies, Platforms and Digital Image Culture in India (Forthcoming from Rutgers University Press in 2026) | South Asian Pornographies: Vernacular Formations of the Permissible and the Obscene (Co-edited with Darshana S. Mini, Routledge, 2024) | “ Viral Nationalism: Right-Wing Populism and the Aesthetics of Distributed Participation ,” International Journal of Cultural Studies 28, 3 (2025): 597-616. | “ (Dis)locating South Asia: Diasporic markets in the global streaming landscape ,” co-authored with Darshana S. Mini, Media, Culture & Society , November 2025. | “ More Dangerous than Sharks: Space, Death and Pathologies of the Selfie ,” Media, Culture & Society 47, 2 (2025): 354-374. | “ Introduction: “Pedagogies of Care in an Age of Anxiety ,” co-authored with Hannah Goodwin, & Anthony Grajeda, Teaching Dossier for Journal of Cinema Studies 64, 6 (Winter 2025)",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kelley Conway",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/conway-kelley/",
+   "personal_url": null,
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2026/10/Kelley-Conway_Cropped.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Film"
+   ],
+   "bio": "Article on the history and function of museum exhibitions about filmmakers\nBook project on postwar French film culture\nMy research explores the history of French film, filmmakers’ creative processes and concrete working conditions, the achievements and constraints of women in the film industry, the relationships between film and other arts, and the theoretical and practical issues relating to national and transnational cinema. My first book, Chanteuse in the City (University of California, 2004), examines the intersections between popular song and 1930s French cinema through the figure of the realist singer. My second book, Agnès Varda (University of Illinois Press, 2015), explores Varda’s key films and installations, focusing on her aesthetic commitments and shifting modes of production. With Eric Hoyt, I co-edited Global Movie Magazine Networks (University of California Press, forthcoming 2024) and served as co-director of the digital humanities project, Globalizing and Enhancing the Media History Digital Library. My published articles explore Francophone films and film culture, moving images in museums, and song in classical and contemporary French cinema. I am especially fond of the films of Agnès Varda, Claire Denis, Chantal Akerman, Wes Anderson, and Paul Thomas Anderson.\nFilm festivals are a scholarly and civic commitment. I served as the faculty advisor and director of the Wisconsin Film Festival from 2018 – 2023. I am also committed to innovative off-campus study.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jonathan Gray",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/gray-jonathan/",
+   "personal_url": "http://jonathangray.commarts.wisc.edu",
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2017/07/gray-500px-72ppi.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media and Cultural Studies",
+    "Film"
+   ],
+   "bio": "Streaming television audiences\nContemporary television comedy\nSelected publications: “ Rethinking Watching: A Viewer-Centred Approach to Understanding the Changing Audience Experience ” (with Amanda D. Lotz & Catherine Johnson). International Journal of Cultural Studies online first. | “ The Unsituated Comedy ” (with Daphne Gershon). Journal of Cinema and Media Studies 63.4 (2024): 53-74. | “ Hidden: Studying Media Dislike and its Meaning .” International Journal of Cultural Studies , 19.4 (2016): 357-72. | “ Scales of Cultural Influence: Malawian Consumption of Foreign Media ,” Media, Culture and Society 36.7 (2014): 982-97. | Dislike-Minded: Media, Audiences, and the Dynamics of Taste . New York: NYU Press, 2021. | Television Goes to the Movies (with Derek Johnson). New York: Routledge, 2021.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Aaron Greer",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/greer-aaron/",
+   "personal_url": null,
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2020/09/Aaron-Greer_Cropped.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Film"
+   ],
+   "bio": "Morning Moon a feature film script about a 22 year-old orphan’s search for her biological father.\nFlorence a 30-minute music documentary about the origins of an indie-pop song.\nShades of War an experimental film, interweaving archival footage, actor voices, and AI-generated stills.\nSelected publications: Neither Color Blind, Nor Near Sighted: Representation, Race and the Role of the Academic Filmmaker.” In Bernardi, D. (Ed.) Filming Difference . Austin: University of Texas Press, 2009. | “Discrimination, Racist Events, and Their Effects on Behavioral and Evaluative Outcomes of Movie Posters with Black and White Protagonists” by Greer, Zhou and Finklea, paper presented at the Broadcast Education Association Conference, 2010.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Matthew Hannah",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/hannah-matthew/",
+   "personal_url": null,
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2025/09/Matthew-Hannah_Cropped.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric, Politics, and Culture"
+   ],
+   "bio": "",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Robert Glenn Howard",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/howard-robert/",
+   "personal_url": "https://endnear.com/",
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2017/07/Rob-Howard_Cropped.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric, Politics, and Culture",
+    "Media and Cultural Studies"
+   ],
+   "bio": "",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "personal_url inferred from the domain hosting his CV and papers on the profile page"
+  },
+  {
+   "name": "Eric Hoyt",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/hoyt-eric/",
+   "personal_url": null,
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2017/07/Eric-Hoyt_Cropped.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media and Cultural Studies",
+    "Film"
+   ],
+   "bio": "Book project about the history of the TV movie THE DAY AFTER\nData mining Hollywood pressbooks and early TV GUIDE\nEnhancing, diversifying, and extending the collections of the Media History Digital Library and Wisconsin Center for Film and Theater Research.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jenell Johnson",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/johnson-jenell/",
+   "personal_url": null,
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2017/07/Jenell-Johnson_Cropped.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric, Politics, and Culture",
+    "Media and Cultural Studies"
+   ],
+   "bio": "Communication about light pollution and the dark sky movement\nClaims of certainty in life detection experiments in the Viking mission to Mars in the late 1970s and their relation to public support of NASA\nMy research interests include the rhetoric of health and medicine, science and technology studies, disability studies, bioethics, and environmental communication. My research focuses on the circulation of scientific and medical information in the public sphere, with an emphasis on the social and political dimensions of nonexpert engagement with science, medicine, and technology. Much of my work has explored the meaning of neuroscience, psychiatry, and mental disability in scientific and cultural contexts. These interests are best illustrated by my book\nAmerican\nLobotomy\n, which explores how representations of psychosurgery shaped the rise, fall, and return of lobotomy in US medicine, and the co-edited collection\nThe Neuroscientific Turn\n, a collection of essays from humanists and scientists reflecting on the growth of the neuro-disciplines. More recently, my research focus has shifted from the brain to the ethics and politics of life. My most recent book,\nEvery Living Thing\n, examines how life itself is used to create rhetorical and ethical connections between humans and other living creatures. I am currently working on a number of projects related to light pollution, public engagement with astronomy, and public support of the US space program.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Diana Leon-Boys",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/leon-boys-diana/",
+   "personal_url": null,
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2025/08/Diana-Leon-Boys_Cropped.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media and Cultural Studies"
+   ],
+   "bio": "Examining Quinceañeras/Quinceañeridades in contemporary popular culture\nSituating Spanish Language television and TelevisaUnivision within larger conversations about media mergers\nLatinx/e Digital Audiences as critical agents within media production ecosystems\nOngoing research on corporate social responsibility reports and the role that DEI plays within these\nDemocratic Violence in Latin America and its relationship to U.S. contexts\nGirl Culture: Past and Present\nMy research and teaching center on critical media and cultural studies, with a focus on Latinx/e media and popular culture, girlhood, media industries, and transnational feminisms. I examine how media both reflect and reinforce social inequalities, as well as how marginalized communities challenge these narratives—often through digital platforms. In particular, my work investigates the global representation of girls of color in the post-network digital era, situating these portrayals within contemporary postfeminist and neoliberal frameworks.\nI am a leader and developer of the subfield of Latina girls’ media studies. My award-winning book\nElena, Princesa of the Periphery: Disney’s Flexible Latina Girl\n(Rutgers University Press, 2023), combines a critique of postfeminism, intersectional analysis, an exploration of girlhood studies, TV and film studies, theme park ethnographies, digital studies, advertising and promotional cultural analysis, political economy, and ethnic and cultural studies analysis.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lori Lopez",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/lopez-lori/",
+   "personal_url": "https://lorikidolopez.com",
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2017/07/LOPEZ-500px-72ppi.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media and Cultural Studies"
+   ],
+   "bio": "Asian American television and audiences\nCritical race and digital media\nEngaged media studies scholarship and scholar-activism\nDr. Lopez’s research investigates how Asian Americans engage with media both as audiences and producers, addressing issues of representation, access, and community advocacy.\nDr. Lopez is the author of\nAsian American Media Activism: Fighting for Cultural Citizenship,\nMicro Media Industries: Hmong American Media Innovation in the Diaspora\n, and\nRace and Digital Media: An Introduction\n. She is also editor of\nRace and Media: Critical Approaches\n, and co-editor of the\nRoutledge Companion to Asian American Media\n. She is the recipient of many awards for her research, teaching, and service, including the Board of Regents’ Diversity Award from the University of Wisconsin System, the Chancellor’s Inclusive Excellence Distinguished Teaching Award, the Early Career Achievement Award from the Association for Asian American Studies, and the Outstanding Women of Color Award from the University of Wisconsin-Madison.\nOutside of the Communication Arts department, Dr. Lopez is the\nAssociate Dean for Social Sciences\nin the College of Letters & Science. She is also affiliate faculty in the\nAsian American Studies Program\n, the\nGender and Women’s Studies department\nand at the\nInstitute for Diversity Science\n. Since 2015, she has organized a local Asian American film festival called Madison’s Asian American Media Spotlight.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Marie-Louise Mares",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/mares-marie-louise/",
+   "personal_url": null,
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2017/07/Marie-Louise-Mares_Cropped.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Communication Science"
+   ],
+   "bio": "University of Wisconsin Affiliations\nInstitute for Diversity Science School of Journalism & Mass Communication Department of Educational Psychology\nMedia use and identity development, including family dynamics with regard to children’s and teens’ developing identities. A focal area of interest includes LGBTQ identities.\nProsocial and educational media use and interpretations.\nLife-span developmental changes in media use and responses.\nSocial media systems/interventions to support individuals with chronic health conditions including substance use disorders.\nDevelopmental and positive media effects. Most recently, my interests have focused on the ways that children, youth, and parents may influence each other via shared media use and discussion of media content. I have been examining how such processes might vary for identities that are marginalized and that are or are not shared between parents and children. As in all my work, I am interested in positive outcomes of media use – in this case, the ways in which media use may foster youth identity development and support. In my research on children, I am focused on the possibility that television and other media can be used for positive social change, including reducing bias and prejudice. To that end, I have been examining children’s comprehension and interpretations of prosocial and educational programs and ways to make such programming more effective.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Sara McKinnon",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/mckinnon-sara/",
+   "personal_url": "https://migrationamericas.commarts.wisc.edu/",
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2017/07/Sara-McKinnon_Cropped-1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric, Politics, and Culture"
+   ],
+   "bio": "Professor\nshe/her/hers\nsmckinnon@wisc.edu\nU.S. Refugee & Immigration Law and Policy\nMigration Dynamics and Policy in Latin America\nForeign Policy in Latin America\nInternational & Human Rights Law in the Americas\nTransnational Rhetoric\nQualitative & Field Based Methods\nSelected publications: 2024. Foreign policy collaborations to manage migration in the Americas. Wisconsin International Law Journal, 41 , 411-441. https://wilj.law.wisc.edu/issues-archive/volume-41-issues-archive/volume-41-issue-3/ | 2021. “Feminicidio in the International Courts: Agency and responsibility in the making of justice.” Rhetoric & Public Affairs , 24, 413-445. https://scholarlypublishingcollective.org/msup/rpa/article-abstract/24/3/413/291756/Feminicidio-in-the-International-Courts-Agency-and | 2016. “Necropolitical voices and bodies in the rhetorical reception of Iranian women’s asylum claims.” Communication and Critical/Cultural Studies , 13, 1-17, http://tinyurl.com/j5no8g8 . | 2016. “Gender violence as global phenomenon: Refugees, genital surgeries, and neocolonial projects of the United States.” Cultural Studies <-> Critical Methodologies , 16, 414-426, http://tinyurl.com/zcm2pny . | 2024. Foreign Policy Rhetorics in the Global Era: Concepts and Case Studies. Lansing: Michigan State University Press. | 2016. Gendered Asylum: Race and Violence in U.S. Law and Politics . Urbana: University of Illinois Press.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Darshana Sreedhar Mini",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/mini-darshana/",
+   "personal_url": "https://darshanamini.commarts.wisc.edu/",
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2020/09/Darshana-Mini_Cropped.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Film",
+    "Media and Cultural Studies"
+   ],
+   "bio": "South & Southeast Asian Film & Media\nGender & Sexuality Studies\nMigrant Media and Transnational Cultures\nColonial & Postcolonial Visual cultures\nPolitical Economy & Labor\nSelected publications: Rated A: Soft-Porn Cinema and Mediations of Desire in India (University of California Press, 2024) | South Asian Pornographies: Vernacular Formations of the Permissible and the Obscene , with Anirban K. Baishya (Routledge, 2024) | The Intellect Handbook on Adult Film & Media , with Patrick Keilty and Peter Alilunas (Intellect Books, 2026) | Sembawang’s Malayali Settlement: Fiction, Memoirs and Literature as Inter-Asian Method , Verge: Study in Global Asias 11, no. 2 (2025): 165-190. | The Great Indian Road Trip: Picturing the Post-colony in the Lost Travel Films of Warner Bros. , Journal of Cinema and Media Studies 64, no. 5, 2025. | Main/streaming Porn Discourse: Ten Years of Porn Studies and Reminiscing on South Asian Pornocultures co-written with Anirban K. Baishya, Porn Studies 11. no. 4. 2024, 367-379.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jeremy Morris",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/morris-jeremy/",
+   "personal_url": "http://podcastre.org",
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2026/09/Jeremy-Morris_Cropped-1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media and Cultural Studies"
+   ],
+   "bio": "AI and the Sound Industries\nHistory of software distribution\nI am currently serving as the Faculty Director for the Center for Humanistic Inquiry into AI and Uncertainty, where I am working with a team of faculty to bring insights and research from the humanities to discussions taking place around campus on artificial intelligence. This complements my current research projects, which center around the ways musicians and the music industries are incorporating generative AI and other artificial intelligence technologies into their every day routines. My research focuses on how new technologies affect the ways we make, understand, discover and interact with cultural goods (music, software, podcasts, etc.). How do media formats (from analog records to digital CDs, mp3’s, streaming audio, apps, and more) mean for the ways we make and use the media we love? How do industries react and adapt to the introduction of new technologies (from file-sharing services to streaming platforms to generative artificial intelligence) and how do users and creative producers negotiate the various challenges, tensions and opportunities that each new technological innovation brings. I hope my work, with its concern for artists as creators and as entrepreneurs, helps contribute to healthy and vibrant local cultural scenes. I also hope it helps users make better sense of the role new media play in their everyday lives.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Allison Prasch",
+   "title": "Nancy Obin Sukenik Professor | Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/prasch-allison/",
+   "personal_url": null,
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2019/08/Allison-Prasch_Cropped.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Rhetoric, Politics, and Culture"
+   ],
+   "bio": "Dr. Allison M. Prasch\nis the Nancy Obin Sukenik Professor and Associate Professor of Rhetoric, Politics, and Culture in the Department of Communication Arts at the University of Wisconsin-Madison. An expert in US presidential rhetoric, political communication, and the history of rhetoric, her research and teaching seeks to understand how US political leaders use words and actions to create and sustain a particular vision of the United States to national and global audiences.\nProf. Prasch’s first book,\nThe World is Our Stage: The Global Rhetorical Presidency and the Cold War\n(University of Chicago Press, 2023), examines how US presidents used their rhetoric abroad as a persuasive strategy during the Cold War and received the 2024\nRoderick P. Hart Outstanding Book Award\nfrom the Political Communication Division of the National Communication Association. Her second book project traces\nthe rhetorical history of Washington, DC\nand has been supported by a\nH.I. Romnes Faculty Fellowship\n(2025), an\nInstitute for Research in the Humanities Faculty Fellowship\n(2025), and a\nVilas Associates Award\n(2023).\nProf. Prasch is also the co-editor of\nReassessing Foreign Policy Rhetorics in a Global Era: Concepts and Case Studies\n(Michigan State University Press, 2024) and the co-editor of\nThe Routledge Handbook of Contemporary US Presidential Rhetoric\n(under contract).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Catalina Toma",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/toma-catalina/",
+   "personal_url": "http://catalinatoma.weebly.com/",
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2017/07/Catalina-Toma_Cropped.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=Kj10n_wAAAAJ&hl=en",
+   "research_areas": [
+    "Communication Science"
+   ],
+   "bio": "My research examines how people understand and relate to one another when interacting via communication technologies (e.g., online dating, social network sites, mobile computing, artificial intelligence). I focus on the impact of communication technologies on self and relationships, examining processes such as self-presentation and impression formation, deception and trust, self-worth, self-esteem and psychological well-being, interpersonal attraction, and relationship development. I am also interested in how language is produced and interpreted in computer-mediated contexts. I am currently Associate Editor at\nComputers in Human Behaviors.\nI am past Associate Editor at\nHuman Communication Research\n, the flagship journal of the International Communication Association, and at\nJournal of Media Psychology\n. I hold affiliations with the\nDepartment of Educational Psychology\n,\nSchool of Journalism & Mass Communication\n,\nMass Communication Research Center\n, and the\nInstitute for Diversity Science\nat the University of Wisconsin-Madison.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lillie Williamson",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Arts",
+   "profile_url": "https://commarts.wisc.edu/staff/williamson-lillie/",
+   "personal_url": "https://www.ldwilliamsonphd.com/",
+   "photo_url": "https://commarts.wisc.edu/wp-content/uploads/2020/01/Lillie-Williamson_Cropped.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Communication Science"
+   ],
+   "bio": "Assistant Professor\nshe/her/hers\nldwilliamso2@wisc.edu\nUnderstanding and modeling communication-related antecedents of medical mistrust\nTesting the effects of news stories about racial discrimination and medical racism on medical mistrust and health policy outcomes\nExamining shared trust between clinicians and patients\nInvestigating the relationships between medical mistrust and health/scientific misinformation\nMy research broadly examines the ways in which racial experiences and health communication interact to influence racial health inequalities. More specifically, much of my work investigates the effects and interactions of communication within and outside the clinical context and medical mistrust, particularly for Black Americans. I approach this work grounded in three principles: a) medical mistrust is an adaptive response, b) my work is useless if it is not rooted in and reflective of lived experiences, and c) given the pervasiveness of racism and extraction, we must strive for more equitable research practices. Past projects have investigated the antecedents of medical mistrust; the effects of exposure to vicarious racial discrimination (e.g., news stories about racial discrimination) on medical mistrust, and social support as a buffer to the effects of stressors, such as racial discrimination.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kathleen Bartzen Culver",
+   "title": "Professor; James E. Burgess Chair in Journalism Ethics; Director, Center for Journalism Ethics",
+   "rank": "Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/kathleen-bartzen-culver/",
+   "personal_url": null,
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2023/02/headshot_culver_2023.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media ethics",
+    "media law",
+    "First Amendment",
+    "free expression",
+    "digital technologies"
+   ],
+   "bio": "Long interested in the implications of digital media on journalism and public interest communication, Professor Kathleen Bartzen Culver’s research aims to advance integrity in media.\nCulver’s current work explores First Amendment and free speech and press on campus, particularly in times of protest and conflict. She focuses on the tensions between expression rights and the responsibilities of public communicators. Other recent work examined emerging technologies, such as virtual reality, drones and sensors, and how their use in news affects both ethics and journalism’s relationship with the public.\nAs an integrated scholar at UW-Madison, Culver focuses on how to draw together strands from research, teaching and service to influence other researchers, practitioners, students and the public. The Center for Journalism Ethics, of which Culver is the director, has been an important vehicle for her work, engaging hundreds of people through annual conferences, public panels, training sessions and other appearances. Recent efforts have focused on ethics and artificial intelligence, climate journalism, and centering equity.\nCulver is widely recognized for her curricular innovations, including the School of Journalism and Mass Communication’s gateway course, J202: Mass Media Practices, which arms students with the concepts and skills necessary to approach disrupted media industries with adaptability, critical thinking and integrity.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Chris Cascio",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/cascio-chris/",
+   "personal_url": null,
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2017/09/ChrisCaso_2014_Staff_L1015556-1-e1746045135625.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Chris Cascio is an associate professor at the School of Journalism and Mass Communication at the University of Wisconsin. His research uses tools from communication studies and social neuroscience to understand when and how persuasion works. Specifically, his research focuses on neurocognitive mechanisms associated with social influence and persuasive messages delivered through mass media and interpersonal communication in order to better understand subsequent behavior. More specifically, his research aims to: 1) understand the core mechanisms that drive behavior change in response to social influence and persuasive messages; 2) understand how situational social context (e.g., being in the presence of a risky versus safe peer), socio-demographic context factors (e.g., high versus low socioeconomic status (SES)), and development (e.g., adolescents versus young adults) moderate neural mechanisms associated with social influence and persuasion; and 3) understand how intervention strategies (e.g., self-affirmations) alter neural mechanisms associated with social influence and persuasion, and how these changes relate to behavior change.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ross Dahlke",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/dahlke-ross/",
+   "personal_url": null,
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2025/01/dahlke-ross_web-1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Ross Dahlke is an assistant professor at the University of Wisconsin-Madison School of Journalism and Mass Communication. He uses computational social science, data science, and software development to study political information exposure and effects on the open web and private communication channels, such as in text messaging, WhatsApp, Facebook Messenger, and Telegram. His research has been published in journals and venues including the Proceedings of the National Academy of Sciences (PNAS), Nature Human Behavior, Journal of Computer-Mediated Communication, and Proceedings of the ACM on Human-Computer Interaction (CSCW). Ross received his PhD from Stanford University where he was a Knight-Hennessy Scholar and Stanford Data Science Scholar.\nPrior to his PhD, he was a data scientist at a digital marketing and measurement firm where he developed and deployed Bayesian machine learning models, conducted large-scale A/B testing, and worked with client teams to optimize digital marketing budgets for Fortune 500 companies such as Coach Bags, Calvin Klein, and Facebook Marketplace. Ross has also consulted on over 80 political campaigns to implement cutting-edge data analytics techniques. He did his undergraduate education at the University of Wisconsin-Madison where he graduated with Comprehensive Honors and won the Theodore Herfurth Award for Initiative and Efficiency, which is awarded to the top graduating male student at UW.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Tomás Dodds",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/dodds-tomas/",
+   "personal_url": "https://www.tomasdodds.com/",
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2025/08/dodds-tomas_web.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Ethics and governance of AI",
+    "media ethics",
+    "public interest technologies",
+    "open source investigations"
+   ],
+   "bio": "Tomás Dodds is the Director of the Public Tech Media Lab and an Assistant Professor in Journalism and Mass Communication at the University of Wisconsin-Madison, an Affiliated Faculty at the UW Center for Journalism Ethics, and a Faculty Associate at the Berkman Klein-Center for Internet & Society at Harvard University. He was also a Research Fellow at the AI, Media & Democracy Lab and the Institute for Advanced Study (IAS) at the University of Amsterdam.\nDodds’ research examines the evolving relationship between journalism and technology, with a focus on how journalists and media organizations can develop open-source tools and artificial intelligence systems that serve the public interest.\nSelected publications: 2025. “\nThe AI Turn in Journalism: Disruption, Adaptation, and Democratic Futures\n.” Journalism. | 2025. “\nKnowledge Silos as a Barrier to Responsible AI Practices in Journalism? Exploratory Evidence from Four Dutch News Organizations\n.” Journalism Studies. | 2024. “\n‘It became no man’s land’: Journalists’ perceptions of digital violence and institutional responsibilities\n.” Journalism Practice. | 2024. “\nThe ethics of open source investigations: Navigating privacy challenges in a gray zone information landscape\n.” Journalism.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Greg Downey",
+   "title": "Evjue-Bascom Professor",
+   "rank": "Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/greg-downey/",
+   "personal_url": null,
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2012/01/downey-greg_web.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "History and geography of information",
+    "communication technology and labor"
+   ],
+   "bio": "Greg Downey’s research uses historical and geographical methods to uncover and analyze “information labor” over time and space. He has studied the stories of telegraph messenger boys in the early 20th century and remote closed-captioning workers in the late 20th century.\nDowney’s most recent work focuses on interdisciplinarity in academic knowledge production, the “metadata labor” of library and information science professionals, and the intertwining of algorithmic technology with career advising and job placement.\nSelected publications: 2011. Technology and Communication in American History (SHOT/AHA historical perspectives on technology, society, and culture). Society for the History of Technology / American Historical Association. | 2008. Closed Captioning: Subtitling, Stenography, and the Digital Convergence of Text with Television. Johns Hopkins University Press. | 2002. Telegraph Messenger Boys: Labor, Technology, and Geography, 1850-1950. Routledge. | 2025. “Revealing invisible information labor.” The SAGE Handbook of Data and Society: An Interdisciplinary Reader in Critical Data Studies.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Also listed as a Faculty Affiliate on the Communication Arts directory; home unit is SJMC, so recorded once here."
+  },
+  {
+   "name": "Young Mie Kim",
+   "title": "Vilas Distinguished Achievement Professor",
+   "rank": "Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/young-mie-kim/",
+   "personal_url": null,
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2019/10/Young-Mie-Kim-e1578590440100-1200x1200.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Angela Y. Lee",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/lee-angela/",
+   "personal_url": "https://angelayusonlee.github.io/",
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2026/08/lee-angela_500x500.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media psychology",
+    "media effects",
+    "communication technology",
+    "social cognition",
+    "intervention science",
+    "psychological well-being",
+    "community-engaged research"
+   ],
+   "bio": "Assistant Professor Angela Lee’s research focuses on identifying pathways to help people obtain healthier relationships with technology, like social media, smartphones, personalized algorithms and AI. She takes a media psychological approach to examining the effects of communication technologies on individuals’ health, psychological well-being and access to information. This work starts from the recognition that people and communities experience technology in very different ways, to identify and understand the mechanisms that explain when, why and for whom technology helps or harms. In particular, Lee is interested in developing theory-based interventions that support people in obtaining the benefits of new technologies while being aware and resilient to its potential harms.\nLee uses a combination of mixed-methods including surveys, experiments, field experiments and natural language processing to understand how people from different communities interact with these emerging technologies. Community-engaged practices are also central to her work. Lee has partnered with community stakeholders including educators, clinicians, nonprofits and small companies to co-develop and evaluate interventions designed to support everyday people in making more informed decisions about how they engage with technology.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kathryn McGarr",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/mcgarr-kathryn/",
+   "personal_url": null,
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2017/09/McGarr_Headshot_2022_400x400.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "My research is in twentieth-century U.S. political history, with a focus on gender, foreign policy, and the news media. I am especially interested in how social networks and political culture shape opinions about U.S. foreign policy.\nSelected publications: Kathryn J. McGarr.\nCity of Newsmen: Public Lies and Professional Secrets in Cold War Washington\n. University of Chicago Press, 2022. | Kathryn J. McGarr.\nThe Whole Damn Deal: Robert Strauss and the Art of Politics\n. Public Affairs, 2011. | “‘The World’s Greatest Hypocrites’: White Men and Diplomatic Reporting in the Early Cold War,” Modern American History (July 2022) | “‘The Right to Voice Your Opinions’: A Historical Case Study in Audience Members’ Emotional Hostility to Radio Journalists,” Journalism (2022) | “When the New York Times Liked Ike: The Newspaper’s Controversial Presidential Endorsements of 1952 and 1956.” American Journalism (spring 2022) | “The Importance of Historical Perspective and Archival Methods in Political Communication Research,” Political Communication (2020)",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Douglas McLeod",
+   "title": "Evjue Centennial Professor of Journalism and Mass Communication",
+   "rank": "Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/douglas-m-mcleod/",
+   "personal_url": null,
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2020/01/IMG_3592-e1578588986526-1200x1200.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Cognitive media effects",
+    "message framing and effects",
+    "news media",
+    "protests and social movements"
+   ],
+   "bio": "Douglas McLeod’s research examines the factors that shape the production of messages intended for various mass communication platforms (e.g., news stories, political and health communication messages) and the impact that these messages have on audiences, public opinion and public policy.\nFor example, one of McLeod’s major contributions has been the study the content and effects of mainstream print and broadcast news coverage of social protests. This research indicates that such news coverage that typically follow a “protest paradigm,” a common set of characteristics including an emphasis on actions over issues, conflicts with law enforcement over challenges to institutional policies, and acts of deviance over active citizenship. Media adherence to the protest paradigm is accentuated when the protest group’s goals call for more radical change and their tactics are more extreme. Moreover, protest groups (including both liberal and conservative groups) that don’t engage in dramatic tactics are often ignored by the media. This puts protest groups in a double-bind situation: either they engage in purely rationale discourse that often leaves them largely ignored by mainstream media or they engage in dramatic actions that draw attention of the media, but often leads to news coverage that delegitimizes the protest movement.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lindsay Palmer",
+   "title": "Helen Firstbrook Franklin Professor; Director, Graduate Studies",
+   "rank": "Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/lindsay-palmer/",
+   "personal_url": null,
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2014/08/palmer-lindsay_2025_web.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Theories of Press Freedom Global Media and Communication Studies Gender and Sexuality Digital Journalism Studies Media Ethics Cultural Studies Lindsay Palmer is a professor in the School of Journalism and Mass Communication at UW–Madison. She studies human rights media from a qualitative",
+    "humanist perspective",
+    "especially focusing on the complicated concept of press freedom. In her work",
+    "Palmer seeks to answer three questions: 1) How should we define press freedom in a globalized",
+    "digital age? 2) What are the economic",
+    "political",
+    "cultural",
+    "and technological forces that can hinder media workers’ efforts at informing the world’s diverse media publics? 3) How do global inequalities contribute to press freedom violations",
+    "as well as shaping the advocacy work that combats those violations? These questions have led Palmer to pursue research on digital war reporting",
+    "local translators and guides",
+    "and virtual reality news stories that focus on international human rights issues. Palmer’s first book is called",
+    "Becoming the Story: War Correspondents since 9/11",
+    "(University of Illinois Press 2018). Her second book is called",
+    "The Fixers: Local News Workers and the Underground Labor of International Reporting",
+    "(Oxford University Press 2019). Palmer is currently working on two new book projects: one of these conducts a cultural history of the Committee to Protect Journalists. The other analyzes the digital advocacy of major press freedom groups like the Committee to Protect Journalists",
+    "Reporters without Borders",
+    "and the International Press Institute. Palmer teaches courses on global news networks",
+    "gender and sexuality in the media",
+    "theories of global communication",
+    "and cultural studies. Before her life in academia",
+    "she worked as a television news producer"
+   ],
+   "bio": "Theories of Press Freedom\nGlobal Media and Communication Studies\nGender and Sexuality\nDigital Journalism Studies\nMedia Ethics\nCultural Studies\nLindsay Palmer is a professor in the School of Journalism and Mass Communication at UW–Madison. She studies human rights media from a qualitative, humanist perspective, especially focusing on the complicated concept of press freedom. In her work, Palmer seeks to answer three questions: 1) How should we define press freedom in a globalized, digital age? 2) What are the economic, political, cultural, and technological forces that can hinder media workers’ efforts at informing the world’s diverse media publics? 3) How do global inequalities contribute to press freedom violations, as well as shaping the advocacy work that combats those violations?\nThese questions have led Palmer to pursue research on digital war reporting, local translators and guides, and virtual reality news stories that focus on international human rights issues. Palmer’s first book is called\nBecoming the Story: War Correspondents since 9/11\n(University of Illinois Press 2018). Her second book is called\nThe Fixers: Local News Workers and the Underground Labor of International Reporting\n(Oxford University Press 2019). Palmer is currently working on two new book projects: one of these conducts a cultural history of the Committee to Protect Journalists.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Karyn Riddle",
+   "title": "Robert Taylor Professor of Strategic Communication; Director, Undergraduate Studies",
+   "rank": "Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/karyn-riddle/",
+   "personal_url": null,
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2020/01/IMG_3615-e1578589011334-1200x1200.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media effects (especially media violence)",
+    "media enjoyment",
+    "narrative entertainment effects",
+    "specialization in children and adolescents"
+   ],
+   "bio": "Karyn Riddle’s research explores the impact of entertainment, news, and social media on children, adolescents, and adults. Much of her research focuses on violence, with studies documenting both the nature and impact of media violence. In a recent study, she and her co-authors explored U.S. adolescents’ reactions when learning about the Uvalde school shooting through both traditional news and social media outlets. In other research, she has documented the prevalence and graphicness of violence in popular movies and television programs. Riddle has also developed a theory of vivid media violence in which she articulates how graphic, explicit media violence impacts audiences differently than violence that is “sanitized.”\nIn a second line of research, Riddle explores the power of narrative media stories more broadly. She and graduate student co-authors proposed a theory of media enjoyment that both synthesizes and disentangles prior theorizing on hedonic responses to media. More recently, she has worked with graduate students on a series of projects inspired by the television program Schitt’s Creek. In these studies, they explored how narrative stories featuring LGBTQ+ characters can have a positive impact on audiences.\nSelected publications: 2025. “News exposure, depression, and PTSD symptoms among adolescents in the US: A case study of the Uvalde school shooting.” Journal of Children and Media. | 2024.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Susan Robinson",
+   "title": "Helen Firstbrook Franklin Professor of Journalism",
+   "rank": "Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/susan-robinson/",
+   "personal_url": "https://suerobinson.org/",
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2012/01/SueRobinson-2023-3.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Order her latest book:\nHow Journalists Engage: A Theory of Trust Building, Identities, and Care\n(Oxford University Press, 2023)\nSue Robinson joined the UW-Madison faculty at the School of Journalism and Mass Communication in January 2007 and now holds the Helen Firstbrook Franklin Professor of Journalism endowed research chair. Working in the realm of “Journalism Studies,” she explores how journalists and news organizations can build trust by rethinking traditional news production norms and routines and instead adopting “engagement” practices.\nAs a scholar, she practices what is called “applied research,” which means she works with journalists and newsroom trainers to incorporate her evidence-based findings and then helps evaluate and learn from those interventions. She is currently at work on a new multi-phased book project, tentatively titled, “Journalism Disruption: Interventions in Newsrooms to Rebuild Trust with Audiences” with co-researcher Dr. Joshua Darr of Syracuse University and her collaborators include journalism programs Trusting News, Spaceship Media, Solutions Journalism Network, and Hearken.\nHer 2023 book is titled\nHow Journalists Engage: A Theory of Trust Building, Identities, and Care\n(Oxford University Press) and explores how journalists enact trusting relationships with their audiences.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Hernando Rojas",
+   "title": "Helen Firstbrook Franklin Professor of Journalism",
+   "rank": "Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/hernando-rojas/",
+   "personal_url": null,
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2012/01/rojas_hernando_3_web.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Political communication",
+    "media effects",
+    "global communication"
+   ],
+   "bio": "Hernando Rojas’ scholarship, which has resulted in over a 100 publications, focuses on political communication, examining:\nthe deployment of new communication technologies for social mobilization in a variety of contexts;\nthe influence of audience perceptions of media (and audience perceptions of media effects) on both public opinion and the structure of the public sphere; and\nthe conditions under which media support democratic governance.\nRojas has served as Editor in Chief of the International Journal of Public Opinion Research and serves on multiple editorial boards. He has held leadership positions as SJMC Director, Latin American, Caribbean, and Iberian Studies Program Director, and in professional associations including ICA, WAPOR and AEJMC.\nSelected publications: 2023. El Perfil del Votante Colombiano. Centro de Estudios en Democracia y Asuntos Electorales. | 2025. “Regionality of messaging applications: Everyday socialization as a gateway to civic and political participation in China, Japan, South Korea, and the United States.” Social Media and Society. | 2022. “Fandom Nationalism in China: Effects of Idol Adoration and Online Fan Community Engagement.” Chinese Journal of Communication. | 2019. “A Call to Contextualize Public Opinion-Based Research in Political Communication.” Political Communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Dhavan Shah",
+   "title": "McLeod Professor of Communication Research; Maier-Bascom Chair; Director, MCRC; Research Director, CCCR",
+   "rank": "Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/dhavan-v-shah/",
+   "personal_url": "https://dshah.sjmc.wisc.edu/",
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2012/01/shah-dhavan_2025_web_square.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Political communication",
+    "health communication",
+    "media psychology",
+    "media effects",
+    "computational social science",
+    "digital health",
+    "public opinion"
+   ],
+   "bio": "Dhavan Shah is a political and health communication scholar whose research bridges traditional media effects research with computational social science. His scholarship addresses pressing societal issues, including political polarization, civic erosion, and public health disparities. His research focuses on the influence of mass media and interpersonal communication, especially digital media, on social judgments, political engagement, and health support.\nOne of Shah’s foundational research areas focuses on message construction and framing—how the way information is presented influences social judgments, attitudes, and behaviors. His studies reveal that the framing of news stories, political messages, and health information can subtly shape how people perceive reality, responsibility, and risk. This work has deepened understanding of how media content affects not only individual decision-making but also broader public discourse and opinion dynamics, extending experimental insights to observational studies.\nAnother major strand of Shah’s research investigates the communication dynamics that drive civic and political participation and shape social and institutional trust, with much of this work centered on his advancements of the communication mediation model.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Michael Wagner",
+   "title": "Director, School of Journalism and Mass Communication; William T. Evjue Distinguished Chair for the Wisconsin Idea; Director, CCCR",
+   "rank": "Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/michael-wagner/",
+   "personal_url": "http://prowag.me",
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2020/01/IMG_3803-e1578589230764-1200x1200.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Michael W. Wagner is the Director of the School of Journalism and Mass Communication, William T. Evjue Distinguished Chair for the Wisconsin Idea and Professor of Journalism and Mass Communication at the University of Wisconsin-Madison where he is the Director of the Center for Communication and Civic Renewal (CCCR). Housed in the School of Journalism and Mass Communication with appointments in the La Follette School of Public Affairs, the Department of Political Science, and the UW Law School, his research focuses how individuals’ experiences in the information ecology are associated with what they believe to be true, what they want from their government in terms of public policies, and how they participate civically and politically.\nHis focus on political communication, public opinion and representation has shaped his four major lines of inquiry:\nexploring the influence of mediated political messages on attitudes and behaviors,\nexamining how the interaction of psychological and contextual factors affect attitudes and behaviors,\nhow news logics influence political coverage, and\nindustry-academy collaborative research.\nHe combines panel survey research, experimental methods, content analysis, in-depth interviews, focus groups, and collaborative interdisciplinary approaches to studying contemporary social problems relate to the health of democracy.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Directory title lacks rank; profile page states \"Professor of Journalism and Mass Communication\"."
+  },
+  {
+   "name": "Jing Wang",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/wang-jing/",
+   "personal_url": "https://www.jing-wang.net/",
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2023/08/wang-jing_2026_400x400.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Global communication",
+    "anthropology of Islam",
+    "feminist knowledge production",
+    "Chinese diaspora media",
+    "podcasting and sound studies",
+    "translation",
+    "public scholarship"
+   ],
+   "bio": "Wang’s research lies in the intersection among global communication, technology, and culture. She specializes in the anthropology of Islam, race & ethnicity, gender and feminist studies, and digital studies such as online forums and podcasts. At its core, her scholarship attends to how communities make their own voices heard and how we imagine more creative, hopeful futures through interdisciplinary approaches.\nCurrently, Wang is writing a book which centers around resilient Muslim publics in a Muslim-minority context. She has published in peer-reviewed journals such as New Media and Society, Made In China Journal, Media Theory, Feminist Anthropology, Asian Anthropology, Journal of Contemporary East Asia, Terrain: Anthropologie & Sciences Humaines, and Journal of Transformative Learning.\nMoving forward, her research projects include\ndiasporic media in the global context;\ninter-Asian flows of feminist ideas;\nwomen’s health and media.\nMeanwhile, she loves exploring ideas beyond academic publication. Her translated book\nWalter Benjamin’s Grave\n本雅明之墓\n(authored by Michael Taussig) was published by Peking University Press. In 2020, she co-founded\nTyingKnots 结绳志\n, an independent, non-profit, volunteer-based group committed to breaking down walls between academia, media, and the public through translation projects and the promotion of public-facing scholarship.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Also listed as a Faculty Affiliate on the Communication Arts directory; home unit is SJMC, so recorded once here."
+  },
+  {
+   "name": "Miya Williams Fayne",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/williams-fayne-miya/",
+   "personal_url": null,
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2023/07/Williams-Fayne.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=3w3j8fkAAAAJ&hl=en&oi=ao",
+   "research_areas": [
+    "Journalism",
+    "Black press",
+    "digital media",
+    "social media",
+    "audience studies"
+   ],
+   "bio": "Dr. Miya Williams Fayne’s research is situated in journalism studies and investigates the Black press and Black news audiences in the new media age. She uses qualitative methodology, such as interviews, focus groups, content analysis and analysis of web metrics, to examine digital journalism production and consumption practices. Williams Fayne’s scholarship analyzes how news content circulates in the digital Black public sphere and highlights the Black press’ sociopolitical role in public discourse.\nRedefining the Black press,\nDifferentiating the Black press from mainstream media, and\nCentering the Black audience.\nHer research finds that the digital Black press maintains some of the tenets of legacy Black press outlets while also adapting to meet the present moment. Additionally, she argues that the Black press fills gaps in mainstream media news coverage and provides counternarratives to mainstream’s inaccurate coverage of African Americans. Williams Fayne also studies Black adults’ overall news diets, including consumption of both Black press and mainstream news outlets, adding to scholarship on news avoidance and media repertoires.\nHer research has been published in top journals such as Digital Journalism, The International Journal of Press/Politics, Journalism Studies, Journalism and Mass Communication Quarterly, Journalism, and Mass Communication and Society.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Sijia Yang",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Journalism and Mass Communication",
+   "profile_url": "https://sjmc.wisc.edu/news/staff/yang-sijia/",
+   "personal_url": null,
+   "photo_url": "https://sjmc.wisc.edu/wp-content/blogs.dir/41/files/2019/07/yang-sijia-2048x1365.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Message effects and persuasion",
+    "health communication",
+    "computational communication science",
+    "persuasive AI",
+    "communication of morality",
+    "communication-based interventions"
+   ],
+   "bio": "Dr. Sijia Yang’s research applies experimental, computational (e.g., multimodal automated content analysis, web-based experiments, causal machine learning), and community-engaged approaches to the study of message effects and persuasion on digital media, particularly in the context of public health and science communication.\nCurrently, Yang is pursuing three lines of research. The first line of work aims to understand the process of moralization and politicization of health issues and the implications for communication-based health interventions. Since multimodal content is now a norm in digital communication campaigns, the second line aims to identify and evaluate persuasive features in multimodal messages through causal machine learning. The last line of work aims to understand the roles of AI in pro-social persuasive messaging, especially the potential to harness the power of AI to improve health communication interventions in underserved communities.\nSelected publications: 2025. “Can generative AI enhance visual correction of health misinformation? An online\nexperiment testing AI-generated debunking visuals and credibility boosters.” Journal of Mass Communication Quarterly. | 2025. “Pictorial warning labels reduce sharing intentions, blunt self-relevance processes elicited by social media posts promoting cannabis edibles.” Journal of Communication. | 2025.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  }
+ ]
+}

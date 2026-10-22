@@ -5,6 +5,7 @@ import meta from '../data/meta.json';
 <Base>
   <section class="match">
     <div class="match-input">
+      <span class="hero-bars" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i></span>
       <h1 data-i18n="match_h1">Find the Communication faculty and programs that fit your research</h1>
       <p class="lede" data-i18n="match_lede">Paste a paragraph from your statement of purpose, or describe your questions, methods and cases in English. Matching runs in your browser; nothing is uploaded.</p>
       <label class="sr-only" for="q" data-i18n="match_h1">Describe your research</label>
@@ -44,6 +45,7 @@ import meta from '../data/meta.json';
 <style>
   .match { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 32px; align-items: start; }
   .match-input { position: sticky; top: calc(var(--header-h) + 20px); display: grid; gap: 14px; }
+  .match-input .hero-bars { margin-bottom: 0; }
   .match-input h1 { max-width: 16ch; }
   .hints { display: grid; gap: 8px; padding: 10px 12px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg-2); }
   .opts summary { cursor: pointer; color: var(--ink-3); font-size: 0.875rem; font-weight: 600; }

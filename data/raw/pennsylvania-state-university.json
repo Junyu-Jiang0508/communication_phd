@@ -1,0 +1,1208 @@
+{
+ "university": "Pennsylvania State University",
+ "slug": "pennsylvania-state-university",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "Donald P. Bellisario College of Communications",
+   "school": null,
+   "directory_url": "https://bellisario.psu.edu/people/faculty",
+   "phd_program_url": "https://bellisario.psu.edu/graduate/ph-d-in-mass-communications",
+   "phd_program_name": "Ph.D. in Mass Communications",
+   "notes": "College-wide faculty page (119 cards, static). Kept cards whose rank text is Professor/Associate Professor/Assistant Professor or an endowed chair; excluded emeriti, teaching professors, lecturers, professors of practice, research professors, visiting, courtesy appointments, professional-in-residence and staff. Cross-checked against /graduate/graduate-faculty (adds only teaching professors)."
+  },
+  {
+   "name": "Department of Communication Arts and Sciences",
+   "school": "College of the Liberal Arts",
+   "directory_url": "https://cas.la.psu.edu/people/",
+   "phd_program_url": "https://cas.la.psu.edu/graduate/how-to-apply/",
+   "phd_program_name": "Ph.D. in Communication Arts and Sciences",
+   "notes": "JS-rendered people page; scraped the #professors section (22 people, includes the department head). Identical to the 22 names on /graduate/graduate-faculty/. Profiles have no research-areas field, only a Professional Bio, so research_areas is empty for this unit."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Lee Ahern",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/lee-ahern",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/temp_file_AhernLee2018WEB1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Strategic Communication",
+    "Digital Media Metrics and Marketing"
+   ],
+   "bio": "Biography: Lee Ahern is an associate professor of advertising and public relations in the Donald P. Bellisario College of Communications. He is a senior research fellow at the Arthur W. Page Center for Integrity in Public Communication. He is past chair of the International Environmental Communication Association (\nwww.theieca.org)\nand past head of the Communication Science, Health, Environment and Risk Division of the Association for Education in Journalism and Mass Communication. He joined the faculty at Penn State in 2008 as an assistant professor. Ahern is also developer and coordinator of the digital media trends and analytics minor offered by the Bellisario College.\nAhern studies the science of science communication. Effective public policies relative to science and technology require public understanding of complex concepts. Over the past two decades, communications scholars have begun to identify the social and psychological factors that combine to make meaning about scientific issues in the minds of different audience segments. They are also beginning to understand why science communication campaigns so often fail to deliver the intended and desired results. These findings have made it clear that scientists must consider not just the science itself, but how audiences will react to and make meaning from science communications.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Christopher Ali",
+   "title": "Pioneers Chair, Professor of Telecommunications",
+   "rank": "Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/christopher-ali",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/ChristopherAli-headshot.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Biography: Dr. Christopher Ali is the Pioneers Chair in Telecommunications and a full professor of telecommunications in the Bellisario College. He is also an affiliate faculty with the College of Information, Science and Technology (IST) at Penn State. He holds a Ph.D. in communication studies from the Annenberg School for Communication at the University of Pennsylvania (2013). His research interests include media and telecommunications policy and regulation, broadband policy, critical political economy, critical geography, comparative media systems, qualitative research methods, media localism, and local news.\nAli uses critical, qualitative methods to research broadband policy, planning, deployment and digital equity in the United States. Presently, he has a series of projects dedicated to “broadband stories,” where he is researching how community-based stories can influence public policy. These projects form the basis of his forthcoming book,\nWhere the wires end: Stories from the Digital Divide\nto be published in Spring 2027 with the University of Chicago Press. In 2026, Dr. Ali also completed a major grant funded research project for the Center for Rural Pennsylvania analyzing how the digital divide impacts rural first responders in the Commonwealth of Pennsylvania.\nDr. Ali is the author or editor of four books: \"\nPublic Service Media’s Contribution to Society\n\"(Nordicom, 2023, with Prof. Dr. Manuel Puppis), \"\nFarm Fresh Broadband: The Politics of Rural Connectivity",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Catharine Axley",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/catharine-axley",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/CatherinAxley2025.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Biography: Catharine Axley is an independent documentary filmmaker and educator. Her most recent film is \"ATTLA,\" a feature documentary co-produced by ITVS and Vision Maker Media, that aired nationally in 2019 as part of PBS' Independent Lens series. \"ATTLA\" is a selectee of the 2020-2021 American Film Showcase program through the U.S. Department of State, and was awarded Best Documentary Feature at the 44th American Indian Film Festival and Best Indigenous Film at the 2019 BendFilm Festival, among others.\nHer films have played at festivals, including the San Francisco International Film Festival, DOC NYC, Heartland International Film Festival, Harlem International Film Festival, Banff Centre Mountain Film Festival World Tour, and the United Nations Association Film Festival.\nPrior to joining Penn State, she taught as a Filmmaker-in-Residence at the University of Kentucky and joined Spelman College for a semester to design and teach a documentary editing course. With support from ITVS, she is currently in production on a feature documentary exploring cruise tourism for which she is a 2021 Fall Logan Nonfiction Fellow.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Denise Bortree",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/denise-bortree",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/BortreeDenise-headshot.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Corporate Social Responsibility",
+    "Nonprofit Communication",
+    "Sustainability",
+    "Volunteerism"
+   ],
+   "bio": "Biography: Denise Sevick Bortree is associate dean for academic affairs, professor in the department of advertising/public relations, and the director of the Arthur W. Page Center. She brings more than 10 years of practical experience to her teaching, including positions as communication manager, public relations manager and marketing manager for a number of organizations.\nShe was selected for the Big Ten Academic Leadership Program in 2019-2020, and she received the 2020 Milton S. Eisenhower Award for Distinguished Teaching for her mentorship and instruction. In 2010 Bortree received the Deans' Excellence Award for Research and Creative Accomplishments from the Donald P. Bellisario College of Communications at Penn State, and in 2016 she received the Dean's Excellence Award for Integrated Scholarship. She was selected to participate in the Scripps Howard Leadership Academy in 2013.\nBortree researches and writes on nonprofit organizational communication and sustainability. She has authored more than 30 peer-reviewed journal articles that have been published in journals such as\nJournalism and Mass Communication Quarterly\n,\nJournal of Public Relations Research\n,\nNonprofit Management and Leadership\n,\nPublic Relations Review\n, the\nInternational Journal of Nonprofit and Voluntary Sector Marketing\nand the\nInternational Journal of Volunteer Administration\n. She has co-edited two books, one titled\nTalking Green: Exploring Contemporary Issues in Environmental Communications",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jiyoung Cha",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/jiyoung-cha",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/JiyoungCha-headshot.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Management and Entrepreneurship",
+    "Media Industries",
+    "Managerial Aspects of Artificial Intelligence",
+    "Platform Business",
+    "Media Consumer Behavior",
+    "Communication Technology",
+    "Social Media and AI-Powered Social Chatbots",
+    "AI-Powered Recommendation Algorithms"
+   ],
+   "bio": "Biography: Jiyoung Cha, Ph.D., is an associate professor in the Department of Telecommunications and Media Industries at Penn State. She teaches courses on media management/economics, emerging communication technologies, media ethics, and media entrepreneurship.\nCha’s research interests include media management/entrepreneurship, media industries, communication technology, and consumer behavior. Her research aims to understand the competitive dynamics of the media marketplace, the business principles of media firms, how new media change audiences’ media consumption patterns, and why audiences adopt or reject new communication technologies. Her research also explores how and why consumers choose specific content and platforms in a multichannel and multiplatform environment.\nRecently, she has investigated the use of AI-powered recommendation algorithms, algorithm aversion, and AI companion. She has also researched the dynamic and symbiotic relationship between video streaming platforms and traditional video platforms as well as innovative ways to finance media for producing and distributing content. Other research projects have investigated social media usage, the business models of social media platforms, social media influencer marketing, and the credibility of social media. She has also investigated how media entrepreneurs in the video game and journalism industries can leverage crowdfunding platforms to realize their visions and amplify diverse voices.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Colleen Connolly-Ahern",
+   "title": "Associate Professor / MPS Program Coordinator",
+   "rank": "Associate Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/colleen-connolly-ahern",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/ConnollyAhernColleenWEB.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "International Political Advertising",
+    "Health Communications",
+    "Strategic Communications"
+   ],
+   "bio": "Biography: Colleen Connolly-Ahern joined the Penn State faculty in 2004. She brings a mix of teaching, research and public service that match well with the mission of the Donald P. Bellisario College of Communications to train future communications professionals for careers and for life.\nConnolly-Ahern is an expert in the area of applied communications research. Recent research areas include refugees and communication and science communication. She has published more than 20 peer-reviewed articles, and her work has appeared in journals such as\nJournalism & Mass Communication Quarterly\n,\nJournal of Public Relations Research\n, and\nCommunication, Culture and Critique\n. Since coming to Penn State, she has presented dozens of papers at academic conferences. She is a former head of the Public Relations Division of AEJMC, a member of the editorial board of JPRR and JPIC, and has served as a member of the Advisory Board for the Penn State Yearbook, La Vie.\nConnolly-Ahern teaches a wide range of undergraduate advertising and public relations classes, and serves as the course co-coordinator for COMM 420 Advertising and Public Relations Research. She also teaches graduate seminars (COMM 511 Qualitative Research Methods and COMM 597 International and Intercultural Strategic Communications).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Frank Dardis",
+   "title": "Professor ; Interim Head, Department of Advertising/Public Relations",
+   "rank": "Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/frank-dardis",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/DardisFrank2025.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Strategic Communication",
+    "Interactive Advertising",
+    "Consumer Psychology and Behavior",
+    "Corporate Communication",
+    "Persuasion Effects"
+   ],
+   "bio": "Biography: Offering a substantial mix of both professional and academic experience, Frank Dardis teaches courses that encompass many areas of advertising and marketing communications: COMM 424 Advertising Campaigns, COMM 422 Advertising Media Planning, COMM 450A Digital Campaigns, and COMM 420 Research Methods in Advertising and Public Relations. He also teaches a graduate seminar in strategic communications (COMM 520), an online M.P.S. course in strategic communications theory and practice (COMM 531), and a first-year seminar on non-traditional marketing-communications methods. From 2015-2018, he was lead faculty of the online strategic communications program.\nDardis is a senior research fellow at the Arthur W. Page Center for Integrity in Public Communication and is a faculty affiliate of Penn State’s Media Effects Research Laboratory. Most of Dardis’ current research focuses on the persuasive and psychological effects that strategic communications and messages have on individuals. His consumer-oriented research focuses on the impact of advertising messages and corporate communications on individuals’ information processing and brand/corporate attitudes. Much of his recent research explores the effects of branded content within interactive media. He also has investigated attitude formation and change pertaining to sociopolitical topics such as social movement organizations, war protest, environmentalism, capital punishment and political apathy.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Boaz Dvir",
+   "title": "Donald P. Bellisario Career Advancement Professor, Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/boaz-dvir",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/Dvirheadshot-2021.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Documentary Filmmaking",
+    "Ethics in Filmmaking",
+    "New Media",
+    "Nonfiction Storytelling",
+    "Multimedia Reporting"
+   ],
+   "bio": "Biography: Associate Professor Boaz Dvir is a Donald P. Bellisario Career Advancement Professor in the Department of Journalism. He’s the founding director of the University’s Hammel Family Human Rights Initiative and the Holocaust, Genocide and Human Rights Education Initiative.\nHe’s an award-winning filmmaker and writer. He tells the stories of ordinary people who, under extraordinary circumstances, transform into trailblazers who change the world around them. They include a teacher in a high-need school who transformed into a disruptive innovator and a national model (\"Class of Her Own\"); an uneducated truck driver who becomes a highly effective child-protection activist (\"Jessie’s Dad\"); and a French business consultant who sets out to kill former Nazi officer Klaus Barbie and ends up playing a pivotal role in one of history’s most daring hostage-rescue operations (\"Cojot\").\nHis films have been distributed by PBS, The New York Times, Hulu, Amazon Prime and other outlets, and have received coverage by such media as the Huffington Post, The Guardian, and Forbes\n.\nHe’s written for many publications, including New York’s Newsday, The Philadelphia Inquirer, the South Florida Sun-Sentinel, and TIME magazine.\nDvir wrote a syllabus on multimedia journalism ethics for Harvard University’s Kennedy School. He has also taught journalism and documentary filmmaking at the University of Florida.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kaitlin Fitzgerald",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/kaitlin-fitzgerald",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/KaitlinFitzgerald-headshotweb.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Biography: Kaitlin (Katie) Fitzgerald is an assistant professor in the Department of Film Production and Media Studies. Her research examines the social and psychological processes through which individuals engage with and respond to media, particularly narratives. She is especially interested in how stories shape audiences’ thoughts, emotions, attitudes and behaviors, including how entertainment media may contribute to audience well-being and prosociality.\nHer work has examined restorative narratives, moral and prosocial storytelling, and the role of media in shaping how audiences understand and respond to difficult human experiences and complex social issues.\nHer research has appeared in journals including \"Media Psychology,\" \"Journal of Communication,\" \"Human Communication Research,\" \"Communication Research\" and \"Mass Communication and Society.\" Before joining Penn State, she held postdoctoral appointments at KU Leuven and Cornell University and served as a lecturer in Cornell University’s Department of Communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Russell Frank",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/russell-frank",
+   "personal_url": "http://www.statecollege.com/news/authors/russell-frank-37/",
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/temp_file_FrankRussell2015WEB1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Journalism Ethics",
+    "Literary Journalism",
+    "Internet Folklore"
+   ],
+   "bio": "Biography: Professor Frank worked for newspapers in California and Pennsylvania as a reporter and editor for 12 years before joining the Donald P. Bellisario College of Communications faculty in 1998. He teaches news writing, feature writing, column writing, news media ethics and the literature of journalism.\nFrank writes about journalism ethics, literary journalism and Internet folklore. His research articles and essays have been published in Nieman Reports, News Media Ethics, Quill, Journal of Mass Media Ethics, Western Folklore, Journal of American Folklore, New Media and Society, Contemporary Legend, Journalism, Rural Sociology and Journalism and Mass Communication Educator.\nHe also writes an award-winning column for StateCollege.com. A collection of his columns, titled \"Among the Woo People: A Survival Guide for Living in a College Town,\" was published in 2017 by the Penn State University Press. He is also the author a book about Internet folklore titled \"Newslore.\" His freelance work has been published in\nThe New York Times,\nthe\nLos Angeles Times,\nthe\nWashington Post\nand other newspapers.\nFrank has twice been a Fulbright Scholar: in Ukraine in 2012 and in Greece in 2019-20. He is a member of the National Society of Newspaper Columnists, the American Folklore Society, the International Association for Literary Journalism Studies, the International Society for Contemporary Legend Research and the Association for Education in Journalism and Mass Communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Homero Gil de Zúñiga",
+   "title": "Distinguished Professor of Media Effects & AI",
+   "rank": "Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/homero-gil-de-zúñiga",
+   "personal_url": "http://www.homerogdz.com/",
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/HGZ-Prensa-2022.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=T3VspYkAAAAJ&hl=en",
+   "research_areas": [
+    "Artificial Intelligence",
+    "Information &amp; Communication Technologies",
+    "Journalism",
+    "Media Effects",
+    "Political Communication",
+    "Quantitative Methodologies",
+    "Social Media & Algorithms"
+   ],
+   "bio": "Biography: Homero Gil de Zuñiga is doctor in Political Science by the Universidad Europea de Madrid and also completed a Ph.D. in Mass Communication with a minor in Digital Media at the University of Wisconsin – Madison. His education includes the Oxford Internet Institute’s Summer Doctoral Program at University of Oxford.\nGil de Zuñiga serves as Distinguished Professor of Media Effects & AI at Penn State, as Distinguished Research Professor in Political Science at University of Salamanca, where he directs the Democracy Research Unit (DRU), and as a Senior Research Fellow at Universidad Diego Portales, Chile. Prior to these appointments he was the Medienwandel Professor at University of Vienna, an Associate Professor at the University of Texas - Austin, and a Research Fellow at several Institutions (i.e., Center for Information Technology Policy at Princeton University, Nieman Journalism Lab at Harvard University, and ASCoR’s McQuail Honorary Fellow at University of Amsterdam).\nIn general, his work draws from theoretically driven research, aiming to shed an empirical social scientific light over how social media, algorithms, AI, and other technologies affect society. Relying on survey, experimental, and computational methods his work seeks to clarify the way we understand some of today’s most pressing challenges for democracies.\nHe has published over a dozen books or volumes with prestigious academic publishers, including his latest book\nSocial Media Democracy Mirage",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Pearl Gluck",
+   "title": "Donald P. Bellisario Career Advancement Professor, Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/pearl-gluck",
+   "personal_url": "http://palinkapictures.com/",
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/PearlGluck2025.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Directing",
+    "Documentary Filmmaking",
+    "Film Production",
+    "Screenwriting"
+   ],
+   "bio": "Biography: A native of Brooklyn, New York, Pearl Gluck joined the Donald P. Bellisario College of Communications at Penn State in 2014. A filmmaker, educator and community arts advocate, Gluck teaches screenwriting, directing and producing. Her work explores themes of gender, class, faith, and autobiographical storytelling. Gluck says: \"... My goal is to help students uncover why they tell stories and how their voices fit into the cinematic tradition. Whether teaching screenwriting, directing, or production, I challenge students to balance creative exploration with technical discipline.\"\nHer films through\nPalinka Pictures\nhave garnered three Fulbright grants (to Hungary, Poland, and Israel), a Sundance Producer’s Lab fellowship, as well as support from the National Endowment for the Humanities. Her feature film, \"The Turn Out\" (2018), blends documentary and fiction to address domestic sex trafficking and won several awards, including Best Debut Feature at the Female Eye Film Festival. Gluck's other award-winning films include \"Castles in the Sky\" (2024), \"Write Me\" (2020), \"Summer\" (2018), \"Junior\" (2016), \"Where Is Joel Baum\" (2012), and her debut documentary film, \"Divan\" (2004) which opened theatrically in New York’s Film Forum and broadcast premiered on the Sundance Channel.\nGluck’s films have screened at international festivals, including Cannes and Sundance, and played in theaters nationwide. She has been featured on NPR, PBS as well as other global outlets.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Virginia Harrison",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/virginia-harrison",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/VirginiaHarrison-web.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Biography: Virginia Harrison is an associate professor in the Bellisario College of Communications. She teaches undergraduate public relations courses in the Department of Advertising and Public Relations.\nHer research centers around the concept of stewardship, primarily in the context of nonprofit-donor relationships. She aims to better define, measure, and understand how dialogic stewardship plays a role in deepening nonprofit donor engagement and to explore its value in other contexts with attention to ethical donor relations. Her secondary area of interest is better understanding how corporate social responsibility and athlete advocacy impacts sports stakeholder relationships.\nBefore earning her Ph.D. from Penn State, she spent seven years in public relations and fundraising practice. Dr. Harrison's work has been published in top public relations, nonprofit, and sports communication journals, such as\nJournal of Public Relations Research, Public Relations Review\n, and\nCommunication & Sport\n. She has presented numerous papers at International Communication Association and Association for Education in Journalism and Mass Communication conferences, where she has won top paper awards. She is a three-time Page/Johnson Legacy Scholar from the Arthur W. Page Center for Integrity in Public Communication (2022, 2024, 2026) and has been invited to present her work to fundraising professionals. She joined the Bellisario College faculty in 2026.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Yujin Heo",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/yujin-heo",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/YujinHeo-headshot.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital Advertising",
+    "Media Psychology",
+    "Persuasion",
+    "Strategic Communication"
+   ],
+   "bio": "Biography: Dr. Yujin Heo is\nan assistant professor in the Department of Advertising and Public Relations.\nHer research focuses on strategic communication, digital advertising, consumer\npsychology, and persuasion. Specifically, she investigates how the shifting\nmedia landscape impacts consumer responses to advertising and how message\ncharacteristics drive persuasion and behavior.\nHer work has\nbeen published in leading academic journals, including the\nJournal\nof Computer-Mediated Communication\n,\nMass\nCommunication and Society\n,\nJournalism & Mass Communication\nQuarterly\n,\nInternational Journal of Public\nOpinion Research\n, and\nJournal of Health Communication\n.\nHer scholarship has received both national and international recognition,\nincluding a top paper award and a research award from the Association for\nEducation in Journalism and Mass Communication.\nPublications: Heo, Y., Moon, J. H., Jones-Jang, S. M., & Chung S. (2025). Why do people underestimate polling effects? Examining the gap between actual and perceived polling effects.\nMass Communication and Society.\nKim, S. H., Oh, S. H., Zain, A., Heo, Y., & Jun, J. (2023). Transition from Idealized Science to Culture of Skepticism in South Korea: Micro-Level Evidence for the Two-Culture Model of Public Understanding of Science.\nInternational Journal of Public Opinion Research\n,\n35\n(3), edad026.\nHeo, Y., Choi, C. W., Overton, H., Kim, J. K., & Zhang, N. (2022). In-group vs.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Matthew Jackson",
+   "title": "Associate Professor ; Director of Faculty Affairs",
+   "rank": "Associate Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/matthew-jackson",
+   "personal_url": "http://www.personal.psu.edu/faculty/m/x/mxj20/",
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/temp_file_JacksonMatt2018WEB1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Advertising Law",
+    "Communications Law",
+    "Copyright Law",
+    "First Amendment",
+    "Free Speech",
+    "Intellectual Property",
+    "Internet Law",
+    "Radio Industry",
+    "Telecommunications Policy",
+    "Television Industry"
+   ],
+   "bio": "Biography: Matt Jackson teaches communications law, Internet law, advertising law, copyright, telecommunications policy, media programming strategies and survey of electronic media. His research focuses on how copyright impacts free speech and shapes the production and consumption of cultural texts. He also conducts research on the First Amendment and policy issues affecting the Internet and other telecommunications industries.\nProfessor Jackson has published articles in numerous outlets, including\nCardozo Arts & Entertainment Law Journal\n,\nHastings Communications and Entertainment Law Journal\n,\nJournal of Communication,\nFederal Communications Law Journal\n,\nCommunications Law and Policy\n, and\nJournal of Broadcasting and Electronic Media\n. He also wrote the chapter on cable regulation for the textbook \"Communication and the Law.\" He presents his research at numerous academic and professional conferences each year and was recently elected vice-chair of the Law and Policy Division of the International Communication Association.\nHis articles on Internet copyright issues have been included as recommended reading at Harvard Law School and Catholic University and by Web sites maintained by the European Commission, FindLaw and elsewhere. His professional experience includes work in both commercial and public radio, where he earned regional awards from the Associated Press for his radio features.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Krishna Jayakar",
+   "title": "Professor of Telecommunications and Public Policy; Head of the Department of Telecommunications",
+   "rank": "Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/krishna-jayakar",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/KrishnaJayakar2025.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Broadband Internet Access",
+    "Broadband and Disabilities",
+    "Intellectual Property Rights",
+    "Media Economics",
+    "Telecommunications Policy"
+   ],
+   "bio": "Biography: Krishna Jayakar is a professor in the Department of Telecommunications, teaching telecommunications management and media economics. He also serves as co-director of the Institute for Information Policy, housed in the Donald P. Bellisario College of Communications. His areas of research cover telecommunications policy and media economics, with a special interest in universal access to telecommunications.\nJayakar is a past head of the Media Management and Economics Division of the Association for Education in Journalism and Mass Communication, and currently serves as the Co-Editor of the Journal of Information Policy and on the board of editors of\nThe Information Society\njournal. In 2023, he published (with Chun Liu) a book titled\nMaking Policy for the New Information Economy: Comparing China and India.\nHis research has been supported by grants from the National Science Foundation, the Pacific Telecommunications Council, the Time Warner Cable Research Program on Digital Communications, the Media Democracy Fund, AT&T and others.\nHe's a three-time winner of the Deans' Excellence Award for Integrated Scholarship (2016, 2013, 2004) and earned the Deans’ Excellence Award for Teaching in 2002.\nBefore joining academics, Dr. Jayakar was a research officer in India's Ministry of Information and Broadcasting, drafting research reports and position papers on media policy.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Matthew Jordan",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/matthew-jordan",
+   "personal_url": "https://newsliteracy.psu.edu/podcasts",
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/JordanMatt2025.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Studies",
+    "Sound Studies",
+    "Film Studies",
+    "Cultural Studies",
+    "News Literacy"
+   ],
+   "bio": "Biography: Matt Jordan is a critical media scholar who works on the role of media in everyday culture. He was a double major in history and English at Allegheny College, and earned an MA from Drew University in modern European intellectual history. His doctorate, from Claremont Graduate University, is in European Studies.\nHe teaches undergraduate courses in Film Studies and a Media Studies course on Media and Democracy. His graduate teaching and research explores how different popular media forms and media technologies are used – and have been used - to constitute and reify aspects of personal identity and cultural ideology. He has written extensively on the ways in which cultural ideologies are constructed by way of ongoing conversations in communication culture in Europe, Britain and America. His latest book,\nDanger Sound Klaxon! The Horn That Changed History\n, examines the global rise and fall of the Klaxon automobile horn as a communication technology. Along with his various academic publications on sound, technology and media, his popular press essays on media culture, democracy and society have appeared in\nQuartz\n,\nThe Washington Post\n,\nFortune\n, The Huffington Post,\nScroll\n,\nThe New Republic\n,\nSmithsonian\nand have been translated for readers in Denmark, Brazil and Japan.\nHe is executive producer of the Penn State Humanities Institute’s Emmy-Nominated documentary series\nHumIn Focus\n, which is broadcast on WPSU and on the web.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Sara Liao",
+   "title": "Associate Professor ; Co-Director, Feminist Technocultures Lab",
+   "rank": "Associate Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/sara-liao",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/SaraLiao2026.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital Media",
+    "Critical Cultural Studies",
+    "East Asian Popular Culture",
+    "Feminist Media Studies",
+    "Gender and Labor Studies",
+    "Global Media"
+   ],
+   "bio": "Biography: Sara Liao is a media scholar and feminist, focusing on examining how media technologies, the state, commercialism and gender dynamics are imbricated in the production of culture and the various forms of identities in a transnational setting, with a particular focus on broader Chinese societies. This body of work is interdisciplinary and transnational, with not only the commitment to gender equality and social justice, but also her efforts to collaborate with academics, activists and students across disciplinary and geographical borders.\nHer upcoming book \"Viral Dissents: Being Feminist in Digital China\"\n(\nUniversity of Washington Press, 2026\n) theorizes what she calls unpopular feminism, a paradox in which feminisms become intensively visible while simultaneously policed, technologically amplified yet systematically stigmatized, transnationally mediated and racially coded — everywhere and yet unpopular all at once. She argues that feminism proliferates in China through commodified channels but remains structurally unpopular when it confronts entrenched power.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Simon Licen",
+   "title": "Associate Professor ; Associate Director, John Curley Center for Sports Journalism",
+   "rank": "Associate Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/simon-licen",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/LIcenSimon2025.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Sports Business",
+    "Sports Diplomacy",
+    "International Sports",
+    "Olympics",
+    "Media and Identity",
+    "Media and Society"
+   ],
+   "bio": "Biography: Simon Ličen is an associate professor in the Donald P. Bellisario College of Communications who primarily studies sports journalism and sports broadcasting in national and international contexts.\nLičen’s journal articles have been published in\nCommunication & Sport\n,\nEuropean Journal of Communication\n,\nMass Communication and Society\n,\nAfrican Journalism Studies\n, and\nInternational Review for the Sociology of Sport\n, among others. He has been interviewed by or quoted in media outlets in the United States, the United Kingdom, Slovenia, Italy, Serbia, Estonia and Ukraine.\nPrior to joining Penn State, Ličen worked in the sport management program at Washington State University, including directing the unit between 2018 and 2023, and at the University of Ljubljana (Slovenia). Between 2015 and 2019, he was a visiting lecturer at Beijing Sport University (China) where he taught a course in sports journalism. He was a member of the UNESCO Slovenian National Commission between 2010-2014, and in 2022, he was named senior research fellow of the Center for International Sport Communication and Diplomacy Studies at Beijing Foreign Studies University in China.\nLičen’s scholarly work is informed by his professional experiences in media and sport industries. He worked in Slovenian and Italian-language television, local radio and spent five years as a correspondent for the International Basketball Federation (FIBA).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Stephanie Madden",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/stephanie-madden",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/StephanieMadden2025.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Crisis Communication",
+    "Activism",
+    "Public Interest Communication",
+    "Public Relations",
+    "Qualitative Methods",
+    "Social Media"
+   ],
+   "bio": "Biography: Dr. Stephanie Madden is an associate professor of public relations and has a passion for advocacy and social justice issues. Her research focuses on amplifying marginalized voices and bringing stigmatized issues, such as gender-based violence, into a larger discussion within public relations. Her research, teaching and service focus on using public relations to drive positive social change and build community at both organizational and societal levels through trauma-informed approaches.\nPrior to pursuing her Ph.D., Madden was a full-time researcher at the National Consortium for the Study of Terrorism and Responses to Terrorism, a Department of Homeland Security Center of Excellence. During this time, she helped to develop a FEMA-accredited risk and crisis communication training and conducted research on FEMA's Wireless Emergency Alert system.\nPublications: Madden, S.,\nHarrison, V., & Vafeiadis, M. (2022). Relational care in communication as the basis of nonprofit fundraising: Theorizing professional ethics based in stewardship and ethics of care.\nJournal of Philanthropy and Marketing, 28\n(4). 1-11.\nhttps://doi.org/10.1002/nvsm.1...\nMadden, S., & Levenshus, A. (2021). Broadening the umbrella of women’s leadership and public relations: an ethnographic case study of a women’s political leadership development program.\nJournal of Public Relations Research, 33\n(3), 168-184.\nhttps://doi.org/10.1080/106272...\nMadden, S., Haught, M. J., & James, A. R. (2021).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Martin Marinos",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/martin-marinos",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/MartinMarinos2025.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Comparative Media Studies",
+    "Media History",
+    "Media and Populism",
+    "Media Theory",
+    "Political Economy of Media'",
+    "Race and Nationalism"
+   ],
+   "bio": "Biography: Martin Marinos’ research and teaching areas include global and comparative media studies, political economy of media, media theory, transnational television history, critical cultural studies, socialist and postsocialist mass communication, and race and nationalism. Drawing on a multi-method approach that engages with archival sources, ethnographic observation, and in-depth oral interviews with journalists, media managers, and politicians, his first book,\nFree to Hate: How Media Liberalization Enabled Right-Wing Populism in Postsocialist Bulgaria\n(University of Illinois Press 2023), traces how the commercialization of Central and East European media set the stage for the rise of the far-right in the region. His research has also appeared in journals, such as\nJournalism Studies\n;\nJournal of Communication Inquiry\n;\nC\nommunication, Capitalism and Critique;\nGlobal Media Journal;\nV\nIEW Journal of European Television, History, and Culture;\nDigital Icons: Studies in Russian Eurasian and Central European Media\n;\nSocial History;\nRadical Philosophy;\nand\nAdvances in the History of Rhetoric\n. At PSU, he teaches Global Media, Culture, and Society, Political Economy of Communication, and Comparative National Media in a Global Context.\nMarinos completed his Ph.D. in Communication and earned a Ph.D. Certificate in Cultural Studies at the University of Pittsburgh in 2016. His dissertation,",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Matthew McAllister",
+   "title": "Professor ; Interim Head, Department of Film Production and Media Studies",
+   "rank": "Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/matthew-mcallister",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/MattMcAllister2025.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Critical Advertising Studies",
+    "Popular Culture",
+    "Political Economy of the Mass Media",
+    "Superheroes on Film"
+   ],
+   "bio": "Biography: Matt McAllister's research interests include advertising criticism, popular culture and the political economy of the mass media. He is the author of \"The Commercialization of American Culture: New Advertising, Control and Democracy\" (1996, Sage), and the co-editor of \"Comics and Ideology\" (2001, Peter Lang), \"The Advertising and Consumer Culture Reader\" (2009, Routledge), and \"The Routledge Companion to Advertising and Promotional Culture\" (2013, Routledge).\nHe has also published in such journals as\nAdvertising & Society Quarterly, Critical Studies in Media Communication\n,\nJournal of Broadcasting & Electronic Media\nand\nJournal of Communication\n. He teaches mass media and society, cultural aspects of the mass media, social and cultural aspects of advertising, and the spring semester of the Ph.D. proseminar.\nHe has an affiliate appointment in the Department of Women’s, Gender, & Sexuality Studies. In 2010 he was selected as a Penn State Alumni Teaching Fellow, in 2011 he received the Mass Communication Division Teaching Award from the National Communication Association, in 2014 the Penn State Graduate Faculty Teaching Award, and in 2025 was elected as a Fellow in the International Communication Association.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Sascha Meinrath",
+   "title": "Palmer Chair in Telecommunications",
+   "rank": "Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/sascha-meinrath",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/temp_file_MeinrathSaschaWEB1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Broadband",
+    "Cybersecurity",
+    "Encryption",
+    "Government Policy",
+    "Political Economy",
+    "ICT4D",
+    "Internet",
+    "Participatory Media",
+    "National Policymaking",
+    "Net Neutrality",
+    "Open Source",
+    "Privacy",
+    "Social Entrepreneurship",
+    "Spectrum Policy",
+    "Surveillance",
+    "Technology",
+    "Telecommunications"
+   ],
+   "bio": "Biography: Sascha Meinrath is the Palmer Chair in Telecommunications at Penn State and director of X-Lab, an innovative think tank focusing on the intersection of vanguard technologies and public policy. Professor Meinrath is a renowned technology policy expert and is internationally recognized for his work over the past two decades as a community internet pioneer, social entrepreneur, and angel investor.\nPrior to founding X-Lab, Meinrath was vice president of the New America Foundation, where he founded the Open Technology Institute in 2008 and built it into one of the largest public interest tech policy organizations in Washington, D.C. He also founded the Commotion Wireless Project, which works around the globe to strengthen communities by providing tools to build their own local communications infrastructures, and co-founded Measurement Lab, a global online platform for researchers to deploy Internet measurement tools that empower the public and key decision-makers with useful information about broadband connectivity.\nProfessor Meinrath was elected as an Ashoka Fellow for Social Entrepreneurship in 2012, and has been named to the\nTime Magazine\n“Tech 40” as one of the most influential figures in technology, to the “Top 100” in Newsweek's Digital Power Index, and is a recipient of the Public Knowledge IP3 Award for excellence in public interest advocacy. He is widely published in both academic and media outlets, including\nCritical Studies in Media Communications\n,",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Title on site is the endowed \"Palmer Chair in Telecommunications\" (no rank word); profile bio refers to him as Professor Meinrath; mapped to Professor."
+  },
+  {
+   "name": "Emily Metzgar",
+   "title": "Dean ; Professor",
+   "rank": "Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/emily-metzgar",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/EmilyMetzgar2026-blue.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Biography: Emily T. Metzgar was named dean of the Donald P. Bellisario College of Communications, following a national search, on July 1, 2026.\nMetzgar previously served as professor and director of the School of Journalism and Media at Kent State University. Metzgar was named director of the School of Media and Journalism at Kent State University in 2020, providing leadership and oversight for more than 600 undergraduates, 30 specialized graduate students and nearly two dozen full-time faculty members. In that role, she guided a range of initiatives aimed at strengthening the school’s academic environment and student success.\nHer leadership has included efforts to increase student retention, review course offerings and prerequisites, develop new minors and certificates, modernize facilities and create new channels for stakeholder communication. She also has directed accreditation and assessment efforts; supervised the development of new courses and programs at the graduate and undergraduate level with an emphasis on AI-forward, student-first outcomes; and oversaw fundraising for the school.\nMetzgar brings a broad professional perspective to her work in media education, with a career that has spanned diplomacy, policy analysis, journalism and academia.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Dean of the college; listed as \"Dean ; Professor\"."
+  },
+  {
+   "name": "Andrea Miller",
+   "title": "Assistant Professor ; Director, Feminist Technocultures Lab",
+   "rank": "Assistant Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/andrea-miller",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/AndreaMiller-headshot2026.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Cultural Studies and Digital Culture",
+    "Feminist Theory",
+    "Science and Technology Studies (STS)",
+    "Postcolonial and Colonial Studies",
+    "Surveillance and Counterterrorism",
+    "Remote Sensing",
+    "Military and Police Uses of Technology"
+   ],
+   "bio": "Biography: Andrea Miller is an assistant professor in Women’s, Gender and Sexuality Studies and Telecommunications at Penn State, where they also direct the\nFeminist Technocultures Lab\n. Drawing from transnational, postcolonial, and psychoanalytic feminist theory, the history and philosophy of science and technology, and cultural studies, Miller examines the emergence of technoscientific practices and infrastructures through histories of militarism, policing, and empire. In particular, they are interested in how technology and security shape affective sensibilities of race, gender, disability and class.\nMiller’s publications and research have examined the roles of disability and racialization in science and technology studies (STS) methodologies; racialized and gendered logics of drone warfare, cybersecurity, and preemption; the criminalization of online speech acts and material support for terrorism prosecutions in the US war on terror; predictive policing and biometric surveillance technologies; and the politics of algorithms, databases, and remote sensing.\nTheir current book, \"Sensing the Cyber Ecosystem: Politics of Remediation in the Liberal Security State\" (forthcoming Duke UP) offers an emplaced and alternative history of cybernetics through the racialized genesis and entanglements of ecosystem ecology and nuclear science in the U.S. South.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Mary Beth Oliver",
+   "title": "Donald P. Bellisario Professor of Media Studies / Co-Director of Media Effects Research Laboratory",
+   "rank": "Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/mary-beth-oliver",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/temp_file_OliverMaryBeth_WEB1.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Emotional and Cognitive Effects of Media",
+    "Positive Media Psychology",
+    "Media Portrayals",
+    "Stereotyping"
+   ],
+   "bio": "Biography: Mary Beth Oliver is the Donald P. Bellisario Professor of Media Sudies at Penn State in the Department of Film Production and Media Studies and Fellow and Immediate Past President of the International Communication Association.\nHer recent publications on have appeared such journals as the Journal of Communication, Human Communication Research, and Communication Research, among others. She is former co-editor of Media Psychology and associate editor of the Journal of Communication, Communication Theory, and Journal of Media Psychology. She is a co-editor of several books, including Media Effects: Advances in Theory and Research and co-author of the recently published Introduction to Positive Media Psychology.\nOliver is the co-director of the Media Effects Research Lab and teaches courses on media effects, communication research, quantitative research methods and interpersonal communication. She specializes in media and psychology, focusing on both the psychological effects of media, and on viewers' attraction to or enjoyment of media content.\nHer research includes studies pertaining to media violence, reality-based television programs, gender differences in enjoyment of media entertainment, viewers' responses to melodramas and sad films and media portrayals of racial groups and the effect of such portrayals on viewers' racial attitudes.\nPublications: Edited Books\nOliver, M. B., Raney, A. A., & Bryant, J. (Eds.) (2020).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Anthony Olorunnisola",
+   "title": "Professor ; Associate Dean for Graduate Programs, Research and Faculty Affairs",
+   "rank": "Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/anthony-olorunnisola",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/temp_file_Olorunnisola2013WEB1.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "International Communications",
+    "Political and Cross-Cultural Communications",
+    "Media Transformations"
+   ],
+   "bio": "Biography: Anthony Olorunnisola is a tenured professor and associate dean of graduate programs and research. He routinely teaches undergraduate and graduate courses that include COMM 100 Media & Society; COMM 419(+H) World Media Systems; COMM 502 Pedagogy in Communications; COMM 505 International Communication Problems; and COMM 510 Comparative Theories of Press Systems.\nA William J. Fulbright alumnus, Dr. Olorunnisola is keenly interested in the nature, development [functional and/or dysfunctional], and transformation of social systems. He studies influences of nations’ politics, economics, and cultures on media systems. This dimension of his work has produced several journal articles and four [4] book volumes about the co-transformation of political, economic and media systems - with focus on media in African transitional societies [e.g., post-apartheid, post-military, and post-democratic governance].\nHe has in progress solo and collaborative projects that are tracking African media contributions to ‘turns in decolonization’. His aspiration in the latter instance is to showcase media practitioners’ efforts to decolonize and/or demarginalize print and electronic media from global- and national margins.\nLately, Dr. Olorunnisola's focus has embraced studies of segments of societies' systems that lead democratized systems toward dysfunctionality.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Holly Overton",
+   "title": "Professor ; Director of Graduate Programs",
+   "rank": "Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/holly-overton",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/OvertonHolly2021.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Corporate Social Advocacy",
+    "Corporate Social Responsibility Communication",
+    "Public Relations Ethics"
+   ],
+   "bio": "Biography: Holly Overton, Ph.D., APR, is a professor in the department of advertising/public relations, director of graduate programs, and the director of research for the Arthur W. Page Center for Integrity in Public Communication. She is also an affiliate with the Center for Socially Responsible Artificial Intelligence. Before joining the faculty in the Bellisario College, Dr. Overton held a tenured position as an associate professor in the School of Journalism and Mass Communications at the University of South Carolina and a tenure-track position in the department of communication/journalism at Shippensburg University. She brings more than five years of practical experience to her teaching, including positions in corporate marketing, higher education, and the nonprofit sector. She earned the professional distinction of Accreditation in Public Relations (APR) from the Public Relations Society of America in 2024.\nDr. Overton conducts public relations research in the areas of public relations ethics, corporate social responsibility communication, and corporate social advocacy. Her research also focuses on examining psychological factors that impact information processing and engagement among publics, nonprofit public relations, and the persuasive impact of messages and technological factors in public relations contexts. She has published 45+ peer-reviewed journal articles. Her work has appeared in over a dozen journals, including\nMass Communication and Society\n,",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Juliet Pinto",
+   "title": "Associate Professor ; Interim Associate Dean",
+   "rank": "Associate Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/juliet-pinto",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/JulietPintoWEB-2025headshot.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Environmental Communication",
+    "Environmental Journalism",
+    "International News Production",
+    "Journalism",
+    "Science Communication"
+   ],
+   "bio": "Biography: Juliet Pinto, Ph.D., is an associate professor in the Department of Journalism. She earned her doctorate in communication from the University of Miami, master’s degree in marine affairs and policy from the University of Miami’s Rosenstiel School of Marine and Atmospheric Science and bachelor’s degree in environmental science from Boston University.\nHer co-edited volume,\nNews Media Coverage of Environmental Challenges in Latin America and the Caribbean: Mediating Demand, Degradation and Development\n, was awarded the 2019 Knudson Latin America Prize by the Association for Education in Journalism and Mass Communication.\nDr. Pinto co-produced the award-winning documentary “South Florida’s Rising Seas,” the most watched online program for South Florida’s PBS affiliate in 2014, and she currently serves as an associate editor for\nJournalism Practice\n.\nPublications: Troy, C. L., Pinto, J., & Cui, Z. (2022). Managing complexity during dual crises: social media messaging of hurricane preparedness during COVID-19.\nJournal of Risk Research\n, 1-18.\nZheng C., Dillard, J., Pinto, J., High, A., De la Cruz, J.J., Mainzer, S., & Cole, C.A. (2022). Media contributions to a Chesapeake Bay Watershed collective Identity: A tale of three cities.\nEnvironmental Management.\nXie, L., Pinto, J., Zhong, B. (2022). Building community resilience on social media to help recover from the COVID-19 pandemic.\nComputers in Human Behavior\n.\nPinto, J., & Gutsche, R. (Eds). (2022).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Patrick Lee Plaisance",
+   "title": "Don W. Davis Professor in Ethics",
+   "rank": "Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/patrick-lee-plaisance",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/PPlaisanceheadshot2023-web.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Ethics",
+    "Technology Ethics",
+    "Moral Psychology",
+    "Virtue Epistemology",
+    "Newsroom Socialization"
+   ],
+   "bio": "Biography: Patrick Lee Plaisance is the Don W. Davis Professor in Ethics in the Donald P. Bellisario College of Communications. He also is an Affiliate Faculty member with the Rock Ethics Institute. His research focuses on media ethics theory, moral psychology theory and methods, and technology ethics -- particularly moral questions posed by AI design and use.\nHe is author of a textbook, \"Media Ethics: Key Principles for Responsible Practice\" (Cognella, 4th Ed., 2025), which is used nationwide, and a book featuring original research, \"Virtue in Media: The Moral Psychology of Excellence in News and Public Relations\" (Routledge, 2015). He is editor of the \"Handbook of Communication & Media Ethics\" (DeGruyter Mouton, 2018). His fourth book, \"Moral Judgment, Virtue, and Digital Flourishing: Directions for Media Ethics,\" will be published by Palgrave Macmillan in 2027.\nFrom 2014 to 2024, he served as editor of the\nJournal of Media Ethics\n, which is the flagship journal for peer-reviewed research in the field from around the world. He also writes a regular blog on media ethics issues for\nPsychology Today\n.\nHe has published more than two dozen journal articles and book chapters, and his work has appeared in research journals, including\nCommunication Research\n,\nCommunication Theory\n, the\nJournal of Communication\n, and\nJournalism & Mass Communication Quarterly\n.\nBefore coming to Penn State, he taught at Colorado State University for 15 years.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Michelle Rodino-Colocino",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/michelle-rodino-colocino",
+   "personal_url": "https://www.democraticcomm.org/",
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/HeadshotSB6.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Critical and Cultural Studies of Media",
+    "Feminist Media Studies",
+    "Media and Activism",
+    "Work and New Media"
+   ],
+   "bio": "Biography: An award-winning scholar, Dr. Michelle Rodino-Colocino (she/they) works as an associate professor of media studies in the Donald P. Bellisario College of Communications where they taught for the past 15 years and have worked with many wonderful colleagues and friends. I am also affiliate faculty in Women’s, Gender, and Sexuality Studies and the Rock Ethics Institute in the College of Liberal Arts. I study relationships between media, labor, and social justice, and draw on over 30 years experience of organizing for a more just world.\nInspired at a young age to understand systems of exploitation where very few people with a lot of wealth and political power take advantage of other people, nations, and regions, I seek truth and justice in my creative work, activism, and organizing. Therefore, my research, teaching, service, activism, and creative endeavors span feminist media and critical cultural studies, with special interest in labor, new media, and social movements. Since earning tenure I have been learning critical race and ethnic studies, labor history, and trans and queer studies and am integrating this into my research, teaching, service, activism, and creative works. My intention is to contribute to social justice and work with mindfulness and empathy. I support an engaged scholarly community.\nMy co-edited book,\nThe Gig Economy: Workers and Media in the Age of Convergence",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Gustavo Rosa",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/gustavo-rosa",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/RosaGustavo2025.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Biography: Gustavo Rosa was born in Tubarão, Brazil, and raised in Boston. He is a writer, director and producer. His family immigrated to the United States when he was 12 years old. He earned an MFA in filmmaking from Columbia University in 2016.\nHis films and collaborations have played major festivals, including Berlin, Sundance, SXSW, Karlovy Vary, Santa Barbara and Shanghai. In 2014, he was the associate producer of “That Film About Money” Parts 1 and 2, segments in the Webby-Award winning \"We the Economy\" omnibus film.\nIn 2016, he was the associate producer of \"Indignation,\" based on the novel by Philip Roth and adapted and directed by James Schamus. Between 2016 and 2018, he was a production coordinator at Symbolic Exchange, James Schamus’ production company. While there, he worked on a number of feature films, including Kitty Green's \"Casting JonBenet\" (Netflix Original) and \"A Prayer Before Dawn\" (A24, Cannes World Premiere).\nIn 2018, his short film \"Carro\" premiered at the SXSW Film Festival and was licensed to HBO for distribution after playing more than 80 festivals around the world, winning a number of awards. In 2020, he produced a feature-length dark-comedy set in Lima, Peru titled \"The Restoration,\" which deals with issues of rapid urbanization. The film was the winner of a DAFO award, Peru’s most prestigious film grant.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Amy Kristin Sanders",
+   "title": "John and Ann Curley Professor of First Amendment Studies",
+   "rank": "Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/amy-kristin-sanders",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/SandersAmy2025WEB.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Law",
+    "Media Ethics",
+    "Regulation of Emerging Technologies",
+    "Government Transparency",
+    "Freedom of Information"
+   ],
+   "bio": "Biography: Amy Kristin Sanders is the John and Ann Curley Chair in First Amendment Studies at Penn State. A licensed attorney and award-winning former journalist, Sanders is an internationally recognized expert on the legal regulation and ethical use of emerging technologies, with an emphasis on freedom of expression and democratic values. Specifically, her work focuses media freedom, access to information and government transparency, freedom of speech and the regulation of social media and emerging technologies.\nSanders has published more than 30 scholarly articles in law reviews and mass communication journals, including the Georgia Law Review, Tulane Law Review, the Journal of International Media & Entertainment Law, Federal Communication Law Journal, Journalism & Mass Communication Quarterly and the Journal of Civic Information. Her research has been funded by multiple grants, including from the National Science Foundation. Sanders co-authors the widely recognized law school casebook \"First Amendment and the Fourth Estate: The Law of Mass Media,\" published by Foundation Press (Thomson Reuters). In 2020, she was selected to serve as the first female editor of Communication Law and Policy\n,\na highly respected, peer-reviewed journal in her field.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Michael Schmierbach",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/michael-schmierbach",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/MichaelSchmierbach.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Advertising and Video Games",
+    "News Credibility",
+    "Perceived Media Influence",
+    "Video Games",
+    "Video Game Difficulty",
+    "Social Media and News"
+   ],
+   "bio": "Biography: Mike Schmierbach brings a strong combination of teaching and research to his role as an associate professor in the Department of Film-Video and Media Studies.\nDr. Schmierbach teaches undergraduate and graduate courses on media effects, political communication, and research methods. He is co-author of a textbook on research methods, as well as the author or co-author of more than 30 journal articles and book chapters in such outlets as\nJournal of Communication,\nMass Communication & Society, Journal of Broadcasting & Electronic Media,\nand\nCommunication Research.\nHe currently serves as editor of\nMass Communication and Society.\nHis research focuses on several aspects of media effects, particularly the factors that contribute to individual perceptions of media. This work includes research on the third-person perception, media credibility, and video game enjoyment. He supervises a research group that explores many aspects of video games, including a series of studies considering the role of difficulty in explaining psychological responses to games.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Fuyuan Shen",
+   "title": "Donald P. Bellisario Professor of Advertising",
+   "rank": "Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/fuyuan-shen",
+   "personal_url": "https://sway.office.com/cWu9lA7YiM1db3EH?ref=Link",
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/ShenPicWeb2023a.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Advertising",
+    "Health Communication",
+    "Political Communication"
+   ],
+   "bio": "Biography: Fuyuan Shen is the Donald P. Bellisario Professor of Advertising in the Department of Advertising and Public Relations, and affiliate faculty of the Bellisario College’s Media Effects Research Lab. His research and teaching areas are advertising, media effects, persuasion, and strategic communications. He is interested in studying the effects of ads and other messages, in both traditional and new media, on individuals’ information processing and attitudes. His previous research has examined the impact of message frames and emotions on individuals’ attitudes, risk perceptions, and other cognitive or affective responses.\nHe has also conducted studies to understand the psychological effects of narratives and news frames in communicating information on social and health issues. He has used experiments, surveys and other quantitative methods to explore both conceptual and methodological issues in media effects research. His research has appeared in such journals as\nInternational Journal of Advertising\n,\nJournal of Advertising\n,\nJournal of Communication\n,\nJournalism & Mass Communication Quarterly\n, and\nMass Communication and Society\n.\nHis research and teaching contributions have been recognized with the Deans’ Excellence Awards for Research and the Deans’ Excellence Award for Integrated Scholarship in the Bellisario College. He teaches undergraduate classes in advertising as well as a graduate research seminar in strategic communications.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Heather Shoenberger",
+   "title": "Associate Professor ; Donald P. Bellisario Career Advancement Professor",
+   "rank": "Associate Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/heather-shoenberger",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/HeatherShoenberger.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Advertising",
+    "Authenticity and Persuasive Communication",
+    "Emerging Technology",
+    "Consumer Behavior in Reaction to Media",
+    "Health Communication"
+   ],
+   "bio": "Biography: As the advertising and media landscape adapt to evolving innovation, Shoenberger seeks to understand the impact on consumers but also, potential avenues to make media content better, more relevant, and where possible, healthier for consumer consumption.\nOne theme she is currently focused on is the role of perceived authenticity as it offers context to explain digital advertising efficacy, consumer attitudes, health outcomes and behaviors as a result of an escalation of exposure to digital media and the digital manipulation of media content. Understanding the consumer’s perception of authenticity and its persuasive impact may be paramount to the beginning of creating defenses against misinformation, digital enhancements, and other types of misleading information in the media realm.\nShe has published work in journals including the Journal of Advertising Research, The International Journal of Advertising, Communication Research, and the Journal of Health Communication, among others.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Chris Skurka",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/chris-skurka",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/SkurkaChris2025.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=65Cg6DMAAAAJ&hl=en",
+   "research_areas": [
+    "Environmental Communication",
+    "Health Communication",
+    "Emotion",
+    "Persuasion",
+    "Media Effects",
+    "Media Psychology"
+   ],
+   "bio": "Biography: Chris Skurka is an associate professor in the Department of Media Studies. He is a member of the Penn State Cancer Institute and an affiliate researcher with the Institute of Energy and the Environment. His research centers on the effectiveness of mass-mediated efforts to promote engagement with environmental, health, and science issues. He is particularly interested in the role of emotion and efficacy in how audiences respond to such media messages. Often, he studies how media messages can promote civic engagement, such as support for social policies and willingness to engage in political activism. He has studied matters related to climate change communication, anti-tobacco messaging, and communication about the social determinants of health.\nDr. Skurka has received top paper awards from conferences hosted by the National Communication Association, the International Communication Association, and the Association for Education in Journalism and Mass Communication (AEJMC). He is a two-time recipient of the AEJMC Science, Health, Environment, and Risk Communication Article of the Year Award. His research can be found in journals such as the\nJournal of Communication\n,\nHuman Communication Research\n,\nCommunication Research\n,\nJournal of Environmental Psychology\n,\nPolitical Behavior\n, and\nSocial Science & Medicine\n. His work has been supported by the National Institute of Mental Health, the National Science Foundation, and the Arthur W.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "S. Shyam Sundar",
+   "title": "Evan Pugh University Professor ; James P. Jimirro Professor of Media Effects ; Co-Director, Media Effects Research Laboratory ; Director, Penn State Center for Socially Responsible Artificial Intelligence",
+   "rank": "Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/s-shyam-sundar",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/ShyamSundar2025.jpg",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Chatbots and Social Robots",
+    "ChatGPT and Generative AI tools",
+    "Fake News and Misinformation",
+    "Interactive Media Effects",
+    "Online News Sources",
+    "Social Media Effects",
+    "Psychology of Human-Computer Interaction (HCI)",
+    "Social and Psychological Aspects of Artificial Intelligence",
+    "Uses and Effects of Digital Media"
+   ],
+   "bio": "Biography: S. Shyam Sundar is James P. Jimirro Professor of Media Effects and the Founder and Co-Director of the\nMedia Effects Research Laboratory\nat the Donald P. Bellisario College of Communications at Penn State. He is also Evan Pugh University Professor and Director of the university-wide\nCenter for Socially Responsible Artificial Intelligence\n, an interdisciplinary consortium that is devoted to the development and application of AI with an emphasis on its social and ethical implications, enhancing social good and mitigating threats from its misuse.\nHe earned his doctoral and master’s degrees in communication and psychology. He also holds bachelor's degrees in communication and engineering. His industry experience includes more than eight years as a journalist.\nJust as his background is eclectic, his current work is quite interdisciplinary—he holds joint faculty appointments in the departments of film-video and media studies, advertising, architecture, and communication arts and sciences at Penn State. He teaches courses in the psychology of communication technology, media theory, and research methodology.\nProf. Sundar is a theorist as well as an experimentalist who uses a variety of quantitative and qualitative approaches in his research, including computationally intensive methods.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Dongqing Xu",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Donald P. Bellisario College of Communications",
+   "profile_url": "https://bellisario.psu.edu/people/dongqing-xu",
+   "personal_url": null,
+   "photo_url": "https://bellisario.psu.edu/assets/uploads/directoryImages/_480x480_crop_center-center_80_none/DongqingXu-2026headshot.png",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Biography: Dongqing Xu is an assistant professor in the Department of Advertising/Public Relations in the Donald P. Bellisario College of Communications. She earned her Ph.D. from the University of Miami and joined Penn State in 2026.\nHer research focuses on ethical approaches to strategic communication, public relations, and crisis and risk communication. She examines how organizations navigate complex and challenging conversations, including crisis management, sociopolitical advocacy and pro-social initiatives. Her work also explores how stakeholder groups influence one another and how organizations can incorporate these dynamics into ethical communication practices.\nHer research has been published in journals such as the\nJournal of Public Relations Research\n,\nPublic Relations Review\n,\nInternational Journal of Business Communication\n, and\nInternational Journal of Strategic Communication\n. Her scholarship has received recognition through top paper awards from multiple academic associations, including the Association for Education in Journalism and Mass Communication.\nBesides her research, she teaches courses in related areas of strategic communication and is committed to preparing the next generation of communication professionals and scholars. She is also active in serving the academic community through editorial and peer-review service for academic journals, as well as committee service with the Association for Education in Journalism and Mass Communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Joshua Trey Barnett",
+   "title": "Harry and Elissa Sichi Early Career Professor ; Associate Professor of Communication Arts and Sciences",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/joshua-barnett/",
+   "personal_url": null,
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/joshua-barnett.jpg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=9Da_uOkAAAAJ&hl=en",
+   "research_areas": [],
+   "bio": "Professional Bio: Joshua Trey Barnett is the Harry and Elissa Sichi Early Career Professor and Associate Professor of Communication Arts and Sciences. He is the author of\nMourning in the Anthropocene: Ecological Grief and Earthly Coexistence\n(2022), which won the 2022 Tarla Rai Peterson Book Award in Environmental Communication; editor of\nEcological Feelings: A Rhetorical Compendium\n(2025), which won the NCA Philosophy of Communication Division's Distinguished Edited Book Award; and co-editor of\nA Rhetorical Arboretum\n(2027). An interdisciplinary scholar of rhetoric and the environmental humanities, Professor Barnett's essays have appeared in many journals, including\nThe Quarterly Journal of Speech\n,\nRhetoric & Public Affairs\n,\nCommunication and Critical/Cultural Studies\n,\nEnvironmental Communication\n,\nEthics & the Environment\n, and\nISLE: Interdisciplinary Studies in Literature and Environment\n. For his scholarship, he has received Penn State's Outstanding Associate Professor Award, NCA's Karl Wallace Memorial Award, the NCA Rhetorical and Communication Theory Division's Early Career Award, among other honors and distinctions. He is currently working on two book projects: an introduction to Hannah Arendt's environmental thought and an account of caring rhetorics. At the graduate level, Professor Barnett has recently led seminars on Hannah Arendt, environmental rhetoric, and more-than-human rhetorics.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Shannon Cruz",
+   "title": "Associate Professor of Communication Arts and Sciences",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/shannon-cruz/",
+   "personal_url": null,
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/image_normal-24.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Shannon Cruz studies the determinants, processes, and outcomes of social influence, particularly in environmental contexts. More specifically, she is interested in how environmental attitudes are shaped by ideological factors, change dynamically as the result of social interaction in groups and networks, and can be altered by persuasive messages. Her current line of research focuses on climate change attitudes, examining how messages can help bridge the ideological divide on this issue. Her research has appeared in outlets such as the Journal of Environmental Psychology, Climatic Change, and Social Influence. Professor Cruz teaches classes in quantitative methods (CAS 304) and group communication (CAS 450W).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "James Dillard",
+   "title": "Distinguished Professor of Communication Arts and Sciences",
+   "rank": "Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/james-dillard/",
+   "personal_url": null,
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/image_normal-29.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: James Dillard conducts research on the production and effects of persuasive messages. His Goals-Plans-Action model of interpersonal communication has contributed to understaning how individuals create messages designed to change relationships, acquire goods, and shape political opinion. Professor Dillard’s research on the role of emotion in persuasion is often applied to the questions of public health. He is a former Editor of Human Communication Research and co-editor of The Persuasion Handbook (with M. Pfau and L. Shen), a Fellow of the International Communication Association, the recipient of the John E. Hunter Award for Meta-Analysis (twice), and a recipient of the NCA Golden Anniversary Award for article of the year. Dillard serves as a member of the Risk Communication Advisory Committee to the Food and Drug Administration. He teaches graduate and undergraduate on persuasion/social influence (CAS550 and CAS302), on measurement in communication science (CAS597) and interpersonal influence (CAS497).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Rosa Eberly",
+   "title": "Associate Professor of Rhetoric",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/rosa-eberly/",
+   "personal_url": null,
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/Eberlyphoto1518.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Rosa A. Eberly is a free-range rhetorician who studies histories and theories of rhetoric, publics theory, public memory, sound, character, and deliberation. Most recently, Eberly curated the archive of Harry Shearer’s Le Show, now in its thirty-ninth year, for the\nLibrary of Congress American Archive of Public Broadcasting\n. Eberly's curated exhibit was the focus of the\nCAS 2023 Select Summer Symposium\nSince 1996 Eberly has studied and taught courses on relationships among rhetoric, violence, and public memory with emphasis on violence in and against public education. Additional interests include Isocrates and Theophrastus, free speech and democracy, rhetoric and poetics, sound and aural rhetorics, and theories of identity. Eberly is author of Towers of Rhetoric: Memory and Reinvention and Citizen Critics: Literary Public Spheres; co-editor of A Laboratory for Public Scholarship and Democracy and The Sage Handbook of Rhetoric; co-author of The Elements of Reasoning, 2d ed.; and articles on publics theory, proto-public deliberation in rhetoric classrooms, public memory, sound studies, and rhetoric and identity.\nEberly is Associate Professor of Rhetoric in the Department of Communication Arts & Sciences and the Department of English, and she directs the Intercollege Minor in Civic and Community Engagement.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jeremy David Engels",
+   "title": "Liberal Arts Professor of Communication Arts and Sciences",
+   "rank": "Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/jeremy-engels/",
+   "personal_url": "https://jeremydavidengels.com",
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/copy-Jeremy-Engels_desksuitA-copy-scaled.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Jeremy David Engels is the author of six books, including the forthcoming\nOn Mindful Democracy: A Declaration of Interdependence to Mend a Fractured World\n(Parallax, 2026).\nOn Mindful Democracy\npresents a bold reimagining of civic life. Rewriting the Declaration of Independence as a Declaration of Interdependence, the book offers an antidote to political burnout and civic despair. It issues a call for a new politics grounded in everyday acts of mindfulness, compassion, and connection, reminding readers that true democracy is not a destination but a lived practice.\nEngels is Liberal Arts Endowed Professor of Communication Arts & Sciences at Penn State University, co-founder of Yoga Lab, and a mindfulness and yoga teacher. You can find him in the classroom, lecture hall, on a meditation cushion, or a yoga mat, sharing his insights on how to become capable, compassionate, and engaged democratic citizens.\nEngels’ research radically reimagines democracy. Long misunderstood as a contest between political parties, with citizens enlisted as soldiers in the battle, he argues that democracy is best understood as a communal practice rooted in care, deliberation, and shared responsibility. For Engels, democracy begins with common ground, embraces disagreement, and is embodied in everyday practices of mindfulness, compassion, and community-building. In his own words, “There is no way to democracy; democracy is the way.”",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lisa A. Flores",
+   "title": "Weiss Chair of the Humanities; Professor of Communication Arts and Sciences, and Women's, Gender, and Sexuality Studies",
+   "rank": "Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/lisa-a-flores/",
+   "personal_url": null,
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2023/08/flores-2018-headshot-scaled.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Lisa Flores is the Josephine Berry Weiss Chair of the Humanities and professor of Communication Arts and Sciences and Women’s, Gender, and Sexuality Studies. A critical race/gender/queer scholar of rhetoric, Professor Flores examines intersectional rhetorical racialization. Her work has explored Chicana feminism, masculinity, whiteness, and border rhetorics. Her recent book, Deportable and Disposable: Public Rhetoric and the Making of the “Illegal” Immigrant (Penn State University Press, 2020) was recognized with the Rhetoric Society of America Book Award and, from the National Communication Association, both the Diamond Anniversary Book Award and the James A. Winans-Herbert A. Wichelns Memorial Award for Distinguished Scholarship in Rhetoric and Public Address. Her current projects examine mobility and containment as modes of rhetorical racialization particularly as relevant to historic and contemporary border politics.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "John Gastil",
+   "title": "Distinguished Professor of Communication Arts and Sciences, Public Policy, and Political Science",
+   "rank": "Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/john-gastil/",
+   "personal_url": "http://www.johngastil.com/",
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/image_normal-42.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: John Gastil\nstudies political deliberation and group decision making across a range of contexts. His newest books are\nHope for democracy: How citizens can bring reason back into politics\n(Oxford, 2020) with Katie Knobloch and\nLegislature by lot: Transformative designs for deliberative governance\n(Verso, 2019) with Erik Olin Wright. Gastil also has written several other scholarly books and\ntwo novels\n. Dr. Gastil's current project is leading the\nDemocracy Machine\ncollaborative, a team of researchers and civic reformers aiming to improve platforms for deliberation online.\nHis work on the\nCitizens’ Initiative Review\nhas found that an electoral reform can improve the deliberative quality of elections on referenda and ballot initiatives. His\nJury and Democracy Project\ninvestigated, and helped vindicate, the jury system as a valuable civic educational institution. His work with the\nCultural Cognition Project\ndemonstrates how our deeper values steer our information processing and opinion formation. He teaches a range of courses, most recently including Democratic Deliberation (CAS/PLSC 409 and CAS 509) and Quantitative Methods (CAS 304).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ekaterina Haskins",
+   "title": "Professor, Communication Arts and Sciences",
+   "rank": "Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/ekaterina-haskins/",
+   "personal_url": null,
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/image_normal-48.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Ekaterina V. Haskins is a Professor of Communication Arts and Sciences and Visual Studies. She investigates official and grassroots memory practices as important sites of civic engagement and political rhetoric. She is the author of three monographs, including\nPopular Memories: Commemoration, Participatory Culture, and Democratic Citizenship\n(The University of South Carolina Press, 2015) and\nRemembering the War, Forgetting the Terror: Appeals to Family Memory in Putin’s Russia\n(Pennsylvania State University Press, 2024) as well as numerous articles on rhetoric, memory, and visual culture. Her current project explores how Soviet political terror is being remembered (and forgotten) in Russia and the former republics of the USSR.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Andrew High",
+   "title": "Professor of Communication Arts and Sciences, Associate Head",
+   "rank": "Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/andrew-high/",
+   "personal_url": null,
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/image_normal-53.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Andy High maintains two complementary and intersecting lines of research on interpersonal communication focused specifically on supportive communication and computer-mediated communication. Within the context of supportive communication, Professor High examines the personal, relational, contextual, and message-based factors that shape the outcomes people experience when coping with personal stressors. He studies various phases of the process of supportive communication, including how people seek, provide, and process supportive messages. In so doing, his research covers several topics, including support gaps, verbal person-centeredness, and supportive message processing. In his research on computer-mediated communication, Professor High studies the features of channels and corresponding perceived affordances that shape the outcomes people experience when interacting across channels. He utilizes theory from the domains of both interpersonal communication and computer-mediated communication to understand how and why conversing in various channels shapes the outcomes people experience. Professor High’s two lines of research often overlap as he seeks to gain a better understanding of how supportive interactions unfold in different channels. Professor High teaches both undergraduate and graduate-level courses on computer-mediated communication (CAS 283) and supportive communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Michele Kennerly",
+   "title": "Associate Professor Communication Arts and Sciences, and Classics and Ancient Mediterranean Studies",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/michele-kennerly/",
+   "personal_url": "https://medium.com/@mkennerly",
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/Kennerly-headshot-2022.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Dr. Kennerly is a theorist and historian of rhetoric specializing in the texts, terms, and figures of the ancient Mediterranean world and their reception, including their resistive reception. She is the author of two books (\nAutomatic Athens: Ancient Greek Ideals in the Early Age of Automation\n(Chicago 2026);\nEditorial Bodies: Perfection and Rejection in Ancient Rhetoric and Poetics\n(South Carolina 2018)) and editor or co-editor of three (\nAncient Rhetoric + Digital Networks\n(Alabama 2018);\nInformation: Keywords\n(Columbia 2021);\nA New Handbook of Rhetoric: Inverting the Classical Vocabulary\n(Penn State 2021)). Her recent essays explore such matters as how Norbert Wiener came up with the name “cybernetics,” what Vitruvian Man imagery is doing in dystopian film and tv (with Jennifer Buchan), and why Jane Campion uses classical allusions in her film adaptation of Thomas Savage’s novel\nThe Power of the Dog\n.\nShe has served in leadership positions in national and international societies, most notably as President of the American Society for the History of Rhetoric (2019-2021), Secretary General of the International Society for the History of Rhetoric (2020-2025), and editor of ISHR’s journal,\nRhetorica\n(2026-present). She is a member of the Leadership Board of the Colloquium for Ancient Rhetoric and of the Advisory Board of the book series International Studies in the History of Rhetoric at Brill.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Erina L. (MacGeorge) Farrell",
+   "title": "Liberal Arts Professor of Communication Arts and Sciences",
+   "rank": "Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/erina-farrell/",
+   "personal_url": null,
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/image_normal-74.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Erina MacGeorge is a social scientist specializing in interpersonal and health communication. Her research examines social support and social influence, with a particular focus on advice. Her work includes the development of advice response theory, which explains advice outcomes for recipients as a function of message, adviser, situation, and recipient characteristics. Recent research examines advice between doctors and parents about childhood antibiotic use and breast cancer patients making surgical decisions with input from their social networks, as well as advice between college student friends coping with everyday problems. Since moving to Penn State in 2014, Dr. MacGeorge has taught courses on communication theory (CAS 202), interpersonal communication theory and research (CAS 403), and advice (CAS 597), and will be teaching courses on interpersonal communication theory (CAS 555) and communication and social support (CAS 597). She is co-author, with Kathleen Verderber, of the textbook Inter-Act (14th ed.).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Brian Manata",
+   "title": "Associate Professor, Communication Arts and Sciences",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/brian-manata/",
+   "personal_url": null,
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/brian-manata_headshot-scaled.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Brian Manata specializes in the study of organizational behavior, especially as it occurs within groups and teams. Currently, he studies the effects of leadership behaviors, cohesion, and other group dynamics on group performance outcomes. His work adopts a quantitative perspective and has appeared in numerous academic journals, some of which include Human Communication Research, Journal of Leadership and Organizational Studies, and Group Dynamics: Theory, Research, and Practice. Professor Manata teaches courses on organizational communication (CAS 452W) and general communication theory (CAS 303).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lijiang Shen",
+   "title": "Professor of Communication Arts and Sciences",
+   "rank": "Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/lijiang-shen/",
+   "personal_url": null,
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/image_normal-106.jpeg",
+   "google_scholar_url": "https://scholar.google.com/citations?user=USZSnMYAAAAJ&hl=en",
+   "research_areas": [],
+   "bio": "Professional Bio: Lijiang Shen’s primary area of research considers the impact of message features and audience characteristics in persuasive health communication, message processing, and the process of persuasion/resistance to persuasion as well as quantitative research methods in communication. His research has been published in major communication and related journals.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Rachel Smith",
+   "title": "Dr. Nancy J. Metzger Professor of Communication Arts and Sciences, and Human Development and Family Studies",
+   "rank": "Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/rachel-smith/",
+   "personal_url": "https://www.huck.psu.edu/people/rachel-smith",
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/Smith_FA26_b-scaled.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Rachel Smith is a quantitative scientist whose interests lie broadly in social influence and social systems. Themes in her scholarship include why some expressions of prejudice diffuse and become social stigmas, and how social power, affiliation, and network topology shape persuasion and resistance. She also develops and evaluates approaches to design effective health campaigns that improve well-being, avoid iatrogenic outcomes, and advance theory. Professor Smith teaches undergraduate courses on persuasion (CAS 220), communication theory (CAS 303), health communication (CAS 453), and intercultural communication (CAS 471), and graduate seminars in quantitative research methods (CAS 561), social influence (CAS 550), health campaigns (CAS 567), and advanced methods for dyadic and network data (CAS 563 “Pairs and pairings”). Her research has been funded by NIH, the Gates Foundation, CDC, USAID, and private foundations.\nCurrent students: Jenna Clark (M.A., anticipated 2027), Yinan Dong (M.A., anticipated 2026), Ruth Osoro (Ph.D., anticipated 2027), Iyabo Oyeleke (M.A., anticipated 2027), Youzhen Su (Ph.D., anticipated 2027), and Shulun Wang (Ph.D., anticipated 2028)",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Denise Solomon",
+   "title": "Distinguished Professor of Communication Arts and Sciences",
+   "rank": "Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/denise-solomon/",
+   "personal_url": null,
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/image_normal-110.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Denise Solomon is a communication scientist with expertise in the area of interpersonal communication. Her research focuses on communication experiences in personal relationships, such as support and conflict, that enhance or erode well-being. Professor Solomon developed relational turbulence theory, which describes how transitions in romantic relationships promote relationship qualities that polarize cognitive, emotional, and communicative reactions to both ordinary and extraordinary experiences. Among other things, relational turbulence theory has been used to gain insight into how people experience miscarriage, cope with infertility, and navigate the challenges of raising a child with Autism Spectrum Disorder. Professor Solomon teaches courses on interpersonal communication (CAS 203; CAS 555), conflict resolution (CAS 404), communication in personal relationships (CAS 556), and theory construction (CAS 560). She is author, along with Jennifer Theiss, of the textbook Interpersonal Communication: Putting Theory into Practice. She is a Fellow of the International Communication Association and of the International Association for Relationship Research, and she is a Distinguished Scholar of the National Communication Association.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Michael Steudeman",
+   "title": "Associate Professor of Communication Arts and Sciences",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/michael-steudeman/",
+   "personal_url": null,
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/Michael-Steudeman-2024-scaled.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Michael J. Steudeman studies the rhetoric of education policy in the United States. His research considers how education discourses reframe social problems, cultivate feelings of national belonging, and adjudicate exclusions from political participation. In his book\nAbsence of National Feeling: Education Debates in the Reconstruction Congress\n(University Press of Mississippi, forthcoming), Steudeman analyzes these topics by exploring the role schooling played in the idealistic visions and tragic compromises of Reconstruction Era legislators. In addition to studying education discourses, Steudeman also writes about topics of neurodiversity, demagoguery, and presidential rhetoric. His research has been published in the\nQuarterly Journal of Speech\n,\nRhetoric & Public Affairs\n,\nRhetoric Society Quarterly\n, and\nHistory of Education Quarterly\n. He teaches courses on a range of topics, including Landmark Speeches, Argumentation, Rhetorics of Public Policy, and Rhetorical Criticism.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Mary Stuckey",
+   "title": "Sparks Professor, Communication Arts and Sciences",
+   "rank": "Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/mary-stuckey/",
+   "personal_url": null,
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/image_normal-115.jpeg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Mary E. Stuckey specializes in political and presidential rhetoric, political communication, and American Indian politics. She is the author, editor, or co-editor of twelve books and author or coauthor of roughly 80 essays and book chapters. She has received the Michael M. Osborn Teacher/Scholar Award, the Rose B. Johnson Award (with Zoe Hess-Carney), the Roderick P. Hart Outstanding Book Award, the Marie Hochmuth Nichols Award, and the inaugural Carl Couch Center, Bruce E. Gronbeck Political Communication Award. She has served as editor of the Southern Communication Journal and as book review editor for Rhetoric and Public Affairs. She is Editor of the Quarterly Journal of Speech. She currently co-edits (with Mitchell McKinney) Peter Lang’s series, The Frontiers of Political Communication. She received the John Sisco Teaching Award from the Southern States Communication Association, the Pi Sigma Alpha Teaching Award from the American Political Science Association, and the Elsie M. Hood Teaching Award from the University of Mississippi. Her current book project is on the rhetoric of political change. Professor Stuckey teaches courses in Media and Political Communication (CAS 530), Persuasion and Propaganda, and American Public Address.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Pamela VanHaitsma",
+   "title": "Associate Professor of Communication Arts and Science and Women's, Gender, and Sexuality Studies ; Director of Graduate Studies in Communication Arts and Sciences",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/pamela-vanhaitsma/",
+   "personal_url": "https://pamelavanhaitsma.com/",
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/VanHaitsma-headshot-scaled.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Pamela VanHaitsma is the Director of Graduate Studies in Communication Arts and Sciences and an associate professor of CAS and Women’s, Gender, and Sexuality Studies. Dr. VanHaitsma’s interdisciplinary scholarship bridges rhetoric, archives, and gender and sexuality studies. She is the author of\nQueering Romantic Engagement in the Postal Age: A Rhetorical Education\n(University of South Carolina Press, 2019) and\nThe Erotic as Rhetorical Power: Archives of Romantic Friendship between Women Teachers\n(Ohio State University Press, 2024). Her scholarship has been recognized with the 2015 Charles Kneupper Award from the Rhetoric Society of America, the 2020 Winifred Bryan Horner Book Award Honorable Mention from the Coalition of Feminist Scholars in the History of Rhetoric and Composition, the 2021 Randy Majors Memorial Award from the National Communication Association’s (NCA) Caucus on GLBTQ Concerns, the 2025 Marie Hochmuth Nichols Award from the NCA’s Public Address Division, and the 2026 Lavender Rhetorics Award for Excellence in Queer Scholarship from the Conference on College Composition and Communication. Pamela is currently writing her third book about Rachel Carson and queer memory.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Bradford Vivian",
+   "title": "Professor of Communication Arts and Sciences, Director of Undergraduate Studies",
+   "rank": "Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/bradford-vivian/",
+   "personal_url": null,
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/Vivian_Brad-scaled.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Bradford Vivian is a professor in the Department of Communication Arts and Sciences. His research and teaching focuses on theories of rhetoric (or the art of persuasion) and public controversies over collective memories of past events. Vivian is the author of Campus Misinformation: The Real Threat to Free Speech in American Higher Education (Oxford University Press), Commonplace Witnessing: Rhetorical Invention, Historical Remembrance, and Public Culture (Oxford University Press), Public Forgetting: The Rhetoric and Politics of Beginning Again (Penn State Press) and Being Made Strange: Rhetoric beyond Representation (SUNY Press). He is also co-editor, with Anne Teresa Demo, of Rhetoric, Remembrance, and Visual Form: Sighting Memory (Routledge). Vivian’s work has also appeared in such journals as the Quarterly Journal of Speech, Philosophy and Rhetoric, Rhetoric and Public Affairs, History and Memory, and Rhetoric Society Quarterly. His honors and awards include a National Endowment for the Humanities Summer Stipend and, from the National Communication Association, the James A. Winans-Herbert A. Wichelns Award for Distinguished Scholarship in Rhetoric and Public Address, the Critical/Cultural Studies Division Book of the Year Award, and the Karl R. Wallace Memorial Award.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kirt Wilson",
+   "title": "Department Head of Communication Arts and Sciences",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/kirt-wilson/",
+   "personal_url": "http://kirtwilson.org/",
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2022/04/Kirt-Wilson-Headshot.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Dr. Kirt H. Wilson is a communication scholar working at the intersection of political rhetoric and debate, race and racism, U.S. history and public memory. A humanist scholar of nineteenth- and twentieth-century American oratory, he researches U.S. congressional debate, presidential communication, and social movement rhetoric spanning the Black Freedom Struggle. He is the author and editor of three books and a wide array of articles in journals of communication and rhetorical studies. Most recently, he completed a survey of twentieth-century rhetorical theory and practice that will appear as Part VI of The Norton Anthology of Rhetoric and Writing (W.W. Norton & Company, in press). Wilson has earned multiple awards for his research and administrative leadership from the National Communication Association and the Rhetoric Society of America. The Rhetoric Society of America named him a Fellow in 2022 after he served as its president-elect and president. Professor Wilson teaches CAS 101N – Introduction to Human Communication (a required large lecture course for majors and minors), CAS 311 – Methods of Rhetorical Criticism, CAS 422 – Contemporary African American Communication and Culture, and CAS 503 – Graduate Research Methods in Rhetorical Criticism. He has served twice as the CAS Director of Graduate Studies and was appointed Department Head in 2022.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Department page lists only \"Department Head of Communication Arts and Sciences\"; rank Associate Professor taken from his CV (June 2024, linked on profile) and personal site."
+  },
+  {
+   "name": "Lucas Youngvorst",
+   "title": "Assistant Professor of Communication Arts and Sciences",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/lucas-youngvorst/",
+   "personal_url": null,
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2026/08/Youngvorst_Photo.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Lucas Youngvorst studies supportive communication and computer-mediated communication, with a particular interest in how communication technologies shape interpersonal interactions and relationships. More specifically, he examines how people\nseek\n, provide, and process supportive messages and why some supportive interactions are more effective than others. His research considers how technological affordances, relational dynamics, and individual differences influence supportive communication across face-to-face and mediated contexts. His current work focuses on how features and\nperceptions\nof communication channels shape support processes and outcomes, how mismatches between expected and received support affect relationships, and how verbal and nonverbal cues influence evaluations of supportive messages. His research has appeared in outlets such as\nCommunication Research\n,\nCommunication Monographs\n,\nJournal of Social and Personal Relationships\n,\nMedia Psychology\n, and\nComputers in Human Behavior\n. Professor Youngvorst teaches courses on communication and information technology, including Culture and Technology (CAS 383N),\nCommunication\nand Information\nTechnology I\n(CAS 283), and Communication and Information Technology II (CAS 483).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Weimiao Zhou",
+   "title": "Assistant Professor of Communication Arts and Sciences",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Arts and Sciences",
+   "profile_url": "https://cas.la.psu.edu/people/weimiao-zhou/",
+   "personal_url": null,
+   "photo_url": "https://cas.la.psu.edu/wp-content/uploads/sites/8/2025/08/Weimiao-Zhou_self-image-scaled.jpg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Professional Bio: Weimiao Zhou studies interpersonal communication and health within multifaceted family systems. Her work examines how siblings and parents shape adolescents’ and emerging adults’ relational, psychological, behavioral, and physical well-being through communicative processes such as socialization, support, and comparison. Recent research focuses on the development of risky behavior, postdivorce family transitions, parental differential treatment, and family mediation and sleep health. She employs advanced quantitative and mixed methods to analyze data from individuals, dyads, and family systems. Professor Zhou teaches courses on interpersonal communication (CAS 203) and family communication (CAS 405 and CAS 558).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  }
+ ]
+}

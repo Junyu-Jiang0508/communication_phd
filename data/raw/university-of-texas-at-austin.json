@@ -1,0 +1,1186 @@
+{
+ "university": "University of Texas at Austin",
+ "slug": "university-of-texas-at-austin",
+ "scraped_at": "2026-10-21",
+ "departments": [
+  {
+   "name": "Department of Communication Studies",
+   "school": "Moody College of Communication",
+   "directory_url": "https://commstudies.utexas.edu/faculty",
+   "phd_program_url": "https://commstudies.utexas.edu/graduate/advising-requirements",
+   "phd_program_name": "Ph.D. in Communication Studies",
+   "notes": "Single static Drupal directory; rank read from the position field on each card. Lecturers, professors of instruction and professor of practice excluded."
+  },
+  {
+   "name": "School of Journalism and Media",
+   "school": "Moody College of Communication",
+   "directory_url": "https://journalism.utexas.edu/faculty",
+   "phd_program_url": "https://journalism.utexas.edu/graduate/doctoral-program",
+   "phd_program_name": "Ph.D. in Journalism and Media",
+   "notes": "Single static Drupal directory. Lecturers, professors of instruction/practice and interim-emeritus faculty excluded."
+  },
+  {
+   "name": "Stan Richards School of Advertising and Public Relations",
+   "school": "Moody College of Communication",
+   "directory_url": "https://advertising.utexas.edu/faculty",
+   "phd_program_url": "https://advertising.utexas.edu/graduate/phd-advertising",
+   "phd_program_name": "Ph.D. in Advertising",
+   "notes": "Single static Drupal directory. Lecturers, professors of instruction/practice and emeriti excluded."
+  },
+  {
+   "name": "Department of Radio-Television-Film",
+   "school": "Moody College of Communication",
+   "directory_url": "https://rtf.utexas.edu/faculty",
+   "phd_program_url": "https://rtf.utexas.edu/graduate/phd-media-studies",
+   "phd_program_name": "Ph.D. in Media Studies (Radio-Television-Film)",
+   "notes": "Full directory scraped and cross-checked against the Media Studies sub-listing (https://rtf.utexas.edu/faculty/media-studies) and the Production/Screenwriting sub-listing. Only Media Studies (PhD-supervising) tenure-line faculty included; tenure-line faculty listed under the MFA Production/Screenwriting track are excluded."
+  }
+ ],
+ "faculty": [
+  {
+   "name": "Dawna Ballard",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/dawna-ballard",
+   "personal_url": "https://dawnaballard.com/",
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2025-06/Screenshot%202025-06-13%20at%204.00.58%E2%80%AFPM.png?itok=XvSz-5mz",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dawna I. Ballard (Ph.D., University of California at Santa Barbara) is professor of organizational communication and technology. An expert in chronemics—i.e., the study of time as it is bound to human communication—she researches what drives our pace of life and its impact on the communication practices and long-term vitality of organizations, communities, and individuals. In her new book, Time by Design: How Communicating Slow Allows Us to Go Fast (MIT Press) she draws on her research across a range of industries to illustrate how the most effective leaders, groups, and organizations use relationships as a lever for speed and offers a practical toolkit for doing so. Dr. Ballard is committed to engaged scholarship that makes a positive difference and has won multiple awards for her research. Most recently, she and her co-authors received the prestigious 2025 David Meyers Research Award for “Unhurried Conversations in Health Care Are More Important Than Ever: Identifying Key Communication Practices for Careful and Kind Care” published in the Annals of Family Medicine . She is a Public Voices Fellow, a Research Collaborator at the Mayo Clinic in the Knowledge & Evaluation Research (KER) Unit, and she serves on the Board of Directors for the Children's Advocacy Centers of Texas. Her research and commentary are also regularly featured in mainstream news outlets, such as The New York Times, Time Magazine, The Atlantic, Fortune, Forbes, Inc.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Michael Butterworth",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/michael-butterworth",
+   "personal_url": null,
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2026-01/Butterworth%202025.jpg?itok=XF9NUmZq",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Michael L. Butterworth (Ph.D., Indiana University) is the Governor Ann W. Richards Chair for the Texas Program in Sports and Media, Professor in the Department of Communication Studies, and Director of the Center for Sports Communication & Media at The University of Texas at Austin. His research explores the connections between rhetoric, democracy, and sport, with particular interests in national identity, militarism, and public memory. His books include Baseball and Rhetorics of Purity: The National Pastime and American Identity during the War on Terror ; Communication and Sport: Surveying the Field ; Sport and Militarism: Contemporary Global Perspectives ; Rhetoric, Sport, and Political Struggle ; and the Handbook on Communication and Sport . Dr. Butterworth’s essays have appeared in journals such as Communication and Critical/Cultural Studies; Communication & Sport , Critical Studies in Media Communication , the International Review for the Sociology of Sport , the Journal of Communication , the Quarterly Journal of Speech , and Rhetoric & Public Affairs . He earned his Ph.D. in Rhetoric and Public Culture at Indiana University-Bloomington, and has an M.A. in Communication and a B.A. in Political Science from Northern Illinois University. He is an avid Chicago Cubs fan and can easily be distracted with conversations about sports, politics, and music.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "René Dailey",
+   "title": "Professor, Graduate Advisor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/rene-dailey",
+   "personal_url": null,
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/Rene_Dailey_Headshot.jpg?itok=EAlranGL",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Interpersonal Communication"
+   ],
+   "bio": "Research areas: Interpersonal Communication. Dr. René Dailey (Ph. D., University of California, Santa Barbara, 2005) is interested in communication in families and dating relationships. Regarding family communication, her research focuses on how family members help or hinder weight management. Much of her work has focused on romantic partner support of weight loss. Regarding dating relationships, she investigates “on-again/off-again” relationships and how communication and relational quality in these cyclical relationships differs from other dating relationships. She has recently authored a book summarizing the research on these relationships: On-again, Off-again Relationships: Navigating (In)Stability in Romantic Relationships (Cambridge). Her work has appeared in journals such as Communication Monographs , Human Communication Research , and Journal of Social and Personal Relationships . Dr. Dailey teaches courses in personal relationships and nonverbal communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "John Daly",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/john-daly",
+   "personal_url": "https://www.johnadaly.com",
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2025-05/John%20Daly%20August%202022%20-04_0.jpg?itok=aJW9CkI1",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Interpersonal Communication"
+   ],
+   "bio": "Research areas: Interpersonal Communication. Dr. John Daly (Ph.D., Purdue University) is the Liddell Centennial Professor of Communication, University Distinguished Teaching Professor, and TCB Professor of Management at the University of Texas (Austin). He has published more than 100 articles and chapters in scholarly publications and more than a dozen books. Dr. Daly's interests focus on practical ways of improving the communication skills of individuals. Thus, in his research he has examined communication difficulties people experience in their personal and professional relationships and ways people advocate for their ideas. The question that guides his research and teaching is simple: How can people’s interpersonal skills help them succeed in their relationships and jobs? He served as editor of two academic journals ( Communication Education and Written Communication ) as well as on the editorial boards of numerous academic journals. In recognition of his scholarly work, he was named a Fellow of the International Communication Association and a Distinguished Scholar of the National Communication Association. He has also consulted, around the globe, with hundreds of organizations, both public and private, on communication and leadership issues. At UT, he teaches classes on interpersonal communication, advocacy and influencing, leadership, crisis management, and organizational behavior. Dr. Daly has won every campus-wide undergraduate teaching award at the University.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Erin Donovan",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/erin-donovan",
+   "personal_url": null,
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2024-04/Erin%20Donovan%2003.25.2024%20headshot%201.jpg?itok=vku6V0GX",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Interpersonal Communication and Health Communication"
+   ],
+   "bio": "Research areas: Interpersonal Communication and Health Communication. Dr. Erin Donovan specializes in Interpersonal Health Communication. Her research and teaching focus on how people can successfully navigate difficult conversations with family, friends, and health care providers while coping with illness, stress, and uncertainty. Her expertise includes interpersonal communication processes such as disclosing and receiving bad news, social support and coping, and exchanging complex medical information. Dr. Donovan’s scholarship examining how patients and health care professionals engage in “communication work” has extended theorizing about illness trajectories and health care communication. Dr. Donovan teaches courses on interpersonal communication, health communication, uncertainty management, and coping. Several of Dr. Donovan’s research projects have contributed to the creation of patient-facing materials and public health communication strategies to help people navigate challenging health communication situations. Dr. Donovan has collaborated on research supported by the National Cancer Institute, the Robert Wood Johnson Foundation, the LIVE STRONG Foundation, the Texas Department of State Health Services, and the Texas Medical Disclosure Panel of the Texas State Legislature.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Joshua Gunn",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/josh-gunn",
+   "personal_url": null,
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/faculty-cms-gunn.jpg?itok=1M8n0xk_",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Joshua G. Gunn (Ph.D., University of Minnesota, 2002) Prof. Gunn's research and teaching program focuses on the category of the ineffable, and in particular, how people use and abuse signs and symbols to negotiate ineffability. In this context, his attention to music, religion, and human affective experiences (e.g., love) are part of a deeper interest in the limits of human representation, self-understanding, and self-fashioning. Theoretically, Gunn's teaching and scholarship are indebted to the work of Kenneth Burke, which eventually led him to take-up Marxism, psychoanalysis, and critical theory. Gunn draws on psychoanalytic theory, especially that of Lacan, Freud, and Kristeva, for a useful vocabulary to help make sense of objects and experiences that are (at least seemingly) incommunicable. Gunn's graduate teaching reflects these interests in terms of survey courses that work toward helping students become independent scholars. His graduate courses include Basic Rhetorical Criticism; The Idiom of Haunting (which is a survey of mourning, trauma, and memory studies); The Subject (which is a survey of subjectivity theory); Rhetoric and Psychoanalysis; and The Object (which is a survey of many disciplinary debates regarding methodology and object).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Profile page displays name as 'Josh Gunn'"
+  },
+  {
+   "name": "Johanna Hartelius",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/johanna-hartelius",
+   "personal_url": null,
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/faculty-cms-hartelius.jpg?itok=hTNdAXhB",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Johanna Hartelius’s research is in the areas of rhetorical theory and criticism with a focus on expertise and digital rhetoric. She studies the cultural and political implications of experts’ and laypersons’ constructions of knowledge and experience, particularly as these constitute points of entry into public discourse, traditional and virtual. Hartelius is the award-winning author of The Rhetoric of Expertise (Lexington, 2011) and editor of The Rhetoric of U.S. Immigration: Identity, Community, Otherness (Penn State University Press, 2015). Her scholarship has appeared in Argumentation and Advocacy, Critical Studies in Media Communication, Culture, Theory, and Critique, Management Communication Quarterly, Quarterly Journal of Speech, Review of Communication, Rhetoric and Public Affairs, Rhetoric Society Quarterly, and Southern Communication Journal. Her most recent book, The Gifting Logos: Expertise in the Digital Commons (University of California Press, 2020) extends the investigation of cultural epistemology into digital networks. Hartelius teaches undergraduate and graduate courses in Gender and Communication and Rhetorics of Expertise.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Sharon Jarvis",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/sharon-jarvis",
+   "personal_url": null,
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/faculty-cms-jarvis.jpg?itok=NtcE4xiw",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Sharon E. Jarvis (Ph.D., University of Texas- Austin, 2000) is a Professor of Communication Studies and Founding Associate Director of Research of the Annette Strauss Institute for Civic Life (ASI) at the University of Texas at Austin. She teaches and conducts research at the intersection of language use, politics, and persuasion. Her books include The Talk of the Party: Political Labels, Symbolic Capital & American Life (Rowman & Littlefield—winner of the Top Book Award, Political Communication Division, National Communication Association), Conservative Political Communication: How Right-Wing Media and Messaging (Re)Made American Politics (author-editor, Routledge), Votes that Count and Voters Who Don’t: How Journalists Sideline Electoral Participation (Without Even Knowing It) (co-authored with Soo-Hye Han, Penn State Press—winner of the Top Book Award, Political Communication Division, National Communication Association), and Political Keywords: Using Language that Uses Us (co-authored with Roderick P. Hart, William Jennings, and Deborah Smith Howell—Oxford University Press). Her articles, chapters, and reviews have appeared in Journal of Communication, Political Psychology, American Behavioral Scientist, Political Communication, Communication Quarterly, Communication Studies, Journal of Computer Mediated Communication, Rhetoric and Public Affairs, Communication and the Public, and Howard Journal of Communications among others.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Matthew McGlone",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/matthew-mcglone",
+   "personal_url": null,
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2022-10/McGlone%20head%20shot%20Apr%202022.png?itok=ir7xtR96",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Matthew McGlone (Ph.D., Princeton University) is Professor of Communication Studies and Graduate Studies Representative for the M.S. Program in Information Security and Privacy. He studies social influence, persuasion, and deception, focusing on language’s key role in these processes. His current research projects explore strategic word choice in messages promoting wellness, patience, disaster preparedness, and prosocial behavior; stereotyping and prejudice in interpersonal communication; (in)civility in social media discourse; and the language people use to describe pain, illness, and addiction. Dr. McGlone has published articles in communication ( Communication Monographs, Human Communication Research, Journal of Communication ), health/medicine ( Annals of Behavioral Medicine, Journal of Health Communication, Vaccine ), psychology (JEP: General, JEP: Learning, Memory, and Cognition, Journal of Experimental Social Psychology, Journal of Language and Social Psychology, Personality and Social Psychology Bulleting, Psychological Science ) and discourse studies ( Discourse Processes, Poetics, Journal of Pragmatics, Language and Communication, Metaphor and Symbol ). He has edited two books ( The Interplay of Truth and Deception, Routledge, with Mark Knapp; Work Pressures, Routledge, with Dawna Ballard ) and coauthored a textbook ( Lying and Deception in Human Interaction , Kendall Hunt; with Mark Knapp, Darrin Griffin, and Billy Earnest).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Roselia Mendez Murillo",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/roselia-mendez-murillo",
+   "personal_url": null,
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2026-08/2026%20RMM.jpg?itok=g1VMq_BU",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Roselia Mendez Murillo conducts culturally-grounded, communication research that can enhance minoritized communities’ academic, relational, and mental wellbeing. She has studied the ways in which family members and mono-English speakers communicate support to Latina/o/x/e language brokers. She is also further exploring the experiences of separated Latina/o/x/e immigrant families who have undergone stepwise migration. Ultimately, her goal is to uncover assets and resources at multiple levels (e.g., intrapersonal, interpersonal, community, institutional, and policy) that can reduce academic and health inequities among Latinx/e communities in the United States. She uses both quantitative and qualitative methodologies, including but not limited to longitudinal surveys, focus groups, individual interviews (virtual and face-to-face), and cross-sectional surveys to explore attitudes and behaviors on Latina/o/x/e individuals and families. She analyzes her data to produce practical recommendations for key stakeholders such as community members, therapists, and community organizations.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Nik Palomares",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/nik-palomares",
+   "personal_url": null,
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2022-09/image0.jpeg?itok=YrQ8tF0Y",
+   "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=kLb9nnUAAAAJ",
+   "research_areas": [],
+   "bio": "Dr. Nicholas A. Palomares (PhD; University of California, Santa Barbara; 2005) joined the Moody College of Communication in the Fall of 2021 as a Professor after being a Professor of Communication at the University of California, Davis for 17 years. Dr. Palomares is a nonbinary (pronouns: they/he/she/Nik), first generation, and Latinx social scientist whose research studies the social cognitive mechanisms of message production and processing. Dr. Palomares seeks to understand how different interpretations and inferences of messages can adversely affect folks in a variety of social setting and contexts, such as when getting bullied online or in more traditional modes of communication; in conversations among friends, coworkers, family members, or dating romantic couples; when receiving political messages from party leaders; when assessing online fact-checking verdicts of potential misinformation; when gender identity influences communication patterns in online and face-to-face interactions; when reading news stories about campus sexual assault among straight and queer students; and when folks interact in other social media settings. Dr. Nik approaches research with a theoretical emphasis on the goals communicators pursue, how they pursue them, and how other people understand those goals. Dr.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Ashwin Rajadesingan",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/ashwin-rajadesingan",
+   "personal_url": null,
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2022-07/Rajadesingan_Ashwin.jpeg?itok=cNqUmap5",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Ashwin Rajadesingan is a computational social scientist and design researcher studying how people engage with politics online. He is interested in how online spaces can foster spirited, engaging political discussions and contribute to building a vibrant deliberative democracy. In his research, he combines large-scale computational methods with qualitative interviews to (re)design online spaces that facilitate quality online cross-partisan interactions. His work has been published in the proceedings for AAAI and ACM conferences such as ICWSM, CSCW, WSDM and SMSociety.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Craig Scott",
+   "title": "Department Chair, Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/craig-scott",
+   "personal_url": null,
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2021-11/1l4a6620.jpg?itok=W4DBTfHn",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Craig R. Scott is the John T. Jones, Jr. Centennial Professor and Chair of the Department of Communication Studies at The University of Texas at Austin. He is also a Senior Faculty Research Associate with the Center for Media Engagement in the Moody College of Communication. In 2020 amid the pandemic, he returned to UT Austin (where he worked from 1995-2006) after 14 years at Rutgers University. Scott’s research and teaching are primarily focused on organizational communication, where he examines issues of anonymity and identity/identification in various organizational settings. His current interests center around “hidden organizations,” which are found when an organization and/or its members conceal key aspects of their identity from various audiences. His 2013 book titled Anonymous Agencies, Backstreet Businesses, and Covert Collectives: Rethinking Organizations in the 21 st Century has won several awards. He was also a guest editor of a special issue of Management Communication Quarterly on Hidden Organizations (published in 2015). In 2023 Scott was selected as a Fellow of the International Communication Association and he is the 2021 recipient of the Jablin Award for Outstanding Contributions to Organizational Communication. He is co-editor of the International Encyclopedia of Organizational Communication and serves on editorial boards for multiple journals in Communication.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Stacey Sowards",
+   "title": "Associate Chair, Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/stacey-sowards",
+   "personal_url": null,
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/CMS_Sowards.jpg?itok=OcSInkJL",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Stacey Sowards teaches courses in communication theory, rhetorical theory, environmental communication, gender and communication, and intercultural communication. She received her Ph.D. from the University of Kansas in 2001. Her research focuses on environmental, intercultural, and gender and communication in Latin America, Southeast Asia, and the United States. Her dissertation was a study of environmental organizations in Kalimantan, Indonesia, and was funded by a J. William Fulbright grant in 2000-2001. In 2005, she received a Fulbright-Hays grant for further study in Indonesia. She speaks both Spanish and Indonesian. Her work in communication and rhetoric has been published as book chapters and journal articles. Other research projects focus on cultural and gender representations, and appear in journals such as Argumentation and Advocacy , Communication Studies , Philosophy and Rhetoric , and Communication Theory . Her book, on Dolores Huerta and the United Farm Workers, was published in 2019 with The University of Texas Press. Dr. Stacey K. Sowards served as the department chair, a full professor in the department of communication, and a research fellow in the Sam Donaldson Center at the University of Texas at El Paso for many years before joining the Department of Communication Studies at The University of Texas at Austin.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Keri Stephens",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/keri-stephens",
+   "personal_url": "https://www.youtube.com/channel/UCY79twOzKigRYzNOGgh-GIw",
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/Keri%20stephens%20headshot%202%202019%20web_1.jpg?itok=KJybnbAc",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Keri K. Stephens, PhD , is the George Christian Centennial Professor in Organizational Communication Technology, a UT Austin Distinguished Teaching Professor, and Co-Director of the Technology and Information Policy Institute at the Moody College of Communication at The University of Texas at Austin. With over 25 years of interdisciplinary research experience, Dr. Stephens' expertise includes organizational communication, mobile technologies, artificial intelligence (AI), crisis and disaster communication, infrastructure communication, and health communication. Dr. Stephens is an International Communication Association Fellow and has authored over 150 peer-reviewed publications and five academic books, including the Handbook of Infrastructure Communication (Wiley, 2026) and The Social Scientist's Grant Guide (Bloomsbury, 2026). She has received 25 top-paper and panel awards, six article-of-the-year awards, and received the Gerald M. Phillips Award for Distinguished Applied Communication Scholarship from the National Communication Association in 2026. As a Principal Investigator (PI) or CoPI, her research has attracted more than $10 million in external funding from organizations like the National Science Foundation, the Texas Water Development Board, the Texas General Land Office, the Texas Department of Transportation, and industry. She regularly delivers keynote talks internationally and across the U.S., including a TEDx Talk.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jürgen Streeck",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/jurgen-streeck",
+   "personal_url": "http://jurgenstreeck.net/",
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/faculty-cms-streek_0.jpg?itok=gp4Goso0",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Jürgen Streeck ( Dr. phil. FU Berlin 1981 ) has been one of the pioneers in the study of multi-modal (embodied) human interaction. Employing micro-ethnographic research methods, he has shown how speakers in face-to-face interaction coordinate eye-gaze with their hand gestures and speech; use material objects to symbolize their interactional process; and conduct meta-communication by self-touch and body postures. Jürgen’s co-edited books Embodied Interaction. Language and the Body in the Material World (Cambridge 2011, with C. Goodwin and C. LeBaron) and Intercorporeality. Emerging Socialities in Interaction (Oxford 2017, with C. Meyer and S. Jordan) have helped lay the foundations of the field. His book Gesturecraft – The Manu-facture of Meaning (Amsterdam 2009) is based on 20 years of video-based research on gestures of the hand, and in Self-Making Man. A Day of Action, Life, and Language (Cambridge 2017), Jürgen examines a plethora of moments of moving, standing, looking, gesturing, speaking, and managing during one workday of the owner of a local auto-repair shop. More recently, Jürgen has developed an interest in touch, one of the least studied and understood modalities of communication, and in interactions between humans and other animals. Trained as a linguist, Jürgen has always maintained an interest in language diversity and evolution and the role of languages in social, cultural, and mental life.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Scott Stroud",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/scott-stroud",
+   "personal_url": "http://utexas.academia.edu/ScottStroud",
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/ss%20tower%20crop1.jpg?itok=k40y_HQf",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Scott R. Stroud (Ph.D., Temple University) specializes in the intersection between communication, philosophy, and culture. Much of his research extends the thought of the American pragmatists into the realms of rhetorical experience and political activity. He is particularly interested in the connections between rhetoric, individual flourishing, religion, and democracy. His first book, John Dewey and the Artful Life ( Pennsylvania State University Press, 2011), engages these themes in detail. His second book, Kant and the Promise of Rhetoric (Pennsylvania State University Press, 2014), provides a first-of-its-kind reappraisal of Kant and his relation to the rhetorical tradition. His most recent book is The Evolution of Pragmatism in India: Ambedkar, Dewey, and the Rhetoric of Reconstruction (University of Chicago Press 2023), which was also published as The Evolution of Pragmatism in India: An Intellectual Biography of B.R. Ambedkar by HarperCollins India (2023). It tells the story of Bhimrao Ambedkar’s engagement with Deweyan pragmatism and how it shaped his innovative rhetoric in pursuit of social justice in India. Stroud’s other work also engages topics in comparative/non-western rhetoric, religious rhetoric, narrative theory, and communication ethics.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Natalie Jomini Stroud",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/talia-stroud",
+   "personal_url": null,
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2023-07/talia-stroud.png?itok=VdzWkwkg",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Natalie (Talia) Jomini Stroud (Ph.D., Annenberg School for Communication, University of Pennsylvania) is a Professor in the Department of Communication Studies and the School of Journalism and Media, as well as the founding and current Director of the Center for Media Engagement in the Moody College of Communication at The University of Texas at Austin. The Center for Media Engagement seeks to understand and improve the media ecosystem for the benefit of democracy. Stroud is a Fellow of the International Communication Association and the Annenberg Public Policy Center. She is part of New _Public, an initiative to re-envision digital public life (newpublic.org), and a co-academic lead on the U.S. 2020 Facebook & Instagram Election Study. Stroud’s research on the media’s role in a democracy has received numerous national and international awards, including the International Communication Association (ICA)'s prestigious Outstanding Book Award for her book Niche News: The Politics of News Choice , and the inaugural Public Engagement Award from the Journalism Studies Division of the ICA. She serves on the editorial boards of seven academic journals and the advisory board of SciLine, a part of the American Association for the Advancement of Science. Her research has appeared in Science, Nature, the Journal of Communication , Journalism, Political Communication , Journal of Computer-Mediated Communication , and New Media & Society .",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Profile page displays name as 'Talia Stroud'"
+  },
+  {
+   "name": "Anita Vangelisti",
+   "title": "Senior Associate Dean, Professor",
+   "rank": "Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/anita-vangelisti",
+   "personal_url": null,
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2024-09/Anita_Vangelisti_final_small.jpg?itok=_MIK4rz1",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Interpersonal Communication"
+   ],
+   "bio": "Research areas: Interpersonal Communication. Anita L. Vangelisti is a professor in the Department of Communication Studies and Senior Associate Dean for Academic Affairs in the Moody College. She holds the Everett D. Collier Centennial Chair in Communication. Her work focuses on the associations between communication and emotion in the context of close, personal relationships. She has published numerous articles in journals such as Communication Monographs, Human Communication Research, Journal of Personality and Social Psychology, Personal Relationships, and the Journal of Social and Personal Relationships. Vangelisti has edited or authored several books including the Cambridge Handbook of Personal Relationships , the Routledge Handbook of Family Communication , and Hurt Feelings in Close Relationships . She was co-editor of the Cambridge University Press book series on Advances in Personal Relationships, was associate editor of Personal Relationships , and has served on the editorial boards of over a dozen scholarly journals. Her scholarship has been recognized by a number of awards including the Mark L.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Brittany Wheeler",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/brittany-wheeler",
+   "personal_url": null,
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2026-07/Wheeler_0.jpg?itok=hoF7H1cC",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Brittany Wheeler obtained her Ph.D. in Communication from the University of California, Santa Barbara, and an M.S. in Psychology from Arizona State University. Dr. Wheeler seeks to understand how communication processes shape harmful behaviors and social dynamics within organizations. Her research examines workplace bullying and harassment, artificial intelligence, and the ways these phenomena influence individual well-being, team functioning, and organizational effectiveness. Her research employs a range of computational and quantitative methods, including survey research, computational text analysis, and agent-based modeling, to better understand how harmful workplace behaviors emerge, spread, and can be mitigated using various intervention approaches. Her current projects focus on using simulation methods to evaluate organizational interventions aimed at reducing workplace bullying and to examine bullying dynamics within a higher education context. Additionally, her work explores the implications of AI-mediated communication for organizations and the individuals who use this technology. Dr. Wheeler’s research has been published in peer-reviewed journals including Cyberpsychology, Behavior, and Social Networking, International Journal of Bullying Prevention, and Frontiers in Psychiatry.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jasmine Wu",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Communication Studies",
+   "profile_url": "https://commstudies.utexas.edu/faculty/jasmine-wu",
+   "personal_url": null,
+   "photo_url": "https://commstudies.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2025-08/JasmineWu%20copy.jpg?itok=LEIx2h0X",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Jasmine Wu obtained her Ph.D. degree in Media, Technology, and Society and an M.S. in Statistics from Northwestern University. Before coming to UT, she was a Postdoctoral Researcher at the Wharton School, University of Pennsylvania. Wu studies the dynamics of communication and social relationships in teams and organizations, aiming to leverage collaboration technologies in workplaces to enhance organizational productivity and employee well-being. She applies statistical and computational methods to understand team processes and organizational structure from a social network perspective. Her current project focuses on identifying and understanding communication patterns and relational mechanisms within the context of flexible work arrangements. Her work has won international awards and appeared in leading peer-reviewed journals across communication, management and network science.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Rosental Alves",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Journalism and Media",
+   "profile_url": "https://journalism.utexas.edu/faculty/rosental-alves",
+   "personal_url": null,
+   "photo_url": "https://journalism.utexas.edu/sites/default/files/styles/faculty_bio_image/public/faculty-jou-alves.jpg?itok=pS6N8Mnu",
+   "google_scholar_url": null,
+   "research_areas": [
+    "International Journalism",
+    "Online Journalism",
+    "Journalism/Press Freedom in Latin America"
+   ],
+   "bio": "Research areas: International Journalism; Online Journalism; Journalism/Press Freedom in Latin America. Rosental Alves began his academic career in the United States in March 1996, after 27 years as a professional journalist, including seven years as a journalism professor in Brazil. He moved to Austin from Rio de Janeiro, where he was the managing editor and member of the board of directors of Jornal do Brasil , one of the most important Brazilian newspapers. Alves worked for that paper for 23 years. He was chosen in 1995 from approximately 200 candidates to be the first holder of the Knight Chair in International Journalism, created by a $1.5 million endowment from the James L. and John S. Knight Foundation. In 2002, Alves received a $2 million grant from the Knight Foundation to create the Knight Center for Journalism in the Americas , a four-year project to work in training programs with journalists from Latin America and the Caribbean. At the University of Texas at Austin, Alves has three basic areas for teaching and research: international reporting (emphasizing the work of foreign correspondents), journalism in Latin America (especially the struggle for a free press in the hemisphere), and Internet journalism (the creation of a new genre of journalism for the digital medium). He created the first class on online journalism at UT in the 1997-98 academic year. A working journalist since he was 16, Alves received a B.A.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Mary Bock",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Journalism and Media",
+   "profile_url": "https://journalism.utexas.edu/faculty/mary-bock",
+   "personal_url": null,
+   "photo_url": "https://journalism.utexas.edu/sites/default/files/styles/faculty_bio_image/public/faculty-jou-bock_m.jpg?itok=aMVLST3J",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Visual Communication",
+    "Citizen Journalism",
+    "Representation"
+   ],
+   "bio": "Research areas: Visual Communication; Citizen Journalism; Representation. Mary Angela Bock is a former journalist turned academic with an interest in the sociology of photographic practice, the rhetorical relationship between words and images, and digital media. Her previous career was spent primarily in local television news, first as a TV reporter for KCCI-TV in Des Moines, Iowa; then as an assignment editor and field producer in Philadelphia’s WPVI-TV. She has also worked short stints as a newspaper reporter, a radio journalist, and public relations writer. Bock co-authored Visual Communication Theory and Research with Shahira Fahmy and Wayne Wanta. She completed her PhD at the Annenberg School for Communication at the University of Pennsylvania in 2009. Bock is an active member of the National Press Photographers Association, the International Communication Association (ICA), the National Communication Association and the Association for Education in Journalism and Mass Communication (AEJMC). Her research at both the student and faculty level has received division awards by ICA and AEJMC. She has published articles in Journalism Practice; Journalism and Mass Communication Quarterly; Journalism; Visual Communication Quarterly; The International Journal of Press and Politics and New Media and Society. She and Klaus Krippendorff co-edited The Content Analysis Reader, an anthology of articles reflecting the development and application of content analysis.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Renita Coleman",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Journalism and Media",
+   "profile_url": "https://journalism.utexas.edu/faculty/renita-coleman",
+   "personal_url": null,
+   "photo_url": "https://journalism.utexas.edu/sites/default/files/styles/faculty_bio_image/public/aaarenita%20mug1.jpeg?itok=NHNkbuuV",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Agenda setting",
+    "Race",
+    "Visual communication and ethics"
+   ],
+   "bio": "Research areas: Agenda setting; Race; Visual communication and ethics. Renita Coleman has 15 years of experience as a newspaper journalist and a Ph.D. from the University of Missouri. \"Her latest book is \"Designing Experiments for the Social Sciences: How to Plan, Create and Execute Research Using Experiments,\" published by SAGE. She is an associated editor of Journalism & Mass Communication Quarterly .\" Her research focuses on agenda-setting, race, visual communication and ethics. She has studied the effects of photographs on ethical reasoning, the framing and attribution of responsibility in health news, and the moral development of journalists and public relations practitioners, among other topics. She has published more than 30 peer-reviewed articles in academic journals including Journal of Communication, Journalism & Mass Communication Quarterly, Journal of Broadcasting and Electronic Media, Journal of Mass Media Ethics, Visual Communication Quarterly, Newspaper Research Journal, Journalism, and Journalism Studies . In addition to the new book, she has another book, “ The Moral Media: How Journalists Reason About Ethics, ” published in 2005 with co-author with Lee Wilkins of the University of Missouri. Before beginning her academic career, Coleman was a journalist at newspapers and magazines for 15 years. She was a reporter, editor, and designer at the Raleigh, N.C.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Donna DeCesare",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "School of Journalism and Media",
+   "profile_url": "https://journalism.utexas.edu/faculty/donna-decesare",
+   "personal_url": "http://www.donnadecesare.com/",
+   "photo_url": "https://journalism.utexas.edu/sites/default/files/styles/faculty_bio_image/public/faculty-jou-decesare_0.jpg?itok=vjnHRC27",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Donna De Cesare joined the UT Faculty following a 20-year career as an award-winning freelance visual journalist. She continues to report on Latin America and is an affiliate faculty with the Benson / Lozano Long Institute for Latin American Studies at UT. Professor De Cesare is a 2013 Recipient of the Maria Moors Cabot Award for Journalism Enhancing InterAmerican Understanding . This prestigious award is the oldest prize for foreign correspondence and like the Pulitzer is a major career recognition bestowed by the Columbia University Graduate School of Journalism. Donna has received numerous honors for her documentary photography, including top awards from Pictures of the Year International, the National Press Photographers Association, the Dorothea Lange/Paul Taylor Prize, the Mother Jones Award for Social Documentary Photography, multiple Open Society Foundation grants, and a Fulbright Fellowship. Her work has been exhibitedinternationally at venues across France, Mexico, China, El Salvador, Germany, Italy, and the United States, including the Museum of Fine Arts, Houston, the Brooklyn Museum, and the 2016 Venice Biennale. Donna is the author of the bilingual documentary book Unsettled / Desasosiego: Children in a World of Gangs , published by the University of Texas Press in 2013.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Shengchun Huang",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Journalism and Media",
+   "profile_url": "https://journalism.utexas.edu/faculty/shengchun-huang",
+   "personal_url": null,
+   "photo_url": "https://journalism.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2025-12/2025-11-13-HeadshotDay3-LR-010.jpg?itok=AZFbvtl0",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Shengchun Huang, Ph.D., joins the School of Journalism at Moody College as a tenure-track assistant professor. While completing her doctorate at the Annenberg School for Communication at the University of Pennsylvania, Huang’s interdisciplinary research explores how AI-driven media systems shape news consumption, user perceptions, and democratic engagement. Her work blends computational, quantitative, and qualitative methods to examine algorithmic curation, affective polarization, and platform power—earning publication in top journals such as New Media & Society , Political Communication , and Information, Communication & Society . With prior degrees from Tsinghua University and Renmin University of China, and professional experience as a journalist and editor, Huang brings a global perspective and a deep commitment to advancing the future of political communication and media research.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Tom Johnson",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Journalism and Media",
+   "profile_url": "https://journalism.utexas.edu/faculty/tom-johnson",
+   "personal_url": null,
+   "photo_url": "https://journalism.utexas.edu/sites/default/files/styles/faculty_bio_image/public/faculty-jou-johnson.jpg?itok=LzuLqIkf",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Social media uses and effects",
+    "political communication",
+    "Media credibility and trust",
+    "Social media misinformation and conspiracy theories"
+   ],
+   "bio": "Research areas: Social media uses and effects; political communication; Media credibility and trust; Social media misinformation and conspiracy theories. Thomas J. Johnson is the Amon G. Carter Jr. Centennial Professor in the School of Journalism at University of Texas at Austin as well as the director of the Digital Media Research Program, joining the faculty in Fall 2010. Johnson has studied the role of the media in each election since 1984. Beginning with the 1992 election he began studying the role of new media (such as talk radio and talk television) and how people used such media. He was one of the first to study the role of the Internet in presidential campaigns during the 1996 election. For the 2004 election be began examining how people used blogs and their role in the campaign. For the 2008 election, Johnson focused on social network sites and for the 2012 election he added mobile apps. Much of Johnson's work has focused on the credibility of the Internet and its components, but he has also examined uses and gratifications of the Internet and its components, selective exposure and the Internet, the degree to which the Internet has served as a substitute for traditional media, the agenda-building role of the media and how factors influence journalistic frames. Several studies have also concentrated on the political effects of the Internet and its components on citizens, including how people use the media to build social capital.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Gina Masullo",
+   "title": "Associate Professor and Graduate Advisor",
+   "rank": "Associate Professor",
+   "department": "School of Journalism and Media",
+   "profile_url": "https://journalism.utexas.edu/faculty/gina-masullo",
+   "personal_url": null,
+   "photo_url": "https://journalism.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2023-08/ginalowres.jpg?itok=6STVaWMU",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Online incivility",
+    "Online engagement",
+    "News trust",
+    "Political polarization"
+   ],
+   "bio": "Research areas: Online incivility; Online engagement; News trust; Political polarization. Gina M. Masullo is an Associate Professor in the School of Journalism and Associate Director of the Center for Media Engagement in the Moody College of Communication at UT Austin. They also serve as the Graduate Advisor for the department's master's research and theory program. Dr. Masullo’s research focuses on how the digital space both connects and divides people and how that influences society, individuals, and journalism. They are the author of Online Incivility and Public Debate: Nasty Talk , The New Town Hall: Why We Engage Personally with Politicians , and Midlife Sapphic Revelation in the Digital Age: How Digital Media Support Coming Out Later , as well as co-editor of Scandal in a Digital Age . Before entering academia Dr. Masullo spent 20 years as a newspaper and online reporter and editor, with most of their professional experience at The Post-Standard in Syracuse, NY. During their tenure as a journalist, they covered crime, courts, prisons, and state and local government, as well as served as an assistant city editor, bureau chief, and copy editor. They hold a B.A. in communication from Franciscan University of Steubenville in Ohio and an M.A. and a Ph.D. in mass communication from Syracuse University’s S.I. Newhouse School of Public Communications.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kathleen McElroy",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Journalism and Media",
+   "profile_url": "https://journalism.utexas.edu/faculty/kathleen-mcelroy",
+   "personal_url": null,
+   "photo_url": "https://journalism.utexas.edu/sites/default/files/styles/faculty_bio_image/public/faculty-jou-mcelroy.jpg?itok=1RE5qSkv",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Newsroom ethics",
+    "Sports",
+    "Obituaries",
+    "Food",
+    "Race and news media"
+   ],
+   "bio": "Research areas: Newsroom ethics; Sports; Obituaries; Food; Race and news media. Kathleen McElroy is a professor in the School of Journalism and Media at The University of Texas at Austin. She received her Ph.D. from the School of Journalism in December 2014, after nearly 30 years as a professional journalist. At The New York Times, she held various management positions, including associate managing editor, dining editor, deputy sports editorand deputy editor of the website. She previously worked for The National, an all-sports daily and Newsday on Long Island as well as the Austin American-Statesman, The Huntsville Item and the Bryan-College Station Eagle in Texas. While earning her doctorate, she was a Harrington Graduate Fellow and received awards for teaching and research. Her research interests include racial discourse, collective memory, sports media and obituaries. She previously was an assistant professor at Oklahoma State University, where she taught news reporting and sports media. She received a Masters of Arts from New York University, with a focus on race and media, and a Bachelor of Arts in broadcast journalism from Texas A&M.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Paula Poindexter",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Journalism and Media",
+   "profile_url": "https://journalism.utexas.edu/faculty/paula-poindexter",
+   "personal_url": null,
+   "photo_url": "https://journalism.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2026-03/Poindexter%20Photo%20for%20ISOJ2025.jpg?itok=BLNLBTN2",
+   "google_scholar_url": null,
+   "research_areas": [
+    "News audience",
+    "News literacy and engagement",
+    "Diversity in news"
+   ],
+   "bio": "Research areas: News audience; News literacy and engagement; Diversity in news. Paula M. Poindexter is a Professor of Journalism and Media at The University of Texas at Austin whose work focuses on news engagement, media literacy, and journalism in the digital age. She is the author of six books, including “ Gen Z, Social Media, and News: Implications for the Future of News Engagement, Journalism, the U.S., and Democracy .” Before entering academia, Poindexter worked as a manager and executive at the Los Angeles Times and as a reporter and producer at KPRC-TV, the NBC affiliate in Houston. She earned her Ph.D. from Syracuse University's S.I. Newhouse School of Public Communications. A recognized leader in journalism education, Poindexter served as president of the Association for Education in Journalism and Mass Communication (AEJMC) in 2014. During her presidency, she founded News Engagement Day She established an annual research grant supporting news audience studies, launched the Scholarsourcing publishing initiative with Peter Lang, and helped create the Tankard Book Award and “ Recommended Ethical Research Guidelines for AEJMC Members .” Her leadership has had a lasting impact on journalism education and research. At UT Austin, Poindexter has developed seven journalism courses, including News Literacy in the Digital Age, Journalism, Society, and the Citizen Journalist, and Understanding African Americans and the Media.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "David Ryfe",
+   "title": "Professor and Director",
+   "rank": "Professor",
+   "department": "School of Journalism and Media",
+   "profile_url": "https://journalism.utexas.edu/faculty/david-ryfe",
+   "personal_url": null,
+   "photo_url": "https://journalism.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2024-03/david_ryfe_018.jpg?itok=jDjZtOpr",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "David Ryfe is the Director of and Professor in the School of Journalism and Media at The University of Texas at Austin. During his career, he has published widely in the areas of presidential communication, political communication, public deliberation, and the history and sociology of news. These days his work mostly concerns the ongoing disruption of American journalism. His book, Can Journalism Survive? (Polity, 2012) presents the most sustained ethnographic study of American newsrooms in a generation. His answer to the question raised in the book’s title is that journalism is and will survive but will adapt in ways that change both large and small elements of the practice. His most recent book, Journalism and the Public (Polity, 2017) explores the many ways in which journalism is shaped by the particular configuration of public life in which it is embedded. This fact is why journalism everywhere around the globe shares a family resemblance but is nowhere practiced the same. His current work ( Local News in a Digital Age , forthcoming) involves a study of eight news organizations located in a large Midwestern city. In this study, he is interested to learn the current state and near-term future of local journalism. Previously, Professor Ryfe served as director of the School of Journalism and Mass Communication at the University of Iowa.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Sharon Strover",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Journalism and Media",
+   "profile_url": "https://journalism.utexas.edu/faculty/sharon-strover",
+   "personal_url": null,
+   "photo_url": "https://journalism.utexas.edu/sites/default/files/styles/faculty_bio_image/public/faculty-rtf-strover.jpg?itok=lF5GjHWp",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Infrastructure",
+    "law & policy",
+    "Digital equity",
+    "Disinformation & AI",
+    "Media Studies",
+    "Digital Media",
+    "Media/Technology/Social Change",
+    "Global and International Media"
+   ],
+   "bio": "Research areas: Infrastructure; law & policy; Digital equity; Disinformation & AI; Media Studies; Digital Media; Media/Technology/Social Change; Global and International Media. Dr. Strover is the Philip G. Warner Regents Professor in Communication and former Chair of the Radio-TV-Film Department at the University of Texas, where she teaches communications and telecommunications courses and co-directs the Technology and Information Policy Institute . Some of her current research projects examine local and statewide networks and broadband services; the digital divide; rural broadband deployment; telecommunications infrastructure deployment and economic development in rural regions; and Artificial Intelligence issues including social media-based disinformation as well as publicly-deployed technologies. Her most recent publications examine disinformation strategies associated with Russian Facebook ads; local broadband deployment strategies around the world; and the role of broadband in rural regions. Her current undergraduate and graduate teaching addresses communication law and policy, the relationship between technology and culture, and the ethics of artificial intelligence. She has had visiting appointments at several universities around the world including the Chinese University of Hong Kong, Westminster University, Stockholm University, the New University of Lisbon, Aarhus University, among others. Her research has been supported by the U.S.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Department association on profile: School of Journalism and Media; Department of Radio-Television-Film"
+  },
+  {
+   "name": "Yibing Sun",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Journalism and Media",
+   "profile_url": "https://journalism.utexas.edu/faculty/yibing-sun",
+   "personal_url": null,
+   "photo_url": "https://journalism.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2026-08/IMG_8315.JPG?itok=IDaYzu1j",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Yibing Sun is an assistant professor in the School of Journalism and Media at the University of Texas at Austin. Her research examines how visual media and artificial intelligence shape communication in contemporary digital environments. She studies how multimodal content is produced, circulated, and interpreted, with particular attention to visual persuasion, visual politics, and the ways emerging technologies influence the ways people encounter and engage with information. Her research brings together two interconnected areas. The first investigates visual meaning-making at both the societal and individual levels, from the circulation of images across media platforms to the persuasive effects of visual messages on audiences. The second examines AI as both a communication actor and a research method. This work explores how multimodal large language models can be used to analyze complex media content, as well as how AI-generated multimodal messages shape attitudes, perceptions, and public discourse. Sun uses computational methods, experiments, and AI-assisted approaches to study communication across platforms and contexts. Yibing earned her Ph.D. and M.A. in Mass Communication, with a minor in Educational Psychology, from the University of Wisconsin–Madison. She received her B.A. in Broadcasting from Tongji University.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Raymond Thompson",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Journalism and Media",
+   "profile_url": "https://journalism.utexas.edu/faculty/raymond-thompson",
+   "personal_url": null,
+   "photo_url": "https://journalism.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2021-08/Thompson_Raymond.jpg?itok=qfYJrgho",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Raymond Thompson is an artist, educator, and journalist based in Austin, TX. He is an incoming Assistant Professor of Photojournalism at The University of Texas at Austin. He has a MFA in photography from West Virginia University. He received his masters degree from The University of Texas at Austin in journalism and graduated from the University of Mary Washington with a BA is American Studies. He received the 2020 Lenscratch Student Prize. He has worked as a freelance photographer for The New York Times, ACLU, Politico, NPR, The Nature Conservancy, The Intercept, NBC News, Propublica, WBEZ, Google, Merrell and the Associated Press.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Anita Varma",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "School of Journalism and Media",
+   "profile_url": "https://journalism.utexas.edu/faculty/anita-varma",
+   "personal_url": null,
+   "photo_url": "https://journalism.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2025-09/Varma%20Headshot_Credit%20Mary%20Inhea%20Kang.jpeg?itok=hFE8sNiG",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Anita Varma is an assistant professor in the School of Journalism and Media at UT Austin, where she focuses on media ethics. She also leads the Solidarity Journalism Initiative at the Center for Media Engagement, where she is a senior faculty research associate. As a publicly engaged scholar, Varma’s work focuses on the role of solidarity in journalism. Varma served as chair of the Media Ethics Division of the Association for Education in Journalism and Mass Communication (AEJMC) from 2022-2023. She serves on the board of the Press On: A Southern Collective for Movement Journalism and The Objective, and previously served on the board of the Society of Professional Journalists (Northern California Chapter). Before joining the School of Journalism and Media, she was the assistant director of Journalism & Media Ethics at the Markkula Center for Applied Ethics (Santa Clara University), and a visiting lecturer at UC Berkeley’s School of Journalism. Varma received her Ph.D. in Communication from Stanford University. Her dissertation, Solidarity in Action: A Case Study of Journalistic Humanizing Techniques in the San Francisco Homeless Project, received the inaugural Penn State Davis Ethics Award.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "S. Craig Watkins",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "School of Journalism and Media",
+   "profile_url": "https://journalism.utexas.edu/faculty/s-craig-watkins",
+   "personal_url": null,
+   "photo_url": "https://journalism.utexas.edu/sites/default/files/styles/faculty_bio_image/public/watkins_craig-5x7_final.png?itok=oKHUXbqw",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Digital Media",
+    "Equity and Technology",
+    "Social Media",
+    "Identity and Representation",
+    "Media/Technology/Social Change"
+   ],
+   "bio": "Research areas: Digital Media; Equity and Technology; Social Media; Identity and Representation; Media/Technology/Social Change. S. Craig Watkins is the Ernest A. Sharpe Centennial Professor and the Executive Director of the IC 2 Institute at the University of Texas at Austin. His research focuses on the ethical implications of artificial intelligence. Craig is one of the Principal Investigators for UT Austin’s Good Systems Grand Challenge, a University funded initiative that supports multi-disciplinary explorations of the technical, social, and ethical implications of artificial intelligence. Craig’s team explores the societal implications of artificial intelligence, focusing on how implicit biases, for example, in datasets, model formulation, and deployment can lead to disparate impacts, especially in high stakes contexts like healthcare. His collaborative research probes the many different dimensions of Health AI. For example, his research with Design and the School of Information examines how youth interact with consumer devices like digital assistants. Craig was also part of a multidisciplinary team of social scientists, psychologists, and computer scientists who prototyped a chatbot to support parents dealing with postpartum depression. His work with researchers from UT Austin’s School of Information and Weill Cornell Medicine explores how artificial intelligence and machine learning can be designed to identify the social risk factors associated with youth suicides.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Department association on profile: School of Journalism and Media; Department of Radio-Television-Film"
+  },
+  {
+   "name": "Lucy Atkinson",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/lucy-atkinson",
+   "personal_url": "http://lucyatkinson.com",
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2024-06/2024.05.03.AD_PRHeadshots_051.JPG?itok=dua7lrfP",
+   "google_scholar_url": "https://scholar.google.com/citations?user=V9VKjAsAAAAJ&hl=en&authuser=3",
+   "research_areas": [],
+   "bio": "Dr. Atkinson is an Associate Professor in the School of Advertising & PR in the Moody College of Communication at The University of Texas at Austin. Her research looks at communication in the context of sustainability and the environment. She focuses on the ways message components (like visual elements, argument frames, source factors) in environmental communication influence environmental attitudes, beliefs and behaviors. Past and current projects have explored stakeholder acceptance of carbon capture and storage projects, investigated public hesitancy regarding new health technologies, and tested new communication technologies including augmented reality and virtual reality to communicate about poorly understood scientific phenomena like the Deep Seas. She has been PI or co-PI on grants totaling more than $8M from government and industry sources. These grants support research exploring stakeholder communication around sustainability and climate change issues. Current grants include $7M (as co-PI) from the NSF to explore environmental justice and resilience in underserved communities and $100K (as PI) from the City of Austin to examine multilingual AI-assisted emergency preparedness among underserved communities. She teaches classes on advertising history, environmental communication, integrated communication campaigns, and consumer psychology. Dr. Atkinson completed her Ph.D. at the University of Wisconsin-Madison, her M.A. at New York University and her B.A.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Laura Bright",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/laura-bright",
+   "personal_url": "https://urldefense.proofpoint.com/v2/url?u=http-3A__clicks.memberclicks-2Dmail.net_wf_click-3Fupn-3DrszmrKZ-2D2BOq-2D2Bud33zo7QdQGd-2D2BMw6cLtW5-2D2FObRq5jPhNqyKW8BbW8FaVgDPDdYMSywyt6yWfm77c1m-2D2F1h12G8-2D2BhuryXenHJdhqoBFU5pmq2TPKUf8j1QODV2LsjEHeJBPv-5FklMFTLSLMO37iaE8Pg-2D2FLajrMUYbD4jR0LDNVednHrjAPofagI7FaPCcrlyuKIsIqcNFdgtcX3orhQA3Fxl68Dal9me-2D2F83sa-2D2F1CXMuOUa7oBhVjbOCwrHWHxqf4PEkASTXnFgC-2D2B2ago-2D2BrZlXDpcoJo78RsN5TDQ-2D2F-2D2B-2D2BlsRHGtvb2t1Pwxi-2D2B3I-2D2Bm-2D2BLyCaSIe70-2D2FPeo21Ws-2D2BtviewiyAQVKyX2f7-2D2BRbwQk3HllDVadMFUCQpUcJ8bePit04btu9lfzo-2D2BIa40tKZWmexiQFgRWZckunekizTopl7mwNsUnObbxpffqJy7h8TYRJJ4lf7gObCc&d=DwMFaQ&c=7Q-FWLBTAxn3T_E3HWrzGYJrC4RvUoWDrzTlitGRH_A&r=gNOyt12KmVBaHgkQo5HS5g&m=6JVbHQjs-iZRjPNufqJdr5nMjJQnv2T8mjk-6HZo60A&s=E57m6OE7vc4fs-046F4c1jTX_BAeHQM8PRqIoP9Ulzk&e=",
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2026-08/Laura%20Bright%202026.jpeg?itok=zzLO2JUr",
+   "google_scholar_url": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fscholar.google.co.uk%2Fcitations%3Fhl%3Den%26pli%3D1%26user%3DIQuaf3gAAAAJ&data=05%7C02%7C%7C0ecb58d72d1d4dc92f4c08df07715497%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C639237855491852181%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=qAUe%2B5dUa6Kr758vjJ1wWMpGSwVO4QIVB3lafmeDzcg%3D&reserved=0",
+   "research_areas": [],
+   "bio": "Laura F. Bright (Ph.D., The University of Texas at Austin) is an Associate Professor of Media Analytics in the School of Advertising and Public Relations and the Director of the Nelson Center for Brand and Demand Analytics in the Moody College of Communication. Laura’s research focuses on understanding consumer behavior within social media feeds and new technologies – specifically related to digital wellbeing, data analytics, and consumer privacy. Her work has appeared in the top journals in her field and is frequently presented at academic conferences around the world. In the classroom, Laura delivers content in the areas of media management, social media effects, advertising campaign development, and advertising research methods. Her industry experience includes working for Disney, surviving the early 2000s dot-com boom and bust in Austin, and running a family consulting business. For more information, please visit www.brightwoman.com or her profile on .",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Department association on profile: Nelson Center; Stan Richards School of Advertising & Public Relations"
+  },
+  {
+   "name": "Erica Ciszek",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/erica-ciszek",
+   "personal_url": null,
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2024-06/2024.05.03.AD_PRHeadshots_074.JPG?itok=7AwgfGhJ",
+   "google_scholar_url": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Db6cE5IEAAAAJ%26hl%3Den&data=05%7C01%7C%7C346fec4c81dd46cf7b9208db4ff6040b%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C638191690271066399%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=D0Hvissh1VZqhu4Mby0p4hhKQYNB3blF8VwN1zvb%2FFo%3D&reserved=0",
+   "research_areas": [],
+   "bio": "Dr. Ciszek is a leader in strategic communication research and critical theories. Her research, teaching and service are closely tied to commitments of advocacy and mobilization in public relations and strategic communication. Before launching her academic career, Ciszek worked in advertising and public relations. Additionally, she has worked in strategic analytics, market research and contributed to community media. As someone with professional experience in strategic communication working with nonprofits and Fortune 500 companies, Ciszek recognized the importance of work with demographic depth and epistemic plurality in the fields of public relations and advertising. Through her research and teaching, Ciszek is committed to making a space for voices and perspectives that have historically been written out of research and practice. Ciszek’s research engages in theoretically and empirically rigorous work, engaging with hard-to-reach populations and hard-to-study publics, publics that are historically marginalized and vulnerable and difficult to represent. Her topical expertise includes: Strategic Communication; Public Relations; Prosocial Communication; Public Interest Communication; Advocacy and Activism; Health Communication; Historically marginalized and minority populations. Her methodological expertise includes: qualitative research and mixed methods.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Isabella Cunningham",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/isabella-cunningham",
+   "personal_url": null,
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/cunningham.jpg?itok=btDwvLQt",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Ernest A. Sharpe Centennial Professor in Communication Dr. Cunningham holds J.D. and M.B.A. degrees from universities in Brazil, and an M.B.A. and Ph.D. in Marketing from Michigan State University. She joined the Department of Advertising in 1974, after serving one year as a Visiting Assistant Professor in the Department of Marketing and two years at St. Edward's University as an Assistant Professor of Marketing and Acting Dean. Her publications include eight books, along with articles that have appeared in Journal of Marketing, Journal of Retailing, Journal of Advertising, Journal of Advertising Research, Journal of Marketing Research, Journal of Business Research, Public Opinion Quarterly, Journalism Quarterly, and Journal of Consumer Research, among others. Dr. Cunningham was Chair of the Department of Advertising from 1978 to 1985. She currently serves on the Board of Trustees or Board of Directors for numerous organizations, and was recently appointed to the Sunset Commission for the State of Texas. Consulting Experience During the early years in my career, I have consulted for several small and medium sized businesses, I am now spending most of my consulting time working as an expert witness in regional and federal cases involving advertising. I have worked with several major firms, and will continue to do so in the near future. In addition, some of my consulting activities will focus on new business ventures and the use of new media for businesses.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Natalie Brown Devlin",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/natalie-brown-devlin",
+   "personal_url": null,
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/brown-devlin.jpg?itok=_5AL8jeA",
+   "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=FuzfpVMAAAAJ&view_op=list_works&sortby=pubdate",
+   "research_areas": [],
+   "bio": "An assistant professor in the Stan Richards School of Advertising and Public Relations, Natalie Brown Devlin researches crisis communication and digital media in the context of sport. Her work examines how social media empowers organizational stakeholders during sports-related crises. She previously worked in digital advertising as a senior analyst of strategic account analytics, where she provided custom analyses and consumer insights to client marketing executives. This fall, Devlin teaches a course on digital metrics in the Texas Media Program.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Directory and profile position field say 'Associate Professor'; biography text (possibly stale) says 'assistant professor'"
+  },
+  {
+   "name": "Minette Drumwright",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/minette-drumwright",
+   "personal_url": null,
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2024-06/2024.05.03.AD_PRHeadshots_078.JPG?itok=d_AfzIb9",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Dr. Drumwright is a professor in the School of Advertising and Public Relations (Moody College of Communication) and the Business, Government & Society Department (courtesy appointment, McCombs School of Business) at the University of Texas at Austin. She also is on the faculty of the Communication and Leadership Degree, a degree that she was instrumental in creating and that she directed for six years. She previously was on the Marketing faculty of the McCombs School of Business at UT Austin. Before joining the UT faculty, she was on the Marketing faculty of the Harvard Business School. Her research and teaching are in the general areas of advertising and marketing. Her work has a particular focus on ethics, leadership, and corporate social responsibility. She won a lifetime achievement award for her research on advertising ethics and social responsibility from the American Academy of Advertising: the Kim Rotzoll Award for Advertising Ethics and Social Responsibility. She is currently engaged in a series of studies on persistent and pervasive unethical behavior and how it can be countered. Her research has been published in a variety of journals including Journal of Marketing , Journal of Advertising , Journal of Public Policy & Marketing , and Journal of Media Ethics .",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Anthony Dudo",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/anthony-dudo",
+   "personal_url": null,
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2024-01/anthony_dudo_feb_2023-15.jpeg?itok=TAdite7L",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Anthony Dudo (Ph.D. University of Wisconsin-Madison) is an associate professor in the School of Advertising & Public Relations and the program director of science communication in the Center for Media Engagement. His research focuses on scientists’ public engagement activities, media representations of science and environmental issues, and the contributions of journalism and entertainment media to public perceptions of science. Dudo's recent work has examined factors influencing scientists’ likelihood to engage in public communication, how scientists identify and prioritize goals for public engagement, and the growing infrastructure of stakeholders that support scientist communicators (e.g., science communication training and fellowship programs, professional scientific societies, science journalists). Dudo has published more than 75 peer-reviewed journal articles, book chapters, and professional reports. He has also co-authored the books, Strategic Science Communication: A Guide to Setting the Right Objectives for More Effective Public Engagement (Johns Hopkins University Press) and Science Communication for Scientists: Linking Strategy with Creativity, Practice, and Respect (Routledge). He has also co-edited the research yearbook, Strategic Communication: New Agendas in Communication (Routledge). His research has been funded by the National Science Foundation (NSF), the American Association for the Advancement of Science (AAAS), the U.S.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Matthew Eastin",
+   "title": "Director, Professor",
+   "rank": "Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/matthew-eastin",
+   "personal_url": null,
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2025-08/2025-04-09-MattEastinEdits-LR-001.jpg?itok=XuMnjns3",
+   "google_scholar_url": "https://scholar.google.com/citations?user=AA9YAwsAAAAJ&hl=en",
+   "research_areas": [],
+   "bio": "Dr. Matthew S. Eastin is the Director of the Stan Richards School of Advertising & Public Relations. He served as the Director of PhD Studies at the Stan Richards School from 2017-2025. In 2021, he founded the Social Engagement and Media Influence (SEMI) Research Group, an innovative platform for mentoring graduate students in media, advertising, and consumer behavior research. As Co-Director (2022-2025) of the Nelson Center for Brand & Demand Analytics, Dr. Eastin has been actively involved in engaging both undergraduate and graduate students in data analytics and research processes. Dr. Eastin is a leading researcher in the fields of advertising and media studies with a focus on social cognitive approaches to consumer behavior, information processing, and emerging technology adoption and engagement. Making significant contributions to various fields, including advertising, consumer behavior, media, information science, psychology, and communication, Dr. Eastin's work addresses critical societal issues such as media consumption and psychological well-being, consumer privacy perceptions, and the impact of immersive technologies like mixed and virtual reality, as well as AI engagement. In addition to his academic focused research, Dr.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lee Ann Kahlor",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/lee-ann-kahlor",
+   "personal_url": null,
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2022-10/IMG_1414-1.jpg?itok=pq4Jbuse",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Health and Environmental Risk Communication"
+   ],
+   "bio": "Research areas: Health and Environmental Risk Communication. Dr. Kahlor teaches large-scale undergraduate courses in advertising psychology and research methods. Her teaching has been recognized with a Moody College Teaching Excellence Award , a University of Texas System Regents Outstanding Teaching Award , The William David Blunk Memorial Professorship , a Services for Students with Disabilities Clock Award , the President’s Associates Teaching Excellence Award , and a Provost's Teaching Fellowship. In addition to undergraduate teaching, Dr. Kahlor is the Ph.D. Student Advisor for the school. Dr. Kahlor is an international expert in health and environmental risk communication with an emphasis on information seeking and avoiding. She has explored information behaviors in contexts ranging from cancer to nanotechnology to carbon capture and storage and has published more than 70 peer-reviewed research articles, book chapters and white papers, and co-edited two books . Her work has appeared in myriad journals including Health Communication , Human Communication Research , Science Communication , Mass Communication and Society , Communication Theory , Environment and Behavior , and Indoor and Built Environment . She is Editor Emeritus of the journal Science Communication . She has contributed to working groups at The National Academies of Sciences, Engineering, and Medicine and served on grant review panels at the National Science Foundation. Dr.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Deena Kemp",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/deena-kemp",
+   "personal_url": null,
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2024-07/DeenaKemp_2023.08.16.AD_PRHeadshots_004%5B49772%5D.jpg?itok=t3Voon5W",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Deena Kemp is an associate professor in the School of Advertising and Public Relations and a faculty affiliate with the Center for Health Communication at UT Austin. She conducts research with the broad aim of informing communication interventions to improve social outcomes. Her research draws on persuasion, emotion, and behavioral economics theories. She is particularly interested in the impact of hard-hitting message strategies, such as the use disgust-evoking images, on decision making in different contexts including health and charity aid communication. Her research has been funded by the National Science Foundation’s Division of Social and Economic Sciences, The Cancer Prevention & Research Institute of Texas, ExxonMobil Research and Engineering Company, and Texas Health and Human Services Commission. In 2022, she was selected as an NIH Diversity Scholar with the National Institute on Drug Abuse. A dominant theme of her research is understanding how communication campaigns can be used to address substance misuse and prevention. Before coming to UT, Dr. Kemp served as the lead research assistant on an NIH/FDA sponsored project examining the impact of cigarette graphic warning labels among low-income populations while completing her doctoral studies in the Department of Communication at Cornell University. Currently, she is a co-PI on a Texas Targeted Opioid Response grant-funded campaign and research program.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Department association on profile: Center for Health Communication; Stan Richards School of Advertising & Public Relations"
+  },
+  {
+   "name": "Yeonsoo Kim",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/yeonsoo-kim",
+   "personal_url": null,
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2025-08/Headshot_Yeonsoo%20Kim.png?itok=6k2_l_xy",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Yeonsoo Kim is an associate professor at the Stan Richards School of Advertising and Public Relations. She previously served as a public relations concentration coordinator at James Madison University and a faculty associate at the Center for Faculty Innovation. Her research focuses on strategic communication, corporate social responsibility (CSR), diversity and inclusion in public relations, corporate social advocacy, reputation management, and crisis/issue management. Dr. Kim’s work has been published in leading public relations and business ethics journals, including the Journal of Public Relations Research , Public Relations Review , Journal of Business Ethics , the Asian Journal of Communication, Corporate Communication: An International Journal , and Public Relations Journal among others. She is the founder and associate editor of the Korean Journal of Communication and serves on the editorial boards of leading journals such as the Journal of Public Relations Research and the Asian Journal of Public Relations . Dr. Kim is also the director of the Strategic Social Responsibility and Communication Lab. Additionally, she has held several international leadership positions within the Korean-American Communication Association (KACA), including President (2023-2025) and Vice President (2021-2023). Dr. Kim's professional experience extends to the public relations industry, where she founded and directed student-run public relations agencies at two prior institutions.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jihye Lee",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/jihye-lee",
+   "personal_url": "https://www.jihye-lee.com/",
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2022-07/Lee_Jihye.jpg?itok=NkQWUms1",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Jihye Lee (Ph.D., Stanford University) is an assistant professor in the Stan Richards School of Advertising and Public Relations at UT Austin. Her research focuses on the intersection of digital technology, class, and equity. She investigates the experience of poverty and its psychological consequences in various communication contexts such as targeted ads, interactions with governments, and digital health services. Her work draws methods from social and computer sciences to explore individuals’ information lives in their everyday environments (e.g., mobile data mining, visual computing, natural language processing, field experiments). Lee’s dissertation research, A tale of two Americas: How rich and poor navigate the digital landscape , received the 2022 Herbert S. Dordick Dissertation Award from the International Communication Association and the Nathan Maccoby Outstanding Dissertation Award from Stanford University. She has published her work in peer-reviewed journals such as The ANNALS of the American Academy of Political and Social Science, Journalism and Mass Communication Quarterly, and Plos One . Lee completed her master’s degree in Communication and bachelor’s degree in Political Science at Seoul National University, South Korea.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Brad Love",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/brad-love",
+   "personal_url": null,
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2024-06/2024.05.03.AD_PRHeadshots_180.jpg?itok=F7saxnRd",
+   "google_scholar_url": "https://scholar.google.com/citations?user=-3A8IOUAAAAJ&hl=en",
+   "research_areas": [],
+   "bio": "His primary research interests include investigating the persuasive capabilities of mass media, particularly as applied to pro-social topics such as public health. This includes examining the social and psychological elements necessary for persuasion and the influence that digital media can have on the process. Love's research has appeared in Journalism and Mass Communication Quarterly, the Journal of Computer-Mediated Communication, the Journal of Postgraduate Medicine, and Disease Management and Health Outcomes. In addition to working in journalism and concert promotions, Love has also taught several courses at the University of Florida and Michigan State University, where he was recognized with a campus-wide teaching award.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Michael Mackert",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/michael-mackert",
+   "personal_url": null,
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/MichaelMackert.jpg?itok=1wbKtykS",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Michael Mackert, Ph.D., is the Director of The University of Texas at Austin Center for Health Communication and Professor in the School of Advertising & Public Relations and Department of Population Health. His research focuses primarily on the strategies that can be used in traditional and new digital media to provide effective health communication to audiences with low health literacy. He leads projects on a variety of public health issues – including tobacco cessation, opioid overdose prevention, and men's role in prenatal health – that generate evidence-based health communication strategies and contribute to health communication scholarship.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Jeeyun Oh",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/jeeyun-oh",
+   "personal_url": null,
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/oh.jpg?itok=kX775PlS",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Jeeyun Oh is an associate professor in the Stan Richards School of Advertising and Public Relations at UT Austin. She received her Ph.D. in mass communications from The Pennsylvania State University. Her research focuses on how new media interfaces, affordances, and algorithms influence users’ cognitive and emotional processing of persuasive messages. Her experimental research has explored the potential of interactive media technologies to enhance user engagement and persuasion, by extending theories in social psychology, media effects, health/environmental communication, and human-computer interaction. Her work has been published in various journals across different disciplines, including the Journal of Communication, Human Communication Research, Communication Research, New Media & Society, Journalism & Mass Communication Quarterly, Science Communication, Health Communication, Psychology & Marketing, and Computers in Human Behaviors. She is a member of the editorial review board of Journal of Advertising.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kate Pounders",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/kate-pounders",
+   "personal_url": "https://scholar.google.com/citations?user=Rw1-nS0AAAAJ&hl=en",
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2023-01/pounders-hs.png?itok=F8LdgwwO",
+   "google_scholar_url": "https://scholar.google.com/citations?user=Rw1-nS0AAAAJ&hl=en",
+   "research_areas": [],
+   "bio": "Dr. Kate Pounders is a consumer behavior and advertising scholar whose research focuses on prosocial advertising and consumer well-being. Drawing on theories of persuasion, emotion, identity, and motivation, she examines how advertising can influence consumer attitudes, self-perceptions, and behaviors in ways that benefit both individuals and society. Her research spans sustainability, charitable giving, cause-related marketing, health, gender and identity, and artificial intelligence in advertising. She has been published in top journals in the field, including the J ournal of Marketing , the Journal of Academy of Marketing Science, J ournal of Advertising , Journal of Business Research , Journal of Advertising Research , International Journal of Advertising , Journal of Current Issues and Research in Advertising , Psychology & Marketing , Journal of Health Communication , the Journal of Health Psychology, among others. Dr. Pounders teaches Advertising Law & Ethics, and both the undergraduate and graduate courses on consumer behavior.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Natalie Tindall",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/natalie-tindall",
+   "personal_url": null,
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2021-08/Tindall_Natalie.jpg?itok=nz1ntONZ",
+   "google_scholar_url": "https://scholar.google.com/citations?user=sB-CM-cAAAAJ",
+   "research_areas": [],
+   "bio": "Natalie T. J. Tindall, Ph.D., APR, is the Director of the Communication and Leadership degree program at The University of Texas at Austin. Her research focuses on public relations, stewardship, participatory culture, and communities. She has authored book chapters and online publications along with peer-reviewed journal articles published in the Journal of Public Relations Research , Public Relations Review , Public Relations Journal , Howard Journal of Communications , PRism , and the International Journal of Strategic Communication . She is the co-editor of three books on public relations.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Department association on profile: Communication & Leadership; Stan Richards School of Advertising & Public Relations"
+  },
+  {
+   "name": "Laurent Wang",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/laurent-wang",
+   "personal_url": null,
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2026-08/LaurantWang%20headshot_for%20web.png?itok=sBT8QfLk",
+   "google_scholar_url": null,
+   "research_areas": [],
+   "bio": "Laurent Wang is an assistant professor in the Stan Richards School of Advertising and Public Relations of the Moody College of Communication. His research focuses on the social and psychological uses and effects of information communication technologies (e.g., social media, AI), with particular emphasis on how people negotiate online privacy decisions and navigate digital inequality challenges. He has published in leading journals in his field, such as Communication Research, Journal of Computer-Mediated Communication, Journal of Advertising, Communication Monographs and New Media & Society. His research activities have been supported by various funding sources, such as the National Science Foundation and the Washington Media Scholars Foundation. He has also received prestigious research awards at UC Santa Barbara, such as the James J. Bradac Award and the Steven H. Chaffee Award for Excellence in Research. His current research investigates the effectiveness of message-based interventions designed to evoke human resistance to dataveillance and to combat feelings of privacy helplessness in algorithm-driven digital contexts.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Gary Wilcox",
+   "title": "John A. Beck Centennial Professor",
+   "rank": "Professor",
+   "department": "Stan Richards School of Advertising and Public Relations",
+   "profile_url": "https://advertising.utexas.edu/faculty/gary-wilcox",
+   "personal_url": null,
+   "photo_url": "https://advertising.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2026-02/gbw.jpg?itok=qqIddA92",
+   "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=qq33_0sAAAAJ&view_op=list_works&sortby=pubdate",
+   "research_areas": [],
+   "bio": "Gary Wilcox is a media and marketing scholar, currently the John A. Beck Centennial Professor in Communication in the Stan Richards School of Advertising & Public Relations. Dr. Wilcox is a globally-recognized expert on social media , alcohol advertising research, and branding . His opinions and work have been featured in media as INC.com , Salon , The Washington Post , CBS News , The New York Times , Los Angeles Times , U.S. News and World Report , KUT public radio and AdWeek , among others. Dr. Wilcox holds a Ph.D. from Michigan State University and two degrees from UT Austin. His most recent interests include unstructured data analysis , mix media modelling and advertising's effects on alcohol products and brands . Dr. Wilcox has been featured on The Academic Minute discussing his alcohol advertising research and most recently on the College Knowledge podcast #115 entitled “Insights in Advertising & the Evolving Marketing Landscape”. His publications include one book, several book chapters, and articles that have appeared in the International Journal of Advertising, Journal of Advertising Research, Journal of Advertising, Journal of Digital and Social Media Marketing, Journal of Research in Interactive Marketing, Journal of Interactive Advertising, Tobacco Control, Computers in Human Behavior, American Journal of Infection Control among others. Professional Interests Dr. Wilcox served as Chair of the Department of Advertising from 1990 until 1998.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Department association on profile: Center for Health Communication; Nelson Center; Stan Richards School of Advertising & Public Relations"
+  },
+  {
+   "name": "Mary Beltrán",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Radio-Television-Film",
+   "profile_url": "https://rtf.utexas.edu/faculty/mary-beltran",
+   "personal_url": null,
+   "photo_url": "https://rtf.utexas.edu/sites/default/files/styles/faculty_bio_image/public/faculty-rtf-beltran.jpg?itok=lpL680TY",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Studies",
+    "Identity and Representation",
+    "Industry/History/Criticism",
+    "Media/Technology/Social Change"
+   ],
+   "bio": "Research areas: Media Studies; Identity and Representation; Industry/History/Criticism; Media/Technology/Social Change. Mary Beltrán is a Professor of Radio-Television-Film and a faculty affiliate of the departments of Mexican American and Latina/o Studies and Women’s, Gender and Sexuality Studies. She writes and teaches on U.S. Latina and Latinx representation and media making, diversity and inclusion in the U.S. television and film industries, and mixed race representation and ethnic ambiguity in U.S. media culture. Her research, driven by questions regarding self-representation, cultural citizenship, and social hierarchies, is located at the junctures of television and film studies, Latina/o and critical race studies, and gender and sexuality studies. Dr. Beltrán’s scholarship has explored such topics as the evolution of Latina/o film and television production and stardom since the 1920s, the implications of the media industries’ inclusion of mixed-race actors and characters since the 1990s, and strategies on the part of television networks and streaming outlets to appeal to more diverse audiences. Dr. Beltrán’s most recent book is Latino TV: A History (NYU Press, 2022). Latino TV provides a pioneering exploration of key moments in the evolution of Latina and Latino narratives and authorship in U.S. English-language television, with a focus on Latina/o writers and creators in recent decades.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Charles Ramírez Berg",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Radio-Television-Film",
+   "profile_url": "https://rtf.utexas.edu/faculty/charles-ramirez-berg",
+   "personal_url": null,
+   "photo_url": "https://rtf.utexas.edu/sites/default/files/styles/faculty_bio_image/public/faculty-rtf-ramirez_berg.jpg?itok=HKwBANfb",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Studies",
+    "Identity and Representation",
+    "Industry/History/Criticism"
+   ],
+   "bio": "Research areas: Media Studies; Identity and Representation; Industry/History/Criticism. Joe M. Dealey, Sr. Professor in Media Studies, University Distinguished Teaching Professor Charles Ramírez Berg is the author of Latino Images in Film: Stereotypes, Subversion, and Resistance (Austin: U. of Texas Press, 2002) as well as Cinema of Solitude: A Critical Study of Mexican Film, 1967-1983 and Posters from the Golden Age of Mexican Cinema (Mexico City: The Mexican Film Institute and the U. of Guadalajara Press), reprinted as Cine Mexicano: Posters from the Golden Age, 1936-1956 (San Francisco: Chronicle Books, 2001). His latest book, The Classical Mexican Cinema: The Poetics of the Exceptional Golden Age Films (2015, University of Texas Press), was the Grand Prize winner of the 2016 University Co-Op Robert W. Hamilton Book Awards and was named an Outstanding Academic Title by the American Library Association. In addition, he has written many articles and book chapters on Latinos in U.S. films, film history and narratology, Mexican cinema, as well as entries for the World Film Encyclopedia , The International Dictionary of Films and Filmmakers , and The Oxford Encyclopedia of Latinos and Latinas in the United States. He has also consulted on several documentaries on Latinos in film, been interviewed for several others, and authored essays for three Criterion DVDs.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Byron Fong",
+   "title": "Assistant Professor",
+   "rank": "Assistant Professor",
+   "department": "Department of Radio-Television-Film",
+   "profile_url": "https://rtf.utexas.edu/faculty/byron-fong",
+   "personal_url": null,
+   "photo_url": "https://rtf.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2025-09/byron%20fong.jpg?itok=7bPGl1L3",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Studies"
+   ],
+   "bio": "Research areas: Media Studies. Byron Fong is an Assistant Professor in the Department of Radio-Television-Film. His research examines the global history of computer technologies and their impact on cultures of labor and media. His current book project, Kinetic Control: Interactive Movement in Video Game Aesthetics , historicizes video game aesthetics from 1985 to 1994 through the lens of technology, animation, and industry. He also has experience in museum exhibition design and archival collection assessment.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Kathryn Fuller-Seeley",
+   "title": "Area Head of Media Studies, Associate Chair, Professor",
+   "rank": "Professor",
+   "department": "Department of Radio-Television-Film",
+   "profile_url": "https://rtf.utexas.edu/faculty/kathryn-fuller-seeley",
+   "personal_url": "http://utexas.academia.edu/KathyFullerSeeley",
+   "photo_url": "https://rtf.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2026-08/Kathy%20headshot%20crop%20a.jpg?itok=q8P1AMe-",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Studies",
+    "Identity and Representation",
+    "Industry/History/Criticism"
+   ],
+   "bio": "Research areas: Media Studies; Identity and Representation; Industry/History/Criticism. William P. Hobby Centennial Professor of Communication Professor Kathy Fuller-Seeley’s research specialization focuses on American film, radio and television history and audience reception studies. Fuller-Seeley’s most recent book, The First Movie Studio in Texas: Gaston Méliès’ Star Film Ranch, (University of Texas Press, 2026) co-authored with Frank Thompson, rediscovers the pioneering filmmakers who produced early cowboy comedies and dramas in San Antonio. She is co-producer of Francis Ford, The Craving, plus Three Shorts, Blu-ray/DVD of restored rare silent films 1911-1919 created by the mysterious older brother of director John Ford. The disk includes her documentary, Francis Ford, Film Pioneer, (Undercrank Productions, 2024) Fuller-Seeley’s book, Jack Benny and the Golden Age of American Radio Comedy, (University of California Press 2017), is an examination of the career of entertainer Jack Benny in the context of rapidly changing media industry and cultural norms in the 1930s, 1940s and early 1950s.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Lalitha Gopalan",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Radio-Television-Film",
+   "profile_url": "https://rtf.utexas.edu/faculty/lalitha-gopalan",
+   "personal_url": null,
+   "photo_url": "https://rtf.utexas.edu/sites/default/files/styles/faculty_bio_image/public/Gopalan%206%20Exposure_Square.jpg?itok=9E2RHH5T",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Studies",
+    "Indian cinemas",
+    "World Cinemas",
+    "Film Theory",
+    "Feminist Film Theory",
+    "Experimental Film",
+    "Video Art",
+    "Moving Image Practices"
+   ],
+   "bio": "Research areas: Media Studies; Indian cinemas; World Cinemas; Film Theory; Feminist Film Theory; Experimental Film; Video Art; Moving Image Practices. Lalitha Gopalan is an associate professor in the Department of Radio-Television-Film and affiliate faculty in the Department of Asian Studies and South Asia Institute. Her research and teaching interests are in the areas of Film Theory, Feminist Film Theory, Contemporary World Cinemas, Indian Cinemas, Genre Films, and Experimental Film and Video. Essays and books written by her include Cinemas Dark and Slow in Digital India (Palgrave Macmillan, 2021; Orient Blackswan 2021) , Cinema of Interruptions: Action Genres in Contemporary Indian Cinema (London: BFI Publishing, 2002) and Bombay (London: BFI Modern Classics, 2005); and the edited volume The Cinema of India (London: Wallflower Press, 2010). Her current book project explores various experimental film and video practices in India. She has published essays in journals including Screen , Journal of Moving Image , Film Quarterly , New Cinemas: Journal of Contemporary Film , and many landmark anthologies. She has been a recipient of several grants including Senior Fellowship from the Polish Institute of Advanced Study in Warsaw, Provost’s Author’s Fellowship from the University of Texas at Austin, Tagore Fellowship from the Ministry of Culture, Government of India; Senior Long-Term Fellowship, American Institute of Indian Studies; and Fulbright Hays-Nehru Fellowship.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Noah Isenberg",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Radio-Television-Film",
+   "profile_url": "https://rtf.utexas.edu/faculty/noah-isenberg",
+   "personal_url": "http://www.noahisenberg.com",
+   "photo_url": "https://rtf.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2022-09/AcademyMuseum_Noah2.png?itok=3C02cMLY",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Studies",
+    "Industry/History/Criticism",
+    "Identity and Representation",
+    "Classical Hollywood",
+    "Independent Cinema",
+    "Weimar Cinema",
+    "Émigrés in Hollywood"
+   ],
+   "bio": "Research areas: Media Studies; Industry/History/Criticism; Identity and Representation; Classical Hollywood; Independent Cinema; Weimar Cinema; Émigrés in Hollywood. Charles Sapp Centennial Professor Executive Director, UTLA (Los Angeles) and UTNY (New York City) Noah Isenberg is the Charles Sapp Centennial Professor of Radio-Television-Film. The former Chair of RTF (2019-2023), he currently serves as Executive Director of the university’s two study-away centers UTLA (Los Angeles) and UTNY (New York City), where he is based. He is the author of the Los Angeles Times bestseller We’ll Always Have ‘Casablanca’: The Life, Legend, and Afterlife of Hollywood’s Most Beloved Movie (W. W. Norton, 2017), named an Editor’s Choice by the New York Times Book Review and selected as a Best Summer Book of 2017 by the Financial Times and a Best Film Book of 2017 by the Scotland Herald . In the meantime, British (Faber & Faber), Hungarian (Európa), Russian (Dedinsky), and Iranian (Ashtian) editions have been published. His other books include: Edgar G. Ulmer: A Filmmaker at the Margins (California, 2014), which the New York Times hailed as “a page turner of a biography” and Huffington Post selected for its Best Film Books of 2014; Detour (British Film Institute, 2008), a book-length study of Ulmer’s acclaimed low-budget film noir; and, as editor, Weimar Cinema: An Essential Guide to Classic Films of the Era ( Columbia, 2009), which was selected as a Choice Outstanding Academic Title.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": "Department association on profile: UTNY; Department of Radio-Television-Film"
+  },
+  {
+   "name": "Shanti Kumar",
+   "title": "Associate Professor, Graduate Advisor for Media Studies",
+   "rank": "Associate Professor",
+   "department": "Department of Radio-Television-Film",
+   "profile_url": "https://rtf.utexas.edu/faculty/shanti-kumar",
+   "personal_url": null,
+   "photo_url": "https://rtf.utexas.edu/sites/default/files/styles/faculty_bio_image/public/faculty-rtf-kumar.jpg?itok=J2wgBHqw",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Studies",
+    "Global and International Media",
+    "Identity and Representation",
+    "Industry/History/Criticism"
+   ],
+   "bio": "Research areas: Media Studies; Global and International Media; Identity and Representation; Industry/History/Criticism. Shanti Kumar is an Associate Professor in the Department of Radio-Television-Film and a faculty affiliate in the Department of Asian Studies, the Center for Asian-American Studies and the South Asia Institute at the University of Texas-Austin. Before joining UT in 2006, Prof. Kumar taught at the University of Wisconsin in Madison and the University of North Texas in Denton. He received his B.Sc. degree in Math, Physics and Chemistry from Osmania University, Hyderabad in India in 1987. He received a B.A. in Communication and Journalism in 1988, and an M.A. in Communication and Journalism in 1989, also from Osmania University. He received an M.A. in Media Studies from Texas Christian University in 1994, and Ph.D. in Telecommunications from Indiana University-Bloomington in 1998. Prof. Kumar is the author of Gandhi Meets Primetime: Globalization and Nationalism in Indian Television (University of Illinois Press, 2006), and co-editor of Planet TV: A Global Television Reader (NYU Press, 2003), Television at Large in South Asia (Routledge, 2012) and Global Communication: New Agendas in Communication (Routledge, 2013).",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Madhavi Mallapragada",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Radio-Television-Film",
+   "profile_url": "https://rtf.utexas.edu/faculty/madhavi-mallapragada",
+   "personal_url": null,
+   "photo_url": "https://rtf.utexas.edu/sites/default/files/styles/faculty_bio_image/public/mallapragada-m.jpg?itok=aMpy7ksr",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Studies"
+   ],
+   "bio": "Research areas: Media Studies. Madhavi Mallapragada is associate professor in the Department of Radio-Television-Film, the College of Communication, at the University of Texas at Austin. She is also a faculty affiliate of UT's Center for Asian American Studies (CAAS), South Asia Institute (SAI) and the Department of Asian Studies. Dr. Mallapragada's research and teaching interests lie at the intersections of cultural studies of race and ethnicity in media, Asian Americans in/and media, online cultures, immigration and transnationalism, and media industries. Her first book, Virtual Homelands, Indian Immigrants and Online Cultures in the United States (2014) examined the role and politics of the Web in recasting notions of Indian-American identity and cultural citizenship since the late 1990s. Her current book project titled, Race and Ethnicity in US Media Industries, focuses on the issues of race, diversity, and multiculturalism in the context of US media industries since the 1990s. Her work has been published in journals such as the Journal of Cinema and Media Studies ; Communication, Culture and Critique ; Television and New Media ; New Media and Society ; South Asian Popular Culture , and edited anthologies such as Craft of Criticism: Critical Media Studies in Practice , and Global Asian American Popular Cultures , and The Sage Handbook of Web History .",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Alisa Perren",
+   "title": "Professor",
+   "rank": "Professor",
+   "department": "Department of Radio-Television-Film",
+   "profile_url": "https://rtf.utexas.edu/faculty/alisa-perren",
+   "personal_url": "http://www.mediaindustriesjournal.org/",
+   "photo_url": "https://rtf.utexas.edu/sites/default/files/styles/faculty_bio_image/public/2024-01/photo_2024perrencropped.png?itok=Rjgg11jp",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Studies",
+    "Digital Media",
+    "Industry/History/Criticism"
+   ],
+   "bio": "Research areas: Media Studies; Digital Media; Industry/History/Criticism. Alisa Perren is a professor in the UT Austin Department of Radio-Television-Film as well as RTF’s Director of Industry Relations. In this role, she is the point person between the RTF department and entertainment industry professionals. Her research explores how current and aspiring industry professionals in film, TV, and digital media are responding to transformations in both Hollywood and Texas in the streaming era. At the undergraduate level, Dr. Perren teaches courses focused on streaming media, the business of Hollywood, the business of unscripted television, and US television history. At the graduate level, Dr. Perren’s courses cover media industry studies, television studies, streaming media, and qualitative research methods. She is currently completing a co-authored book project for Routledge titled Navigating Work in the Media Industries (forthcoming). In addition, she recently served as Project Lead on a report involving a team of Radio-Television-Film researchers titled Roadmap to the Texas Media Industries: The Passage of the 2025 Film Incentive and Beyond . Dr. Perren continues to examine the Texas media ecosystem past and present, with her ongoing research focused on the economic, cultural, and creative impact of film incentives in Texas specifically and across the United States more broadly. Dr.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  },
+  {
+   "name": "Suzanne Scott",
+   "title": "Associate Professor",
+   "rank": "Associate Professor",
+   "department": "Department of Radio-Television-Film",
+   "profile_url": "https://rtf.utexas.edu/faculty/suzanne-scott",
+   "personal_url": null,
+   "photo_url": "https://rtf.utexas.edu/sites/default/files/styles/faculty_bio_image/public/SuzanneScott_2016headshot_square.jpg?itok=umtjgG_F",
+   "google_scholar_url": null,
+   "research_areas": [
+    "Media Studies",
+    "Digital Media",
+    "Identity and Representation",
+    "Industry/History/Criticism"
+   ],
+   "bio": "Research areas: Media Studies; Digital Media; Identity and Representation; Industry/History/Criticism. Suzanne Scott is an associate professor in the Department of Radio-TV-Film at the University of Texas at Austin. Her research and teaching interests include fan studies, media convergence, digital and participatory culture, social media, transmedia storytelling, comic book culture, and gender studies. She comes to Austin after previously teaching Film and Media Studies in the Department of English at Arizona State University, and serving as a Mellon Digital Scholarship Postdoctoral Fellow in the Center of Digital Learning + Research at Occidental College. She has taught undergraduate and graduate courses at UC Santa Cruz, UCLA, and the University of Southern California. Dr. Scott’s scholarly monograph, Fake Geek Girls: Fandom, Gender, and the Convergence Culture Industry (NYU Press, 2019), considers the gendered tensions underpinning the media industry’s embrace of fans as demographic tastemakers, professionals, and promotional partners within convergence culture. Surveying the politics of participation within digitally mediated fan cultures, this project addresses the \"mainstreaming\" of fan and geek culture over the past decade, how media industries have privileged an androcentric conception of the fan, and the marginalizing effect this has had on female fans.",
+   "sources": [
+    "department_profile"
+   ],
+   "notes": null
+  }
+ ]
+}
